@@ -2,7 +2,7 @@
     "id": "45486",
     "ident": "MY93",
     "type": "seaplane_base",
-    "name": "North Air Seaplane Base",
+    "name": "Johnston Seaplane Base",
     "latitude_deg": "46.610833",
     "longitude_deg": "-95.704444",
     "elevation_ft": "1370",
@@ -16,7 +16,7 @@
     "local_code": "MY93",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "North Air",
     "runways": [
         {
             "id": "264143",

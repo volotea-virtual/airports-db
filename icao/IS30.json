@@ -2,9 +2,9 @@
     "id": "18193",
     "ident": "IS30",
     "type": "heliport",
-    "name": "St James Hospital and Health Center Heliport",
-    "latitude_deg": "41.52360153198242",
-    "longitude_deg": "-87.70970153808594",
+    "name": "Franciscan Health - Olympia Fields Heliport",
+    "latitude_deg": "41.523636",
+    "longitude_deg": "-87.709705",
     "elevation_ft": "718",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "IS30",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "St James Hospital and Health Center",
     "runways": [
         {
             "id": "267760",
