@@ -6,7 +6,7 @@
     "scripts": {
         "build": "rm -rf ./icao && mkdir ./icao && node build"
     },
-    "repository": "https://github.com/epranka/airports-db.git",
+    "repository": "https://github.com/Haugaland-Flyklubb/airports-db.git",
     "author": "Haugaland Flyklubb, based on project by Edvinas Pranka (https://twitter.com/epranka)",
     "license": "MIT",
     "private": true,
