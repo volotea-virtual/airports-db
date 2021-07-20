@@ -1,7 +1,7 @@
 {
     "id": "2578",
     "ident": "ENGM",
-    "type": "large_airport",
+    "type": "small_airport",
     "name": "Oslo Gardermoen Airport",
     "latitude_deg": "60.193901062012",
     "longitude_deg": "11.100399971008",
