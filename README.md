@@ -27,7 +27,7 @@ So, to get the information about the airport use the following url:
 For example
 
 ```bash
-  curl https://raw.githubusercontent.com/Haugaland-Flyklubb/airports-db/master/icao/KJFK.json
+  curl https://raw.githubusercontent.com/Haugaland-Flyklubb/airports-db/master/icao/ENHD.json
 ```
 
 If airport is not found, the 404 status code is returned.
