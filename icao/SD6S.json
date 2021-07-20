@@ -1,0 +1,38 @@
+{
+    "id": "344661",
+    "ident": "SD6S",
+    "type": "small_airport",
+    "name": "Fazenda Torre III Airsrtip",
+    "latitude_deg": "-16.855913",
+    "longitude_deg": "-53.601046",
+    "elevation_ft": "2615",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MT",
+    "municipality": "Alto Garças",
+    "scheduled_service": "no",
+    "gps_code": "SD6S",
+    "iata_code": "",
+    "local_code": "MT0569",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian"
+    },
+    "region": {
+        "id": "303211",
+        "code": "BR-MT",
+        "local_code": "MT",
+        "name": "Mato Grosso",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mato_Grosso",
+        "keywords": ""
+    }
+}

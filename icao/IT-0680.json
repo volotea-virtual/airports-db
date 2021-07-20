@@ -1,0 +1,38 @@
+{
+    "id": "345412",
+    "ident": "IT-0680",
+    "type": "closed",
+    "name": "Airbase Pantanella",
+    "latitude_deg": "41.136989",
+    "longitude_deg": "15.920187",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-75",
+    "municipality": "Canosa di Puglia",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "https://www.forgottenairfields.com/airfield-pantanella-580.html",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Foggia_Airfield_Complex",
+    "keywords": "",
+    "country": {
+        "id": "302697",
+        "code": "IT",
+        "name": "Italy",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Italy",
+        "keywords": "Aeroporti d'Italia"
+    },
+    "region": {
+        "id": "306371",
+        "code": "IT-75",
+        "local_code": "75",
+        "name": "Apulia",
+        "continent": "EU",
+        "iso_country": "IT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Apulia",
+        "keywords": "PU"
+    }
+}

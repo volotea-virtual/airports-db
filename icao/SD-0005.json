@@ -1,0 +1,38 @@
+{
+    "id": "343526",
+    "ident": "SD-0005",
+    "type": "small_airport",
+    "name": "Abu Hamad Airport",
+    "latitude_deg": "19.60021",
+    "longitude_deg": "33.32162",
+    "elevation_ft": "1097",
+    "continent": "AF",
+    "iso_country": "SD",
+    "iso_region": "SD-04",
+    "municipality": "Abu Hamad",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302597",
+        "code": "SD",
+        "name": "Sudan",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sudan",
+        "keywords": "مطارات السودان"
+    },
+    "region": {
+        "id": "305387",
+        "code": "SD-04",
+        "local_code": "04",
+        "name": "River Nile State",
+        "continent": "AF",
+        "iso_country": "SD",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/River_Nile_State",
+        "keywords": ""
+    }
+}

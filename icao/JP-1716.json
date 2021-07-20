@@ -1,0 +1,38 @@
+{
+    "id": "343480",
+    "ident": "JP-1716",
+    "type": "small_airport",
+    "name": "Atsuma Sky Park",
+    "latitude_deg": "42.64362",
+    "longitude_deg": "141.87865",
+    "elevation_ft": "3",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-01",
+    "municipality": "Atsuma",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302639",
+        "code": "JP",
+        "name": "Japan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Japan",
+        "keywords": "Nippon, 日本の空港"
+    },
+    "region": {
+        "id": "304286",
+        "code": "JP-01",
+        "local_code": "01",
+        "name": "Hokkaidō Prefecture",
+        "continent": "AS",
+        "iso_country": "JP",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hokkaido",
+        "keywords": "Hokkaido"
+    }
+}

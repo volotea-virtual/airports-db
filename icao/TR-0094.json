@@ -1,0 +1,38 @@
+{
+    "id": "346390",
+    "ident": "TR-0094",
+    "type": "heliport",
+    "name": "Bozyazı Orman Deposu Helikopter Pisti",
+    "latitude_deg": "36.093271",
+    "longitude_deg": "32.934434",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "TR",
+    "iso_region": "TR-U-A",
+    "municipality": "Mersin",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "bozyazı, ogm, helikopter, forestry, fire",
+    "country": {
+        "id": "302667",
+        "code": "TR",
+        "name": "Turkey",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Turkey",
+        "keywords": "Türkiye havaalanları"
+    },
+    "region": {
+        "id": "305917",
+        "code": "TR-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "AS",
+        "iso_country": "TR",
+        "wikipedia_link": "",
+        "keywords": ""
+    }
+}

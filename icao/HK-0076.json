@@ -1,0 +1,38 @@
+{
+    "id": "344088",
+    "ident": "HK-0076",
+    "type": "heliport",
+    "name": "Northwest Tsing Yi Interchange Helipad",
+    "latitude_deg": "22.35282",
+    "longitude_deg": "114.08419",
+    "elevation_ft": "184",
+    "continent": "AS",
+    "iso_country": "HK",
+    "iso_region": "HK-U-A",
+    "municipality": "Kwai Tsing, New Territories",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302631",
+        "code": "HK",
+        "name": "Hong Kong",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hong_Kong",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304005",
+        "code": "HK-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "AS",
+        "iso_country": "HK",
+        "wikipedia_link": "",
+        "keywords": ""
+    }
+}

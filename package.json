@@ -7,10 +7,10 @@
         "build": "rm -rf ./icao && mkdir ./icao && node build"
     },
     "repository": "https://github.com/epranka/airports-db.git",
-    "author": "Edvinas Pranka (https://twitter.com/epranka)",
+    "author": "Haugaland Flyklubb, based on project by Edvinas Pranka (https://twitter.com/epranka)",
     "license": "MIT",
     "private": true,
     "dependencies": {
-        "csv-parser": "^2.3.2"
+        "csv-parser": "^3.0.0"
     }
 }

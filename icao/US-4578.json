@@ -1,0 +1,62 @@
+{
+    "id": "345832",
+    "ident": "US-4578",
+    "type": "small_airport",
+    "name": "Naked Acres Airport",
+    "latitude_deg": "42.986556",
+    "longitude_deg": "-77.650949",
+    "elevation_ft": "686",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NY",
+    "municipality": "Rochester",
+    "scheduled_service": "no",
+    "gps_code": "NY78",
+    "iata_code": "",
+    "local_code": "NY78",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "345833",
+            "airport_ref": "345832",
+            "airport_ident": "US-4578",
+            "length_ft": "1444",
+            "width_ft": "75",
+            "surface": "Turf",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "4",
+            "le_latitude_deg": "42.9847",
+            "le_longitude_deg": "-97.6518",
+            "le_elevation_ft": "675",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "42.9883",
+            "he_longitude_deg": "-97.6497",
+            "he_elevation_ft": "686",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306110",
+        "code": "US-NY",
+        "local_code": "NY",
+        "name": "New York",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_York",
+        "keywords": ""
+    }
+}

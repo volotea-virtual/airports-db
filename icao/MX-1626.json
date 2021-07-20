@@ -1,0 +1,38 @@
+{
+    "id": "345254",
+    "ident": "MX-1626",
+    "type": "closed",
+    "name": "Comales Airport",
+    "latitude_deg": "26.1832",
+    "longitude_deg": "-98.90707",
+    "elevation_ft": "233",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-U-A",
+    "municipality": "Camargo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302747",
+        "code": "MX",
+        "name": "Mexico",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
+        "keywords": "Aeropuertos de México"
+    },
+    "region": {
+        "id": "304819",
+        "code": "MX-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "NA",
+        "iso_country": "MX",
+        "wikipedia_link": "",
+        "keywords": ""
+    }
+}

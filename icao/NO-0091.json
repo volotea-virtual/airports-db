@@ -1,0 +1,38 @@
+{
+    "id": "344170",
+    "ident": "NO-0091",
+    "type": "small_airport",
+    "name": "Hjerkinn flyplass",
+    "latitude_deg": "62.19536",
+    "longitude_deg": "9.63733",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "NO",
+    "iso_region": "NO-04",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://no.wikipedia.org/wiki/Hjerkinn_flyplass",
+    "keywords": "Hjerkinnsholen",
+    "country": {
+        "id": "302709",
+        "code": "NO",
+        "name": "Norway",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Norway",
+        "keywords": "Flyplasser i Norge"
+    },
+    "region": {
+        "id": "304948",
+        "code": "NO-04",
+        "local_code": "04",
+        "name": "Hedmark",
+        "continent": "EU",
+        "iso_country": "NO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hedmark",
+        "keywords": ""
+    }
+}

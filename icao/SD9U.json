@@ -1,0 +1,38 @@
+{
+    "id": "346128",
+    "ident": "SD9U",
+    "type": "heliport",
+    "name": "Copobras Heliport",
+    "latitude_deg": "-28.32109",
+    "longitude_deg": "-49.183999",
+    "elevation_ft": "167",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-SC",
+    "municipality": "São Ludgero",
+    "scheduled_service": "no",
+    "gps_code": "SD9U",
+    "iata_code": "",
+    "local_code": "SC0195",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian"
+    },
+    "region": {
+        "id": "303222",
+        "code": "BR-SC",
+        "local_code": "SC",
+        "name": "Santa Catarina",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Catarina",
+        "keywords": ""
+    }
+}

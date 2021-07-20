@@ -1,0 +1,38 @@
+{
+    "id": "345550",
+    "ident": "05MI",
+    "type": "heliport",
+    "name": "Oakwood Heritage Hospital Heliport",
+    "latitude_deg": "42.236433",
+    "longitude_deg": "-83.276421",
+    "elevation_ft": "621",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MI",
+    "municipality": "Taylor",
+    "scheduled_service": "no",
+    "gps_code": "05MI",
+    "iata_code": "",
+    "local_code": "05MI",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306098",
+        "code": "US-MI",
+        "local_code": "MI",
+        "name": "Michigan",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Michigan",
+        "keywords": ""
+    }
+}

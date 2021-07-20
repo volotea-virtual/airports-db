@@ -1,0 +1,38 @@
+{
+    "id": "345619",
+    "ident": "LHBI",
+    "type": "small_airport",
+    "name": "Biharkeresztes",
+    "latitude_deg": "47.137425",
+    "longitude_deg": "21.675425",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "HU",
+    "iso_region": "HU-HB",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "LHBI",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302693",
+        "code": "HU",
+        "name": "Hungary",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hungary",
+        "keywords": "Repülőterek Magyarország"
+    },
+    "region": {
+        "id": "304068",
+        "code": "HU-HB",
+        "local_code": "HB",
+        "name": "Hajdu-Bihar",
+        "continent": "EU",
+        "iso_country": "HU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hajdu-Bihar",
+        "keywords": ""
+    }
+}

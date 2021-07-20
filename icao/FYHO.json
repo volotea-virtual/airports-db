@@ -1,0 +1,38 @@
+{
+    "id": "345677",
+    "ident": "FYHO",
+    "type": "small_airport",
+    "name": "Hoanib Airstrip",
+    "latitude_deg": "-19.3864",
+    "longitude_deg": "13.1327",
+    "elevation_ft": "936",
+    "continent": "AF",
+    "iso_country": "NA",
+    "iso_region": "NA-U-A",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "FYHO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302591",
+        "code": "NA",
+        "name": "Namibia",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Namibia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304864",
+        "code": "NA-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "AF",
+        "iso_country": "NA",
+        "wikipedia_link": "",
+        "keywords": ""
+    }
+}

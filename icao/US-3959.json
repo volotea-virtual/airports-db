@@ -1,0 +1,38 @@
+{
+    "id": "344208",
+    "ident": "US-3959",
+    "type": "closed",
+    "name": "Sky Lodge Landing Strip",
+    "latitude_deg": "45.657803",
+    "longitude_deg": "-70.263319",
+    "elevation_ft": "1358",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-ME",
+    "municipality": "Moose River",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306097",
+        "code": "US-ME",
+        "local_code": "ME",
+        "name": "Maine",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Maine",
+        "keywords": ""
+    }
+}

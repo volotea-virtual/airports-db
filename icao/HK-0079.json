@@ -1,0 +1,38 @@
+{
+    "id": "345122",
+    "ident": "HK-0079",
+    "type": "closed",
+    "name": "Kai Tak Hong Kong Flying Club Heliport",
+    "latitude_deg": "22.32463",
+    "longitude_deg": "114.19064",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "HK",
+    "iso_region": "HK-U-A",
+    "municipality": "Kowloon City, Kowloon",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302631",
+        "code": "HK",
+        "name": "Hong Kong",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hong_Kong",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304005",
+        "code": "HK-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "AS",
+        "iso_country": "HK",
+        "wikipedia_link": "",
+        "keywords": ""
+    }
+}

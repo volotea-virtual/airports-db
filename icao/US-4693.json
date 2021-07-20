@@ -1,0 +1,38 @@
+{
+    "id": "346073",
+    "ident": "US-4693",
+    "type": "small_airport",
+    "name": "Wild Creek Airport",
+    "latitude_deg": "37.82798",
+    "longitude_deg": "-118.13084",
+    "elevation_ft": "5315",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NV",
+    "municipality": "Dyer",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "America"
+    },
+    "region": {
+        "id": "306109",
+        "code": "US-NV",
+        "local_code": "NV",
+        "name": "Nevada",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nevada",
+        "keywords": ""
+    }
+}

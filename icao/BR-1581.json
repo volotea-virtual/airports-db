@@ -1,0 +1,38 @@
+{
+    "id": "345551",
+    "ident": "BR-1581",
+    "type": "small_airport",
+    "name": "Fazenda Vale do Kafroun Airport",
+    "latitude_deg": "-6.225055",
+    "longitude_deg": "-46.230843",
+    "elevation_ft": "981",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MA",
+    "municipality": "Grajaú",
+    "scheduled_service": "no",
+    "gps_code": "SD92",
+    "iata_code": "",
+    "local_code": "MA0122",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian"
+    },
+    "region": {
+        "id": "303208",
+        "code": "BR-MA",
+        "local_code": "MA",
+        "name": "Maranhão",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Maranhão",
+        "keywords": ""
+    }
+}

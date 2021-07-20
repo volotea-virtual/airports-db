@@ -1,0 +1,38 @@
+{
+    "id": "345911",
+    "ident": "NA-0177",
+    "type": "small_airport",
+    "name": "Desert Rhino Camp Airstrip",
+    "latitude_deg": "-20.036661",
+    "longitude_deg": "13.844147",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "NA",
+    "iso_region": "NA-U-A",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302591",
+        "code": "NA",
+        "name": "Namibia",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Namibia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304864",
+        "code": "NA-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "AF",
+        "iso_country": "NA",
+        "wikipedia_link": "",
+        "keywords": ""
+    }
+}
