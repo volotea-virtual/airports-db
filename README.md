@@ -4,10 +4,19 @@ GitHub based API service
 
 [![DB Update](https://github.com/Haugaland-Flyklubb/airports-db/actions/workflows/db-update.yml/badge.svg?branch=main)](https://github.com/Haugaland-Flyklubb/airports-db/actions/workflows/db-update.yml)
 
-This is a JSON database of airports which contains about 65k airports with their runways, communication frequencies, navaids, countries, and regions information. The database is not 100% accurate and can have older data, so do not use it for a real flight or very sensitive applications. It works well to get basic information about the airport.
+This is a JSON database of airports with their runways, communication frequencies, navaids, countries, and regions information. The database is not 100% accurate and can have older data, so do not use it for a real flight or very sensitive applications. It works well to get basic information about the airport.
 
 Data is based on [ourairports.com](https://ourairports.com/) database. You can download the raw CSV files from [raw](https://github.com/Haugaland-Flyklubb/airports-db/tree/main/raw) directory.
 The repository will be updated automatically every day at 7:00 UTC. You can get the latest CSV files here: [https://ourairports.com/data/](https://ourairports.com/data/)
+
+|                 | Number registered |
+| --------------- | ----------------- |
+| Airports        | 66 578            |
+| Runways         | 42 382            |
+| Frequencies     | 28 943            |
+| Navigation aids | 11 021            |
+| Countries       | 247               |
+| Regions         | 3 963             |
 
 ## How to use it?
 
