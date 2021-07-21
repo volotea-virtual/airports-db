@@ -102,7 +102,7 @@ const build = async () => {
 
     if (airportsArray.length === 0) {
         console.warn('No airports found, aborting!');
-        return;
+        throw 'No airports found, aborting!';
     }
     
     console.info('Merging and converting airport data to json');
