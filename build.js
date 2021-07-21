@@ -100,6 +100,11 @@ const build = async () => {
         `Fetched and loaded updated data for ${airportsArray.length} airports, ${runwaysArray.length} runways, ${freqsArray.length} frequencies, ${navaidsArray.length} navaids, ${countriesArray.length} countries, and ${regionsArray.length} regions`
     );
 
+    if (airportsArray.length === 0) {
+        console.warn('No airports found, aborting!');
+        return;
+    }
+    
     console.info('Merging and converting airport data to json');
 
     let index = 0;
