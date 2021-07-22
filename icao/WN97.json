@@ -2,9 +2,9 @@
     "id": "25891",
     "ident": "WN97",
     "type": "heliport",
-    "name": "St Catherine's Hospital Heliport",
-    "latitude_deg": "42.5635986328125",
-    "longitude_deg": "-87.92359924316406",
+    "name": "Froedtert Pleasant Prairie Hospital Heliport",
+    "latitude_deg": "42.563713",
+    "longitude_deg": "-87.923815",
     "elevation_ft": "728",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "WN97",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "St Catherine's",
     "runways": [
         {
             "id": "269178",

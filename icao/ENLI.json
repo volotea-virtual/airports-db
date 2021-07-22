@@ -46,8 +46,8 @@
             "id": "55803",
             "airport_ref": "2584",
             "airport_ident": "ENLI",
-            "type": "AFIS",
-            "description": "AFIS",
+            "type": "CTAF",
+            "description": "Lista Traffic",
             "frequency_mhz": "126.45"
         }
     ],

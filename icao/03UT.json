@@ -2,9 +2,9 @@
     "id": "6747",
     "ident": "03UT",
     "type": "small_airport",
-    "name": "A Z Minerals Corporation Airport",
-    "latitude_deg": "37.12080001831055",
-    "longitude_deg": "-109.98600006103516",
+    "name": "AZ Minerals Corporation Airport",
+    "latitude_deg": "37.114384",
+    "longitude_deg": "-109.99014",
     "elevation_ft": "5315",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "03UT",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "U23",
     "runways": [
         {
             "id": "256580",

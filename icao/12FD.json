@@ -2,7 +2,7 @@
     "id": "7756",
     "ident": "12FD",
     "type": "heliport",
-    "name": "Osceola Regional Hospital Heliport",
+    "name": "Osceola Regional Medical Center Heliport",
     "latitude_deg": "28.298854",
     "longitude_deg": "-81.409872",
     "elevation_ft": "59",
@@ -16,7 +16,7 @@
     "local_code": "12FD",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Osceola Regional Hospital Heliport",
     "runways": [
         {
             "id": "265273",

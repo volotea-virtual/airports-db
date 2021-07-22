@@ -46,8 +46,8 @@
             "id": "55807",
             "airport_ref": "2582",
             "airport_ident": "ENKJ",
-            "type": "RDO",
-            "description": "RDO",
+            "type": "CTAF",
+            "description": "Kjeller Traffic",
             "frequency_mhz": "119.1"
         }
     ],

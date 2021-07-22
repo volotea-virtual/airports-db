@@ -2,9 +2,9 @@
     "id": "15491",
     "ident": "96KY",
     "type": "small_airport",
-    "name": "A & L Airport",
-    "latitude_deg": "37.55220031738281",
-    "longitude_deg": "-87.27140045166016",
+    "name": "Woosley Field Airport",
+    "latitude_deg": "37.552652",
+    "longitude_deg": "-87.272544",
     "elevation_ft": "465",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "96KY",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "KY96, A&L, A and L",
     "runways": [
         {
             "id": "256994",
