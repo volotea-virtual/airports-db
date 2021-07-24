@@ -47,7 +47,7 @@
             "airport_ref": "2579",
             "airport_ident": "ENHD",
             "type": "ATIS",
-            "description": "ATIS",
+            "description": "Karmøy ATIS",
             "frequency_mhz": "118.175"
         },
         {
@@ -55,7 +55,7 @@
             "airport_ref": "2579",
             "airport_ident": "ENHD",
             "type": "TWR",
-            "description": "TWR",
+            "description": "Karmøy Tower",
             "frequency_mhz": "120.5"
         }
     ],

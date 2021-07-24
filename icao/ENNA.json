@@ -43,11 +43,27 @@
     ],
     "freqs": [
         {
+            "id": "346578",
+            "airport_ref": "2587",
+            "airport_ident": "ENNA",
+            "type": "APP",
+            "description": "Banak Approach",
+            "frequency_mhz": "118.9"
+        },
+        {
+            "id": "346579",
+            "airport_ref": "2587",
+            "airport_ident": "ENNA",
+            "type": "ATIS",
+            "description": "Banak Information",
+            "frequency_mhz": "136.325"
+        },
+        {
             "id": "55820",
             "airport_ref": "2587",
             "airport_ident": "ENNA",
             "type": "TWR",
-            "description": "TWR",
+            "description": "Banak Tower",
             "frequency_mhz": "118.05"
         }
     ],
