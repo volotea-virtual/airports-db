@@ -3,8 +3,8 @@
     "ident": "94IS",
     "type": "small_airport",
     "name": "Adams Private Airport",
-    "latitude_deg": "37.902801513671875",
-    "longitude_deg": "-89.13760375976562",
+    "latitude_deg": "37.901542",
+    "longitude_deg": "-89.140892",
     "elevation_ft": "410",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "94IS",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "9H2",
     "runways": [
         {
             "id": "252713",

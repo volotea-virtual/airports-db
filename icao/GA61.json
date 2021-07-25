@@ -3,8 +3,8 @@
     "ident": "GA61",
     "type": "small_airport",
     "name": "Kenley Field",
-    "latitude_deg": "33.26900100708008",
-    "longitude_deg": "-84.49710083007812",
+    "latitude_deg": "33.269234",
+    "longitude_deg": "-84.497624",
     "elevation_ft": "780",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "GA61",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Abernathy Field",
     "runways": [
         {
             "id": "256368",
