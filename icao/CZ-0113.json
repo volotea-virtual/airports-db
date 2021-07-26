@@ -3,12 +3,12 @@
     "ident": "CZ-0113",
     "type": "small_airport",
     "name": "Katovice Airstrip",
-    "latitude_deg": "49.2683546",
-    "longitude_deg": "13.8007759",
+    "latitude_deg": "49.268355",
+    "longitude_deg": "13.800776",
     "elevation_ft": "",
     "continent": "EU",
     "iso_country": "CZ",
-    "iso_region": "CZ-U-A",
+    "iso_region": "CZ-JC",
     "municipality": "",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Letiště České republiky, Czechia"
     },
     "region": {
-        "id": "303543",
-        "code": "CZ-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "303532",
+        "code": "CZ-JC",
+        "local_code": "JC",
+        "name": "South Bohemian Region",
         "continent": "EU",
         "iso_country": "CZ",
-        "wikipedia_link": "",
-        "keywords": ""
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Bohemian_Region",
+        "keywords": "Jihočeský kraj, South Bohemia"
     }
 }
