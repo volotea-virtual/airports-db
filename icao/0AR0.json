@@ -2,9 +2,9 @@
     "id": "7082",
     "ident": "0AR0",
     "type": "heliport",
-    "name": "Smh Heliport",
-    "latitude_deg": "36.18149948120117",
-    "longitude_deg": "-94.13710021972656",
+    "name": "Northwest Medical Center Springdale Heliport",
+    "latitude_deg": "36.181509",
+    "longitude_deg": "-94.137252",
     "elevation_ft": "1352",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "0AR0",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SMH Heliport, Air Evac 4 Heliport",
     "runways": [
         {
             "id": "265149",
