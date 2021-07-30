@@ -3,8 +3,8 @@
     "ident": "5IL6",
     "type": "heliport",
     "name": "Heartland Regional Medical Center Heliport",
-    "latitude_deg": "37.742801666259766",
-    "longitude_deg": "-88.99250030517578",
+    "latitude_deg": "37.742645",
+    "longitude_deg": "-88.992469",
     "elevation_ft": "451",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "5IL6",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Air Evac 35 Heliport",
     "runways": [
         {
             "id": "266160",

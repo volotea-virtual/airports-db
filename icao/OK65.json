@@ -2,9 +2,9 @@
     "id": "23800",
     "ident": "OK65",
     "type": "heliport",
-    "name": "Cushing Regional Hospital Heliport",
-    "latitude_deg": "35.97869873046875",
-    "longitude_deg": "-96.75669860839844",
+    "name": "Hillcrest Hospital Cushing Heliport",
+    "latitude_deg": "35.97816",
+    "longitude_deg": "-96.757479",
     "elevation_ft": "914",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "OK65",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Cushing Regional Hospital Heliport",
     "runways": [
         {
             "id": "268559",

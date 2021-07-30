@@ -3,8 +3,8 @@
     "ident": "84IS",
     "type": "heliport",
     "name": "Passavant Area Hospital Heliport",
-    "latitude_deg": "39.74869918823242",
-    "longitude_deg": "-90.25070190429688",
+    "latitude_deg": "39.747743",
+    "longitude_deg": "-90.260396",
     "elevation_ft": "604",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "84IS",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Air Evac 27 Heliport",
     "runways": [
         {
             "id": "266526",

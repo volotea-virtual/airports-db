@@ -3,8 +3,8 @@
     "ident": "KCUH",
     "type": "small_airport",
     "name": "Cushing Municipal Airport",
-    "latitude_deg": "35.9499015808",
-    "longitude_deg": "-96.7731018066",
+    "latitude_deg": "35.950496",
+    "longitude_deg": "-96.772371",
     "elevation_ft": "916",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "CUH",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Cushing_Municipal_Airport",
-    "keywords": "",
+    "keywords": "Air Evac 36 Heliport",
     "runways": [
         {
             "id": "245982",
