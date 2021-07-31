@@ -1,10 +1,10 @@
 {
     "id": "326119",
     "ident": "LV-0035",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Bērzes lidlauks",
-    "latitude_deg": "56.6813459",
-    "longitude_deg": "23.4640273",
+    "latitude_deg": "56.681346",
+    "longitude_deg": "23.464027",
     "elevation_ft": "",
     "continent": "EU",
     "iso_country": "LV",

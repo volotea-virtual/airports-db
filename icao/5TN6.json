@@ -2,10 +2,10 @@
     "id": "12680",
     "ident": "5TN6",
     "type": "heliport",
-    "name": "Hardin County General Hospital Heliport",
-    "latitude_deg": "35.218101501464844",
-    "longitude_deg": "-88.21920013427734",
-    "elevation_ft": "450",
+    "name": "Hardin Medical Center Heliport",
+    "latitude_deg": "35.22922",
+    "longitude_deg": "-88.23069",
+    "elevation_ft": "433",
     "continent": "NA",
     "iso_country": "US",
     "iso_region": "US-TN",
@@ -16,7 +16,7 @@
     "local_code": "5TN6",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Hardin County General Hospital Heliport",
     "runways": [
         {
             "id": "270391",

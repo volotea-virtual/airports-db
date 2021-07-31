@@ -2,7 +2,7 @@
     "id": "345419",
     "ident": "6KY0",
     "type": "heliport",
-    "name": "Harlan Hospital Heliport",
+    "name": "Harlan ARH Hospital Heliport",
     "latitude_deg": "36.809044",
     "longitude_deg": "-83.315034",
     "elevation_ft": "1407",
@@ -16,7 +16,7 @@
     "local_code": "6KY0",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Air Evac 88 Heliport",
     "runways": [
         {
             "id": "345420",
