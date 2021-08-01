@@ -3,8 +3,8 @@
     "ident": "KDBN",
     "type": "small_airport",
     "name": "W H 'Bud' Barron Airport",
-    "latitude_deg": "32.56439972",
-    "longitude_deg": "-82.98529816",
+    "latitude_deg": "32.5644",
+    "longitude_deg": "-82.985298",
     "elevation_ft": "309",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "DBN",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/W._H._'Bud'_Barron_Airport",
-    "keywords": "",
+    "keywords": "Baron Field Dublin Municipal Airport",
     "runways": [
         {
             "id": "245645",

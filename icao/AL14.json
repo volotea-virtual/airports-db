@@ -3,8 +3,8 @@
     "ident": "AL14",
     "type": "heliport",
     "name": "Whitfield Regional Hospital Heliport",
-    "latitude_deg": "32.505708",
-    "longitude_deg": "-87.836396",
+    "latitude_deg": "32.505696",
+    "longitude_deg": "-87.83635",
     "elevation_ft": "156",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "AL14",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Bryan W. Whitfield Memoria",
+    "keywords": "Bryan W Whitfield Memorial Hospital, Air Evac 106",
     "runways": [
         {
             "id": "266945",
