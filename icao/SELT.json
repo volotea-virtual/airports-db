@@ -1,7 +1,7 @@
 {
     "id": "6061",
     "ident": "SELT",
-    "type": "large_airport",
+    "type": "medium_airport",
     "name": "Cotopaxi International Airport",
     "latitude_deg": "-0.906833",
     "longitude_deg": "-78.615799",

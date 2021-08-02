@@ -1,7 +1,7 @@
 {
     "id": "4451",
     "ident": "LPLA",
-    "type": "large_airport",
+    "type": "medium_airport",
     "name": "Lajes Airport",
     "latitude_deg": "38.761799",
     "longitude_deg": "-27.090799",

@@ -1,10 +1,10 @@
 {
     "id": "6056",
     "ident": "SEGU",
-    "type": "medium_airport",
+    "type": "large_airport",
     "name": "José Joaquín de Olmedo International Airport",
-    "latitude_deg": "-2.1574199199699997",
-    "longitude_deg": "-79.88359832760001",
+    "latitude_deg": "-2.15742",
+    "longitude_deg": "-79.883598",
     "elevation_ft": "19",
     "continent": "SA",
     "iso_country": "EC",

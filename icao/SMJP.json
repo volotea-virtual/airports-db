@@ -1,10 +1,10 @@
 {
     "id": "6195",
     "ident": "SMJP",
-    "type": "medium_airport",
+    "type": "large_airport",
     "name": "Johan Adolf Pengel International Airport",
-    "latitude_deg": "5.4528298377999995",
-    "longitude_deg": "-55.1878013611",
+    "latitude_deg": "5.45283",
+    "longitude_deg": "-55.187801",
     "elevation_ft": "59",
     "continent": "SA",
     "iso_country": "SR",

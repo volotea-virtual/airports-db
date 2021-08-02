@@ -3,8 +3,8 @@
     "ident": "EIIR",
     "type": "small_airport",
     "name": "Inisheer Aerodrome",
-    "latitude_deg": "53.064701080322266",
-    "longitude_deg": "-9.510899543762207",
+    "latitude_deg": "53.064701",
+    "longitude_deg": "-9.5109",
     "elevation_ft": "40",
     "continent": "EU",
     "iso_country": "IE",
@@ -15,7 +15,7 @@
     "iata_code": "INQ",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Inisheer_Aerodrome",
     "keywords": "Aran Islands",
     "runways": [
         {

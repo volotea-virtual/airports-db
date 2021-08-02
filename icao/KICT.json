@@ -1,7 +1,7 @@
 {
     "id": "3605",
     "ident": "KICT",
-    "type": "large_airport",
+    "type": "medium_airport",
     "name": "Wichita Eisenhower National Airport",
     "latitude_deg": "37.649899",
     "longitude_deg": "-97.433098",

@@ -10,7 +10,7 @@
     "iso_country": "DE",
     "iso_region": "DE-HB",
     "municipality": "Bremerhaven",
-    "scheduled_service": "yes",
+    "scheduled_service": "no",
     "gps_code": "EDWB",
     "iata_code": "BRV",
     "local_code": "",

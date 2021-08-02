@@ -1,7 +1,7 @@
 {
     "id": "5131",
     "ident": "OIAD",
-    "type": "small_airport",
+    "type": "medium_airport",
     "name": "Dezful Airport",
     "latitude_deg": "32.434399",
     "longitude_deg": "48.397598",

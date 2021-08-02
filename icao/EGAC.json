@@ -1,10 +1,10 @@
 {
     "id": "2387",
     "ident": "EGAC",
-    "type": "large_airport",
+    "type": "medium_airport",
     "name": "George Best Belfast City Airport",
-    "latitude_deg": "54.618099212646484",
-    "longitude_deg": "-5.872499942779541",
+    "latitude_deg": "54.618099",
+    "longitude_deg": "-5.8725",
     "elevation_ft": "15",
     "continent": "EU",
     "iso_country": "GB",

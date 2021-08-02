@@ -10,12 +10,12 @@
     "iso_country": "TW",
     "iso_region": "TW-KHH",
     "municipality": "Kaohsiung (Cijin - Taiping Island)",
-    "scheduled_service": "yes",
+    "scheduled_service": "no",
     "gps_code": "RCSP",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Taiping_Island_Airport",
     "keywords": "",
     "runways": [
         {

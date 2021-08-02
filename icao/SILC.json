@@ -10,7 +10,7 @@
     "iso_country": "BR",
     "iso_region": "BR-MT",
     "municipality": "Lucas do Rio Verde",
-    "scheduled_service": "yes",
+    "scheduled_service": "no",
     "gps_code": "SILC",
     "iata_code": "LVR",
     "local_code": "MT0025",

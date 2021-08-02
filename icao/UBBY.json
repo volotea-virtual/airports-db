@@ -1,7 +1,7 @@
 {
     "id": "43883",
     "ident": "UBBY",
-    "type": "small_airport",
+    "type": "medium_airport",
     "name": "Zaqatala International Airport",
     "latitude_deg": "41.557823",
     "longitude_deg": "46.669464",
@@ -10,7 +10,7 @@
     "iso_country": "AZ",
     "iso_region": "AZ-ZAQ",
     "municipality": "Zaqatala",
-    "scheduled_service": "yes",
+    "scheduled_service": "no",
     "gps_code": "UBBY",
     "iata_code": "ZTU",
     "local_code": "",
