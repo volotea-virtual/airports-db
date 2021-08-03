@@ -1,7 +1,7 @@
 {
     "id": "2157",
     "ident": "EBCI",
-    "type": "large_airport",
+    "type": "medium_airport",
     "name": "Brussels South Charleroi Airport",
     "latitude_deg": "50.459202",
     "longitude_deg": "4.45382",

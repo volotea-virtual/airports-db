@@ -1,10 +1,10 @@
 {
     "id": "2475",
     "ident": "EGSH",
-    "type": "large_airport",
+    "type": "medium_airport",
     "name": "Norwich International Airport",
-    "latitude_deg": "52.6758003235",
-    "longitude_deg": "1.28278005123",
+    "latitude_deg": "52.6758",
+    "longitude_deg": "1.28278",
     "elevation_ft": "117",
     "continent": "EU",
     "iso_country": "GB",

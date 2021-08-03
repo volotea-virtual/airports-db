@@ -1,10 +1,10 @@
 {
     "id": "29140",
     "ident": "EGHE",
-    "type": "medium_airport",
+    "type": "small_airport",
     "name": "St. Mary's Airport",
-    "latitude_deg": "49.913299560546875",
-    "longitude_deg": "-6.291669845581055",
+    "latitude_deg": "49.9133",
+    "longitude_deg": "-6.29167",
     "elevation_ft": "116",
     "continent": "EU",
     "iso_country": "GB",

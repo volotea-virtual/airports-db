@@ -1,10 +1,10 @@
 {
     "id": "4013",
     "ident": "LEIB",
-    "type": "medium_airport",
+    "type": "large_airport",
     "name": "Ibiza Airport",
-    "latitude_deg": "38.872898101800004",
-    "longitude_deg": "1.3731199502899998",
+    "latitude_deg": "38.872898",
+    "longitude_deg": "1.37312",
     "elevation_ft": "24",
     "continent": "EU",
     "iso_country": "ES",

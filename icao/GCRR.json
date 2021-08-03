@@ -1,7 +1,7 @@
 {
     "id": "3082",
     "ident": "GCRR",
-    "type": "medium_airport",
+    "type": "large_airport",
     "name": "Lanzarote Airport",
     "latitude_deg": "28.945499",
     "longitude_deg": "-13.6052",

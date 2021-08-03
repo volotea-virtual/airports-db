@@ -1,7 +1,7 @@
 {
     "id": "3524",
     "ident": "KFAT",
-    "type": "large_airport",
+    "type": "medium_airport",
     "name": "Fresno Yosemite International Airport",
     "latitude_deg": "36.776199",
     "longitude_deg": "-119.718002",

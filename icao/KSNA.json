@@ -1,10 +1,10 @@
 {
     "id": "3894",
     "ident": "KSNA",
-    "type": "large_airport",
+    "type": "medium_airport",
     "name": "John Wayne Airport-Orange County Airport",
-    "latitude_deg": "33.67570114",
-    "longitude_deg": "-117.8679962",
+    "latitude_deg": "33.675701",
+    "longitude_deg": "-117.867996",
     "elevation_ft": "56",
     "continent": "NA",
     "iso_country": "US",

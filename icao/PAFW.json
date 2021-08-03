@@ -11,12 +11,12 @@
     "iso_region": "US-AK",
     "municipality": "Farewell",
     "scheduled_service": "no",
-    "gps_code": "PAFW",
+    "gps_code": "",
     "iata_code": "FWL",
     "local_code": "0AA4",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "PAFW, FWL",
     "runways": [
         {
             "id": "249751",

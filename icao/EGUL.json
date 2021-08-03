@@ -1,10 +1,10 @@
 {
     "id": "2487",
     "ident": "EGUL",
-    "type": "large_airport",
+    "type": "medium_airport",
     "name": "RAF Lakenheath",
-    "latitude_deg": "52.409301757799994",
-    "longitude_deg": "0.56099998951",
+    "latitude_deg": "52.409302",
+    "longitude_deg": "0.561",
     "elevation_ft": "32",
     "continent": "EU",
     "iso_country": "GB",

@@ -1,7 +1,7 @@
 {
     "id": "3867",
     "ident": "KSBD",
-    "type": "large_airport",
+    "type": "medium_airport",
     "name": "San Bernardino International Airport",
     "latitude_deg": "34.095402",
     "longitude_deg": "-117.235001",

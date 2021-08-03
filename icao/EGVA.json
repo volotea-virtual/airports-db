@@ -1,10 +1,10 @@
 {
     "id": "2492",
     "ident": "EGVA",
-    "type": "large_airport",
+    "type": "medium_airport",
     "name": "RAF Fairford",
-    "latitude_deg": "51.6822013855",
-    "longitude_deg": "-1.7900300025900002",
+    "latitude_deg": "51.682201",
+    "longitude_deg": "-1.79003",
     "elevation_ft": "286",
     "continent": "EU",
     "iso_country": "GB",

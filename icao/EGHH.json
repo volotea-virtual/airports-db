@@ -1,10 +1,10 @@
 {
     "id": "2421",
     "ident": "EGHH",
-    "type": "large_airport",
+    "type": "medium_airport",
     "name": "Bournemouth Airport",
-    "latitude_deg": "50.779998779296875",
-    "longitude_deg": "-1.8424999713897705",
+    "latitude_deg": "50.779999",
+    "longitude_deg": "-1.8425",
     "elevation_ft": "38",
     "continent": "EU",
     "iso_country": "GB",

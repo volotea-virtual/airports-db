@@ -1,7 +1,7 @@
 {
     "id": "2424",
     "ident": "EGJA",
-    "type": "medium_airport",
+    "type": "small_airport",
     "name": "Alderney Airport",
     "latitude_deg": "49.706104",
     "longitude_deg": "-2.21472",

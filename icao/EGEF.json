@@ -1,10 +1,10 @@
 {
     "id": "29127",
     "ident": "EGEF",
-    "type": "medium_airport",
+    "type": "small_airport",
     "name": "Fair Isle Airport",
-    "latitude_deg": "59.53580093383789",
-    "longitude_deg": "-1.628059983253479",
+    "latitude_deg": "59.535801",
+    "longitude_deg": "-1.62806",
     "elevation_ft": "223",
     "continent": "EU",
     "iso_country": "GB",

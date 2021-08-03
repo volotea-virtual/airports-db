@@ -1,7 +1,7 @@
 {
     "id": "3080",
     "ident": "GCLA",
-    "type": "large_airport",
+    "type": "medium_airport",
     "name": "La Palma Airport",
     "latitude_deg": "28.626499",
     "longitude_deg": "-17.7556",

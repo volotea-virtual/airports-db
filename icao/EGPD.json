@@ -1,10 +1,10 @@
 {
     "id": "2459",
     "ident": "EGPD",
-    "type": "large_airport",
+    "type": "medium_airport",
     "name": "Aberdeen Dyce Airport",
-    "latitude_deg": "57.201900482177734",
-    "longitude_deg": "-2.197779893875122",
+    "latitude_deg": "57.2019",
+    "longitude_deg": "-2.19778",
     "elevation_ft": "215",
     "continent": "EU",
     "iso_country": "GB",

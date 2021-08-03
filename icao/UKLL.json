@@ -1,10 +1,10 @@
 {
     "id": "6481",
     "ident": "UKLL",
-    "type": "medium_airport",
+    "type": "large_airport",
     "name": "Lviv International Airport",
     "latitude_deg": "49.8125",
-    "longitude_deg": "23.956100463867188",
+    "longitude_deg": "23.9561",
     "elevation_ft": "1071",
     "continent": "EU",
     "iso_country": "UA",

@@ -1,10 +1,10 @@
 {
     "id": "3473",
     "ident": "KCVS",
-    "type": "large_airport",
+    "type": "medium_airport",
     "name": "Cannon Air Force Base",
-    "latitude_deg": "34.3828010559",
-    "longitude_deg": "-103.321998596",
+    "latitude_deg": "34.382801",
+    "longitude_deg": "-103.321999",
     "elevation_ft": "4295",
     "continent": "NA",
     "iso_country": "US",

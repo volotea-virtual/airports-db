@@ -1,7 +1,7 @@
 {
     "id": "29139",
     "ident": "EGHC",
-    "type": "medium_airport",
+    "type": "small_airport",
     "name": "Land's End Airport",
     "latitude_deg": "50.102798",
     "longitude_deg": "-5.67056",

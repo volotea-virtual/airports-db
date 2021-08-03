@@ -1,10 +1,10 @@
 {
     "id": "2488",
     "ident": "EGUN",
-    "type": "large_airport",
+    "type": "medium_airport",
     "name": "RAF Mildenhall",
-    "latitude_deg": "52.361900329589844",
-    "longitude_deg": "0.48640599846839905",
+    "latitude_deg": "52.3619",
+    "longitude_deg": "0.486406",
     "elevation_ft": "33",
     "continent": "EU",
     "iso_country": "GB",
