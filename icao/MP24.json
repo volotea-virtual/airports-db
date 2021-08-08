@@ -11,12 +11,12 @@
     "iso_region": "PA-10",
     "municipality": "Chame District",
     "scheduled_service": "no",
-    "gps_code": "MP24",
+    "gps_code": "MPMC",
     "iata_code": "",
-    "local_code": "MP24",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Chame_Airport",
-    "keywords": "Chame Airfield #1",
+    "keywords": "Chame Airfield #1, MP24",
     "runways": [
         {
             "id": "238308",

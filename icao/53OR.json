@@ -2,9 +2,9 @@
     "id": "11976",
     "ident": "53OR",
     "type": "heliport",
-    "name": "St Vincent Hospital Heliport",
-    "latitude_deg": "45.510101318359375",
-    "longitude_deg": "-122.77300262451172",
+    "name": "Providence Saint Vincent Medical Center Heliport",
+    "latitude_deg": "45.510905",
+    "longitude_deg": "-122.774102",
     "elevation_ft": "478",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "53OR",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "St Vincent Hospital Heliport",
     "runways": [
         {
             "id": "270271",
