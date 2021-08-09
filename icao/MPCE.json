@@ -3,8 +3,8 @@
     "ident": "MPCE",
     "type": "medium_airport",
     "name": "Alonso Valderrama Airport",
-    "latitude_deg": "7.987840175628662",
-    "longitude_deg": "-80.40969848632812",
+    "latitude_deg": "7.98784",
+    "longitude_deg": "-80.409837",
     "elevation_ft": "33",
     "continent": "NA",
     "iso_country": "PA",
@@ -15,7 +15,7 @@
     "iata_code": "CTD",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Chitré_Alonso_Valderrama_Airport",
     "keywords": "",
     "runways": [
         {

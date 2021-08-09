@@ -2,9 +2,9 @@
     "id": "4786",
     "ident": "MPBO",
     "type": "medium_airport",
-    "name": "Bocas Del Toro International Airport",
-    "latitude_deg": "9.340849876403809",
-    "longitude_deg": "-82.25080108642578",
+    "name": "Bocas del Toro International Airport",
+    "latitude_deg": "9.34085",
+    "longitude_deg": "-82.250801",
     "elevation_ft": "10",
     "continent": "NA",
     "iso_country": "PA",
@@ -15,8 +15,8 @@
     "iata_code": "BOC",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
-    "keywords": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bocas_del_Toro_%22Isla_Colón%22_International_Airport",
+    "keywords": "Jose Ezequiel Hall",
     "runways": [
         {
             "id": "238306",
