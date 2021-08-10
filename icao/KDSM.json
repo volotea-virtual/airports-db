@@ -1,10 +1,10 @@
 {
     "id": "3496",
     "ident": "KDSM",
-    "type": "large_airport",
+    "type": "medium_airport",
     "name": "Des Moines International Airport",
-    "latitude_deg": "41.534000396728516",
-    "longitude_deg": "-93.66310119628906",
+    "latitude_deg": "41.534",
+    "longitude_deg": "-93.663101",
     "elevation_ft": "958",
     "continent": "NA",
     "iso_country": "US",

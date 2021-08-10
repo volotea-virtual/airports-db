@@ -1,8 +1,8 @@
 {
     "id": "42935",
     "ident": "UHPO",
-    "type": "closed",
-    "name": "Kozyrevsk Airport",
+    "type": "heliport",
+    "name": "Kozyrevsk Heliport",
     "latitude_deg": "56.090092",
     "longitude_deg": "159.876308",
     "elevation_ft": "331",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Kozyrevsk_Airport",
-    "keywords": "",
+    "keywords": "Kozyrevsk Airport",
     "country": {
         "id": "302714",
         "code": "RU",
