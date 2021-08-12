@@ -1,10 +1,10 @@
 {
     "id": "11108",
     "ident": "US-45AR",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Moore Farm Airport",
-    "latitude_deg": "34.5500984192",
-    "longitude_deg": "-92.0501022339",
+    "latitude_deg": "34.550389",
+    "longitude_deg": "-92.05012",
     "elevation_ft": "220",
     "continent": "NA",
     "iso_country": "US",
@@ -13,10 +13,10 @@
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
-    "local_code": "45AR",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "45AR",
     "runways": [
         {
             "id": "256651",
