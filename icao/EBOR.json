@@ -1,8 +1,8 @@
 {
     "id": "30977",
     "ident": "EBOR",
-    "type": "closed",
-    "name": "Orchimont Ultralight Airport",
+    "type": "small_airport",
+    "name": "Orchimont UL",
     "latitude_deg": "49.90643",
     "longitude_deg": "4.93413",
     "elevation_ft": "1312",
