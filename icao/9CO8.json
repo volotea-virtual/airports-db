@@ -2,9 +2,9 @@
     "id": "45325",
     "ident": "9CO8",
     "type": "small_airport",
-    "name": "Herrick Airport",
-    "latitude_deg": "39.2793",
-    "longitude_deg": "-104.34315",
+    "name": "Bijou Bottom Strip",
+    "latitude_deg": "39.276683",
+    "longitude_deg": "-104.342093",
     "elevation_ft": "6000",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "9CO8",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Herrick Airport",
     "runways": [
         {
             "id": "264147",
