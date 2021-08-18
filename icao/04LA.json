@@ -2,9 +2,9 @@
     "id": "6770",
     "ident": "04LA",
     "type": "heliport",
-    "name": "St James Heliport",
-    "latitude_deg": "30.051111",
-    "longitude_deg": "-90.702222",
+    "name": "Saint James Parish Hospital Heliport",
+    "latitude_deg": "30.051001",
+    "longitude_deg": "-90.703848",
     "elevation_ft": "10",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "04LA",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Saint James Heliport",
     "runways": [
         {
             "id": "265081",

@@ -2,9 +2,9 @@
     "id": "13896",
     "ident": "76LA",
     "type": "heliport",
-    "name": "Lafayette General Hospital Heliport",
-    "latitude_deg": "30.20159912109375",
-    "longitude_deg": "-92.01959991455078",
+    "name": "Ochsner Lafayette General Medical Center Heliport",
+    "latitude_deg": "30.202297",
+    "longitude_deg": "-92.019866",
     "elevation_ft": "120",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "76LA",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Lafayette General Hospital Heliport",
     "runways": [
         {
             "id": "266403",
