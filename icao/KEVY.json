@@ -3,8 +3,8 @@
     "ident": "KEVY",
     "type": "small_airport",
     "name": "Summit Airport",
-    "latitude_deg": "39.52040100097656",
-    "longitude_deg": "-75.72039794921875",
+    "latitude_deg": "39.520401",
+    "longitude_deg": "-75.720398",
     "elevation_ft": "70",
     "continent": "NA",
     "iso_country": "US",
@@ -15,8 +15,8 @@
     "iata_code": "",
     "local_code": "EVY",
     "home_link": "",
-    "wikipedia_link": "",
-    "keywords": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Summit_Airport_(Delaware)",
+    "keywords": "N92",
     "runways": [
         {
             "id": "245811",

@@ -3,8 +3,8 @@
     "ident": "KSNC",
     "type": "small_airport",
     "name": "Chester Airport",
-    "latitude_deg": "41.3838996887207",
-    "longitude_deg": "-72.50589752197266",
+    "latitude_deg": "41.3839",
+    "longitude_deg": "-72.505898",
     "elevation_ft": "416",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "SNC",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "3B9",
     "runways": [
         {
             "id": "239830",

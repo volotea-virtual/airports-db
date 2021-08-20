@@ -3,8 +3,8 @@
     "ident": "PAQT",
     "type": "medium_airport",
     "name": "Nuiqsut Airport",
-    "latitude_deg": "70.2099990845",
-    "longitude_deg": "-151.005996704",
+    "latitude_deg": "70.209999",
+    "longitude_deg": "-151.005998",
     "elevation_ft": "38",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "AQT",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Nuiqsut_Airport",
-    "keywords": "",
+    "keywords": "10AK",
     "runways": [
         {
             "id": "239655",

@@ -3,8 +3,8 @@
     "ident": "PALB",
     "type": "small_airport",
     "name": "Larsen Bay Airport",
-    "latitude_deg": "57.5350990295",
-    "longitude_deg": "-153.977996826",
+    "latitude_deg": "57.535099",
+    "longitude_deg": "-153.977993",
     "elevation_ft": "87",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "2A3",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Larsen_Bay_Airport",
-    "keywords": "",
+    "keywords": "09AK",
     "runways": [
         {
             "id": "249616",
