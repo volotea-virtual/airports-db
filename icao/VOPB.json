@@ -2,10 +2,10 @@
     "id": "26620",
     "ident": "VOPB",
     "type": "medium_airport",
-    "name": "Vir Savarkar International Airport",
-    "latitude_deg": "11.641200065612793",
-    "longitude_deg": "92.72969818115234",
-    "elevation_ft": "14",
+    "name": "Veer Savarkar International Airport / INS Utkrosh",
+    "latitude_deg": "11.641208",
+    "longitude_deg": "92.729643",
+    "elevation_ft": "13",
     "continent": "AS",
     "iso_country": "IN",
     "iso_region": "IN-AN",
@@ -15,7 +15,7 @@
     "iata_code": "IXZ",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "https://en.wikipedia.org/wiki/Vir_Savarkar_Airport",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Veer_Savarkar_International_Airport",
     "keywords": "Port Blair Airport, Port Blair Air Force Station",
     "runways": [
         {

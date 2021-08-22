@@ -1,7 +1,7 @@
 {
     "id": "26858",
     "ident": "WIPT",
-    "type": "medium_airport",
+    "type": "large_airport",
     "name": "Minangkabau International Airport",
     "latitude_deg": "-0.786917",
     "longitude_deg": "100.280998",
@@ -9,7 +9,7 @@
     "continent": "AS",
     "iso_country": "ID",
     "iso_region": "ID-SB",
-    "municipality": "Ketaping/Padang - Sumatra Island",
+    "municipality": "Padang (Katapiang)",
     "scheduled_service": "yes",
     "gps_code": "WIEE",
     "iata_code": "PDG",
