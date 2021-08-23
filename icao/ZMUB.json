@@ -1,7 +1,7 @@
 {
     "id": "27212",
     "ident": "ZMUB",
-    "type": "large_airport",
+    "type": "medium_airport",
     "name": "Buyant-Ukhaa International Airport",
     "latitude_deg": "47.843102",
     "longitude_deg": "106.766998",
@@ -10,7 +10,7 @@
     "iso_country": "MN",
     "iso_region": "MN-1",
     "municipality": "Ulaanbaatar",
-    "scheduled_service": "yes",
+    "scheduled_service": "no",
     "gps_code": "ZMUB",
     "iata_code": "ULN",
     "local_code": "",
