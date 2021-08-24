@@ -1,7 +1,7 @@
 {
     "id": "20053",
     "ident": "KHII",
-    "type": "large_airport",
+    "type": "medium_airport",
     "name": "Lake Havasu City International Airport",
     "latitude_deg": "34.571098",
     "longitude_deg": "-114.358002",
@@ -10,7 +10,7 @@
     "iso_country": "US",
     "iso_region": "US-AZ",
     "municipality": "Lake Havasu City",
-    "scheduled_service": "no",
+    "scheduled_service": "yes",
     "gps_code": "KHII",
     "iata_code": "HII",
     "local_code": "HII",
