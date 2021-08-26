@@ -2,7 +2,7 @@
     "id": "15996",
     "ident": "9TX0",
     "type": "heliport",
-    "name": "Houston Police Command Station Heliport",
+    "name": "Houston Police Department Southeast Heliport",
     "latitude_deg": "29.657868",
     "longitude_deg": "-95.319099",
     "elevation_ft": "40",
@@ -16,7 +16,7 @@
     "local_code": "9TX0",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Houston Police Command Station Heliport",
     "runways": [
         {
             "id": "266924",
