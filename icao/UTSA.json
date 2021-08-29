@@ -17,6 +17,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "347235",
+            "airport_ref": "32561",
+            "airport_ident": "UTSA",
+            "length_ft": "13123",
+            "width_ft": "148",
+            "surface": "ASPH",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "07",
+            "le_latitude_deg": "40.1134",
+            "le_longitude_deg": "65.1483",
+            "le_elevation_ft": "1129",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25",
+            "he_latitude_deg": "40.1213",
+            "he_longitude_deg": "65.1941",
+            "he_elevation_ft": "1129",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302669",
         "code": "UZ",
