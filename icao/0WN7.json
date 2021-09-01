@@ -2,9 +2,9 @@
     "id": "7624",
     "ident": "0WN7",
     "type": "heliport",
-    "name": "Enumclaw Community Hospital Heliport",
-    "latitude_deg": "47.20650100708008",
-    "longitude_deg": "-121.98100280761719",
+    "name": "St Elizabeth Hospital Heliport",
+    "latitude_deg": "47.209449",
+    "longitude_deg": "-121.987726",
     "elevation_ft": "700",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "0WN7",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Enumclaw Community Hospital Heliport",
     "runways": [
         {
             "id": "269583",
