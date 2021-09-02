@@ -10,11 +10,11 @@
     "iso_country": "AF",
     "iso_region": "AF-KAB",
     "municipality": "Kabul",
-    "scheduled_service": "yes",
+    "scheduled_service": "no",
     "gps_code": "OAKB",
     "iata_code": "KBL",
     "local_code": "",
-    "home_link": "http://hamidkarzaiairport.com/",
+    "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Hamid_Karzai_International_Airport",
     "keywords": "Kabul International Airport, Khwaja Rawash Airport",
     "runways": [
