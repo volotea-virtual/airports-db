@@ -3,8 +3,8 @@
     "ident": "LJBL",
     "type": "small_airport",
     "name": "Lesce-Bled Airport",
-    "latitude_deg": "46.3572006226",
-    "longitude_deg": "14.1738996506",
+    "latitude_deg": "46.357201",
+    "longitude_deg": "14.1739",
     "elevation_ft": "1654",
     "continent": "EU",
     "iso_country": "SI",
@@ -14,7 +14,7 @@
     "gps_code": "LJBL",
     "iata_code": "",
     "local_code": "",
-    "home_link": "",
+    "home_link": "http://www.alc-lesce.si/",
     "wikipedia_link": "",
     "keywords": "",
     "runways": [
@@ -70,7 +70,7 @@
             "airport_ident": "LJBL",
             "type": "ATF",
             "description": "",
-            "frequency_mhz": "123.5"
+            "frequency_mhz": "122.505"
         }
     ],
     "country": {

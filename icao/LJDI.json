@@ -14,7 +14,7 @@
     "gps_code": "LJDI",
     "iata_code": "",
     "local_code": "",
-    "home_link": "http://www.janezlet.si/p/o-nas/letalis-269-e/letalia-a-e.html",
+    "home_link": "https://letaliscedivaca.si/",
     "wikipedia_link": "",
     "keywords": "Donje Ležeče, Sežana, Kras",
     "runways": [
@@ -70,7 +70,7 @@
             "airport_ident": "LJDI",
             "type": "AFIS",
             "description": "Divača",
-            "frequency_mhz": "123.5"
+            "frequency_mhz": "123.505"
         }
     ],
     "country": {

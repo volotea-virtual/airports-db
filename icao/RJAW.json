@@ -2,7 +2,7 @@
     "id": "5535",
     "ident": "RJAW",
     "type": "medium_airport",
-    "name": "Iwo Jima (Io-to) Airport",
+    "name": "Ioto (Iwo Jima) Air Base",
     "latitude_deg": "24.784153",
     "longitude_deg": "141.32261",
     "elevation_ft": "384",
@@ -15,8 +15,8 @@
     "iata_code": "IWO",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
-    "keywords": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Field_(Iwo_Jima)",
+    "keywords": "Iwo Jima Airport, Central Field",
     "runways": [
         {
             "id": "237169",
