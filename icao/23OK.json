@@ -2,9 +2,9 @@
     "id": "8968",
     "ident": "23OK",
     "type": "heliport",
-    "name": "Mash Heliport",
-    "latitude_deg": "34.858699798583984",
-    "longitude_deg": "-97.62779998779297",
+    "name": "Lindsay Municipal Hospital Heliport",
+    "latitude_deg": "34.838891",
+    "longitude_deg": "-97.626911",
     "elevation_ft": "990",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "23OK",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "MASH Heliport",
     "runways": [
         {
             "id": "269787",

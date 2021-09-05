@@ -1,10 +1,10 @@
 {
     "id": "43077",
     "ident": "US-0025",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Brabsom Farm Airport",
-    "latitude_deg": "32.5167999268",
-    "longitude_deg": "-97.36699676510001",
+    "latitude_deg": "32.5168",
+    "longitude_deg": "-97.366997",
     "elevation_ft": "800",
     "continent": "NA",
     "iso_country": "US",

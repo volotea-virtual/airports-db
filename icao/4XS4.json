@@ -2,9 +2,9 @@
     "id": "45805",
     "ident": "4XS4",
     "type": "heliport",
-    "name": "Baylor Scott & White Medical Center - Carrollton Heliport",
-    "latitude_deg": "33.02865",
-    "longitude_deg": "-96.887",
+    "name": "Carrollton Regional Medical Center Heliport",
+    "latitude_deg": "33.02866",
+    "longitude_deg": "-96.887026",
     "elevation_ft": "572",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "4XS4",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Trinity Medical Center, Baylor Medical Center At Carrollton",
+    "keywords": "Trinity Medical Center, Baylor Medical Center At Carrollton, Baylor Scott & White Medical Center Carrollton",
     "runways": [
         {
             "id": "264670",

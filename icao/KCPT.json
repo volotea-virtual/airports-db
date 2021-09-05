@@ -2,7 +2,7 @@
     "id": "19541",
     "ident": "KCPT",
     "type": "small_airport",
-    "name": "Cleburne Municipal Airport",
+    "name": "Cleburne Regional Airport",
     "latitude_deg": "32.353802",
     "longitude_deg": "-97.433701",
     "elevation_ft": "854",
@@ -16,7 +16,7 @@
     "local_code": "CPT",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Cleburne_Regional_Airport",
-    "keywords": "F18",
+    "keywords": "Cleburne Municipal, F18",
     "runways": [
         {
             "id": "242986",

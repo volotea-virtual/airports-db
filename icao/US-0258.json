@@ -2,7 +2,7 @@
     "id": "335785",
     "ident": "US-0258",
     "type": "heliport",
-    "name": "C H S-Pineville Heliport",
+    "name": "Carolinas ContinueCARE Hospital at Pineville Heliport",
     "latitude_deg": "35.093333",
     "longitude_deg": "-80.872944",
     "elevation_ft": "628",
@@ -16,7 +16,7 @@
     "local_code": "67NC",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Atrium Health Pineville Heliport, CHS-Pineville Heliport",
     "runways": [
         {
             "id": "344322",
