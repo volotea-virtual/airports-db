@@ -3,8 +3,8 @@
     "ident": "NY66",
     "type": "small_airport",
     "name": "Lewis Field",
-    "latitude_deg": "43.133399963378906",
-    "longitude_deg": "-74.11620330810547",
+    "latitude_deg": "43.128532",
+    "longitude_deg": "-74.124758",
     "elevation_ft": "900",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "NY66",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "The Farm Airport",
     "runways": [
         {
             "id": "258163",
