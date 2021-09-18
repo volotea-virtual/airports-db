@@ -2,7 +2,7 @@
     "id": "329883",
     "ident": "US-1026",
     "type": "small_airport",
-    "name": "Nelson Ranch Airport",
+    "name": "Lander's Fork Ranch Airport",
     "latitude_deg": "47.05362",
     "longitude_deg": "-112.546111",
     "elevation_ft": "5089",
@@ -16,7 +16,7 @@
     "local_code": "MT21",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Nelson Ranch",
     "country": {
         "id": "302755",
         "code": "US",

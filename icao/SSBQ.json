@@ -22,7 +22,7 @@
             "id": "262082",
             "airport_ref": "37409",
             "airport_ident": "SSBQ",
-            "length_ft": "4593",
+            "length_ft": "2369",
             "width_ft": "59",
             "surface": "ASP",
             "lighted": "0",
@@ -38,7 +38,7 @@
             "he_longitude_deg": "",
             "he_elevation_ft": "",
             "he_heading_degT": "",
-            "he_displaced_threshold_ft": "656"
+            "he_displaced_threshold_ft": ""
         }
     ],
     "country": {
