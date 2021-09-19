@@ -2,9 +2,9 @@
     "id": "25801",
     "ident": "WN06",
     "type": "heliport",
-    "name": "Walla Walla General Hospital Heliport",
-    "latitude_deg": "46.055999755859375",
-    "longitude_deg": "-118.33100128173828",
+    "name": "Providence Southgate Medical Park Heliport",
+    "latitude_deg": "46.055942",
+    "longitude_deg": "-118.329508",
     "elevation_ft": "958",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "WN06",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Walla Walla General Hospital",
     "runways": [
         {
             "id": "269146",
