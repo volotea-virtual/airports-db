@@ -1,8 +1,8 @@
 {
     "id": "45683",
     "ident": "4NC4",
-    "type": "heliport",
-    "name": "Lowe'S Mooresville Heliport",
+    "type": "closed",
+    "name": "Lowe's Mooresville Heliport",
     "latitude_deg": "35.544847",
     "longitude_deg": "-80.854269",
     "elevation_ft": "840",
@@ -11,12 +11,12 @@
     "iso_region": "US-NC",
     "municipality": "Mooresville",
     "scheduled_service": "no",
-    "gps_code": "4NC4",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "4NC4",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "4NC4",
     "runways": [
         {
             "id": "264663",

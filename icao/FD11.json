@@ -2,9 +2,9 @@
     "id": "17282",
     "ident": "FD11",
     "type": "heliport",
-    "name": "Fpc Heliport",
-    "latitude_deg": "30.31130027770996",
-    "longitude_deg": "-81.67479705810547",
+    "name": "FPC Heliport",
+    "latitude_deg": "30.32382",
+    "longitude_deg": "-81.66744",
     "elevation_ft": "8",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "FD11",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Florida Publishing Company",
     "runways": [
         {
             "id": "267486",

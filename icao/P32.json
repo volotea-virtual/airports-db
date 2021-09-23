@@ -3,8 +3,8 @@
     "ident": "P32",
     "type": "closed",
     "name": "Husky Haven Airport",
-    "latitude_deg": "41.788964",
-    "longitude_deg": "-75.889917",
+    "latitude_deg": "41.788273",
+    "longitude_deg": "-75.889817",
     "elevation_ft": "1670",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "PA52, P32",
+    "keywords": "PA52, P32, Zaverton",
     "runways": [
         {
             "id": "249219",

@@ -3,13 +3,13 @@
     "ident": "JPN",
     "type": "heliport",
     "name": "Pentagon Army Heliport",
-    "latitude_deg": "38.8740997314",
-    "longitude_deg": "-77.0575027466",
+    "latitude_deg": "38.874908",
+    "longitude_deg": "-77.056682",
     "elevation_ft": "40",
     "continent": "NA",
     "iso_country": "US",
-    "iso_region": "US-DC",
-    "municipality": "Washington",
+    "iso_region": "US-VA",
+    "municipality": "Arlington",
     "scheduled_service": "no",
     "gps_code": "KJPN",
     "iata_code": "JPN",
@@ -50,13 +50,13 @@
         "keywords": "America"
     },
     "region": {
-        "id": "306083",
-        "code": "US-DC",
-        "local_code": "DC",
-        "name": "District of Columbia",
+        "id": "306122",
+        "code": "US-VA",
+        "local_code": "VA",
+        "name": "Virginia",
         "continent": "NA",
         "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/District_of_Columbia",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Virginia",
         "keywords": ""
     }
 }
