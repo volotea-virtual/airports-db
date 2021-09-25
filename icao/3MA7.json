@@ -1,10 +1,10 @@
 {
     "id": "10589",
     "ident": "3MA7",
-    "type": "heliport",
+    "type": "closed",
     "name": "Gear Plant Heliport",
-    "latitude_deg": "42.452301025390625",
-    "longitude_deg": "-70.9655990600586",
+    "latitude_deg": "42.452141",
+    "longitude_deg": "-70.965432",
     "elevation_ft": "10",
     "continent": "NA",
     "iso_country": "US",

@@ -2,9 +2,9 @@
     "id": "11608",
     "ident": "4NJ1",
     "type": "heliport",
-    "name": "Somerset Medical Center Heliport",
-    "latitude_deg": "40.567901611328125",
-    "longitude_deg": "-74.59429931640625",
+    "name": "RJW University Hospital Somerset Heliport",
+    "latitude_deg": "40.56892",
+    "longitude_deg": "-74.59453",
     "elevation_ft": "87",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "4NJ1",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Somerset Medical Center Heliport",
     "runways": [
         {
             "id": "270188",
