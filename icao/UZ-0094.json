@@ -1,10 +1,10 @@
 {
     "id": "41781",
     "ident": "UZ-0094",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Karshi East Airport",
-    "latitude_deg": "38.8672981262207",
-    "longitude_deg": "65.84149932861328",
+    "latitude_deg": "38.867298",
+    "longitude_deg": "65.841499",
     "elevation_ft": "1258",
     "continent": "AS",
     "iso_country": "UZ",

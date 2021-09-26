@@ -22,7 +22,7 @@
             "id": "237022",
             "airport_ref": "4384",
             "airport_ident": "LIRZ",
-            "length_ft": "5564",
+            "length_ft": "7749",
             "width_ft": "148",
             "surface": "ASP",
             "lighted": "1",
@@ -32,13 +32,13 @@
             "le_longitude_deg": "12.5106",
             "le_elevation_ft": "667",
             "le_heading_degT": "14",
-            "le_displaced_threshold_ft": "",
+            "le_displaced_threshold_ft": "328",
             "he_ident": "19",
-            "he_latitude_deg": "43.1033",
-            "he_longitude_deg": "12.5158",
+            "he_latitude_deg": "43.1077",
+            "he_longitude_deg": "12.5175",
             "he_elevation_ft": "693",
             "he_heading_degT": "194",
-            "he_displaced_threshold_ft": "85"
+            "he_displaced_threshold_ft": "203"
         }
     ],
     "freqs": [

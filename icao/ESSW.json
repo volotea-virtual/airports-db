@@ -17,6 +17,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "347911",
+            "airport_ref": "29369",
+            "airport_ident": "ESSW",
+            "length_ft": "3930",
+            "width_ft": "98",
+            "surface": "Asphalt",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "128",
+            "le_heading_degT": "146",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "125",
+            "he_heading_degT": "326",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "freqs": [
         {
             "id": "313585",
@@ -24,7 +48,7 @@
             "airport_ident": "ESSW",
             "type": "RADIO",
             "description": "VÄSTERVIK RADIO",
-            "frequency_mhz": "123.25"
+            "frequency_mhz": "131.615"
         }
     ],
     "country": {

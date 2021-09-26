@@ -12,11 +12,11 @@
     "municipality": "Jingzhou",
     "scheduled_service": "no",
     "gps_code": "ZHSS",
-    "iata_code": "SHS",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Shashi_Airport",
-    "keywords": "",
+    "keywords": "SHS",
     "country": {
         "id": "302627",
         "code": "CN",

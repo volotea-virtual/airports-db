@@ -1,10 +1,10 @@
 {
     "id": "41793",
     "ident": "UZ-0106",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Kodzhar Southwest Airport",
-    "latitude_deg": "38.80619812011719",
-    "longitude_deg": "65.5697021484375",
+    "latitude_deg": "38.806198",
+    "longitude_deg": "65.569702",
     "elevation_ft": "1127",
     "continent": "AS",
     "iso_country": "UZ",
