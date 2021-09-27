@@ -8,7 +8,7 @@
     "elevation_ft": "2100",
     "continent": "AS",
     "iso_country": "ID",
-    "iso_region": "ID-LA",
+    "iso_region": "ID-SS",
     "municipality": "Pasar Bandingagung",
     "scheduled_service": "no",
     "gps_code": "WIPD",
@@ -50,13 +50,13 @@
         "keywords": "Bandara di Indonesia"
     },
     "region": {
-        "id": "304113",
-        "code": "ID-LA",
-        "local_code": "LA",
-        "name": "Lampung",
+        "id": "304124",
+        "code": "ID-SS",
+        "local_code": "SS",
+        "name": "Sumatra Selatan",
         "continent": "AS",
         "iso_country": "ID",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lampung",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sumatra_Selatan",
         "keywords": ""
     }
 }

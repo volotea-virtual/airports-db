@@ -12,10 +12,10 @@
     "municipality": "Bangor",
     "scheduled_service": "no",
     "gps_code": "LFEA",
-    "iata_code": "",
+    "iata_code": "BIC",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://fr.wikipedia.org/wiki/Aérodrome_de_Belle-Île",
     "keywords": "Palais-Belle-İle-en-Mer Aerodrome",
     "runways": [
         {
