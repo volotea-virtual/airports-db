@@ -1,10 +1,10 @@
 {
     "id": "8768",
     "ident": "1XS7",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Heath Canyon Airport",
-    "latitude_deg": "29.450199127197266",
-    "longitude_deg": "-102.83200073242188",
+    "latitude_deg": "29.450199",
+    "longitude_deg": "-102.832001",
     "elevation_ft": "1857",
     "continent": "NA",
     "iso_country": "US",

@@ -2,9 +2,9 @@
     "id": "14196",
     "ident": "7LA8",
     "type": "heliport",
-    "name": "Natchitoches Parish Hospital Heliport",
-    "latitude_deg": "31.753599166870117",
-    "longitude_deg": "-93.07890319824219",
+    "name": "Natchitoches Regional Medical Center Heliport",
+    "latitude_deg": "31.752241",
+    "longitude_deg": "-93.077885",
     "elevation_ft": "116",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "7LA8",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Natchitoches Parish Hospital Heliport",
     "runways": [
         {
             "id": "266478",

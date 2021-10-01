@@ -2,7 +2,7 @@
     "id": "330672",
     "ident": "20NR",
     "type": "heliport",
-    "name": "CHS Waxhaw Heliport",
+    "name": "Atrium Health Waxhaw Heliport",
     "latitude_deg": "34.963055",
     "longitude_deg": "-80.7635",
     "elevation_ft": "588",
@@ -16,7 +16,7 @@
     "local_code": "20NR",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "CHS Waxhaw Heliport",
     "runways": [
         {
             "id": "330673",

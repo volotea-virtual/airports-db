@@ -2,9 +2,9 @@
     "id": "22802",
     "ident": "NC60",
     "type": "heliport",
-    "name": "CHS Northeast Medical Center Heliport",
+    "name": "Atrium Health Cabarrus Heliport",
     "latitude_deg": "35.435101",
-    "longitude_deg": "-80.601402",
+    "longitude_deg": "-80.601382",
     "elevation_ft": "711",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "NC60",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "CHS Northeast Medical Center Heliport",
     "runways": [
         {
             "id": "268232",
