@@ -8,7 +8,7 @@
     "elevation_ft": "98",
     "continent": "AS",
     "iso_country": "CN",
-    "iso_region": "CN-13",
+    "iso_region": "CN-11",
     "municipality": "Beijing",
     "scheduled_service": "yes",
     "gps_code": "ZBAD",
@@ -206,13 +206,13 @@
         "keywords": "中国的机场"
     },
     "region": {
-        "id": "303424",
-        "code": "CN-13",
-        "local_code": "13",
-        "name": "Hebei Province",
+        "id": "303422",
+        "code": "CN-11",
+        "local_code": "11",
+        "name": "Beijing Municipality",
         "continent": "AS",
         "iso_country": "CN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Hebei",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Beijing",
         "keywords": ""
     }
 }

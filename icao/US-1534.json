@@ -1,11 +1,11 @@
 {
     "id": "335942",
     "ident": "US-1534",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Taylor Flat Airport",
     "latitude_deg": "40.88985",
     "longitude_deg": "-109.16491",
-    "elevation_ft": "",
+    "elevation_ft": "5626",
     "continent": "NA",
     "iso_country": "US",
     "iso_region": "US-UT",

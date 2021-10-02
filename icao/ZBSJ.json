@@ -2,9 +2,9 @@
     "id": "27191",
     "ident": "ZBSJ",
     "type": "medium_airport",
-    "name": "Shijiazhuang Daguocun International Airport",
-    "latitude_deg": "38.28070068359375",
-    "longitude_deg": "114.6969985961914",
+    "name": "Shijiazhuang Zhengding International Airport",
+    "latitude_deg": "38.280701",
+    "longitude_deg": "114.696999",
     "elevation_ft": "233",
     "continent": "AS",
     "iso_country": "CN",
@@ -15,8 +15,8 @@
     "iata_code": "SJW",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "https://en.wikipedia.org/wiki/Shijiazhuang_Daguocun_International_Airport",
-    "keywords": "Zhengding",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Shijiazhuang_Zhengding_International_Airport",
+    "keywords": "Daguocun",
     "runways": [
         {
             "id": "235155",

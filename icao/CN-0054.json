@@ -2,7 +2,7 @@
     "id": "318172",
     "ident": "CN-0054",
     "type": "small_airport",
-    "name": "Baoding Army Heliport",
+    "name": "Baoding Huangzhang Airport",
     "latitude_deg": "38.83359",
     "longitude_deg": "115.521626",
     "elevation_ft": "",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Baoding Army Heliport",
     "country": {
         "id": "302627",
         "code": "CN",

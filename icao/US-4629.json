@@ -2,7 +2,7 @@
     "id": "345946",
     "ident": "US-4629",
     "type": "small_airport",
-    "name": "Sunnyside Airport",
+    "name": "Columbia Junction Airstrip",
     "latitude_deg": "39.52496",
     "longitude_deg": "-110.46457",
     "elevation_ft": "5990",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Sunnyside Airport",
     "country": {
         "id": "302755",
         "code": "US",

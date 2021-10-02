@@ -2,7 +2,7 @@
     "id": "346039",
     "ident": "US-4681",
     "type": "small_airport",
-    "name": "Flat Rock Oilfield Airport",
+    "name": "Flat Rock Airport",
     "latitude_deg": "39.5668",
     "longitude_deg": "-109.7147",
     "elevation_ft": "7512",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Flat Rock Oilfield",
     "country": {
         "id": "302755",
         "code": "US",
