@@ -2,7 +2,7 @@
     "id": "30650",
     "ident": "ZSAQ",
     "type": "medium_airport",
-    "name": "Anqing Tianzhushan Airport",
+    "name": "Anqing Tianzhushan Airport / Anqing North Air Base",
     "latitude_deg": "30.582199",
     "longitude_deg": "117.050003",
     "elevation_ft": "",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Anqing_Tianzhushan_Airport",
-    "keywords": "Anqing Air Base",
+    "keywords": "",
     "country": {
         "id": "302627",
         "code": "CN",

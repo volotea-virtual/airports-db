@@ -2,10 +2,10 @@
     "id": "27222",
     "ident": "ZSOF",
     "type": "medium_airport",
-    "name": "Hefei Luogang International Airport",
-    "latitude_deg": "31.780000686645508",
-    "longitude_deg": "117.2979965209961",
-    "elevation_ft": "108",
+    "name": "Hefei Xinqiao International Airport",
+    "latitude_deg": "31.98779",
+    "longitude_deg": "116.9769",
+    "elevation_ft": "207",
     "continent": "AS",
     "iso_country": "CN",
     "iso_region": "CN-34",
@@ -15,7 +15,7 @@
     "iata_code": "HFE",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "https://en.wikipedia.org/wiki/Hefei_Luogang_International_Airport",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hefei_Xinqiao_International_Airport",
     "keywords": "",
     "runways": [
         {
