@@ -17,6 +17,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "Taldy Kurgan Airport, Taldy Kurgan Northeast Airport, Аэропорт Талды-Курган",
+    "runways": [
+        {
+            "id": "348312",
+            "airport_ref": "41868",
+            "airport_ident": "KZ-0016",
+            "length_ft": "9846",
+            "width_ft": "164",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "45.1105",
+            "le_longitude_deg": "78.4344",
+            "le_elevation_ft": "1935",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "45.1347",
+            "he_longitude_deg": "78.4512",
+            "he_elevation_ft": "1935",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "freqs": [
         {
             "id": "317126",
