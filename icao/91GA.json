@@ -2,9 +2,9 @@
     "id": "15309",
     "ident": "91GA",
     "type": "small_airport",
-    "name": "Dbaks Airport",
-    "latitude_deg": "33.27360153198242",
-    "longitude_deg": "-84.79329681396484",
+    "name": "Flying Frog Field Airport",
+    "latitude_deg": "33.273602",
+    "longitude_deg": "-84.793297",
     "elevation_ft": "910",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "91GA",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Dbaks",
     "runways": [
         {
             "id": "248610",
