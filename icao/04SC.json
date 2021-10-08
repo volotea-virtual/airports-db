@@ -3,8 +3,8 @@
     "ident": "04SC",
     "type": "heliport",
     "name": "Emergency Helipad",
-    "latitude_deg": "34.8405990601",
-    "longitude_deg": "-82.60690307620001",
+    "latitude_deg": "34.842188",
+    "longitude_deg": "-82.60714",
     "elevation_ft": "994",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "04SC",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Easley Baptist Hospital",
     "runways": [
         {
             "id": "269444",

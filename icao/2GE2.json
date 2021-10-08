@@ -2,9 +2,9 @@
     "id": "9414",
     "ident": "2GE2",
     "type": "heliport",
-    "name": "Georgia Baptist Urgent Care Heliport",
-    "latitude_deg": "32.44900131225586",
-    "longitude_deg": "-84.47989654541016",
+    "name": "Piedmont Fayette Hospital Heliport",
+    "latitude_deg": "33.45305",
+    "longitude_deg": "-84.50677",
     "elevation_ft": "860",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "2GE2",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Georgia Baptist Urgent Care Heliport",
     "runways": [
         {
             "id": "265689",
