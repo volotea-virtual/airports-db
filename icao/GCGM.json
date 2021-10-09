@@ -3,8 +3,8 @@
     "ident": "GCGM",
     "type": "small_airport",
     "name": "La Gomera Airport",
-    "latitude_deg": "28.029600143432617",
-    "longitude_deg": "-17.214599609375",
+    "latitude_deg": "28.0296",
+    "longitude_deg": "-17.2146",
     "elevation_ft": "716",
     "continent": "EU",
     "iso_country": "ES",
@@ -14,8 +14,8 @@
     "gps_code": "GCGM",
     "iata_code": "GMZ",
     "local_code": "",
-    "home_link": "",
-    "wikipedia_link": "",
+    "home_link": "https://www.aena.es/en/la-gomera.html",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/La_Gomera_Airport",
     "keywords": "",
     "runways": [
         {

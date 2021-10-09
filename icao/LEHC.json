@@ -2,7 +2,7 @@
     "id": "29967",
     "ident": "LEHC",
     "type": "small_airport",
-    "name": "Huesca/Pirineos Airport",
+    "name": "Huesca-Pirineos Airport",
     "latitude_deg": "42.076099",
     "longitude_deg": "-0.316667",
     "elevation_ft": "1769",
@@ -14,9 +14,9 @@
     "gps_code": "LEHC",
     "iata_code": "HSK",
     "local_code": "",
-    "home_link": "http://aena.mobi/m/en/huesca-pirineos-airport/huesca-pirineos.html",
+    "home_link": "https://www.aena.es/en/huesca-pirineos.html",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Huesca%E2%80%93Pirineos_Airport",
-    "keywords": "",
+    "keywords": "Huesca-Pirineos, Huesca-Pyrenees",
     "runways": [
         {
             "id": "335839",

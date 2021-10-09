@@ -2,7 +2,7 @@
     "id": "4004",
     "ident": "LEBL",
     "type": "large_airport",
-    "name": "Barcelona International Airport",
+    "name": "Josep Tarradellas Barcelona-El Prat Airport",
     "latitude_deg": "41.2971",
     "longitude_deg": "2.07846",
     "elevation_ft": "12",
@@ -14,9 +14,9 @@
     "gps_code": "LEBL",
     "iata_code": "BCN",
     "local_code": "",
-    "home_link": "http://www.aena.es/en/barcelona-airport/index.html",
+    "home_link": "https://www.aena.es/en/josep-tarradellas-barcelona-el-prat.html",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Barcelona%E2%80%93El_Prat_Airport",
-    "keywords": "El Prat Airport",
+    "keywords": "El Prat Airport,Barcelona International,Josep Tarradellas Barcelona-El Prat Airport",
     "runways": [
         {
             "id": "238920",

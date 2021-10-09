@@ -2,9 +2,9 @@
     "id": "5213",
     "ident": "OJAM",
     "type": "medium_airport",
-    "name": "Amman-Marka International Airport",
-    "latitude_deg": "31.972700119018555",
-    "longitude_deg": "35.991600036621094",
+    "name": "Amman Civil (Marka International) Airport",
+    "latitude_deg": "31.9727",
+    "longitude_deg": "35.9916",
     "elevation_ft": "2555",
     "continent": "AS",
     "iso_country": "JO",
@@ -15,7 +15,7 @@
     "iata_code": "ADJ",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "https://en.wikipedia.org/wiki/Marka_Airport",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Amman_Civil_Airport",
     "keywords": "King Abdullah Air Base",
     "runways": [
         {

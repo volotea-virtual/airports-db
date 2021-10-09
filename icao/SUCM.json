@@ -2,7 +2,7 @@
     "id": "39082",
     "ident": "SUCM",
     "type": "small_airport",
-    "name": "Carmelo  Airport",
+    "name": "Zagarzazú International Airport",
     "latitude_deg": "-33.96611",
     "longitude_deg": "-58.325279",
     "elevation_ft": "42",
@@ -15,8 +15,8 @@
     "iata_code": "",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
-    "keywords": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Zagarzaz%C3%BA_International_Airport",
+    "keywords": "Balneario Zagarzazú, Carmelo",
     "runways": [
         {
             "id": "260267",

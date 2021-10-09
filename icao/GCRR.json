@@ -2,7 +2,7 @@
     "id": "3082",
     "ident": "GCRR",
     "type": "large_airport",
-    "name": "Lanzarote Airport",
+    "name": "César Manrique-Lanzarote Airport",
     "latitude_deg": "28.945499",
     "longitude_deg": "-13.6052",
     "elevation_ft": "46",
@@ -14,7 +14,7 @@
     "gps_code": "GCRR",
     "iata_code": "ACE",
     "local_code": "",
-    "home_link": "http://www.aena.es/en/lanzarote-airport/index.html",
+    "home_link": "https://www.aena.es/en/cesar-manrique-lanzarote.html",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Lanzarote_Airport",
     "keywords": "Arrecife Airport",
     "runways": [

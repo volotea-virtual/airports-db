@@ -2,7 +2,7 @@
     "id": "4018",
     "ident": "LELN",
     "type": "medium_airport",
-    "name": "Leon Airport",
+    "name": "León Airport",
     "latitude_deg": "42.589001",
     "longitude_deg": "-5.65556",
     "elevation_ft": "3006",
@@ -14,7 +14,7 @@
     "gps_code": "LELN",
     "iata_code": "LEN",
     "local_code": "",
-    "home_link": "",
+    "home_link": "https://www.aena.es/en/leon.html",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Le%C3%B3n_Airport",
     "keywords": "",
     "runways": [
