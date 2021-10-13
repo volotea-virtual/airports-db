@@ -1,7 +1,7 @@
 {
     "id": "337044",
     "ident": "BR-1179",
-    "type": "small_airport",
+    "type": "heliport",
     "name": "Tech Office Helipad",
     "latitude_deg": "-2.490976",
     "longitude_deg": "-44.303098",

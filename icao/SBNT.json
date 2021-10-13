@@ -2,7 +2,7 @@
     "id": "5949",
     "ident": "SBNT",
     "type": "medium_airport",
-    "name": "Augusto Severo Airport",
+    "name": "Natal Air Force Base",
     "latitude_deg": "-5.91142",
     "longitude_deg": "-35.2477",
     "elevation_ft": "171",
@@ -15,8 +15,8 @@
     "iata_code": "",
     "local_code": "RN9001",
     "home_link": "",
-    "wikipedia_link": "https://en.wikipedia.org/wiki/Augusto_Severo_International_Airport",
-    "keywords": "NAT, Parnamirim, Natal Air Force Base",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Natal_Air_Force_Base",
+    "keywords": "Augusto Severo International Airport , NAT, Parnamirim",
     "runways": [
         {
             "id": "234338",

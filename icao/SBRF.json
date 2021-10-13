@@ -2,9 +2,9 @@
     "id": "5965",
     "ident": "SBRF",
     "type": "medium_airport",
-    "name": "Guararapes - Gilberto Freyre International Airport",
-    "latitude_deg": "-8.126489639282227",
-    "longitude_deg": "-34.92359924316406",
+    "name": "Recife/Guararapes - Gilberto Freyre International Airport",
+    "latitude_deg": "-8.12649",
+    "longitude_deg": "-34.923599",
     "elevation_ft": "33",
     "continent": "SA",
     "iso_country": "BR",
@@ -15,8 +15,8 @@
     "iata_code": "REC",
     "local_code": "",
     "home_link": "http://www.infraero.gov.br/usa/aero_prev_home.php?ai=163",
-    "wikipedia_link": "https://en.wikipedia.org/wiki/Guararapes_International_Airport",
-    "keywords": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Recife/Guararapes%E2%80%93Gilberto_Freyre_International_Airport",
+    "keywords": "Ibura",
     "runways": [
         {
             "id": "234038",
