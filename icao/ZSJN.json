@@ -2,9 +2,9 @@
     "id": "27219",
     "ident": "ZSJN",
     "type": "large_airport",
-    "name": "Yaoqiang Airport",
-    "latitude_deg": "36.857200622558594",
-    "longitude_deg": "117.21600341796875",
+    "name": "Jinan Yaoqiang International Airport",
+    "latitude_deg": "36.857201",
+    "longitude_deg": "117.216003",
     "elevation_ft": "76",
     "continent": "AS",
     "iso_country": "CN",
@@ -15,7 +15,7 @@
     "iata_code": "TNA",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "https://en.wikipedia.org/wiki/Jinan_Yaoqiang_Airport",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Jinan_Yaoqiang_International_Airport",
     "keywords": "",
     "runways": [
         {

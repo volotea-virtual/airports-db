@@ -3,8 +3,8 @@
     "ident": "MMZO",
     "type": "medium_airport",
     "name": "Playa De Oro International Airport",
-    "latitude_deg": "19.144800186199998",
-    "longitude_deg": "-104.558998108",
+    "latitude_deg": "19.1448",
+    "longitude_deg": "-104.558998",
     "elevation_ft": "30",
     "continent": "NA",
     "iso_country": "MX",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "http://manzanillo.aeropuertosgap.com.mx/index.php?lang=eng",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Playa_de_Oro_International_Airport",
-    "keywords": "",
+    "keywords": "Manzanillo Costalegre",
     "runways": [
         {
             "id": "237712",
