@@ -1,10 +1,10 @@
 {
     "id": "44800",
     "ident": "TR-0036",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Ünye Airport",
-    "latitude_deg": "41.14120101928711",
-    "longitude_deg": "37.20920181274414",
+    "latitude_deg": "41.141201",
+    "longitude_deg": "37.209202",
     "elevation_ft": "",
     "continent": "AS",
     "iso_country": "TR",

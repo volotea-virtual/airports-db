@@ -1,8 +1,8 @@
 {
     "id": "44789",
     "ident": "TR-0025",
-    "type": "small_airport",
-    "name": "Ordu Giresun Airport",
+    "type": "medium_airport",
+    "name": "Ordu–Giresun Airport",
     "latitude_deg": "40.966872",
     "longitude_deg": "38.085995",
     "elevation_ft": "11",

@@ -1,10 +1,10 @@
 {
     "id": "30418",
     "ident": "LTCM",
-    "type": "small_airport",
+    "type": "medium_airport",
     "name": "Sinop Airport",
-    "latitude_deg": "42.015800476074",
-    "longitude_deg": "35.066398620605",
+    "latitude_deg": "42.018313",
+    "longitude_deg": "35.071774",
     "elevation_ft": "20",
     "continent": "AS",
     "iso_country": "TR",

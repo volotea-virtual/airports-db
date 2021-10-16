@@ -1,7 +1,7 @@
 {
     "id": "30585",
     "ident": "LTAS",
-    "type": "small_airport",
+    "type": "medium_airport",
     "name": "Zonguldak Çaycuma Airport",
     "latitude_deg": "41.506401",
     "longitude_deg": "32.0886",
@@ -10,7 +10,7 @@
     "iso_country": "TR",
     "iso_region": "TR-67",
     "municipality": "Zonguldak",
-    "scheduled_service": "no",
+    "scheduled_service": "yes",
     "gps_code": "LTAS",
     "iata_code": "ONQ",
     "local_code": "",

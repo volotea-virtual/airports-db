@@ -1,8 +1,8 @@
 {
     "id": "3821",
     "ident": "RK39",
-    "type": "small_airport",
-    "name": "G 239 Airport",
+    "type": "closed",
+    "name": "G-239 Airport",
     "latitude_deg": "38.198715",
     "longitude_deg": "127.222849",
     "elevation_ft": "630",

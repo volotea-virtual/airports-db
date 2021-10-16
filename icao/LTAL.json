@@ -1,10 +1,10 @@
 {
     "id": "30013",
     "ident": "LTAL",
-    "type": "small_airport",
+    "type": "medium_airport",
     "name": "Kastamonu Airport",
-    "latitude_deg": "41.31420135498047",
-    "longitude_deg": "33.795799255371094",
+    "latitude_deg": "41.314201",
+    "longitude_deg": "33.795799",
     "elevation_ft": "3520",
     "continent": "AS",
     "iso_country": "TR",

@@ -1,10 +1,10 @@
 {
     "id": "3076",
     "ident": "GBYD",
-    "type": "medium_airport",
+    "type": "large_airport",
     "name": "Banjul International Airport",
-    "latitude_deg": "13.338000297546387",
-    "longitude_deg": "-16.65220069885254",
+    "latitude_deg": "13.338",
+    "longitude_deg": "-16.652201",
     "elevation_ft": "95",
     "continent": "AF",
     "iso_country": "GM",

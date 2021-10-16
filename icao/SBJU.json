@@ -3,26 +3,26 @@
     "ident": "SBJU",
     "type": "small_airport",
     "name": "Orlando Bezerra de Menezes Airport",
-    "latitude_deg": "-7.21895980835",
-    "longitude_deg": "-39.270099639899996",
-    "elevation_ft": "1392",
+    "latitude_deg": "-7.21932",
+    "longitude_deg": "-39.269096",
+    "elevation_ft": "1342",
     "continent": "SA",
     "iso_country": "BR",
     "iso_region": "BR-CE",
-    "municipality": "Juazeiro Do Norte",
+    "municipality": "Juazeiro do Norte",
     "scheduled_service": "yes",
     "gps_code": "SBJU",
     "iata_code": "JDO",
-    "local_code": "",
+    "local_code": "CE0002",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Juazeiro_do_Norte_Airport",
-    "keywords": "Juazeiro Do Norte Airport",
+    "keywords": "Juazeiro do Norte Airport",
     "runways": [
         {
             "id": "234012",
             "airport_ref": "5924",
             "airport_ident": "SBJU",
-            "length_ft": "5906",
+            "length_ft": "6365",
             "width_ft": "148",
             "surface": "ASP",
             "lighted": "0",
@@ -38,7 +38,7 @@
             "he_longitude_deg": "",
             "he_elevation_ft": "",
             "he_heading_degT": "",
-            "he_displaced_threshold_ft": ""
+            "he_displaced_threshold_ft": "328"
         }
     ],
     "freqs": [
