@@ -1,10 +1,10 @@
 {
     "id": "3244",
     "ident": "HSNN",
-    "type": "small_airport",
+    "type": "medium_airport",
     "name": "Nyala Airport",
-    "latitude_deg": "12.053500175476074",
-    "longitude_deg": "24.956199645996094",
+    "latitude_deg": "12.0535",
+    "longitude_deg": "24.9562",
     "elevation_ft": "2106",
     "continent": "AF",
     "iso_country": "SD",

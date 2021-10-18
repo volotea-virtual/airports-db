@@ -1,10 +1,10 @@
 {
     "id": "3981",
     "ident": "LCPH",
-    "type": "large_airport",
+    "type": "medium_airport",
     "name": "Paphos International Airport",
-    "latitude_deg": "34.71799850463867",
-    "longitude_deg": "32.48569869995117",
+    "latitude_deg": "34.717999",
+    "longitude_deg": "32.485699",
     "elevation_ft": "41",
     "continent": "AS",
     "iso_country": "CY",
