@@ -1,10 +1,10 @@
 {
     "id": "334419",
     "ident": "JP-0094",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Moriya Ultralight Airstrip",
-    "latitude_deg": "35.916269",
-    "longitude_deg": "139.994005",
+    "latitude_deg": "35.9176",
+    "longitude_deg": "139.993318",
     "elevation_ft": "",
     "continent": "AS",
     "iso_country": "JP",

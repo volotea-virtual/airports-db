@@ -2,7 +2,7 @@
     "id": "7423",
     "ident": "0NK7",
     "type": "heliport",
-    "name": "IBM King Street Heliport",
+    "name": "King Street Heliport",
     "latitude_deg": "41.10279",
     "longitude_deg": "-73.725087",
     "elevation_ft": "470",
@@ -16,7 +16,7 @@
     "local_code": "0NK7",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "IBM King Street",
     "runways": [
         {
             "id": "269524",
