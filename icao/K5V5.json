@@ -3,8 +3,8 @@
     "ident": "K5V5",
     "type": "small_airport",
     "name": "Shiprock Airstrip",
-    "latitude_deg": "36.69779968261719",
-    "longitude_deg": "-108.70099639892578",
+    "latitude_deg": "36.6978",
+    "longitude_deg": "-108.700996",
     "elevation_ft": "5270",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "5V5",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Shiprock_Airstrip",
-    "keywords": "",
+    "keywords": "Naatʼáanii Nééz, Tsé Bitʼaʼí",
     "runways": [
         {
             "id": "242621",

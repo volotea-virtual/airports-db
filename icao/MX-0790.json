@@ -1,7 +1,7 @@
 {
     "id": "328857",
     "ident": "MX-0790",
-    "type": "heliport",
+    "type": "closed",
     "name": "Sefuver Heliport",
     "latitude_deg": "19.180036",
     "longitude_deg": "-96.319808",
@@ -16,7 +16,7 @@
     "local_code": "HSO",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "HSO",
     "country": {
         "id": "302747",
         "code": "MX",
