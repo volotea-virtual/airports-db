@@ -1,7 +1,7 @@
 {
     "id": "337419",
     "ident": "MX-1322",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Aero Fumigaciones Cessna Airstrip",
     "latitude_deg": "25.531367",
     "longitude_deg": "-108.584597",
@@ -16,7 +16,7 @@
     "local_code": "AFE",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "AFE",
     "country": {
         "id": "302747",
         "code": "MX",
