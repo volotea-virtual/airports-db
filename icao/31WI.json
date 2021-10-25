@@ -11,12 +11,12 @@
     "iso_region": "US-WI",
     "municipality": "Sullivan",
     "scheduled_service": "no",
-    "gps_code": "31WI",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "31WI",
+    "local_code": "W11",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "McDermott Air Park",
+    "keywords": "31WI, McDermott Air Park",
     "runways": [
         {
             "id": "244160",
