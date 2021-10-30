@@ -1,10 +1,10 @@
 {
     "id": "5",
     "ident": "AL-LA10",
-    "type": "closed",
+    "type": "small_airport",
     "name": "Gjirokastër Airport",
-    "latitude_deg": "40.087889",
-    "longitude_deg": "20.151917",
+    "latitude_deg": "40.085383",
+    "longitude_deg": "20.15389",
     "elevation_ft": "666",
     "continent": "EU",
     "iso_country": "AL",

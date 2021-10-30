@@ -3,8 +3,8 @@
     "ident": "SBIC",
     "type": "medium_airport",
     "name": "Itacoatiara Airport",
-    "latitude_deg": "-3.1272599697113037",
-    "longitude_deg": "-58.481201171875",
+    "latitude_deg": "-3.126539",
+    "longitude_deg": "-58.481668",
     "elevation_ft": "142",
     "continent": "SA",
     "iso_country": "BR",
@@ -13,9 +13,9 @@
     "scheduled_service": "no",
     "gps_code": "SBIC",
     "iata_code": "ITA",
-    "local_code": "",
+    "local_code": "AM0012",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://pt.wikipedia.org/wiki/Aeroporto_de_Itacoatiara",
     "keywords": "",
     "runways": [
         {

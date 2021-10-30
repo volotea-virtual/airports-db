@@ -2,9 +2,9 @@
     "id": "15164",
     "ident": "8PS9",
     "type": "heliport",
-    "name": "Tyler Memorial Hospital Heliport",
-    "latitude_deg": "41.578399658203125",
-    "longitude_deg": "-75.97049713134766",
+    "name": "Commonwealth Health Tunkhannock Heliport",
+    "latitude_deg": "41.578334",
+    "longitude_deg": "-75.970037",
     "elevation_ft": "1080",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "8PS9",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Tyler Memorial Hospital Heliport",
     "runways": [
         {
             "id": "266656",

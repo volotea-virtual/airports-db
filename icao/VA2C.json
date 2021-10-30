@@ -9,14 +9,14 @@
     "continent": "AS",
     "iso_country": "IN",
     "iso_region": "IN-MM",
-    "municipality": "",
+    "municipality": "Gondia",
     "scheduled_service": "no",
     "gps_code": "VAGD",
-    "iata_code": "",
+    "iata_code": "GDB",
     "local_code": "VA2C",
     "home_link": "",
-    "wikipedia_link": "",
-    "keywords": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Gondia_Airport",
+    "keywords": "Birsi",
     "runways": [
         {
             "id": "236807",

@@ -3,8 +3,8 @@
     "ident": "LFEC",
     "type": "small_airport",
     "name": "Ouessant Airport",
-    "latitude_deg": "48.463199615478516",
-    "longitude_deg": "-5.06358003616333",
+    "latitude_deg": "48.4632",
+    "longitude_deg": "-5.06358",
     "elevation_ft": "142",
     "continent": "EU",
     "iso_country": "FR",
@@ -12,10 +12,10 @@
     "municipality": "Ushant",
     "scheduled_service": "no",
     "gps_code": "LFEC",
-    "iata_code": "",
+    "iata_code": "OUI",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ushant_Airport",
     "keywords": "",
     "runways": [
         {
