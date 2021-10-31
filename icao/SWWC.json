@@ -5,18 +5,18 @@
     "name": "Ceta Ecotel Heliport",
     "latitude_deg": "-0.0478",
     "longitude_deg": "-51.1186",
-    "elevation_ft": "36",
+    "elevation_ft": "30",
     "continent": "SA",
     "iso_country": "BR",
-    "iso_region": "BR-ES",
+    "iso_region": "BR-AP",
     "municipality": "Macapá",
     "scheduled_service": "no",
-    "gps_code": "SWWC",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "SWWC",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SWWC",
     "runways": [
         {
             "id": "318036",
@@ -50,13 +50,13 @@
         "keywords": "Brasil, Brasilian"
     },
     "region": {
-        "id": "303206",
-        "code": "BR-ES",
-        "local_code": "ES",
-        "name": "Espírito Santo",
+        "id": "303202",
+        "code": "BR-AP",
+        "local_code": "AP",
+        "name": "Amapá",
         "continent": "SA",
         "iso_country": "BR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Espírito_Santo",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Amapá",
         "keywords": ""
     }
 }
