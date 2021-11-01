@@ -19,6 +19,28 @@
     "keywords": "RB5",
     "runways": [
         {
+            "id": "309274",
+            "airport_ref": "1483",
+            "airport_ident": "CRB5",
+            "length_ft": "5528",
+            "width_ft": "80",
+            "surface": "Gravel",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "94",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "94",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        },
+        {
             "id": "298349",
             "airport_ref": "1483",
             "airport_ident": "CRB5",
@@ -39,6 +61,16 @@
             "he_elevation_ft": "",
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "309276",
+            "airport_ref": "1483",
+            "airport_ident": "CRB5",
+            "type": "UNICOM",
+            "description": "",
+            "frequency_mhz": "122.9"
         }
     ],
     "country": {

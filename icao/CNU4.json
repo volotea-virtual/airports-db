@@ -2,9 +2,9 @@
     "id": "1348",
     "ident": "CNU4",
     "type": "small_airport",
-    "name": "Belleville Airport",
-    "latitude_deg": "44.19219970703125",
-    "longitude_deg": "-77.30940246582031",
+    "name": "Belleville Aerodrome",
+    "latitude_deg": "44.1922",
+    "longitude_deg": "-77.309402",
     "elevation_ft": "320",
     "continent": "NA",
     "iso_country": "CA",
@@ -15,7 +15,7 @@
     "iata_code": "",
     "local_code": "CNU4",
     "home_link": "",
-    "wikipedia_link": "https://en.wikipedia.org/wiki/Belleville_Airport",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Belleville_Aerodrome",
     "keywords": "NU4",
     "runways": [
         {

@@ -49,6 +49,14 @@
             "type": "MF",
             "description": "Voisey's Bay",
             "frequency_mhz": "123.2"
+        },
+        {
+            "id": "318124",
+            "airport_ref": "44471",
+            "airport_ident": "cvb2",
+            "type": "MF",
+            "description": "Voisey's Bay",
+            "frequency_mhz": "123.2"
         }
     ],
     "country": {

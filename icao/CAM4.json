@@ -49,6 +49,14 @@
             "type": "CTAF",
             "description": "",
             "frequency_mhz": "122.8"
+        },
+        {
+            "id": "75496",
+            "airport_ref": "46598",
+            "airport_ident": "CAM4",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "122.8"
         }
     ],
     "country": {
