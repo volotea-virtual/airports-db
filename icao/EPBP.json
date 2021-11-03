@@ -1,10 +1,10 @@
 {
     "id": "31012",
     "ident": "EPBP",
-    "type": "medium_airport",
-    "name": "Biała Podlaska Airfield",
+    "type": "closed",
+    "name": "Biała Podlaska Air Base",
     "latitude_deg": "52.00078",
-    "longitude_deg": "23.1325278",
+    "longitude_deg": "23.132528",
     "elevation_ft": "485",
     "continent": "EU",
     "iso_country": "PL",

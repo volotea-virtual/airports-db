@@ -2,9 +2,9 @@
     "id": "6617",
     "ident": "01OI",
     "type": "heliport",
-    "name": "Galion Community Hospital Heliport",
-    "latitude_deg": "40.73059844970703",
-    "longitude_deg": "-82.80159759521484",
+    "name": "Avita Health System Galion Hospital Heliport",
+    "latitude_deg": "40.730267",
+    "longitude_deg": "-82.802022",
     "elevation_ft": "1140",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "01OI",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Galion Community Hospital Heliport",
     "runways": [
         {
             "id": "269419",

@@ -3,8 +3,8 @@
     "ident": "RJ04",
     "type": "small_airport",
     "name": "Shikabe Airfield",
-    "latitude_deg": "42.044998",
-    "longitude_deg": "140.792999",
+    "latitude_deg": "42.045033",
+    "longitude_deg": "140.793293",
     "elevation_ft": "63",
     "continent": "AS",
     "iso_country": "JP",
@@ -16,7 +16,7 @@
     "local_code": "RJ04",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Asahikoku Shikabe",
     "runways": [
         {
             "id": "237237",

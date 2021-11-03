@@ -3,8 +3,8 @@
     "ident": "EDNU",
     "type": "small_airport",
     "name": "Thannhausen Airport",
-    "latitude_deg": "48.290000915527344",
-    "longitude_deg": "10.441944122314453",
+    "latitude_deg": "48.290001",
+    "longitude_deg": "10.441944",
     "elevation_ft": "1611",
     "continent": "EU",
     "iso_country": "DE",
@@ -14,8 +14,8 @@
     "gps_code": "EDNU",
     "iata_code": "",
     "local_code": "",
-    "home_link": "",
-    "wikipedia_link": "",
+    "home_link": "https://www.mlv-thannhausen.de",
+    "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Thannhausen",
     "keywords": "",
     "runways": [
         {
@@ -39,6 +39,16 @@
             "he_elevation_ft": "",
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "349406",
+            "airport_ref": "28738",
+            "airport_ident": "EDNU",
+            "type": "Thannhausen Info",
+            "description": "",
+            "frequency_mhz": "118.18"
         }
     ],
     "country": {

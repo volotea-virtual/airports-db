@@ -1,10 +1,10 @@
 {
     "id": "46521",
     "ident": "CA-0440",
-    "type": "heliport",
+    "type": "closed",
     "name": "Point Petre Helipad",
-    "latitude_deg": "43.84324432139999",
-    "longitude_deg": "-77.1447569132",
+    "latitude_deg": "43.843244",
+    "longitude_deg": "-77.144757",
     "elevation_ft": "",
     "continent": "NA",
     "iso_country": "CA",
