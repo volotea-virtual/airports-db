@@ -75,12 +75,12 @@ const updateReadme = async (numberOfAirports, numberOfRunways, numberOfFrequenci
 const build = async () => {
     console.info('Downloading data from ourairports.com');
 
-    await downloadFile('https://ourairports.com/data/airports.csv', resolve('raw/airports.csv'));
-    await downloadFile('https://ourairports.com/data/runways.csv', resolve('raw/runways.csv'));
-    await downloadFile('https://ourairports.com/data/airport-frequencies.csv', resolve('raw/airport-frequencies.csv'));
-    await downloadFile('https://ourairports.com/data/countries.csv', resolve('raw/countries.csv'));
-    await downloadFile('https://ourairports.com/data/regions.csv', resolve('raw/regions.csv'));
-    await downloadFile('https://ourairports.com/data/navaids.csv', resolve('raw/navaids.csv'));
+    await downloadFile('https://davidmegginson.github.io/ourairports-data/airports.csv', resolve('raw/airports.csv'));
+    await downloadFile('https://davidmegginson.github.io/ourairports-data/runways.csv', resolve('raw/runways.csv'));
+    await downloadFile('https://davidmegginson.github.io/ourairports-data/airport-frequencies.csv', resolve('raw/airport-frequencies.csv'));
+    await downloadFile('https://davidmegginson.github.io/ourairports-data/countries.csv', resolve('raw/countries.csv'));
+    await downloadFile('https://davidmegginson.github.io/ourairports-data/regions.csv', resolve('raw/regions.csv'));
+    await downloadFile('https://davidmegginson.github.io/ourairports-data/navaids.csv', resolve('raw/navaids.csv'));
 
     console.info('Loading data');
 
@@ -104,7 +104,7 @@ const build = async () => {
         console.warn('No airports found, aborting!');
         return;
     }
-    
+
     console.info('Merging and converting airport data to json');
 
     let index = 0;
