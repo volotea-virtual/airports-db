@@ -1,0 +1,38 @@
+{
+    "id": "349455",
+    "ident": "SY-0011",
+    "type": "small_airport",
+    "name": "As-Saliniyah Airport",
+    "latitude_deg": "34.73309",
+    "longitude_deg": "40.71139",
+    "elevation_ft": "747",
+    "continent": "AS",
+    "iso_country": "SY",
+    "iso_region": "SY-DY",
+    "municipality": "As-Saliniyah",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302662",
+        "code": "SY",
+        "name": "Syria",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Syria",
+        "keywords": "مطارات سوريا"
+    },
+    "region": {
+        "id": "305668",
+        "code": "SY-DY",
+        "local_code": "DY",
+        "name": "Deir ez-Zor Governorate",
+        "continent": "AS",
+        "iso_country": "SY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Deir_ez-Zor_Governorate",
+        "keywords": "Dayr az Zawr"
+    }
+}

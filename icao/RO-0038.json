@@ -1,0 +1,38 @@
+{
+    "id": "351101",
+    "ident": "RO-0038",
+    "type": "heliport",
+    "name": "Constanța Naval Heliport",
+    "latitude_deg": "44.15778",
+    "longitude_deg": "28.66116",
+    "elevation_ft": "3",
+    "continent": "EU",
+    "iso_country": "RO",
+    "iso_region": "RO-CT",
+    "municipality": "Constanța",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302712",
+        "code": "RO",
+        "name": "Romania",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Romania",
+        "keywords": "Aeroporturi din România"
+    },
+    "region": {
+        "id": "305232",
+        "code": "RO-CT",
+        "local_code": "CT",
+        "name": "Constanţa County",
+        "continent": "EU",
+        "iso_country": "RO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Constanţa_County",
+        "keywords": "Dobrudja"
+    }
+}

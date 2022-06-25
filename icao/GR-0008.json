@@ -1,0 +1,38 @@
+{
+    "id": "315592",
+    "ident": "GR-0008",
+    "type": "small_airport",
+    "name": "Missolonghi Aerodrome",
+    "latitude_deg": "38.35648",
+    "longitude_deg": "21.47889",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "GR",
+    "iso_region": "GR-G",
+    "municipality": "Missolonghi",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "LG01",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302691",
+        "code": "GR",
+        "name": "Greece",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Greece",
+        "keywords": "αεροδρόμια στην Ελλάδα"
+    },
+    "region": {
+        "id": "353667",
+        "code": "GR-G",
+        "local_code": "G",
+        "name": "Western Greece",
+        "continent": "EU",
+        "iso_country": "GR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Greece",
+        "keywords": "Airports in Western Greece"
+    }
+}

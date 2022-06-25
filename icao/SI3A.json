@@ -1,0 +1,38 @@
+{
+    "id": "353938",
+    "ident": "SI3A",
+    "type": "small_airport",
+    "name": "Fazenda Santa Joana Airports",
+    "latitude_deg": "-20.181194",
+    "longitude_deg": "-52.979625",
+    "elevation_ft": "1430",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MS",
+    "municipality": "Água Clara",
+    "scheduled_service": "no",
+    "gps_code": "SI3A",
+    "iata_code": "",
+    "local_code": "MS0606",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian"
+    },
+    "region": {
+        "id": "303210",
+        "code": "BR-MS",
+        "local_code": "MS",
+        "name": "Mato Grosso do Sul",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mato_Grosso_do_Sul",
+        "keywords": "Airports in Mato Grosso do Sul"
+    }
+}

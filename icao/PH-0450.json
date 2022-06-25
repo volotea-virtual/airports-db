@@ -1,0 +1,38 @@
+{
+    "id": "351505",
+    "ident": "PH-0450",
+    "type": "small_airport",
+    "name": "Malalag Airport",
+    "latitude_deg": "6.57319",
+    "longitude_deg": "125.3968",
+    "elevation_ft": "125",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-DAS",
+    "municipality": "Malalag",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302656",
+        "code": "PH",
+        "name": "Philippines",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
+        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
+    },
+    "region": {
+        "id": "305082",
+        "code": "PH-DAS",
+        "local_code": "DAS",
+        "name": "Davao del Sur Province",
+        "continent": "AS",
+        "iso_country": "PH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Davao_del_Sur_Province",
+        "keywords": "Airports in Davao del Sur Province"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "351119",
+    "ident": "IR-0043",
+    "type": "small_airport",
+    "name": "Abhar Flight School Airport",
+    "latitude_deg": "36.13005",
+    "longitude_deg": "49.19908",
+    "elevation_ft": "5223",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-19",
+    "municipality": "Abhar",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302637",
+        "code": "IR",
+        "name": "Iran",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iran",
+        "keywords": "فرودگاه های ایران"
+    },
+    "region": {
+        "id": "304228",
+        "code": "IR-19",
+        "local_code": "19",
+        "name": "Zanjan Province",
+        "continent": "AS",
+        "iso_country": "IR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Zanjan_Province",
+        "keywords": "Airports in Zanjan Province"
+    }
+}

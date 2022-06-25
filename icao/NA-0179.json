@@ -1,0 +1,38 @@
+{
+    "id": "353241",
+    "ident": "NA-0179",
+    "type": "small_airport",
+    "name": "Skuit Drift Airport",
+    "latitude_deg": "-28.37664",
+    "longitude_deg": "19.77924",
+    "elevation_ft": "3150",
+    "continent": "AF",
+    "iso_country": "NA",
+    "iso_region": "NA-KA",
+    "municipality": "Skuit Drift",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302591",
+        "code": "NA",
+        "name": "Namibia",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Namibia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304854",
+        "code": "NA-KA",
+        "local_code": "KA",
+        "name": "ǁKaras Region",
+        "continent": "AF",
+        "iso_country": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/ǁKaras_Region",
+        "keywords": "Airports in ǁKaras Region"
+    }
+}

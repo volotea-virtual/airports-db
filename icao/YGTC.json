@@ -1,0 +1,38 @@
+{
+    "id": "354813",
+    "ident": "YGTC",
+    "type": "small_airport",
+    "name": "Gemtree Caravan Park Airstrip",
+    "latitude_deg": "-22.970918",
+    "longitude_deg": "134.247387",
+    "elevation_ft": "2136",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NT",
+    "municipality": "Anmatjere",
+    "scheduled_service": "no",
+    "gps_code": "YGTC",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "https://gemtree.com.au/",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": "Australian airports"
+    },
+    "region": {
+        "id": "302970",
+        "code": "AU-NT",
+        "local_code": "NT",
+        "name": "Northern Territory",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Territory",
+        "keywords": "Airports in Northern Territory"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "351722",
+    "ident": "AO-0065",
+    "type": "small_airport",
+    "name": "Caimbambo Airport",
+    "latitude_deg": "-13.04186",
+    "longitude_deg": "13.99673",
+    "elevation_ft": "2667",
+    "continent": "AF",
+    "iso_country": "AO",
+    "iso_region": "AO-BGU",
+    "municipality": "Caimbambo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302556",
+        "code": "AO",
+        "name": "Angola",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Angola",
+        "keywords": "Angolan airports"
+    },
+    "region": {
+        "id": "302913",
+        "code": "AO-BGU",
+        "local_code": "BGU",
+        "name": "Benguela Province",
+        "continent": "AF",
+        "iso_country": "AO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Benguela_ Province",
+        "keywords": "Airports in Benguela Province"
+    }
+}

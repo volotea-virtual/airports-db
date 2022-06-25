@@ -1,0 +1,38 @@
+{
+    "id": "354681",
+    "ident": "SA-0079",
+    "type": "heliport",
+    "name": "Military Helipads (3x)",
+    "latitude_deg": "26.315632",
+    "longitude_deg": "43.759103",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "SA",
+    "iso_region": "SA-05",
+    "municipality": "Al Mulayda",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302660",
+        "code": "SA",
+        "name": "Saudi Arabia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saudi_Arabia",
+        "keywords": "مطارات المملكة العربية السعودية,المطارات لموسم الحج"
+    },
+    "region": {
+        "id": "305364",
+        "code": "SA-05",
+        "local_code": "05",
+        "name": "Al Qasim Region",
+        "continent": "AS",
+        "iso_country": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Al_Qasim_Region",
+        "keywords": "Airports in Al Qasim Region"
+    }
+}

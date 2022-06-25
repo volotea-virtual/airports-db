@@ -1,0 +1,38 @@
+{
+    "id": "351081",
+    "ident": "XK-0003",
+    "type": "small_airport",
+    "name": "Banjë Cropduster Strip",
+    "latitude_deg": "42.47664",
+    "longitude_deg": "20.78648",
+    "elevation_ft": "1943",
+    "continent": "EU",
+    "iso_country": "XK",
+    "iso_region": "XK-04",
+    "municipality": "Banjë",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302720",
+        "code": "XK",
+        "name": "Kosovo",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kosovo",
+        "keywords": "Kosova"
+    },
+    "region": {
+        "id": "317197",
+        "code": "XK-04",
+        "local_code": "04",
+        "name": "Prizren District",
+        "continent": "EU",
+        "iso_country": "XK",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/District_of_Prizren",
+        "keywords": "Rajoni i Prizrenit"
+    }
+}

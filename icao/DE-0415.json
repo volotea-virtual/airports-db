@@ -1,0 +1,38 @@
+{
+    "id": "327064",
+    "ident": "DE-0415",
+    "type": "small_airport",
+    "name": "Laussig Agricultural Airport",
+    "latitude_deg": "51.535632",
+    "longitude_deg": "12.642359",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-SN",
+    "municipality": "Laussig",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "EXMB, Agrarflugplatz Laußig, Laußig",
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303560",
+        "code": "DE-SN",
+        "local_code": "SN",
+        "name": "Saxony",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saxony",
+        "keywords": "Sachsen"
+    }
+}

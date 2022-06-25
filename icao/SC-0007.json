@@ -1,0 +1,38 @@
+{
+    "id": "349353",
+    "ident": "SC-0007",
+    "type": "small_airport",
+    "name": "Poivre Airport",
+    "latitude_deg": "-5.746533",
+    "longitude_deg": "53.305593",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "SC",
+    "iso_region": "SC-15",
+    "municipality": "Poivre",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302596",
+        "code": "SC",
+        "name": "Seychelles",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Seychelles",
+        "keywords": "Airports in Seychelles"
+    },
+    "region": {
+        "id": "306641",
+        "code": "SC-15",
+        "local_code": "15",
+        "name": "La Digue",
+        "continent": "AF",
+        "iso_country": "SC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/La_Digue",
+        "keywords": "Airports in La Digue"
+    }
+}

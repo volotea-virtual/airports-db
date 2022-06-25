@@ -1,0 +1,38 @@
+{
+    "id": "351686",
+    "ident": "ZM-0039",
+    "type": "small_airport",
+    "name": "Chavuma Airport",
+    "latitude_deg": "-13.12071",
+    "longitude_deg": "22.69151",
+    "elevation_ft": "3425",
+    "continent": "AF",
+    "iso_country": "ZM",
+    "iso_region": "ZM-06",
+    "municipality": "Chavuma",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302611",
+        "code": "ZM",
+        "name": "Zambia",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Zambia",
+        "keywords": "Zambian airports"
+    },
+    "region": {
+        "id": "306306",
+        "code": "ZM-06",
+        "local_code": "06",
+        "name": "North-Western Province",
+        "continent": "AF",
+        "iso_country": "ZM",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Northwestern_Province_(Zambia)",
+        "keywords": "Airports in North-Western Province"
+    }
+}

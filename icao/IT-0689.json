@@ -1,0 +1,38 @@
+{
+    "id": "351164",
+    "ident": "IT-0689",
+    "type": "heliport",
+    "name": "Elisuperficie Pennile di Sotto",
+    "latitude_deg": "42.8561",
+    "longitude_deg": "13.596429",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-57",
+    "municipality": "Ascoli Piceno AP",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302697",
+        "code": "IT",
+        "name": "Italy",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Italy",
+        "keywords": "Aeroporti d'Italia"
+    },
+    "region": {
+        "id": "306362",
+        "code": "IT-57",
+        "local_code": "57",
+        "name": "Marche",
+        "continent": "EU",
+        "iso_country": "IT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Marche",
+        "keywords": "MH"
+    }
+}

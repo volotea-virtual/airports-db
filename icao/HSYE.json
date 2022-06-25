@@ -1,0 +1,38 @@
+{
+    "id": "31634",
+    "ident": "HSYE",
+    "type": "small_airport",
+    "name": "Yei Airport",
+    "latitude_deg": "4.128965",
+    "longitude_deg": "30.731817",
+    "elevation_ft": "2000",
+    "continent": "AF",
+    "iso_country": "SS",
+    "iso_region": "SS-17",
+    "municipality": "Yei",
+    "scheduled_service": "no",
+    "gps_code": "HJYE",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Yei_Airport",
+    "keywords": "HSYE",
+    "country": {
+        "id": "302614",
+        "code": "SS",
+        "name": "South Sudan",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Sudan",
+        "keywords": "South Sudanese airports"
+    },
+    "region": {
+        "id": "305400",
+        "code": "SS-17",
+        "local_code": "17",
+        "name": "Central Equatoria State",
+        "continent": "AF",
+        "iso_country": "SS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Equatoria",
+        "keywords": "Airports in Central Equatoria State"
+    }
+}

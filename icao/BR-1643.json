@@ -1,0 +1,38 @@
+{
+    "id": "348488",
+    "ident": "BR-1643",
+    "type": "small_airport",
+    "name": "Sitio do Cascão Private Airport",
+    "latitude_deg": "-24.26051",
+    "longitude_deg": "-46.98741",
+    "elevation_ft": "30",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-SP",
+    "municipality": "Peruibe",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "SSCC",
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian"
+    },
+    "region": {
+        "id": "303224",
+        "code": "BR-SP",
+        "local_code": "SP",
+        "name": "São Paulo",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/São_Paulo",
+        "keywords": "Airports in São Paulo"
+    }
+}

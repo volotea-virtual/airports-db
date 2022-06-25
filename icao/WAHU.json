@@ -1,0 +1,96 @@
+{
+    "id": "42250",
+    "ident": "WAHU",
+    "type": "small_airport",
+    "name": "Dewadaru - Kemujan Island",
+    "latitude_deg": "-5.80091",
+    "longitude_deg": "110.47838",
+    "elevation_ft": "35",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-JT",
+    "municipality": "Karimunjawa",
+    "scheduled_service": "yes",
+    "gps_code": "WAHU",
+    "iata_code": "KWB",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Dewadaru_Airport",
+    "keywords": "Karimun Jawa, Karimun Java",
+    "runways": [
+        {
+            "id": "271017",
+            "airport_ref": "42250",
+            "airport_ident": "WAHU",
+            "length_ft": "3937",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "314718",
+            "airport_ref": "42250",
+            "airport_ident": "WAHU",
+            "type": "NDB",
+            "description": "KJ",
+            "frequency_mhz": "0.336"
+        },
+        {
+            "id": "314719",
+            "airport_ref": "42250",
+            "airport_ident": "WAHU",
+            "type": "SSB",
+            "description": "Karimunjawa Radio",
+            "frequency_mhz": "7.4"
+        },
+        {
+            "id": "314717",
+            "airport_ref": "42250",
+            "airport_ident": "WAHU",
+            "type": "VHF",
+            "description": "Dewadaru Info",
+            "frequency_mhz": "121.3"
+        },
+        {
+            "id": "314720",
+            "airport_ref": "42250",
+            "airport_ident": "WAHU",
+            "type": "VOR",
+            "description": "KRJ",
+            "frequency_mhz": "117.3"
+        }
+    ],
+    "country": {
+        "id": "302632",
+        "code": "ID",
+        "name": "Indonesia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
+        "keywords": "Bandara di Indonesia"
+    },
+    "region": {
+        "id": "304108",
+        "code": "ID-JT",
+        "local_code": "JT",
+        "name": "Jawa Tengah",
+        "continent": "AS",
+        "iso_country": "ID",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Jawa_Tengah",
+        "keywords": "Airports in Jawa Tengah"
+    }
+}

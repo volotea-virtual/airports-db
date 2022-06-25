@@ -1,0 +1,38 @@
+{
+    "id": "348668",
+    "ident": "TD-0014",
+    "type": "small_airport",
+    "name": "Amdjarass Airport",
+    "latitude_deg": "16.07281",
+    "longitude_deg": "22.84899",
+    "elevation_ft": "2960",
+    "continent": "AF",
+    "iso_country": "TD",
+    "iso_region": "TD-BET",
+    "municipality": "Amdjarass",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302604",
+        "code": "TD",
+        "name": "Chad",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chad",
+        "keywords": "Airports in Chad"
+    },
+    "region": {
+        "id": "305688",
+        "code": "TD-BET",
+        "local_code": "BET",
+        "name": "Borkou-Ennedi-Tibesti",
+        "continent": "AF",
+        "iso_country": "TD",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Borkou-Ennedi-Tibesti",
+        "keywords": "Airports in Borkou-Ennedi-Tibesti"
+    }
+}

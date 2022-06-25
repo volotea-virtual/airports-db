@@ -1,0 +1,38 @@
+{
+    "id": "351718",
+    "ident": "AO-0063",
+    "type": "small_airport",
+    "name": "Tchindjenje Airport",
+    "latitude_deg": "-12.82279",
+    "longitude_deg": "14.93308",
+    "elevation_ft": "4501",
+    "continent": "AF",
+    "iso_country": "AO",
+    "iso_region": "AO-HUA",
+    "municipality": "Tchindjenje",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Chinjenje",
+    "country": {
+        "id": "302556",
+        "code": "AO",
+        "name": "Angola",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Angola",
+        "keywords": "Angolan airports"
+    },
+    "region": {
+        "id": "302920",
+        "code": "AO-HUA",
+        "local_code": "HUA",
+        "name": "Huambo Province",
+        "continent": "AF",
+        "iso_country": "AO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Huambo_ Province",
+        "keywords": "Airports in Huambo Province"
+    }
+}

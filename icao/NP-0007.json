@@ -1,0 +1,38 @@
+{
+    "id": "350894",
+    "ident": "NP-0007",
+    "type": "heliport",
+    "name": "Mount Everest Base Camp Heliport",
+    "latitude_deg": "28.00369",
+    "longitude_deg": "86.85324",
+    "elevation_ft": "17372",
+    "continent": "AS",
+    "iso_country": "NP",
+    "iso_region": "NP-SA",
+    "municipality": "Khumjung",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302654",
+        "code": "NP",
+        "name": "Nepal",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nepal",
+        "keywords": "नेपाल विमानस्थलको"
+    },
+    "region": {
+        "id": "306432",
+        "code": "NP-SA",
+        "local_code": "SA",
+        "name": "Sagarmatha",
+        "continent": "AS",
+        "iso_country": "NP",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sagarmatha",
+        "keywords": "Airports in Sagarmatha"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "351549",
+    "ident": "EKCC",
+    "type": "seaplane_base",
+    "name": "København Vandflyveplads",
+    "latitude_deg": "55.69119",
+    "longitude_deg": "12.60009",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "DK",
+    "iso_region": "DK-84",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "EKCC",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302682",
+        "code": "DK",
+        "name": "Denmark",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Denmark",
+        "keywords": "Lufthavnene i Danmark"
+    },
+    "region": {
+        "id": "306326",
+        "code": "DK-84",
+        "local_code": "84",
+        "name": "Capital Region",
+        "continent": "EU",
+        "iso_country": "DK",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Capital_Region",
+        "keywords": "Hovedstaden"
+    }
+}

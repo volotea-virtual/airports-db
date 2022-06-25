@@ -1,0 +1,38 @@
+{
+    "id": "341499",
+    "ident": "AU-0178",
+    "type": "heliport",
+    "name": "Atlas Cove Station Helipad",
+    "latitude_deg": "-53.01885",
+    "longitude_deg": "73.39349",
+    "elevation_ft": "",
+    "continent": "OC",
+    "iso_country": "HM",
+    "iso_region": "HM-U-A",
+    "municipality": "Atlas Cove Station",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "YZAC",
+    "country": {
+        "id": "350209",
+        "code": "HM",
+        "name": "Heard and McDonald Islands",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Heard_Island_and_McDonald_Islands",
+        "keywords": "Airports in Heard and McDonald Islands"
+    },
+    "region": {
+        "id": "350129",
+        "code": "HM-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "OC",
+        "iso_country": "HM",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}

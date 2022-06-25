@@ -1,0 +1,38 @@
+{
+    "id": "351526",
+    "ident": "SD-0013",
+    "type": "small_airport",
+    "name": "Sinjah Airport",
+    "latitude_deg": "13.31905",
+    "longitude_deg": "33.61347",
+    "elevation_ft": "1480",
+    "continent": "AF",
+    "iso_country": "SD",
+    "iso_region": "SD-25",
+    "municipality": "Nauraniya",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302597",
+        "code": "SD",
+        "name": "Sudan",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sudan",
+        "keywords": "مطارات السودان"
+    },
+    "region": {
+        "id": "305408",
+        "code": "SD-25",
+        "local_code": "25",
+        "name": "Sennar State",
+        "continent": "AF",
+        "iso_country": "SD",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sennar_State",
+        "keywords": "Airports in Sennar State"
+    }
+}

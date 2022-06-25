@@ -1,0 +1,38 @@
+{
+    "id": "354857",
+    "ident": "MY-0011",
+    "type": "heliport",
+    "name": "Istana Negara Helipad",
+    "latitude_deg": "3.161877",
+    "longitude_deg": "101.666788",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "MY",
+    "iso_region": "MY-14",
+    "municipality": "Kuala Lumpur",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302653",
+        "code": "MY",
+        "name": "Malaysia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Malaysia",
+        "keywords": "Lapangan Terbang Malaysia"
+    },
+    "region": {
+        "id": "304836",
+        "code": "MY-14",
+        "local_code": "14",
+        "name": "Wilayah Persekutuan Kuala Lumpur",
+        "continent": "AS",
+        "iso_country": "MY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wilayah_Persekutuan_Kuala_Lumpur",
+        "keywords": "Airports in Wilayah Persekutuan Kuala Lumpur"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "354345",
+    "ident": "AU-0453",
+    "type": "small_airport",
+    "name": "Inner Sister Island Aerodrome",
+    "latitude_deg": "-39.695184",
+    "longitude_deg": "147.914182",
+    "elevation_ft": "53",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-TAS",
+    "municipality": "Inner Sister Island",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "FI01",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": "Australian airports"
+    },
+    "region": {
+        "id": "302973",
+        "code": "AU-TAS",
+        "local_code": "TAS",
+        "name": "Tasmania",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tasmania",
+        "keywords": "Tasmanian airports"
+    }
+}

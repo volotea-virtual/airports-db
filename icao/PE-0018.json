@@ -1,0 +1,38 @@
+{
+    "id": "351492",
+    "ident": "PE-0018",
+    "type": "heliport",
+    "name": "Tanquin Heliport",
+    "latitude_deg": "-12.12632",
+    "longitude_deg": "-74.07599",
+    "elevation_ft": "1880",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-JUN",
+    "municipality": "Tanquin",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302798",
+        "code": "PE",
+        "name": "Peru",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Perú",
+        "keywords": "Aeropuertos de Perú"
+    },
+    "region": {
+        "id": "305018",
+        "code": "PE-JUN",
+        "local_code": "JUN",
+        "name": "Junín Region",
+        "continent": "SA",
+        "iso_country": "PE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Junín_Region",
+        "keywords": "Airports in Junín Region"
+    }
+}

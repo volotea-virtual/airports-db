@@ -1,0 +1,38 @@
+{
+    "id": "43253",
+    "ident": "LEVB",
+    "type": "small_airport",
+    "name": "El Carrascal Airfield",
+    "latitude_deg": "41.824699",
+    "longitude_deg": "-4.89306",
+    "elevation_ft": "2788",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-CL",
+    "municipality": "Valladolid",
+    "scheduled_service": "no",
+    "gps_code": "LEVB",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302684",
+        "code": "ES",
+        "name": "Spain",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Spain",
+        "keywords": "Aeropuertos de España"
+    },
+    "region": {
+        "id": "303740",
+        "code": "ES-CL",
+        "local_code": "CL",
+        "name": "Castilla y León",
+        "continent": "EU",
+        "iso_country": "ES",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Castilla_y_León",
+        "keywords": "Airports in Castilla y León"
+    }
+}

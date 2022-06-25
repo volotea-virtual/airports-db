@@ -1,0 +1,38 @@
+{
+    "id": "354859",
+    "ident": "MY-0013",
+    "type": "heliport",
+    "name": "Sepang F1 Circuit Helipad",
+    "latitude_deg": "2.761501",
+    "longitude_deg": "101.739817",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "MY",
+    "iso_region": "MY-10",
+    "municipality": "Sepang",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302653",
+        "code": "MY",
+        "name": "Malaysia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Malaysia",
+        "keywords": "Lapangan Terbang Malaysia"
+    },
+    "region": {
+        "id": "304832",
+        "code": "MY-10",
+        "local_code": "10",
+        "name": "Selangor",
+        "continent": "AS",
+        "iso_country": "MY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Selangor",
+        "keywords": "Airports in Selangor"
+    }
+}

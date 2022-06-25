@@ -1,0 +1,38 @@
+{
+    "id": "354386",
+    "ident": "AU-0454",
+    "type": "closed",
+    "name": "Laguna Quays 3 Airport",
+    "latitude_deg": "-20.58892",
+    "longitude_deg": "148.654847",
+    "elevation_ft": "39",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-U-A",
+    "municipality": "Laguna Quays",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": "Australian airports"
+    },
+    "region": {
+        "id": "302974",
+        "code": "AU-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}

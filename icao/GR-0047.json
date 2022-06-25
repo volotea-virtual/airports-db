@@ -1,0 +1,38 @@
+{
+    "id": "346980",
+    "ident": "GR-0047",
+    "type": "small_airport",
+    "name": "Sitagroi Airstrip",
+    "latitude_deg": "41.12784",
+    "longitude_deg": "24.01459",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "GR",
+    "iso_region": "GR-A",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Σιταγροί",
+    "country": {
+        "id": "302691",
+        "code": "GR",
+        "name": "Greece",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Greece",
+        "keywords": "αεροδρόμια στην Ελλάδα"
+    },
+    "region": {
+        "id": "353665",
+        "code": "GR-A",
+        "local_code": "A",
+        "name": "Eastern Macedonia and Thrace",
+        "continent": "EU",
+        "iso_country": "GR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Eastern_Macedonia_and_Thrace",
+        "keywords": "Airports in Eastern Macedonia and Thrace"
+    }
+}

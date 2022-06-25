@@ -1,0 +1,38 @@
+{
+    "id": "349429",
+    "ident": "GR-0050",
+    "type": "small_airport",
+    "name": "Hellenic Sport Aviation Airstrip",
+    "latitude_deg": "38.47819",
+    "longitude_deg": "23.16007",
+    "elevation_ft": "305",
+    "continent": "EU",
+    "iso_country": "GR",
+    "iso_region": "GR-03",
+    "municipality": "Orchomenus",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302691",
+        "code": "GR",
+        "name": "Greece",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Greece",
+        "keywords": "αεροδρόμια στην Ελλάδα"
+    },
+    "region": {
+        "id": "303908",
+        "code": "GR-03",
+        "local_code": "03",
+        "name": "Boeotia",
+        "continent": "EU",
+        "iso_country": "GR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Boeotia",
+        "keywords": "Airports in Boeotia"
+    }
+}

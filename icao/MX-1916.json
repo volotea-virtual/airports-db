@@ -1,0 +1,38 @@
+{
+    "id": "351550",
+    "ident": "MX-1916",
+    "type": "heliport",
+    "name": "Rancho Azul Heliport",
+    "latitude_deg": "19.72535",
+    "longitude_deg": "-98.943714",
+    "elevation_ft": "7438",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-MEX",
+    "municipality": "Tecámac",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "HOG",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302747",
+        "code": "MX",
+        "name": "Mexico",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
+        "keywords": "Aeropuertos de México, Mexican airports"
+    },
+    "region": {
+        "id": "304804",
+        "code": "MX-MEX",
+        "local_code": "MEX",
+        "name": "México (state)",
+        "continent": "NA",
+        "iso_country": "MX",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/State_of_Mexico",
+        "keywords": "Airports in México (state)"
+    }
+}

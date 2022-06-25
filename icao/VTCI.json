@@ -1,0 +1,62 @@
+{
+    "id": "32597",
+    "ident": "VTCI",
+    "type": "small_airport",
+    "name": "Mae Hong Son Airport",
+    "latitude_deg": "19.3719997406",
+    "longitude_deg": "98.43699646",
+    "elevation_ft": "1271",
+    "continent": "AS",
+    "iso_country": "TH",
+    "iso_region": "TH-58",
+    "municipality": "Mae Hong Son",
+    "scheduled_service": "no",
+    "gps_code": "VTCI",
+    "iata_code": "PYY",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "http://en.wikipedihttp://en.wikipedia.org/wiki/Pai_Airporta.org/wiki/Pai_Airport",
+    "keywords": "Pai Airport",
+    "runways": [
+        {
+            "id": "351379",
+            "airport_ref": "32597",
+            "airport_ident": "VTCI",
+            "length_ft": "2329",
+            "width_ft": "59",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "19.369583129882812",
+            "le_longitude_deg": "98.43516540527344",
+            "le_elevation_ft": "1676",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "19.375083923339844",
+            "he_longitude_deg": "98.43677520751953",
+            "he_elevation_ft": "1676",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302663",
+        "code": "TH",
+        "name": "Thailand",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Thailand",
+        "keywords": "Siam, Siamese"
+    },
+    "region": {
+        "id": "305752",
+        "code": "TH-58",
+        "local_code": "58",
+        "name": "Mae Hong Son Province",
+        "continent": "AS",
+        "iso_country": "TH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mae_Hong_Son_province",
+        "keywords": "Airports in Mae Hong Son Province"
+    }
+}

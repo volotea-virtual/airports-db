@@ -1,0 +1,62 @@
+{
+    "id": "316996",
+    "ident": "CPL6",
+    "type": "small_airport",
+    "name": "Parkland Airport",
+    "latitude_deg": "53.474102",
+    "longitude_deg": "-113.824282",
+    "elevation_ft": "2324",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Edmonton",
+    "scheduled_service": "no",
+    "gps_code": "CPL6",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "351055",
+            "airport_ref": "316996",
+            "airport_ident": "CPL6",
+            "length_ft": "2274",
+            "width_ft": "100",
+            "surface": "ASPH",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "53.474639892578125",
+            "le_longitude_deg": "-113.83367156982422",
+            "le_elevation_ft": "2323",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "53.474151611328125",
+            "he_longitude_deg": "-113.82422637939453",
+            "he_elevation_ft": "2323",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": "Canadian airports"
+    },
+    "region": {
+        "id": "303294",
+        "code": "CA-AB",
+        "local_code": "AB",
+        "name": "Alberta",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
+        "keywords": "Albertan airports"
+    }
+}

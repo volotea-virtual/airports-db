@@ -1,0 +1,38 @@
+{
+    "id": "348483",
+    "ident": "UY-0020",
+    "type": "small_airport",
+    "name": "Cumbres de Carrasco Airport",
+    "latitude_deg": "-34.76896",
+    "longitude_deg": "-55.95315",
+    "elevation_ft": "83",
+    "continent": "SA",
+    "iso_country": "UY",
+    "iso_region": "UY-CA",
+    "municipality": "Ciudad de la Costa",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302801",
+        "code": "UY",
+        "name": "Uruguay",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Uruguay",
+        "keywords": "Aeropuertos de Uruguay"
+    },
+    "region": {
+        "id": "306129",
+        "code": "UY-CA",
+        "local_code": "CA",
+        "name": "Canelones Department",
+        "continent": "SA",
+        "iso_country": "UY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canelones_Department",
+        "keywords": "Airports in Canelones Department"
+    }
+}

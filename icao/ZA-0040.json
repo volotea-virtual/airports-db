@@ -1,0 +1,38 @@
+{
+    "id": "41211",
+    "ident": "ZA-0040",
+    "type": "small_airport",
+    "name": "Lavino Airport",
+    "latitude_deg": "-24.833334",
+    "longitude_deg": "30.1",
+    "elevation_ft": "2550",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NP",
+    "municipality": "Lavino",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302610",
+        "code": "ZA",
+        "name": "South Africa",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Africa",
+        "keywords": "South African airports"
+    },
+    "region": {
+        "id": "306301",
+        "code": "ZA-NP",
+        "local_code": "NP",
+        "name": "Limpopo",
+        "continent": "AF",
+        "iso_country": "ZA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Limpopo",
+        "keywords": "Airports in Limpopo"
+    }
+}

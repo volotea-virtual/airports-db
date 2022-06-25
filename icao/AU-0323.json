@@ -1,0 +1,38 @@
+{
+    "id": "351821",
+    "ident": "AU-0323",
+    "type": "small_airport",
+    "name": "Bridport 2nd Airstrip",
+    "latitude_deg": "-41.029533",
+    "longitude_deg": "147.416556",
+    "elevation_ft": "",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-TAS",
+    "municipality": "Bridport",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": "Australian airports"
+    },
+    "region": {
+        "id": "302973",
+        "code": "AU-TAS",
+        "local_code": "TAS",
+        "name": "Tasmania",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tasmania",
+        "keywords": "Tasmanian airports"
+    }
+}

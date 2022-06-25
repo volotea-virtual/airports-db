@@ -1,0 +1,38 @@
+{
+    "id": "351578",
+    "ident": "IR-0063",
+    "type": "heliport",
+    "name": "Qaem Hospital Heliport",
+    "latitude_deg": "28.83819",
+    "longitude_deg": "52.58915",
+    "elevation_ft": "4406",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-07",
+    "municipality": "Firuzabad",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302637",
+        "code": "IR",
+        "name": "Iran",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iran",
+        "keywords": "فرودگاه های ایران"
+    },
+    "region": {
+        "id": "304231",
+        "code": "IR-07",
+        "local_code": "07",
+        "name": "Fars Province",
+        "continent": "AS",
+        "iso_country": "IR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Fars_Province",
+        "keywords": "Airports in Fars Province"
+    }
+}

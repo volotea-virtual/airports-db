@@ -1,0 +1,38 @@
+{
+    "id": "322004",
+    "ident": "LV-0012",
+    "type": "small_airport",
+    "name": "Zabulnieki Airstrip",
+    "latitude_deg": "56.422894",
+    "longitude_deg": "26.7287",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "LV",
+    "iso_region": "LV-073",
+    "municipality": "Riebiņi",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302702",
+        "code": "LV",
+        "name": "Latvia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Latvia",
+        "keywords": "Latvian airports"
+    },
+    "region": {
+        "id": "304529",
+        "code": "LV-073",
+        "local_code": "073",
+        "name": "Preiļi Municipality",
+        "continent": "EU",
+        "iso_country": "LV",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Preili_Municipality",
+        "keywords": "Airports in Preiļi Municipality"
+    }
+}

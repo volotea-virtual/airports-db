@@ -1,0 +1,38 @@
+{
+    "id": "42452",
+    "ident": "GR-0002",
+    "type": "small_airport",
+    "name": "Dhokimion Airport",
+    "latitude_deg": "38.613696",
+    "longitude_deg": "21.392955",
+    "elevation_ft": "154",
+    "continent": "EU",
+    "iso_country": "GR",
+    "iso_region": "GR-G",
+    "municipality": "Agrinion",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "AG1666",
+    "country": {
+        "id": "302691",
+        "code": "GR",
+        "name": "Greece",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Greece",
+        "keywords": "αεροδρόμια στην Ελλάδα"
+    },
+    "region": {
+        "id": "353667",
+        "code": "GR-G",
+        "local_code": "G",
+        "name": "Western Greece",
+        "continent": "EU",
+        "iso_country": "GR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Greece",
+        "keywords": "Airports in Western Greece"
+    }
+}

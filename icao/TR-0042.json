@@ -1,0 +1,62 @@
+{
+    "id": "316329",
+    "ident": "TR-0042",
+    "type": "medium_airport",
+    "name": "Rize–Artvin Airport",
+    "latitude_deg": "41.179625",
+    "longitude_deg": "40.850796",
+    "elevation_ft": "5",
+    "continent": "AS",
+    "iso_country": "TR",
+    "iso_region": "TR-53",
+    "municipality": "Rize",
+    "scheduled_service": "no",
+    "gps_code": "LTFO",
+    "iata_code": "RZV",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Rize–Artvin_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "354839",
+            "airport_ref": "316329",
+            "airport_ident": "TR-0042",
+            "length_ft": "9843",
+            "width_ft": "148",
+            "surface": "ASPH",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "41.1755",
+            "le_longitude_deg": "40.832",
+            "le_elevation_ft": "16",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "41.18417",
+            "he_longitude_deg": "40.86583",
+            "he_elevation_ft": "16",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302667",
+        "code": "TR",
+        "name": "Turkey",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Turkey",
+        "keywords": "Türkiye havaalanları"
+    },
+    "region": {
+        "id": "305888",
+        "code": "TR-53",
+        "local_code": "53",
+        "name": "Rize Province",
+        "continent": "AS",
+        "iso_country": "TR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Rize_Province",
+        "keywords": "Airports in Rize Province"
+    }
+}

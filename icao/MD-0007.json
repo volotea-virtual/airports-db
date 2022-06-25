@@ -1,0 +1,38 @@
+{
+    "id": "355143",
+    "ident": "MD-0007",
+    "type": "small_airport",
+    "name": "Vinaria Et Cetera Airstrip",
+    "latitude_deg": "46.45025",
+    "longitude_deg": "29.92919",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "MD",
+    "iso_region": "MD-SV",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302704",
+        "code": "MD",
+        "name": "Moldova",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Moldova",
+        "keywords": "Airports in Moldova"
+    },
+    "region": {
+        "id": "306479",
+        "code": "MD-SV",
+        "local_code": "SV",
+        "name": "Ştefan-Vodă District",
+        "continent": "EU",
+        "iso_country": "MD",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ştefan-Vodă_District",
+        "keywords": "Airports in Ştefan-Vodă District"
+    }
+}

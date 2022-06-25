@@ -1,0 +1,38 @@
+{
+    "id": "350888",
+    "ident": "CN-0240",
+    "type": "heliport",
+    "name": "Taizhou Chunlan Heliport",
+    "latitude_deg": "32.49338",
+    "longitude_deg": "119.95283",
+    "elevation_ft": "20",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-33",
+    "municipality": "Taizhou",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302627",
+        "code": "CN",
+        "name": "China",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/China",
+        "keywords": "中国的机场"
+    },
+    "region": {
+        "id": "303432",
+        "code": "CN-33",
+        "local_code": "33",
+        "name": "Zhejiang Province",
+        "continent": "AS",
+        "iso_country": "CN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Zhejiang",
+        "keywords": "Airports in Zhejiang Province"
+    }
+}

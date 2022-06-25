@@ -1,0 +1,38 @@
+{
+    "id": "1270",
+    "ident": "CLH4",
+    "type": "heliport",
+    "name": "Lethbridge/Chinook Regional Hospital Heliport",
+    "latitude_deg": "49.685891",
+    "longitude_deg": "-112.816785",
+    "elevation_ft": "2993",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "Lethbridge",
+    "scheduled_service": "no",
+    "gps_code": "CLH4",
+    "iata_code": "",
+    "local_code": "CLH4",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "LH4",
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": "Canadian airports"
+    },
+    "region": {
+        "id": "303294",
+        "code": "CA-AB",
+        "local_code": "AB",
+        "name": "Alberta",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
+        "keywords": "Albertan airports"
+    }
+}

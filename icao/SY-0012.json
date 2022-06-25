@@ -1,0 +1,38 @@
+{
+    "id": "349679",
+    "ident": "SY-0012",
+    "type": "heliport",
+    "name": "El Lani Borderpost Helipad",
+    "latitude_deg": "36.165839",
+    "longitude_deg": "36.369263",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "SY",
+    "iso_region": "SY-ID",
+    "municipality": "El Lani",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302662",
+        "code": "SY",
+        "name": "Syria",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Syria",
+        "keywords": "مطارات سوريا"
+    },
+    "region": {
+        "id": "305673",
+        "code": "SY-ID",
+        "local_code": "ID",
+        "name": "Idlib Governorate",
+        "continent": "AS",
+        "iso_country": "SY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Idlib_Governorate",
+        "keywords": "Airports in Idlib Governorate"
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "id": "5217",
+    "ident": "OJJR",
+    "type": "closed",
+    "name": "Jerusalem International Airport",
+    "latitude_deg": "31.866414",
+    "longitude_deg": "35.217753",
+    "elevation_ft": "2485",
+    "continent": "AS",
+    "iso_country": "PS",
+    "iso_region": "PS-U-A",
+    "municipality": "Jerusalem",
+    "scheduled_service": "no",
+    "gps_code": "LLJR",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Atarot_Airport",
+    "keywords": "Palestine, West Bank, Atarot Airport, LLJR, OJJR, JRS",
+    "runways": [
+        {
+            "id": "246217",
+            "airport_ref": "5217",
+            "airport_ident": "OJJR",
+            "length_ft": "6447",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "31.870399475097656",
+            "le_longitude_deg": "35.20830154418945",
+            "le_elevation_ft": "2485",
+            "le_heading_degT": "116",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "31.86280059814453",
+            "he_longitude_deg": "35.22700119018555",
+            "he_elevation_ft": "2464",
+            "he_heading_degT": "296",
+            "he_displaced_threshold_ft": "404"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "71799",
+            "airport_ref": "5217",
+            "airport_ident": "OJJR",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "132.65"
+        },
+        {
+            "id": "71800",
+            "airport_ref": "5217",
+            "airport_ident": "OJJR",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.8"
+        }
+    ],
+    "country": {
+        "id": "302658",
+        "code": "PS",
+        "name": "Palestinian Territory",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Palestinian_Territory",
+        "keywords": "Palestinian airports"
+    },
+    "region": {
+        "id": "305166",
+        "code": "PS-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "AS",
+        "iso_country": "PS",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    },
+    "navaids": [
+        {
+            "id": "89325",
+            "filename": "Jerusalem_NDB_PS",
+            "ident": "IRM",
+            "name": "Jerusalem",
+            "type": "NDB",
+            "frequency_khz": "336",
+            "latitude_deg": "31.863399505615234",
+            "longitude_deg": "35.216400146484375",
+            "elevation_ft": "2485",
+            "iso_country": "PS",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "3.409",
+            "usageType": "LO",
+            "power": "MEDIUM",
+            "associated_airport": "OJJR"
+        }
+    ]
+}

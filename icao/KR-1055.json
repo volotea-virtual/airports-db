@@ -1,0 +1,38 @@
+{
+    "id": "348786",
+    "ident": "KR-1055",
+    "type": "small_airport",
+    "name": "Goheung Airport",
+    "latitude_deg": "34.61128",
+    "longitude_deg": "127.20563",
+    "elevation_ft": "2",
+    "continent": "AS",
+    "iso_country": "KR",
+    "iso_region": "KR-46",
+    "municipality": "Dodeok-myeon",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302643",
+        "code": "KR",
+        "name": "South Korea",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Korea",
+        "keywords": "한국의 공항"
+    },
+    "region": {
+        "id": "304412",
+        "code": "KR-46",
+        "local_code": "46",
+        "name": "Jeonranamdo",
+        "continent": "AS",
+        "iso_country": "KR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Jeonranamdo",
+        "keywords": "Airports in Jeonranamdo"
+    }
+}

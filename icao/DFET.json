@@ -1,0 +1,38 @@
+{
+    "id": "32432",
+    "ident": "DFET",
+    "type": "small_airport",
+    "name": "Tenkodogo Airport",
+    "latitude_deg": "11.801149",
+    "longitude_deg": "-0.371377",
+    "elevation_ft": "1017",
+    "continent": "AF",
+    "iso_country": "BF",
+    "iso_region": "BF-BLG",
+    "municipality": "Tenkodogo",
+    "scheduled_service": "no",
+    "gps_code": "DFET",
+    "iata_code": "TEG",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302557",
+        "code": "BF",
+        "name": "Burkina Faso",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Burkina_Faso",
+        "keywords": "Burkinabé airports"
+    },
+    "region": {
+        "id": "303085",
+        "code": "BF-BLG",
+        "local_code": "BLG",
+        "name": "Boulgou Province",
+        "continent": "AF",
+        "iso_country": "BF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Boulgou_Province",
+        "keywords": "Airports in Boulgou Province"
+    }
+}

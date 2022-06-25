@@ -1,0 +1,38 @@
+{
+    "id": "352224",
+    "ident": "ID-0214",
+    "type": "small_airport",
+    "name": "Blangkejeren Airport",
+    "latitude_deg": "3.94548",
+    "longitude_deg": "97.35968",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-AC",
+    "municipality": "Kabupaten Gayo Lues",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "GYO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302632",
+        "code": "ID",
+        "name": "Indonesia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
+        "keywords": "Bandara di Indonesia"
+    },
+    "region": {
+        "id": "304097",
+        "code": "ID-AC",
+        "local_code": "AC",
+        "name": "Aceh",
+        "continent": "AS",
+        "iso_country": "ID",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Aceh",
+        "keywords": "Airports in Aceh"
+    }
+}

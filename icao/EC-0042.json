@@ -1,0 +1,38 @@
+{
+    "id": "351444",
+    "ident": "EC-0042",
+    "type": "heliport",
+    "name": "Floreana Heliport",
+    "latitude_deg": "-1.27676",
+    "longitude_deg": "-90.48181",
+    "elevation_ft": "138",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-W",
+    "municipality": "Puerto Velasco Ibarra",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302794",
+        "code": "EC",
+        "name": "Ecuador",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ecuador",
+        "keywords": "Aeropuertos de Ecuador"
+    },
+    "region": {
+        "id": "303671",
+        "code": "EC-W",
+        "local_code": "W",
+        "name": "Galapagos Province",
+        "continent": "SA",
+        "iso_country": "EC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Galapagos_Province",
+        "keywords": "Airports in Galapagos Province"
+    }
+}

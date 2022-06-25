@@ -1,0 +1,38 @@
+{
+    "id": "354982",
+    "ident": "GU-0003",
+    "type": "heliport",
+    "name": "US Naval Hospital Heliport",
+    "latitude_deg": "13.474643",
+    "longitude_deg": "144.74103",
+    "elevation_ft": "",
+    "continent": "OC",
+    "iso_country": "GU",
+    "iso_region": "GU-U-A",
+    "municipality": "Agana Heights",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302768",
+        "code": "GU",
+        "name": "Guam",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Guam",
+        "keywords": "Guamanian airports"
+    },
+    "region": {
+        "id": "303983",
+        "code": "GU-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "OC",
+        "iso_country": "GU",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}

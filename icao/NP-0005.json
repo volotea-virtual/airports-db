@@ -1,0 +1,38 @@
+{
+    "id": "350892",
+    "ident": "NP-0005",
+    "type": "heliport",
+    "name": "Tengboche Monastery Heliport",
+    "latitude_deg": "27.83644",
+    "longitude_deg": "86.76099",
+    "elevation_ft": "12703",
+    "continent": "AS",
+    "iso_country": "NP",
+    "iso_region": "NP-SA",
+    "municipality": "Khumjung",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302654",
+        "code": "NP",
+        "name": "Nepal",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nepal",
+        "keywords": "नेपाल विमानस्थलको"
+    },
+    "region": {
+        "id": "306432",
+        "code": "NP-SA",
+        "local_code": "SA",
+        "name": "Sagarmatha",
+        "continent": "AS",
+        "iso_country": "NP",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sagarmatha",
+        "keywords": "Airports in Sagarmatha"
+    }
+}

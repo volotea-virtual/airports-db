@@ -1,0 +1,62 @@
+{
+    "id": "326786",
+    "ident": "PT-0109",
+    "type": "small_airport",
+    "name": "Pista do Ciborro",
+    "latitude_deg": "38.797735",
+    "longitude_deg": "-8.20256",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "PT",
+    "iso_region": "PT-07",
+    "municipality": "Montemor-o-Novo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "353537",
+            "airport_ref": "326786",
+            "airport_ident": "PT-0109",
+            "length_ft": "1771",
+            "width_ft": "33",
+            "surface": "Concrete",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "500",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "500",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302711",
+        "code": "PT",
+        "name": "Portugal",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Portugal",
+        "keywords": "Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "305173",
+        "code": "PT-07",
+        "local_code": "07",
+        "name": "Évora District",
+        "continent": "EU",
+        "iso_country": "PT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Évora_District",
+        "keywords": "Airports in Évora District"
+    }
+}

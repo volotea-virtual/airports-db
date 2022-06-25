@@ -1,0 +1,38 @@
+{
+    "id": "354342",
+    "ident": "AU-0451",
+    "type": "small_airport",
+    "name": "Badger Island Airport",
+    "latitude_deg": "-40.318729",
+    "longitude_deg": "147.88957",
+    "elevation_ft": "41",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-TAS",
+    "municipality": "Badger Island",
+    "scheduled_service": "no",
+    "gps_code": "YBDI",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": "Australian airports"
+    },
+    "region": {
+        "id": "302973",
+        "code": "AU-TAS",
+        "local_code": "TAS",
+        "name": "Tasmania",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tasmania",
+        "keywords": "Tasmanian airports"
+    }
+}

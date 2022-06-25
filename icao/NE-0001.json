@@ -1,0 +1,38 @@
+{
+    "id": "349430",
+    "ident": "NE-0001",
+    "type": "small_airport",
+    "name": "Niger Air Base 201",
+    "latitude_deg": "16.95575",
+    "longitude_deg": "8.01861",
+    "elevation_ft": "1667",
+    "continent": "AF",
+    "iso_country": "NE",
+    "iso_region": "NE-1",
+    "municipality": "Agadez",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302592",
+        "code": "NE",
+        "name": "Niger",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Niger",
+        "keywords": "Nigerien airports"
+    },
+    "region": {
+        "id": "304866",
+        "code": "NE-1",
+        "local_code": "1",
+        "name": "Agadez Region",
+        "continent": "AF",
+        "iso_country": "NE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Agadez_Region",
+        "keywords": "Airports in Agadez Region"
+    }
+}

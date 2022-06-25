@@ -1,0 +1,38 @@
+{
+    "id": "322240",
+    "ident": "SK-0056",
+    "type": "small_airport",
+    "name": "Haniska Airstrip",
+    "latitude_deg": "48.609863",
+    "longitude_deg": "21.248697",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "SK",
+    "iso_region": "SK-KI",
+    "municipality": "Haniska",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302717",
+        "code": "SK",
+        "name": "Slovakia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Slovakia",
+        "keywords": "letisko Slovenska"
+    },
+    "region": {
+        "id": "305593",
+        "code": "SK-KI",
+        "local_code": "KI",
+        "name": "Košice Region",
+        "continent": "EU",
+        "iso_country": "SK",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Košice_Region",
+        "keywords": "Košický kraj"
+    }
+}

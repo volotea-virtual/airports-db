@@ -1,0 +1,38 @@
+{
+    "id": "347130",
+    "ident": "IN-0284",
+    "type": "heliport",
+    "name": "Aerial Bay Heliport",
+    "latitude_deg": "13.27495",
+    "longitude_deg": "93.02323",
+    "elevation_ft": "25",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-AN",
+    "municipality": "Diglipur",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302634",
+        "code": "IN",
+        "name": "India",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304164",
+        "code": "IN-AN",
+        "local_code": "AN",
+        "name": "Andaman and Nicobar Islands",
+        "continent": "AS",
+        "iso_country": "IN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Andaman_and_Nicobar_Islands",
+        "keywords": "Airports in Andaman and Nicobar Islands"
+    }
+}

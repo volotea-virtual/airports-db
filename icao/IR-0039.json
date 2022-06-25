@@ -1,0 +1,38 @@
+{
+    "id": "350784",
+    "ident": "IR-0039",
+    "type": "small_airport",
+    "name": "Gonbad Kavus / Haji Balkan Airport",
+    "latitude_deg": "37.20101",
+    "longitude_deg": "55.26871",
+    "elevation_ft": "220",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-27",
+    "municipality": "Haji Balkan",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302637",
+        "code": "IR",
+        "name": "Iran",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iran",
+        "keywords": "فرودگاه های ایران"
+    },
+    "region": {
+        "id": "304244",
+        "code": "IR-27",
+        "local_code": "27",
+        "name": "Golestan Province",
+        "continent": "AS",
+        "iso_country": "IR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Golestan_Province",
+        "keywords": "Airports in Golestan Province"
+    }
+}

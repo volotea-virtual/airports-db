@@ -1,0 +1,38 @@
+{
+    "id": "347521",
+    "ident": "SDC7",
+    "type": "heliport",
+    "name": "Heliponto do Centro de Avaliação da Ilha da Marambaia (CADIM)",
+    "latitude_deg": "-23.061338",
+    "longitude_deg": "-43.989832",
+    "elevation_ft": "3",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RJ",
+    "municipality": "Mangaratiba",
+    "scheduled_service": "no",
+    "gps_code": "SDC7",
+    "iata_code": "",
+    "local_code": "RJ9017",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian"
+    },
+    "region": {
+        "id": "303217",
+        "code": "BR-RJ",
+        "local_code": "RJ",
+        "name": "Rio de Janeiro",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Rio_de_Janeiro",
+        "keywords": "Airports in Rio de Janeiro"
+    }
+}

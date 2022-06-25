@@ -1,0 +1,38 @@
+{
+    "id": "44390",
+    "ident": "KZ-0072",
+    "type": "heliport",
+    "name": "Aksu Heliport",
+    "latitude_deg": "52.057847",
+    "longitude_deg": "76.90756",
+    "elevation_ft": "381",
+    "continent": "AS",
+    "iso_country": "KZ",
+    "iso_region": "KZ-PAV",
+    "municipality": "Aksu",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302645",
+        "code": "KZ",
+        "name": "Kazakhstan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kazakhstan",
+        "keywords": "Kazakh"
+    },
+    "region": {
+        "id": "304434",
+        "code": "KZ-PAV",
+        "local_code": "PAV",
+        "name": "Pavlodar Region",
+        "continent": "AS",
+        "iso_country": "KZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pavlodar_Region",
+        "keywords": "Павлодар облысы"
+    }
+}

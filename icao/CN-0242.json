@@ -1,0 +1,38 @@
+{
+    "id": "350923",
+    "ident": "CN-0242",
+    "type": "small_airport",
+    "name": "Faku Caihu Airport",
+    "latitude_deg": "42.38999",
+    "longitude_deg": "123.36977",
+    "elevation_ft": "286",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-21",
+    "municipality": "Faku",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302627",
+        "code": "CN",
+        "name": "China",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/China",
+        "keywords": "中国的机场"
+    },
+    "region": {
+        "id": "303427",
+        "code": "CN-21",
+        "local_code": "21",
+        "name": "Liaoning Province",
+        "continent": "AS",
+        "iso_country": "CN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Liaoning",
+        "keywords": "Airports in Liaoning Province"
+    }
+}

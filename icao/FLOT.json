@@ -1,0 +1,38 @@
+{
+    "id": "354498",
+    "ident": "FLOT",
+    "type": "small_airport",
+    "name": "Otago",
+    "latitude_deg": "-14.945391",
+    "longitude_deg": "28.115654",
+    "elevation_ft": "3900",
+    "continent": "AF",
+    "iso_country": "ZM",
+    "iso_region": "ZM-U-A",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "FLOT",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302611",
+        "code": "ZM",
+        "name": "Zambia",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Zambia",
+        "keywords": "Zambian airports"
+    },
+    "region": {
+        "id": "306309",
+        "code": "ZM-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "AF",
+        "iso_country": "ZM",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}

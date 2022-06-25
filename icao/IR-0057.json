@@ -1,0 +1,38 @@
+{
+    "id": "351570",
+    "ident": "IR-0057",
+    "type": "small_airport",
+    "name": "Qeshm Blue Sky Tourism Airport",
+    "latitude_deg": "26.93232",
+    "longitude_deg": "56.24459",
+    "elevation_ft": "125",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-22",
+    "municipality": "Qeshm",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302637",
+        "code": "IR",
+        "name": "Iran",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iran",
+        "keywords": "فرودگاه های ایران"
+    },
+    "region": {
+        "id": "304240",
+        "code": "IR-22",
+        "local_code": "22",
+        "name": "Hormozgan Province",
+        "continent": "AS",
+        "iso_country": "IR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hormozgan_Province",
+        "keywords": "Airports in Hormozgan Province"
+    }
+}

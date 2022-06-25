@@ -1,0 +1,38 @@
+{
+    "id": "351200",
+    "ident": "IR-0051",
+    "type": "small_airport",
+    "name": "Zibakenar Airport",
+    "latitude_deg": "37.45042",
+    "longitude_deg": "49.88422",
+    "elevation_ft": "-84",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-01",
+    "municipality": "Zibakenar",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Aliabad-e Ziba Kenar",
+    "country": {
+        "id": "302637",
+        "code": "IR",
+        "name": "Iran",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iran",
+        "keywords": "فرودگاه های ایران"
+    },
+    "region": {
+        "id": "304236",
+        "code": "IR-01",
+        "local_code": "01",
+        "name": "Gilan Province",
+        "continent": "AS",
+        "iso_country": "IR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Gilan_Province",
+        "keywords": "Airports in Gilan Province"
+    }
+}

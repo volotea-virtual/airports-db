@@ -1,0 +1,38 @@
+{
+    "id": "345896",
+    "ident": "ZA-0227",
+    "type": "small_airport",
+    "name": "Satara (Singita Lebombo) Airport",
+    "latitude_deg": "-24.376984",
+    "longitude_deg": "31.776495",
+    "elevation_ft": "928",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-MP",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302610",
+        "code": "ZA",
+        "name": "South Africa",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Africa",
+        "keywords": "South African airports"
+    },
+    "region": {
+        "id": "306298",
+        "code": "ZA-MP",
+        "local_code": "MP",
+        "name": "Mpumalanga",
+        "continent": "AF",
+        "iso_country": "ZA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mpumalanga",
+        "keywords": "Airports in Mpumalanga"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "348442",
+    "ident": "YE-0004",
+    "type": "heliport",
+    "name": "Ma'asheeq Presidential Palace Heliport",
+    "latitude_deg": "12.76404",
+    "longitude_deg": "45.05339",
+    "elevation_ft": "151",
+    "continent": "AS",
+    "iso_country": "YE",
+    "iso_region": "YE-AD",
+    "municipality": "Aden",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302671",
+        "code": "YE",
+        "name": "Yemen",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Yemen",
+        "keywords": "مطارات اليمن"
+    },
+    "region": {
+        "id": "306276",
+        "code": "YE-AD",
+        "local_code": "AD",
+        "name": "Adan Governorate",
+        "continent": "AS",
+        "iso_country": "YE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Adan_Governorate",
+        "keywords": "Airports in Adan Governorate"
+    }
+}

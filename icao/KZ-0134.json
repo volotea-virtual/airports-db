@@ -1,0 +1,38 @@
+{
+    "id": "351305",
+    "ident": "KZ-0134",
+    "type": "heliport",
+    "name": "Bayanaul Heliport",
+    "latitude_deg": "50.83366",
+    "longitude_deg": "75.5568",
+    "elevation_ft": "1298",
+    "continent": "AS",
+    "iso_country": "KZ",
+    "iso_region": "KZ-PAV",
+    "municipality": "Bayanaul",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302645",
+        "code": "KZ",
+        "name": "Kazakhstan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kazakhstan",
+        "keywords": "Kazakh"
+    },
+    "region": {
+        "id": "304434",
+        "code": "KZ-PAV",
+        "local_code": "PAV",
+        "name": "Pavlodar Region",
+        "continent": "AS",
+        "iso_country": "KZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pavlodar_Region",
+        "keywords": "Павлодар облысы"
+    }
+}

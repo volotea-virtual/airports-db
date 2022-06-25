@@ -1,0 +1,38 @@
+{
+    "id": "347577",
+    "ident": "SDD2",
+    "type": "heliport",
+    "name": "Dolce Vita Praia Morro de São Paulo Heliport",
+    "latitude_deg": "-13.412222",
+    "longitude_deg": "-38.914167",
+    "elevation_ft": "26",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-BA",
+    "municipality": "Cairu",
+    "scheduled_service": "no",
+    "gps_code": "SDD2",
+    "iata_code": "",
+    "local_code": "BA0375",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian"
+    },
+    "region": {
+        "id": "303203",
+        "code": "BR-BA",
+        "local_code": "BA",
+        "name": "Bahia",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bahia",
+        "keywords": "Airports in Bahia"
+    }
+}

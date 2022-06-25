@@ -1,0 +1,38 @@
+{
+    "id": "351442",
+    "ident": "EC-0040",
+    "type": "small_airport",
+    "name": "Esterito Airport",
+    "latitude_deg": "-0.94007",
+    "longitude_deg": "-79.31379",
+    "elevation_ft": "420",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-R",
+    "municipality": "Valencia",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302794",
+        "code": "EC",
+        "name": "Ecuador",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ecuador",
+        "keywords": "Aeropuertos de Ecuador"
+    },
+    "region": {
+        "id": "303666",
+        "code": "EC-R",
+        "local_code": "R",
+        "name": "Los Rios Province",
+        "continent": "SA",
+        "iso_country": "EC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Los_Rios_Province",
+        "keywords": "Airports in Los Rios Province"
+    }
+}

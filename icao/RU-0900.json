@@ -1,0 +1,38 @@
+{
+    "id": "353453",
+    "ident": "RU-0900",
+    "type": "heliport",
+    "name": "Ak-Kalakha Heliport",
+    "latitude_deg": "49.27255",
+    "longitude_deg": "87.49247",
+    "elevation_ft": "7221",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-AL",
+    "municipality": "Ak-Kalakha",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305263",
+        "code": "RU-AL",
+        "local_code": "AL",
+        "name": "Altai Republic",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Altai_Republic",
+        "keywords": "Altay"
+    }
+}

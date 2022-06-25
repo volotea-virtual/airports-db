@@ -1,0 +1,38 @@
+{
+    "id": "346794",
+    "ident": "BA-0007",
+    "type": "small_airport",
+    "name": "Aerodrom Gorice",
+    "latitude_deg": "44.91275",
+    "longitude_deg": "18.73672",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "BA",
+    "iso_region": "BA-SRP",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302675",
+        "code": "BA",
+        "name": "Bosnia and Herzegovina",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina",
+        "keywords": "Bosnian airports"
+    },
+    "region": {
+        "id": "303053",
+        "code": "BA-SRP",
+        "local_code": "SRP",
+        "name": "Republika Srpska",
+        "continent": "EU",
+        "iso_country": "BA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Republika_Srpska",
+        "keywords": "Airports in Republika Srpska"
+    }
+}

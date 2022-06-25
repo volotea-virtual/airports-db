@@ -1,0 +1,38 @@
+{
+    "id": "347699",
+    "ident": "SE-0071",
+    "type": "small_airport",
+    "name": "Bergby Airstrip",
+    "latitude_deg": "59.76502",
+    "longitude_deg": "18.62201",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "SE",
+    "iso_region": "SE-AB",
+    "municipality": "Bergby (Norrtälje)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302715",
+        "code": "SE",
+        "name": "Sweden",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sweden",
+        "keywords": "Flygplatserna, Sverige"
+    },
+    "region": {
+        "id": "305411",
+        "code": "SE-AB",
+        "local_code": "AB",
+        "name": "Stockholms län",
+        "continent": "EU",
+        "iso_country": "SE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Stockholms_län",
+        "keywords": "Stockholm County"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "350539",
+    "ident": "ID-0211",
+    "type": "small_airport",
+    "name": "Hangmata Airstrip",
+    "latitude_deg": "-4.491594",
+    "longitude_deg": "140.65739",
+    "elevation_ft": "3300",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-PA",
+    "municipality": "Pegunungan Bintang Regency",
+    "scheduled_service": "yes",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302632",
+        "code": "ID",
+        "name": "Indonesia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
+        "keywords": "Bandara di Indonesia"
+    },
+    "region": {
+        "id": "304118",
+        "code": "ID-PA",
+        "local_code": "PA",
+        "name": "Papua",
+        "continent": "AS",
+        "iso_country": "ID",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Papua",
+        "keywords": "Airports in Papua"
+    }
+}

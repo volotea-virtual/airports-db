@@ -1,0 +1,38 @@
+{
+    "id": "350488",
+    "ident": "ID-0204",
+    "type": "small_airport",
+    "name": "Kaklup Airstrip",
+    "latitude_deg": "-4.62117",
+    "longitude_deg": "140.53374",
+    "elevation_ft": "6500",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-PA",
+    "municipality": "Pegunungan Bintang Regency",
+    "scheduled_service": "yes",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302632",
+        "code": "ID",
+        "name": "Indonesia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
+        "keywords": "Bandara di Indonesia"
+    },
+    "region": {
+        "id": "304118",
+        "code": "ID-PA",
+        "local_code": "PA",
+        "name": "Papua",
+        "continent": "AS",
+        "iso_country": "ID",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Papua",
+        "keywords": "Airports in Papua"
+    }
+}

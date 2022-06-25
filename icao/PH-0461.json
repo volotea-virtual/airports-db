@@ -1,0 +1,38 @@
+{
+    "id": "351519",
+    "ident": "PH-0461",
+    "type": "small_airport",
+    "name": "Digal Airport",
+    "latitude_deg": "6.73805",
+    "longitude_deg": "124.82675",
+    "elevation_ft": "61",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-MAG",
+    "municipality": "Digal",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302656",
+        "code": "PH",
+        "name": "Philippines",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
+        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
+    },
+    "region": {
+        "id": "305098",
+        "code": "PH-MAG",
+        "local_code": "MAG",
+        "name": "Maguindanao Province",
+        "continent": "AS",
+        "iso_country": "PH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Maguindanao_Province",
+        "keywords": "Airports in Maguindanao Province"
+    }
+}

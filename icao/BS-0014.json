@@ -1,0 +1,38 @@
+{
+    "id": "347596",
+    "ident": "BS-0014",
+    "type": "heliport",
+    "name": "Abaco Beach Resort Heliport",
+    "latitude_deg": "26.54479",
+    "longitude_deg": "-77.04516",
+    "elevation_ft": "3",
+    "continent": "NA",
+    "iso_country": "BS",
+    "iso_region": "BS-CO",
+    "municipality": "Marsh Harbour",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302728",
+        "code": "BS",
+        "name": "Bahamas",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bahamas",
+        "keywords": "Bahaman airports"
+    },
+    "region": {
+        "id": "336478",
+        "code": "BS-CO",
+        "local_code": "CO",
+        "name": "Central Abaco",
+        "continent": "NA",
+        "iso_country": "BS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Abaco",
+        "keywords": "Airports in Central Abaco"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "352938",
+    "ident": "PE-0022",
+    "type": "small_airport",
+    "name": "Camposol Chao Airport",
+    "latitude_deg": "-8.58173",
+    "longitude_deg": "-78.68142",
+    "elevation_ft": "228",
+    "continent": "SA",
+    "iso_country": "PE",
+    "iso_region": "PE-LAL",
+    "municipality": "Virú",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302798",
+        "code": "PE",
+        "name": "Peru",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Perú",
+        "keywords": "Aeropuertos de Perú"
+    },
+    "region": {
+        "id": "305019",
+        "code": "PE-LAL",
+        "local_code": "LAL",
+        "name": "La Libertad Region",
+        "continent": "SA",
+        "iso_country": "PE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/La_Libertad_Region",
+        "keywords": "Airports in La Libertad Region"
+    }
+}

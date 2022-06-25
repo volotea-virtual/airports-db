@@ -1,0 +1,38 @@
+{
+    "id": "346916",
+    "ident": "18UT",
+    "type": "heliport",
+    "name": "Airmed Tooele Heliport",
+    "latitude_deg": "40.552259",
+    "longitude_deg": "-112.293797",
+    "elevation_ft": "4800",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Tooele City",
+    "scheduled_service": "no",
+    "gps_code": "18UT",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306121",
+        "code": "US-UT",
+        "local_code": "UT",
+        "name": "Utah",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Utah",
+        "keywords": "Airports in Utah"
+    }
+}

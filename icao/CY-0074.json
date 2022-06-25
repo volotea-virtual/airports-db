@@ -1,0 +1,38 @@
+{
+    "id": "348422",
+    "ident": "CY-0074",
+    "type": "heliport",
+    "name": "A6 Tunnel Western Entrance Helipad",
+    "latitude_deg": "34.69534",
+    "longitude_deg": "32.832664",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "CY",
+    "iso_region": "CY-XX",
+    "municipality": "Sotira",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302629",
+        "code": "CY",
+        "name": "Cyprus",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cyprus",
+        "keywords": "Cypriot airports"
+    },
+    "region": {
+        "id": "353671",
+        "code": "CY-XX",
+        "local_code": "XX",
+        "name": "Sovereign Base Areas of Akrotiri and Dhekelia",
+        "continent": "AS",
+        "iso_country": "CY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Akrotiri_and_Dhekelia",
+        "keywords": "SBA"
+    }
+}

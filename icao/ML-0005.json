@@ -1,0 +1,38 @@
+{
+    "id": "353595",
+    "ident": "ML-0005",
+    "type": "heliport",
+    "name": "Ansongo Heliport",
+    "latitude_deg": "15.705131",
+    "longitude_deg": "0.489117",
+    "elevation_ft": "833",
+    "continent": "AF",
+    "iso_country": "ML",
+    "iso_region": "ML-7",
+    "municipality": "Ansongo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302586",
+        "code": "ML",
+        "name": "Mali",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mali",
+        "keywords": "Aéroports du Mali, Malian airports"
+    },
+    "region": {
+        "id": "304662",
+        "code": "ML-7",
+        "local_code": "7",
+        "name": "Gao Region",
+        "continent": "AF",
+        "iso_country": "ML",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Gao_Region",
+        "keywords": "Airports in Gao Region"
+    }
+}

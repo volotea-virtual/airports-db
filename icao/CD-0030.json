@@ -1,0 +1,38 @@
+{
+    "id": "352981",
+    "ident": "CD-0030",
+    "type": "small_airport",
+    "name": "Kibombo Airport",
+    "latitude_deg": "-3.92162",
+    "longitude_deg": "25.94802",
+    "elevation_ft": "1786",
+    "continent": "AF",
+    "iso_country": "CD",
+    "iso_region": "CD-MA",
+    "municipality": "Kibombo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302561",
+        "code": "CD",
+        "name": "Congo (Kinshasa)",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Congo_(Kinshasa)",
+        "keywords": "Democratic Republic of the Congo, DRC"
+    },
+    "region": {
+        "id": "303317",
+        "code": "CD-MA",
+        "local_code": "MA",
+        "name": "Maniema Province",
+        "continent": "AF",
+        "iso_country": "CD",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Maniema_Province",
+        "keywords": "Airports in Maniema Province"
+    }
+}

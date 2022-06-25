@@ -1,0 +1,38 @@
+{
+    "id": "321196",
+    "ident": "LV-0009",
+    "type": "small_airport",
+    "name": "Valmiera Airfield",
+    "latitude_deg": "57.558552",
+    "longitude_deg": "25.444296",
+    "elevation_ft": "190",
+    "continent": "EU",
+    "iso_country": "LV",
+    "iso_region": "LV-113",
+    "municipality": "Valmiera",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302702",
+        "code": "LV",
+        "name": "Latvia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Latvia",
+        "keywords": "Latvian airports"
+    },
+    "region": {
+        "id": "304541",
+        "code": "LV-113",
+        "local_code": "113",
+        "name": "Valmiera Municipality",
+        "continent": "EU",
+        "iso_country": "LV",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Valmiera_Municipality",
+        "keywords": "Airports in Valmiera Municipality"
+    }
+}

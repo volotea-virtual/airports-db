@@ -1,0 +1,38 @@
+{
+    "id": "351215",
+    "ident": "KZ-0127",
+    "type": "small_airport",
+    "name": "Sarykamys Airport",
+    "latitude_deg": "45.9154",
+    "longitude_deg": "53.58665",
+    "elevation_ft": "-75",
+    "continent": "AS",
+    "iso_country": "KZ",
+    "iso_region": "KZ-MAN",
+    "municipality": "Sarykamys",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302645",
+        "code": "KZ",
+        "name": "Kazakhstan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kazakhstan",
+        "keywords": "Kazakh"
+    },
+    "region": {
+        "id": "304433",
+        "code": "KZ-MAN",
+        "local_code": "MAN",
+        "name": "Mangystau Region",
+        "continent": "AS",
+        "iso_country": "KZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mangystau_Region",
+        "keywords": "Маңғыстау облысы"
+    }
+}

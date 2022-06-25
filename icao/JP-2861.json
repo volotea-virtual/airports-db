@@ -1,0 +1,38 @@
+{
+    "id": "352169",
+    "ident": "JP-2861",
+    "type": "heliport",
+    "name": "Saiseikai Yokohama City Tobu Hospital Heliport",
+    "latitude_deg": "35.52379",
+    "longitude_deg": "139.67509",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-14",
+    "municipality": "Yokohama",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302639",
+        "code": "JP",
+        "name": "Japan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Japan",
+        "keywords": "Nippon, 日本の空港"
+    },
+    "region": {
+        "id": "304299",
+        "code": "JP-14",
+        "local_code": "14",
+        "name": "Kanagawa Prefecture",
+        "continent": "AS",
+        "iso_country": "JP",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kanagawa",
+        "keywords": "Kanto"
+    }
+}

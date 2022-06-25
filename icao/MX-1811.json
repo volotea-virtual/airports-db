@@ -1,0 +1,38 @@
+{
+    "id": "349220",
+    "ident": "MX-1811",
+    "type": "closed",
+    "name": "Copa de Oro Airstrip",
+    "latitude_deg": "23.024389",
+    "longitude_deg": "-97.832533",
+    "elevation_ft": "49",
+    "continent": "NA",
+    "iso_country": "MX",
+    "iso_region": "MX-TAM",
+    "municipality": "Villa Aldama",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "CDX",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "CDX",
+    "country": {
+        "id": "302747",
+        "code": "MX",
+        "name": "Mexico",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mexico",
+        "keywords": "Aeropuertos de México, Mexican airports"
+    },
+    "region": {
+        "id": "304817",
+        "code": "MX-TAM",
+        "local_code": "TAM",
+        "name": "Tamaulipas",
+        "continent": "NA",
+        "iso_country": "MX",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tamaulipas",
+        "keywords": "Airports in Tamaulipas"
+    }
+}

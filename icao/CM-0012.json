@@ -1,0 +1,38 @@
+{
+    "id": "352948",
+    "ident": "CM-0012",
+    "type": "small_airport",
+    "name": "Malinkam Northwest Airport",
+    "latitude_deg": "4.61748",
+    "longitude_deg": "9.6242",
+    "elevation_ft": "492",
+    "continent": "AF",
+    "iso_country": "CM",
+    "iso_region": "CM-LT",
+    "municipality": "Malinkam",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302565",
+        "code": "CM",
+        "name": "Cameroon",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cameroon",
+        "keywords": "Cameroonian airports"
+    },
+    "region": {
+        "id": "303415",
+        "code": "CM-LT",
+        "local_code": "LT",
+        "name": "Littoral Region",
+        "continent": "AF",
+        "iso_country": "CM",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Littoral_Province_(Cameroon)",
+        "keywords": "Airports in Littoral Region"
+    }
+}

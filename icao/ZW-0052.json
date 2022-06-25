@@ -1,0 +1,38 @@
+{
+    "id": "351670",
+    "ident": "ZW-0052",
+    "type": "small_airport",
+    "name": "Kapoka Airstrip",
+    "latitude_deg": "-17.139068",
+    "longitude_deg": "28.342388",
+    "elevation_ft": "2400",
+    "continent": "AF",
+    "iso_country": "ZW",
+    "iso_region": "ZW-MW",
+    "municipality": "Siakobvu",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302612",
+        "code": "ZW",
+        "name": "Zimbabwe",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Zimbabwe",
+        "keywords": "Zimbabwan airports"
+    },
+    "region": {
+        "id": "306319",
+        "code": "ZW-MW",
+        "local_code": "MW",
+        "name": "Mashonaland West Province",
+        "continent": "AF",
+        "iso_country": "ZW",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mashonaland_West_Province",
+        "keywords": "Airports in Mashonaland West Province"
+    }
+}

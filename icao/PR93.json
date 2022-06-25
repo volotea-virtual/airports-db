@@ -1,0 +1,38 @@
+{
+    "id": "346599",
+    "ident": "PR93",
+    "type": "heliport",
+    "name": "San Lorenzo Municipal Heliport Nr 1",
+    "latitude_deg": "18.137822",
+    "longitude_deg": "-65.982305",
+    "elevation_ft": "588",
+    "continent": "NA",
+    "iso_country": "PR",
+    "iso_region": "PR-U-A",
+    "municipality": "San Lorenzo",
+    "scheduled_service": "no",
+    "gps_code": "PR93",
+    "iata_code": "",
+    "local_code": "PR93",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302751",
+        "code": "PR",
+        "name": "Puerto Rico",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Puerto_Rico",
+        "keywords": ""
+    },
+    "region": {
+        "id": "305165",
+        "code": "PR-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "NA",
+        "iso_country": "PR",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}

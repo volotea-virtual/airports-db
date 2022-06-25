@@ -1,0 +1,38 @@
+{
+    "id": "347281",
+    "ident": "RS-0019",
+    "type": "small_airport",
+    "name": "Bački Jarak Airport",
+    "latitude_deg": "45.36556",
+    "longitude_deg": "19.88747",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "RS",
+    "iso_region": "RS-06",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302713",
+        "code": "RS",
+        "name": "Serbia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Serbia",
+        "keywords": "Serb"
+    },
+    "region": {
+        "id": "306596",
+        "code": "RS-06",
+        "local_code": "06",
+        "name": "South Bačka District",
+        "continent": "EU",
+        "iso_country": "RS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Bačka_District",
+        "keywords": "Airports in South Bačka District"
+    }
+}

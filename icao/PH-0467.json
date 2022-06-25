@@ -1,0 +1,38 @@
+{
+    "id": "351880",
+    "ident": "PH-0467",
+    "type": "heliport",
+    "name": "Masiu Heliport",
+    "latitude_deg": "7.81806",
+    "longitude_deg": "124.33271",
+    "elevation_ft": "2337",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-LAS",
+    "municipality": "Masiu",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302656",
+        "code": "PH",
+        "name": "Philippines",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
+        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
+    },
+    "region": {
+        "id": "305094",
+        "code": "PH-LAS",
+        "local_code": "LAS",
+        "name": "Lanao del Sur Province",
+        "continent": "AS",
+        "iso_country": "PH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lanao_del_Sur_Province",
+        "keywords": "Airports in Lanao del Sur Province"
+    }
+}

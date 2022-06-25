@@ -1,0 +1,38 @@
+{
+    "id": "353646",
+    "ident": "GR-0055",
+    "type": "heliport",
+    "name": "Lindos Military Area Heliport",
+    "latitude_deg": "36.117715",
+    "longitude_deg": "28.062136",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "GR",
+    "iso_region": "GR-81",
+    "municipality": "Lindos",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302691",
+        "code": "GR",
+        "name": "Greece",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Greece",
+        "keywords": "αεροδρόμια στην Ελλάδα"
+    },
+    "region": {
+        "id": "303948",
+        "code": "GR-81",
+        "local_code": "81",
+        "name": "Dodecanese",
+        "continent": "EU",
+        "iso_country": "GR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Dodecanese",
+        "keywords": "Airports in Dodecanese"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "351129",
+    "ident": "CN-0286",
+    "type": "heliport",
+    "name": "Guilin Gaotian Heliport",
+    "latitude_deg": "24.71781",
+    "longitude_deg": "110.45589",
+    "elevation_ft": "459",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-45",
+    "municipality": "Guilin",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302627",
+        "code": "CN",
+        "name": "China",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/China",
+        "keywords": "中国的机场"
+    },
+    "region": {
+        "id": "303441",
+        "code": "CN-45",
+        "local_code": "45",
+        "name": "Guangxi Autonomous Region",
+        "continent": "AS",
+        "iso_country": "CN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Guangxi",
+        "keywords": "Airports in Guangxi Autonomous Region"
+    }
+}

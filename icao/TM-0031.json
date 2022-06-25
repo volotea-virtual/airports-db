@@ -1,0 +1,38 @@
+{
+    "id": "351073",
+    "ident": "TM-0031",
+    "type": "heliport",
+    "name": "Garabogaz Carbamide Plant Heliport",
+    "latitude_deg": "41.52368",
+    "longitude_deg": "52.61801",
+    "elevation_ft": "-62",
+    "continent": "AS",
+    "iso_country": "TM",
+    "iso_region": "TM-B",
+    "municipality": "Garabogaz",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302666",
+        "code": "TM",
+        "name": "Turkmenistan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Turkmenistan",
+        "keywords": ""
+    },
+    "region": {
+        "id": "305805",
+        "code": "TM-B",
+        "local_code": "B",
+        "name": "Balkan",
+        "continent": "AS",
+        "iso_country": "TM",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Balkan",
+        "keywords": "Airports in Balkan"
+    }
+}

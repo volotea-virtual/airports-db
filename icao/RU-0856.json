@@ -1,0 +1,38 @@
+{
+    "id": "352993",
+    "ident": "RU-0856",
+    "type": "heliport",
+    "name": "Buldurui 1-Y Heliport",
+    "latitude_deg": "51.01742",
+    "longitude_deg": "119.63956",
+    "elevation_ft": "1657",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-CHI",
+    "municipality": "Buldurui 1-Y",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305274",
+        "code": "RU-CHI",
+        "local_code": "CHI",
+        "name": "Zabaykalsky Krai",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Zabaykalsky_Krai",
+        "keywords": "Airports in Zabaykalsky Krai"
+    }
+}

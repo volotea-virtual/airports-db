@@ -1,0 +1,88 @@
+{
+    "id": "354573",
+    "ident": "VTSW",
+    "type": "small_airport",
+    "name": "Phuket Airpark",
+    "latitude_deg": "8.018733",
+    "longitude_deg": "98.40291",
+    "elevation_ft": "20",
+    "continent": "AS",
+    "iso_country": "TH",
+    "iso_region": "TH-83",
+    "municipality": "Talang",
+    "scheduled_service": "no",
+    "gps_code": "VTSW",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.phuketairpark.com/",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "354574",
+            "airport_ref": "354573",
+            "airport_ident": "VTSW",
+            "length_ft": "2625",
+            "width_ft": "",
+            "surface": "Grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "13",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "31",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "354579",
+            "airport_ref": "354573",
+            "airport_ident": "VTSW",
+            "type": "APP",
+            "description": "Phuket Approach",
+            "frequency_mhz": "124.7"
+        },
+        {
+            "id": "354578",
+            "airport_ref": "354573",
+            "airport_ident": "VTSW",
+            "type": "CTAF",
+            "description": "Phuket Airpark Traffic",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "354580",
+            "airport_ref": "354573",
+            "airport_ident": "VTSW",
+            "type": "TWR",
+            "description": "Phuket Tower",
+            "frequency_mhz": "118.1"
+        }
+    ],
+    "country": {
+        "id": "302663",
+        "code": "TH",
+        "name": "Thailand",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Thailand",
+        "keywords": "Siam, Siamese"
+    },
+    "region": {
+        "id": "305772",
+        "code": "TH-83",
+        "local_code": "83",
+        "name": "Phuket Province",
+        "continent": "AS",
+        "iso_country": "TH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Phuket_province",
+        "keywords": "Airports in Phuket Province"
+    }
+}

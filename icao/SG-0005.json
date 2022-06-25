@@ -1,0 +1,38 @@
+{
+    "id": "351987",
+    "ident": "SG-0005",
+    "type": "small_airport",
+    "name": "Murai Airfield",
+    "latitude_deg": "1.39203",
+    "longitude_deg": "103.69951",
+    "elevation_ft": "72",
+    "continent": "AS",
+    "iso_country": "SG",
+    "iso_region": "SG-03",
+    "municipality": "Western Water Catchment",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302661",
+        "code": "SG",
+        "name": "Singapore",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Singapore",
+        "keywords": "Singaporean airports"
+    },
+    "region": {
+        "id": "306652",
+        "code": "SG-03",
+        "local_code": "03",
+        "name": "North West",
+        "continent": "AS",
+        "iso_country": "SG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_West",
+        "keywords": "Airports in North West"
+    }
+}

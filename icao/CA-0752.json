@@ -1,0 +1,38 @@
+{
+    "id": "347480",
+    "ident": "CA-0752",
+    "type": "heliport",
+    "name": "Offer Wadham Lighthouse Helipad",
+    "latitude_deg": "49.59359",
+    "longitude_deg": "-53.76305",
+    "elevation_ft": "36",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-NL",
+    "municipality": "Offer Wadham Island",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": "Canadian airports"
+    },
+    "region": {
+        "id": "303298",
+        "code": "CA-NL",
+        "local_code": "NL",
+        "name": "Newfoundland and Labrador",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Newfoundland_and_Labrador",
+        "keywords": "Airports in Newfoundland and Labrador"
+    }
+}

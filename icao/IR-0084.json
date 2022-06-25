@@ -1,0 +1,38 @@
+{
+    "id": "351899",
+    "ident": "IR-0084",
+    "type": "small_airport",
+    "name": "Shamsabad Airport",
+    "latitude_deg": "29.527426",
+    "longitude_deg": "53.36493",
+    "elevation_ft": "5250",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-07",
+    "municipality": "Kherameh",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Seyāh Zār",
+    "country": {
+        "id": "302637",
+        "code": "IR",
+        "name": "Iran",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iran",
+        "keywords": "فرودگاه های ایران"
+    },
+    "region": {
+        "id": "304231",
+        "code": "IR-07",
+        "local_code": "07",
+        "name": "Fars Province",
+        "continent": "AS",
+        "iso_country": "IR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Fars_Province",
+        "keywords": "Airports in Fars Province"
+    }
+}

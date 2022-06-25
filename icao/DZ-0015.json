@@ -1,0 +1,38 @@
+{
+    "id": "351624",
+    "ident": "DZ-0015",
+    "type": "closed",
+    "name": "Tipaza Aeroclub",
+    "latitude_deg": "36.58291",
+    "longitude_deg": "2.10286",
+    "elevation_ft": "40",
+    "continent": "AF",
+    "iso_country": "DZ",
+    "iso_region": "DZ-42",
+    "municipality": "Sidi Ghiles",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302568",
+        "code": "DZ",
+        "name": "Algeria",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Algeria",
+        "keywords": "مطارات الجزائر"
+    },
+    "region": {
+        "id": "303644",
+        "code": "DZ-42",
+        "local_code": "42",
+        "name": "Tipaza Province",
+        "continent": "AF",
+        "iso_country": "DZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tipaza_Province",
+        "keywords": "Airports in Tipaza Province"
+    }
+}

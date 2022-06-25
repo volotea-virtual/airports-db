@@ -1,0 +1,38 @@
+{
+    "id": "352786",
+    "ident": "GR-0053",
+    "type": "heliport",
+    "name": "Promachi Heliport",
+    "latitude_deg": "41.01365",
+    "longitude_deg": "22.02631",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "GR",
+    "iso_region": "GR-59",
+    "municipality": "Almopia",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302691",
+        "code": "GR",
+        "name": "Greece",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Greece",
+        "keywords": "αεροδρόμια στην Ελλάδα"
+    },
+    "region": {
+        "id": "303940",
+        "code": "GR-59",
+        "local_code": "59",
+        "name": "Pella",
+        "continent": "EU",
+        "iso_country": "GR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pella",
+        "keywords": "Airports in Pella"
+    }
+}

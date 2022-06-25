@@ -1,0 +1,38 @@
+{
+    "id": "344673",
+    "ident": "NG-0024",
+    "type": "closed",
+    "name": "Bacita Airstrip",
+    "latitude_deg": "9.0421",
+    "longitude_deg": "4.9188",
+    "elevation_ft": "489",
+    "continent": "AF",
+    "iso_country": "NG",
+    "iso_region": "NG-KW",
+    "municipality": "Bacita",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302593",
+        "code": "NG",
+        "name": "Nigeria",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nigeria",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304899",
+        "code": "NG-KW",
+        "local_code": "KW",
+        "name": "Kwara",
+        "continent": "AF",
+        "iso_country": "NG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kwara",
+        "keywords": "Airports in Kwara"
+    }
+}

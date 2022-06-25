@@ -1,0 +1,38 @@
+{
+    "id": "354385",
+    "ident": "ZMGT",
+    "type": "small_airport",
+    "name": "Ovoot Airport",
+    "latitude_deg": "43.01192",
+    "longitude_deg": "101.333781",
+    "elevation_ft": "5171",
+    "continent": "AS",
+    "iso_country": "MN",
+    "iso_region": "MN-053",
+    "municipality": "Ovoot Tolgoi",
+    "scheduled_service": "no",
+    "gps_code": "ZMGT",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ovoot_Airport",
+    "keywords": "",
+    "country": {
+        "id": "302650",
+        "code": "MN",
+        "name": "Mongolia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mongolia",
+        "keywords": "Mongolian airports"
+    },
+    "region": {
+        "id": "304690",
+        "code": "MN-053",
+        "local_code": "053",
+        "name": "Övörkhangai Province",
+        "continent": "AS",
+        "iso_country": "MN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/%C3%96v%C3%B6rkhangai_Province",
+        "keywords": "Өмнөговь, Southern Khangai"
+    }
+}

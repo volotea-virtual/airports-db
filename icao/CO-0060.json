@@ -1,0 +1,38 @@
+{
+    "id": "348508",
+    "ident": "CO-0060",
+    "type": "heliport",
+    "name": "Isla del Encanto Heliport",
+    "latitude_deg": "10.13245",
+    "longitude_deg": "-75.68624",
+    "elevation_ft": "16",
+    "continent": "SA",
+    "iso_country": "CO",
+    "iso_region": "CO-BOL",
+    "municipality": "Barú",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302793",
+        "code": "CO",
+        "name": "Colombia",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Colombia",
+        "keywords": "Aeropuertos de Colombia"
+    },
+    "region": {
+        "id": "303461",
+        "code": "CO-BOL",
+        "local_code": "BOL",
+        "name": "Bolívar Department",
+        "continent": "SA",
+        "iso_country": "CO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bolívar_Department",
+        "keywords": "Airports in Bolívar Department"
+    }
+}

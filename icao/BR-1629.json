@@ -1,0 +1,38 @@
+{
+    "id": "351612",
+    "ident": "BR-1629",
+    "type": "heliport",
+    "name": "Teuto Heliport",
+    "latitude_deg": "-16.406354",
+    "longitude_deg": "-48.916272",
+    "elevation_ft": "3622",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-GO",
+    "municipality": "Leopoldo de Bulhões",
+    "scheduled_service": "no",
+    "gps_code": "SSII",
+    "iata_code": "",
+    "local_code": "GO0169",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian"
+    },
+    "region": {
+        "id": "303207",
+        "code": "BR-GO",
+        "local_code": "GO",
+        "name": "Goiás",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Goiás",
+        "keywords": "Airports in Goiás"
+    }
+}

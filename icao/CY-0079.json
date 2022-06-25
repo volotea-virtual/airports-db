@@ -1,0 +1,38 @@
+{
+    "id": "348432",
+    "ident": "CY-0079",
+    "type": "closed",
+    "name": "Choirokoitia Helipad",
+    "latitude_deg": "34.793553",
+    "longitude_deg": "33.352371",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "CY",
+    "iso_region": "CY-04",
+    "municipality": "Choirokoitia",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302629",
+        "code": "CY",
+        "name": "Cyprus",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cyprus",
+        "keywords": "Cypriot airports"
+    },
+    "region": {
+        "id": "303528",
+        "code": "CY-04",
+        "local_code": "04",
+        "name": "Larnarca District",
+        "continent": "AS",
+        "iso_country": "CY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Larnarca_District",
+        "keywords": "Airports in Larnarca District"
+    }
+}

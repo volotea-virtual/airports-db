@@ -1,0 +1,38 @@
+{
+    "id": "351650",
+    "ident": "NP-0017",
+    "type": "heliport",
+    "name": "Pathibhara Devi Temple Heliport",
+    "latitude_deg": "27.42868",
+    "longitude_deg": "87.76665",
+    "elevation_ft": "12398",
+    "continent": "AS",
+    "iso_country": "NP",
+    "iso_region": "NP-ME",
+    "municipality": "Taplejung",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302654",
+        "code": "NP",
+        "name": "Nepal",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nepal",
+        "keywords": "नेपाल विमानस्थलको"
+    },
+    "region": {
+        "id": "306435",
+        "code": "NP-ME",
+        "local_code": "ME",
+        "name": "Mechi",
+        "continent": "AS",
+        "iso_country": "NP",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mechi",
+        "keywords": "Airports in Mechi"
+    }
+}

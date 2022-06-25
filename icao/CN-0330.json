@@ -1,0 +1,38 @@
+{
+    "id": "354508",
+    "ident": "CN-0330",
+    "type": "closed",
+    "name": "Airport (under construction)",
+    "latitude_deg": "39.886494",
+    "longitude_deg": "98.699198",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-62",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302627",
+        "code": "CN",
+        "name": "China",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/China",
+        "keywords": "中国的机场"
+    },
+    "region": {
+        "id": "303449",
+        "code": "CN-62",
+        "local_code": "62",
+        "name": "Gansu Province",
+        "continent": "AS",
+        "iso_country": "CN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Gansu",
+        "keywords": "Airports in Gansu Province"
+    }
+}

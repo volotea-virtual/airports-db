@@ -1,0 +1,38 @@
+{
+    "id": "348430",
+    "ident": "CY-0078",
+    "type": "heliport",
+    "name": "Lazanias Helipad",
+    "latitude_deg": "34.940064",
+    "longitude_deg": "33.20146",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "CY",
+    "iso_region": "CY-02",
+    "municipality": "Lazanias",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302629",
+        "code": "CY",
+        "name": "Cyprus",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cyprus",
+        "keywords": "Cypriot airports"
+    },
+    "region": {
+        "id": "303526",
+        "code": "CY-02",
+        "local_code": "02",
+        "name": "Nicosia District",
+        "continent": "AS",
+        "iso_country": "CY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nicosia_District",
+        "keywords": "Airports in Nicosia District"
+    }
+}

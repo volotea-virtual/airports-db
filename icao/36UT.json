@@ -1,0 +1,38 @@
+{
+    "id": "345392",
+    "ident": "36UT",
+    "type": "heliport",
+    "name": "Park City Regional Medical Center Heliport",
+    "latitude_deg": "40.687822",
+    "longitude_deg": "-111.470627",
+    "elevation_ft": "6759",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-UT",
+    "municipality": "Park City",
+    "scheduled_service": "no",
+    "gps_code": "36UT",
+    "iata_code": "",
+    "local_code": "36UT",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306121",
+        "code": "US-UT",
+        "local_code": "UT",
+        "name": "Utah",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Utah",
+        "keywords": "Airports in Utah"
+    }
+}

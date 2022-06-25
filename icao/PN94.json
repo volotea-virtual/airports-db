@@ -1,0 +1,38 @@
+{
+    "id": "345759",
+    "ident": "PN94",
+    "type": "heliport",
+    "name": "Wiconisco Fire Company Heliport",
+    "latitude_deg": "40.569726",
+    "longitude_deg": "-76.695916",
+    "elevation_ft": "671",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Wiconisco",
+    "scheduled_service": "no",
+    "gps_code": "PN94",
+    "iata_code": "",
+    "local_code": "PN94",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306114",
+        "code": "US-PA",
+        "local_code": "PA",
+        "name": "Pennsylvania",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
+        "keywords": "Airports in Pennsylvania"
+    }
+}

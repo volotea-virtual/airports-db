@@ -1,0 +1,62 @@
+{
+    "id": "30829",
+    "ident": "ZBCF",
+    "type": "medium_airport",
+    "name": "Chifeng Yulong Airport",
+    "latitude_deg": "42.235001",
+    "longitude_deg": "118.907997",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-15",
+    "municipality": "Chifeng",
+    "scheduled_service": "yes",
+    "gps_code": "ZBCF",
+    "iata_code": "CIF",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Chifeng_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "354908",
+            "airport_ref": "30829",
+            "airport_ident": "ZBCF",
+            "length_ft": "5774",
+            "width_ft": "",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302627",
+        "code": "CN",
+        "name": "China",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/China",
+        "keywords": "中国的机场"
+    },
+    "region": {
+        "id": "303426",
+        "code": "CN-15",
+        "local_code": "15",
+        "name": "Inner Mongolia Autonomous Region",
+        "continent": "AS",
+        "iso_country": "CN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Inner_Mongolia",
+        "keywords": "Airports in Inner Mongolia Autonomous Region"
+    }
+}

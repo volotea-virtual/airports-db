@@ -1,0 +1,38 @@
+{
+    "id": "348620",
+    "ident": "SR-0007",
+    "type": "small_airport",
+    "name": "Hazard Airstrip",
+    "latitude_deg": "5.881552",
+    "longitude_deg": "-56.956718",
+    "elevation_ft": "10",
+    "continent": "SA",
+    "iso_country": "SR",
+    "iso_region": "SR-NI",
+    "municipality": "Oostelijke Polders",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302800",
+        "code": "SR",
+        "name": "Suriname",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Suriname",
+        "keywords": "Surinamese airports"
+    },
+    "region": {
+        "id": "305641",
+        "code": "SR-NI",
+        "local_code": "NI",
+        "name": "Nickerie",
+        "continent": "SA",
+        "iso_country": "SR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nickerie",
+        "keywords": "Airports in Nickerie"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "348451",
+    "ident": "AR-0685",
+    "type": "small_airport",
+    "name": "Monte Aymond Airport",
+    "latitude_deg": "-52.12706",
+    "longitude_deg": "-69.50706",
+    "elevation_ft": "538",
+    "continent": "SA",
+    "iso_country": "AR",
+    "iso_region": "AR-Z",
+    "municipality": "Estancia Monte Aymond",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302789",
+        "code": "AR",
+        "name": "Argentina",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Argentina",
+        "keywords": "Aeropuertos de Argentina"
+    },
+    "region": {
+        "id": "302955",
+        "code": "AR-Z",
+        "local_code": "Z",
+        "name": "Santa Cruz Province",
+        "continent": "SA",
+        "iso_country": "AR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Cruz_Province_(Argentina)",
+        "keywords": "Airports in Santa Cruz Province"
+    }
+}

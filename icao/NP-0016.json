@@ -1,0 +1,38 @@
+{
+    "id": "350903",
+    "ident": "NP-0016",
+    "type": "heliport",
+    "name": "Magpa Army Heliport",
+    "latitude_deg": "27.35687",
+    "longitude_deg": "86.74819",
+    "elevation_ft": "6936",
+    "continent": "AS",
+    "iso_country": "NP",
+    "iso_region": "NP-SA",
+    "municipality": "Magpa",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302654",
+        "code": "NP",
+        "name": "Nepal",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nepal",
+        "keywords": "नेपाल विमानस्थलको"
+    },
+    "region": {
+        "id": "306432",
+        "code": "NP-SA",
+        "local_code": "SA",
+        "name": "Sagarmatha",
+        "continent": "AS",
+        "iso_country": "NP",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sagarmatha",
+        "keywords": "Airports in Sagarmatha"
+    }
+}

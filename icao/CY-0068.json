@@ -1,0 +1,38 @@
+{
+    "id": "348416",
+    "ident": "CY-0068",
+    "type": "heliport",
+    "name": "Paramali Radio Sonde Helipad",
+    "latitude_deg": "34.67825",
+    "longitude_deg": "32.811328",
+    "elevation_ft": "-1",
+    "continent": "AS",
+    "iso_country": "CY",
+    "iso_region": "CY-XX",
+    "municipality": "Paramali",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302629",
+        "code": "CY",
+        "name": "Cyprus",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cyprus",
+        "keywords": "Cypriot airports"
+    },
+    "region": {
+        "id": "353671",
+        "code": "CY-XX",
+        "local_code": "XX",
+        "name": "Sovereign Base Areas of Akrotiri and Dhekelia",
+        "continent": "AS",
+        "iso_country": "CY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Akrotiri_and_Dhekelia",
+        "keywords": "SBA"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "347048",
+    "ident": "39CN",
+    "type": "heliport",
+    "name": "Adventist Health Ukiah Valley Heliport",
+    "latitude_deg": "39.152648",
+    "longitude_deg": "-123.203468",
+    "elevation_ft": "608",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CA",
+    "municipality": "Ukiah",
+    "scheduled_service": "no",
+    "gps_code": "39CN",
+    "iata_code": "",
+    "local_code": "39CN",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306080",
+        "code": "US-CA",
+        "local_code": "CA",
+        "name": "California",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
+        "keywords": "Californian airports"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "354713",
+    "ident": "TH-0027",
+    "type": "small_airport",
+    "name": "Lanna Airfield",
+    "latitude_deg": "18.67614",
+    "longitude_deg": "99.10522",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "TH",
+    "iso_region": "TH-50",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302663",
+        "code": "TH",
+        "name": "Thailand",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Thailand",
+        "keywords": "Siam, Siamese"
+    },
+    "region": {
+        "id": "305744",
+        "code": "TH-50",
+        "local_code": "50",
+        "name": "Chiang Mai Province",
+        "continent": "AS",
+        "iso_country": "TH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chiang_Mai_province",
+        "keywords": "Airports in Chiang Mai Province"
+    }
+}

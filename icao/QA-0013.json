@@ -1,0 +1,38 @@
+{
+    "id": "351608",
+    "ident": "QA-0013",
+    "type": "heliport",
+    "name": "Halul Heliport",
+    "latitude_deg": "25.67712",
+    "longitude_deg": "52.41562",
+    "elevation_ft": "40",
+    "continent": "AS",
+    "iso_country": "QA",
+    "iso_region": "QA-DA",
+    "municipality": "Halul Island",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302659",
+        "code": "QA",
+        "name": "Qatar",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Qatar",
+        "keywords": "مطارات قطر"
+    },
+    "region": {
+        "id": "305207",
+        "code": "QA-DA",
+        "local_code": "DA",
+        "name": "Ad-Dawhah Municipality",
+        "continent": "AS",
+        "iso_country": "QA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ad-Dawhah_(municipality)",
+        "keywords": "Airports in Ad-Dawhah Municipality"
+    }
+}

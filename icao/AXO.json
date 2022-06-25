@@ -1,0 +1,62 @@
+{
+    "id": "352222",
+    "ident": "AXO",
+    "type": "small_airport",
+    "name": "Pantar Airport",
+    "latitude_deg": "-8.24638",
+    "longitude_deg": "124.21971",
+    "elevation_ft": "18",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-NT",
+    "municipality": "Alor Island",
+    "scheduled_service": "no",
+    "gps_code": "WATP",
+    "iata_code": "AXO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "352225",
+            "airport_ref": "352222",
+            "airport_ident": "AXO",
+            "length_ft": "2953",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "-8.248390197753906",
+            "le_longitude_deg": "124.21700286865234",
+            "le_elevation_ft": "37",
+            "le_heading_degT": "26",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "-8.241109848022461",
+            "he_longitude_deg": "124.22100067138672",
+            "he_elevation_ft": "54",
+            "he_heading_degT": "206",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302632",
+        "code": "ID",
+        "name": "Indonesia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
+        "keywords": "Bandara di Indonesia"
+    },
+    "region": {
+        "id": "304117",
+        "code": "ID-NT",
+        "local_code": "NT",
+        "name": "Nusa Tenggara Timur",
+        "continent": "AS",
+        "iso_country": "ID",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nusa_Tenggara_Timur",
+        "keywords": "Airports in Nusa Tenggara Timur"
+    }
+}

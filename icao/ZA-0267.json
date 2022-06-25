@@ -1,0 +1,38 @@
+{
+    "id": "353300",
+    "ident": "ZA-0267",
+    "type": "small_airport",
+    "name": "Bo Karoo South Airport",
+    "latitude_deg": "-29.33704",
+    "longitude_deg": "23.17968",
+    "elevation_ft": "3212",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-NC",
+    "municipality": "Higgs Hope",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302610",
+        "code": "ZA",
+        "name": "South Africa",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Africa",
+        "keywords": "South African airports"
+    },
+    "region": {
+        "id": "306299",
+        "code": "ZA-NC",
+        "local_code": "NC",
+        "name": "Northern Cape",
+        "continent": "AF",
+        "iso_country": "ZA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Cape",
+        "keywords": "Airports in Northern Cape"
+    }
+}

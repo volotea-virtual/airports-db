@@ -1,0 +1,38 @@
+{
+    "id": "346996",
+    "ident": "RU-0741",
+    "type": "heliport",
+    "name": "Bikin Heliport",
+    "latitude_deg": "46.80673",
+    "longitude_deg": "134.28723",
+    "elevation_ft": "341",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-PRI",
+    "municipality": "Bikin",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "HD6V",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305316",
+        "code": "RU-PRI",
+        "local_code": "PRI",
+        "name": "Primorsky Krai",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Primorsky_Krai",
+        "keywords": "Airports in Primorsky Krai"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "349435",
+    "ident": "TR-0125",
+    "type": "heliport",
+    "name": "Tekirdağ İsmail Fehmi Cumalıoğlu City Hospital Heliport",
+    "latitude_deg": "41.00903",
+    "longitude_deg": "27.52396",
+    "elevation_ft": "558",
+    "continent": "EU",
+    "iso_country": "TR",
+    "iso_region": "TR-59",
+    "municipality": "Tekirdağ",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302667",
+        "code": "TR",
+        "name": "Turkey",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Turkey",
+        "keywords": "Türkiye havaalanları"
+    },
+    "region": {
+        "id": "305894",
+        "code": "TR-59",
+        "local_code": "59",
+        "name": "Tekirdağ Province",
+        "continent": "AS",
+        "iso_country": "TR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tekirdağ_Province",
+        "keywords": "Airports in Tekirdağ Province"
+    }
+}

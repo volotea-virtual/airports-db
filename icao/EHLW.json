@@ -1,0 +1,142 @@
+{
+    "id": "2523",
+    "ident": "EHLW",
+    "type": "medium_airport",
+    "name": "Leeuwarden Air Base",
+    "latitude_deg": "53.228599548339844",
+    "longitude_deg": "5.760560035705566",
+    "elevation_ft": "3",
+    "continent": "EU",
+    "iso_country": "NL",
+    "iso_region": "NL-FR",
+    "municipality": "Leeuwarden",
+    "scheduled_service": "no",
+    "gps_code": "EHLW",
+    "iata_code": "LWR",
+    "local_code": "",
+    "home_link": "http://www.defensie.nl/luchtmacht/luchtmachtbases/leeuwarden/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Leeuwarden_Air_Base",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "237938",
+            "airport_ref": "2523",
+            "airport_ident": "EHLW",
+            "length_ft": "8045",
+            "width_ft": "164",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "53.219200134277344",
+            "le_longitude_deg": "5.73783016204834",
+            "le_elevation_ft": "4",
+            "le_heading_degT": "53",
+            "le_displaced_threshold_ft": "847",
+            "he_ident": "23",
+            "he_latitude_deg": "53.231300354003906",
+            "he_longitude_deg": "5.767330169677734",
+            "he_elevation_ft": "4",
+            "he_heading_degT": "233",
+            "he_displaced_threshold_ft": "1053"
+        },
+        {
+            "id": "237939",
+            "airport_ref": "2523",
+            "airport_ident": "EHLW",
+            "length_ft": "6562",
+            "width_ft": "164",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "53.22869873046875",
+            "le_longitude_deg": "5.7396697998046875",
+            "le_elevation_ft": "3",
+            "le_heading_degT": "88",
+            "le_displaced_threshold_ft": "195",
+            "he_ident": "27",
+            "he_latitude_deg": "53.22850036621094",
+            "he_longitude_deg": "5.769670009613037",
+            "he_elevation_ft": "4",
+            "he_heading_degT": "268",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55769",
+            "airport_ref": "2523",
+            "airport_ident": "EHLW",
+            "type": "APP",
+            "description": "RAPCON NORTH",
+            "frequency_mhz": "132.03"
+        },
+        {
+            "id": "55770",
+            "airport_ref": "2523",
+            "airport_ident": "EHLW",
+            "type": "ARR",
+            "description": "Leeuwarden Arrival",
+            "frequency_mhz": "132.03"
+        },
+        {
+            "id": "352513",
+            "airport_ref": "2523",
+            "airport_ident": "EHLW",
+            "type": "CENTER",
+            "description": "Dutch Military Center",
+            "frequency_mhz": "128.355"
+        },
+        {
+            "id": "55772",
+            "airport_ref": "2523",
+            "airport_ident": "EHLW",
+            "type": "TWR",
+            "description": "Leeuwarden Tower",
+            "frequency_mhz": "120.705"
+        }
+    ],
+    "country": {
+        "id": "302708",
+        "code": "NL",
+        "name": "Netherlands",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Netherlands",
+        "keywords": "Holland, Luchthavens van Nederland, Dutch airports"
+    },
+    "region": {
+        "id": "304934",
+        "code": "NL-FR",
+        "local_code": "FR",
+        "name": "Friesland",
+        "continent": "EU",
+        "iso_country": "NL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Friesland",
+        "keywords": "Airports in Friesland"
+    },
+    "navaids": [
+        {
+            "id": "90640",
+            "filename": "Leeuwarden_TACAN_NL",
+            "ident": "LWD",
+            "name": "Leeuwarden",
+            "type": "TACAN",
+            "frequency_khz": "114700",
+            "latitude_deg": "53.22359848022461",
+            "longitude_deg": "5.75193977355957",
+            "elevation_ft": "22",
+            "iso_country": "NL",
+            "dme_frequency_khz": "114700",
+            "dme_channel": "094X",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "-3.007",
+            "magnetic_variation_deg": "-0.212",
+            "usageType": "BOTH",
+            "power": "HIGH",
+            "associated_airport": "EHLW"
+        }
+    ]
+}

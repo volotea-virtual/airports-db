@@ -1,0 +1,38 @@
+{
+    "id": "349397",
+    "ident": "BD-0039",
+    "type": "closed",
+    "name": "Bajitpur Regional Airport",
+    "latitude_deg": "24.21232",
+    "longitude_deg": "90.9065",
+    "elevation_ft": "33",
+    "continent": "AS",
+    "iso_country": "BD",
+    "iso_region": "BD-3",
+    "municipality": "Bajitpur",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302622",
+        "code": "BD",
+        "name": "Bangladesh",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bangladesh",
+        "keywords": "Bangladeshi airports"
+    },
+    "region": {
+        "id": "306742",
+        "code": "BD-3",
+        "local_code": "3",
+        "name": "Dhaka Division",
+        "continent": "AS",
+        "iso_country": "BD",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Dhaka_Division",
+        "keywords": "Dhaka bibhag"
+    }
+}

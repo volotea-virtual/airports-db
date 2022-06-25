@@ -1,0 +1,38 @@
+{
+    "id": "349352",
+    "ident": "GL-0010",
+    "type": "closed",
+    "name": "Brønlundhus Seaplane Base",
+    "latitude_deg": "82.180635",
+    "longitude_deg": "-31.164313",
+    "elevation_ft": "",
+    "continent": "NA",
+    "iso_country": "GL",
+    "iso_region": "GL-U-A",
+    "municipality": "Peary Land",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Br%C3%B8nlundhus",
+    "keywords": "",
+    "country": {
+        "id": "302736",
+        "code": "GL",
+        "name": "Greenland",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Greenland",
+        "keywords": "Airports in Greenland"
+    },
+    "region": {
+        "id": "303853",
+        "code": "GL-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "NA",
+        "iso_country": "GL",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}

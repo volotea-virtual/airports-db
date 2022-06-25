@@ -1,0 +1,38 @@
+{
+    "id": "321402",
+    "ident": "SK-0022",
+    "type": "small_airport",
+    "name": "Plášťovce Airstrip",
+    "latitude_deg": "48.128776",
+    "longitude_deg": "19.000553",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "SK",
+    "iso_region": "SK-NJ",
+    "municipality": "Plášťovce",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Letisko Plášťovce",
+    "country": {
+        "id": "302717",
+        "code": "SK",
+        "name": "Slovakia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Slovakia",
+        "keywords": "letisko Slovenska"
+    },
+    "region": {
+        "id": "305594",
+        "code": "SK-NJ",
+        "local_code": "NJ",
+        "name": "Nitra Region",
+        "continent": "EU",
+        "iso_country": "SK",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nitra_Region",
+        "keywords": "Nitriansky kraj"
+    }
+}

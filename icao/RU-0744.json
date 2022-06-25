@@ -1,0 +1,38 @@
+{
+    "id": "346999",
+    "ident": "RU-0744",
+    "type": "small_airport",
+    "name": "Khokhlatskaya-1 Airport",
+    "latitude_deg": "48.61991",
+    "longitude_deg": "135.12234",
+    "elevation_ft": "118",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-KHA",
+    "municipality": "Vinogradovka",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "ZB0K",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305288",
+        "code": "RU-KHA",
+        "local_code": "KHA",
+        "name": "Khabarovsk Krai",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Khabarovsk_Krai",
+        "keywords": "Airports in Khabarovsk Krai"
+    }
+}

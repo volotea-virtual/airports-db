@@ -1,0 +1,38 @@
+{
+    "id": "346808",
+    "ident": "GR-0046",
+    "type": "small_airport",
+    "name": "Agios Pavlos Airfield",
+    "latitude_deg": "40.36756",
+    "longitude_deg": "23.05164",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "GR",
+    "iso_region": "GR-54",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302691",
+        "code": "GR",
+        "name": "Greece",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Greece",
+        "keywords": "αεροδρόμια στην Ελλάδα"
+    },
+    "region": {
+        "id": "303935",
+        "code": "GR-54",
+        "local_code": "54",
+        "name": "Thessaloniki",
+        "continent": "EU",
+        "iso_country": "GR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Thessaloniki",
+        "keywords": "Airports in Thessaloniki"
+    }
+}

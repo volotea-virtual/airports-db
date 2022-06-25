@@ -1,0 +1,38 @@
+{
+    "id": "352121",
+    "ident": "CN-0297",
+    "type": "heliport",
+    "name": "Mudanjiang Suifenhe Heliport",
+    "latitude_deg": "44.44387",
+    "longitude_deg": "131.13758",
+    "elevation_ft": "1696",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-23",
+    "municipality": "Mudanjiang",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302627",
+        "code": "CN",
+        "name": "China",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/China",
+        "keywords": "中国的机场"
+    },
+    "region": {
+        "id": "303429",
+        "code": "CN-23",
+        "local_code": "23",
+        "name": "Heilongjiang Province",
+        "continent": "AS",
+        "iso_country": "CN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Heilongjiang",
+        "keywords": "Airports in Heilongjiang Province"
+    }
+}

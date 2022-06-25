@@ -1,0 +1,38 @@
+{
+    "id": "352223",
+    "ident": "DZH",
+    "type": "small_airport",
+    "name": "Dazhou Jinya Airport",
+    "latitude_deg": "31.0448",
+    "longitude_deg": "107.43723",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-51",
+    "municipality": "Dazhou Shi",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "DZH",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302627",
+        "code": "CN",
+        "name": "China",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/China",
+        "keywords": "中国的机场"
+    },
+    "region": {
+        "id": "303444",
+        "code": "CN-51",
+        "local_code": "51",
+        "name": "Sichuan Province",
+        "continent": "AS",
+        "iso_country": "CN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sichuan",
+        "keywords": "Airports in Sichuan Province"
+    }
+}

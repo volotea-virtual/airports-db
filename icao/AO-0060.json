@@ -1,0 +1,38 @@
+{
+    "id": "351687",
+    "ident": "AO-0060",
+    "type": "small_airport",
+    "name": "Nhamuana Airport",
+    "latitude_deg": "-12.99457",
+    "longitude_deg": "22.7275",
+    "elevation_ft": "3530",
+    "continent": "AF",
+    "iso_country": "AO",
+    "iso_region": "AO-MOX",
+    "municipality": "Nhamuana",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302556",
+        "code": "AO",
+        "name": "Angola",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Angola",
+        "keywords": "Angolan airports"
+    },
+    "region": {
+        "id": "302926",
+        "code": "AO-MOX",
+        "local_code": "MOX",
+        "name": "Moxico Province",
+        "continent": "AF",
+        "iso_country": "AO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Moxico_ Province",
+        "keywords": "Airports in Moxico Province"
+    }
+}

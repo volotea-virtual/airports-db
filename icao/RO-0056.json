@@ -1,0 +1,38 @@
+{
+    "id": "354877",
+    "ident": "RO-0056",
+    "type": "small_airport",
+    "name": "Dărmănești",
+    "latitude_deg": "47.721693",
+    "longitude_deg": "26.118418",
+    "elevation_ft": "975",
+    "continent": "EU",
+    "iso_country": "RO",
+    "iso_region": "RO-SV",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302712",
+        "code": "RO",
+        "name": "Romania",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Romania",
+        "keywords": "Aeroporturi din România"
+    },
+    "region": {
+        "id": "305253",
+        "code": "RO-SV",
+        "local_code": "SV",
+        "name": "Suceava County",
+        "continent": "EU",
+        "iso_country": "RO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Suceava_County",
+        "keywords": "Moldavia, Moldavian"
+    }
+}

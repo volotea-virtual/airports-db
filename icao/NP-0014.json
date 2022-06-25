@@ -1,0 +1,38 @@
+{
+    "id": "350901",
+    "ident": "NP-0014",
+    "type": "heliport",
+    "name": "Lokhim Heliport",
+    "latitude_deg": "27.43895",
+    "longitude_deg": "86.7452",
+    "elevation_ft": "5440",
+    "continent": "AS",
+    "iso_country": "NP",
+    "iso_region": "NP-SA",
+    "municipality": "Lokhim",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302654",
+        "code": "NP",
+        "name": "Nepal",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nepal",
+        "keywords": "नेपाल विमानस्थलको"
+    },
+    "region": {
+        "id": "306432",
+        "code": "NP-SA",
+        "local_code": "SA",
+        "name": "Sagarmatha",
+        "continent": "AS",
+        "iso_country": "NP",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sagarmatha",
+        "keywords": "Airports in Sagarmatha"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "347104",
+    "ident": "LK-0003",
+    "type": "small_airport",
+    "name": "Thalladi Airfield",
+    "latitude_deg": "8.9426",
+    "longitude_deg": "79.94759",
+    "elevation_ft": "14",
+    "continent": "AS",
+    "iso_country": "LK",
+    "iso_region": "LK-4",
+    "municipality": "Mannar",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302648",
+        "code": "LK",
+        "name": "Sri Lanka",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sri_Lanka",
+        "keywords": "Sri Lankan airports"
+    },
+    "region": {
+        "id": "306763",
+        "code": "LK-4",
+        "local_code": "4",
+        "name": "Northern Province",
+        "continent": "AS",
+        "iso_country": "LK",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Province,_Sri_Lanka",
+        "keywords": "Uturu Palata"
+    }
+}

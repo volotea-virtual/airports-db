@@ -1,0 +1,38 @@
+{
+    "id": "352431",
+    "ident": "SI-0027",
+    "type": "small_airport",
+    "name": "Trebnje Airfield",
+    "latitude_deg": "45.9122",
+    "longitude_deg": "15.00256",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "SI",
+    "iso_region": "SI-130",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302716",
+        "code": "SI",
+        "name": "Slovenia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Slovenia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "305537",
+        "code": "SI-130",
+        "local_code": "130",
+        "name": "Trebnje",
+        "continent": "EU",
+        "iso_country": "SI",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Trebnje",
+        "keywords": "Airports in Trebnje"
+    }
+}

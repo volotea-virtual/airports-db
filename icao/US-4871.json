@@ -1,0 +1,38 @@
+{
+    "id": "346639",
+    "ident": "US-4871",
+    "type": "heliport",
+    "name": "Sinai II Heliport",
+    "latitude_deg": "39.351975",
+    "longitude_deg": "-76.661949",
+    "elevation_ft": "490",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MD",
+    "municipality": "Baltimore",
+    "scheduled_service": "no",
+    "gps_code": "8MD3",
+    "iata_code": "",
+    "local_code": "8MD3",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306096",
+        "code": "US-MD",
+        "local_code": "MD",
+        "name": "Maryland",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Maryland",
+        "keywords": "Airports in Maryland"
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "id": "300455",
+    "ident": "ZBYC",
+    "type": "small_airport",
+    "name": "Yuncheng Guangong Airport",
+    "latitude_deg": "35.116391",
+    "longitude_deg": "111.031388889",
+    "elevation_ft": "1242",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-61",
+    "municipality": "Yuncheng",
+    "scheduled_service": "yes",
+    "gps_code": "ZBYC",
+    "iata_code": "YCU",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Yuncheng_Guangong_Airport",
+    "keywords": "Yuncheng Zhangxiao Airport",
+    "runways": [
+        {
+            "id": "350734",
+            "airport_ref": "300455",
+            "airport_ident": "ZBYC",
+            "length_ft": "9843",
+            "width_ft": "",
+            "surface": "",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302627",
+        "code": "CN",
+        "name": "China",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/China",
+        "keywords": "中国的机场"
+    },
+    "region": {
+        "id": "303448",
+        "code": "CN-61",
+        "local_code": "61",
+        "name": "Shaanxi Province",
+        "continent": "AS",
+        "iso_country": "CN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Shaanxi",
+        "keywords": "Airports in Shaanxi Province"
+    }
+}

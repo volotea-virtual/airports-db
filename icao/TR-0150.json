@@ -1,0 +1,38 @@
+{
+    "id": "350914",
+    "ident": "TR-0150",
+    "type": "heliport",
+    "name": "Kefken Coast Guard Heliport",
+    "latitude_deg": "41.17676",
+    "longitude_deg": "30.22468",
+    "elevation_ft": "7",
+    "continent": "AS",
+    "iso_country": "TR",
+    "iso_region": "TR-41",
+    "municipality": "Kefken",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302667",
+        "code": "TR",
+        "name": "Turkey",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Turkey",
+        "keywords": "Türkiye havaalanları"
+    },
+    "region": {
+        "id": "305876",
+        "code": "TR-41",
+        "local_code": "41",
+        "name": "Kocaeli Province",
+        "continent": "AS",
+        "iso_country": "TR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kocaeli_Province",
+        "keywords": "Airports in Kocaeli Province"
+    }
+}

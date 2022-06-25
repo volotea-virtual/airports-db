@@ -1,0 +1,38 @@
+{
+    "id": "346373",
+    "ident": "BG-0079",
+    "type": "small_airport",
+    "name": "Zabet Airstrip",
+    "latitude_deg": "43.74425",
+    "longitude_deg": "26.66147",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "BG",
+    "iso_region": "BG-17",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302677",
+        "code": "BG",
+        "name": "Bulgaria",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bulgaria",
+        "keywords": "Bulgarian airports"
+    },
+    "region": {
+        "id": "303142",
+        "code": "BG-17",
+        "local_code": "17",
+        "name": "Razgrad Province",
+        "continent": "EU",
+        "iso_country": "BG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Razgrad_Province",
+        "keywords": "Airports in Razgrad Province"
+    }
+}

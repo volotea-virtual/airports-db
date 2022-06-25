@@ -1,0 +1,38 @@
+{
+    "id": "350948",
+    "ident": "CN-0252",
+    "type": "small_airport",
+    "name": "Xueye Aeronautics Technology Sports Park",
+    "latitude_deg": "36.43788",
+    "longitude_deg": "117.56978",
+    "elevation_ft": "770",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-37",
+    "municipality": "Laiwu",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302627",
+        "code": "CN",
+        "name": "China",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/China",
+        "keywords": "中国的机场"
+    },
+    "region": {
+        "id": "303436",
+        "code": "CN-37",
+        "local_code": "37",
+        "name": "Shandong Province",
+        "continent": "AS",
+        "iso_country": "CN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Shandong",
+        "keywords": "Airports in Shandong Province"
+    }
+}

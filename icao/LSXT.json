@@ -1,0 +1,38 @@
+{
+    "id": "353992",
+    "ident": "LSXT",
+    "type": "heliport",
+    "name": "Trogen Heliport",
+    "latitude_deg": "47.408977",
+    "longitude_deg": "9.473074",
+    "elevation_ft": "2647",
+    "continent": "EU",
+    "iso_country": "CH",
+    "iso_region": "CH-AR",
+    "municipality": "Trogen",
+    "scheduled_service": "no",
+    "gps_code": "LSXT",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Bleichi",
+    "country": {
+        "id": "302679",
+        "code": "CH",
+        "name": "Switzerland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Switzerland",
+        "keywords": "Aéroports de la Suisse,Flughäfen der Schweiz"
+    },
+    "region": {
+        "id": "303354",
+        "code": "CH-AR",
+        "local_code": "AR",
+        "name": "Canton of Appenzell Ausserrhoden",
+        "continent": "EU",
+        "iso_country": "CH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Appenzell_Ausserrhoden",
+        "keywords": "Airports in Canton of Appenzell Ausserrhoden"
+    }
+}

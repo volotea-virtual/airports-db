@@ -1,0 +1,38 @@
+{
+    "id": "30120",
+    "ident": "LGKN",
+    "type": "heliport",
+    "name": "Marathon Kotroni Navy Helicopter Base",
+    "latitude_deg": "38.137798",
+    "longitude_deg": "23.951099",
+    "elevation_ft": "682",
+    "continent": "EU",
+    "iso_country": "GR",
+    "iso_region": "GR-I",
+    "municipality": "Marathon",
+    "scheduled_service": "no",
+    "gps_code": "LGKN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kotroni_Airport",
+    "keywords": "",
+    "country": {
+        "id": "302691",
+        "code": "GR",
+        "name": "Greece",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Greece",
+        "keywords": "αεροδρόμια στην Ελλάδα"
+    },
+    "region": {
+        "id": "353666",
+        "code": "GR-I",
+        "local_code": "I",
+        "name": "Attica",
+        "continent": "EU",
+        "iso_country": "GR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Attica_(region)",
+        "keywords": "Airports in Attica"
+    }
+}

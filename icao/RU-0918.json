@@ -1,0 +1,62 @@
+{
+    "id": "354388",
+    "ident": "RU-0918",
+    "type": "closed",
+    "name": "Fyodorovka Airport",
+    "latitude_deg": "55.08796",
+    "longitude_deg": "72.995911",
+    "elevation_ft": "4481",
+    "continent": "AS",
+    "iso_country": "RU",
+    "iso_region": "RU-OMS",
+    "municipality": "Omsk",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "ZF8F",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Fyodorovka_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "354389",
+            "airport_ref": "354388",
+            "airport_ident": "RU-0918",
+            "length_ft": "11811",
+            "width_ft": "148",
+            "surface": "Concrete",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305311",
+        "code": "RU-OMS",
+        "local_code": "OMS",
+        "name": "Omsk Oblast",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Omsk_Oblast",
+        "keywords": "Airports in Omsk Oblast"
+    }
+}

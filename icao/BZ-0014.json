@@ -1,0 +1,38 @@
+{
+    "id": "355046",
+    "ident": "BZ-0014",
+    "type": "small_airport",
+    "name": "Tres Leguas Airport",
+    "latitude_deg": "17.90194",
+    "longitude_deg": "-88.986833",
+    "elevation_ft": "",
+    "continent": "NA",
+    "iso_country": "BZ",
+    "iso_region": "BZ-OW",
+    "municipality": "Shipyard",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "MZSR",
+    "country": {
+        "id": "302729",
+        "code": "BZ",
+        "name": "Belize",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Belize",
+        "keywords": "Belizean airports"
+    },
+    "region": {
+        "id": "303290",
+        "code": "BZ-OW",
+        "local_code": "OW",
+        "name": "Orange Walk District",
+        "continent": "NA",
+        "iso_country": "BZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Orange_Walk_District",
+        "keywords": "Airports in Orange Walk District"
+    }
+}

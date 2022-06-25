@@ -1,0 +1,38 @@
+{
+    "id": "346434",
+    "ident": "LT-0023",
+    "type": "small_airport",
+    "name": "Paberžės Aerodromas",
+    "latitude_deg": "54.98973",
+    "longitude_deg": "25.27568",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "LT",
+    "iso_region": "LT-UT",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302700",
+        "code": "LT",
+        "name": "Lithuania",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lithuania",
+        "keywords": "Lithuanian airports"
+    },
+    "region": {
+        "id": "304503",
+        "code": "LT-UT",
+        "local_code": "UT",
+        "name": "Utena County",
+        "continent": "EU",
+        "iso_country": "LT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Utena_County",
+        "keywords": "Airports in Utena County"
+    }
+}

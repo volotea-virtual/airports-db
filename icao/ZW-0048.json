@@ -1,0 +1,38 @@
+{
+    "id": "345912",
+    "ident": "ZW-0048",
+    "type": "heliport",
+    "name": "Chinyike Mine Heliport",
+    "latitude_deg": "-18.9259",
+    "longitude_deg": "30.2742",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "ZW",
+    "iso_region": "ZW-MI",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302612",
+        "code": "ZW",
+        "name": "Zimbabwe",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Zimbabwe",
+        "keywords": "Zimbabwan airports"
+    },
+    "region": {
+        "id": "306315",
+        "code": "ZW-MI",
+        "local_code": "MI",
+        "name": "Midlands Province",
+        "continent": "AF",
+        "iso_country": "ZW",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Midlands_Province",
+        "keywords": "Airports in Midlands Province"
+    }
+}

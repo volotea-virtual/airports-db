@@ -1,0 +1,38 @@
+{
+    "id": "350871",
+    "ident": "CN-0232",
+    "type": "small_airport",
+    "name": "Xiantao General Airport",
+    "latitude_deg": "30.40678",
+    "longitude_deg": "113.59485",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-42",
+    "municipality": "Xiantao, Jingzhou",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302627",
+        "code": "CN",
+        "name": "China",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/China",
+        "keywords": "中国的机场"
+    },
+    "region": {
+        "id": "303438",
+        "code": "CN-42",
+        "local_code": "42",
+        "name": "Hubei Province",
+        "continent": "AS",
+        "iso_country": "CN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hubei",
+        "keywords": "Airports in Hubei Province"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "348831",
+    "ident": "CL-0016",
+    "type": "heliport",
+    "name": "Edificio Torre Nueva Santa María Helipad",
+    "latitude_deg": "-33.422742",
+    "longitude_deg": "-70.621952",
+    "elevation_ft": "2400",
+    "continent": "SA",
+    "iso_country": "CL",
+    "iso_region": "CL-RM",
+    "municipality": "Santiago",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "ETNSM",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302792",
+        "code": "CL",
+        "name": "Chile",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chile",
+        "keywords": "Aeropuertos de Chile"
+    },
+    "region": {
+        "id": "303407",
+        "code": "CL-RM",
+        "local_code": "RM",
+        "name": "Santiago Metropolitan Region",
+        "continent": "SA",
+        "iso_country": "CL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Santiago_Metropolitan_Region",
+        "keywords": "Airports in Santiago Metropolitan Region"
+    }
+}

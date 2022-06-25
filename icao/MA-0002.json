@@ -1,0 +1,38 @@
+{
+    "id": "353213",
+    "ident": "MA-0002",
+    "type": "small_airport",
+    "name": "Lakhmiss N'Arazane Airport",
+    "latitude_deg": "30.49707",
+    "longitude_deg": "-8.63648",
+    "elevation_ft": "1204",
+    "continent": "AF",
+    "iso_country": "MA",
+    "iso_region": "MA-TAR",
+    "municipality": "Lakhmiss N'Arazane",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302584",
+        "code": "MA",
+        "name": "Morocco",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Morocco",
+        "keywords": "مطارات المغرب"
+    },
+    "region": {
+        "id": "304608",
+        "code": "MA-TAR",
+        "local_code": "TAR",
+        "name": "Taroudannt Province",
+        "continent": "AF",
+        "iso_country": "MA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Taroudannt_Province",
+        "keywords": "Airports in Taroudannt Province"
+    }
+}

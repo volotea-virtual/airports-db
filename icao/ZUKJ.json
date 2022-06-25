@@ -1,0 +1,62 @@
+{
+    "id": "313427",
+    "ident": "ZUKJ",
+    "type": "medium_airport",
+    "name": "Kaili Airport",
+    "latitude_deg": "26.972",
+    "longitude_deg": "107.988",
+    "elevation_ft": "3115",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-52",
+    "municipality": "Huangping",
+    "scheduled_service": "yes",
+    "gps_code": "ZUKJ",
+    "iata_code": "KJH",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kaili_Huangping_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "348719",
+            "airport_ref": "313427",
+            "airport_ident": "ZUKJ",
+            "length_ft": "8530",
+            "width_ft": "",
+            "surface": "",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302627",
+        "code": "CN",
+        "name": "China",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/China",
+        "keywords": "中国的机场"
+    },
+    "region": {
+        "id": "303445",
+        "code": "CN-52",
+        "local_code": "52",
+        "name": "Guizhou Province",
+        "continent": "AS",
+        "iso_country": "CN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Guizhou",
+        "keywords": "Airports in Guizhou Province"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "317142",
+    "ident": "YBOW",
+    "type": "heliport",
+    "name": "Mount Barrow Helicopter Landing Site",
+    "latitude_deg": "-41.377597",
+    "longitude_deg": "147.416482",
+    "elevation_ft": "4275",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-TAS",
+    "municipality": "Nunamara",
+    "scheduled_service": "no",
+    "gps_code": "YBOW",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": "Australian airports"
+    },
+    "region": {
+        "id": "302973",
+        "code": "AU-TAS",
+        "local_code": "TAS",
+        "name": "Tasmania",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tasmania",
+        "keywords": "Tasmanian airports"
+    }
+}

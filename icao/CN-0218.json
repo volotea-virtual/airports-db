@@ -1,0 +1,38 @@
+{
+    "id": "348690",
+    "ident": "CN-0218",
+    "type": "small_airport",
+    "name": "Binzhou Daguo Airport",
+    "latitude_deg": "37.61055",
+    "longitude_deg": "117.88556",
+    "elevation_ft": "25",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-37",
+    "municipality": "Binzhou",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302627",
+        "code": "CN",
+        "name": "China",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/China",
+        "keywords": "中国的机场"
+    },
+    "region": {
+        "id": "303436",
+        "code": "CN-37",
+        "local_code": "37",
+        "name": "Shandong Province",
+        "continent": "AS",
+        "iso_country": "CN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Shandong",
+        "keywords": "Airports in Shandong Province"
+    }
+}
