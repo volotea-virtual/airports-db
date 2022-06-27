@@ -3,8 +3,8 @@
     "ident": "CZ-0058",
     "type": "small_airport",
     "name": "Částkovice private ULM",
-    "latitude_deg": "49.4093492",
-    "longitude_deg": "15.1436869",
+    "latitude_deg": "49.409349",
+    "longitude_deg": "15.143687",
     "elevation_ft": "1926",
     "continent": "EU",
     "iso_country": "CZ",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "http://www.lmk-castkovice.cz",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "LKNO",
     "runways": [
         {
             "id": "315907",

@@ -10,7 +10,7 @@
     "iso_country": "SA",
     "iso_region": "SA-07",
     "municipality": "Neom",
-    "scheduled_service": "no",
+    "scheduled_service": "yes",
     "gps_code": "OENN",
     "iata_code": "NUM",
     "local_code": "",

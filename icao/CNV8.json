@@ -70,7 +70,7 @@
             "width_ft": "80",
             "surface": "Turf",
             "lighted": "0",
-            "closed": "0",
+            "closed": "1",
             "le_ident": "17",
             "le_latitude_deg": "",
             "le_longitude_deg": "",
@@ -87,11 +87,19 @@
     ],
     "freqs": [
         {
+            "id": "355173",
+            "airport_ref": "1353",
+            "airport_ident": "CNV8",
+            "type": "AWOS",
+            "description": "",
+            "frequency_mhz": "123.17"
+        },
+        {
             "id": "75246",
             "airport_ref": "1353",
             "airport_ident": "CNV8",
             "type": "UNICOM",
-            "description": "",
+            "description": "Edenvale Traffic",
             "frequency_mhz": "122.775"
         }
     ],
