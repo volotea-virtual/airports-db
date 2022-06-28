@@ -2,9 +2,9 @@
     "id": "26876",
     "ident": "WMKM",
     "type": "medium_airport",
-    "name": "Malacca Airport",
-    "latitude_deg": "2.2633600235",
-    "longitude_deg": "102.251998901",
+    "name": "Malacca International Airport",
+    "latitude_deg": "2.265613",
+    "longitude_deg": "102.252778",
     "elevation_ft": "35",
     "continent": "AS",
     "iso_country": "MY",
@@ -15,8 +15,8 @@
     "iata_code": "MKZ",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "https://en.wikipedia.org/wiki/Batu_Berendam_Airport",
-    "keywords": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Malacca_International_Airport",
+    "keywords": "Batu Berendam",
     "runways": [
         {
             "id": "237824",

@@ -17,6 +17,24 @@
     "home_link": "http://www.flugplatz-troestau.de/",
     "wikipedia_link": "",
     "keywords": "EDTT",
+    "freqs": [
+        {
+            "id": "355175",
+            "airport_ref": "308649",
+            "airport_ident": "DE-0065",
+            "type": "CTAF",
+            "description": "TRÖSTAU INFO",
+            "frequency_mhz": "118.535"
+        },
+        {
+            "id": "355176",
+            "airport_ref": "308649",
+            "airport_ident": "DE-0065",
+            "type": "FIS",
+            "description": "LANGEN INFORMATION",
+            "frequency_mhz": "125.8"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

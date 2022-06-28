@@ -11,12 +11,12 @@
     "iso_region": "HK-U-A",
     "municipality": "Kowloon City, Kowloon",
     "scheduled_service": "no",
-    "gps_code": "VHHX",
-    "iata_code": "HKG",
+    "gps_code": "",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Kai_Tak_Airport",
-    "keywords": "checkerboard, kowloon, Kaitak, RAF Kai Tak",
+    "keywords": "checkerboard, kowloon, Kaitak, RAF Kai Tak, HKG, VHHX",
     "runways": [
         {
             "id": "312863",
