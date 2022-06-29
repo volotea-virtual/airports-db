@@ -1,0 +1,38 @@
+{
+    "id": "355237",
+    "ident": "GR-0062",
+    "type": "heliport",
+    "name": "Superior Air Helipad",
+    "latitude_deg": "37.946873",
+    "longitude_deg": "23.9033",
+    "elevation_ft": "100",
+    "continent": "EU",
+    "iso_country": "GR",
+    "iso_region": "GR-I",
+    "municipality": "Spata",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302691",
+        "code": "GR",
+        "name": "Greece",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Greece",
+        "keywords": "αεροδρόμια στην Ελλάδα"
+    },
+    "region": {
+        "id": "353666",
+        "code": "GR-I",
+        "local_code": "I",
+        "name": "Attica",
+        "continent": "EU",
+        "iso_country": "GR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Attica_(region)",
+        "keywords": "Airports in Attica"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "355241",
+    "ident": "CI-0005",
+    "type": "small_airport",
+    "name": "Zagné Airport",
+    "latitude_deg": "6.215391",
+    "longitude_deg": "-7.500315",
+    "elevation_ft": "732",
+    "continent": "AF",
+    "iso_country": "CI",
+    "iso_region": "CI-MG",
+    "municipality": "Zagné",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302564",
+        "code": "CI",
+        "name": "Côte d'Ivoire",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Côte_d'Ivoire",
+        "keywords": "Ivory Coast"
+    },
+    "region": {
+        "id": "303384",
+        "code": "CI-MG",
+        "local_code": "MG",
+        "name": "Montagnes District",
+        "continent": "AF",
+        "iso_country": "CI",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Montagnes_District",
+        "keywords": "18 Montagnes"
+    }
+}

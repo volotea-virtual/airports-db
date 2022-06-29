@@ -1,0 +1,38 @@
+{
+    "id": "355205",
+    "ident": "LTHD",
+    "type": "heliport",
+    "name": "Orgeneral Eşref Bitlis Askeri Heliportu",
+    "latitude_deg": "37.9306",
+    "longitude_deg": "40.2311",
+    "elevation_ft": "2251",
+    "continent": "AS",
+    "iso_country": "TR",
+    "iso_region": "TR-21",
+    "municipality": "Diyarbakır",
+    "scheduled_service": "no",
+    "gps_code": "LTHD",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302667",
+        "code": "TR",
+        "name": "Turkey",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Turkey",
+        "keywords": "Türkiye havaalanları"
+    },
+    "region": {
+        "id": "305856",
+        "code": "TR-21",
+        "local_code": "21",
+        "name": "Diyarbakır Province",
+        "continent": "AS",
+        "iso_country": "TR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Diyarbakir_Province",
+        "keywords": "Airports in Diyarbakır Province"
+    }
+}

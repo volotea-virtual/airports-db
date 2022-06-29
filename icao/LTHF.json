@@ -1,0 +1,38 @@
+{
+    "id": "355204",
+    "ident": "LTHF",
+    "type": "heliport",
+    "name": "DHMİ Atatürk Airport Heliport",
+    "latitude_deg": "40.9817",
+    "longitude_deg": "28.8222",
+    "elevation_ft": "120",
+    "continent": "AS",
+    "iso_country": "TR",
+    "iso_region": "TR-34",
+    "municipality": "İstanbul",
+    "scheduled_service": "no",
+    "gps_code": "LTHF",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302667",
+        "code": "TR",
+        "name": "Turkey",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Turkey",
+        "keywords": "Türkiye havaalanları"
+    },
+    "region": {
+        "id": "305869",
+        "code": "TR-34",
+        "local_code": "34",
+        "name": "İstanbul Province",
+        "continent": "AS",
+        "iso_country": "TR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/İstanbul_Province",
+        "keywords": "Airports in İstanbul Province"
+    }
+}

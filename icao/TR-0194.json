@@ -1,0 +1,38 @@
+{
+    "id": "355250",
+    "ident": "TR-0194",
+    "type": "heliport",
+    "name": "İzmir Air Ambulance Center",
+    "latitude_deg": "38.39713",
+    "longitude_deg": "27.1025",
+    "elevation_ft": "393",
+    "continent": "AS",
+    "iso_country": "TR",
+    "iso_region": "TR-35",
+    "municipality": "Karabağlar",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302667",
+        "code": "TR",
+        "name": "Turkey",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Turkey",
+        "keywords": "Türkiye havaalanları"
+    },
+    "region": {
+        "id": "305870",
+        "code": "TR-35",
+        "local_code": "35",
+        "name": "İzmir Province",
+        "continent": "AS",
+        "iso_country": "TR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/İzmir_Province",
+        "keywords": "Airports in İzmir Province"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "355256",
+    "ident": "TR-0200",
+    "type": "heliport",
+    "name": "Kaplankaya Heliport",
+    "latitude_deg": "37.315101",
+    "longitude_deg": "27.400508",
+    "elevation_ft": "6",
+    "continent": "AS",
+    "iso_country": "TR",
+    "iso_region": "TR-48",
+    "municipality": "Milas",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302667",
+        "code": "TR",
+        "name": "Turkey",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Turkey",
+        "keywords": "Türkiye havaalanları"
+    },
+    "region": {
+        "id": "305883",
+        "code": "TR-48",
+        "local_code": "48",
+        "name": "Muğla Province",
+        "continent": "AS",
+        "iso_country": "TR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Muğla_Province",
+        "keywords": "Airports in Muğla Province"
+    }
+}

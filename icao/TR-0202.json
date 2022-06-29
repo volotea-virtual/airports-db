@@ -1,0 +1,38 @@
+{
+    "id": "355258",
+    "ident": "TR-0202",
+    "type": "heliport",
+    "name": "Merzifon Karamustafa Paşa Public Hospital Helipad",
+    "latitude_deg": "40.866017",
+    "longitude_deg": "35.437485",
+    "elevation_ft": "2352",
+    "continent": "AS",
+    "iso_country": "TR",
+    "iso_region": "TR-05",
+    "municipality": "Merzifon",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302667",
+        "code": "TR",
+        "name": "Turkey",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Turkey",
+        "keywords": "Türkiye havaalanları"
+    },
+    "region": {
+        "id": "305840",
+        "code": "TR-05",
+        "local_code": "05",
+        "name": "Amasya Province",
+        "continent": "AS",
+        "iso_country": "TR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Amasya_Province",
+        "keywords": "Airports in Amasya Province"
+    }
+}
