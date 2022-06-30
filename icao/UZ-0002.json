@@ -1,10 +1,10 @@
 {
     "id": "41689",
     "ident": "UZ-0002",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Ak Kurgan Airport",
-    "latitude_deg": "40.86330032348633",
-    "longitude_deg": "69.02899932861328",
+    "latitude_deg": "40.86287",
+    "longitude_deg": "69.029046",
     "elevation_ft": "969",
     "continent": "AS",
     "iso_country": "UZ",

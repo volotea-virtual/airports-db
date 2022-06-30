@@ -1,15 +1,15 @@
 {
     "id": "41711",
     "ident": "UZ-0024",
-    "type": "small_airport",
-    "name": "Kokand South Airport",
-    "latitude_deg": "40.446998596191406",
-    "longitude_deg": "70.98650360107422",
-    "elevation_ft": "1652",
+    "type": "heliport",
+    "name": "Dehqonobod Heliport",
+    "latitude_deg": "38.343389",
+    "longitude_deg": "66.447908",
+    "elevation_ft": "",
     "continent": "AS",
     "iso_country": "UZ",
-    "iso_region": "UZ-FA",
-    "municipality": "Kokand",
+    "iso_region": "UZ-QA",
+    "municipality": "Dehqonobod",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Uzbek"
     },
     "region": {
-        "id": "306150",
-        "code": "UZ-FA",
-        "local_code": "FA",
-        "name": "Fergana Region",
+        "id": "306155",
+        "code": "UZ-QA",
+        "local_code": "QA",
+        "name": "Qashqadaryo Region",
         "continent": "AS",
         "iso_country": "UZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Fergana_Region",
-        "keywords": "Airports in Fergana Region"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Qashqadaryo_Region",
+        "keywords": "Airports in Qashqadaryo Region"
     }
 }

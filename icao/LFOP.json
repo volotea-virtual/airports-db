@@ -44,9 +44,9 @@
             "id": "260356",
             "airport_ref": "4177",
             "airport_ident": "LFOP",
-            "length_ft": "",
-            "width_ft": "",
-            "surface": "UNK",
+            "length_ft": "2952",
+            "width_ft": "262",
+            "surface": "GRASS",
             "lighted": "0",
             "closed": "0",
             "le_ident": "05",
@@ -78,7 +78,7 @@
             "airport_ident": "LFOP",
             "type": "ATIS",
             "description": "ATIS",
-            "frequency_mhz": "120.725"
+            "frequency_mhz": "120.73"
         },
         {
             "id": "52263",

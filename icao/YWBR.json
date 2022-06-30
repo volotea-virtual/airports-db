@@ -3,8 +3,8 @@
     "ident": "YWBR",
     "type": "small_airport",
     "name": "Warburton Airport",
-    "latitude_deg": "-26.128299713134766",
-    "longitude_deg": "126.58300018310547",
+    "latitude_deg": "-26.125538",
+    "longitude_deg": "126.583158",
     "elevation_ft": "1500",
     "continent": "OC",
     "iso_country": "AU",
@@ -15,7 +15,7 @@
     "iata_code": "",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Warburton_Airport",
     "keywords": "",
     "runways": [
         {

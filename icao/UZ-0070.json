@@ -1,10 +1,10 @@
 {
     "id": "41757",
     "ident": "UZ-0070",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Daul Airport",
-    "latitude_deg": "39.74359893798828",
-    "longitude_deg": "66.7238998413086",
+    "latitude_deg": "39.743599",
+    "longitude_deg": "66.7239",
     "elevation_ft": "2082",
     "continent": "AS",
     "iso_country": "UZ",

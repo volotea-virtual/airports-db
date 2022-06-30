@@ -1,10 +1,10 @@
 {
     "id": "41705",
     "ident": "UZ-0018",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Ilich North Airport",
-    "latitude_deg": "40.93920135498047",
-    "longitude_deg": "68.52020263671875",
+    "latitude_deg": "40.939201",
+    "longitude_deg": "68.520203",
     "elevation_ft": "835",
     "continent": "AS",
     "iso_country": "UZ",

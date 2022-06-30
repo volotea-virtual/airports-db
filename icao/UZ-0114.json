@@ -1,10 +1,10 @@
 {
     "id": "41802",
     "ident": "UZ-0114",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Matlha Airport",
-    "latitude_deg": "40.377899169921875",
-    "longitude_deg": "69.18309783935547",
+    "latitude_deg": "40.377899",
+    "longitude_deg": "69.183098",
     "elevation_ft": "930",
     "continent": "AS",
     "iso_country": "UZ",

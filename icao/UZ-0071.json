@@ -1,10 +1,10 @@
 {
     "id": "41758",
     "ident": "UZ-0071",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Denau Airport",
-    "latitude_deg": "38.2489013671875",
-    "longitude_deg": "67.92780303955078",
+    "latitude_deg": "38.248901",
+    "longitude_deg": "67.927803",
     "elevation_ft": "1637",
     "continent": "AS",
     "iso_country": "UZ",

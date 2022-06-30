@@ -1,10 +1,10 @@
 {
     "id": "41691",
     "ident": "UZ-0004",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Andizhan Northeast Airport",
-    "latitude_deg": "40.88850021362305",
-    "longitude_deg": "72.4052963256836",
+    "latitude_deg": "40.887563",
+    "longitude_deg": "72.406724",
     "elevation_ft": "1585",
     "continent": "AS",
     "iso_country": "UZ",

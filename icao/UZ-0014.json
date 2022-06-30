@@ -1,10 +1,10 @@
 {
     "id": "41701",
     "ident": "UZ-0014",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Fergana Southwest Airport",
-    "latitude_deg": "40.30910110473633",
-    "longitude_deg": "71.7145004272461",
+    "latitude_deg": "40.309101",
+    "longitude_deg": "71.7145",
     "elevation_ft": "2327",
     "continent": "AS",
     "iso_country": "UZ",

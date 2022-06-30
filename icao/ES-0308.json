@@ -1,0 +1,38 @@
+{
+    "id": "355325",
+    "ident": "ES-0308",
+    "type": "heliport",
+    "name": "Tejeda Heliport",
+    "latitude_deg": "27.99362",
+    "longitude_deg": "-15.60982",
+    "elevation_ft": "3887",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-GC",
+    "municipality": "35369 Tejeda",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302684",
+        "code": "ES",
+        "name": "Spain",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Spain",
+        "keywords": "Aeropuertos de España"
+    },
+    "region": {
+        "id": "303749",
+        "code": "ES-GC",
+        "local_code": "GC",
+        "name": "Las Palmas",
+        "continent": "EU",
+        "iso_country": "ES",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Las_Palmas",
+        "keywords": "Airports in Las Palmas"
+    }
+}

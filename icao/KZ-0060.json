@@ -1,10 +1,10 @@
 {
     "id": "41912",
     "ident": "KZ-0060",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Togyzbay Airport",
-    "latitude_deg": "41.361698150634766",
-    "longitude_deg": "68.74109649658203",
+    "latitude_deg": "41.361698",
+    "longitude_deg": "68.741096",
     "elevation_ft": "1005",
     "continent": "AS",
     "iso_country": "KZ",

@@ -1,10 +1,10 @@
 {
     "id": "41774",
     "ident": "UZ-0087",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Ishbulak North Airport",
-    "latitude_deg": "39.102901458740234",
-    "longitude_deg": "66.61609649658203",
+    "latitude_deg": "39.102901",
+    "longitude_deg": "66.616096",
     "elevation_ft": "1840",
     "continent": "AS",
     "iso_country": "UZ",

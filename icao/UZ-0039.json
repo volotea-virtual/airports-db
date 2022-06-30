@@ -1,10 +1,10 @@
 {
     "id": "41726",
     "ident": "UZ-0039",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Pap Airport",
-    "latitude_deg": "40.88859939575195",
-    "longitude_deg": "71.09130096435547",
+    "latitude_deg": "40.888599",
+    "longitude_deg": "71.091301",
     "elevation_ft": "1516",
     "continent": "AS",
     "iso_country": "UZ",

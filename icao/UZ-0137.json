@@ -1,10 +1,10 @@
 {
     "id": "41827",
     "ident": "UZ-0137",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Yangi Kurgan Airport",
-    "latitude_deg": "40.556400299072266",
-    "longitude_deg": "71.20700073242188",
+    "latitude_deg": "40.5564",
+    "longitude_deg": "71.207001",
     "elevation_ft": "1309",
     "continent": "AS",
     "iso_country": "UZ",

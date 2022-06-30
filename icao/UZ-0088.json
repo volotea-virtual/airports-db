@@ -1,10 +1,10 @@
 {
     "id": "41775",
     "ident": "UZ-0088",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Kairma Airport",
-    "latitude_deg": "39.742000579833984",
-    "longitude_deg": "66.57599639892578",
+    "latitude_deg": "39.741823",
+    "longitude_deg": "66.574575",
     "elevation_ft": "2004",
     "continent": "AS",
     "iso_country": "UZ",

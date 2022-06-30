@@ -1,10 +1,10 @@
 {
     "id": "41761",
     "ident": "UZ-0074",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Dustlik East Airport",
-    "latitude_deg": "40.46853256225586",
-    "longitude_deg": "68.1372299194336",
+    "latitude_deg": "40.468533",
+    "longitude_deg": "68.13723",
     "elevation_ft": "900",
     "continent": "AS",
     "iso_country": "UZ",

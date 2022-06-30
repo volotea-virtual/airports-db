@@ -1,10 +1,10 @@
 {
     "id": "41820",
     "ident": "UZ-0131",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Syrdar Northwest Airport",
-    "latitude_deg": "40.940799713134766",
-    "longitude_deg": "68.62210083007812",
+    "latitude_deg": "40.9408",
+    "longitude_deg": "68.622101",
     "elevation_ft": "839",
     "continent": "AS",
     "iso_country": "UZ",

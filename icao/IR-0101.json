@@ -1,0 +1,38 @@
+{
+    "id": "355293",
+    "ident": "IR-0101",
+    "type": "heliport",
+    "name": "Khosravi Heliport",
+    "latitude_deg": "34.368632",
+    "longitude_deg": "45.488651",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-05",
+    "municipality": "Khosravi",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302637",
+        "code": "IR",
+        "name": "Iran",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iran",
+        "keywords": "فرودگاه های ایران"
+    },
+    "region": {
+        "id": "304234",
+        "code": "IR-05",
+        "local_code": "05",
+        "name": "Kermanshah Province",
+        "continent": "AS",
+        "iso_country": "IR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kermanshah_Province",
+        "keywords": "Airports in Kermanshah Province"
+    }
+}

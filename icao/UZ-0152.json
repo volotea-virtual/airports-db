@@ -1,0 +1,38 @@
+{
+    "id": "355317",
+    "ident": "UZ-0152",
+    "type": "small_airport",
+    "name": "Eski-Jomboy Airport",
+    "latitude_deg": "39.66816",
+    "longitude_deg": "67.159314",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "UZ",
+    "iso_region": "UZ-SA",
+    "municipality": "Dzhambay",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302669",
+        "code": "UZ",
+        "name": "Uzbekistan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Uzbekistan",
+        "keywords": "Uzbek"
+    },
+    "region": {
+        "id": "306157",
+        "code": "UZ-SA",
+        "local_code": "SA",
+        "name": "Samarqand Region",
+        "continent": "AS",
+        "iso_country": "UZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Samarqand_Region",
+        "keywords": "Airports in Samarqand Region"
+    }
+}

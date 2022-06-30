@@ -1,10 +1,10 @@
 {
     "id": "41773",
     "ident": "UZ-0086",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Isbaskent Airport",
-    "latitude_deg": "41.00910186767578",
-    "longitude_deg": "72.41210174560547",
+    "latitude_deg": "41.009102",
+    "longitude_deg": "72.412102",
     "elevation_ft": "1821",
     "continent": "AS",
     "iso_country": "UZ",
