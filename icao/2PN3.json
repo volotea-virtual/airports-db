@@ -1,10 +1,10 @@
 {
     "id": "9721",
     "ident": "2PN3",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Market Garden Airport",
-    "latitude_deg": "39.96110153198242",
-    "longitude_deg": "-77.10030364990234",
+    "latitude_deg": "39.960231",
+    "longitude_deg": "-77.102201",
     "elevation_ft": "600",
     "continent": "NA",
     "iso_country": "US",
@@ -13,10 +13,10 @@
     "scheduled_service": "no",
     "gps_code": "2PN3",
     "iata_code": "",
-    "local_code": "2PN3",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "2PN3",
     "runways": [
         {
             "id": "247896",

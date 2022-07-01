@@ -1,0 +1,38 @@
+{
+    "id": "355340",
+    "ident": "HU-0060",
+    "type": "heliport",
+    "name": "Szent János és a Kútvölgyi kórhàzi Heliport",
+    "latitude_deg": "47.510335",
+    "longitude_deg": "19.001117",
+    "elevation_ft": "593",
+    "continent": "EU",
+    "iso_country": "HU",
+    "iso_region": "HU-BU",
+    "municipality": "Budapest",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302693",
+        "code": "HU",
+        "name": "Hungary",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hungary",
+        "keywords": "Repülőterek Magyarország"
+    },
+    "region": {
+        "id": "304059",
+        "code": "HU-BU",
+        "local_code": "BU",
+        "name": "Budapest (capital city)",
+        "continent": "EU",
+        "iso_country": "HU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Budapest",
+        "keywords": "Airports in Budapest (capital city)"
+    }
+}
