@@ -1,0 +1,38 @@
+{
+    "id": "355372",
+    "ident": "NZEV",
+    "type": "heliport",
+    "name": "Eves Valley Heliport",
+    "latitude_deg": "-41.339923",
+    "longitude_deg": "173.077329",
+    "elevation_ft": "126",
+    "continent": "OC",
+    "iso_country": "NZ",
+    "iso_region": "NZ-NSN",
+    "municipality": "Eves Valley",
+    "scheduled_service": "no",
+    "gps_code": "NZEV",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302776",
+        "code": "NZ",
+        "name": "New Zealand",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Zealand",
+        "keywords": "Airports in New Zealand"
+    },
+    "region": {
+        "id": "304977",
+        "code": "NZ-NSN",
+        "local_code": "NSN",
+        "name": "Nelson Region",
+        "continent": "OC",
+        "iso_country": "NZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nelson,_New_Zealand",
+        "keywords": "Airports in Nelson Region"
+    }
+}
