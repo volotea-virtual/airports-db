@@ -3,8 +3,8 @@
     "ident": "1IL1",
     "type": "small_airport",
     "name": "Horsefeathers Ranch Airport",
-    "latitude_deg": "39.24449920654297",
-    "longitude_deg": "-89.4259033203125",
+    "latitude_deg": "39.241595",
+    "longitude_deg": "-89.426565",
     "elevation_ft": "653",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "1IL1",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Hacker RLA",
     "runways": [
         {
             "id": "250227",

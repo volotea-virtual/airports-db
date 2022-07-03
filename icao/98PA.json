@@ -1,10 +1,10 @@
 {
     "id": "15586",
     "ident": "98PA",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Pleasant Hill Airport",
-    "latitude_deg": "40.89440155029297",
-    "longitude_deg": "-80.18109893798828",
+    "latitude_deg": "40.88166",
+    "longitude_deg": "-80.18599",
     "elevation_ft": "1180",
     "continent": "NA",
     "iso_country": "US",
