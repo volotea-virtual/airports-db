@@ -3,12 +3,12 @@
     "ident": "DE-0364",
     "type": "small_airport",
     "name": "Flugplatz Crussow",
-    "latitude_deg": "53.0130556",
+    "latitude_deg": "53.013056",
     "longitude_deg": "14.071111",
     "elevation_ft": "180",
     "continent": "EU",
     "iso_country": "DE",
-    "iso_region": "DE-MV",
+    "iso_region": "DE-BR",
     "municipality": "Crussow",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Flughäfen in Deutschland"
     },
     "region": {
-        "id": "303554",
-        "code": "DE-MV",
-        "local_code": "MV",
-        "name": "Mecklenburg-Vorpommern",
+        "id": "303547",
+        "code": "DE-BR",
+        "local_code": "BR",
+        "name": "Brandenburg",
         "continent": "EU",
         "iso_country": "DE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mecklenburg-Vorpommern",
-        "keywords": "Airports in Mecklenburg-Vorpommern"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brandenburg",
+        "keywords": "Airports in Brandenburg"
     }
 }

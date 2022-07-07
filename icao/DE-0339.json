@@ -3,12 +3,12 @@
     "ident": "DE-0339",
     "type": "small_airport",
     "name": "Hartenstein-Thierfeld UL",
-    "latitude_deg": "50.6761111",
-    "longitude_deg": "12.6816667",
+    "latitude_deg": "50.676111",
+    "longitude_deg": "12.681667",
     "elevation_ft": "1361",
     "continent": "EU",
     "iso_country": "DE",
-    "iso_region": "DE-TH",
+    "iso_region": "DE-SN",
     "municipality": "",
     "scheduled_service": "no",
     "gps_code": "",
@@ -60,13 +60,13 @@
         "keywords": "Flughäfen in Deutschland"
     },
     "region": {
-        "id": "303562",
-        "code": "DE-TH",
-        "local_code": "TH",
-        "name": "Thuringia",
+        "id": "303560",
+        "code": "DE-SN",
+        "local_code": "SN",
+        "name": "Saxony",
         "continent": "EU",
         "iso_country": "DE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Thuringia",
-        "keywords": "Thueringen, Freistaat Thüringen"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saxony",
+        "keywords": "Sachsen"
     }
 }

@@ -2,7 +2,7 @@
     "id": "5610",
     "ident": "RJSI",
     "type": "medium_airport",
-    "name": "Morioka Hanamaki Airport",
+    "name": "Iwate Hanamaki Airport",
     "latitude_deg": "39.4286",
     "longitude_deg": "141.134995",
     "elevation_ft": "297",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Hanamaki_Airport",
-    "keywords": "",
+    "keywords": "Morioka",
     "runways": [
         {
             "id": "237170",

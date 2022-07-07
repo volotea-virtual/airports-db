@@ -8,7 +8,7 @@
     "elevation_ft": "217",
     "continent": "EU",
     "iso_country": "DE",
-    "iso_region": "DE-MV",
+    "iso_region": "DE-HH",
     "municipality": "Fischbek",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Flughäfen in Deutschland"
     },
     "region": {
-        "id": "303554",
-        "code": "DE-MV",
-        "local_code": "MV",
-        "name": "Mecklenburg-Vorpommern",
+        "id": "303553",
+        "code": "DE-HH",
+        "local_code": "HH",
+        "name": "Hamburg",
         "continent": "EU",
         "iso_country": "DE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mecklenburg-Vorpommern",
-        "keywords": "Airports in Mecklenburg-Vorpommern"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hamburg",
+        "keywords": "Airports in Hamburg"
     }
 }
