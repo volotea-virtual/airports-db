@@ -17,6 +17,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "355442",
+            "airport_ref": "30345",
+            "airport_ident": "SLRB",
+            "length_ft": "3940",
+            "width_ft": "98",
+            "surface": "GRASS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "18",
+            "le_latitude_deg": "-18.322361",
+            "le_longitude_deg": "-59.767063",
+            "le_elevation_ft": "884",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "36",
+            "he_latitude_deg": "-18.332771",
+            "he_longitude_deg": "-59.763897",
+            "he_elevation_ft": "884",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302790",
         "code": "BO",
