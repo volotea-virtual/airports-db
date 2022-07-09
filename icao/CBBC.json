@@ -1,7 +1,7 @@
 {
     "id": "664",
     "ident": "CBBC",
-    "type": "small_airport",
+    "type": "medium_airport",
     "name": "Bella Bella (Campbell Island) Airport",
     "latitude_deg": "52.185001",
     "longitude_deg": "-128.156994",

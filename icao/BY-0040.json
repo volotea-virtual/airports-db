@@ -1,0 +1,38 @@
+{
+    "id": "355464",
+    "ident": "BY-0040",
+    "type": "small_airport",
+    "name": "Galevo Airport",
+    "latitude_deg": "52.155729",
+    "longitude_deg": "26.128964",
+    "elevation_ft": "280",
+    "continent": "EU",
+    "iso_country": "BY",
+    "iso_region": "BY-BR",
+    "municipality": "Galevo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Asnyezhytsy, UMAS",
+    "country": {
+        "id": "302678",
+        "code": "BY",
+        "name": "Belarus",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Belarus",
+        "keywords": "Belarussian, Беларусь"
+    },
+    "region": {
+        "id": "303280",
+        "code": "BY-BR",
+        "local_code": "BR",
+        "name": "Brest Region",
+        "continent": "EU",
+        "iso_country": "BY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brest_Region",
+        "keywords": "Brèsckaja voblasc'"
+    }
+}

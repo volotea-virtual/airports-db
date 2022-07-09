@@ -1,7 +1,7 @@
 {
     "id": "1969",
     "ident": "CYXX",
-    "type": "medium_airport",
+    "type": "large_airport",
     "name": "Abbotsford International Airport",
     "latitude_deg": "49.025299",
     "longitude_deg": "-122.361",

@@ -1,7 +1,7 @@
 {
     "id": "320060",
     "ident": "CA-0582",
-    "type": "small_airport",
+    "type": "medium_airport",
     "name": "Bamfield Airstrip",
     "latitude_deg": "48.8206",
     "longitude_deg": "-125.1193",
@@ -10,7 +10,7 @@
     "iso_country": "CA",
     "iso_region": "CA-BC",
     "municipality": "Bamfield",
-    "scheduled_service": "no",
+    "scheduled_service": "yes",
     "gps_code": "",
     "iata_code": "",
     "local_code": "",

@@ -10,7 +10,7 @@
     "iso_country": "CA",
     "iso_region": "CA-BC",
     "municipality": "Port Alberni",
-    "scheduled_service": "no",
+    "scheduled_service": "yes",
     "gps_code": "CBS8",
     "iata_code": "YPB",
     "local_code": "CBS8",

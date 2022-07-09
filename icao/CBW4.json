@@ -3,7 +3,7 @@
     "ident": "CBW4",
     "type": "small_airport",
     "name": "Bob Quinn Lake Airport",
-    "latitude_deg": "56.9667015076",
+    "latitude_deg": "56.966702",
     "longitude_deg": "-130.25",
     "elevation_ft": "2000",
     "continent": "NA",
@@ -16,7 +16,7 @@
     "local_code": "CBW4",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Bob_Quinn_Lake_Airport",
-    "keywords": "BW4",
+    "keywords": "",
     "runways": [
         {
             "id": "253076",

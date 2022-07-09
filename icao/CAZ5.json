@@ -1,7 +1,7 @@
 {
     "id": "657",
     "ident": "CAZ5",
-    "type": "small_airport",
+    "type": "medium_airport",
     "name": "Cache Creek-Ashcroft Regional Airport",
     "latitude_deg": "50.775258",
     "longitude_deg": "-121.321314",
@@ -10,7 +10,7 @@
     "iso_country": "CA",
     "iso_region": "CA-BC",
     "municipality": "Cache Creek",
-    "scheduled_service": "no",
+    "scheduled_service": "yes",
     "gps_code": "CAZ5",
     "iata_code": "YZA",
     "local_code": "CAZ5",
