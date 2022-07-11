@@ -17,6 +17,40 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "355559",
+            "airport_ref": "346520",
+            "airport_ident": "CA-0750",
+            "length_ft": "2000",
+            "width_ft": "50",
+            "surface": "grass. 26 end has power lines 20ft from threshold. approx 50 ft",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "355558",
+            "airport_ref": "346520",
+            "airport_ident": "CA-0750",
+            "type": "UNIC",
+            "description": "Indian Creek",
+            "frequency_mhz": "123.2"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

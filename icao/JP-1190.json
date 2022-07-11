@@ -2,7 +2,7 @@
     "id": "340620",
     "ident": "JP-1190",
     "type": "heliport",
-    "name": "Aero Asahi - Ishikari Helicopter Base",
+    "name": "Sapporo Fire Department Ishikari Heliport",
     "latitude_deg": "43.210392",
     "longitude_deg": "141.31776",
     "elevation_ft": "",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Aero Asahi Ishikari Helicopter Base",
     "country": {
         "id": "302639",
         "code": "JP",

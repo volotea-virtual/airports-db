@@ -2,7 +2,7 @@
     "id": "323957",
     "ident": "JP-0052",
     "type": "small_airport",
-    "name": "Taiki Aerospace Research Airfield",
+    "name": "Hokkaido Spaceport",
     "latitude_deg": "42.499971",
     "longitude_deg": "143.441759",
     "elevation_ft": "50",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Taeki.",
+    "keywords": "Taeki, Taiki, Taiki Aerospace Research Airfield",
     "country": {
         "id": "302639",
         "code": "JP",

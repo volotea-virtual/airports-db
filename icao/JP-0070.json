@@ -2,7 +2,7 @@
     "id": "324000",
     "ident": "JP-0070",
     "type": "heliport",
-    "name": "Kushiro Takanosai Memorial Hospital Helipad",
+    "name": "Kushiro Kojinkai Memorial Hospital Heliport",
     "latitude_deg": "43.029277",
     "longitude_deg": "144.397256",
     "elevation_ft": "",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Kushiro Takanosai Memorial Hospital, Kushiro",
+    "keywords": "Kushiro Kojinkai Memorial Hospital, Kushiro",
     "country": {
         "id": "302639",
         "code": "JP",
