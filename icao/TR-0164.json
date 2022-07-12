@@ -3,12 +3,12 @@
     "ident": "TR-0164",
     "type": "heliport",
     "name": "Yılair Havacılık ve Ticaret AŞ ve Helikopter Pisti",
-    "latitude_deg": "40.414977",
-    "longitude_deg": "29.108472",
-    "elevation_ft": "",
+    "latitude_deg": "40.41513",
+    "longitude_deg": "29.108555",
+    "elevation_ft": "115",
     "continent": "AS",
     "iso_country": "TR",
-    "iso_region": "TR-U-A",
+    "iso_region": "TR-16",
     "municipality": "Gemlik",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Türkiye havaalanları"
     },
     "region": {
-        "id": "305917",
-        "code": "TR-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "305851",
+        "code": "TR-16",
+        "local_code": "16",
+        "name": "Bursa Province",
         "continent": "AS",
         "iso_country": "TR",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bursa_Province",
+        "keywords": "Airports in Bursa Province"
     }
 }

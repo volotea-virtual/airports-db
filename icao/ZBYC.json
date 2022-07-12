@@ -2,9 +2,9 @@
     "id": "300455",
     "ident": "ZBYC",
     "type": "small_airport",
-    "name": "Yuncheng Guangong Airport",
+    "name": "Yuncheng Zhangxiao Airport",
     "latitude_deg": "35.116391",
-    "longitude_deg": "111.031388889",
+    "longitude_deg": "111.031389",
     "elevation_ft": "1242",
     "continent": "AS",
     "iso_country": "CN",
@@ -15,8 +15,8 @@
     "iata_code": "YCU",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "https://en.wikipedia.org/wiki/Yuncheng_Guangong_Airport",
-    "keywords": "Yuncheng Zhangxiao Airport",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Yuncheng_Zhangxiao_Airport",
+    "keywords": "Yuncheng Guangong Airport",
     "runways": [
         {
             "id": "350734",

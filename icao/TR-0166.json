@@ -3,18 +3,18 @@
     "ident": "TR-0166",
     "type": "heliport",
     "name": "D-Marin Turgutreis Marina Heliport",
-    "latitude_deg": "37.002037",
-    "longitude_deg": "27.258002",
-    "elevation_ft": "",
+    "latitude_deg": "37.002792",
+    "longitude_deg": "27.258346",
+    "elevation_ft": "1",
     "continent": "AS",
     "iso_country": "TR",
-    "iso_region": "TR-U-A",
+    "iso_region": "TR-48",
     "municipality": "Bodrum",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
     "local_code": "",
-    "home_link": "",
+    "home_link": "https://www.d-marin.com/en/marinas/turgutreis/",
     "wikipedia_link": "",
     "keywords": "",
     "country": {
@@ -26,13 +26,13 @@
         "keywords": "Türkiye havaalanları"
     },
     "region": {
-        "id": "305917",
-        "code": "TR-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "305883",
+        "code": "TR-48",
+        "local_code": "48",
+        "name": "Muğla Province",
         "continent": "AS",
         "iso_country": "TR",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Muğla_Province",
+        "keywords": "Airports in Muğla Province"
     }
 }

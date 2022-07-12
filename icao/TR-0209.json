@@ -8,7 +8,7 @@
     "elevation_ft": "20",
     "continent": "AS",
     "iso_country": "TR",
-    "iso_region": "TR-U-A",
+    "iso_region": "TR-67",
     "municipality": "Ereğli",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Türkiye havaalanları"
     },
     "region": {
-        "id": "305917",
-        "code": "TR-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "305902",
+        "code": "TR-67",
+        "local_code": "67",
+        "name": "Zonguldak Province",
         "continent": "AS",
         "iso_country": "TR",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Zonguldak_Province",
+        "keywords": "Airports in Zonguldak Province"
     }
 }
