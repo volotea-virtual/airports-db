@@ -3,8 +3,8 @@
     "ident": "LBGO",
     "type": "medium_airport",
     "name": "Gorna Oryahovitsa Airport",
-    "latitude_deg": "43.15140151977539",
-    "longitude_deg": "25.712900161743164",
+    "latitude_deg": "43.151402",
+    "longitude_deg": "25.7129",
     "elevation_ft": "285",
     "continent": "EU",
     "iso_country": "BG",
@@ -14,8 +14,8 @@
     "gps_code": "LBGO",
     "iata_code": "GOZ",
     "local_code": "",
-    "home_link": "",
-    "wikipedia_link": "",
+    "home_link": "http://gornaoryahovitsa-airport.bg/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Gorna_Oryahovitsa_Airport",
     "keywords": "",
     "runways": [
         {
