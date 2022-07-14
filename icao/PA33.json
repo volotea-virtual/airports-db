@@ -3,8 +3,8 @@
     "ident": "PA33",
     "type": "small_airport",
     "name": "Lars/Private Airport",
-    "latitude_deg": "41.9500999451",
-    "longitude_deg": "-76.483001709",
+    "latitude_deg": "41.9501",
+    "longitude_deg": "-76.483002",
     "elevation_ft": "1300",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "PA33",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Osas Ponderosa",
     "runways": [
         {
             "id": "257582",
