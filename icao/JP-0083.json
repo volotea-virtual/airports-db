@@ -2,7 +2,7 @@
     "id": "324551",
     "ident": "JP-0083",
     "type": "heliport",
-    "name": "Tonosho East (Meguriike) Helipad",
+    "name": "Tonosho East (Meguriike) Heliport",
     "latitude_deg": "34.47594",
     "longitude_deg": "134.181269",
     "elevation_ft": "",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Tonosho Highashi, Meguriike, Shodoshima",
+    "keywords": "Tonosho Higashi, Meguriike, Shodoshima",
     "country": {
         "id": "302639",
         "code": "JP",

@@ -3,8 +3,8 @@
     "ident": "NJ41",
     "type": "heliport",
     "name": "Hudson Farm West Heliport",
-    "latitude_deg": "40.98789978",
-    "longitude_deg": "-74.72519684",
+    "latitude_deg": "40.9879",
+    "longitude_deg": "-74.725197",
     "elevation_ft": "870",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "NJ41",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Westby Heliport",
     "runways": [
         {
             "id": "268346",

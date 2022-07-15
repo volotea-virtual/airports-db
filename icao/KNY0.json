@@ -3,8 +3,8 @@
     "ident": "KNY0",
     "type": "small_airport",
     "name": "Fulton County Airport",
-    "latitude_deg": "42.998199462890625",
-    "longitude_deg": "-74.32959747314453",
+    "latitude_deg": "42.998199",
+    "longitude_deg": "-74.329597",
     "elevation_ft": "881",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "NY0",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Fulton_County_Airport_(New_York)",
-    "keywords": "",
+    "keywords": "Fulco",
     "runways": [
         {
             "id": "243839",
