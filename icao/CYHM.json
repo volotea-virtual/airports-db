@@ -50,17 +50,17 @@
             "lighted": "1",
             "closed": "0",
             "le_ident": "12",
-            "le_latitude_deg": "43.180599212646484",
-            "le_longitude_deg": "-79.9531021118164",
+            "le_latitude_deg": "43.180599",
+            "le_longitude_deg": "-79.953102",
             "le_elevation_ft": "772",
             "le_heading_degT": "107",
             "le_displaced_threshold_ft": "1600",
             "he_ident": "30",
-            "he_latitude_deg": "43.17219924926758",
-            "he_longitude_deg": "-79.9175033569336",
+            "he_latitude_deg": "43.172199",
+            "he_longitude_deg": "-79.917503",
             "he_elevation_ft": "765",
             "he_heading_degT": "287",
-            "he_displaced_threshold_ft": "400"
+            "he_displaced_threshold_ft": ""
         }
     ],
     "freqs": [
