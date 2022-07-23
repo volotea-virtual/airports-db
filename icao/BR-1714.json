@@ -1,0 +1,38 @@
+{
+    "id": "355740",
+    "ident": "BR-1714",
+    "type": "small_airport",
+    "name": "Agrotec Airport",
+    "latitude_deg": "-3.205556",
+    "longitude_deg": "-60.541389",
+    "elevation_ft": "105",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-AM",
+    "municipality": "Manacapuru",
+    "scheduled_service": "no",
+    "gps_code": "SDGT",
+    "iata_code": "",
+    "local_code": "AM0028",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian"
+    },
+    "region": {
+        "id": "303201",
+        "code": "BR-AM",
+        "local_code": "AM",
+        "name": "Amazonas",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Amazonas",
+        "keywords": "Airports in Amazonas"
+    }
+}
