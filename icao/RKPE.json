@@ -2,7 +2,7 @@
     "id": "5641",
     "ident": "RKPE",
     "type": "small_airport",
-    "name": "Jinhae Airbase/Airport (G-813/K-10)",
+    "name": "Jinhae Air Base",
     "latitude_deg": "35.140248",
     "longitude_deg": "128.696229",
     "elevation_ft": "8",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Jinhae_Airport",
-    "keywords": "",
+    "keywords": "G-813, K-10, Chinhae, Jinhae Airport",
     "runways": [
         {
             "id": "237332",

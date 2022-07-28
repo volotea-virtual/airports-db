@@ -1,0 +1,38 @@
+{
+    "id": "355786",
+    "ident": "BS-0017",
+    "type": "heliport",
+    "name": "Cargill Creek Settlement Heliport",
+    "latitude_deg": "24.49789",
+    "longitude_deg": "-77.71867",
+    "elevation_ft": "13",
+    "continent": "NA",
+    "iso_country": "BS",
+    "iso_region": "BS-CS",
+    "municipality": "Cargill Creek Settlement",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302728",
+        "code": "BS",
+        "name": "Bahamas",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bahamas",
+        "keywords": "Bahaman airports"
+    },
+    "region": {
+        "id": "336479",
+        "code": "BS-CS",
+        "local_code": "CS",
+        "name": "Central Andros",
+        "continent": "NA",
+        "iso_country": "BS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Andros",
+        "keywords": "Airports in Central Andros"
+    }
+}
