@@ -1,8 +1,8 @@
 {
     "id": "30143",
     "ident": "LHMC",
-    "type": "small_airport",
-    "name": "Miskolc Airport",
+    "type": "closed",
+    "name": "Miskolc Airfield",
     "latitude_deg": "48.13603",
     "longitude_deg": "20.789641",
     "elevation_ft": "390",

@@ -1,0 +1,38 @@
+{
+    "id": "355871",
+    "ident": "JP-3082",
+    "type": "heliport",
+    "name": "Kuyabu Heliport",
+    "latitude_deg": "33.59208",
+    "longitude_deg": "133.24352",
+    "elevation_ft": "2241",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-39",
+    "municipality": "Ochi",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302639",
+        "code": "JP",
+        "name": "Japan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Japan",
+        "keywords": "Nippon, 日本の空港"
+    },
+    "region": {
+        "id": "304324",
+        "code": "JP-39",
+        "local_code": "39",
+        "name": "Kōchi Prefecture",
+        "continent": "AS",
+        "iso_country": "JP",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kochi",
+        "keywords": "Shikoku"
+    }
+}

@@ -2,7 +2,7 @@
     "id": "15800",
     "ident": "LS83",
     "type": "small_airport",
-    "name": "Delta Dusters, LLC Airport",
+    "name": "Delta Dusters Airport",
     "latitude_deg": "32.061737",
     "longitude_deg": "-91.251454",
     "elevation_ft": "77",
@@ -16,7 +16,7 @@
     "local_code": "LS83",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Formerly 9M2, Kifer Airport",
+    "keywords": "9M2, Delta Dusters LLC, Kifer",
     "runways": [
         {
             "id": "257849",

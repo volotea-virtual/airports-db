@@ -2,9 +2,9 @@
     "id": "7315",
     "ident": "0MD5",
     "type": "heliport",
-    "name": "Greater Laurel Beltsville Hospital Heliport",
-    "latitude_deg": "39.08760070800781",
-    "longitude_deg": "-76.88159942626953",
+    "name": "UM Laurel Medical Center Heliport",
+    "latitude_deg": "39.087886",
+    "longitude_deg": "-76.882281",
     "elevation_ft": "285",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "0MD5",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Greater Laurel Beltsville Hospital",
     "runways": [
         {
             "id": "265232",

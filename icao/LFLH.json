@@ -2,9 +2,9 @@
     "id": "4135",
     "ident": "LFLH",
     "type": "medium_airport",
-    "name": "Chalon-Champforgeuil Airport",
-    "latitude_deg": "46.82609939575195",
-    "longitude_deg": "4.817629814147949",
+    "name": "Chalon-Champforgeuil Airfield",
+    "latitude_deg": "46.826099",
+    "longitude_deg": "4.81763",
     "elevation_ft": "623",
     "continent": "EU",
     "iso_country": "FR",
@@ -15,7 +15,7 @@
     "iata_code": "",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "https://en.wikipedia.org/wiki/Chalon_-_Champforgeuil_Airport",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Chalon_-_Champforgeuil_Airfield",
     "keywords": "",
     "runways": [
         {
