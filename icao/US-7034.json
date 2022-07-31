@@ -1,15 +1,15 @@
 {
-    "id": "347597",
-    "ident": "US-5133",
+    "id": "355894",
+    "ident": "US-7034",
     "type": "closed",
-    "name": "Kelso Airfield",
-    "latitude_deg": "35.06847",
-    "longitude_deg": "-115.64281",
-    "elevation_ft": "2510",
+    "name": "Willow Wind Airport",
+    "latitude_deg": "32.40493",
+    "longitude_deg": "-92.08341",
+    "elevation_ft": "66",
     "continent": "NA",
     "iso_country": "US",
-    "iso_region": "US-CA",
-    "municipality": "Kelso",
+    "iso_region": "US-LA",
+    "municipality": "Monroe",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
@@ -26,13 +26,13 @@
         "keywords": "American airports"
     },
     "region": {
-        "id": "306080",
-        "code": "US-CA",
-        "local_code": "CA",
-        "name": "California",
+        "id": "306094",
+        "code": "US-LA",
+        "local_code": "LA",
+        "name": "Louisiana",
         "continent": "NA",
         "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
-        "keywords": "Californian airports"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Louisiana",
+        "keywords": "Airports in Louisiana"
     }
 }

@@ -1,10 +1,10 @@
 {
     "id": "43123",
     "ident": "EDHP",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Pellworm Field",
-    "latitude_deg": "54.5363883972",
-    "longitude_deg": "8.68000030518",
+    "latitude_deg": "54.536388",
+    "longitude_deg": "8.68",
     "elevation_ft": "3",
     "continent": "EU",
     "iso_country": "DE",

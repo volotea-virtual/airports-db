@@ -2,7 +2,7 @@
     "id": "18169",
     "ident": "PAIN",
     "type": "small_airport",
-    "name": "McKinley National Park Airport",
+    "name": "Denali National Park Airport",
     "latitude_deg": "63.732465",
     "longitude_deg": "-148.911266",
     "elevation_ft": "1720",
@@ -16,7 +16,7 @@
     "local_code": "INR",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/McKinley_National_Park_Airport",
-    "keywords": "5MK",
+    "keywords": "5MK, McKinley National Park Airport",
     "runways": [
         {
             "id": "258131",

@@ -1,15 +1,15 @@
 {
-    "id": "347597",
-    "ident": "US-5133",
-    "type": "closed",
-    "name": "Kelso Airfield",
-    "latitude_deg": "35.06847",
-    "longitude_deg": "-115.64281",
-    "elevation_ft": "2510",
+    "id": "355902",
+    "ident": "US-7041",
+    "type": "small_airport",
+    "name": "Winter Trail Airport",
+    "latitude_deg": "64.45915",
+    "longitude_deg": "-146.89281",
+    "elevation_ft": "673",
     "continent": "NA",
     "iso_country": "US",
-    "iso_region": "US-CA",
-    "municipality": "Kelso",
+    "iso_region": "US-AK",
+    "municipality": "Salcha",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
@@ -26,13 +26,13 @@
         "keywords": "American airports"
     },
     "region": {
-        "id": "306080",
-        "code": "US-CA",
-        "local_code": "CA",
-        "name": "California",
+        "id": "306076",
+        "code": "US-AK",
+        "local_code": "AK",
+        "name": "Alaska",
         "continent": "NA",
         "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
-        "keywords": "Californian airports"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
+        "keywords": "Airports in Alaska"
     }
 }

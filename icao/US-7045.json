@@ -1,15 +1,15 @@
 {
-    "id": "347597",
-    "ident": "US-5133",
-    "type": "closed",
-    "name": "Kelso Airfield",
-    "latitude_deg": "35.06847",
-    "longitude_deg": "-115.64281",
-    "elevation_ft": "2510",
+    "id": "355906",
+    "ident": "US-7045",
+    "type": "small_airport",
+    "name": "KJ Field",
+    "latitude_deg": "63.90438",
+    "longitude_deg": "-149.03199",
+    "elevation_ft": "1345",
     "continent": "NA",
     "iso_country": "US",
-    "iso_region": "US-CA",
-    "municipality": "Kelso",
+    "iso_region": "US-AK",
+    "municipality": "Lignite",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
@@ -26,13 +26,13 @@
         "keywords": "American airports"
     },
     "region": {
-        "id": "306080",
-        "code": "US-CA",
-        "local_code": "CA",
-        "name": "California",
+        "id": "306076",
+        "code": "US-AK",
+        "local_code": "AK",
+        "name": "Alaska",
         "continent": "NA",
         "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/California",
-        "keywords": "Californian airports"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
+        "keywords": "Airports in Alaska"
     }
 }
