@@ -3,8 +3,8 @@
     "ident": "SNIG",
     "type": "small_airport",
     "name": "Iguatu Airport",
-    "latitude_deg": "-6.346640110015869",
-    "longitude_deg": "-39.293800354003906",
+    "latitude_deg": "-6.346319",
+    "longitude_deg": "-39.294448",
     "elevation_ft": "699",
     "continent": "SA",
     "iso_country": "BR",
@@ -13,9 +13,9 @@
     "scheduled_service": "no",
     "gps_code": "SNIG",
     "iata_code": "QIG",
-    "local_code": "SNIG",
+    "local_code": "CE0007",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Iguatu_Airport",
     "keywords": "",
     "runways": [
         {
