@@ -1,0 +1,38 @@
+{
+    "id": "355914",
+    "ident": "TR-0214",
+    "type": "heliport",
+    "name": "Heliport Rize",
+    "latitude_deg": "41.03832",
+    "longitude_deg": "40.520024",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "TR",
+    "iso_region": "TR-53",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302667",
+        "code": "TR",
+        "name": "Turkey",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Turkey",
+        "keywords": "Türkiye havaalanları"
+    },
+    "region": {
+        "id": "305888",
+        "code": "TR-53",
+        "local_code": "53",
+        "name": "Rize Province",
+        "continent": "AS",
+        "iso_country": "TR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Rize_Province",
+        "keywords": "Airports in Rize Province"
+    }
+}
