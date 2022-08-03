@@ -1,8 +1,8 @@
 {
     "id": "2372",
     "ident": "HE32",
-    "type": "small_airport",
-    "name": "Al Mansurah Airport",
+    "type": "medium_airport",
+    "name": "Al Mansurah Airbase",
     "latitude_deg": "30.9676",
     "longitude_deg": "31.4342",
     "elevation_ft": "13",

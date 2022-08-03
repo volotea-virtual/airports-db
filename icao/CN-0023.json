@@ -2,9 +2,9 @@
     "id": "312491",
     "ident": "CN-0023",
     "type": "small_airport",
-    "name": "Badaling or YanQing Airport",
-    "latitude_deg": "40.378611",
-    "longitude_deg": "115.9375",
+    "name": "Beijing Yanqing Airport",
+    "latitude_deg": "40.379146",
+    "longitude_deg": "115.937519",
     "elevation_ft": "1750",
     "continent": "AS",
     "iso_country": "CN",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Badaling",
     "runways": [
         {
             "id": "312492",

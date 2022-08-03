@@ -1,10 +1,10 @@
 {
     "id": "4958",
     "ident": "NCRG",
-    "type": "large_airport",
+    "type": "medium_airport",
     "name": "Rarotonga International Airport",
-    "latitude_deg": "-21.2026996613",
-    "longitude_deg": "-159.805999756",
+    "latitude_deg": "-21.2027",
+    "longitude_deg": "-159.806",
     "elevation_ft": "19",
     "continent": "OC",
     "iso_country": "CK",

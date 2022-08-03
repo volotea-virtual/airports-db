@@ -1,10 +1,10 @@
 {
     "id": "41287",
     "ident": "ZA-0084",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Bospoort Airport",
-    "latitude_deg": "-26.595556259155273",
-    "longitude_deg": "26.22922134399414",
+    "latitude_deg": "-26.595556",
+    "longitude_deg": "26.229221",
     "elevation_ft": "5085",
     "continent": "AF",
     "iso_country": "ZA",

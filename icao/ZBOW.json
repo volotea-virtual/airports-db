@@ -2,9 +2,9 @@
     "id": "30679",
     "ident": "ZBOW",
     "type": "medium_airport",
-    "name": "Baotou Airport",
-    "latitude_deg": "40.560001373291016",
-    "longitude_deg": "109.99700164794922",
+    "name": "Baotou Donghe Airport",
+    "latitude_deg": "40.560001",
+    "longitude_deg": "109.997002",
     "elevation_ft": "3321",
     "continent": "AS",
     "iso_country": "CN",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Baotou_Airport",
-    "keywords": "",
+    "keywords": "Erliban",
     "runways": [
         {
             "id": "349122",

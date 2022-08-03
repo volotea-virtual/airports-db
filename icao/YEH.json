@@ -2,7 +2,7 @@
     "id": "31677",
     "ident": "YEH",
     "type": "small_airport",
-    "name": "Yinchuan/Xincheng Air Base",
+    "name": "Yinchuan Helanshan Air Base",
     "latitude_deg": "38.481899",
     "longitude_deg": "106.009003",
     "elevation_ft": "3770",
@@ -12,11 +12,11 @@
     "municipality": "Yinchuan",
     "scheduled_service": "no",
     "gps_code": "",
-    "iata_code": "YEH",
-    "local_code": "",
+    "iata_code": "",
+    "local_code": "YEH",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Xincheng",
     "runways": [
         {
             "id": "348402",

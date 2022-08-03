@@ -3,8 +3,8 @@
     "ident": "LSMM",
     "type": "small_airport",
     "name": "Meiringen Airport",
-    "latitude_deg": "46.74330139160156",
-    "longitude_deg": "8.109999656677246",
+    "latitude_deg": "46.743301",
+    "longitude_deg": "8.11",
     "elevation_ft": "1895",
     "continent": "EU",
     "iso_country": "CH",
@@ -15,7 +15,7 @@
     "iata_code": "",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Meiringen_Air_Base",
     "keywords": "",
     "runways": [
         {
