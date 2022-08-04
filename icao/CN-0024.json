@@ -3,8 +3,8 @@
     "ident": "CN-0024",
     "type": "medium_airport",
     "name": "Zhangjiakou Ningyuan Airport",
-    "latitude_deg": "40.7386016846",
-    "longitude_deg": "114.930000305",
+    "latitude_deg": "40.738602",
+    "longitude_deg": "114.93",
     "elevation_ft": "2347",
     "continent": "AS",
     "iso_country": "CN",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Zhangjiakou_Ningyuan_Airport",
-    "keywords": "Zhangjiakou Air Base, 张家口宁远机场",
+    "keywords": "Zhangjiakou Air Base, 张家口宁远机场, ZZHA",
     "runways": [
         {
             "id": "354891",

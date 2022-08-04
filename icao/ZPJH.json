@@ -2,7 +2,7 @@
     "id": "27213",
     "ident": "ZPJH",
     "type": "medium_airport",
-    "name": "Xishuangbanna Gasa Airport",
+    "name": "Xishuangbanna Gasa International Airport",
     "latitude_deg": "21.9739",
     "longitude_deg": "100.760002",
     "elevation_ft": "1815",
@@ -15,7 +15,7 @@
     "iata_code": "JHG",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "https://en.wikipedia.org/wiki/Xishuangbanna_Gasa_Airport",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Xishuangbanna_Gasa_International_Airport",
     "keywords": "",
     "runways": [
         {

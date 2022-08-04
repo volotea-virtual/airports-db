@@ -3,8 +3,8 @@
     "ident": "ZBCF",
     "type": "medium_airport",
     "name": "Chifeng Yulong Airport",
-    "latitude_deg": "42.235001",
-    "longitude_deg": "118.907997",
+    "latitude_deg": "42.157708",
+    "longitude_deg": "118.839455",
     "elevation_ft": "",
     "continent": "AS",
     "iso_country": "CN",
@@ -15,7 +15,7 @@
     "iata_code": "CIF",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "https://en.wikipedia.org/wiki/Chifeng_Airport",
+    "wikipedia_link": "",
     "keywords": "",
     "runways": [
         {

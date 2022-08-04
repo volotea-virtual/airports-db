@@ -3,8 +3,8 @@
     "ident": "FTTI",
     "type": "small_airport",
     "name": "Ati Airport",
-    "latitude_deg": "13.238900184631348",
-    "longitude_deg": "18.31329917907715",
+    "latitude_deg": "13.239778",
+    "longitude_deg": "18.315893",
     "elevation_ft": "1089",
     "continent": "AF",
     "iso_country": "TD",
@@ -15,7 +15,7 @@
     "iata_code": "ATV",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ati_Airport",
     "keywords": "",
     "runways": [
         {

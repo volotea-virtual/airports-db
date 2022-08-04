@@ -1,0 +1,38 @@
+{
+    "id": "355959",
+    "ident": "TD-0018",
+    "type": "small_airport",
+    "name": "Salal Airport",
+    "latitude_deg": "14.843333",
+    "longitude_deg": "17.226667",
+    "elevation_ft": "984",
+    "continent": "AF",
+    "iso_country": "TD",
+    "iso_region": "TD-U-A",
+    "municipality": "Salal",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Salal_Airport",
+    "keywords": "",
+    "country": {
+        "id": "302604",
+        "code": "TD",
+        "name": "Chad",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Chad",
+        "keywords": "Airports in Chad"
+    },
+    "region": {
+        "id": "305701",
+        "code": "TD-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "AF",
+        "iso_country": "TD",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}

@@ -2,9 +2,9 @@
     "id": "31771",
     "ident": "ZWKL",
     "type": "medium_airport",
-    "name": "Korla Airport",
-    "latitude_deg": "41.69779968261719",
-    "longitude_deg": "86.12889862060547",
+    "name": "Korla Licheng Airport",
+    "latitude_deg": "41.6978",
+    "longitude_deg": "86.128899",
     "elevation_ft": "",
     "continent": "AS",
     "iso_country": "CN",
@@ -15,7 +15,7 @@
     "iata_code": "KRL",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "https://en.wikipedia.org/wiki/Korla_Airport",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Korla_Licheng_Airport",
     "keywords": "",
     "runways": [
         {

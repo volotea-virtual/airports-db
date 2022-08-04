@@ -2,7 +2,7 @@
     "id": "30635",
     "ident": "ZWAK",
     "type": "medium_airport",
-    "name": "Aksu Onsu Airport",
+    "name": "Aksu Hongqipo Airport",
     "latitude_deg": "41.262501",
     "longitude_deg": "80.291702",
     "elevation_ft": "3816",
@@ -15,8 +15,8 @@
     "iata_code": "AKU",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "https://en.wikipedia.org/wiki/Aksu_Onsu_Airport",
-    "keywords": "Ak-su, Akshu, Aqsu, Bharuka, Po-lu-chia, Aksu Wensu Air Base",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Aksu_Hongqipo_Airport",
+    "keywords": "Ak-su, Akshu, Aqsu, Bharuka, Po-lu-chia, Aksu Wensu Air Base, Onsu",
     "runways": [
         {
             "id": "351159",
