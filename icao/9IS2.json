@@ -3,8 +3,8 @@
     "ident": "9IS2",
     "type": "small_airport",
     "name": "Schertz Field",
-    "latitude_deg": "40.482200622558594",
-    "longitude_deg": "-88.2676010131836",
+    "latitude_deg": "40.482878",
+    "longitude_deg": "-88.267529",
     "elevation_ft": "758",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "9IS2",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Gibson City Muni",
     "runways": [
         {
             "id": "243685",

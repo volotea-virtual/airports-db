@@ -5,12 +5,12 @@
     "name": "Rize–Artvin Airport",
     "latitude_deg": "41.179625",
     "longitude_deg": "40.850796",
-    "elevation_ft": "5",
+    "elevation_ft": "16",
     "continent": "AS",
     "iso_country": "TR",
     "iso_region": "TR-53",
     "municipality": "Rize",
-    "scheduled_service": "no",
+    "scheduled_service": "yes",
     "gps_code": "LTFO",
     "iata_code": "RZV",
     "local_code": "",
@@ -25,7 +25,7 @@
             "length_ft": "9843",
             "width_ft": "148",
             "surface": "ASPH",
-            "lighted": "0",
+            "lighted": "1",
             "closed": "0",
             "le_ident": "06",
             "le_latitude_deg": "41.1755",
@@ -39,6 +39,56 @@
             "he_elevation_ft": "16",
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "355994",
+            "airport_ref": "316329",
+            "airport_ident": "TR-0042",
+            "type": "APP",
+            "description": "Rize-Artvin Approach",
+            "frequency_mhz": "127.15"
+        },
+        {
+            "id": "355995",
+            "airport_ref": "316329",
+            "airport_ident": "TR-0042",
+            "type": "SAR",
+            "description": "Rize-Artvin Rescue Subcenter",
+            "frequency_mhz": "123.1"
+        },
+        {
+            "id": "355996",
+            "airport_ref": "316329",
+            "airport_ident": "TR-0042",
+            "type": "SAR",
+            "description": "Rize-Artvin Rescue Subcenter",
+            "frequency_mhz": "282.8"
+        },
+        {
+            "id": "355993",
+            "airport_ref": "316329",
+            "airport_ident": "TR-0042",
+            "type": "TWR",
+            "description": "Ground",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "355991",
+            "airport_ref": "316329",
+            "airport_ident": "TR-0042",
+            "type": "TWR",
+            "description": "Rize-Artvin Tower",
+            "frequency_mhz": "126.75"
+        },
+        {
+            "id": "355992",
+            "airport_ref": "316329",
+            "airport_ident": "TR-0042",
+            "type": "TWR",
+            "description": "Rize-Artvin Tower",
+            "frequency_mhz": "372.85"
         }
     ],
     "country": {

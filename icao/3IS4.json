@@ -3,8 +3,8 @@
     "ident": "3IS4",
     "type": "small_airport",
     "name": "Merkle Airport",
-    "latitude_deg": "42.28889846801758",
-    "longitude_deg": "-90.34539794921875",
+    "latitude_deg": "42.288898",
+    "longitude_deg": "-90.345398",
     "elevation_ft": "970",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "3IS4",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Orchard Landing",
     "runways": [
         {
             "id": "250701",

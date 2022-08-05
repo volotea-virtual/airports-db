@@ -2,9 +2,9 @@
     "id": "21196",
     "ident": "KTIP",
     "type": "small_airport",
-    "name": "Rantoul National Avn Center-Frank Elliot field",
-    "latitude_deg": "40.29359818",
-    "longitude_deg": "-88.14240265",
+    "name": "Rantoul National Aviation Center - Frank Elliot field",
+    "latitude_deg": "40.293598",
+    "longitude_deg": "-88.142403",
     "elevation_ft": "737",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "TIP",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Chanute Air Force Base, Chanute Field",
     "runways": [
         {
             "id": "241706",

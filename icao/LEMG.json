@@ -65,20 +65,20 @@
     ],
     "freqs": [
         {
-            "id": "57252",
-            "airport_ref": "4020",
-            "airport_ident": "LEMG",
-            "type": "A/D",
-            "description": "APP",
-            "frequency_mhz": "123.85"
-        },
-        {
             "id": "331940",
             "airport_ref": "4020",
             "airport_ident": "LEMG",
-            "type": "APP/DEP",
-            "description": "Malaga",
+            "type": "APP",
+            "description": "APP Dep",
             "frequency_mhz": "118.455"
+        },
+        {
+            "id": "57252",
+            "airport_ref": "4020",
+            "airport_ident": "LEMG",
+            "type": "APP",
+            "description": "APP Arr",
+            "frequency_mhz": "123.85"
         },
         {
             "id": "57253",
