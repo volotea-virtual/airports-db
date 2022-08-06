@@ -2,7 +2,7 @@
     "id": "12086",
     "ident": "56IS",
     "type": "small_airport",
-    "name": "Schmidt Airport",
+    "name": "Liannimal's Landing",
     "latitude_deg": "40.243215",
     "longitude_deg": "-88.083991",
     "elevation_ft": "690",
@@ -16,7 +16,7 @@
     "local_code": "56IS",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "CU Skydiving",
+    "keywords": "Rash, Schmidt, CU Skydiving",
     "runways": [
         {
             "id": "255220",

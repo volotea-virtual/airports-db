@@ -1,0 +1,38 @@
+{
+    "id": "356002",
+    "ident": "MH-0002",
+    "type": "closed",
+    "name": "Majuro Airfield",
+    "latitude_deg": "7.090278",
+    "longitude_deg": "171.381389",
+    "elevation_ft": "26",
+    "continent": "OC",
+    "iso_country": "MH",
+    "iso_region": "MH-MAJ",
+    "municipality": "Majuro",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Majuro_Airfield",
+    "keywords": "",
+    "country": {
+        "id": "302770",
+        "code": "MH",
+        "name": "Marshall Islands",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Marshall_Islands",
+        "keywords": "Airports in Marshall Islands"
+    },
+    "region": {
+        "id": "304642",
+        "code": "MH-MAJ",
+        "local_code": "MAJ",
+        "name": "Majuro",
+        "continent": "OC",
+        "iso_country": "MH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Majuro",
+        "keywords": "Airports in Majuro"
+    }
+}

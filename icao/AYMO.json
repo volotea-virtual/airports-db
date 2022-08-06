@@ -1,7 +1,7 @@
 {
     "id": "65",
     "ident": "AYMO",
-    "type": "large_airport",
+    "type": "medium_airport",
     "name": "Momote Airport",
     "latitude_deg": "-2.06189",
     "longitude_deg": "147.423996",
