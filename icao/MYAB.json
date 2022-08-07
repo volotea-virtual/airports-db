@@ -3,8 +3,8 @@
     "ident": "MYAB",
     "type": "medium_airport",
     "name": "Clarence A. Bain Airport",
-    "latitude_deg": "24.287700653076172",
-    "longitude_deg": "-77.68460083007812",
+    "latitude_deg": "24.287701",
+    "longitude_deg": "-77.684601",
     "elevation_ft": "19",
     "continent": "NA",
     "iso_country": "BS",
@@ -15,7 +15,7 @@
     "iata_code": "MAY",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Clarence_A._Bain_Airport",
     "keywords": "",
     "runways": [
         {

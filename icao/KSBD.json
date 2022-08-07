@@ -10,7 +10,7 @@
     "iso_country": "US",
     "iso_region": "US-CA",
     "municipality": "San Bernardino",
-    "scheduled_service": "no",
+    "scheduled_service": "yes",
     "gps_code": "KSBD",
     "iata_code": "SBD",
     "local_code": "SBD",
