@@ -3,8 +3,8 @@
     "ident": "IBN",
     "type": "small_airport",
     "name": "Devils Mountain Lodge Airport",
-    "latitude_deg": "62.4017982483",
-    "longitude_deg": "-142.994995117",
+    "latitude_deg": "62.399731",
+    "longitude_deg": "-142.995365",
     "elevation_ft": "2880",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "IBN",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Devils_Mountain_Lodge_Airport",
-    "keywords": "",
+    "keywords": "5MK",
     "runways": [
         {
             "id": "255408",

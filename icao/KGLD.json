@@ -2,9 +2,9 @@
     "id": "19956",
     "ident": "KGLD",
     "type": "medium_airport",
-    "name": "Renner Field-Goodland Municipal Airport",
-    "latitude_deg": "39.37060165",
-    "longitude_deg": "-101.6989975",
+    "name": "Goodland Municipal Airport",
+    "latitude_deg": "39.370701",
+    "longitude_deg": "-101.699753",
     "elevation_ft": "3656",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "GLD",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Goodland_Municipal_Airport",
-    "keywords": "",
+    "keywords": "Renner Field",
     "runways": [
         {
             "id": "245000",

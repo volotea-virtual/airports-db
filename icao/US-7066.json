@@ -1,0 +1,38 @@
+{
+    "id": "356055",
+    "ident": "US-7066",
+    "type": "medium_airport",
+    "name": "Love spells that work Using Powerful Love Spells-call+27685029687",
+    "latitude_deg": "-0.000117",
+    "longitude_deg": "-0.000269",
+    "elevation_ft": "",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-KY",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "https://www.onlinelovespells4you.com/",
+    "wikipedia_link": "",
+    "keywords": "love spells, lost love spells, bring back lost lover",
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306093",
+        "code": "US-KY",
+        "local_code": "KY",
+        "name": "Kentucky",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kentucky",
+        "keywords": "Airports in Kentucky"
+    }
+}

@@ -3,8 +3,8 @@
     "ident": "PAFL",
     "type": "small_airport",
     "name": "Tin Creek Airport",
-    "latitude_deg": "62.53160095214844",
-    "longitude_deg": "-153.61099243164062",
+    "latitude_deg": "62.532191",
+    "longitude_deg": "-153.612809",
     "elevation_ft": "1151",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "TNW",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "2Z9",
     "runways": [
         {
             "id": "257185",

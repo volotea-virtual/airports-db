@@ -3,8 +3,8 @@
     "ident": "PAFK",
     "type": "seaplane_base",
     "name": "Farewell Lake Seaplane Base",
-    "latitude_deg": "62.54249954223633",
-    "longitude_deg": "-153.6230010986328",
+    "latitude_deg": "62.5425",
+    "longitude_deg": "-153.623001",
     "elevation_ft": "1052",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "FKK",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "3Z0",
     "runways": [
         {
             "id": "253412",

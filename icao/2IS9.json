@@ -2,7 +2,7 @@
     "id": "9475",
     "ident": "2IS9",
     "type": "small_airport",
-    "name": "Schertz Aerial Service - Cooksville Airport",
+    "name": "Pontiac Flying/Cooksville Airport",
     "latitude_deg": "40.578098",
     "longitude_deg": "-88.707802",
     "elevation_ft": "741",
@@ -16,7 +16,7 @@
     "local_code": "2IS9",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Schertz Aerial Service",
     "runways": [
         {
             "id": "255680",

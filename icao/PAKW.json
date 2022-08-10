@@ -3,8 +3,8 @@
     "ident": "PAKW",
     "type": "medium_airport",
     "name": "Klawock Airport",
-    "latitude_deg": "55.579200744599994",
-    "longitude_deg": "-133.076004028",
+    "latitude_deg": "55.579201",
+    "longitude_deg": "-133.076004",
     "elevation_ft": "80",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "AKW",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Klawock_Airport",
-    "keywords": "",
+    "keywords": "9Z1",
     "runways": [
         {
             "id": "240232",

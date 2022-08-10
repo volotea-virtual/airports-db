@@ -3,8 +3,8 @@
     "ident": "PAJC",
     "type": "small_airport",
     "name": "Chignik Airport",
-    "latitude_deg": "56.311500549316406",
-    "longitude_deg": "-158.3730010986328",
+    "latitude_deg": "56.311501",
+    "longitude_deg": "-158.373001",
     "elevation_ft": "18",
     "continent": "NA",
     "iso_country": "US",
@@ -15,8 +15,8 @@
     "iata_code": "",
     "local_code": "AJC",
     "home_link": "",
-    "wikipedia_link": "",
-    "keywords": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Chignik_Airport",
+    "keywords": "Z79",
     "runways": [
         {
             "id": "257090",
