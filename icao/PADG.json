@@ -3,8 +3,8 @@
     "ident": "PADG",
     "type": "small_airport",
     "name": "Red Dog Airport",
-    "latitude_deg": "68.03209686279999",
-    "longitude_deg": "-162.899002075",
+    "latitude_deg": "68.032097",
+    "longitude_deg": "-162.899002",
     "elevation_ft": "969",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "DGG",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Red_Dog_Airport",
-    "keywords": "PARD, AED",
+    "keywords": "PARD, AED, 39AK",
     "runways": [
         {
             "id": "254378",

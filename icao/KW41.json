@@ -2,9 +2,9 @@
     "id": "21355",
     "ident": "KW41",
     "type": "small_airport",
-    "name": "Crisfield Municipal Airport",
-    "latitude_deg": "38.017601013183594",
-    "longitude_deg": "-75.82779693603516",
+    "name": "Crisfield-Somerset County Airport",
+    "latitude_deg": "38.018277",
+    "longitude_deg": "-75.825834",
     "elevation_ft": "4",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "W41",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Crisfield Municipal",
     "runways": [
         {
             "id": "240134",

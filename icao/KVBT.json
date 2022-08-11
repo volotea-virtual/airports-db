@@ -3,8 +3,8 @@
     "ident": "KVBT",
     "type": "small_airport",
     "name": "Bentonville Municipal-Louise M Thaden Field",
-    "latitude_deg": "36.34569931",
-    "longitude_deg": "-94.21929932",
+    "latitude_deg": "36.345699",
+    "longitude_deg": "-94.219299",
     "elevation_ft": "1296",
     "continent": "NA",
     "iso_country": "US",
@@ -14,9 +14,9 @@
     "gps_code": "KVBT",
     "iata_code": "",
     "local_code": "VBT",
-    "home_link": "",
-    "wikipedia_link": "",
-    "keywords": "",
+    "home_link": "https://www.bentonvillear.com/385/Airport",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bentonville_Municipal_Airport",
+    "keywords": "H00",
     "runways": [
         {
             "id": "243520",

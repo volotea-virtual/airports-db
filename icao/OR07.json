@@ -3,8 +3,8 @@
     "ident": "OR07",
     "type": "small_airport",
     "name": "Miranda's Skyranch Airport",
-    "latitude_deg": "44.76240158",
-    "longitude_deg": "-119.1019974",
+    "latitude_deg": "44.762402",
+    "longitude_deg": "-119.101997",
     "elevation_ft": "3823",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "OR07",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Volny Long Creek",
     "runways": [
         {
             "id": "242046",

@@ -3,8 +3,8 @@
     "ident": "PAWI",
     "type": "medium_airport",
     "name": "Wainwright Airport",
-    "latitude_deg": "70.6380004883",
-    "longitude_deg": "-159.994995117",
+    "latitude_deg": "70.638",
+    "longitude_deg": "-159.994995",
     "elevation_ft": "41",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "AWI",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Wainwright_Airport_(Alaska)",
-    "keywords": "",
+    "keywords": "5WW",
     "runways": [
         {
             "id": "240855",

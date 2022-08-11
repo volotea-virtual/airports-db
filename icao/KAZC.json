@@ -3,8 +3,8 @@
     "ident": "KAZC",
     "type": "small_airport",
     "name": "Colorado City Municipal Airport",
-    "latitude_deg": "36.95989990234375",
-    "longitude_deg": "-113.01399993896484",
+    "latitude_deg": "36.95919",
+    "longitude_deg": "-113.013166",
     "elevation_ft": "4874",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "AZC",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Colorado_City_Municipal_Airport",
-    "keywords": "",
+    "keywords": "L36",
     "runways": [
         {
             "id": "253996",

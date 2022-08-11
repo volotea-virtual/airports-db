@@ -3,8 +3,8 @@
     "ident": "KLHM",
     "type": "small_airport",
     "name": "Lincoln Regional Karl Harder Field",
-    "latitude_deg": "38.90919876098633",
-    "longitude_deg": "-121.35099792480469",
+    "latitude_deg": "38.909199",
+    "longitude_deg": "-121.350998",
     "elevation_ft": "121",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "LHM",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Lincoln_Regional_Airport_(California)",
-    "keywords": "",
+    "keywords": "O51",
     "runways": [
         {
             "id": "245918",

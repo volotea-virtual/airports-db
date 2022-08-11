@@ -3,8 +3,8 @@
     "ident": "5CA4",
     "type": "small_airport",
     "name": "Ludlow Airport",
-    "latitude_deg": "34.753299713134766",
-    "longitude_deg": "-116.15399932861328",
+    "latitude_deg": "34.728705",
+    "longitude_deg": "-116.158705",
     "elevation_ft": "1700",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "5CA4",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "1C0",
     "runways": [
         {
             "id": "246898",

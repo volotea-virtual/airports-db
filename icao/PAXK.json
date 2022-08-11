@@ -3,8 +3,8 @@
     "ident": "PAXK",
     "type": "small_airport",
     "name": "Paxson Airport",
-    "latitude_deg": "63.0246009827",
-    "longitude_deg": "-145.50100708",
+    "latitude_deg": "63.026422",
+    "longitude_deg": "-145.498778",
     "elevation_ft": "2653",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "PXK",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Paxson_Airport",
-    "keywords": "",
+    "keywords": "5PX",
     "runways": [
         {
             "id": "253649",

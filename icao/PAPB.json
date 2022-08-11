@@ -3,8 +3,8 @@
     "ident": "PAPB",
     "type": "medium_airport",
     "name": "St George Airport",
-    "latitude_deg": "56.5783",
-    "longitude_deg": "-169.662003",
+    "latitude_deg": "56.577345",
+    "longitude_deg": "-169.663823",
     "elevation_ft": "125",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "PBV",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/St._George_Airport_(Alaska)",
-    "keywords": "",
+    "keywords": "A8L",
     "runways": [
         {
             "id": "239715",

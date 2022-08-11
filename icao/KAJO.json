@@ -3,8 +3,8 @@
     "ident": "KAJO",
     "type": "small_airport",
     "name": "Corona Municipal Airport",
-    "latitude_deg": "33.897701263427734",
-    "longitude_deg": "-117.60199737548828",
+    "latitude_deg": "33.897701",
+    "longitude_deg": "-117.601997",
     "elevation_ft": "533",
     "continent": "NA",
     "iso_country": "US",
@@ -14,9 +14,9 @@
     "gps_code": "KAJO",
     "iata_code": "",
     "local_code": "AJO",
-    "home_link": "",
+    "home_link": "https://www.coronaca.gov/government/departments-divisions/maintenance-services/corona-airport",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Corona_Municipal_Airport",
-    "keywords": "",
+    "keywords": "L66",
     "runways": [
         {
             "id": "242693",

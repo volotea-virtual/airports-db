@@ -3,8 +3,8 @@
     "ident": "KWAL",
     "type": "small_airport",
     "name": "Wallops Flight Facility Airport",
-    "latitude_deg": "37.9402008057",
-    "longitude_deg": "-75.4664001465",
+    "latitude_deg": "37.940813",
+    "longitude_deg": "-75.462255",
     "elevation_ft": "40",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "WAL",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Wallops_Flight_Facility",
-    "keywords": "",
+    "keywords": "Naval Auxiliary Air Station Chincoteague",
     "runways": [
         {
             "id": "245014",

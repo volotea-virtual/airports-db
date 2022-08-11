@@ -3,8 +3,8 @@
     "ident": "KLLQ",
     "type": "medium_airport",
     "name": "Monticello Municipal Ellis Field",
-    "latitude_deg": "33.6385994",
-    "longitude_deg": "-91.75099945",
+    "latitude_deg": "33.638599",
+    "longitude_deg": "-91.750999",
     "elevation_ft": "270",
     "continent": "NA",
     "iso_country": "US",
@@ -15,8 +15,8 @@
     "iata_code": "",
     "local_code": "LLQ",
     "home_link": "",
-    "wikipedia_link": "",
-    "keywords": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Monticello_Municipal_Airport_(Arkansas)",
+    "keywords": "M76",
     "runways": [
         {
             "id": "241733",
