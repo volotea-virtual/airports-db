@@ -1,0 +1,38 @@
+{
+    "id": "356089",
+    "ident": "MG-0018",
+    "type": "small_airport",
+    "name": "Lodge des Terre Blanches Airport",
+    "latitude_deg": "-15.14858",
+    "longitude_deg": "47.07741",
+    "elevation_ft": "87",
+    "continent": "AF",
+    "iso_country": "MG",
+    "iso_region": "MG-M",
+    "municipality": "Ambovolavo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302585",
+        "code": "MG",
+        "name": "Madagascar",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Madagascar",
+        "keywords": "Airports in Madagascar"
+    },
+    "region": {
+        "id": "304626",
+        "code": "MG-M",
+        "local_code": "M",
+        "name": "Mahajanga",
+        "continent": "AF",
+        "iso_country": "MG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mahajanga",
+        "keywords": "Airports in Mahajanga"
+    }
+}

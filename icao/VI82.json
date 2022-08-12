@@ -2,21 +2,21 @@
     "id": "3335",
     "ident": "VI82",
     "type": "small_airport",
-    "name": "Bharkot Airport",
-    "latitude_deg": "30.58289909362793",
-    "longitude_deg": "78.32340240478516",
+    "name": "Maa Ganga Airport Uttarkashi",
+    "latitude_deg": "30.582583",
+    "longitude_deg": "78.323164",
     "elevation_ft": "2983",
     "continent": "AS",
     "iso_country": "IN",
-    "iso_region": "IN-UP",
-    "municipality": "",
+    "iso_region": "IN-UL",
+    "municipality": "Chinyalisour",
     "scheduled_service": "no",
     "gps_code": "VI82",
     "iata_code": "",
     "local_code": "VI82",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Bharkot",
     "runways": [
         {
             "id": "236821",
@@ -50,13 +50,13 @@
         "keywords": ""
     },
     "region": {
-        "id": "304197",
-        "code": "IN-UP",
-        "local_code": "UP",
-        "name": "Uttar Pradesh",
+        "id": "304196",
+        "code": "IN-UL",
+        "local_code": "UL",
+        "name": "Uttaranchal",
         "continent": "AS",
         "iso_country": "IN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Uttar_Pradesh",
-        "keywords": "Airports in Uttar Pradesh"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Uttaranchal",
+        "keywords": "Airports in Uttaranchal"
     }
 }

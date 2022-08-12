@@ -1,10 +1,10 @@
 {
     "id": "35454",
     "ident": "SDCI",
-    "type": "heliport",
+    "type": "closed",
     "name": "Cabiúnas Heliport",
-    "latitude_deg": "-22.281668",
-    "longitude_deg": "-41.717499",
+    "latitude_deg": "-22.284475",
+    "longitude_deg": "-41.71748",
     "elevation_ft": "66",
     "continent": "SA",
     "iso_country": "BR",

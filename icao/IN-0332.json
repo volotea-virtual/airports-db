@@ -1,0 +1,38 @@
+{
+    "id": "356118",
+    "ident": "IN-0332",
+    "type": "heliport",
+    "name": "Nako Heliport",
+    "latitude_deg": "31.8861",
+    "longitude_deg": "78.62787",
+    "elevation_ft": "11826",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-HP",
+    "municipality": "Nako",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302634",
+        "code": "IN",
+        "name": "India",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304175",
+        "code": "IN-HP",
+        "local_code": "HP",
+        "name": "Himachal Pradesh",
+        "continent": "AS",
+        "iso_country": "IN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Himachal_Pradesh",
+        "keywords": "Airports in Himachal Pradesh"
+    }
+}

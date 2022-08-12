@@ -1,0 +1,38 @@
+{
+    "id": "356119",
+    "ident": "CN-0375",
+    "type": "heliport",
+    "name": "Demchok East Heliport",
+    "latitude_deg": "32.69531",
+    "longitude_deg": "79.45816",
+    "elevation_ft": "13970",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-54",
+    "municipality": "Zhaxigang",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302627",
+        "code": "CN",
+        "name": "China",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/China",
+        "keywords": "中国的机场"
+    },
+    "region": {
+        "id": "303447",
+        "code": "CN-54",
+        "local_code": "54",
+        "name": "Tibet Autonomous Region",
+        "continent": "AS",
+        "iso_country": "CN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tibet",
+        "keywords": "Xizang"
+    }
+}
