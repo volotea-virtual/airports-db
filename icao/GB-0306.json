@@ -1,10 +1,10 @@
 {
     "id": "318145",
     "ident": "GB-0306",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Lymm Dam Airstrip",
-    "latitude_deg": "53.3688383",
-    "longitude_deg": "-2.4764095",
+    "latitude_deg": "53.368838",
+    "longitude_deg": "-2.47641",
     "elevation_ft": "",
     "continent": "EU",
     "iso_country": "GB",

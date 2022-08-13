@@ -2,9 +2,9 @@
     "id": "21227",
     "ident": "KTTA",
     "type": "small_airport",
-    "name": "Sanford-Lee County Regional Airport",
-    "latitude_deg": "35.58369827",
-    "longitude_deg": "-79.10079956",
+    "name": "Raleigh Executive Jetport",
+    "latitude_deg": "35.583698",
+    "longitude_deg": "-79.1008",
     "elevation_ft": "246",
     "continent": "NA",
     "iso_country": "US",
@@ -15,8 +15,8 @@
     "iata_code": "",
     "local_code": "TTA",
     "home_link": "",
-    "wikipedia_link": "https://en.wikipedia.org/wiki/Sanford-Lee_County_Regional_Airport",
-    "keywords": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Raleigh_Executive_Jetport",
+    "keywords": "Raleigh Exec: The Raleigh Executive Jetport, Raleigh Exec Jetport at Sanford-Lee County, Sanford-Lee County Regional Airport",
     "runways": [
         {
             "id": "240296",
