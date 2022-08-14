@@ -3,8 +3,8 @@
     "ident": "9GA3",
     "type": "small_airport",
     "name": "Young Field",
-    "latitude_deg": "31.8396",
-    "longitude_deg": "-84.481598",
+    "latitude_deg": "31.839759",
+    "longitude_deg": "-84.481602",
     "elevation_ft": "401",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "9GA3",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Hayes",
     "runways": [
         {
             "id": "257301",
