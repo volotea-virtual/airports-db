@@ -1,0 +1,38 @@
+{
+    "id": "356223",
+    "ident": "SD-0016",
+    "type": "small_airport",
+    "name": "Abri Airport",
+    "latitude_deg": "20.77819",
+    "longitude_deg": "30.3489",
+    "elevation_ft": "692",
+    "continent": "AF",
+    "iso_country": "SD",
+    "iso_region": "SD-01",
+    "municipality": "Abri",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302597",
+        "code": "SD",
+        "name": "Sudan",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sudan",
+        "keywords": "مطارات السودان"
+    },
+    "region": {
+        "id": "305384",
+        "code": "SD-01",
+        "local_code": "01",
+        "name": "Northern State",
+        "continent": "AF",
+        "iso_country": "SD",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_State",
+        "keywords": "Airports in Northern State"
+    }
+}

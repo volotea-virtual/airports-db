@@ -110,7 +110,7 @@
             "airport_ident": "EGKK",
             "type": "TWR",
             "description": "TWR",
-            "frequency_mhz": "124.3"
+            "frequency_mhz": "124.23"
         }
     ],
     "country": {

@@ -1,0 +1,38 @@
+{
+    "id": "356226",
+    "ident": "SO-0018",
+    "type": "small_airport",
+    "name": "Bu'aale Airfield",
+    "latitude_deg": "1.26821",
+    "longitude_deg": "42.58794",
+    "elevation_ft": "200",
+    "continent": "AF",
+    "iso_country": "SO",
+    "iso_region": "SO-JH",
+    "municipality": "Bu'aale",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Dujuma",
+    "country": {
+        "id": "302601",
+        "code": "SO",
+        "name": "Somalia",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Somalia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "305627",
+        "code": "SO-JH",
+        "local_code": "JH",
+        "name": "Jubbada Hoose",
+        "continent": "AF",
+        "iso_country": "SO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Jubbada_Hoose",
+        "keywords": "Airports in Jubbada Hoose"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "356227",
+    "ident": "SO-0019",
+    "type": "small_airport",
+    "name": "Doolow Airport",
+    "latitude_deg": "4.1493",
+    "longitude_deg": "42.08119",
+    "elevation_ft": "625",
+    "continent": "AF",
+    "iso_country": "SO",
+    "iso_region": "SO-GE",
+    "municipality": "Doolow",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302601",
+        "code": "SO",
+        "name": "Somalia",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Somalia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "305624",
+        "code": "SO-GE",
+        "local_code": "GE",
+        "name": "Gedo",
+        "continent": "AF",
+        "iso_country": "SO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Gedo",
+        "keywords": "Airports in Gedo"
+    }
+}
