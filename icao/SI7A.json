@@ -2,14 +2,14 @@
     "id": "355975",
     "ident": "SI7A",
     "type": "small_airport",
-    "name": "Fazendo San Francisco Airport",
+    "name": "Alvorada do Gurguéia Airport",
     "latitude_deg": "-8.441991",
     "longitude_deg": "-43.858564",
     "elevation_ft": "919",
     "continent": "SA",
     "iso_country": "BR",
-    "iso_region": "BR-MT",
-    "municipality": "Canarana",
+    "iso_region": "BR-PI",
+    "municipality": "Alvorada do Gurguéia",
     "scheduled_service": "no",
     "gps_code": "SI7A",
     "iata_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Brasil, Brasilian"
     },
     "region": {
-        "id": "303211",
-        "code": "BR-MT",
-        "local_code": "MT",
-        "name": "Mato Grosso",
+        "id": "303215",
+        "code": "BR-PI",
+        "local_code": "PI",
+        "name": "Piauí",
         "continent": "SA",
         "iso_country": "BR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mato_Grosso",
-        "keywords": "Airports in Mato Grosso"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Piauí",
+        "keywords": "Airports in Piauí"
     }
 }
