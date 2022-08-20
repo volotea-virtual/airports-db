@@ -1,0 +1,38 @@
+{
+    "id": "356255",
+    "ident": "ZA-0303",
+    "type": "small_airport",
+    "name": "Fort D'Acre Reserve Airport",
+    "latitude_deg": "-33.49369",
+    "longitude_deg": "27.11207",
+    "elevation_ft": "151",
+    "continent": "AF",
+    "iso_country": "ZA",
+    "iso_region": "ZA-EC",
+    "municipality": "Port Alfred",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302610",
+        "code": "ZA",
+        "name": "South Africa",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Africa",
+        "keywords": "South African airports"
+    },
+    "region": {
+        "id": "306295",
+        "code": "ZA-EC",
+        "local_code": "EC",
+        "name": "Eastern Cape",
+        "continent": "AF",
+        "iso_country": "ZA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Eastern_Cape",
+        "keywords": "Airports in Eastern Cape"
+    }
+}

@@ -9,14 +9,14 @@
     "continent": "AF",
     "iso_country": "ZA",
     "iso_region": "ZA-EC",
-    "municipality": "Port Elizabeth",
+    "municipality": "Gqeberha (Port Elizabeth)",
     "scheduled_service": "yes",
     "gps_code": "FAPE",
     "iata_code": "PLZ",
     "local_code": "",
     "home_link": "http://www.acsa.co.za/home.asp?pid=236",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Chief_Dawid_Stuurman_International_Airport",
-    "keywords": "Verwoerd International Airport",
+    "keywords": "H F Verwoerd Airport, Port Elizabeth International Airport",
     "runways": [
         {
             "id": "238821",
