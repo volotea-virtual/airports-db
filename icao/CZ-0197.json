@@ -1,0 +1,38 @@
+{
+    "id": "356262",
+    "ident": "CZ-0197",
+    "type": "small_airport",
+    "name": "Podbořany Airstrip",
+    "latitude_deg": "50.25067",
+    "longitude_deg": "13.40972",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "CZ",
+    "iso_region": "CZ-US",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302680",
+        "code": "CZ",
+        "name": "Czech Republic",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Czech_Republic",
+        "keywords": "Letiště České republiky, Czechia"
+    },
+    "region": {
+        "id": "303544",
+        "code": "CZ-US",
+        "local_code": "US",
+        "name": "Ústí nad Labem Region",
+        "continent": "EU",
+        "iso_country": "CZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ústí_nad_Labem_Region",
+        "keywords": "Ústecký kraj, North Bohemia"
+    }
+}

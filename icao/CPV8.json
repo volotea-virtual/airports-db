@@ -3,8 +3,8 @@
     "ident": "CPV8",
     "type": "small_airport",
     "name": "Keewaywin Airport",
-    "latitude_deg": "52.991100311299995",
-    "longitude_deg": "-92.8364028931",
+    "latitude_deg": "52.9911",
+    "longitude_deg": "-92.836403",
     "elevation_ft": "988",
     "continent": "NA",
     "iso_country": "CA",
@@ -16,7 +16,7 @@
     "local_code": "CPV8",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Keewaywin_Airport",
-    "keywords": "PV8",
+    "keywords": "",
     "runways": [
         {
             "id": "256740",
