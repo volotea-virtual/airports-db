@@ -11,12 +11,12 @@
     "iso_region": "BR-SP",
     "municipality": "Barretos",
     "scheduled_service": "no",
-    "gps_code": "SDFB",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SDFB",
     "runways": [
         {
             "id": "260851",
