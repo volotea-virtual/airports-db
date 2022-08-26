@@ -2,7 +2,7 @@
     "id": "308633",
     "ident": "PH-0001",
     "type": "medium_airport",
-    "name": "Laguindingan Airport",
+    "name": "Laguindingan International Airport",
     "latitude_deg": "8.612203",
     "longitude_deg": "124.456496",
     "elevation_ft": "190",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "http://laguindinganinternationalairport.com/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Laguindingan_International_Airport",
-    "keywords": "CGY,Laguindingan,IGN,RPML",
+    "keywords": "CGY, IGN, RPML, Cagayan de Oro",
     "runways": [
         {
             "id": "308634",

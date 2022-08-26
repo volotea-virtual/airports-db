@@ -2,7 +2,7 @@
     "id": "5704",
     "ident": "RPML",
     "type": "small_airport",
-    "name": "Cagayan De Oro Airport",
+    "name": "Lumbia Airfield",
     "latitude_deg": "8.41562",
     "longitude_deg": "124.611",
     "elevation_ft": "601",
@@ -15,8 +15,8 @@
     "iata_code": "",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "https://en.wikipedia.org/wiki/Lumbia_Airport",
-    "keywords": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lumbia_Airfield",
+    "keywords": "CGY, Cagayan de Oro Airport, Lumbia Airport",
     "runways": [
         {
             "id": "238417",
