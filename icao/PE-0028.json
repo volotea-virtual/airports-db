@@ -1,17 +1,17 @@
 {
-    "id": "39595",
-    "ident": "SPHA",
+    "id": "356334",
+    "ident": "PE-0028",
     "type": "closed",
-    "name": "Chincha Airport",
-    "latitude_deg": "-13.37036",
-    "longitude_deg": "-76.11276",
-    "elevation_ft": "640",
+    "name": "Chilca Airport",
+    "latitude_deg": "-12.50469",
+    "longitude_deg": "-76.74428",
+    "elevation_ft": "",
     "continent": "SA",
     "iso_country": "PE",
-    "iso_region": "PE-ICA",
-    "municipality": "Chincha",
+    "iso_region": "PE-LIM",
+    "municipality": "Chilca",
     "scheduled_service": "no",
-    "gps_code": "SPHA",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
@@ -26,13 +26,13 @@
         "keywords": "Aeropuertos de Perú"
     },
     "region": {
-        "id": "305017",
-        "code": "PE-ICA",
-        "local_code": "ICA",
-        "name": "Ica Region",
+        "id": "305021",
+        "code": "PE-LIM",
+        "local_code": "LIM",
+        "name": "Lima Region",
         "continent": "SA",
         "iso_country": "PE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ica_Region",
-        "keywords": "Airports in Ica Region"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lima_Region",
+        "keywords": "Airports in Lima Region"
     }
 }

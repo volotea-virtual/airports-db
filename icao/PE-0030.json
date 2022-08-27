@@ -1,17 +1,17 @@
 {
-    "id": "32356",
-    "ident": "SPIY",
+    "id": "356336",
+    "ident": "PE-0030",
     "type": "small_airport",
-    "name": "Yauri Airport",
-    "latitude_deg": "-14.796129",
-    "longitude_deg": "-71.431818",
-    "elevation_ft": "12972",
+    "name": "Aeroclub Alas del Mar",
+    "latitude_deg": "-12.40001",
+    "longitude_deg": "-76.76806",
+    "elevation_ft": "",
     "continent": "SA",
     "iso_country": "PE",
-    "iso_region": "PE-CUS",
-    "municipality": "Yauri",
+    "iso_region": "PE-LIM",
+    "municipality": "Santa María del Mar",
     "scheduled_service": "no",
-    "gps_code": "SPIY",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
@@ -26,13 +26,13 @@
         "keywords": "Aeropuertos de Perú"
     },
     "region": {
-        "id": "305014",
-        "code": "PE-CUS",
-        "local_code": "CUS",
-        "name": "Cuzco Region",
+        "id": "305021",
+        "code": "PE-LIM",
+        "local_code": "LIM",
+        "name": "Lima Region",
         "continent": "SA",
         "iso_country": "PE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Cuzco_Region",
-        "keywords": "Airports in Cuzco Region"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lima_Region",
+        "keywords": "Airports in Lima Region"
     }
 }

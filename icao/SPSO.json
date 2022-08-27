@@ -2,7 +2,7 @@
     "id": "6236",
     "ident": "SPSO",
     "type": "medium_airport",
-    "name": "Capitán FAP Renán Elías Olivera International Airport",
+    "name": "Captain Renán Elías Olivera International Airport",
     "latitude_deg": "-13.7449",
     "longitude_deg": "-76.220299",
     "elevation_ft": "39",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Capit%C3%A1n_FAP_Ren%C3%A1n_El%C3%ADas_Olivera_Airport",
-    "keywords": "",
+    "keywords": "Capitán FAP Renán Elías Olivera",
     "runways": [
         {
             "id": "238133",

@@ -1,17 +1,17 @@
 {
-    "id": "32356",
-    "ident": "SPIY",
+    "id": "356332",
+    "ident": "SPLX",
     "type": "small_airport",
-    "name": "Yauri Airport",
-    "latitude_deg": "-14.796129",
-    "longitude_deg": "-71.431818",
-    "elevation_ft": "12972",
+    "name": "Lib Mandi Metropolitan Airport",
+    "latitude_deg": "-12.38875",
+    "longitude_deg": "-76.75834",
+    "elevation_ft": "200",
     "continent": "SA",
     "iso_country": "PE",
-    "iso_region": "PE-CUS",
-    "municipality": "Yauri",
+    "iso_region": "PE-LIM",
+    "municipality": "San Bartolo",
     "scheduled_service": "no",
-    "gps_code": "SPIY",
+    "gps_code": "SPLX",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
@@ -26,13 +26,13 @@
         "keywords": "Aeropuertos de Perú"
     },
     "region": {
-        "id": "305014",
-        "code": "PE-CUS",
-        "local_code": "CUS",
-        "name": "Cuzco Region",
+        "id": "305021",
+        "code": "PE-LIM",
+        "local_code": "LIM",
+        "name": "Lima Region",
         "continent": "SA",
         "iso_country": "PE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Cuzco_Region",
-        "keywords": "Airports in Cuzco Region"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lima_Region",
+        "keywords": "Airports in Lima Region"
     }
 }
