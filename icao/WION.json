@@ -2,7 +2,7 @@
     "id": "26846",
     "ident": "WION",
     "type": "medium_airport",
-    "name": "Ranai Airport",
+    "name": "Ranai-Natuna Airport",
     "latitude_deg": "3.90871",
     "longitude_deg": "108.388",
     "elevation_ft": "7",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Ranai_Airport",
-    "keywords": "Natuna Airport",
+    "keywords": "Natuna, Natuna-Ranai, Raden Sadjad",
     "runways": [
         {
             "id": "236533",

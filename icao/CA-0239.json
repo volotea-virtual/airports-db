@@ -17,6 +17,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "356350",
+            "airport_ref": "39885",
+            "airport_ident": "CA-0239",
+            "length_ft": "5000",
+            "width_ft": "100",
+            "surface": "GVL",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "77",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "257",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",
