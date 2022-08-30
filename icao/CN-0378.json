@@ -1,0 +1,38 @@
+{
+    "id": "356373",
+    "ident": "CN-0378",
+    "type": "small_airport",
+    "name": "Panjin Chenjia General Airport",
+    "latitude_deg": "41.269306",
+    "longitude_deg": "122.141361",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-21",
+    "municipality": "Panjin",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302627",
+        "code": "CN",
+        "name": "China",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/China",
+        "keywords": "中国的机场"
+    },
+    "region": {
+        "id": "303427",
+        "code": "CN-21",
+        "local_code": "21",
+        "name": "Liaoning Province",
+        "continent": "AS",
+        "iso_country": "CN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Liaoning",
+        "keywords": "Airports in Liaoning Province"
+    }
+}

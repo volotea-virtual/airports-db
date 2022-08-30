@@ -1,0 +1,38 @@
+{
+    "id": "356378",
+    "ident": "DE-0497",
+    "type": "heliport",
+    "name": "Frankfurt Westside Heliport",
+    "latitude_deg": "50.089619",
+    "longitude_deg": "8.585571",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-HE",
+    "municipality": "Frankfurt",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303552",
+        "code": "DE-HE",
+        "local_code": "HE",
+        "name": "Hesse",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hesse",
+        "keywords": "Hessen"
+    }
+}

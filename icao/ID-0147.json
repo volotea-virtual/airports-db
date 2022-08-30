@@ -1,10 +1,10 @@
 {
     "id": "311221",
     "ident": "ID-0147",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Synopi Airstrip",
-    "latitude_deg": "-0.8403",
-    "longitude_deg": "132.926",
+    "latitude_deg": "-0.842054",
+    "longitude_deg": "132.926191",
     "elevation_ft": "1648",
     "continent": "AS",
     "iso_country": "ID",
