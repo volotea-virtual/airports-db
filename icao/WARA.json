@@ -3,8 +3,8 @@
     "ident": "WARA",
     "type": "small_airport",
     "name": "Abdul Rachman Saleh Airport",
-    "latitude_deg": "-7.92656",
-    "longitude_deg": "112.714996",
+    "latitude_deg": "-7.929099",
+    "longitude_deg": "112.714233",
     "elevation_ft": "1726",
     "continent": "AS",
     "iso_country": "ID",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Abdul_Rachman_Saleh_Airport",
-    "keywords": "WIAS",
+    "keywords": "WIAS, Malang, Singosari",
     "runways": [
         {
             "id": "236509",

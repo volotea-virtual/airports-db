@@ -2,9 +2,9 @@
     "id": "298559",
     "ident": "PT-0021",
     "type": "small_airport",
-    "name": "Campo de Vôo de Benavente",
-    "latitude_deg": "38.912808",
-    "longitude_deg": "-8.78696",
+    "name": "Benavente Airfield",
+    "latitude_deg": "38.914227",
+    "longitude_deg": "-8.786981",
     "elevation_ft": "130",
     "continent": "EU",
     "iso_country": "PT",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "http://www.cvb-aerolazer.com",
     "wikipedia_link": "",
-    "keywords": "VLS, Microlight",
+    "keywords": "Campo de Vôo de Benavente, VLS, Microlight",
     "runways": [
         {
             "id": "298561",

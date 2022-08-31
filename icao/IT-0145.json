@@ -1,8 +1,8 @@
 {
     "id": "316199",
     "ident": "IT-0145",
-    "type": "small_airport",
-    "name": "CdV \"Il Fantasma\" Arcole",
+    "type": "closed",
+    "name": "Il Fantasma Arcole Airfield",
     "latitude_deg": "45.36",
     "longitude_deg": "11.294444",
     "elevation_ft": "56",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Campo di Volo Il Fantasma Arcole",
     "country": {
         "id": "302697",
         "code": "IT",

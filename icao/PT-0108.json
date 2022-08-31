@@ -2,7 +2,7 @@
     "id": "326785",
     "ident": "PT-0108",
     "type": "small_airport",
-    "name": "Pista de Vendas Novas",
+    "name": "Vendas Novas Airstrip",
     "latitude_deg": "38.677419",
     "longitude_deg": "-8.496015",
     "elevation_ft": "",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Pista de Vendas Novas",
     "country": {
         "id": "302711",
         "code": "PT",

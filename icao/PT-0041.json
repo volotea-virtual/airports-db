@@ -2,9 +2,9 @@
     "id": "320315",
     "ident": "PT-0041",
     "type": "small_airport",
-    "name": "Aerodromo da Lezíria",
-    "latitude_deg": "38.902",
-    "longitude_deg": "-8.9367",
+    "name": "Leziria Aerodrome",
+    "latitude_deg": "38.902297",
+    "longitude_deg": "-8.93682",
     "elevation_ft": "",
     "continent": "EU",
     "iso_country": "PT",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Aerodromo da Lezíria",
     "runways": [
         {
             "id": "349986",

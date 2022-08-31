@@ -2,7 +2,7 @@
     "id": "326786",
     "ident": "PT-0109",
     "type": "small_airport",
-    "name": "Pista do Ciborro",
+    "name": "Ciborro Airstrip",
     "latitude_deg": "38.797735",
     "longitude_deg": "-8.20256",
     "elevation_ft": "",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Pista do Ciborro",
     "runways": [
         {
             "id": "353537",

@@ -1,8 +1,8 @@
 {
     "id": "326813",
     "ident": "PT-0124",
-    "type": "small_airport",
-    "name": "Pista de Entre-os-Rios",
+    "type": "closed",
+    "name": "Entre-os-Rios Airstrip",
     "latitude_deg": "41.075924",
     "longitude_deg": "-8.271482",
     "elevation_ft": "",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Pista de Entre-os-Rios",
     "country": {
         "id": "302711",
         "code": "PT",

@@ -1,0 +1,38 @@
+{
+    "id": "356395",
+    "ident": "CN-0381",
+    "type": "closed",
+    "name": "Weining Caohai Airport (under construction)",
+    "latitude_deg": "26.86444",
+    "longitude_deg": "104.34025",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-52",
+    "municipality": "Weining (Bijie)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302627",
+        "code": "CN",
+        "name": "China",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/China",
+        "keywords": "中国的机场"
+    },
+    "region": {
+        "id": "303445",
+        "code": "CN-52",
+        "local_code": "52",
+        "name": "Guizhou Province",
+        "continent": "AS",
+        "iso_country": "CN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Guizhou",
+        "keywords": "Airports in Guizhou Province"
+    }
+}

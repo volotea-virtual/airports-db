@@ -1,10 +1,10 @@
 {
     "id": "326679",
     "ident": "PT-0066",
-    "type": "small_airport",
-    "name": "Aerodromo de Alhos Vedros",
-    "latitude_deg": "38.664905",
-    "longitude_deg": "-9.027843",
+    "type": "closed",
+    "name": "Alhos Vedros Aerodrome",
+    "latitude_deg": "38.664821",
+    "longitude_deg": "-9.027929",
     "elevation_ft": "",
     "continent": "EU",
     "iso_country": "PT",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Aerodromo de Alhos Vedros",
     "country": {
         "id": "302711",
         "code": "PT",

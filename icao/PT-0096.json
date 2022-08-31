@@ -2,7 +2,7 @@
     "id": "326719",
     "ident": "PT-0096",
     "type": "small_airport",
-    "name": "Pista da Nossa Senhora de Machede",
+    "name": "Nossa Senhora de Machede Airstrip",
     "latitude_deg": "38.599527",
     "longitude_deg": "-7.820549",
     "elevation_ft": "",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Pista da Nossa Senhora de Machede",
     "country": {
         "id": "302711",
         "code": "PT",

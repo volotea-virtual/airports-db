@@ -2,7 +2,7 @@
     "id": "326842",
     "ident": "PT-0131",
     "type": "small_airport",
-    "name": "Aerodromo de Faias",
+    "name": "Faias Aerodrome",
     "latitude_deg": "38.687721",
     "longitude_deg": "-8.745375",
     "elevation_ft": "",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Aerodromo de Faias",
     "country": {
         "id": "302711",
         "code": "PT",

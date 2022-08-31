@@ -2,7 +2,7 @@
     "id": "326797",
     "ident": "PT-0120",
     "type": "closed",
-    "name": "Pista do Porto Alto",
+    "name": "Porto Alto Airstrip",
     "latitude_deg": "38.9521",
     "longitude_deg": "-8.866782",
     "elevation_ft": "",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Pista de Porto Alto",
     "country": {
         "id": "302711",
         "code": "PT",

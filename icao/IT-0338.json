@@ -2,7 +2,7 @@
     "id": "319663",
     "ident": "IT-0338",
     "type": "small_airport",
-    "name": "Campo di Volo \"Pista Vasa\"",
+    "name": "Pista Vasa Airfield",
     "latitude_deg": "41.046634",
     "longitude_deg": "8.997749",
     "elevation_ft": "600",
@@ -16,7 +16,7 @@
     "local_code": "SS16",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Pista Vasa",
+    "keywords": "Campo di Volo Pista Vasa",
     "runways": [
         {
             "id": "319664",
