@@ -1,7 +1,7 @@
 {
     "id": "5690",
     "ident": "RPLP",
-    "type": "medium_airport",
+    "type": "closed",
     "name": "Legazpi City International Airport",
     "latitude_deg": "13.1575",
     "longitude_deg": "123.735",
@@ -11,12 +11,12 @@
     "iso_region": "PH-ALB",
     "municipality": "Legazpi City",
     "scheduled_service": "yes",
-    "gps_code": "RPLP",
-    "iata_code": "LGP",
+    "gps_code": "",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Legazpi_Airport",
-    "keywords": "",
+    "keywords": "RPLP",
     "runways": [
         {
             "id": "238440",

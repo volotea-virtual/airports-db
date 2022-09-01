@@ -3,8 +3,8 @@
     "ident": "VA07",
     "type": "small_airport",
     "name": "Burkes Garden Airport",
-    "latitude_deg": "37.095699310302734",
-    "longitude_deg": "-81.36930084228516",
+    "latitude_deg": "37.096025",
+    "longitude_deg": "-81.369359",
     "elevation_ft": "3060",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "VA07",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "MBC Ranch",
     "runways": [
         {
             "id": "247855",
