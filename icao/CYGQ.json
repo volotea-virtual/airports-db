@@ -47,8 +47,8 @@
             "airport_ref": "1748",
             "airport_ident": "CYGQ",
             "type": "RCO",
-            "description": "LONDON RDO",
-            "frequency_mhz": "126.7"
+            "description": "LONDON RADIO",
+            "frequency_mhz": "123.475"
         },
         {
             "id": "50467",

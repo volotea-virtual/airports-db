@@ -1,0 +1,38 @@
+{
+    "id": "356434",
+    "ident": "ID-0243",
+    "type": "small_airport",
+    "name": "Lido Airstrip",
+    "latitude_deg": "-6.75333",
+    "longitude_deg": "106.81171",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-JB",
+    "municipality": "Cigombong",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302632",
+        "code": "ID",
+        "name": "Indonesia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
+        "keywords": "Bandara di Indonesia"
+    },
+    "region": {
+        "id": "304105",
+        "code": "ID-JB",
+        "local_code": "JB",
+        "name": "Jawa Barat",
+        "continent": "AS",
+        "iso_country": "ID",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Jawa_Barat",
+        "keywords": "Airports in Jawa Barat"
+    }
+}
