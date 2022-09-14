@@ -63,16 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "352755",
-            "airport_ref": "321475",
-            "airport_ident": "ES-0175",
-            "type": "RADIO",
-            "description": "",
-            "frequency_mhz": "135.125"
-        }
-    ],
     "country": {
         "id": "302684",
         "code": "ES",

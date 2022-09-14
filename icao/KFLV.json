@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "69369",
-            "airport_ref": "3533",
-            "airport_ident": "KFLV",
-            "type": "A/D",
-            "description": "KANSAS CITY APP/DEP",
-            "frequency_mhz": "124.7"
-        },
-        {
-            "id": "69370",
-            "airport_ref": "3533",
-            "airport_ident": "KFLV",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "126.2"
-        },
-        {
-            "id": "69371",
-            "airport_ref": "3533",
-            "airport_ident": "KFLV",
-            "type": "RDO",
-            "description": "WICHITA RDO",
-            "frequency_mhz": "122.35"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

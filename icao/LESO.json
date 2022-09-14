@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "57362",
-            "airport_ref": "4037",
-            "airport_ident": "LESO",
-            "type": "TWR",
-            "description": "SAN SEBASTIAN TOWER",
-            "frequency_mhz": "119.85"
-        }
-    ],
     "country": {
         "id": "302684",
         "code": "ES",

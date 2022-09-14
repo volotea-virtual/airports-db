@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": "330"
         }
     ],
-    "freqs": [
-        {
-            "id": "69129",
-            "airport_ref": "20075",
-            "airport_ident": "KHPY",
-            "type": "A/D",
-            "description": "HOUSTON APP/DEP",
-            "frequency_mhz": "134.45"
-        },
-        {
-            "id": "69130",
-            "airport_ref": "20075",
-            "airport_ident": "KHPY",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

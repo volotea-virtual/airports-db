@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "320647",
-            "airport_ref": "320072",
-            "airport_ident": "GB-0368",
-            "type": "Info",
-            "description": "Sandy Radio",
-            "frequency_mhz": "129.825"
-        }
-    ],
     "country": {
         "id": "302688",
         "code": "GB",

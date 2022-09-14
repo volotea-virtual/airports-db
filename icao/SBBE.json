@@ -85,48 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "49589",
-            "airport_ref": "5867",
-            "airport_ident": "SBBE",
-            "type": "APP",
-            "description": "BELEM APP",
-            "frequency_mhz": "119.05"
-        },
-        {
-            "id": "49590",
-            "airport_ref": "5867",
-            "airport_ident": "SBBE",
-            "type": "ATIS",
-            "description": "BELEM ATIS",
-            "frequency_mhz": "127.6"
-        },
-        {
-            "id": "49591",
-            "airport_ref": "5867",
-            "airport_ident": "SBBE",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "49592",
-            "airport_ref": "5867",
-            "airport_ident": "SBBE",
-            "type": "OPS",
-            "description": "BELEM OPS",
-            "frequency_mhz": "122.5"
-        },
-        {
-            "id": "49593",
-            "airport_ref": "5867",
-            "airport_ident": "SBBE",
-            "type": "TWR",
-            "description": "BELEM TWR",
-            "frequency_mhz": "118.7"
-        }
-    ],
     "country": {
         "id": "302791",
         "code": "BR",

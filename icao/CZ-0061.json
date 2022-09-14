@@ -63,16 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "316071",
-            "airport_ref": "316070",
-            "airport_ident": "CZ-0061",
-            "type": "Info",
-            "description": "Teplice Radio",
-            "frequency_mhz": "122.4"
-        }
-    ],
     "country": {
         "id": "302680",
         "code": "CZ",

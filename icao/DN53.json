@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55713",
-            "airport_ref": "4967",
-            "airport_ident": "DN53",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.5"
-        }
-    ],
     "country": {
         "id": "302593",
         "code": "NG",

@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": "325"
         }
     ],
-    "freqs": [
-        {
-            "id": "57650",
-            "airport_ref": "26663",
-            "airport_ident": "VTPY",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "122.3"
-        }
-    ],
     "country": {
         "id": "302663",
         "code": "TH",

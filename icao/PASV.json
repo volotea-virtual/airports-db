@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "58746",
-            "airport_ref": "5411",
-            "airport_ident": "PASV",
-            "type": "CNTR",
-            "description": "ANCHORAGE CNTR",
-            "frequency_mhz": "134.3"
-        },
-        {
-            "id": "58747",
-            "airport_ref": "5411",
-            "airport_ident": "PASV",
-            "type": "FSS",
-            "description": "KENAI RDO",
-            "frequency_mhz": "122.5"
-        },
-        {
-            "id": "58748",
-            "airport_ref": "5411",
-            "airport_ident": "PASV",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "126.2"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

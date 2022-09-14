@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "75396",
-            "airport_ref": "29236",
-            "airport_ident": "EKHG",
-            "type": "RADIO",
-            "description": "Herning Radio",
-            "frequency_mhz": "121"
-        }
-    ],
     "country": {
         "id": "302682",
         "code": "DK",

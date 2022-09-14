@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "49709",
-            "airport_ref": "5920",
-            "airport_ident": "SBIZ",
-            "type": "AFIS",
-            "description": "RDO",
-            "frequency_mhz": "125.85"
-        }
-    ],
     "country": {
         "id": "302791",
         "code": "BR",

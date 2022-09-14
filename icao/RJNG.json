@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "54525",
-            "airport_ref": "5583",
-            "airport_ident": "RJNG",
-            "type": "APP",
-            "description": "NAGOYA APP",
-            "frequency_mhz": "120.3"
-        },
-        {
-            "id": "54526",
-            "airport_ref": "5583",
-            "airport_ident": "RJNG",
-            "type": "DEP",
-            "description": "NAGOYA DEP",
-            "frequency_mhz": "120.7"
-        },
-        {
-            "id": "54527",
-            "airport_ref": "5583",
-            "airport_ident": "RJNG",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "27.58"
-        },
-        {
-            "id": "54528",
-            "airport_ref": "5583",
-            "airport_ident": "RJNG",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "122"
-        }
-    ],
     "country": {
         "id": "302639",
         "code": "JP",

@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": "1530"
         }
     ],
-    "freqs": [
-        {
-            "id": "53914",
-            "airport_ref": "26552",
-            "airport_ident": "VIDD",
-            "type": "APP",
-            "description": "DELHI  APP",
-            "frequency_mhz": "126.35"
-        },
-        {
-            "id": "53915",
-            "airport_ref": "26552",
-            "airport_ident": "VIDD",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "122.3"
-        }
-    ],
     "country": {
         "id": "302634",
         "code": "IN",

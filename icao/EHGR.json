@@ -63,56 +63,6 @@
             "he_displaced_threshold_ft": "331"
         }
     ],
-    "freqs": [
-        {
-            "id": "55740",
-            "airport_ref": "2520",
-            "airport_ident": "EHGR",
-            "type": "APP",
-            "description": "RAPCON West Approach",
-            "frequency_mhz": "123.58"
-        },
-        {
-            "id": "352550",
-            "airport_ref": "2520",
-            "airport_ident": "EHGR",
-            "type": "ARR",
-            "description": "Gilze Arrival",
-            "frequency_mhz": "123.58"
-        },
-        {
-            "id": "352551",
-            "airport_ref": "2520",
-            "airport_ident": "EHGR",
-            "type": "CENTER",
-            "description": "Dutch Military Center",
-            "frequency_mhz": "125.93"
-        },
-        {
-            "id": "352558",
-            "airport_ref": "2520",
-            "airport_ident": "EHGR",
-            "type": "FIS",
-            "description": "Dutch MIL Info",
-            "frequency_mhz": "132.35"
-        },
-        {
-            "id": "55741",
-            "airport_ref": "2520",
-            "airport_ident": "EHGR",
-            "type": "GND",
-            "description": "Gilze-Rijen Ground",
-            "frequency_mhz": "121.68"
-        },
-        {
-            "id": "55742",
-            "airport_ref": "2520",
-            "airport_ident": "EHGR",
-            "type": "TWR",
-            "description": "Gilze-Rijen Tower",
-            "frequency_mhz": "125.33"
-        }
-    ],
     "country": {
         "id": "302708",
         "code": "NL",

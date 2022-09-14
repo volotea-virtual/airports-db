@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": "305"
         }
     ],
-    "freqs": [
-        {
-            "id": "51673",
-            "airport_ref": "4841",
-            "airport_ident": "MUKW",
-            "type": "AFIS",
-            "description": "INFORMACION",
-            "frequency_mhz": "130.1"
-        }
-    ],
     "country": {
         "id": "302732",
         "code": "CU",

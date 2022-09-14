@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "52661",
-            "airport_ref": "2967",
-            "airport_ident": "FOON",
-            "type": "A/G",
-            "description": "A/G VOICE RDO",
-            "frequency_mhz": "655.9"
-        },
-        {
-            "id": "52662",
-            "airport_ref": "2967",
-            "airport_ident": "FOON",
-            "type": "TWR",
-            "description": "MVENGUE TWR",
-            "frequency_mhz": "118.2"
-        }
-    ],
     "country": {
         "id": "302573",
         "code": "GA",

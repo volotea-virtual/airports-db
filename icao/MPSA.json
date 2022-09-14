@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "56272",
-            "airport_ref": "4792",
-            "airport_ident": "MPSA",
-            "type": "RDO",
-            "description": "SANTIAGO RDO",
-            "frequency_mhz": "124"
-        }
-    ],
     "country": {
         "id": "302749",
         "code": "PA",

@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": "115"
         }
     ],
-    "freqs": [
-        {
-            "id": "53071",
-            "airport_ref": "2277",
-            "airport_ident": "EDTM",
-            "type": "AFIS",
-            "description": "ZURICH INFO",
-            "frequency_mhz": "124.7"
-        },
-        {
-            "id": "53072",
-            "airport_ref": "2277",
-            "airport_ident": "EDTM",
-            "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "135.18"
-        }
-    ],
     "country": {
         "id": "302681",
         "code": "DE",

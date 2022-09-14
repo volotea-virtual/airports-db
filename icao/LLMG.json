@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "54136",
-            "airport_ref": "4420",
-            "airport_ident": "LLMG",
-            "type": "ACC",
-            "description": "TEL AVIV CON",
-            "frequency_mhz": "124.3"
-        },
-        {
-            "id": "54137",
-            "airport_ref": "4420",
-            "airport_ident": "LLMG",
-            "type": "ACC",
-            "description": "TEL AVIV EAST",
-            "frequency_mhz": "132.05"
-        }
-    ],
     "country": {
         "id": "302633",
         "code": "IL",

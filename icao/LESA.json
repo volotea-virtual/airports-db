@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "57319",
-            "airport_ref": "4033",
-            "airport_ident": "LESA",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "124.4"
-        },
-        {
-            "id": "57320",
-            "airport_ref": "4033",
-            "airport_ident": "LESA",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.85"
-        },
-        {
-            "id": "57321",
-            "airport_ref": "4033",
-            "airport_ident": "LESA",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "139.3"
-        }
-    ],
     "country": {
         "id": "302684",
         "code": "ES",

@@ -63,24 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "56318",
-            "airport_ref": "4454",
-            "airport_ident": "LPMT",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "142.4"
-        },
-        {
-            "id": "56319",
-            "airport_ref": "4454",
-            "airport_ident": "LPMT",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "134.1"
-        }
-    ],
     "country": {
         "id": "302711",
         "code": "PT",

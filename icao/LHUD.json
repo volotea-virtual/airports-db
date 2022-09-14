@@ -107,16 +107,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "340070",
-            "airport_ref": "30454",
-            "airport_ident": "LHUD",
-            "type": "AFIS",
-            "description": "Szeged Info",
-            "frequency_mhz": "122.81"
-        }
-    ],
     "country": {
         "id": "302693",
         "code": "HU",

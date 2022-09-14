@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "52273",
-            "airport_ref": "4225",
-            "airport_ident": "LFRZ",
-            "type": "APP",
-            "description": "NANTES APP",
-            "frequency_mhz": "130.275"
-        },
-        {
-            "id": "52274",
-            "airport_ref": "4225",
-            "airport_ident": "LFRZ",
-            "type": "TWR",
-            "description": "SAINT NAZAIRE TWR",
-            "frequency_mhz": "118.95"
-        }
-    ],
     "country": {
         "id": "302687",
         "code": "FR",

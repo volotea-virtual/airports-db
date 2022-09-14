@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": "484"
         }
     ],
-    "freqs": [
-        {
-            "id": "50880",
-            "airport_ref": "1724",
-            "airport_ident": "CYET",
-            "type": "ATF",
-            "description": "ATF",
-            "frequency_mhz": "123.2"
-        },
-        {
-            "id": "300067",
-            "airport_ref": "1724",
-            "airport_ident": "CYET",
-            "type": "AWOS",
-            "description": "",
-            "frequency_mhz": "128.75"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

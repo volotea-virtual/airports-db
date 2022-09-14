@@ -63,56 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51973",
-            "airport_ref": "4820",
-            "airport_ident": "MSLP",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "119.9"
-        },
-        {
-            "id": "51974",
-            "airport_ref": "4820",
-            "airport_ident": "MSLP",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "127.6"
-        },
-        {
-            "id": "51975",
-            "airport_ref": "4820",
-            "airport_ident": "MSLP",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "121.25"
-        },
-        {
-            "id": "51976",
-            "airport_ref": "4820",
-            "airport_ident": "MSLP",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.7"
-        },
-        {
-            "id": "51977",
-            "airport_ref": "4820",
-            "airport_ident": "MSLP",
-            "type": "RDO",
-            "description": "RDO",
-            "frequency_mhz": "126.9"
-        },
-        {
-            "id": "51978",
-            "airport_ref": "4820",
-            "airport_ident": "MSLP",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118"
-        }
-    ],
     "country": {
         "id": "302752",
         "code": "SV",

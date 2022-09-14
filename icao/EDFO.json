@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "326317",
-            "airport_ref": "28648",
-            "airport_ident": "EDFO",
-            "type": "Info",
-            "description": "",
-            "frequency_mhz": "123.65"
-        },
-        {
-            "id": "326318",
-            "airport_ref": "28648",
-            "airport_ident": "EDFO",
-            "type": "Info",
-            "description": "",
-            "frequency_mhz": "124.515"
-        }
-    ],
     "country": {
         "id": "302681",
         "code": "DE",

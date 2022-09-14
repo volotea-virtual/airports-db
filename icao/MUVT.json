@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51635",
-            "airport_ref": "4860",
-            "airport_ident": "MUVT",
-            "type": "A/G",
-            "description": "TUNAS RDO",
-            "frequency_mhz": "340.7"
-        },
-        {
-            "id": "51636",
-            "airport_ref": "4860",
-            "airport_ident": "MUVT",
-            "type": "TWR",
-            "description": "TUNAS TWR",
-            "frequency_mhz": "122.5"
-        }
-    ],
     "country": {
         "id": "302732",
         "code": "CU",

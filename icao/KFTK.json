@@ -107,64 +107,6 @@
             "he_displaced_threshold_ft": "200"
         }
     ],
-    "freqs": [
-        {
-            "id": "66911",
-            "airport_ref": "3544",
-            "airport_ident": "KFTK",
-            "type": "A/D",
-            "description": "LOUISVILLE APP/DEP",
-            "frequency_mhz": "123.675"
-        },
-        {
-            "id": "66912",
-            "airport_ref": "3544",
-            "airport_ident": "KFTK",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "109.6"
-        },
-        {
-            "id": "66913",
-            "airport_ref": "3544",
-            "airport_ident": "KFTK",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "126.8"
-        },
-        {
-            "id": "66914",
-            "airport_ref": "3544",
-            "airport_ident": "KFTK",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "66915",
-            "airport_ref": "3544",
-            "airport_ident": "KFTK",
-            "type": "MISC",
-            "description": "AIR TO AIR",
-            "frequency_mhz": "23.75"
-        },
-        {
-            "id": "66916",
-            "airport_ref": "3544",
-            "airport_ident": "KFTK",
-            "type": "OPS",
-            "description": "BASE OPS",
-            "frequency_mhz": "126.2"
-        },
-        {
-            "id": "66917",
-            "airport_ref": "3544",
-            "airport_ident": "KFTK",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "126.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

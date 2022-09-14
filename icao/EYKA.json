@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": "788"
         }
     ],
-    "freqs": [
-        {
-            "id": "55164",
-            "airport_ref": "2760",
-            "airport_ident": "EYKA",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "124.2"
-        },
-        {
-            "id": "55165",
-            "airport_ref": "2760",
-            "airport_ident": "EYKA",
-            "type": "MISC",
-            "description": "HANDLING",
-            "frequency_mhz": "121.6"
-        },
-        {
-            "id": "55166",
-            "airport_ref": "2760",
-            "airport_ident": "EYKA",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.5"
-        }
-    ],
     "country": {
         "id": "302700",
         "code": "LT",

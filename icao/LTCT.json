@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "308433",
-            "airport_ref": "44790",
-            "airport_ident": "LTCT",
-            "type": "APP",
-            "description": "Igdir Approach",
-            "frequency_mhz": "119.6"
-        },
-        {
-            "id": "308431",
-            "airport_ref": "44790",
-            "airport_ident": "LTCT",
-            "type": "GND",
-            "description": "Igdir Ground",
-            "frequency_mhz": "121.8"
-        },
-        {
-            "id": "308432",
-            "airport_ref": "44790",
-            "airport_ident": "LTCT",
-            "type": "TWR",
-            "description": "Igdir Tower",
-            "frequency_mhz": "121.3"
-        }
-    ],
     "country": {
         "id": "302667",
         "code": "TR",

@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": "656"
         }
     ],
-    "freqs": [
-        {
-            "id": "48420",
-            "airport_ref": "5780",
-            "airport_ident": "SADP",
-            "type": "TWR",
-            "description": "PALOMAR TWR",
-            "frequency_mhz": "118.9"
-        }
-    ],
     "country": {
         "id": "302789",
         "code": "AR",

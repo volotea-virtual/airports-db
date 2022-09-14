@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "54977",
-            "airport_ref": "5632",
-            "airport_ident": "RKJM",
-            "type": "APP",
-            "description": "GWANGJU APP",
-            "frequency_mhz": "130"
-        },
-        {
-            "id": "54978",
-            "airport_ref": "5632",
-            "airport_ident": "RKJM",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "129.25"
-        },
-        {
-            "id": "54979",
-            "airport_ref": "5632",
-            "airport_ident": "RKJM",
-            "type": "DEP",
-            "description": "GWANGJU DEP",
-            "frequency_mhz": "130"
-        },
-        {
-            "id": "54980",
-            "airport_ref": "5632",
-            "airport_ident": "RKJM",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.7"
-        }
-    ],
     "country": {
         "id": "302643",
         "code": "KR",

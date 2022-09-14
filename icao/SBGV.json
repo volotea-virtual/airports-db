@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "49657",
-            "airport_ref": "5912",
-            "airport_ident": "SBGV",
-            "type": "AFIS",
-            "description": "VALADARES RDO",
-            "frequency_mhz": "132.05"
-        }
-    ],
     "country": {
         "id": "302791",
         "code": "BR",

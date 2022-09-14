@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51538",
-            "airport_ref": "6127",
-            "airport_ident": "SKLC",
-            "type": "RDO",
-            "description": "CAREPA RDO",
-            "frequency_mhz": "348.8"
-        },
-        {
-            "id": "51539",
-            "airport_ref": "6127",
-            "airport_ident": "SKLC",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.7"
-        }
-    ],
     "country": {
         "id": "302793",
         "code": "CO",

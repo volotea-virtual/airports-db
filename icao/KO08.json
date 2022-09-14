@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "65457",
-            "airport_ref": "20673",
-            "airport_ident": "KO08",
-            "type": "CNTR",
-            "description": "OAKLAND CNTR",
-            "frequency_mhz": "132.2"
-        },
-        {
-            "id": "65458",
-            "airport_ref": "20673",
-            "airport_ident": "KO08",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

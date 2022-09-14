@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "75506",
-            "airport_ref": "46601",
-            "airport_ident": "CPK9",
-            "type": "CTAF",
-            "description": "",
-            "frequency_mhz": "123.4"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

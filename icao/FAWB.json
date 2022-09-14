@@ -63,24 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "298798",
-            "airport_ref": "2854",
-            "airport_ident": "FAWB",
-            "type": "GND",
-            "description": "Wonderboom Ground",
-            "frequency_mhz": "120.6"
-        },
-        {
-            "id": "57066",
-            "airport_ref": "2854",
-            "airport_ident": "FAWB",
-            "type": "TWR",
-            "description": "Wonderboom Tower",
-            "frequency_mhz": "118.35"
-        }
-    ],
     "country": {
         "id": "302610",
         "code": "ZA",

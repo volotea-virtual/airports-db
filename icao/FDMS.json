@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "71818",
-            "airport_ref": "2872",
-            "airport_ident": "FDMS",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "124.9"
-        },
-        {
-            "id": "71819",
-            "airport_ref": "2872",
-            "airport_ident": "FDMS",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.7"
-        },
-        {
-            "id": "71820",
-            "airport_ref": "2872",
-            "airport_ident": "FDMS",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "124.9"
-        }
-    ],
     "country": {
         "id": "302603",
         "code": "SZ",

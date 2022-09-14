@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "74808",
-            "airport_ref": "28018",
-            "airport_ident": "YUDL",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.4"
-        },
-        {
-            "id": "74809",
-            "airport_ref": "28018",
-            "airport_ident": "YUDL",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "119.5"
-        }
-    ],
     "country": {
         "id": "302764",
         "code": "AU",

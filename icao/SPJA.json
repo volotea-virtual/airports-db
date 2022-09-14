@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "56061",
-            "airport_ref": "6218",
-            "airport_ident": "SPJA",
-            "type": "AFIS",
-            "description": "RIOJA RDO",
-            "frequency_mhz": "118.3"
-        }
-    ],
     "country": {
         "id": "302798",
         "code": "PE",

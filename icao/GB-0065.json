@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "307718",
-            "airport_ref": "307536",
-            "airport_ident": "GB-0065",
-            "type": "Safety com",
-            "description": "Audley End Radiop",
-            "frequency_mhz": "135.475"
-        }
-    ],
     "country": {
         "id": "302688",
         "code": "GB",

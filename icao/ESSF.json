@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "314930",
-            "airport_ref": "2704",
-            "airport_ident": "ESSF",
-            "type": "INF",
-            "description": "Hultsfred airport",
-            "frequency_mhz": "123.55"
-        }
-    ],
     "country": {
         "id": "302715",
         "code": "SE",

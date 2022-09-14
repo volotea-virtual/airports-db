@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "53600",
-            "airport_ref": "26833",
-            "airport_ident": "WAHL",
-            "type": "A/G",
-            "description": "RDO",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302632",
         "code": "ID",

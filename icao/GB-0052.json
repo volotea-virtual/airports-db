@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "307439",
-            "airport_ref": "307438",
-            "airport_ident": "GB-0052",
-            "type": "A/G",
-            "description": "Eggesford Radio",
-            "frequency_mhz": "123.5"
-        }
-    ],
     "country": {
         "id": "302688",
         "code": "GB",

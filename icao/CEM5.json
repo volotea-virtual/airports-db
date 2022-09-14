@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "50446",
-            "airport_ref": "876",
-            "airport_ident": "CEM5",
-            "type": "ATF",
-            "description": "ATF",
-            "frequency_mhz": "123.2"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

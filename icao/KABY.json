@@ -63,64 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "68885",
-            "airport_ref": "3359",
-            "airport_ident": "KABY",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "133.05"
-        },
-        {
-            "id": "68886",
-            "airport_ref": "3359",
-            "airport_ident": "KABY",
-            "type": "CNTR",
-            "description": "JACKSONVILLE CNTR",
-            "frequency_mhz": "125.75"
-        },
-        {
-            "id": "68887",
-            "airport_ref": "3359",
-            "airport_ident": "KABY",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "120.25"
-        },
-        {
-            "id": "68888",
-            "airport_ref": "3359",
-            "airport_ident": "KABY",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "68889",
-            "airport_ref": "3359",
-            "airport_ident": "KABY",
-            "type": "RDO",
-            "description": "MACON RDO",
-            "frequency_mhz": "122.6"
-        },
-        {
-            "id": "68890",
-            "airport_ref": "3359",
-            "airport_ident": "KABY",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "120.25"
-        },
-        {
-            "id": "68891",
-            "airport_ref": "3359",
-            "airport_ident": "KABY",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.95"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

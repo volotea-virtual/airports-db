@@ -85,48 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "68227",
-            "airport_ref": "3782",
-            "airport_ident": "KPMD",
-            "type": "A/D",
-            "description": "JOSHUA APP/DEP",
-            "frequency_mhz": "124.55"
-        },
-        {
-            "id": "68228",
-            "airport_ref": "3782",
-            "airport_ident": "KPMD",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "118.275"
-        },
-        {
-            "id": "68229",
-            "airport_ref": "3782",
-            "airport_ident": "KPMD",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "123.7"
-        },
-        {
-            "id": "68230",
-            "airport_ref": "3782",
-            "airport_ident": "KPMD",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "68231",
-            "airport_ref": "3782",
-            "airport_ident": "KPMD",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "123.7"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

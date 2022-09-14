@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "69676",
-            "airport_ref": "20707",
-            "airport_ident": "KO88",
-            "type": "A/D",
-            "description": "NORCAL APP/DEP",
-            "frequency_mhz": "125.25"
-        },
-        {
-            "id": "69677",
-            "airport_ref": "20707",
-            "airport_ident": "KO88",
-            "type": "DEP",
-            "description": "TRAVIS DEP",
-            "frequency_mhz": "119.9"
-        },
-        {
-            "id": "69678",
-            "airport_ref": "20707",
-            "airport_ident": "KO88",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.725"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

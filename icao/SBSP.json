@@ -63,48 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "49842",
-            "airport_ref": "5974",
-            "airport_ident": "SBSP",
-            "type": "APP",
-            "description": "SAO PAULO APP",
-            "frequency_mhz": "119.8"
-        },
-        {
-            "id": "49843",
-            "airport_ref": "5974",
-            "airport_ident": "SBSP",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "127.65"
-        },
-        {
-            "id": "49844",
-            "airport_ref": "5974",
-            "airport_ident": "SBSP",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "120.6"
-        },
-        {
-            "id": "49845",
-            "airport_ref": "5974",
-            "airport_ident": "SBSP",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "49846",
-            "airport_ref": "5974",
-            "airport_ident": "SBSP",
-            "type": "TWR",
-            "description": "SAO PAULO TWR",
-            "frequency_mhz": "127.15"
-        }
-    ],
     "country": {
         "id": "302791",
         "code": "BR",

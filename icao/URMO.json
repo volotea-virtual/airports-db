@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "56752",
-            "airport_ref": "6516",
-            "airport_ident": "URMO",
-            "type": "MISC",
-            "description": "TRANSIT",
-            "frequency_mhz": "118"
-        },
-        {
-            "id": "56753",
-            "airport_ref": "6516",
-            "airport_ident": "URMO",
-            "type": "RDR",
-            "description": "KRUG",
-            "frequency_mhz": "125.2"
-        },
-        {
-            "id": "56754",
-            "airport_ref": "6516",
-            "airport_ident": "URMO",
-            "type": "TWR",
-            "description": "START",
-            "frequency_mhz": "118.1"
-        }
-    ],
     "country": {
         "id": "302714",
         "code": "RU",

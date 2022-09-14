@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "48444",
-            "airport_ref": "5825",
-            "airport_ident": "SAVJ",
-            "type": "RDO",
-            "description": "ING JACOBACCI RDO",
-            "frequency_mhz": "122.3"
-        }
-    ],
     "country": {
         "id": "302789",
         "code": "AR",

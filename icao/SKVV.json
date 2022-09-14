@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51496",
-            "airport_ref": "6177",
-            "airport_ident": "SKVV",
-            "type": "APP",
-            "description": "VILLAVICENCIO APP",
-            "frequency_mhz": "119.3"
-        },
-        {
-            "id": "51497",
-            "airport_ref": "6177",
-            "airport_ident": "SKVV",
-            "type": "RDO",
-            "description": "VILLAVICENCIO RDO",
-            "frequency_mhz": "348.8"
-        },
-        {
-            "id": "51498",
-            "airport_ref": "6177",
-            "airport_ident": "SKVV",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.7"
-        }
-    ],
     "country": {
         "id": "302793",
         "code": "CO",

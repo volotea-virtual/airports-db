@@ -63,48 +63,6 @@
             "he_displaced_threshold_ft": "918"
         }
     ],
-    "freqs": [
-        {
-            "id": "52306",
-            "airport_ref": "4202",
-            "airport_ident": "LFQQ",
-            "type": "AFIS",
-            "description": "LILLE INFO",
-            "frequency_mhz": "134.825"
-        },
-        {
-            "id": "52307",
-            "airport_ref": "4202",
-            "airport_ident": "LFQQ",
-            "type": "APP",
-            "description": "LILLE APP",
-            "frequency_mhz": "120.275"
-        },
-        {
-            "id": "52308",
-            "airport_ref": "4202",
-            "airport_ident": "LFQQ",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "119.325"
-        },
-        {
-            "id": "52309",
-            "airport_ref": "4202",
-            "airport_ident": "LFQQ",
-            "type": "GND",
-            "description": "LILLE GND",
-            "frequency_mhz": "121.85"
-        },
-        {
-            "id": "52310",
-            "airport_ref": "4202",
-            "airport_ident": "LFQQ",
-            "type": "TWR",
-            "description": "LILLE TWR",
-            "frequency_mhz": "118.55"
-        }
-    ],
     "country": {
         "id": "302687",
         "code": "FR",

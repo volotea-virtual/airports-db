@@ -63,24 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "71919",
-            "airport_ref": "29157",
-            "airport_ident": "EGLD",
-            "type": "A/G",
-            "description": "Denham A/G",
-            "frequency_mhz": "130.725"
-        },
-        {
-            "id": "71920",
-            "airport_ref": "29157",
-            "airport_ident": "EGLD",
-            "type": "AFIS",
-            "description": "Denham AFIS",
-            "frequency_mhz": "130.725"
-        }
-    ],
     "country": {
         "id": "302688",
         "code": "GB",

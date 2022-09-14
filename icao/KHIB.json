@@ -63,48 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "65228",
-            "airport_ref": "3579",
-            "airport_ident": "KHIB",
-            "type": "A/D",
-            "description": "DULUTH APP/DEP",
-            "frequency_mhz": "125.45"
-        },
-        {
-            "id": "65229",
-            "airport_ref": "3579",
-            "airport_ident": "KHIB",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "126.425"
-        },
-        {
-            "id": "65230",
-            "airport_ref": "3579",
-            "airport_ident": "KHIB",
-            "type": "CLD",
-            "description": "DULUTH CLNC DEL",
-            "frequency_mhz": "127.4"
-        },
-        {
-            "id": "65231",
-            "airport_ref": "3579",
-            "airport_ident": "KHIB",
-            "type": "RDO",
-            "description": "PRINCETON RDO",
-            "frequency_mhz": "122.6"
-        },
-        {
-            "id": "65232",
-            "airport_ref": "3579",
-            "airport_ident": "KHIB",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

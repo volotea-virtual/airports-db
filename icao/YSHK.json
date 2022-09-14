@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Shark_Bay_Airport",
-    "keywords": "DNM, Denham Airport, Monkey Mia Airport",
+    "keywords": "Monkey Mia Airport",
     "runways": [
         {
             "id": "233418",
@@ -39,24 +39,6 @@
             "he_elevation_ft": "111",
             "he_heading_degT": "358",
             "he_displaced_threshold_ft": ""
-        }
-    ],
-    "freqs": [
-        {
-            "id": "49012",
-            "airport_ref": "27137",
-            "airport_ident": "YSHK",
-            "type": "CTAF",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "126.7"
-        },
-        {
-            "id": "49013",
-            "airport_ref": "27137",
-            "airport_ident": "YSHK",
-            "type": "FSS",
-            "description": "MELBOURNE CNTR",
-            "frequency_mhz": "122.1"
         }
     ],
     "country": {

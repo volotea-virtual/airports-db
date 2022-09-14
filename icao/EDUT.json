@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "52802",
-            "airport_ref": "2282",
-            "airport_ident": "EDUT",
-            "type": "AFIS",
-            "description": "BERLIN INFO",
-            "frequency_mhz": "132.65"
-        },
-        {
-            "id": "52803",
-            "airport_ref": "2282",
-            "airport_ident": "EDUT",
-            "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "123.475"
-        }
-    ],
     "country": {
         "id": "302681",
         "code": "DE",

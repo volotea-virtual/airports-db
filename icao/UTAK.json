@@ -27,52 +27,40 @@
             "surface": "CON",
             "lighted": "1",
             "closed": "0",
-            "le_ident": "16",
-            "le_latitude_deg": "40.07440185546875",
-            "le_longitude_deg": "53.00389862060547",
+            "le_ident": "16L",
+            "le_latitude_deg": "40.074402",
+            "le_longitude_deg": "53.003899",
             "le_elevation_ft": "230",
-            "le_heading_degT": "166.7",
+            "le_heading_degT": "167",
             "le_displaced_threshold_ft": "",
-            "he_ident": "34",
-            "he_latitude_deg": "40.0525016784668",
-            "he_longitude_deg": "53.01060104370117",
+            "he_ident": "34R",
+            "he_latitude_deg": "40.052502",
+            "he_longitude_deg": "53.010601",
             "he_elevation_ft": "279",
-            "he_heading_degT": "346.7",
+            "he_heading_degT": "347",
             "he_displaced_threshold_ft": ""
-        }
-    ],
-    "freqs": [
-        {
-            "id": "58057",
-            "airport_ref": "26381",
-            "airport_ident": "UTAK",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "120"
         },
         {
-            "id": "58058",
+            "id": "356514",
             "airport_ref": "26381",
             "airport_ident": "UTAK",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.7"
-        },
-        {
-            "id": "58059",
-            "airport_ref": "26381",
-            "airport_ident": "UTAK",
-            "type": "MISC",
-            "description": "TRANSIT",
-            "frequency_mhz": "131.9"
-        },
-        {
-            "id": "58060",
-            "airport_ref": "26381",
-            "airport_ident": "UTAK",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "124"
+            "length_ft": "11483",
+            "width_ft": "148",
+            "surface": "CON",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "16R",
+            "le_latitude_deg": "40.081509",
+            "le_longitude_deg": "52.999332",
+            "le_elevation_ft": "265",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "34L",
+            "he_latitude_deg": "40.050957",
+            "he_longitude_deg": "53.008911",
+            "he_elevation_ft": "265",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
         }
     ],
     "country": {

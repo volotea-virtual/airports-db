@@ -63,16 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "67480",
-            "airport_ref": "18855",
-            "airport_ident": "K4U6",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

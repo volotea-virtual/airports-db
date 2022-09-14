@@ -63,16 +63,6 @@
             "he_displaced_threshold_ft": "118"
         }
     ],
-    "freqs": [
-        {
-            "id": "65909",
-            "airport_ref": "20135",
-            "airport_ident": "KI58",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

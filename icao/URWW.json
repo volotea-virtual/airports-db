@@ -107,56 +107,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "56769",
-            "airport_ref": "6522",
-            "airport_ident": "URWW",
-            "type": "APP",
-            "description": "VOLGOGRAD APP",
-            "frequency_mhz": "125.3"
-        },
-        {
-            "id": "56770",
-            "airport_ref": "6522",
-            "airport_ident": "URWW",
-            "type": "ATIS",
-            "description": "VOLOGRAD ATIS",
-            "frequency_mhz": "132.8"
-        },
-        {
-            "id": "56771",
-            "airport_ref": "6522",
-            "airport_ident": "URWW",
-            "type": "GCA",
-            "description": "GCA",
-            "frequency_mhz": "128"
-        },
-        {
-            "id": "56772",
-            "airport_ref": "6522",
-            "airport_ident": "URWW",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "119"
-        },
-        {
-            "id": "56773",
-            "airport_ref": "6522",
-            "airport_ident": "URWW",
-            "type": "RDR",
-            "description": "ASR",
-            "frequency_mhz": "122"
-        },
-        {
-            "id": "56774",
-            "airport_ref": "6522",
-            "airport_ident": "URWW",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "128"
-        }
-    ],
     "country": {
         "id": "302714",
         "code": "RU",

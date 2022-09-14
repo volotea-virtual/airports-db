@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "56909",
-            "airport_ref": "5102",
-            "airport_ident": "OENG",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.8"
-        },
-        {
-            "id": "56910",
-            "airport_ref": "5102",
-            "airport_ident": "OENG",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "56911",
-            "airport_ref": "5102",
-            "airport_ident": "OENG",
-            "type": "MISC",
-            "description": "FIRE RESCUE SVC",
-            "frequency_mhz": "133.5"
-        },
-        {
-            "id": "56912",
-            "airport_ref": "5102",
-            "airport_ident": "OENG",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.5"
-        }
-    ],
     "country": {
         "id": "302660",
         "code": "SA",

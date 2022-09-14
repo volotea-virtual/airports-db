@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "62057",
-            "airport_ref": "26006",
-            "airport_ident": "WV23",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.9"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

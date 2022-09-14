@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "50828",
-            "airport_ref": "1364",
-            "airport_ident": "CYCK",
-            "type": "CNTR",
-            "description": "CLEVELAND CNTR",
-            "frequency_mhz": "132.25"
-        },
-        {
-            "id": "50829",
-            "airport_ref": "1364",
-            "airport_ident": "CYCK",
-            "type": "UNIC",
-            "description": "ATF/UNICOM",
-            "frequency_mhz": "123.2"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "323276",
-            "airport_ref": "2772",
-            "airport_ident": "FABL",
-            "type": "APP",
-            "description": "APP WEST",
-            "frequency_mhz": "119.4"
-        },
-        {
-            "id": "57121",
-            "airport_ref": "2772",
-            "airport_ident": "FABL",
-            "type": "APP",
-            "description": "APP EAST",
-            "frequency_mhz": "124.3"
-        },
-        {
-            "id": "57122",
-            "airport_ref": "2772",
-            "airport_ident": "FABL",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "126.45"
-        },
-        {
-            "id": "57123",
-            "airport_ref": "2772",
-            "airport_ident": "FABL",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "120.8"
-        }
-    ],
     "country": {
         "id": "302610",
         "code": "ZA",

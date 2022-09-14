@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "58849",
-            "airport_ref": "5414",
-            "airport_ident": "PATG",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "119.3"
-        },
-        {
-            "id": "58850",
-            "airport_ref": "5414",
-            "airport_ident": "PATG",
-            "type": "CNTR",
-            "description": "ANCHORAGE CNTR",
-            "frequency_mhz": "124.8"
-        },
-        {
-            "id": "58851",
-            "airport_ref": "5414",
-            "airport_ident": "PATG",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.5"
-        },
-        {
-            "id": "58852",
-            "airport_ref": "5414",
-            "airport_ident": "PATG",
-            "type": "FSS",
-            "description": "KENAI RDO",
-            "frequency_mhz": "122.25"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

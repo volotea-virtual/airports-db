@@ -3,8 +3,8 @@
     "ident": "YCBR",
     "type": "small_airport",
     "name": "Collarenebri Airport",
-    "latitude_deg": "-29.521699905395508",
-    "longitude_deg": "148.58200073242188",
+    "latitude_deg": "-29.523239",
+    "longitude_deg": "148.578243",
     "elevation_ft": "152",
     "continent": "OC",
     "iso_country": "AU",
@@ -15,7 +15,7 @@
     "iata_code": "CRB",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Collarenebri_Airport",
     "keywords": "",
     "runways": [
         {
@@ -61,40 +61,6 @@
             "he_elevation_ft": "500",
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
-        }
-    ],
-    "freqs": [
-        {
-            "id": "72448",
-            "airport_ref": "27442",
-            "airport_ident": "YCBR",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "120.5"
-        },
-        {
-            "id": "72450",
-            "airport_ref": "27442",
-            "airport_ident": "YCBR",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "123"
-        },
-        {
-            "id": "72451",
-            "airport_ref": "27442",
-            "airport_ident": "YCBR",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "125.8"
-        },
-        {
-            "id": "72449",
-            "airport_ref": "27442",
-            "airport_ident": "YCBR",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "127.1"
         }
     ],
     "country": {

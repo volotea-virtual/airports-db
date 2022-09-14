@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "69202",
-            "airport_ref": "20240",
-            "airport_ident": "KK15",
-            "type": "A/D",
-            "description": "MIZZU APP/DEP",
-            "frequency_mhz": "124.1"
-        },
-        {
-            "id": "69203",
-            "airport_ref": "20240",
-            "airport_ident": "KK15",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

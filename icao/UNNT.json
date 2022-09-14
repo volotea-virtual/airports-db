@@ -63,56 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "56782",
-            "airport_ref": "6507",
-            "airport_ident": "UNNT",
-            "type": "APP",
-            "description": "NOVOSIBIRSK APP",
-            "frequency_mhz": "127.5"
-        },
-        {
-            "id": "56783",
-            "airport_ref": "6507",
-            "airport_ident": "UNNT",
-            "type": "ATIS",
-            "description": "NOVOSIBIRSK ATIS",
-            "frequency_mhz": "127.4"
-        },
-        {
-            "id": "56784",
-            "airport_ref": "6507",
-            "airport_ident": "UNNT",
-            "type": "GND",
-            "description": "NOVOSIBIRSK TAXIING",
-            "frequency_mhz": "121.7"
-        },
-        {
-            "id": "56785",
-            "airport_ref": "6507",
-            "airport_ident": "UNNT",
-            "type": "PMSV",
-            "description": "NOVOSIBIRSK VOLMET",
-            "frequency_mhz": "128.3"
-        },
-        {
-            "id": "56786",
-            "airport_ref": "6507",
-            "airport_ident": "UNNT",
-            "type": "RDR",
-            "description": "NOVOSIBIRSK KRUG",
-            "frequency_mhz": "122"
-        },
-        {
-            "id": "56787",
-            "airport_ref": "6507",
-            "airport_ident": "UNNT",
-            "type": "TWR",
-            "description": "NOVOSIBIRSK START",
-            "frequency_mhz": "118.5"
-        }
-    ],
     "country": {
         "id": "302714",
         "code": "RU",

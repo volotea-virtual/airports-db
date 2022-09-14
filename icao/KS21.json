@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "64917",
-            "airport_ref": "20994",
-            "airport_ident": "KS21",
-            "type": "CNTR",
-            "description": "SEATTLE CNTR",
-            "frequency_mhz": "128.15"
-        },
-        {
-            "id": "64918",
-            "airport_ref": "20994",
-            "airport_ident": "KS21",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

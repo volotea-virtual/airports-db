@@ -63,64 +63,6 @@
             "he_displaced_threshold_ft": "1170"
         }
     ],
-    "freqs": [
-        {
-            "id": "51983",
-            "airport_ref": "3157",
-            "airport_ident": "HAAB",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "119.7"
-        },
-        {
-            "id": "328893",
-            "airport_ref": "3157",
-            "airport_ident": "HAAB",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "128.5"
-        },
-        {
-            "id": "334300",
-            "airport_ref": "3157",
-            "airport_ident": "HAAB",
-            "type": "CTAF",
-            "description": "oshkosh traffic",
-            "frequency_mhz": "118.5"
-        },
-        {
-            "id": "328894",
-            "airport_ref": "3157",
-            "airport_ident": "HAAB",
-            "type": "East",
-            "description": "Addis center",
-            "frequency_mhz": "125.2"
-        },
-        {
-            "id": "51984",
-            "airport_ref": "3157",
-            "airport_ident": "HAAB",
-            "type": "GND",
-            "description": "Bole GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "51985",
-            "airport_ref": "3157",
-            "airport_ident": "HAAB",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.1"
-        },
-        {
-            "id": "328895",
-            "airport_ref": "3157",
-            "airport_ident": "HAAB",
-            "type": "West",
-            "description": "Addis center",
-            "frequency_mhz": "125.1"
-        }
-    ],
     "country": {
         "id": "302572",
         "code": "ET",

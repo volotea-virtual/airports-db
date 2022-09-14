@@ -63,16 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "75399",
-            "airport_ref": "46493",
-            "airport_ident": "CSL7",
-            "type": "CTAF",
-            "description": "",
-            "frequency_mhz": "123.4"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

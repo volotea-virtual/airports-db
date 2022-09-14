@@ -107,32 +107,6 @@
             "he_displaced_threshold_ft": "102"
         }
     ],
-    "freqs": [
-        {
-            "id": "55997",
-            "airport_ref": "5045",
-            "airport_ident": "NZNV",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "118.5"
-        },
-        {
-            "id": "55998",
-            "airport_ref": "5045",
-            "airport_ident": "NZNV",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "118.5"
-        },
-        {
-            "id": "55999",
-            "airport_ref": "5045",
-            "airport_ident": "NZNV",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.5"
-        }
-    ],
     "country": {
         "id": "302776",
         "code": "NZ",

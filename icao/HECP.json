@@ -85,32 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "330874",
-            "airport_ref": "2356",
-            "airport_ident": "HECP",
-            "type": "GND",
-            "description": "Capital Ground",
-            "frequency_mhz": "121.925"
-        },
-        {
-            "id": "330875",
-            "airport_ref": "2356",
-            "airport_ident": "HECP",
-            "type": "RDO",
-            "description": "Capital Radio",
-            "frequency_mhz": "5.79"
-        },
-        {
-            "id": "330873",
-            "airport_ref": "2356",
-            "airport_ident": "HECP",
-            "type": "TWR",
-            "description": "Capital tower",
-            "frequency_mhz": "118.9"
-        }
-    ],
     "country": {
         "id": "302569",
         "code": "EG",

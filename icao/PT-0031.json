@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "317215",
-            "airport_ref": "317213",
-            "airport_ident": "PT-0031",
-            "type": "Beja tower",
-            "description": "",
-            "frequency_mhz": "130.4"
-        }
-    ],
     "country": {
         "id": "302711",
         "code": "PT",

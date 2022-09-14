@@ -85,56 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "67360",
-            "airport_ref": "3568",
-            "airport_ident": "KGSO",
-            "type": "A/D",
-            "description": "APP/DEP",
-            "frequency_mhz": "118.5"
-        },
-        {
-            "id": "67361",
-            "airport_ref": "3568",
-            "airport_ident": "KGSO",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "128.55"
-        },
-        {
-            "id": "67362",
-            "airport_ref": "3568",
-            "airport_ident": "KGSO",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "121.75"
-        },
-        {
-            "id": "67363",
-            "airport_ref": "3568",
-            "airport_ident": "KGSO",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "67364",
-            "airport_ref": "3568",
-            "airport_ident": "KGSO",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "119.1"
-        },
-        {
-            "id": "67365",
-            "airport_ref": "3568",
-            "airport_ident": "KGSO",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.95"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

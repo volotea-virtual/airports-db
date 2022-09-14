@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "52427",
-            "airport_ref": "4125",
-            "airport_ident": "LFKF",
-            "type": "ATIS",
-            "description": "FIGARI INFO",
-            "frequency_mhz": "118.725"
-        },
-        {
-            "id": "52428",
-            "airport_ref": "4125",
-            "airport_ident": "LFKF",
-            "type": "GND",
-            "description": "FIGARI GND",
-            "frequency_mhz": "121.8"
-        },
-        {
-            "id": "52429",
-            "airport_ref": "4125",
-            "airport_ident": "LFKF",
-            "type": "TWR",
-            "description": "FIGARI TWR",
-            "frequency_mhz": "120.3"
-        }
-    ],
     "country": {
         "id": "302687",
         "code": "FR",

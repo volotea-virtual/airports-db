@@ -63,64 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "56883",
-            "airport_ref": "5121",
-            "airport_ident": "OETB",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "24.59"
-        },
-        {
-            "id": "56882",
-            "airport_ref": "5121",
-            "airport_ident": "OETB",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "119.7"
-        },
-        {
-            "id": "56884",
-            "airport_ref": "5121",
-            "airport_ident": "OETB",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "115.7"
-        },
-        {
-            "id": "56885",
-            "airport_ref": "5121",
-            "airport_ident": "OETB",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "128.75"
-        },
-        {
-            "id": "56886",
-            "airport_ref": "5121",
-            "airport_ident": "OETB",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "126.3"
-        },
-        {
-            "id": "56887",
-            "airport_ref": "5121",
-            "airport_ident": "OETB",
-            "type": "POST",
-            "description": "HOTEL 8",
-            "frequency_mhz": "913"
-        },
-        {
-            "id": "56888",
-            "airport_ref": "5121",
-            "airport_ident": "OETB",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "125.9"
-        }
-    ],
     "country": {
         "id": "302660",
         "code": "SA",

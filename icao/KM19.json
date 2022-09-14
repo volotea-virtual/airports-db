@@ -107,32 +107,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "70166",
-            "airport_ref": "20415",
-            "airport_ident": "KM19",
-            "type": "asos",
-            "description": "ASOS",
-            "frequency_mhz": "118.15"
-        },
-        {
-            "id": "70167",
-            "airport_ref": "20415",
-            "airport_ident": "KM19",
-            "type": "CNTR",
-            "description": "MEMPHIS CNTR",
-            "frequency_mhz": "120.075"
-        },
-        {
-            "id": "70168",
-            "airport_ref": "20415",
-            "airport_ident": "KM19",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

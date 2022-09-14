@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "58964",
-            "airport_ref": "20666",
-            "airport_ident": "KNXP",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "38.635"
-        },
-        {
-            "id": "58965",
-            "airport_ref": "20666",
-            "airport_ident": "KNXP",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "41.7"
-        },
-        {
-            "id": "58966",
-            "airport_ref": "20666",
-            "airport_ident": "KNXP",
-            "type": "PMSV",
-            "description": "PMSV METRO",
-            "frequency_mhz": "30.83"
-        },
-        {
-            "id": "58967",
-            "airport_ref": "20666",
-            "airport_ident": "KNXP",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "135.525"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

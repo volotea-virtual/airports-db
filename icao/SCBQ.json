@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51356",
-            "airport_ref": "6005",
-            "airport_ident": "SCBQ",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.8"
-        },
-        {
-            "id": "51357",
-            "airport_ref": "6005",
-            "airport_ident": "SCBQ",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "119.1"
-        }
-    ],
     "country": {
         "id": "302792",
         "code": "CL",

@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "http://www.aai.aero/allAirports/nadirgul.jsp",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Nadirgul_Airport",
-    "keywords": "NDGL, Nadirgul,",
+    "keywords": "NDGL, Nadergul",
     "runways": [
         {
             "id": "263445",
@@ -39,16 +39,6 @@
             "he_elevation_ft": "1811",
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
-        }
-    ],
-    "freqs": [
-        {
-            "id": "299129",
-            "airport_ref": "44908",
-            "airport_ident": "IN-0013",
-            "type": "DAY VFR FLIGHTS",
-            "description": "Nadirgul ground",
-            "frequency_mhz": "123.25"
         }
     ],
     "country": {

@@ -85,32 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55643",
-            "airport_ref": "2970",
-            "airport_ident": "FQBR",
-            "type": "APP",
-            "description": "Approach",
-            "frequency_mhz": "119.7"
-        },
-        {
-            "id": "55644",
-            "airport_ref": "2970",
-            "airport_ident": "FQBR",
-            "type": "GND",
-            "description": "Ground",
-            "frequency_mhz": "121.7"
-        },
-        {
-            "id": "55645",
-            "airport_ref": "2970",
-            "airport_ident": "FQBR",
-            "type": "TWR",
-            "description": "Tower",
-            "frequency_mhz": "118.1"
-        }
-    ],
     "country": {
         "id": "302590",
         "code": "MZ",

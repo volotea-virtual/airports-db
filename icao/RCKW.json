@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "58051",
-            "airport_ref": "5518",
-            "airport_ident": "RCKW",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "124.7"
-        },
-        {
-            "id": "58052",
-            "airport_ref": "5518",
-            "airport_ident": "RCKW",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.25"
-        }
-    ],
     "country": {
         "id": "302668",
         "code": "TW",

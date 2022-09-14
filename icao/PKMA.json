@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "56399",
-            "airport_ref": "5487",
-            "airport_ident": "PKMA",
-            "type": "AAS",
-            "description": "RDO",
-            "frequency_mhz": "126.2"
-        }
-    ],
     "country": {
         "id": "302770",
         "code": "MH",

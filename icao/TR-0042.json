@@ -41,56 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "355994",
-            "airport_ref": "316329",
-            "airport_ident": "TR-0042",
-            "type": "APP",
-            "description": "Rize-Artvin Approach",
-            "frequency_mhz": "127.15"
-        },
-        {
-            "id": "355995",
-            "airport_ref": "316329",
-            "airport_ident": "TR-0042",
-            "type": "SAR",
-            "description": "Rize-Artvin Rescue Subcenter",
-            "frequency_mhz": "123.1"
-        },
-        {
-            "id": "355996",
-            "airport_ref": "316329",
-            "airport_ident": "TR-0042",
-            "type": "SAR",
-            "description": "Rize-Artvin Rescue Subcenter",
-            "frequency_mhz": "282.8"
-        },
-        {
-            "id": "355993",
-            "airport_ref": "316329",
-            "airport_ident": "TR-0042",
-            "type": "TWR",
-            "description": "Ground",
-            "frequency_mhz": "121.8"
-        },
-        {
-            "id": "355991",
-            "airport_ref": "316329",
-            "airport_ident": "TR-0042",
-            "type": "TWR",
-            "description": "Rize-Artvin Tower",
-            "frequency_mhz": "126.75"
-        },
-        {
-            "id": "355992",
-            "airport_ref": "316329",
-            "airport_ident": "TR-0042",
-            "type": "TWR",
-            "description": "Rize-Artvin Tower",
-            "frequency_mhz": "372.85"
-        }
-    ],
     "country": {
         "id": "302667",
         "code": "TR",

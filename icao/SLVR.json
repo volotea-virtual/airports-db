@@ -41,48 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "49467",
-            "airport_ref": "6193",
-            "airport_ident": "SLVR",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "119.7"
-        },
-        {
-            "id": "49468",
-            "airport_ref": "6193",
-            "airport_ident": "SLVR",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "121.8"
-        },
-        {
-            "id": "49469",
-            "airport_ref": "6193",
-            "airport_ident": "SLVR",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "49470",
-            "airport_ref": "6193",
-            "airport_ident": "SLVR",
-            "type": "RDO",
-            "description": "SANTA CRUZ RDO",
-            "frequency_mhz": "127.1"
-        },
-        {
-            "id": "49471",
-            "airport_ref": "6193",
-            "airport_ident": "SLVR",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.6"
-        }
-    ],
     "country": {
         "id": "302790",
         "code": "BO",

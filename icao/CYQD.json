@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "50188",
-            "airport_ref": "1865",
-            "airport_ident": "CYQD",
-            "type": "A/G",
-            "description": "MF WINNIPEG RDO",
-            "frequency_mhz": "122.2"
-        },
-        {
-            "id": "50189",
-            "airport_ref": "1865",
-            "airport_ident": "CYQD",
-            "type": "CNTR",
-            "description": "WINNIPEG CNTR",
-            "frequency_mhz": "135.625"
-        },
-        {
-            "id": "50190",
-            "airport_ref": "1865",
-            "airport_ident": "CYQD",
-            "type": "RCO",
-            "description": "WINNIPEG RDO",
-            "frequency_mhz": "122.2"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

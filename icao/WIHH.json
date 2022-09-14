@@ -41,56 +41,6 @@
             "he_displaced_threshold_ft": "650"
         }
     ],
-    "freqs": [
-        {
-            "id": "53723",
-            "airport_ref": "26832",
-            "airport_ident": "WIHH",
-            "type": "APP",
-            "description": "JAKARTA APP",
-            "frequency_mhz": "119.75"
-        },
-        {
-            "id": "53724",
-            "airport_ref": "26832",
-            "airport_ident": "WIHH",
-            "type": "ARR",
-            "description": "JAKARTA ARR",
-            "frequency_mhz": "125.45"
-        },
-        {
-            "id": "53725",
-            "airport_ref": "26832",
-            "airport_ident": "WIHH",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "128.8"
-        },
-        {
-            "id": "53726",
-            "airport_ref": "26832",
-            "airport_ident": "WIHH",
-            "type": "DIR",
-            "description": "JAKARTA DIRECTOR",
-            "frequency_mhz": "119.7"
-        },
-        {
-            "id": "53727",
-            "airport_ref": "26832",
-            "airport_ident": "WIHH",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "122.05"
-        },
-        {
-            "id": "309331",
-            "airport_ref": "26832",
-            "airport_ident": "WIHH",
-            "type": "TWR",
-            "description": "Tower Secondary",
-            "frequency_mhz": "122.7"
-        }
-    ],
     "country": {
         "id": "302632",
         "code": "ID",

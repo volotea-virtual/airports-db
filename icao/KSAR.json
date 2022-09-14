@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "60102",
-            "airport_ref": "21034",
-            "airport_ident": "KSAR",
-            "type": "A/D",
-            "description": "ST LOUIS APP/DEP",
-            "frequency_mhz": "125.2"
-        },
-        {
-            "id": "60103",
-            "airport_ref": "21034",
-            "airport_ident": "KSAR",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "118.375"
-        },
-        {
-            "id": "60104",
-            "airport_ref": "21034",
-            "airport_ident": "KSAR",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

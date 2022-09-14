@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "56290",
-            "airport_ref": "4443",
-            "airport_ident": "LPCO",
-            "type": "AFIS",
-            "description": "RDO",
-            "frequency_mhz": "122.9"
-        }
-    ],
     "country": {
         "id": "302711",
         "code": "PT",

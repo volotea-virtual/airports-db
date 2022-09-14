@@ -41,48 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "58012",
-            "airport_ref": "5524",
-            "airport_ident": "RCQC",
-            "type": "ACC",
-            "description": "TAIPEI APP",
-            "frequency_mhz": "128.1"
-        },
-        {
-            "id": "58013",
-            "airport_ref": "5524",
-            "airport_ident": "RCQC",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "127.05"
-        },
-        {
-            "id": "58014",
-            "airport_ref": "5524",
-            "airport_ident": "RCQC",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "316837",
-            "airport_ref": "5524",
-            "airport_ident": "RCQC",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "126.3"
-        },
-        {
-            "id": "58015",
-            "airport_ref": "5524",
-            "airport_ident": "RCQC",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.3"
-        }
-    ],
     "country": {
         "id": "302668",
         "code": "TW",

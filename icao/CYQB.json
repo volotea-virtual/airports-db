@@ -63,64 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "50031",
-            "airport_ref": "1864",
-            "airport_ident": "CYQB",
-            "type": "A/D",
-            "description": "TRML CON",
-            "frequency_mhz": "124"
-        },
-        {
-            "id": "75313",
-            "airport_ref": "1864",
-            "airport_ident": "CYQB",
-            "type": "ATIS",
-            "description": "Atis French",
-            "frequency_mhz": "128.3"
-        },
-        {
-            "id": "50032",
-            "airport_ref": "1864",
-            "airport_ident": "CYQB",
-            "type": "ATIS",
-            "description": "Atis English",
-            "frequency_mhz": "134.6"
-        },
-        {
-            "id": "50033",
-            "airport_ref": "1864",
-            "airport_ident": "CYQB",
-            "type": "CNTR",
-            "description": "MONTREAL CNTR",
-            "frequency_mhz": "135.025"
-        },
-        {
-            "id": "50034",
-            "airport_ref": "1864",
-            "airport_ident": "CYQB",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "50035",
-            "airport_ref": "1864",
-            "airport_ident": "CYQB",
-            "type": "RDO",
-            "description": "RDO",
-            "frequency_mhz": "123.55"
-        },
-        {
-            "id": "50036",
-            "airport_ref": "1864",
-            "airport_ident": "CYQB",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.65"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

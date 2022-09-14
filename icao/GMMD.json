@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "329852",
-            "airport_ref": "29694",
-            "airport_ident": "GMMD",
-            "type": "GMMD",
-            "description": "AERODROME",
-            "frequency_mhz": "119"
-        }
-    ],
     "country": {
         "id": "302584",
         "code": "MA",

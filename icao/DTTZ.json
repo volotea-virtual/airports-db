@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "57805",
-            "airport_ref": "2142",
-            "airport_ident": "DTTZ",
-            "type": "APP",
-            "description": "TOZEUR APP",
-            "frequency_mhz": "120.7"
-        },
-        {
-            "id": "57806",
-            "airport_ref": "2142",
-            "airport_ident": "DTTZ",
-            "type": "TWR",
-            "description": "TOZEUR TWR",
-            "frequency_mhz": "118.2"
-        }
-    ],
     "country": {
         "id": "302606",
         "code": "TN",

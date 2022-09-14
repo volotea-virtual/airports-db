@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55401",
-            "airport_ref": "4702",
-            "airport_ident": "MMCT",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.9"
-        }
-    ],
     "country": {
         "id": "302747",
         "code": "MX",

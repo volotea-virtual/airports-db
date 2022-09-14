@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": "820"
         }
     ],
-    "freqs": [
-        {
-            "id": "53197",
-            "airport_ref": "2265",
-            "airport_ident": "EDRB",
-            "type": "AFIS",
-            "description": "LANGEN INFO",
-            "frequency_mhz": "123.525"
-        },
-        {
-            "id": "53198",
-            "airport_ref": "2265",
-            "airport_ident": "EDRB",
-            "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "118.7"
-        },
-        {
-            "id": "53199",
-            "airport_ref": "2265",
-            "airport_ident": "EDRB",
-            "type": "TWR",
-            "description": "SPANGDAHLEM TWR",
-            "frequency_mhz": "122.2"
-        }
-    ],
     "country": {
         "id": "302681",
         "code": "DE",

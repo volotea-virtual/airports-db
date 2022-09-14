@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "354001",
-            "airport_ref": "354000",
-            "airport_ident": "FR-0492",
-            "type": "Radio",
-            "description": "",
-            "frequency_mhz": "123.5"
-        }
-    ],
     "country": {
         "id": "302687",
         "code": "FR",

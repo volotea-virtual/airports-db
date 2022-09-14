@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "56924",
-            "airport_ref": "5129",
-            "airport_ident": "OEYN",
-            "type": "AFIS",
-            "description": "INFO",
-            "frequency_mhz": "118.1"
-        },
-        {
-            "id": "56925",
-            "airport_ref": "5129",
-            "airport_ident": "OEYN",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.8"
-        },
-        {
-            "id": "56926",
-            "airport_ref": "5129",
-            "airport_ident": "OEYN",
-            "type": "MISC",
-            "description": "FIRE RESCUE SVC",
-            "frequency_mhz": "133.5"
-        }
-    ],
     "country": {
         "id": "302660",
         "code": "SA",

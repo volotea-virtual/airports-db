@@ -17,16 +17,6 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Baledogle_Airfield",
     "keywords": "Wanlawayn Airport",
-    "freqs": [
-        {
-            "id": "323014",
-            "airport_ref": "308229",
-            "airport_ident": "SO-0002",
-            "type": "CTAF",
-            "description": "",
-            "frequency_mhz": "132.5"
-        }
-    ],
     "country": {
         "id": "302601",
         "code": "SO",

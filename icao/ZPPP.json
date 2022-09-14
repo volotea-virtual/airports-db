@@ -63,48 +63,6 @@
             "he_displaced_threshold_ft": "1644"
         }
     ],
-    "freqs": [
-        {
-            "id": "51266",
-            "airport_ref": "27214",
-            "airport_ident": "ZPPP",
-            "type": "APP",
-            "description": "KUNMING APP",
-            "frequency_mhz": "124.22"
-        },
-        {
-            "id": "51267",
-            "airport_ref": "27214",
-            "airport_ident": "ZPPP",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "128.45"
-        },
-        {
-            "id": "51268",
-            "airport_ref": "27214",
-            "airport_ident": "ZPPP",
-            "type": "GND",
-            "description": "KUNMING GND",
-            "frequency_mhz": "121.85"
-        },
-        {
-            "id": "51269",
-            "airport_ref": "27214",
-            "airport_ident": "ZPPP",
-            "type": "TWR",
-            "description": "KUNMING TWR",
-            "frequency_mhz": "118.1"
-        },
-        {
-            "id": "314905",
-            "airport_ref": "27214",
-            "airport_ident": "ZPPP",
-            "type": "TWR",
-            "description": "",
-            "frequency_mhz": "118.85"
-        }
-    ],
     "country": {
         "id": "302627",
         "code": "CN",

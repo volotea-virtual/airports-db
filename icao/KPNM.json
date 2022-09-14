@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "68476",
-            "airport_ref": "20851",
-            "airport_ident": "KPNM",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "119.025"
-        },
-        {
-            "id": "68477",
-            "airport_ref": "20851",
-            "airport_ident": "KPNM",
-            "type": "CNTR",
-            "description": "MINNEAPOLIS CNTR",
-            "frequency_mhz": "121.05"
-        },
-        {
-            "id": "68478",
-            "airport_ref": "20851",
-            "airport_ident": "KPNM",
-            "type": "RDO",
-            "description": "RDO",
-            "frequency_mhz": "122.2"
-        },
-        {
-            "id": "68479",
-            "airport_ref": "20851",
-            "airport_ident": "KPNM",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

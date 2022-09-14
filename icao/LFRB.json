@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": "984"
         }
     ],
-    "freqs": [
-        {
-            "id": "52335",
-            "airport_ref": "4206",
-            "airport_ident": "LFRB",
-            "type": "APP",
-            "description": "LANDI APP",
-            "frequency_mhz": "122.4"
-        },
-        {
-            "id": "52334",
-            "airport_ref": "4206",
-            "airport_ident": "LFRB",
-            "type": "APP",
-            "description": "IROISE APP",
-            "frequency_mhz": "135.825"
-        },
-        {
-            "id": "52336",
-            "airport_ref": "4206",
-            "airport_ident": "LFRB",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "129.35"
-        },
-        {
-            "id": "52337",
-            "airport_ref": "4206",
-            "airport_ident": "LFRB",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "120.1"
-        }
-    ],
     "country": {
         "id": "302687",
         "code": "FR",

@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "57429",
-            "airport_ref": "2669",
-            "airport_ident": "ESMS",
-            "type": "APP",
-            "description": "MALMO CON",
-            "frequency_mhz": "135.9"
-        },
-        {
-            "id": "57430",
-            "airport_ref": "2669",
-            "airport_ident": "ESMS",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "129.275"
-        },
-        {
-            "id": "57431",
-            "airport_ref": "2669",
-            "airport_ident": "ESMS",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.8"
-        }
-    ],
     "country": {
         "id": "302715",
         "code": "SE",

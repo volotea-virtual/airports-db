@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "315259",
-            "airport_ref": "44865",
-            "airport_ident": "URRT",
-            "type": "APP",
-            "description": "ISTRA",
-            "frequency_mhz": "124"
-        },
-        {
-            "id": "315260",
-            "airport_ref": "44865",
-            "airport_ident": "URRT",
-            "type": "APP",
-            "description": "GRANIT",
-            "frequency_mhz": "130.2"
-        }
-    ],
     "country": {
         "id": "302714",
         "code": "RU",

@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "58071",
-            "airport_ref": "3257",
-            "airport_ident": "HTMW",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "123.1"
-        },
-        {
-            "id": "58072",
-            "airport_ref": "3257",
-            "airport_ident": "HTMW",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "123.1"
-        }
-    ],
     "country": {
         "id": "302607",
         "code": "TZ",

@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "321532",
-            "airport_ref": "28707",
-            "airport_ident": "EDQP",
-            "type": "INFO",
-            "description": "ROSENTHAL INFO",
-            "frequency_mhz": "127.45"
-        }
-    ],
     "country": {
         "id": "302681",
         "code": "DE",

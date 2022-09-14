@@ -3,8 +3,8 @@
     "ident": "KTOC",
     "type": "small_airport",
     "name": "Toccoa Airport - R.G. Letourneau Field",
-    "latitude_deg": "34.59379959",
-    "longitude_deg": "-83.29579926",
+    "latitude_deg": "34.5938",
+    "longitude_deg": "-83.295799",
     "elevation_ft": "996",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "TOC",
     "home_link": "http://www.stephenscountyga.com/airport.cfm?lid=249",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Toccoa_Airport",
-    "keywords": "",
+    "keywords": "Stephens County",
     "runways": [
         {
             "id": "242083",
@@ -61,24 +61,6 @@
             "he_elevation_ft": "948",
             "he_heading_degT": "268",
             "he_displaced_threshold_ft": ""
-        }
-    ],
-    "freqs": [
-        {
-            "id": "63174",
-            "airport_ref": "21211",
-            "airport_ident": "KTOC",
-            "type": "CNTR",
-            "description": "ATLANTA CNTR",
-            "frequency_mhz": "134.8"
-        },
-        {
-            "id": "63175",
-            "airport_ref": "21211",
-            "airport_ident": "KTOC",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
         }
     ],
     "country": {

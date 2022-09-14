@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": "16"
         }
     ],
-    "freqs": [
-        {
-            "id": "48478",
-            "airport_ref": "27098",
-            "airport_ident": "YPAM",
-            "type": "APP",
-            "description": "TOWNSVILLE APP",
-            "frequency_mhz": "126.8"
-        },
-        {
-            "id": "48479",
-            "airport_ref": "27098",
-            "airport_ident": "YPAM",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "126.7"
-        },
-        {
-            "id": "48480",
-            "airport_ref": "27098",
-            "airport_ident": "YPAM",
-            "type": "FSS",
-            "description": "BRISBANE CNTR",
-            "frequency_mhz": "120.55"
-        }
-    ],
     "country": {
         "id": "302764",
         "code": "AU",

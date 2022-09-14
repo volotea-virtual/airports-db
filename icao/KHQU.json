@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": "200"
         }
     ],
-    "freqs": [
-        {
-            "id": "64134",
-            "airport_ref": "20077",
-            "airport_ident": "KHQU",
-            "type": "A/D",
-            "description": "AUGUSTA APP/DEP",
-            "frequency_mhz": "126.8"
-        },
-        {
-            "id": "64135",
-            "airport_ref": "20077",
-            "airport_ident": "KHQU",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "120.625"
-        },
-        {
-            "id": "64136",
-            "airport_ref": "20077",
-            "airport_ident": "KHQU",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

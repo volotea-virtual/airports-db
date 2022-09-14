@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "320098",
-            "airport_ref": "315884",
-            "airport_ident": "IT-0113",
-            "type": "Info",
-            "description": "Caorle Radio",
-            "frequency_mhz": "118.125"
-        }
-    ],
     "country": {
         "id": "302697",
         "code": "IT",

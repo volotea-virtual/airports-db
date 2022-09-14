@@ -107,24 +107,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "58100",
-            "airport_ref": "2407",
-            "airport_ident": "EGDO",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "134.05"
-        },
-        {
-            "id": "58101",
-            "airport_ref": "2407",
-            "airport_ident": "EGDO",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "122.1"
-        }
-    ],
     "country": {
         "id": "302688",
         "code": "GB",

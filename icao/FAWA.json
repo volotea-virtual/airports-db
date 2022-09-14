@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "299850",
-            "airport_ref": "27298",
-            "airport_ident": "FAWA",
-            "type": "CTAF",
-            "description": "Bella Bella Traffic",
-            "frequency_mhz": "124.8"
-        }
-    ],
     "country": {
         "id": "302610",
         "code": "ZA",

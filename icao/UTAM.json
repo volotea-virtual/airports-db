@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "58054",
-            "airport_ref": "26382",
-            "airport_ident": "UTAM",
-            "type": "PMSV",
-            "description": "METEO",
-            "frequency_mhz": "128.3"
-        },
-        {
-            "id": "58055",
-            "airport_ref": "26382",
-            "airport_ident": "UTAM",
-            "type": "RDR",
-            "description": "RADAR",
-            "frequency_mhz": "124"
-        },
-        {
-            "id": "58056",
-            "airport_ref": "26382",
-            "airport_ident": "UTAM",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "122.2"
-        }
-    ],
     "country": {
         "id": "302666",
         "code": "TM",

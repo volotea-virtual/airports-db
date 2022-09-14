@@ -3,12 +3,12 @@
     "ident": "LETL",
     "type": "medium_airport",
     "name": "Teruel Airport",
-    "latitude_deg": "40.403",
-    "longitude_deg": "-1.2183",
+    "latitude_deg": "40.410269",
+    "longitude_deg": "-1.217366",
     "elevation_ft": "3380",
     "continent": "EU",
     "iso_country": "ES",
-    "iso_region": "ES-AR",
+    "iso_region": "ES-TE",
     "municipality": "Teruel",
     "scheduled_service": "no",
     "gps_code": "LETL",
@@ -50,13 +50,13 @@
         "keywords": "Aeropuertos de España"
     },
     "region": {
-        "id": "303730",
-        "code": "ES-AR",
-        "local_code": "AR",
-        "name": "Aragón",
+        "id": "303779",
+        "code": "ES-TE",
+        "local_code": "TE",
+        "name": "Teruel",
         "continent": "EU",
         "iso_country": "ES",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Aragón",
-        "keywords": "Airports in Aragón"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Teruel",
+        "keywords": "Airports in Teruel"
     }
 }

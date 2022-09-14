@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55106",
-            "airport_ref": "5220",
-            "airport_ident": "OKBK",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "121.3"
-        },
-        {
-            "id": "55107",
-            "airport_ref": "5220",
-            "airport_ident": "OKBK",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "126.225"
-        },
-        {
-            "id": "55108",
-            "airport_ref": "5220",
-            "airport_ident": "OKBK",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.7"
-        },
-        {
-            "id": "55109",
-            "airport_ref": "5220",
-            "airport_ident": "OKBK",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.3"
-        }
-    ],
     "country": {
         "id": "302644",
         "code": "KW",

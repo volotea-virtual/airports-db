@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "311251",
-            "airport_ref": "311250",
-            "airport_ident": "YPYA",
-            "type": "CTAF",
-            "description": "Palmyra Traffic",
-            "frequency_mhz": "126.7"
-        }
-    ],
     "country": {
         "id": "302764",
         "code": "AU",

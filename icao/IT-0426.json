@@ -17,16 +17,6 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
-    "freqs": [
-        {
-            "id": "331163",
-            "airport_ref": "320233",
-            "airport_ident": "IT-0426",
-            "type": "UNICOM",
-            "description": "Tetti Radio",
-            "frequency_mhz": "130"
-        }
-    ],
     "country": {
         "id": "302697",
         "code": "IT",

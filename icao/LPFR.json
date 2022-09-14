@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": "148"
         }
     ],
-    "freqs": [
-        {
-            "id": "56331",
-            "airport_ref": "4448",
-            "airport_ident": "LPFR",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "119.4"
-        },
-        {
-            "id": "56332",
-            "airport_ref": "4448",
-            "airport_ident": "LPFR",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "124.2"
-        },
-        {
-            "id": "56333",
-            "airport_ref": "4448",
-            "airport_ident": "LPFR",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "118.575"
-        },
-        {
-            "id": "56334",
-            "airport_ref": "4448",
-            "airport_ident": "LPFR",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.2"
-        }
-    ],
     "country": {
         "id": "302711",
         "code": "PT",

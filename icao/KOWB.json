@@ -63,56 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "66941",
-            "airport_ref": "3761",
-            "airport_ident": "KOWB",
-            "type": "A/D",
-            "description": "EVANSVILLE APP/DEP",
-            "frequency_mhz": "126.4"
-        },
-        {
-            "id": "66942",
-            "airport_ref": "3761",
-            "airport_ident": "KOWB",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "120.7"
-        },
-        {
-            "id": "66943",
-            "airport_ref": "3761",
-            "airport_ident": "KOWB",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.7"
-        },
-        {
-            "id": "66944",
-            "airport_ref": "3761",
-            "airport_ident": "KOWB",
-            "type": "RDO",
-            "description": "LOUISVILLE RDO",
-            "frequency_mhz": "108.6"
-        },
-        {
-            "id": "66945",
-            "airport_ref": "3761",
-            "airport_ident": "KOWB",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "120.7"
-        },
-        {
-            "id": "66946",
-            "airport_ref": "3761",
-            "airport_ident": "KOWB",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.95"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

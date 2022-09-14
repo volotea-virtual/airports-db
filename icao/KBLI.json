@@ -41,64 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "68790",
-            "airport_ref": "3416",
-            "airport_ident": "KBLI",
-            "type": "A/D",
-            "description": "VICTORIA APP/DEP",
-            "frequency_mhz": "132.7"
-        },
-        {
-            "id": "68791",
-            "airport_ref": "3416",
-            "airport_ident": "KBLI",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "134.45"
-        },
-        {
-            "id": "68792",
-            "airport_ref": "3416",
-            "airport_ident": "KBLI",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "124.9"
-        },
-        {
-            "id": "68793",
-            "airport_ref": "3416",
-            "airport_ident": "KBLI",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "127.4"
-        },
-        {
-            "id": "68794",
-            "airport_ref": "3416",
-            "airport_ident": "KBLI",
-            "type": "RDO",
-            "description": "SEATTLE RDO",
-            "frequency_mhz": "122.15"
-        },
-        {
-            "id": "68795",
-            "airport_ref": "3416",
-            "airport_ident": "KBLI",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "124.9"
-        },
-        {
-            "id": "68796",
-            "airport_ref": "3416",
-            "airport_ident": "KBLI",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.95"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

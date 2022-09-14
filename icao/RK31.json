@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55075",
-            "airport_ref": "3813",
-            "airport_ident": "RK31",
-            "type": "ACC",
-            "description": "FCC SUN",
-            "frequency_mhz": "32.3"
-        }
-    ],
     "country": {
         "id": "302643",
         "code": "KR",

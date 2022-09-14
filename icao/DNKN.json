@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55703",
-            "airport_ref": "2115",
-            "airport_ident": "DNKN",
-            "type": "APP",
-            "description": "KANO APP",
-            "frequency_mhz": "124.1"
-        },
-        {
-            "id": "55704",
-            "airport_ref": "2115",
-            "airport_ident": "DNKN",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "123.6"
-        },
-        {
-            "id": "55705",
-            "airport_ref": "2115",
-            "airport_ident": "DNKN",
-            "type": "TWR",
-            "description": "KANO TWR",
-            "frequency_mhz": "118.1"
-        }
-    ],
     "country": {
         "id": "302593",
         "code": "NG",

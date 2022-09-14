@@ -41,48 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55895",
-            "airport_ref": "6404",
-            "airport_ident": "TNCC",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "119.6"
-        },
-        {
-            "id": "55896",
-            "airport_ref": "6404",
-            "airport_ident": "TNCC",
-            "type": "MISC",
-            "description": "CATS SVC",
-            "frequency_mhz": "131.8"
-        },
-        {
-            "id": "55897",
-            "airport_ref": "6404",
-            "airport_ident": "TNCC",
-            "type": "OPS",
-            "description": "DUTCH OPS CALL HO",
-            "frequency_mhz": "24.02"
-        },
-        {
-            "id": "55898",
-            "airport_ref": "6404",
-            "airport_ident": "TNCC",
-            "type": "POST",
-            "description": "IGUANA OPS",
-            "frequency_mhz": "25"
-        },
-        {
-            "id": "55899",
-            "airport_ref": "6404",
-            "airport_ident": "TNCC",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.3"
-        }
-    ],
     "country": {
         "id": "302762",
         "code": "CW",

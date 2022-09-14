@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "65988",
-            "airport_ref": "20784",
-            "airport_ident": "KOXI",
-            "type": "A/D",
-            "description": "SOUTH BEND APP/DEP",
-            "frequency_mhz": "132.05"
-        },
-        {
-            "id": "65989",
-            "airport_ref": "20784",
-            "airport_ident": "KOXI",
-            "type": "RDO",
-            "description": "TERRE HAUTE RDO",
-            "frequency_mhz": "115.6"
-        },
-        {
-            "id": "65990",
-            "airport_ref": "20784",
-            "airport_ident": "KOXI",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

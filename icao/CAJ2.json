@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "75249",
-            "airport_ref": "622",
-            "airport_ident": "CAJ2",
-            "type": "ATF",
-            "description": "Wiley Traffic",
-            "frequency_mhz": "123.2"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

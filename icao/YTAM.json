@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "74612",
-            "airport_ref": "27974",
-            "airport_ident": "YTAM",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "112.8"
-        },
-        {
-            "id": "74615",
-            "airport_ref": "27974",
-            "airport_ident": "YTAM",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "122.4"
-        },
-        {
-            "id": "74613",
-            "airport_ref": "27974",
-            "airport_ident": "YTAM",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "125.1"
-        },
-        {
-            "id": "74614",
-            "airport_ref": "27974",
-            "airport_ident": "YTAM",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "126"
-        }
-    ],
     "country": {
         "id": "302764",
         "code": "AU",

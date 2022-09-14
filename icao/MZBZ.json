@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "49430",
-            "airport_ref": "4956",
-            "airport_ident": "MZBZ",
-            "type": "APP",
-            "description": "BELIZE APP",
-            "frequency_mhz": "121"
-        },
-        {
-            "id": "49431",
-            "airport_ref": "4956",
-            "airport_ident": "MZBZ",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "49432",
-            "airport_ref": "4956",
-            "airport_ident": "MZBZ",
-            "type": "RDO",
-            "description": "BELIZE RDO",
-            "frequency_mhz": "126.9"
-        },
-        {
-            "id": "49433",
-            "airport_ref": "4956",
-            "airport_ident": "MZBZ",
-            "type": "TWR",
-            "description": "BELIZE TWR",
-            "frequency_mhz": "118"
-        }
-    ],
     "country": {
         "id": "302729",
         "code": "BZ",

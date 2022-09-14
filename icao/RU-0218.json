@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "317073",
-            "airport_ref": "44912",
-            "airport_ident": "RU-0218",
-            "type": "Tower",
-            "description": "Kaplya Start",
-            "frequency_mhz": "124.1"
-        }
-    ],
     "country": {
         "id": "302714",
         "code": "RU",

@@ -63,16 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "321437",
-            "airport_ref": "28986",
-            "airport_ident": "LFQN",
-            "type": "Info",
-            "description": "",
-            "frequency_mhz": "123.5"
-        }
-    ],
     "country": {
         "id": "302687",
         "code": "FR",

@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55469",
-            "airport_ref": "4700",
-            "airport_ident": "MMCP",
-            "type": "TWR",
-            "description": "CAMPECHE TWR",
-            "frequency_mhz": "118.5"
-        }
-    ],
     "country": {
         "id": "302747",
         "code": "MX",

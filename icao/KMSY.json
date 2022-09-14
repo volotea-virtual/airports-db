@@ -85,56 +85,6 @@
             "he_displaced_threshold_ft": "304"
         }
     ],
-    "freqs": [
-        {
-            "id": "71082",
-            "airport_ref": "3711",
-            "airport_ident": "KMSY",
-            "type": "A/D",
-            "description": "NEW ORLEANS APP/DEP",
-            "frequency_mhz": "123.85"
-        },
-        {
-            "id": "71083",
-            "airport_ref": "3711",
-            "airport_ident": "KMSY",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "127.55"
-        },
-        {
-            "id": "71084",
-            "airport_ref": "3711",
-            "airport_ident": "KMSY",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "127.2"
-        },
-        {
-            "id": "71085",
-            "airport_ref": "3711",
-            "airport_ident": "KMSY",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "71086",
-            "airport_ref": "3711",
-            "airport_ident": "KMSY",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "119.5"
-        },
-        {
-            "id": "71087",
-            "airport_ref": "3711",
-            "airport_ident": "KMSY",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.95"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

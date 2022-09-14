@@ -63,24 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "71867",
-            "airport_ref": "2894",
-            "airport_ident": "FLLS",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "121.3"
-        },
-        {
-            "id": "71868",
-            "airport_ref": "2894",
-            "airport_ident": "FLLS",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.1"
-        }
-    ],
     "country": {
         "id": "302611",
         "code": "ZM",

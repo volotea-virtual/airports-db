@@ -85,40 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "52786",
-            "airport_ref": "2729",
-            "airport_ident": "ETHS",
-            "type": "A/D",
-            "description": "RADAR",
-            "frequency_mhz": "38.54"
-        },
-        {
-            "id": "52785",
-            "airport_ref": "2729",
-            "airport_ident": "ETHS",
-            "type": "A/D",
-            "description": "RADAR",
-            "frequency_mhz": "122.425"
-        },
-        {
-            "id": "52787",
-            "airport_ref": "2729",
-            "airport_ident": "ETHS",
-            "type": "DIR",
-            "description": "HANNOVER DIR",
-            "frequency_mhz": "131.325"
-        },
-        {
-            "id": "52788",
-            "airport_ref": "2729",
-            "airport_ident": "ETHS",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "42.4"
-        }
-    ],
     "country": {
         "id": "302681",
         "code": "DE",

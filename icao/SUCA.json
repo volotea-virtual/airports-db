@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "324830",
-            "airport_ref": "30868",
-            "airport_ident": "SUCA",
-            "type": "MAIN",
-            "description": "Colonia Traffic",
-            "frequency_mhz": "120.8"
-        },
-        {
-            "id": "324831",
-            "airport_ref": "30868",
-            "airport_ident": "SUCA",
-            "type": "SECONDARY",
-            "description": "Colonia Traffic",
-            "frequency_mhz": "122.1"
-        }
-    ],
     "country": {
         "id": "302801",
         "code": "UY",

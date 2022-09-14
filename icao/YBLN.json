@@ -10,7 +10,7 @@
     "iso_country": "AU",
     "iso_region": "AU-WA",
     "municipality": "Busselton",
-    "scheduled_service": "no",
+    "scheduled_service": "yes",
     "gps_code": "YBLN",
     "iata_code": "BQB",
     "local_code": "",
@@ -39,24 +39,6 @@
             "he_elevation_ft": "55",
             "he_heading_degT": "206",
             "he_displaced_threshold_ft": ""
-        }
-    ],
-    "freqs": [
-        {
-            "id": "49213",
-            "airport_ref": "26915",
-            "airport_ident": "YBLN",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "126.7"
-        },
-        {
-            "id": "49214",
-            "airport_ref": "26915",
-            "airport_ident": "YBLN",
-            "type": "FSS",
-            "description": "MELBOURNE CNTR",
-            "frequency_mhz": "124.9"
         }
     ],
     "country": {

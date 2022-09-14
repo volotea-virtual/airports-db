@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "69311",
-            "airport_ref": "25251",
-            "airport_ident": "UT08",
-            "type": "A/D",
-            "description": "SALT LAKE CITY APP",
-            "frequency_mhz": "124.3"
-        },
-        {
-            "id": "69312",
-            "airport_ref": "25251",
-            "airport_ident": "UT08",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "49.65"
-        },
-        {
-            "id": "69313",
-            "airport_ref": "25251",
-            "airport_ident": "UT08",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "126.2"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

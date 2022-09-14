@@ -3,8 +3,8 @@
     "ident": "WV09",
     "type": "small_airport",
     "name": "Mike Ferrell Field",
-    "latitude_deg": "37.55870056152344",
-    "longitude_deg": "-81.35070037841797",
+    "latitude_deg": "37.55889",
+    "longitude_deg": "-81.350616",
     "elevation_ft": "2220",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "WV09",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Perry and Hylton",
     "runways": [
         {
             "id": "249435",

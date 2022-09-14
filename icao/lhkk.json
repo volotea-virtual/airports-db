@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "300363",
-            "airport_ref": "46653",
-            "airport_ident": "lhkk",
-            "type": "Unicom",
-            "description": "Lacháza INFO",
-            "frequency_mhz": "124.025"
-        },
-        {
-            "id": "300364",
-            "airport_ref": "46653",
-            "airport_ident": "lhkk",
-            "type": "Unicom",
-            "description": "Lacháza INFO",
-            "frequency_mhz": "124.025"
-        }
-    ],
     "country": {
         "id": "302693",
         "code": "HU",

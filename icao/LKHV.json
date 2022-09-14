@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": "200"
         }
     ],
-    "freqs": [
-        {
-            "id": "313582",
-            "airport_ref": "4396",
-            "airport_ident": "LKHV",
-            "type": "Center",
-            "description": "Prague / Praha Center",
-            "frequency_mhz": "127.125"
-        },
-        {
-            "id": "52002",
-            "airport_ref": "4396",
-            "airport_ident": "LKHV",
-            "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "122.6"
-        },
-        {
-            "id": "333134",
-            "airport_ref": "4396",
-            "airport_ident": "LKHV",
-            "type": "RADIO",
-            "description": "",
-            "frequency_mhz": "135.58"
-        },
-        {
-            "id": "313581",
-            "airport_ref": "4396",
-            "airport_ident": "LKHV",
-            "type": "Tower",
-            "description": "LKHV Tower",
-            "frequency_mhz": "135.575"
-        }
-    ],
     "country": {
         "id": "302680",
         "code": "CZ",

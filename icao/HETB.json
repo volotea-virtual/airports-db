@@ -85,40 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51892",
-            "airport_ref": "3200",
-            "airport_ident": "HETB",
-            "type": "APP",
-            "description": "RADAR",
-            "frequency_mhz": "122.8"
-        },
-        {
-            "id": "51893",
-            "airport_ref": "3200",
-            "airport_ident": "HETB",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "51894",
-            "airport_ref": "3200",
-            "airport_ident": "HETB",
-            "type": "RDO",
-            "description": "RDO",
-            "frequency_mhz": "579"
-        },
-        {
-            "id": "51895",
-            "airport_ref": "3200",
-            "airport_ident": "HETB",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "120.3"
-        }
-    ],
     "country": {
         "id": "302569",
         "code": "EG",

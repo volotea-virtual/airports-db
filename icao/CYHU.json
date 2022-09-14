@@ -85,64 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "50832",
-            "airport_ref": "1768",
-            "airport_ident": "CYHU",
-            "type": "A/G",
-            "description": "MF",
-            "frequency_mhz": "118.4"
-        },
-        {
-            "id": "50833",
-            "airport_ref": "1768",
-            "airport_ident": "CYHU",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "124.9"
-        },
-        {
-            "id": "50834",
-            "airport_ref": "1768",
-            "airport_ident": "CYHU",
-            "type": "CNTR",
-            "description": "MONTREAL CNTR",
-            "frequency_mhz": "125.15"
-        },
-        {
-            "id": "50835",
-            "airport_ref": "1768",
-            "airport_ident": "CYHU",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "126.4"
-        },
-        {
-            "id": "50836",
-            "airport_ref": "1768",
-            "airport_ident": "CYHU",
-            "type": "INFO",
-            "description": "VFR ADVSY",
-            "frequency_mhz": "134.15"
-        },
-        {
-            "id": "50837",
-            "airport_ref": "1768",
-            "airport_ident": "CYHU",
-            "type": "RDO",
-            "description": "QUEBEC RDO",
-            "frequency_mhz": "118.4"
-        },
-        {
-            "id": "50838",
-            "airport_ref": "1768",
-            "airport_ident": "CYHU",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.4"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

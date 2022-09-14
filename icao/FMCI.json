@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51395",
-            "airport_ref": "2902",
-            "airport_ident": "FMCI",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "119.7"
-        }
-    ],
     "country": {
         "id": "302580",
         "code": "KM",

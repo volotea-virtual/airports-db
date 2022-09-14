@@ -63,56 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "58756",
-            "airport_ref": "3525",
-            "airport_ident": "KFAY",
-            "type": "A/D",
-            "description": "APP/DEP",
-            "frequency_mhz": "125.175"
-        },
-        {
-            "id": "58757",
-            "airport_ref": "3525",
-            "airport_ident": "KFAY",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "121.25"
-        },
-        {
-            "id": "58758",
-            "airport_ref": "3525",
-            "airport_ident": "KFAY",
-            "type": "GCA",
-            "description": "GND",
-            "frequency_mhz": "121.7"
-        },
-        {
-            "id": "58759",
-            "airport_ref": "3525",
-            "airport_ident": "KFAY",
-            "type": "RDO",
-            "description": "RALEIGH RDO",
-            "frequency_mhz": "25.54"
-        },
-        {
-            "id": "58760",
-            "airport_ref": "3525",
-            "airport_ident": "KFAY",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.3"
-        },
-        {
-            "id": "58761",
-            "airport_ref": "3525",
-            "airport_ident": "KFAY",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.95"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

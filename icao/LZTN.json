@@ -63,24 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55186",
-            "airport_ref": "4622",
-            "airport_ident": "LZTN",
-            "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "120.75"
-        },
-        {
-            "id": "55187",
-            "airport_ref": "4622",
-            "airport_ident": "LZTN",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "120.75"
-        }
-    ],
     "country": {
         "id": "302717",
         "code": "SK",

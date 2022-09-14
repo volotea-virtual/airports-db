@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": "263"
         }
     ],
-    "freqs": [
-        {
-            "id": "54874",
-            "airport_ref": "4972",
-            "airport_ident": "NGTA",
-            "type": "AFIS",
-            "description": "FSS",
-            "frequency_mhz": "118.1"
-        },
-        {
-            "id": "54875",
-            "airport_ref": "4972",
-            "airport_ident": "NGTA",
-            "type": "CTAF",
-            "description": "TARAWA RDO",
-            "frequency_mhz": "118.1"
-        },
-        {
-            "id": "54876",
-            "airport_ref": "4972",
-            "airport_ident": "NGTA",
-            "type": "CTAF",
-            "description": "TARAWA RDO",
-            "frequency_mhz": "1133.9"
-        }
-    ],
     "country": {
         "id": "302769",
         "code": "KI",

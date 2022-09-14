@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55505",
-            "airport_ref": "4737",
-            "airport_ident": "MMPA",
-            "type": "AFIS",
-            "description": "POZA RICA INFO",
-            "frequency_mhz": "118.9"
-        }
-    ],
     "country": {
         "id": "302747",
         "code": "MX",

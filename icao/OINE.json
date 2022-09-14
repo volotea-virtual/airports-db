@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "54073",
-            "airport_ref": "5187",
-            "airport_ident": "OINE",
-            "type": "AFIS",
-            "description": "AFIS",
-            "frequency_mhz": "121.9"
-        }
-    ],
     "country": {
         "id": "302637",
         "code": "IR",

@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": "230"
         }
     ],
-    "freqs": [
-        {
-            "id": "315709",
-            "airport_ref": "315707",
-            "airport_ident": "SK-0001",
-            "type": "TWR",
-            "description": "Sliac TWR is necessary to call",
-            "frequency_mhz": "122.9"
-        }
-    ],
     "country": {
         "id": "302717",
         "code": "SK",

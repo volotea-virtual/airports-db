@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55435",
-            "airport_ref": "4699",
-            "airport_ident": "MMCN",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "121.3"
-        },
-        {
-            "id": "55436",
-            "airport_ref": "4699",
-            "airport_ident": "MMCN",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "127.6"
-        },
-        {
-            "id": "55437",
-            "airport_ref": "4699",
-            "airport_ident": "MMCN",
-            "type": "TWR",
-            "description": "OBREGON TWR",
-            "frequency_mhz": "118.3"
-        }
-    ],
     "country": {
         "id": "302747",
         "code": "MX",

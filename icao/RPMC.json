@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": "198"
         }
     ],
-    "freqs": [
-        {
-            "id": "56502",
-            "airport_ref": "5696",
-            "airport_ident": "RPMC",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "113.7"
-        },
-        {
-            "id": "56503",
-            "airport_ref": "5696",
-            "airport_ident": "RPMC",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.7"
-        }
-    ],
     "country": {
         "id": "302656",
         "code": "PH",

@@ -3,15 +3,15 @@
     "ident": "KI16",
     "type": "small_airport",
     "name": "Kee Field",
-    "latitude_deg": "37.600399017333984",
-    "longitude_deg": "-81.5593032836914",
+    "latitude_deg": "37.600399",
+    "longitude_deg": "-81.559303",
     "elevation_ft": "1783",
     "continent": "NA",
     "iso_country": "US",
     "iso_region": "US-WV",
     "municipality": "Pineville",
     "scheduled_service": "no",
-    "gps_code": "KI16",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "I16",
     "home_link": "",
@@ -39,40 +39,6 @@
             "he_elevation_ft": "1783",
             "he_heading_degT": "250",
             "he_displaced_threshold_ft": "590"
-        }
-    ],
-    "freqs": [
-        {
-            "id": "68503",
-            "airport_ref": "20121",
-            "airport_ident": "KI16",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "120.625"
-        },
-        {
-            "id": "68504",
-            "airport_ref": "20121",
-            "airport_ident": "KI16",
-            "type": "CNTR",
-            "description": "INDIANAPOLIS CNTR",
-            "frequency_mhz": "126.575"
-        },
-        {
-            "id": "68505",
-            "airport_ref": "20121",
-            "airport_ident": "KI16",
-            "type": "RDO",
-            "description": "ELKINS RDO",
-            "frequency_mhz": "117.7"
-        },
-        {
-            "id": "68506",
-            "airport_ref": "20121",
-            "airport_ident": "KI16",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
         }
     ],
     "country": {

@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "66795",
-            "airport_ref": "20623",
-            "airport_ident": "KN79",
-            "type": "A/D",
-            "description": "HARRISBURG APP/DEP",
-            "frequency_mhz": "118.25"
-        },
-        {
-            "id": "66796",
-            "airport_ref": "20623",
-            "airport_ident": "KN79",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "119.175"
-        },
-        {
-            "id": "66797",
-            "airport_ref": "20623",
-            "airport_ident": "KN79",
-            "type": "RDO",
-            "description": "WILLIAMSPORT RDO",
-            "frequency_mhz": "110.4"
-        },
-        {
-            "id": "66798",
-            "airport_ref": "20623",
-            "airport_ident": "KN79",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

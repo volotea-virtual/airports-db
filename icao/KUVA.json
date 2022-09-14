@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "59737",
-            "airport_ref": "21307",
-            "airport_ident": "KUVA",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "124.175"
-        },
-        {
-            "id": "59738",
-            "airport_ref": "21307",
-            "airport_ident": "KUVA",
-            "type": "CNTR",
-            "description": "HOUSTON CNTR",
-            "frequency_mhz": "134.95"
-        },
-        {
-            "id": "59739",
-            "airport_ref": "21307",
-            "airport_ident": "KUVA",
-            "type": "RDO",
-            "description": "SAN ANGELO RDO",
-            "frequency_mhz": "123.65"
-        },
-        {
-            "id": "59740",
-            "airport_ref": "21307",
-            "airport_ident": "KUVA",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

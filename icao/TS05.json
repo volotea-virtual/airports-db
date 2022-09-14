@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "61221",
-            "airport_ref": "25022",
-            "airport_ident": "TS05",
-            "type": "CNTR",
-            "description": "HOUSTON CNTR",
-            "frequency_mhz": "126.625"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

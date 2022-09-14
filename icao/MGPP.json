@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "307208",
-            "airport_ref": "32170",
-            "airport_ident": "MGPP",
-            "type": "126.5",
-            "description": "",
-            "frequency_mhz": "126.5"
-        }
-    ],
     "country": {
         "id": "302738",
         "code": "GT",

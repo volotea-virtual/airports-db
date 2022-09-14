@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51959",
-            "airport_ref": "2300",
-            "airport_ident": "EEPU",
-            "type": "AFIS",
-            "description": "AFIS",
-            "frequency_mhz": "132"
-        }
-    ],
     "country": {
         "id": "302683",
         "code": "EE",

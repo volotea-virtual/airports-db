@@ -63,24 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "48375",
-            "airport_ref": "5800",
-            "airport_ident": "SAOR",
-            "type": "RDO",
-            "description": "REYNOLDS RDO",
-            "frequency_mhz": "122.1"
-        },
-        {
-            "id": "48376",
-            "airport_ref": "5800",
-            "airport_ident": "SAOR",
-            "type": "TWR",
-            "description": "REYNOLDS TWR",
-            "frequency_mhz": "119.3"
-        }
-    ],
     "country": {
         "id": "302789",
         "code": "AR",

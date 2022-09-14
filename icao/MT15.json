@@ -63,16 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "59726",
-            "airport_ref": "22413",
-            "airport_ident": "MT15",
-            "type": "OPS",
-            "description": "HELENA ARNG OPS",
-            "frequency_mhz": "40.65"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "49493",
-            "airport_ref": "26717",
-            "airport_ident": "VYEL",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.7"
-        }
-    ],
     "country": {
         "id": "302649",
         "code": "MM",

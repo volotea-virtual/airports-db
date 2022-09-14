@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "62462",
-            "airport_ref": "20587",
-            "airport_ident": "KMXO",
-            "type": "A/D",
-            "description": "CEDAR RAPIDS APP/DEP",
-            "frequency_mhz": "134.05"
-        },
-        {
-            "id": "62463",
-            "airport_ref": "20587",
-            "airport_ident": "KMXO",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "119.275"
-        },
-        {
-            "id": "62464",
-            "airport_ref": "20587",
-            "airport_ident": "KMXO",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

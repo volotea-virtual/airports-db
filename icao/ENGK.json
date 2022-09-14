@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "75332",
-            "airport_ref": "29927",
-            "airport_ident": "ENGK",
-            "type": "UNIC",
-            "description": "Gullknapp Traffic",
-            "frequency_mhz": "123.5"
-        }
-    ],
     "country": {
         "id": "302709",
         "code": "NO",

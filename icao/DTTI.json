@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "57799",
-            "airport_ref": "2138",
-            "airport_ident": "DTTI",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "123"
-        }
-    ],
     "country": {
         "id": "302606",
         "code": "TN",

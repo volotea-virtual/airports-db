@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "75352",
-            "airport_ref": "29284",
-            "airport_ident": "ENVD",
-            "type": "INFO",
-            "description": "Vadsø",
-            "frequency_mhz": "120.2"
-        }
-    ],
     "country": {
         "id": "302709",
         "code": "NO",

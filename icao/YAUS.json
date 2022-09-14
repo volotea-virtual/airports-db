@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "72137",
-            "airport_ref": "27347",
-            "airport_ident": "YAUS",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.4"
-        },
-        {
-            "id": "72138",
-            "airport_ref": "27347",
-            "airport_ident": "YAUS",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "113.9"
-        },
-        {
-            "id": "72139",
-            "airport_ref": "27347",
-            "airport_ident": "YAUS",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "122.4"
-        }
-    ],
     "country": {
         "id": "302764",
         "code": "AU",

@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "68473",
-            "airport_ref": "20475",
-            "airport_ident": "KMBL",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "111.4"
-        },
-        {
-            "id": "68474",
-            "airport_ref": "20475",
-            "airport_ident": "KMBL",
-            "type": "RDO",
-            "description": "LANSING RDO",
-            "frequency_mhz": "111.4"
-        },
-        {
-            "id": "68475",
-            "airport_ref": "20475",
-            "airport_ident": "KMBL",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

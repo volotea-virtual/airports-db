@@ -63,64 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "71673",
-            "airport_ref": "6300",
-            "airport_ident": "SVMI",
-            "type": "APP",
-            "description": "MAIQUETIA APP",
-            "frequency_mhz": "120.1"
-        },
-        {
-            "id": "71674",
-            "airport_ref": "6300",
-            "airport_ident": "SVMI",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "132.95"
-        },
-        {
-            "id": "71675",
-            "airport_ref": "6300",
-            "airport_ident": "SVMI",
-            "type": "CLD",
-            "description": "CLD",
-            "frequency_mhz": "119.5"
-        },
-        {
-            "id": "71676",
-            "airport_ref": "6300",
-            "airport_ident": "SVMI",
-            "type": "DEP",
-            "description": "MAIQUETIA DEP",
-            "frequency_mhz": "120.1"
-        },
-        {
-            "id": "71677",
-            "airport_ref": "6300",
-            "airport_ident": "SVMI",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "71678",
-            "airport_ref": "6300",
-            "airport_ident": "SVMI",
-            "type": "RDO",
-            "description": "MAIQUETIA RDO",
-            "frequency_mhz": "130.1"
-        },
-        {
-            "id": "71679",
-            "airport_ref": "6300",
-            "airport_ident": "SVMI",
-            "type": "TWR",
-            "description": "MAIQUETIA TWR",
-            "frequency_mhz": "118.4"
-        }
-    ],
     "country": {
         "id": "302802",
         "code": "VE",

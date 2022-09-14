@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "60685",
-            "airport_ref": "20663",
-            "airport_ident": "KNVI",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "25"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

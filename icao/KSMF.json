@@ -63,64 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "69782",
-            "airport_ref": "3892",
-            "airport_ident": "KSMF",
-            "type": "A/D",
-            "description": "NORCAL APP/DEP",
-            "frequency_mhz": "25.91"
-        },
-        {
-            "id": "69781",
-            "airport_ref": "3892",
-            "airport_ident": "KSMF",
-            "type": "A/D",
-            "description": "NORCAL APP/DEP",
-            "frequency_mhz": "125.25"
-        },
-        {
-            "id": "69783",
-            "airport_ref": "3892",
-            "airport_ident": "KSMF",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "126.75"
-        },
-        {
-            "id": "69784",
-            "airport_ref": "3892",
-            "airport_ident": "KSMF",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "121.1"
-        },
-        {
-            "id": "69785",
-            "airport_ref": "3892",
-            "airport_ident": "KSMF",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.7"
-        },
-        {
-            "id": "69786",
-            "airport_ref": "3892",
-            "airport_ident": "KSMF",
-            "type": "TWR",
-            "description": "CAPITOL TWR",
-            "frequency_mhz": "125.7"
-        },
-        {
-            "id": "69787",
-            "airport_ref": "3892",
-            "airport_ident": "KSMF",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.95"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

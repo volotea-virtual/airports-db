@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": "98"
         }
     ],
-    "freqs": [
-        {
-            "id": "354097",
-            "airport_ref": "28717",
-            "airport_ident": "EDKR",
-            "type": "INFO",
-            "description": "Schmallenberg Info",
-            "frequency_mhz": "127.09"
-        }
-    ],
     "country": {
         "id": "302681",
         "code": "DE",

@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "56268",
-            "airport_ref": "4786",
-            "airport_ident": "MPBO",
-            "type": "ACC",
-            "description": "PANAMA CON",
-            "frequency_mhz": "133"
-        },
-        {
-            "id": "56269",
-            "airport_ref": "4786",
-            "airport_ident": "MPBO",
-            "type": "FSS",
-            "description": "PANAMA RDO",
-            "frequency_mhz": "135.2"
-        },
-        {
-            "id": "56270",
-            "airport_ref": "4786",
-            "airport_ident": "MPBO",
-            "type": "RDO",
-            "description": "RDO",
-            "frequency_mhz": "123.7"
-        }
-    ],
     "country": {
         "id": "302749",
         "code": "PA",

@@ -1,0 +1,38 @@
+{
+    "id": "356549",
+    "ident": "RS-0020",
+    "type": "small_airport",
+    "name": "Zimonić  (Ilonafalu) Gliderport",
+    "latitude_deg": "46.04404",
+    "longitude_deg": "19.98972",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "RS",
+    "iso_region": "RS-03",
+    "municipality": "Vojvoda Zimonić (Ilonafalu)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302713",
+        "code": "RS",
+        "name": "Serbia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Serbia",
+        "keywords": "Serb"
+    },
+    "region": {
+        "id": "306593",
+        "code": "RS-03",
+        "local_code": "03",
+        "name": "North Banat District",
+        "continent": "EU",
+        "iso_country": "RS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Banat_District",
+        "keywords": "Airports in North Banat District"
+    }
+}

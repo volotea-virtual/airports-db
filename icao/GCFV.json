@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": "1719"
         }
     ],
-    "freqs": [
-        {
-            "id": "57243",
-            "airport_ref": "3077",
-            "airport_ident": "GCFV",
-            "type": "APP",
-            "description": "CANARIAS APP",
-            "frequency_mhz": "129.3"
-        },
-        {
-            "id": "57244",
-            "airport_ref": "3077",
-            "airport_ident": "GCFV",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "118.65"
-        },
-        {
-            "id": "57245",
-            "airport_ref": "3077",
-            "airport_ident": "GCFV",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.7"
-        },
-        {
-            "id": "57246",
-            "airport_ref": "3077",
-            "airport_ident": "GCFV",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.5"
-        }
-    ],
     "country": {
         "id": "302684",
         "code": "ES",

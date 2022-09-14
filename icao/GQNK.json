@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55354",
-            "airport_ref": "3134",
-            "airport_ident": "GQNK",
-            "type": "AFIS",
-            "description": "INFO",
-            "frequency_mhz": "118.9"
-        }
-    ],
     "country": {
         "id": "302587",
         "code": "MR",

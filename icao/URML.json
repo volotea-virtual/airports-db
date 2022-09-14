@@ -63,24 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "56661",
-            "airport_ref": "6513",
-            "airport_ident": "URML",
-            "type": "APP",
-            "description": "MAKHACHKALA APP",
-            "frequency_mhz": "119.7"
-        },
-        {
-            "id": "56662",
-            "airport_ref": "6513",
-            "airport_ident": "URML",
-            "type": "TWR",
-            "description": "MAKHACHKALA TWR",
-            "frequency_mhz": "121.3"
-        }
-    ],
     "country": {
         "id": "302714",
         "code": "RU",

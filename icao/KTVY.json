@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "67433",
-            "airport_ref": "21236",
-            "airport_ident": "KTVY",
-            "type": "A/D",
-            "description": "APP/DEP",
-            "frequency_mhz": "124.4"
-        },
-        {
-            "id": "67434",
-            "airport_ref": "21236",
-            "airport_ident": "KTVY",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "119.725"
-        },
-        {
-            "id": "67435",
-            "airport_ref": "21236",
-            "airport_ident": "KTVY",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -85,32 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "52356",
-            "airport_ref": "4151",
-            "airport_ident": "LFMD",
-            "type": "ATIS",
-            "description": "CANNES ATIS",
-            "frequency_mhz": "127.475"
-        },
-        {
-            "id": "52357",
-            "airport_ref": "4151",
-            "airport_ident": "LFMD",
-            "type": "GND",
-            "description": "CANNES GND",
-            "frequency_mhz": "121.8"
-        },
-        {
-            "id": "52358",
-            "airport_ref": "4151",
-            "airport_ident": "LFMD",
-            "type": "TWR",
-            "description": "CANNES TWR",
-            "frequency_mhz": "118.625"
-        }
-    ],
     "country": {
         "id": "302687",
         "code": "FR",

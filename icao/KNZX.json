@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "60686",
-            "airport_ref": "20670",
-            "airport_ident": "KNZX",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "23.79"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

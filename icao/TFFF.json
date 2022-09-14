@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": "984"
         }
     ],
-    "freqs": [
-        {
-            "id": "55264",
-            "airport_ref": "6363",
-            "airport_ident": "TFFF",
-            "type": "APP",
-            "description": "FORT DE FRANCE APP",
-            "frequency_mhz": "121"
-        },
-        {
-            "id": "55265",
-            "airport_ref": "6363",
-            "airport_ident": "TFFF",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "127.85"
-        },
-        {
-            "id": "55266",
-            "airport_ref": "6363",
-            "airport_ident": "TFFF",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "55267",
-            "airport_ref": "6363",
-            "airport_ident": "TFFF",
-            "type": "TWR",
-            "description": "FORT DE FRANCE TWR",
-            "frequency_mhz": "118.5"
-        }
-    ],
     "country": {
         "id": "302745",
         "code": "MQ",

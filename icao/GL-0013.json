@@ -1,0 +1,38 @@
+{
+    "id": "356536",
+    "ident": "GL-0013",
+    "type": "closed",
+    "name": "Teague Field",
+    "latitude_deg": "63.4319",
+    "longitude_deg": "-51.1533",
+    "elevation_ft": "",
+    "continent": "NA",
+    "iso_country": "GL",
+    "iso_region": "GL-U-A",
+    "municipality": "Sermersooq",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Bluie West Four, Marraq",
+    "country": {
+        "id": "302736",
+        "code": "GL",
+        "name": "Greenland",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Greenland",
+        "keywords": "Airports in Greenland"
+    },
+    "region": {
+        "id": "303853",
+        "code": "GL-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "NA",
+        "iso_country": "GL",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}

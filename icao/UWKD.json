@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "56667",
-            "airport_ref": "26404",
-            "airport_ident": "UWKD",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "126.8"
-        },
-        {
-            "id": "56668",
-            "airport_ref": "26404",
-            "airport_ident": "UWKD",
-            "type": "GND",
-            "description": "TAXIING",
-            "frequency_mhz": "121.7"
-        },
-        {
-            "id": "56669",
-            "airport_ref": "26404",
-            "airport_ident": "UWKD",
-            "type": "RDR",
-            "description": "RADAR",
-            "frequency_mhz": "119.4"
-        },
-        {
-            "id": "56670",
-            "airport_ref": "26404",
-            "airport_ident": "UWKD",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "120.3"
-        }
-    ],
     "country": {
         "id": "302714",
         "code": "RU",

@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "61013",
-            "airport_ref": "7019",
-            "airport_ident": "09CL",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.9"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -3,8 +3,8 @@
     "ident": "YCOR",
     "type": "medium_airport",
     "name": "Corowa Airport",
-    "latitude_deg": "-35.99470138549805",
-    "longitude_deg": "146.35699462890625",
+    "latitude_deg": "-35.994701",
+    "longitude_deg": "146.356995",
     "elevation_ft": "469",
     "continent": "OC",
     "iso_country": "AU",
@@ -15,7 +15,7 @@
     "iata_code": "CWW",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Corowa_Airport",
     "keywords": "",
     "runways": [
         {
@@ -61,24 +61,6 @@
             "he_elevation_ft": "463",
             "he_heading_degT": "325",
             "he_displaced_threshold_ft": "148"
-        }
-    ],
-    "freqs": [
-        {
-            "id": "49062",
-            "airport_ref": "26963",
-            "airport_ident": "YCOR",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "126.7"
-        },
-        {
-            "id": "49063",
-            "airport_ref": "26963",
-            "airport_ident": "YCOR",
-            "type": "FSS",
-            "description": "MELBOURNE CNTR",
-            "frequency_mhz": "125.2"
         }
     ],
     "country": {

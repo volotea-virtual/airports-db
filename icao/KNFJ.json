@@ -85,32 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "58762",
-            "airport_ref": "20638",
-            "airport_ident": "KNFJ",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "28.2"
-        },
-        {
-            "id": "58763",
-            "airport_ref": "20638",
-            "airport_ident": "KNFJ",
-            "type": "DEP",
-            "description": "PENSACOLA DEP",
-            "frequency_mhz": "37.2"
-        },
-        {
-            "id": "58764",
-            "airport_ref": "20638",
-            "airport_ident": "KNFJ",
-            "type": "TWR",
-            "description": "RDO/TWR",
-            "frequency_mhz": "121.4"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -17,24 +17,6 @@
     "home_link": "http://www.helicoptertours.co.nz/",
     "wikipedia_link": "",
     "keywords": "",
-    "freqs": [
-        {
-            "id": "321316",
-            "airport_ref": "321157",
-            "airport_ident": "NZ-0024",
-            "type": "AWIB",
-            "description": "Taupo Weather Information",
-            "frequency_mhz": "125.2"
-        },
-        {
-            "id": "321315",
-            "airport_ref": "321157",
-            "airport_ident": "NZ-0024",
-            "type": "CTAF (MBZ)",
-            "description": "Taupo Traffic",
-            "frequency_mhz": "118.4"
-        }
-    ],
     "country": {
         "id": "302776",
         "code": "NZ",

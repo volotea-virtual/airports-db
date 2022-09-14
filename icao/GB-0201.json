@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "316102",
-            "airport_ref": "316100",
-            "airport_ident": "GB-0201",
-            "type": "Safetycom",
-            "description": "Glenswinton Traffic",
-            "frequency_mhz": "135.475"
-        }
-    ],
     "country": {
         "id": "302688",
         "code": "GB",

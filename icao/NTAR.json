@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "52182",
-            "airport_ref": "4980",
-            "airport_ident": "NTAR",
-            "type": "AFIS",
-            "description": "INFO",
-            "frequency_mhz": "118.3"
-        }
-    ],
     "country": {
         "id": "302777",
         "code": "PF",

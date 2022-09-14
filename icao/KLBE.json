@@ -63,56 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "66010",
-            "airport_ref": "3634",
-            "airport_ident": "KLBE",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "118.375"
-        },
-        {
-            "id": "66011",
-            "airport_ref": "3634",
-            "airport_ident": "KLBE",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "118.375"
-        },
-        {
-            "id": "66012",
-            "airport_ref": "3634",
-            "airport_ident": "KLBE",
-            "type": "CNTR",
-            "description": "CLEVELAND CNTR",
-            "frequency_mhz": "124.4"
-        },
-        {
-            "id": "66013",
-            "airport_ref": "3634",
-            "airport_ident": "KLBE",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "125"
-        },
-        {
-            "id": "66014",
-            "airport_ref": "3634",
-            "airport_ident": "KLBE",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.8"
-        },
-        {
-            "id": "66015",
-            "airport_ref": "3634",
-            "airport_ident": "KLBE",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "125"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

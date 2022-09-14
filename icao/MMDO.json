@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55483",
-            "airport_ref": "4707",
-            "airport_ident": "MMDO",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "132.1"
-        },
-        {
-            "id": "55484",
-            "airport_ref": "4707",
-            "airport_ident": "MMDO",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.1"
-        }
-    ],
     "country": {
         "id": "302747",
         "code": "MX",

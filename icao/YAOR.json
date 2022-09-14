@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "72099",
-            "airport_ref": "27333",
-            "airport_ident": "YAOR",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.4"
-        },
-        {
-            "id": "72100",
-            "airport_ref": "27333",
-            "airport_ident": "YAOR",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "125.1"
-        },
-        {
-            "id": "72101",
-            "airport_ref": "27333",
-            "airport_ident": "YAOR",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "125.7"
-        }
-    ],
     "country": {
         "id": "302764",
         "code": "AU",

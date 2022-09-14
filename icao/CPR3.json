@@ -63,24 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "75322",
-            "airport_ref": "1445",
-            "airport_ident": "CPR3",
-            "type": "Advisory",
-            "description": "Palmerston traffic",
-            "frequency_mhz": "123.2"
-        },
-        {
-            "id": "75323",
-            "airport_ref": "1445",
-            "airport_ident": "CPR3",
-            "type": "Gliding",
-            "description": "TOGA gliding club",
-            "frequency_mhz": "123.4"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

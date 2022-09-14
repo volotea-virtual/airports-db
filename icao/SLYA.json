@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "49486",
-            "airport_ref": "6194",
-            "airport_ident": "SLYA",
-            "type": "RDO",
-            "description": "RDO",
-            "frequency_mhz": "662.2"
-        },
-        {
-            "id": "49487",
-            "airport_ref": "6194",
-            "airport_ident": "SLYA",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.3"
-        }
-    ],
     "country": {
         "id": "302790",
         "code": "BO",

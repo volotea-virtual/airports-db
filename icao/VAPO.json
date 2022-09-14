@@ -63,16 +63,6 @@
             "he_displaced_threshold_ft": "470"
         }
     ],
-    "freqs": [
-        {
-            "id": "53916",
-            "airport_ref": "26455",
-            "airport_ident": "VAPO",
-            "type": "TWR",
-            "description": "POONA TWR",
-            "frequency_mhz": "123.5"
-        }
-    ],
     "country": {
         "id": "302634",
         "code": "IN",

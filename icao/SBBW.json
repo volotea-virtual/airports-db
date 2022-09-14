@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "49785",
-            "airport_ref": "5876",
-            "airport_ident": "SBBW",
-            "type": "AFIS",
-            "description": "GARCAS RDO",
-            "frequency_mhz": "125.9"
-        }
-    ],
     "country": {
         "id": "302791",
         "code": "BR",

@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55706",
-            "airport_ref": "2121",
-            "airport_ident": "DNSO",
-            "type": "TWR",
-            "description": "SOKOTO TWR",
-            "frequency_mhz": "122.1"
-        }
-    ],
     "country": {
         "id": "302593",
         "code": "NG",

@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51341",
-            "airport_ref": "6018",
-            "airport_ident": "SCFA",
-            "type": "APP",
-            "description": "ANTOFAGASTA APP",
-            "frequency_mhz": "119.3"
-        },
-        {
-            "id": "51342",
-            "airport_ref": "6018",
-            "airport_ident": "SCFA",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "51343",
-            "airport_ref": "6018",
-            "airport_ident": "SCFA",
-            "type": "RDO",
-            "description": "ANTOFAGASTA RDO",
-            "frequency_mhz": "127.1"
-        },
-        {
-            "id": "51344",
-            "airport_ref": "6018",
-            "airport_ident": "SCFA",
-            "type": "TWR",
-            "description": "ANTOFAGASTA TWR",
-            "frequency_mhz": "118.1"
-        }
-    ],
     "country": {
         "id": "302792",
         "code": "CL",

@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "49847",
-            "airport_ref": "5923",
-            "airport_ident": "SBJP",
-            "type": "APP",
-            "description": "PESSOA CON",
-            "frequency_mhz": "118.3"
-        },
-        {
-            "id": "49848",
-            "airport_ref": "5923",
-            "airport_ident": "SBJP",
-            "type": "TWR",
-            "description": "PESSOA TWR",
-            "frequency_mhz": "118.3"
-        }
-    ],
     "country": {
         "id": "302791",
         "code": "BR",

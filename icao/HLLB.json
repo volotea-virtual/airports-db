@@ -63,48 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55212",
-            "airport_ref": "3223",
-            "airport_ident": "HLLB",
-            "type": "APP",
-            "description": "BENGHAZI APP",
-            "frequency_mhz": "126.5"
-        },
-        {
-            "id": "55213",
-            "airport_ref": "3223",
-            "airport_ident": "HLLB",
-            "type": "ARR",
-            "description": "ARR",
-            "frequency_mhz": "127"
-        },
-        {
-            "id": "55214",
-            "airport_ref": "3223",
-            "airport_ident": "HLLB",
-            "type": "DEP",
-            "description": "DEP",
-            "frequency_mhz": "127"
-        },
-        {
-            "id": "55215",
-            "airport_ref": "3223",
-            "airport_ident": "HLLB",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.3"
-        },
-        {
-            "id": "55216",
-            "airport_ref": "3223",
-            "airport_ident": "HLLB",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.1"
-        }
-    ],
     "country": {
         "id": "302583",
         "code": "LY",

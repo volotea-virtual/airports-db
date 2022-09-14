@@ -63,56 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "60883",
-            "airport_ref": "20384",
-            "airport_ident": "KLVK",
-            "type": "A/D",
-            "description": "NORCAL APP/DEP",
-            "frequency_mhz": "123.85"
-        },
-        {
-            "id": "60884",
-            "airport_ref": "20384",
-            "airport_ident": "KLVK",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "119.65"
-        },
-        {
-            "id": "60885",
-            "airport_ref": "20384",
-            "airport_ident": "KLVK",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "118.1"
-        },
-        {
-            "id": "60886",
-            "airport_ref": "20384",
-            "airport_ident": "KLVK",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.6"
-        },
-        {
-            "id": "60887",
-            "airport_ref": "20384",
-            "airport_ident": "KLVK",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.1"
-        },
-        {
-            "id": "60888",
-            "airport_ref": "20384",
-            "airport_ident": "KLVK",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.95"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -50,15 +50,15 @@
             "lighted": "1",
             "closed": "0",
             "le_ident": "07L",
-            "le_latitude_deg": "",
-            "le_longitude_deg": "",
-            "le_elevation_ft": "",
+            "le_latitude_deg": "22.321074",
+            "le_longitude_deg": "113.880692",
+            "le_elevation_ft": "23",
             "le_heading_degT": "",
             "le_displaced_threshold_ft": "",
             "he_ident": "25R",
-            "he_latitude_deg": "",
-            "he_longitude_deg": "",
-            "he_elevation_ft": "",
+            "he_latitude_deg": "22.332306",
+            "he_longitude_deg": "113.915558",
+            "he_elevation_ft": "23",
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
         },
@@ -83,128 +83,6 @@
             "he_elevation_ft": "27",
             "he_heading_degT": "250.9",
             "he_displaced_threshold_ft": ""
-        }
-    ],
-    "freqs": [
-        {
-            "id": "53475",
-            "airport_ref": "26535",
-            "airport_ident": "VHHH",
-            "type": "AFIS",
-            "description": "FLIGHT SERVICE",
-            "frequency_mhz": "122.4"
-        },
-        {
-            "id": "53476",
-            "airport_ref": "26535",
-            "airport_ident": "VHHH",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "119.1"
-        },
-        {
-            "id": "75414",
-            "airport_ref": "26535",
-            "airport_ident": "VHHH",
-            "type": "APP",
-            "description": "Director",
-            "frequency_mhz": "119.5"
-        },
-        {
-            "id": "53477",
-            "airport_ref": "26535",
-            "airport_ident": "VHHH",
-            "type": "ATIS-A",
-            "description": "Arrivel",
-            "frequency_mhz": "128.2"
-        },
-        {
-            "id": "75411",
-            "airport_ref": "26535",
-            "airport_ident": "VHHH",
-            "type": "ATIS-D",
-            "description": "Departure",
-            "frequency_mhz": "127.05"
-        },
-        {
-            "id": "53478",
-            "airport_ref": "26535",
-            "airport_ident": "VHHH",
-            "type": "CAC",
-            "description": "ZONE CON",
-            "frequency_mhz": "120.6"
-        },
-        {
-            "id": "53479",
-            "airport_ref": "26535",
-            "airport_ident": "VHHH",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "129.9"
-        },
-        {
-            "id": "53480",
-            "airport_ref": "26535",
-            "airport_ident": "VHHH",
-            "type": "DEP",
-            "description": "DEP",
-            "frequency_mhz": "123.8"
-        },
-        {
-            "id": "75416",
-            "airport_ref": "26535",
-            "airport_ident": "VHHH",
-            "type": "EMG",
-            "description": "Hong Kong Guard",
-            "frequency_mhz": "121.5"
-        },
-        {
-            "id": "75412",
-            "airport_ref": "26535",
-            "airport_ident": "VHHH",
-            "type": "GND",
-            "description": "GND North",
-            "frequency_mhz": "121.6"
-        },
-        {
-            "id": "53481",
-            "airport_ref": "26535",
-            "airport_ident": "VHHH",
-            "type": "GND",
-            "description": "GND South",
-            "frequency_mhz": "122.55"
-        },
-        {
-            "id": "75415",
-            "airport_ref": "26535",
-            "airport_ident": "VHHH",
-            "type": "RDR",
-            "description": "Radar",
-            "frequency_mhz": "121.3"
-        },
-        {
-            "id": "53482",
-            "airport_ref": "26535",
-            "airport_ident": "VHHH",
-            "type": "RDR",
-            "description": "PRECISION",
-            "frequency_mhz": "133.7"
-        },
-        {
-            "id": "75413",
-            "airport_ref": "26535",
-            "airport_ident": "VHHH",
-            "type": "TWR",
-            "description": "Tower North",
-            "frequency_mhz": "118.2"
-        },
-        {
-            "id": "53483",
-            "airport_ref": "26535",
-            "airport_ident": "VHHH",
-            "type": "TWR",
-            "description": "TWR South",
-            "frequency_mhz": "118.4"
         }
     ],
     "country": {

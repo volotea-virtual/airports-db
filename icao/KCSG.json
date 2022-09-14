@@ -63,64 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "66079",
-            "airport_ref": "3468",
-            "airport_ident": "KCSG",
-            "type": "A/D",
-            "description": "ATLANTA  APP/DEP",
-            "frequency_mhz": "125.5"
-        },
-        {
-            "id": "66080",
-            "airport_ref": "3468",
-            "airport_ident": "KCSG",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "127.75"
-        },
-        {
-            "id": "66081",
-            "airport_ref": "3468",
-            "airport_ident": "KCSG",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "120.1"
-        },
-        {
-            "id": "66082",
-            "airport_ref": "3468",
-            "airport_ident": "KCSG",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "66083",
-            "airport_ref": "3468",
-            "airport_ident": "KCSG",
-            "type": "RDO",
-            "description": "MACON RDO",
-            "frequency_mhz": "122.65"
-        },
-        {
-            "id": "66084",
-            "airport_ref": "3468",
-            "airport_ident": "KCSG",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "120.1"
-        },
-        {
-            "id": "66085",
-            "airport_ref": "3468",
-            "airport_ident": "KCSG",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.95"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

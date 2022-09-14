@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "57865",
-            "airport_ref": "4534",
-            "airport_ident": "LTBK",
-            "type": "APP",
-            "description": "MENDERES APP",
-            "frequency_mhz": "120.1"
-        }
-    ],
     "country": {
         "id": "302667",
         "code": "TR",

@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": "1314"
         }
     ],
-    "freqs": [
-        {
-            "id": "70585",
-            "airport_ref": "18523",
-            "airport_ident": "K1V8",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

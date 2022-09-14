@@ -63,48 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "50009",
-            "airport_ref": "1984",
-            "airport_ident": "CYYQ",
-            "type": "A/G",
-            "description": "MF CHURCHILL RDO",
-            "frequency_mhz": "122.2"
-        },
-        {
-            "id": "50010",
-            "airport_ref": "1984",
-            "airport_ident": "CYYQ",
-            "type": "CNTR",
-            "description": "WINNIPEG CNTR",
-            "frequency_mhz": "134.6"
-        },
-        {
-            "id": "50011",
-            "airport_ref": "1984",
-            "airport_ident": "CYYQ",
-            "type": "FSS",
-            "description": "RDO",
-            "frequency_mhz": "122.2"
-        },
-        {
-            "id": "50012",
-            "airport_ref": "1984",
-            "airport_ident": "CYYQ",
-            "type": "INFO",
-            "description": "INTL AIR",
-            "frequency_mhz": "126.9"
-        },
-        {
-            "id": "50013",
-            "airport_ref": "1984",
-            "airport_ident": "CYYQ",
-            "type": "RCO",
-            "description": "ARCTIC RDO",
-            "frequency_mhz": "126.7"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

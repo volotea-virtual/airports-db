@@ -41,48 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "54529",
-            "airport_ref": "5623",
-            "airport_ident": "RJTL",
-            "type": "APP",
-            "description": "TOKYO APP",
-            "frequency_mhz": "126"
-        },
-        {
-            "id": "54530",
-            "airport_ref": "5623",
-            "airport_ident": "RJTL",
-            "type": "DEP",
-            "description": "TOKYO DEP",
-            "frequency_mhz": "126"
-        },
-        {
-            "id": "54531",
-            "airport_ref": "5623",
-            "airport_ident": "RJTL",
-            "type": "GCA",
-            "description": "PAR",
-            "frequency_mhz": "30.22"
-        },
-        {
-            "id": "54532",
-            "airport_ref": "5623",
-            "airport_ident": "RJTL",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "138.3"
-        },
-        {
-            "id": "54533",
-            "airport_ref": "5623",
-            "airport_ident": "RJTL",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "138.3"
-        }
-    ],
     "country": {
         "id": "302639",
         "code": "JP",

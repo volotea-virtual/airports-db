@@ -63,16 +63,6 @@
             "he_displaced_threshold_ft": "230"
         }
     ],
-    "freqs": [
-        {
-            "id": "314471",
-            "airport_ref": "28877",
-            "airport_ident": "LFHA",
-            "type": "A/A",
-            "description": "obligatoire",
-            "frequency_mhz": "118.15"
-        }
-    ],
     "country": {
         "id": "302687",
         "code": "FR",

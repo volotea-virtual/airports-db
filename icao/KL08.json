@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "64215",
-            "airport_ref": "20284",
-            "airport_ident": "KL08",
-            "type": "AWOS",
-            "description": "AWOS 1",
-            "frequency_mhz": "126.575"
-        },
-        {
-            "id": "64216",
-            "airport_ref": "20284",
-            "airport_ident": "KL08",
-            "type": "CNTR",
-            "description": "LOS ANGELES CNTR",
-            "frequency_mhz": "128.6"
-        },
-        {
-            "id": "64217",
-            "airport_ref": "20284",
-            "airport_ident": "KL08",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

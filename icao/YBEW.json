@@ -17,32 +17,6 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
-    "freqs": [
-        {
-            "id": "72211",
-            "airport_ref": "38247",
-            "airport_ident": "YBEW",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "119.6"
-        },
-        {
-            "id": "72213",
-            "airport_ref": "38247",
-            "airport_ident": "YBEW",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "120.6"
-        },
-        {
-            "id": "72212",
-            "airport_ref": "38247",
-            "airport_ident": "YBEW",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "125.4"
-        }
-    ],
     "country": {
         "id": "302764",
         "code": "AU",

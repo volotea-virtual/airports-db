@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "60030",
-            "airport_ref": "20073",
-            "airport_ident": "KHOE",
-            "type": "A/D",
-            "description": "VALDOSTA APP/DEP",
-            "frequency_mhz": "119.525"
-        },
-        {
-            "id": "60031",
-            "airport_ref": "20073",
-            "airport_ident": "KHOE",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.9"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

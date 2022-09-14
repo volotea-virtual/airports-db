@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51716",
-            "airport_ref": "2562",
-            "airport_ident": "EKYT",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "123.975"
-        },
-        {
-            "id": "51717",
-            "airport_ref": "2562",
-            "airport_ident": "EKYT",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "120.475"
-        },
-        {
-            "id": "51718",
-            "airport_ref": "2562",
-            "airport_ident": "EKYT",
-            "type": "MISC",
-            "description": "HANDLING",
-            "frequency_mhz": "131.55"
-        },
-        {
-            "id": "51719",
-            "airport_ref": "2562",
-            "airport_ident": "EKYT",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.3"
-        }
-    ],
     "country": {
         "id": "302682",
         "code": "DK",

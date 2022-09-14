@@ -63,48 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "52290",
-            "airport_ref": "4137",
-            "airport_ident": "LFLL",
-            "type": "A/D",
-            "description": "Lyon approach",
-            "frequency_mhz": "136.075"
-        },
-        {
-            "id": "52291",
-            "airport_ref": "4137",
-            "airport_ident": "LFLL",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "126.175"
-        },
-        {
-            "id": "52292",
-            "airport_ref": "4137",
-            "airport_ident": "LFLL",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.825"
-        },
-        {
-            "id": "52294",
-            "airport_ref": "4137",
-            "airport_ident": "LFLL",
-            "type": "PFLT",
-            "description": "PREFLIGHT",
-            "frequency_mhz": "121.65"
-        },
-        {
-            "id": "52295",
-            "airport_ref": "4137",
-            "airport_ident": "LFLL",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "120.45"
-        }
-    ],
     "country": {
         "id": "302687",
         "code": "FR",

@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "64635",
-            "airport_ref": "3694",
-            "airport_ident": "KMLC",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "135.125"
-        },
-        {
-            "id": "64636",
-            "airport_ref": "3694",
-            "airport_ident": "KMLC",
-            "type": "CNTR",
-            "description": "FORT WORTH CNTR",
-            "frequency_mhz": "132.2"
-        },
-        {
-            "id": "64637",
-            "airport_ref": "3694",
-            "airport_ident": "KMLC",
-            "type": "RDO",
-            "description": "RDO",
-            "frequency_mhz": "122.65"
-        },
-        {
-            "id": "64638",
-            "airport_ref": "3694",
-            "airport_ident": "KMLC",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.95"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

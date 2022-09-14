@@ -63,24 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "68383",
-            "airport_ref": "20605",
-            "airport_ident": "KN35",
-            "type": "A/D",
-            "description": "CLEVELAND APP/DEP",
-            "frequency_mhz": "126.72"
-        },
-        {
-            "id": "68384",
-            "airport_ref": "20605",
-            "airport_ident": "KN35",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

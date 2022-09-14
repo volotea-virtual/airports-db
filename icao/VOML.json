@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "53845",
-            "airport_ref": "26617",
-            "airport_ident": "VOML",
-            "type": "ACC",
-            "description": "ACC",
-            "frequency_mhz": "127.55"
-        },
-        {
-            "id": "53846",
-            "airport_ref": "26617",
-            "airport_ident": "VOML",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "122.1"
-        },
-        {
-            "id": "53847",
-            "airport_ref": "26617",
-            "airport_ident": "VOML",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "122.1"
-        }
-    ],
     "country": {
         "id": "302634",
         "code": "IN",

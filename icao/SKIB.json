@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51517",
-            "airport_ref": "6124",
-            "airport_ident": "SKIB",
-            "type": "ARR",
-            "description": "BOGOTA APP",
-            "frequency_mhz": "119.5"
-        },
-        {
-            "id": "51518",
-            "airport_ref": "6124",
-            "airport_ident": "SKIB",
-            "type": "RDO",
-            "description": "IBAGUE RDO",
-            "frequency_mhz": "348.8"
-        },
-        {
-            "id": "51519",
-            "airport_ref": "6124",
-            "airport_ident": "SKIB",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.3"
-        }
-    ],
     "country": {
         "id": "302793",
         "code": "CO",

@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "311698",
-            "airport_ref": "43764",
-            "airport_ident": "LU-0002",
-            "type": "AFIS",
-            "description": "NOT OFFICIAL",
-            "frequency_mhz": "119.5"
-        }
-    ],
     "country": {
         "id": "302701",
         "code": "LU",

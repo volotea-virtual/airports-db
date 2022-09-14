@@ -41,64 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "49082",
-            "airport_ref": "27120",
-            "airport_ident": "YPTN",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "120.95"
-        },
-        {
-            "id": "49083",
-            "airport_ref": "27120",
-            "airport_ident": "YPTN",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "112.3"
-        },
-        {
-            "id": "49084",
-            "airport_ref": "27120",
-            "airport_ident": "YPTN",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "128.1"
-        },
-        {
-            "id": "49085",
-            "airport_ref": "27120",
-            "airport_ident": "YPTN",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "119.7"
-        },
-        {
-            "id": "49086",
-            "airport_ref": "27120",
-            "airport_ident": "YPTN",
-            "type": "FSS",
-            "description": "BRISBANE CNTR",
-            "frequency_mhz": "122.6"
-        },
-        {
-            "id": "49087",
-            "airport_ref": "27120",
-            "airport_ident": "YPTN",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "135.85"
-        },
-        {
-            "id": "49088",
-            "airport_ref": "27120",
-            "airport_ident": "YPTN",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "119.7"
-        }
-    ],
     "country": {
         "id": "302764",
         "code": "AU",

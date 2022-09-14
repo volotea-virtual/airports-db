@@ -63,16 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "75537",
-            "airport_ref": "1295",
-            "airport_ident": "CNC4",
-            "type": "CTAF",
-            "description": "",
-            "frequency_mhz": "123"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

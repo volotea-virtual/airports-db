@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "320076",
-            "airport_ref": "320075",
-            "airport_ident": "GB-0369",
-            "type": "SafetyCom",
-            "description": "Darley Moor Traffic",
-            "frequency_mhz": "135.475"
-        }
-    ],
     "country": {
         "id": "302688",
         "code": "GB",

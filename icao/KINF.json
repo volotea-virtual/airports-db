@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "66494",
-            "airport_ref": "21398",
-            "airport_ident": "KINF",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.725"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

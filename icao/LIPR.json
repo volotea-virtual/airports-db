@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": "1006"
         }
     ],
-    "freqs": [
-        {
-            "id": "54204",
-            "airport_ref": "4362",
-            "airport_ident": "LIPR",
-            "type": "APP",
-            "description": "ROMAGNA APP",
-            "frequency_mhz": "36.23"
-        },
-        {
-            "id": "54203",
-            "airport_ref": "4362",
-            "airport_ident": "LIPR",
-            "type": "APP",
-            "description": "ROMAGNA APP",
-            "frequency_mhz": "118.15"
-        },
-        {
-            "id": "54205",
-            "airport_ref": "4362",
-            "airport_ident": "LIPR",
-            "type": "GCCD",
-            "description": "GND/CLNC DEL",
-            "frequency_mhz": "121.6"
-        },
-        {
-            "id": "54206",
-            "airport_ref": "4362",
-            "airport_ident": "LIPR",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "119.1"
-        }
-    ],
     "country": {
         "id": "302697",
         "code": "IT",

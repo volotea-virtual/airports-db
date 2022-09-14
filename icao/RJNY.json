@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "54711",
-            "airport_ref": "5589",
-            "airport_ident": "RJNY",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "120.1"
-        }
-    ],
     "country": {
         "id": "302639",
         "code": "JP",

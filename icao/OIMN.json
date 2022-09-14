@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "54007",
-            "airport_ref": "5184",
-            "airport_ident": "OIMN",
-            "type": "AFIS",
-            "description": "INFO",
-            "frequency_mhz": "118.2"
-        }
-    ],
     "country": {
         "id": "302637",
         "code": "IR",

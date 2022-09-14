@@ -41,48 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55563",
-            "airport_ref": "26873",
-            "airport_ident": "WMKJ",
-            "type": "ACC",
-            "description": "LUMPUR CON",
-            "frequency_mhz": "132.2"
-        },
-        {
-            "id": "55564",
-            "airport_ref": "26873",
-            "airport_ident": "WMKJ",
-            "type": "APP",
-            "description": "JOHOR TWR",
-            "frequency_mhz": "124.7"
-        },
-        {
-            "id": "55565",
-            "airport_ref": "26873",
-            "airport_ident": "WMKJ",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "126.6"
-        },
-        {
-            "id": "55566",
-            "airport_ref": "26873",
-            "airport_ident": "WMKJ",
-            "type": "GND",
-            "description": "JOHOR TWR",
-            "frequency_mhz": "121.8"
-        },
-        {
-            "id": "55567",
-            "airport_ref": "26873",
-            "airport_ident": "WMKJ",
-            "type": "TWR",
-            "description": "JOHOR TWR",
-            "frequency_mhz": "122.5"
-        }
-    ],
     "country": {
         "id": "302653",
         "code": "MY",

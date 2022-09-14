@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "67499",
-            "airport_ref": "20843",
-            "airport_ident": "KPMH",
-            "type": "A/D",
-            "description": "HUNTINGTON APP/DEP",
-            "frequency_mhz": "128.4"
-        },
-        {
-            "id": "67500",
-            "airport_ref": "20843",
-            "airport_ident": "KPMH",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "125.175"
-        },
-        {
-            "id": "67501",
-            "airport_ref": "20843",
-            "airport_ident": "KPMH",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -63,16 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55334",
-            "airport_ref": "3106",
-            "airport_ident": "GMFM",
-            "type": "ARTC",
-            "description": "CASABLANCA APP",
-            "frequency_mhz": "124.5"
-        }
-    ],
     "country": {
         "id": "302584",
         "code": "MA",

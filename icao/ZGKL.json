@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51173",
-            "airport_ref": "27196",
-            "airport_ident": "ZGKL",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "126.45"
-        },
-        {
-            "id": "51174",
-            "airport_ref": "27196",
-            "airport_ident": "ZGKL",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.65"
-        },
-        {
-            "id": "51175",
-            "airport_ref": "27196",
-            "airport_ident": "ZGKL",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118"
-        }
-    ],
     "country": {
         "id": "302627",
         "code": "CN",

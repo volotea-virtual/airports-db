@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "50082",
-            "airport_ref": "786",
-            "airport_ident": "CCW3",
-            "type": "A/D",
-            "description": "GREENWOOD TRML",
-            "frequency_mhz": "120.6"
-        },
-        {
-            "id": "50083",
-            "airport_ref": "786",
-            "airport_ident": "CCW3",
-            "type": "TWR",
-            "description": "GREENWOOD TWR",
-            "frequency_mhz": "119.5"
-        },
-        {
-            "id": "50084",
-            "airport_ref": "786",
-            "airport_ident": "CCW3",
-            "type": "UNIC",
-            "description": "ATF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

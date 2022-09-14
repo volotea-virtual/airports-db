@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "52721",
-            "airport_ref": "2732",
-            "airport_ident": "ETIH",
-            "type": "INFO",
-            "description": "MUNCHEN INFO",
-            "frequency_mhz": "120.65"
-        },
-        {
-            "id": "52722",
-            "airport_ref": "2732",
-            "airport_ident": "ETIH",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "31.8"
-        }
-    ],
     "country": {
         "id": "302681",
         "code": "DE",

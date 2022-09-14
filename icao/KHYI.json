@@ -85,40 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "71513",
-            "airport_ref": "20107",
-            "airport_ident": "KHYI",
-            "type": "A/D",
-            "description": "AUSTIN APP/DEP",
-            "frequency_mhz": "119"
-        },
-        {
-            "id": "71514",
-            "airport_ref": "20107",
-            "airport_ident": "KHYI",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "120.825"
-        },
-        {
-            "id": "71515",
-            "airport_ref": "20107",
-            "airport_ident": "KHYI",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "121.35"
-        },
-        {
-            "id": "71516",
-            "airport_ref": "20107",
-            "airport_ident": "KHYI",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123.05"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

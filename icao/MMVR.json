@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55480",
-            "airport_ref": "4764",
-            "airport_ident": "MMVR",
-            "type": "APP",
-            "description": "VERACRUZ APP",
-            "frequency_mhz": "120.4"
-        },
-        {
-            "id": "55481",
-            "airport_ref": "4764",
-            "airport_ident": "MMVR",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "127.8"
-        },
-        {
-            "id": "55482",
-            "airport_ref": "4764",
-            "airport_ident": "MMVR",
-            "type": "TWR",
-            "description": "VERACRUZ TWR",
-            "frequency_mhz": "118.5"
-        }
-    ],
     "country": {
         "id": "302747",
         "code": "MX",

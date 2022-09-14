@@ -63,24 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "67227",
-            "airport_ref": "18574",
-            "airport_ident": "K2D5",
-            "type": "CNTR",
-            "description": "MINNEAPOLIS CNTR",
-            "frequency_mhz": "124.2"
-        },
-        {
-            "id": "67228",
-            "airport_ref": "18574",
-            "airport_ident": "K2D5",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.9"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

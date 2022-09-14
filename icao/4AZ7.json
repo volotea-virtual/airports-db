@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": "197"
         }
     ],
-    "freqs": [
-        {
-            "id": "66205",
-            "airport_ref": "11355",
-            "airport_ident": "4AZ7",
-            "type": "FSS",
-            "description": "PRESCOTT RDO",
-            "frequency_mhz": "122.3"
-        },
-        {
-            "id": "66206",
-            "airport_ref": "11355",
-            "airport_ident": "4AZ7",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -41,48 +41,6 @@
             "he_displaced_threshold_ft": "2001"
         }
     ],
-    "freqs": [
-        {
-            "id": "48245",
-            "airport_ref": "5073",
-            "airport_ident": "OAKN",
-            "type": "A/G",
-            "description": "METRO",
-            "frequency_mhz": "25.32"
-        },
-        {
-            "id": "48246",
-            "airport_ref": "5073",
-            "airport_ident": "OAKN",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "120.8"
-        },
-        {
-            "id": "48247",
-            "airport_ref": "5073",
-            "airport_ident": "OAKN",
-            "type": "GCA",
-            "description": "GCA",
-            "frequency_mhz": "122.6"
-        },
-        {
-            "id": "48248",
-            "airport_ref": "5073",
-            "airport_ident": "OAKN",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "126.7"
-        },
-        {
-            "id": "48249",
-            "airport_ref": "5073",
-            "airport_ident": "OAKN",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "125.5"
-        }
-    ],
     "country": {
         "id": "302619",
         "code": "AF",

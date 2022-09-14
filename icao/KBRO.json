@@ -85,64 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "67769",
-            "airport_ref": "3426",
-            "airport_ident": "KBRO",
-            "type": "A/D",
-            "description": "VALLEY APP/DEP",
-            "frequency_mhz": "119.5"
-        },
-        {
-            "id": "67770",
-            "airport_ref": "3426",
-            "airport_ident": "KBRO",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "128.55"
-        },
-        {
-            "id": "67771",
-            "airport_ref": "3426",
-            "airport_ident": "KBRO",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "118.9"
-        },
-        {
-            "id": "67772",
-            "airport_ref": "3426",
-            "airport_ident": "KBRO",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "67773",
-            "airport_ref": "3426",
-            "airport_ident": "KBRO",
-            "type": "RDO",
-            "description": "SAN ANGELO RDO",
-            "frequency_mhz": "122.3"
-        },
-        {
-            "id": "67774",
-            "airport_ref": "3426",
-            "airport_ident": "KBRO",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.9"
-        },
-        {
-            "id": "67775",
-            "airport_ref": "3426",
-            "airport_ident": "KBRO",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.95"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

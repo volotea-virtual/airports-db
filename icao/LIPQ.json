@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "54328",
-            "airport_ref": "4361",
-            "airport_ident": "LIPQ",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "119.175"
-        },
-        {
-            "id": "54329",
-            "airport_ref": "4361",
-            "airport_ident": "LIPQ",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "130.2"
-        }
-    ],
     "country": {
         "id": "302697",
         "code": "IT",

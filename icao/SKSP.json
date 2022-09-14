@@ -41,48 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51442",
-            "airport_ref": "6163",
-            "airport_ident": "SKSP",
-            "type": "APP",
-            "description": "SAN ANDRES APP",
-            "frequency_mhz": "119.3"
-        },
-        {
-            "id": "51443",
-            "airport_ref": "6163",
-            "airport_ident": "SKSP",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "113.3"
-        },
-        {
-            "id": "51444",
-            "airport_ref": "6163",
-            "airport_ident": "SKSP",
-            "type": "CNTR",
-            "description": "PANAMA CNTR",
-            "frequency_mhz": "120.3"
-        },
-        {
-            "id": "51445",
-            "airport_ref": "6163",
-            "airport_ident": "SKSP",
-            "type": "RDO",
-            "description": "SAN ANDRES RDO",
-            "frequency_mhz": "653.2"
-        },
-        {
-            "id": "51446",
-            "airport_ref": "6163",
-            "airport_ident": "SKSP",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.1"
-        }
-    ],
     "country": {
         "id": "302793",
         "code": "CO",

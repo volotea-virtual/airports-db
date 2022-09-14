@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": "182"
         }
     ],
-    "freqs": [
-        {
-            "id": "56289",
-            "airport_ref": "4449",
-            "airport_ident": "LPGR",
-            "type": "AFIS",
-            "description": "RDO",
-            "frequency_mhz": "122.9"
-        }
-    ],
     "country": {
         "id": "302711",
         "code": "PT",

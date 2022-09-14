@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "50684",
-            "airport_ref": "1734",
-            "airport_ident": "CYFJ",
-            "type": "ATF",
-            "description": "ATF/UNICOM",
-            "frequency_mhz": "122.7"
-        },
-        {
-            "id": "75511",
-            "airport_ref": "1734",
-            "airport_ident": "CYFJ",
-            "type": "PAL",
-            "description": "Montreal Center",
-            "frequency_mhz": "133.9"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

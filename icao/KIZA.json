@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "58959",
-            "airport_ref": "20201",
-            "airport_ident": "KIZA",
-            "type": "A/D",
-            "description": "SANTA BARB APP/DEP",
-            "frequency_mhz": "124.15"
-        },
-        {
-            "id": "58960",
-            "airport_ref": "20201",
-            "airport_ident": "KIZA",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "118.075"
-        },
-        {
-            "id": "58961",
-            "airport_ref": "20201",
-            "airport_ident": "KIZA",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

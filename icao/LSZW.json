@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "298329",
-            "airport_ref": "29530",
-            "airport_ident": "LSZW",
-            "type": "New frequeny (8.",
-            "description": "Thun Airfield",
-            "frequency_mhz": "123.255"
-        }
-    ],
     "country": {
         "id": "302679",
         "code": "CH",

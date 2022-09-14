@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "50404",
-            "airport_ref": "1856",
-            "airport_ident": "CYPS",
-            "type": "ATF",
-            "description": "ATF",
-            "frequency_mhz": "123.2"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

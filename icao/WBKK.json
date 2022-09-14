@@ -41,64 +41,6 @@
             "he_displaced_threshold_ft": "200"
         }
     ],
-    "freqs": [
-        {
-            "id": "55617",
-            "airport_ref": "26814",
-            "airport_ident": "WBKK",
-            "type": "A/D",
-            "description": "KINABALU APP",
-            "frequency_mhz": "119.1"
-        },
-        {
-            "id": "55618",
-            "airport_ref": "26814",
-            "airport_ident": "WBKK",
-            "type": "A/G",
-            "description": "KINABALU RDO",
-            "frequency_mhz": "682.5"
-        },
-        {
-            "id": "55619",
-            "airport_ref": "26814",
-            "airport_ident": "WBKK",
-            "type": "ACC",
-            "description": "KINABALU CON",
-            "frequency_mhz": "126.1"
-        },
-        {
-            "id": "55620",
-            "airport_ref": "26814",
-            "airport_ident": "WBKK",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "127.4"
-        },
-        {
-            "id": "55621",
-            "airport_ref": "26814",
-            "airport_ident": "WBKK",
-            "type": "GND",
-            "description": "KINABALU GND",
-            "frequency_mhz": "121.6"
-        },
-        {
-            "id": "55622",
-            "airport_ref": "26814",
-            "airport_ident": "WBKK",
-            "type": "INFO",
-            "description": "KINABALU",
-            "frequency_mhz": "133.3"
-        },
-        {
-            "id": "55623",
-            "airport_ref": "26814",
-            "airport_ident": "WBKK",
-            "type": "TWR",
-            "description": "KINABALU TWR",
-            "frequency_mhz": "118.3"
-        }
-    ],
     "country": {
         "id": "302653",
         "code": "MY",

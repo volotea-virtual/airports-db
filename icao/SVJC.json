@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "71727",
-            "airport_ref": "6292",
-            "airport_ident": "SVJC",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.45"
-        }
-    ],
     "country": {
         "id": "302802",
         "code": "VE",

@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55413",
-            "airport_ref": "4874",
-            "airport_ident": "MM22",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.5"
-        }
-    ],
     "country": {
         "id": "302747",
         "code": "MX",

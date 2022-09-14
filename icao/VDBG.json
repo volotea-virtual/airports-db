@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51078",
-            "airport_ref": "26473",
-            "airport_ident": "VDBG",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "122.4"
-        }
-    ],
     "country": {
         "id": "302641",
         "code": "KH",

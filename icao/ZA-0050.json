@@ -1,10 +1,10 @@
 {
     "id": "41226",
     "ident": "ZA-0050",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Warrenton Airport",
-    "latitude_deg": "-28.12070083618164",
-    "longitude_deg": "24.87179946899414",
+    "latitude_deg": "-28.122192",
+    "longitude_deg": "24.868813",
     "elevation_ft": "3798",
     "continent": "AF",
     "iso_country": "ZA",

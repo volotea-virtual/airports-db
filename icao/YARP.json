@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "72117",
-            "airport_ref": "38232",
-            "airport_ident": "YARP",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "134.4"
-        },
-        {
-            "id": "72118",
-            "airport_ref": "38232",
-            "airport_ident": "YARP",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "122.4"
-        }
-    ],
     "country": {
         "id": "302764",
         "code": "AU",

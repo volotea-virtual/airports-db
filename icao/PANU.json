@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "58670",
-            "airport_ref": "5417",
-            "airport_ident": "PANU",
-            "type": "ARTC",
-            "description": "ANCHORAGE CNTR",
-            "frequency_mhz": "127"
-        },
-        {
-            "id": "58671",
-            "airport_ref": "5417",
-            "airport_ident": "PANU",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.9"
-        },
-        {
-            "id": "58672",
-            "airport_ref": "5417",
-            "airport_ident": "PANU",
-            "type": "FSS",
-            "description": "FAIRBANKS RDO",
-            "frequency_mhz": "122.2"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

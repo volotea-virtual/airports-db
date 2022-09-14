@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "61754",
-            "airport_ref": "21231",
-            "airport_ident": "KTVB",
-            "type": "CNTR",
-            "description": "KANSAS CITY CNTR",
-            "frequency_mhz": "133.8"
-        },
-        {
-            "id": "61755",
-            "airport_ref": "21231",
-            "airport_ident": "KTVB",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.9"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

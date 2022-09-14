@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "68596",
-            "airport_ref": "20021",
-            "airport_ident": "KHAB",
-            "type": "CNTR",
-            "description": "MEMPHIS CNTR",
-            "frequency_mhz": "127.1"
-        },
-        {
-            "id": "68597",
-            "airport_ref": "20021",
-            "airport_ident": "KHAB",
-            "type": "RDO",
-            "description": "ANNISTON RDO",
-            "frequency_mhz": "122.3"
-        },
-        {
-            "id": "68598",
-            "airport_ref": "20021",
-            "airport_ident": "KHAB",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

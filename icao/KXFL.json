@@ -129,32 +129,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "64478",
-            "airport_ref": "21400",
-            "airport_ident": "KXFL",
-            "type": "A/D",
-            "description": "DAYTONA APP/DEP",
-            "frequency_mhz": "125.8"
-        },
-        {
-            "id": "64479",
-            "airport_ref": "21400",
-            "airport_ident": "KXFL",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "128.325"
-        },
-        {
-            "id": "64480",
-            "airport_ref": "21400",
-            "airport_ident": "KXFL",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

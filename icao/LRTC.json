@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "56446",
-            "airport_ref": "4486",
-            "airport_ident": "LRTC",
-            "type": "APP",
-            "description": "TULCEA APP",
-            "frequency_mhz": "120.3"
-        },
-        {
-            "id": "56447",
-            "airport_ref": "4486",
-            "airport_ident": "LRTC",
-            "type": "TWR",
-            "description": "TULCEA TWR",
-            "frequency_mhz": "120.3"
-        }
-    ],
     "country": {
         "id": "302712",
         "code": "RO",

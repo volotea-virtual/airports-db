@@ -41,64 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "70578",
-            "airport_ref": "21198",
-            "airport_ident": "KTKI",
-            "type": "A/D",
-            "description": "REGIONAL APP/DEP",
-            "frequency_mhz": "124.3"
-        },
-        {
-            "id": "70579",
-            "airport_ref": "21198",
-            "airport_ident": "KTKI",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "119.925"
-        },
-        {
-            "id": "70580",
-            "airport_ref": "21198",
-            "airport_ident": "KTKI",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "121.35"
-        },
-        {
-            "id": "70581",
-            "airport_ref": "21198",
-            "airport_ident": "KTKI",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "118.825"
-        },
-        {
-            "id": "70582",
-            "airport_ref": "21198",
-            "airport_ident": "KTKI",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.875"
-        },
-        {
-            "id": "70583",
-            "airport_ref": "21198",
-            "airport_ident": "KTKI",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.825"
-        },
-        {
-            "id": "70584",
-            "airport_ref": "21198",
-            "airport_ident": "KTKI",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.95"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

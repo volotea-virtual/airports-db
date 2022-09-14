@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": "197"
         }
     ],
-    "freqs": [
-        {
-            "id": "298892",
-            "airport_ref": "4970",
-            "airport_ident": "DN56",
-            "type": "131.7",
-            "description": "ESCRAVOS TOWER",
-            "frequency_mhz": "0"
-        }
-    ],
     "country": {
         "id": "302593",
         "code": "NG",

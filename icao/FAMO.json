@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "319413",
-            "airport_ref": "30164",
-            "airport_ident": "FAMO",
-            "type": "Unmanned",
-            "description": "Mossel Bay Traffic",
-            "frequency_mhz": "124.2"
-        }
-    ],
     "country": {
         "id": "302610",
         "code": "ZA",

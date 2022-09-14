@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": "812"
         }
     ],
-    "freqs": [
-        {
-            "id": "54219",
-            "airport_ref": "4358",
-            "airport_ident": "LIPL",
-            "type": "APP",
-            "description": "GARDA APP",
-            "frequency_mhz": "124.45"
-        },
-        {
-            "id": "54220",
-            "airport_ref": "4358",
-            "airport_ident": "LIPL",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "36.927"
-        },
-        {
-            "id": "54221",
-            "airport_ref": "4358",
-            "airport_ident": "LIPL",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "122.1"
-        }
-    ],
     "country": {
         "id": "302697",
         "code": "IT",

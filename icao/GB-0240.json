@@ -17,16 +17,6 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
-    "freqs": [
-        {
-            "id": "327816",
-            "airport_ref": "316634",
-            "airport_ident": "GB-0240",
-            "type": "A/G",
-            "description": "",
-            "frequency_mhz": "130.43"
-        }
-    ],
     "country": {
         "id": "302688",
         "code": "GB",

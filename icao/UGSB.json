@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "52666",
-            "airport_ref": "6452",
-            "airport_ident": "UGSB",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "120"
-        }
-    ],
     "country": {
         "id": "302630",
         "code": "GE",

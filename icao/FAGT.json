@@ -85,16 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "57079",
-            "airport_ref": "2786",
-            "airport_ident": "FAGT",
-            "type": "RDO",
-            "description": "RDO",
-            "frequency_mhz": "123.5"
-        }
-    ],
     "country": {
         "id": "302610",
         "code": "ZA",

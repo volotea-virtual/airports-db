@@ -17,16 +17,6 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
-    "freqs": [
-        {
-            "id": "316583",
-            "airport_ref": "316582",
-            "airport_ident": "LLRB",
-            "type": "Tower",
-            "description": "Haifa Tower",
-            "frequency_mhz": "133"
-        }
-    ],
     "country": {
         "id": "302633",
         "code": "IL",

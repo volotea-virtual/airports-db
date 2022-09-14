@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "69961",
-            "airport_ref": "20299",
-            "airport_ident": "KL41",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.9"
-        },
-        {
-            "id": "69962",
-            "airport_ref": "20299",
-            "airport_ident": "KL41",
-            "type": "RDO",
-            "description": "PRESCOTT RDO",
-            "frequency_mhz": "122.45"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

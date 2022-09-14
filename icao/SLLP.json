@@ -63,48 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "49475",
-            "airport_ref": "6184",
-            "airport_ident": "SLLP",
-            "type": "APP",
-            "description": "LA PAZ APP",
-            "frequency_mhz": "119.5"
-        },
-        {
-            "id": "49476",
-            "airport_ref": "6184",
-            "airport_ident": "SLLP",
-            "type": "GCCD",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "49477",
-            "airport_ref": "6184",
-            "airport_ident": "SLLP",
-            "type": "INFO",
-            "description": "LA PAZ FIS",
-            "frequency_mhz": "127.1"
-        },
-        {
-            "id": "49478",
-            "airport_ref": "6184",
-            "airport_ident": "SLLP",
-            "type": "RDO",
-            "description": "LA PAZ RDO",
-            "frequency_mhz": "662.2"
-        },
-        {
-            "id": "49479",
-            "airport_ref": "6184",
-            "airport_ident": "SLLP",
-            "type": "TWR",
-            "description": "LA PAZ TWR",
-            "frequency_mhz": "118.3"
-        }
-    ],
     "country": {
         "id": "302790",
         "code": "BO",

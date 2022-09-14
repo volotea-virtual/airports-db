@@ -28,43 +28,17 @@
             "lighted": "1",
             "closed": "0",
             "le_ident": "02",
-            "le_latitude_deg": "9.769339561462402",
-            "le_longitude_deg": "98.58180236816406",
+            "le_latitude_deg": "9.76934",
+            "le_longitude_deg": "98.581802",
             "le_elevation_ft": "36",
-            "le_heading_degT": "23.8",
+            "le_heading_degT": "24",
             "le_displaced_threshold_ft": "",
             "he_ident": "20",
-            "he_latitude_deg": "9.785900115966797",
-            "he_longitude_deg": "98.58920288085938",
+            "he_latitude_deg": "9.7859",
+            "he_longitude_deg": "98.589203",
             "he_elevation_ft": "57",
-            "he_heading_degT": "203.8",
+            "he_heading_degT": "204",
             "he_displaced_threshold_ft": ""
-        }
-    ],
-    "freqs": [
-        {
-            "id": "57753",
-            "airport_ref": "26675",
-            "airport_ident": "VTSR",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "125.1"
-        },
-        {
-            "id": "57754",
-            "airport_ref": "26675",
-            "airport_ident": "VTSR",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "37.5"
-        },
-        {
-            "id": "57755",
-            "airport_ref": "26675",
-            "airport_ident": "VTSR",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "122.25"
         }
     ],
     "country": {

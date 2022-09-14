@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "50253",
-            "airport_ref": "799",
-            "airport_ident": "CDA4",
-            "type": "RCO",
-            "description": "CHARLO RDO",
-            "frequency_mhz": "123.45"
-        },
-        {
-            "id": "50254",
-            "airport_ref": "799",
-            "airport_ident": "CDA4",
-            "type": "UNIC",
-            "description": "ATF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

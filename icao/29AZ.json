@@ -63,16 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "69599",
-            "airport_ref": "9236",
-            "airport_ident": "29AZ",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

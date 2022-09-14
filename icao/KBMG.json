@@ -63,64 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "70590",
-            "airport_ref": "3418",
-            "airport_ident": "KBMG",
-            "type": "A/D",
-            "description": "HULMAN APP/DEP",
-            "frequency_mhz": "128.05"
-        },
-        {
-            "id": "70591",
-            "airport_ref": "3418",
-            "airport_ident": "KBMG",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "110.2"
-        },
-        {
-            "id": "70592",
-            "airport_ref": "3418",
-            "airport_ident": "KBMG",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "120.775"
-        },
-        {
-            "id": "70593",
-            "airport_ref": "3418",
-            "airport_ident": "KBMG",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "70594",
-            "airport_ref": "3418",
-            "airport_ident": "KBMG",
-            "type": "RDO",
-            "description": "TERRE HAUTE RDO",
-            "frequency_mhz": "110.2"
-        },
-        {
-            "id": "70595",
-            "airport_ref": "3418",
-            "airport_ident": "KBMG",
-            "type": "TWR",
-            "description": "BLOOMINGTON TWR",
-            "frequency_mhz": "120.775"
-        },
-        {
-            "id": "70596",
-            "airport_ref": "3418",
-            "airport_ident": "KBMG",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.95"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

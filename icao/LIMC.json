@@ -63,56 +63,6 @@
             "he_displaced_threshold_ft": "1329"
         }
     ],
-    "freqs": [
-        {
-            "id": "54209",
-            "airport_ref": "4340",
-            "airport_ident": "LIMC",
-            "type": "APP",
-            "description": "MILANO APP",
-            "frequency_mhz": "132.7"
-        },
-        {
-            "id": "54210",
-            "airport_ref": "4340",
-            "airport_ident": "LIMC",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "120.025"
-        },
-        {
-            "id": "54211",
-            "airport_ref": "4340",
-            "airport_ident": "LIMC",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "120.9"
-        },
-        {
-            "id": "54212",
-            "airport_ref": "4340",
-            "airport_ident": "LIMC",
-            "type": "DEP",
-            "description": "MILANO DEP",
-            "frequency_mhz": "126.75"
-        },
-        {
-            "id": "54213",
-            "airport_ref": "4340",
-            "airport_ident": "LIMC",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "54214",
-            "airport_ref": "4340",
-            "airport_ident": "LIMC",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "119"
-        }
-    ],
     "country": {
         "id": "302697",
         "code": "IT",

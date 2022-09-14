@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "74172",
-            "airport_ref": "27862",
-            "airport_ident": "YODL",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "118.8"
-        },
-        {
-            "id": "74173",
-            "airport_ref": "27862",
-            "airport_ident": "YODL",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "121.3"
-        },
-        {
-            "id": "74174",
-            "airport_ref": "27862",
-            "airport_ident": "YODL",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "124"
-        }
-    ],
     "country": {
         "id": "302764",
         "code": "AU",

@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "53745",
-            "airport_ref": "26756",
-            "airport_ident": "WAVV",
-            "type": "AFIS",
-            "description": "INFO",
-            "frequency_mhz": "120"
-        },
-        {
-            "id": "339804",
-            "airport_ref": "26756",
-            "airport_ident": "WAVV",
-            "type": "ATIS",
-            "description": "Wamena ATIS",
-            "frequency_mhz": "127.2"
-        },
-        {
-            "id": "329627",
-            "airport_ref": "26756",
-            "airport_ident": "WAVV",
-            "type": "TWR",
-            "description": "",
-            "frequency_mhz": "120"
-        }
-    ],
     "country": {
         "id": "302632",
         "code": "ID",

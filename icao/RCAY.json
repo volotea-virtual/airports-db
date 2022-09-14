@@ -85,24 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "58039",
-            "airport_ref": "5509",
-            "airport_ident": "RCAY",
-            "type": "APP",
-            "description": "KAOHSIUNG APP",
-            "frequency_mhz": "119.5"
-        },
-        {
-            "id": "58040",
-            "airport_ref": "5509",
-            "airport_ident": "RCAY",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "126.18"
-        }
-    ],
     "country": {
         "id": "302668",
         "code": "TW",

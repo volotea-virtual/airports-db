@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "74371",
-            "airport_ref": "38560",
-            "airport_ident": "YRAM",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "118.8"
-        },
-        {
-            "id": "74372",
-            "airport_ref": "38560",
-            "airport_ident": "YRAM",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "125.3"
-        },
-        {
-            "id": "74373",
-            "airport_ref": "38560",
-            "airport_ident": "YRAM",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "127.1"
-        }
-    ],
     "country": {
         "id": "302764",
         "code": "AU",

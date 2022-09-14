@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "58688",
-            "airport_ref": "5340",
-            "airport_ident": "PABL",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "135.15"
-        },
-        {
-            "id": "58689",
-            "airport_ref": "5340",
-            "airport_ident": "PABL",
-            "type": "CNTR",
-            "description": "ANCHORAGE APP/DEP",
-            "frequency_mhz": "119.2"
-        },
-        {
-            "id": "58690",
-            "airport_ref": "5340",
-            "airport_ident": "PABL",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.9"
-        },
-        {
-            "id": "58691",
-            "airport_ref": "5340",
-            "airport_ident": "PABL",
-            "type": "FSS",
-            "description": "KOTZEBUE RDO",
-            "frequency_mhz": "122.3"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

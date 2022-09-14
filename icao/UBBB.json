@@ -63,56 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "48305",
-            "airport_ref": "6440",
-            "airport_ident": "UBBB",
-            "type": "APP",
-            "description": "BAKU APP",
-            "frequency_mhz": "129.3"
-        },
-        {
-            "id": "48306",
-            "airport_ref": "6440",
-            "airport_ident": "UBBB",
-            "type": "ATIS",
-            "description": "BAKU ATIS",
-            "frequency_mhz": "126.8"
-        },
-        {
-            "id": "48307",
-            "airport_ref": "6440",
-            "airport_ident": "UBBB",
-            "type": "GCA",
-            "description": "BAKU PRECISION",
-            "frequency_mhz": "119.2"
-        },
-        {
-            "id": "48308",
-            "airport_ref": "6440",
-            "airport_ident": "UBBB",
-            "type": "GND",
-            "description": "BAKU GND",
-            "frequency_mhz": "121.7"
-        },
-        {
-            "id": "48309",
-            "airport_ref": "6440",
-            "airport_ident": "UBBB",
-            "type": "RDR",
-            "description": "BAKU RADAR",
-            "frequency_mhz": "120.8"
-        },
-        {
-            "id": "48310",
-            "airport_ref": "6440",
-            "airport_ident": "UBBB",
-            "type": "TWR",
-            "description": "BAKU TWR",
-            "frequency_mhz": "119.2"
-        }
-    ],
     "country": {
         "id": "302621",
         "code": "AZ",

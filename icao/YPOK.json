@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "74315",
-            "airport_ref": "27897",
-            "airport_ident": "YPOK",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "126"
-        },
-        {
-            "id": "74316",
-            "airport_ref": "27897",
-            "airport_ident": "YPOK",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "125.2"
-        }
-    ],
     "country": {
         "id": "302764",
         "code": "AU",

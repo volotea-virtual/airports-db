@@ -63,24 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "354004",
-            "airport_ref": "5154",
-            "airport_ident": "OIFH",
-            "type": "Mhz",
-            "description": "",
-            "frequency_mhz": "129.75"
-        },
-        {
-            "id": "53990",
-            "airport_ref": "5154",
-            "airport_ident": "OIFH",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "128.1"
-        }
-    ],
     "country": {
         "id": "302637",
         "code": "IR",

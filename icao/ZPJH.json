@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51189",
-            "airport_ref": "27213",
-            "airport_ident": "ZPJH",
-            "type": "TWR",
-            "description": "BANNA TWR",
-            "frequency_mhz": "130"
-        }
-    ],
     "country": {
         "id": "302627",
         "code": "CN",

@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "308035",
-            "airport_ref": "28945",
-            "airport_ident": "LFNL",
-            "type": "CTAF",
-            "description": "",
-            "frequency_mhz": "122.45"
-        },
-        {
-            "id": "308034",
-            "airport_ref": "28945",
-            "airport_ident": "LFNL",
-            "type": "CTAF",
-            "description": "",
-            "frequency_mhz": "122.5"
-        }
-    ],
     "country": {
         "id": "302687",
         "code": "FR",

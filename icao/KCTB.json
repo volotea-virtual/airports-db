@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "60468",
-            "airport_ref": "3470",
-            "airport_ident": "KCTB",
-            "type": "ARTC",
-            "description": "SALT LAKE CITY CNTR",
-            "frequency_mhz": "133.4"
-        },
-        {
-            "id": "60469",
-            "airport_ref": "3470",
-            "airport_ident": "KCTB",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "119.025"
-        },
-        {
-            "id": "60470",
-            "airport_ref": "3470",
-            "airport_ident": "KCTB",
-            "type": "RDO",
-            "description": "GREAT FALLS RDO",
-            "frequency_mhz": "122.2"
-        },
-        {
-            "id": "60471",
-            "airport_ref": "3470",
-            "airport_ident": "KCTB",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

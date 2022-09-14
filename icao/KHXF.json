@@ -63,24 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "70343",
-            "airport_ref": "20106",
-            "airport_ident": "KHXF",
-            "type": "A/D",
-            "description": "MILWAUKEE APP/DEP",
-            "frequency_mhz": "125.35"
-        },
-        {
-            "id": "70344",
-            "airport_ref": "20106",
-            "airport_ident": "KHXF",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

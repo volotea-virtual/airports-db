@@ -63,48 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "50525",
-            "airport_ref": "1816",
-            "airport_ident": "CYMO",
-            "type": "A/G",
-            "description": "MF",
-            "frequency_mhz": "122.5"
-        },
-        {
-            "id": "50528",
-            "airport_ref": "1816",
-            "airport_ident": "CYMO",
-            "type": "ATF",
-            "description": "ATF",
-            "frequency_mhz": "122.5"
-        },
-        {
-            "id": "50526",
-            "airport_ref": "1816",
-            "airport_ident": "CYMO",
-            "type": "AWOS",
-            "description": "AWOS",
-            "frequency_mhz": "124.8"
-        },
-        {
-            "id": "50527",
-            "airport_ref": "1816",
-            "airport_ident": "CYMO",
-            "type": "CNTR",
-            "description": "TORONTO CNTR",
-            "frequency_mhz": "133.725"
-        },
-        {
-            "id": "50529",
-            "airport_ref": "1816",
-            "airport_ident": "CYMO",
-            "type": "RCO",
-            "description": "TIMMINS RDO",
-            "frequency_mhz": "122.5"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

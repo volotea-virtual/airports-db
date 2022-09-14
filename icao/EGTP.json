@@ -85,16 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "71971",
-            "airport_ref": "2484",
-            "airport_ident": "EGTP",
-            "type": "A/G",
-            "description": "Perranporth A/G",
-            "frequency_mhz": "119.75"
-        }
-    ],
     "country": {
         "id": "302688",
         "code": "GB",

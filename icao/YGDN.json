@@ -17,24 +17,6 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
-    "freqs": [
-        {
-            "id": "73023",
-            "airport_ref": "31519",
-            "airport_ident": "YGDN",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "120.7"
-        },
-        {
-            "id": "73024",
-            "airport_ref": "31519",
-            "airport_ident": "YGDN",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "124.3"
-        }
-    ],
     "country": {
         "id": "302764",
         "code": "AU",

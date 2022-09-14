@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51383",
-            "airport_ref": "2890",
-            "airport_ident": "FKYS",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "121.3"
-        },
-        {
-            "id": "51384",
-            "airport_ref": "2890",
-            "airport_ident": "FKYS",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "119.1"
-        }
-    ],
     "country": {
         "id": "302565",
         "code": "CM",

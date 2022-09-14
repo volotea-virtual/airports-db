@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": "705"
         }
     ],
-    "freqs": [
-        {
-            "id": "56857",
-            "airport_ref": "3237",
-            "airport_ident": "HRYR",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "124.3"
-        },
-        {
-            "id": "75558",
-            "airport_ref": "3237",
-            "airport_ident": "HRYR",
-            "type": "ATIS",
-            "description": "",
-            "frequency_mhz": "128.7"
-        },
-        {
-            "id": "56858",
-            "airport_ref": "3237",
-            "airport_ident": "HRYR",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.7"
-        },
-        {
-            "id": "56859",
-            "airport_ref": "3237",
-            "airport_ident": "HRYR",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.3"
-        }
-    ],
     "country": {
         "id": "302595",
         "code": "RW",

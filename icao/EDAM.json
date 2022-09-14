@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "52929",
-            "airport_ref": "2189",
-            "airport_ident": "EDAM",
-            "type": "AFIS",
-            "description": "BERLIN INFO",
-            "frequency_mhz": "125.8"
-        },
-        {
-            "id": "52930",
-            "airport_ref": "2189",
-            "airport_ident": "EDAM",
-            "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "122.9"
-        },
-        {
-            "id": "52931",
-            "airport_ref": "2189",
-            "airport_ident": "EDAM",
-            "type": "RDR",
-            "description": "BERLIN RADAR",
-            "frequency_mhz": "124.175"
-        }
-    ],
     "country": {
         "id": "302681",
         "code": "DE",

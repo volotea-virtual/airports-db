@@ -85,40 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "68653",
-            "airport_ref": "3381",
-            "airport_ident": "KAPG",
-            "type": "A/D",
-            "description": "POTOMAC APP/DEP",
-            "frequency_mhz": "126.75"
-        },
-        {
-            "id": "68654",
-            "airport_ref": "3381",
-            "airport_ident": "KAPG",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "108.4"
-        },
-        {
-            "id": "68655",
-            "airport_ref": "3381",
-            "airport_ident": "KAPG",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "68656",
-            "airport_ref": "3381",
-            "airport_ident": "KAPG",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "126.15"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

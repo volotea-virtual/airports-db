@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "71421",
-            "airport_ref": "20753",
-            "airport_ident": "KONX",
-            "type": "A/D",
-            "description": "OCEANA APP/DEP",
-            "frequency_mhz": "124.825"
-        },
-        {
-            "id": "71422",
-            "airport_ref": "20753",
-            "airport_ident": "KONX",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "119.775"
-        },
-        {
-            "id": "71423",
-            "airport_ref": "20753",
-            "airport_ident": "KONX",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.9"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

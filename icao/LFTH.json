@@ -63,48 +63,6 @@
             "he_displaced_threshold_ft": "360"
         }
     ],
-    "freqs": [
-        {
-            "id": "52322",
-            "airport_ref": "4241",
-            "airport_ident": "LFTH",
-            "type": "APP",
-            "description": "TOULON APP",
-            "frequency_mhz": "118.825"
-        },
-        {
-            "id": "52323",
-            "airport_ref": "4241",
-            "airport_ident": "LFTH",
-            "type": "ARSA",
-            "description": "HYERES RDR",
-            "frequency_mhz": "36.255"
-        },
-        {
-            "id": "52324",
-            "airport_ref": "4241",
-            "airport_ident": "LFTH",
-            "type": "ATIS",
-            "description": "HYERES ATIS",
-            "frequency_mhz": "129.65"
-        },
-        {
-            "id": "52325",
-            "airport_ref": "4241",
-            "airport_ident": "LFTH",
-            "type": "GND",
-            "description": "HYERES GND",
-            "frequency_mhz": "121.8"
-        },
-        {
-            "id": "52326",
-            "airport_ref": "4241",
-            "airport_ident": "LFTH",
-            "type": "TWR",
-            "description": "HYERES TWR",
-            "frequency_mhz": "121"
-        }
-    ],
     "country": {
         "id": "302687",
         "code": "FR",

@@ -1,10 +1,10 @@
 {
     "id": "26523",
     "ident": "VEVZ",
-    "type": "small_airport",
-    "name": "Visakhapatnam Airport",
-    "latitude_deg": "17.721201",
-    "longitude_deg": "83.224503",
+    "type": "medium_airport",
+    "name": "Visakhapatnam Airport / INS Dega",
+    "latitude_deg": "17.723506",
+    "longitude_deg": "83.227729",
     "elevation_ft": "15",
     "continent": "AS",
     "iso_country": "IN",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "http://www.vizagairport.in/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Visakhapatnam_Airport",
-    "keywords": "VEVZ, Visakhapatnam",
+    "keywords": "VEVZ, Visakhapatnam, Vizag",
     "runways": [
         {
             "id": "236616",
@@ -61,32 +61,6 @@
             "he_elevation_ft": "8",
             "he_heading_degT": "275",
             "he_displaced_threshold_ft": ""
-        }
-    ],
-    "freqs": [
-        {
-            "id": "53808",
-            "airport_ref": "26523",
-            "airport_ident": "VEVZ",
-            "type": "A/G",
-            "description": "RDO",
-            "frequency_mhz": "658.3"
-        },
-        {
-            "id": "53809",
-            "airport_ref": "26523",
-            "airport_ident": "VEVZ",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "123.5"
-        },
-        {
-            "id": "53810",
-            "airport_ref": "26523",
-            "airport_ident": "VEVZ",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "119.7"
         }
     ],
     "country": {

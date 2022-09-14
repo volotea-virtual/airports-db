@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "53698",
-            "airport_ref": "26806",
-            "airport_ident": "WAWW",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "122.2"
-        }
-    ],
     "country": {
         "id": "302632",
         "code": "ID",

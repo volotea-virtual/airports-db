@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "66762",
-            "airport_ref": "20529",
-            "airport_ident": "KMMK",
-            "type": "A/D",
-            "description": "APP/DEP",
-            "frequency_mhz": "127.8"
-        },
-        {
-            "id": "66763",
-            "airport_ref": "20529",
-            "airport_ident": "KMMK",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "134.925"
-        },
-        {
-            "id": "66764",
-            "airport_ref": "20529",
-            "airport_ident": "KMMK",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "120.65"
-        },
-        {
-            "id": "66765",
-            "airport_ref": "20529",
-            "airport_ident": "KMMK",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123.05"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

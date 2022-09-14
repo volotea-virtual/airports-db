@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": "200"
         }
     ],
-    "freqs": [
-        {
-            "id": "52479",
-            "airport_ref": "4150",
-            "airport_ident": "LFMC",
-            "type": "APP",
-            "description": "LE LUC APP",
-            "frequency_mhz": "122.2"
-        },
-        {
-            "id": "52480",
-            "airport_ref": "4150",
-            "airport_ident": "LFMC",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "128.65"
-        },
-        {
-            "id": "52481",
-            "airport_ref": "4150",
-            "airport_ident": "LFMC",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.85"
-        },
-        {
-            "id": "52482",
-            "airport_ref": "4150",
-            "airport_ident": "LFMC",
-            "type": "TWR",
-            "description": "LE LUC TWR",
-            "frequency_mhz": "123"
-        }
-    ],
     "country": {
         "id": "302687",
         "code": "FR",

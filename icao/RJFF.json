@@ -41,64 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "54695",
-            "airport_ref": "5564",
-            "airport_ident": "RJFF",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "119.1"
-        },
-        {
-            "id": "54696",
-            "airport_ref": "5564",
-            "airport_ident": "RJFF",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "127.2"
-        },
-        {
-            "id": "54697",
-            "airport_ref": "5564",
-            "airport_ident": "RJFF",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "121.925"
-        },
-        {
-            "id": "54698",
-            "airport_ref": "5564",
-            "airport_ident": "RJFF",
-            "type": "DEP",
-            "description": "DEP",
-            "frequency_mhz": "119.7"
-        },
-        {
-            "id": "54699",
-            "airport_ref": "5564",
-            "airport_ident": "RJFF",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.7"
-        },
-        {
-            "id": "54700",
-            "airport_ref": "5564",
-            "airport_ident": "RJFF",
-            "type": "TCA",
-            "description": "TCA",
-            "frequency_mhz": "121.275"
-        },
-        {
-            "id": "54701",
-            "airport_ref": "5564",
-            "airport_ident": "RJFF",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.4"
-        }
-    ],
     "country": {
         "id": "302639",
         "code": "JP",

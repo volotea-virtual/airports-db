@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": "689"
         }
     ],
-    "freqs": [
-        {
-            "id": "50934",
-            "airport_ref": "1971",
-            "airport_ident": "CYXZ",
-            "type": "CNTR",
-            "description": "TORONTO CNTR",
-            "frequency_mhz": "124.075"
-        },
-        {
-            "id": "50935",
-            "airport_ref": "1971",
-            "airport_ident": "CYXZ",
-            "type": "RCO",
-            "description": "LONDON RDO",
-            "frequency_mhz": "126.7"
-        },
-        {
-            "id": "50936",
-            "airport_ref": "1971",
-            "airport_ident": "CYXZ",
-            "type": "UNIC",
-            "description": "ATF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

@@ -41,64 +41,6 @@
             "he_displaced_threshold_ft": "821"
         }
     ],
-    "freqs": [
-        {
-            "id": "55778",
-            "airport_ref": "2518",
-            "airport_ident": "EHEH",
-            "type": "APP",
-            "description": "RAPCON South Approach",
-            "frequency_mhz": "123.18"
-        },
-        {
-            "id": "55780",
-            "airport_ref": "2518",
-            "airport_ident": "EHEH",
-            "type": "ARR",
-            "description": "Eindhoven Arrival",
-            "frequency_mhz": "124.53"
-        },
-        {
-            "id": "55779",
-            "airport_ref": "2518",
-            "airport_ident": "EHEH",
-            "type": "ATIS",
-            "description": "Eindhoven Information ATIS",
-            "frequency_mhz": "126.03"
-        },
-        {
-            "id": "352556",
-            "airport_ref": "2518",
-            "airport_ident": "EHEH",
-            "type": "CENTER",
-            "description": "Dutch Military Center",
-            "frequency_mhz": "125.93"
-        },
-        {
-            "id": "352557",
-            "airport_ref": "2518",
-            "airport_ident": "EHEH",
-            "type": "FIS",
-            "description": "Dutch MIL Info",
-            "frequency_mhz": "132.35"
-        },
-        {
-            "id": "55781",
-            "airport_ref": "2518",
-            "airport_ident": "EHEH",
-            "type": "GND",
-            "description": "Eindhoven Ground",
-            "frequency_mhz": "121.93"
-        },
-        {
-            "id": "55782",
-            "airport_ref": "2518",
-            "airport_ident": "EHEH",
-            "type": "TWR",
-            "description": "Eindhoven Tower",
-            "frequency_mhz": "131.005"
-        }
-    ],
     "country": {
         "id": "302708",
         "code": "NL",

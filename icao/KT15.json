@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": "89"
         }
     ],
-    "freqs": [
-        {
-            "id": "66593",
-            "airport_ref": "21137",
-            "airport_ident": "KT15",
-            "type": "A/D",
-            "description": "WACO APP/DEP",
-            "frequency_mhz": "135.2"
-        },
-        {
-            "id": "66594",
-            "airport_ref": "21137",
-            "airport_ident": "KT15",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.9"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

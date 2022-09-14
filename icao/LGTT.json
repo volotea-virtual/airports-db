@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": "702"
         }
     ],
-    "freqs": [
-        {
-            "id": "53362",
-            "airport_ref": "4294",
-            "airport_ident": "LGTT",
-            "type": "APP",
-            "description": "ATHINAI APP",
-            "frequency_mhz": "119.1"
-        },
-        {
-            "id": "53363",
-            "airport_ref": "4294",
-            "airport_ident": "LGTT",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.5"
-        }
-    ],
     "country": {
         "id": "302691",
         "code": "GR",

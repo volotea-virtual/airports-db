@@ -17,16 +17,6 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
-    "freqs": [
-        {
-            "id": "72711",
-            "airport_ref": "32722",
-            "airport_ident": "YDEK",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "127.85"
-        }
-    ],
     "country": {
         "id": "302764",
         "code": "AU",

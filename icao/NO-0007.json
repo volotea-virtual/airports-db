@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "75308",
-            "airport_ref": "44320",
-            "airport_ident": "NO-0007",
-            "type": "CTAF",
-            "description": "Vermundsjøen traffic",
-            "frequency_mhz": "123.5"
-        }
-    ],
     "country": {
         "id": "302709",
         "code": "NO",

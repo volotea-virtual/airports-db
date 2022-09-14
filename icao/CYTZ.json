@@ -85,64 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "50626",
-            "airport_ref": "1926",
-            "airport_ident": "CYTZ",
-            "type": "ARR",
-            "description": "TRML APP",
-            "frequency_mhz": "133.4"
-        },
-        {
-            "id": "50628",
-            "airport_ref": "1926",
-            "airport_ident": "CYTZ",
-            "type": "ATF",
-            "description": "ATF",
-            "frequency_mhz": "118.2"
-        },
-        {
-            "id": "50627",
-            "airport_ref": "1926",
-            "airport_ident": "CYTZ",
-            "type": "ATIS",
-            "description": "(1130-0400Z)",
-            "frequency_mhz": "133.6"
-        },
-        {
-            "id": "299186",
-            "airport_ref": "1926",
-            "airport_ident": "CYTZ",
-            "type": "AWOS",
-            "description": "0400-1130Z",
-            "frequency_mhz": "133.6"
-        },
-        {
-            "id": "50629",
-            "airport_ref": "1926",
-            "airport_ident": "CYTZ",
-            "type": "DEP",
-            "description": "TRML DEP",
-            "frequency_mhz": "133.4"
-        },
-        {
-            "id": "50630",
-            "airport_ref": "1926",
-            "airport_ident": "CYTZ",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.7"
-        },
-        {
-            "id": "50631",
-            "airport_ref": "1926",
-            "airport_ident": "CYTZ",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.2"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

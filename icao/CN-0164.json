@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51273",
-            "airport_ref": "27224",
-            "airport_ident": "CN-0164",
-            "type": "APP",
-            "description": "QINGDAO",
-            "frequency_mhz": "119.4"
-        },
-        {
-            "id": "51274",
-            "airport_ref": "27224",
-            "airport_ident": "CN-0164",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "127.2"
-        },
-        {
-            "id": "51275",
-            "airport_ref": "27224",
-            "airport_ident": "CN-0164",
-            "type": "GND",
-            "description": "QINGDAO GND",
-            "frequency_mhz": "121.65"
-        },
-        {
-            "id": "51276",
-            "airport_ref": "27224",
-            "airport_ident": "CN-0164",
-            "type": "TWR",
-            "description": "QINGDAO TWR",
-            "frequency_mhz": "118.7"
-        }
-    ],
     "country": {
         "id": "302627",
         "code": "CN",

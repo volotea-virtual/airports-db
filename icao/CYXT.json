@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "50182",
-            "airport_ref": "1967",
-            "airport_ident": "CYXT",
-            "type": "A/G",
-            "description": "MANDATORY FREQ RDO",
-            "frequency_mhz": "122"
-        },
-        {
-            "id": "50183",
-            "airport_ref": "1967",
-            "airport_ident": "CYXT",
-            "type": "CNTR",
-            "description": "VANCOUVER CNTR",
-            "frequency_mhz": "128.4"
-        },
-        {
-            "id": "50184",
-            "airport_ref": "1967",
-            "airport_ident": "CYXT",
-            "type": "RCO",
-            "description": "PACIFIC RDO",
-            "frequency_mhz": "126.7"
-        },
-        {
-            "id": "50185",
-            "airport_ref": "1967",
-            "airport_ident": "CYXT",
-            "type": "RDO",
-            "description": "RDO",
-            "frequency_mhz": "122"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

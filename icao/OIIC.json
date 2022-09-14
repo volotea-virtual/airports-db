@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "54103",
-            "airport_ref": "5164",
-            "airport_ident": "OIIC",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "125.2"
-        }
-    ],
     "country": {
         "id": "302637",
         "code": "IR",

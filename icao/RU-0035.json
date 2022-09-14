@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "308520",
-            "airport_ref": "42924",
-            "airport_ident": "RU-0035",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "127.2"
-        },
-        {
-            "id": "308521",
-            "airport_ref": "42924",
-            "airport_ident": "RU-0035",
-            "type": "RADAR",
-            "description": "Ermitazh Radar",
-            "frequency_mhz": "120.2"
-        },
-        {
-            "id": "308522",
-            "airport_ref": "42924",
-            "airport_ident": "RU-0035",
-            "type": "Tower",
-            "description": "Ermitazh TWR",
-            "frequency_mhz": "120.2"
-        }
-    ],
     "country": {
         "id": "302714",
         "code": "RU",

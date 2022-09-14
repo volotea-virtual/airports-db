@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "56694",
-            "airport_ref": "6492",
-            "airport_ident": "ULPB",
-            "type": "TWR",
-            "description": "PETROZAVODSK TWR",
-            "frequency_mhz": "128"
-        }
-    ],
     "country": {
         "id": "302714",
         "code": "RU",

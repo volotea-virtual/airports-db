@@ -107,16 +107,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "71952",
-            "airport_ref": "29114",
-            "airport_ident": "EGCB",
-            "type": "AFIS",
-            "description": "Manchester Barton AFIS",
-            "frequency_mhz": "120.25"
-        }
-    ],
     "country": {
         "id": "302688",
         "code": "GB",

@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "60682",
-            "airport_ref": "6784",
-            "airport_ident": "04NV",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

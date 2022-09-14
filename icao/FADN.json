@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "57126",
-            "airport_ref": "2778",
-            "airport_ident": "FADN",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "119.1"
-        },
-        {
-            "id": "57127",
-            "airport_ref": "2778",
-            "airport_ident": "FADN",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "127"
-        },
-        {
-            "id": "57128",
-            "airport_ref": "2778",
-            "airport_ident": "FADN",
-            "type": "GTE",
-            "description": "APRON",
-            "frequency_mhz": "122.65"
-        },
-        {
-            "id": "57129",
-            "airport_ref": "2778",
-            "airport_ident": "FADN",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.7"
-        }
-    ],
     "country": {
         "id": "302610",
         "code": "ZA",

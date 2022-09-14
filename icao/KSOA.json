@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": "600"
         }
     ],
-    "freqs": [
-        {
-            "id": "69229",
-            "airport_ref": "21095",
-            "airport_ident": "KSOA",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "118.075"
-        },
-        {
-            "id": "69230",
-            "airport_ref": "21095",
-            "airport_ident": "KSOA",
-            "type": "CNTR",
-            "description": "HOUSTON CNTR",
-            "frequency_mhz": "125.75"
-        },
-        {
-            "id": "69231",
-            "airport_ref": "21095",
-            "airport_ident": "KSOA",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

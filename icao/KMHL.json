@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "60852",
-            "airport_ref": "20504",
-            "airport_ident": "KMHL",
-            "type": "APP",
-            "description": "WHITEMAN APP",
-            "frequency_mhz": "127.45"
-        },
-        {
-            "id": "60853",
-            "airport_ref": "20504",
-            "airport_ident": "KMHL",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "118.675"
-        },
-        {
-            "id": "60854",
-            "airport_ref": "20504",
-            "airport_ident": "KMHL",
-            "type": "DEP",
-            "description": "WHITEMAN DEP",
-            "frequency_mhz": "125.925"
-        },
-        {
-            "id": "60855",
-            "airport_ref": "20504",
-            "airport_ident": "KMHL",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

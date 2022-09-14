@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "337384",
-            "airport_ref": "337382",
-            "airport_ident": "PH-0005",
-            "type": "CTAF",
-            "description": "Tuy Traffic",
-            "frequency_mhz": "121.9"
-        }
-    ],
     "country": {
         "id": "302656",
         "code": "PH",

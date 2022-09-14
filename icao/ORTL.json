@@ -63,64 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "54419",
-            "airport_ref": "5300",
-            "airport_ident": "ORTL",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "126.925"
-        },
-        {
-            "id": "54420",
-            "airport_ref": "5300",
-            "airport_ident": "ORTL",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "118.875"
-        },
-        {
-            "id": "54421",
-            "airport_ref": "5300",
-            "airport_ident": "ORTL",
-            "type": "MISC",
-            "description": "AIR BOSS",
-            "frequency_mhz": "24.405"
-        },
-        {
-            "id": "54422",
-            "airport_ref": "5300",
-            "airport_ident": "ORTL",
-            "type": "PMSV",
-            "description": "METRO",
-            "frequency_mhz": "31.702"
-        },
-        {
-            "id": "54423",
-            "airport_ref": "5300",
-            "airport_ident": "ORTL",
-            "type": "POST",
-            "description": "KINGFISH FOXTROT",
-            "frequency_mhz": "23.03"
-        },
-        {
-            "id": "54424",
-            "airport_ref": "5300",
-            "airport_ident": "ORTL",
-            "type": "PTD",
-            "description": "DISPATCH",
-            "frequency_mhz": "25.08"
-        },
-        {
-            "id": "54425",
-            "airport_ref": "5300",
-            "airport_ident": "ORTL",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "122.125"
-        }
-    ],
     "country": {
         "id": "302636",
         "code": "IQ",

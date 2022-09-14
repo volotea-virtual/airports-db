@@ -63,56 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "49543",
-            "airport_ref": "6501",
-            "airport_ident": "UMMS",
-            "type": "APP",
-            "description": "MINSK APP",
-            "frequency_mhz": "125.9"
-        },
-        {
-            "id": "49544",
-            "airport_ref": "6501",
-            "airport_ident": "UMMS",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "128.85"
-        },
-        {
-            "id": "49545",
-            "airport_ref": "6501",
-            "airport_ident": "UMMS",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.7"
-        },
-        {
-            "id": "49546",
-            "airport_ref": "6501",
-            "airport_ident": "UMMS",
-            "type": "PMSV",
-            "description": "MINSK VOLMET",
-            "frequency_mhz": "126.675"
-        },
-        {
-            "id": "49547",
-            "airport_ref": "6501",
-            "airport_ident": "UMMS",
-            "type": "RDR",
-            "description": "MINSK RADAR",
-            "frequency_mhz": "125.25"
-        },
-        {
-            "id": "49548",
-            "airport_ref": "6501",
-            "airport_ident": "UMMS",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.3"
-        }
-    ],
     "country": {
         "id": "302678",
         "code": "BY",

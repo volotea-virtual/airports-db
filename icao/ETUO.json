@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "53087",
-            "airport_ref": "2756",
-            "airport_ident": "ETUO",
-            "type": "AFIS",
-            "description": "LANGEN INFO",
-            "frequency_mhz": "123.525"
-        },
-        {
-            "id": "53088",
-            "airport_ref": "2756",
-            "airport_ident": "ETUO",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "38.927"
-        },
-        {
-            "id": "53089",
-            "airport_ref": "2756",
-            "airport_ident": "ETUO",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "130.5"
-        }
-    ],
     "country": {
         "id": "302681",
         "code": "DE",

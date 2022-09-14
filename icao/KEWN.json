@@ -63,64 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "67541",
-            "airport_ref": "3520",
-            "airport_ident": "KEWN",
-            "type": "A/D",
-            "description": "CHERRY POINT APP/DEP",
-            "frequency_mhz": "119.35"
-        },
-        {
-            "id": "67542",
-            "airport_ref": "3520",
-            "airport_ident": "KEWN",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "118.525"
-        },
-        {
-            "id": "67543",
-            "airport_ref": "3520",
-            "airport_ident": "KEWN",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "120.525"
-        },
-        {
-            "id": "67544",
-            "airport_ref": "3520",
-            "airport_ident": "KEWN",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "124.25"
-        },
-        {
-            "id": "67545",
-            "airport_ref": "3520",
-            "airport_ident": "KEWN",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.7"
-        },
-        {
-            "id": "67546",
-            "airport_ref": "3520",
-            "airport_ident": "KEWN",
-            "type": "RDO",
-            "description": "RALEIGH RDO",
-            "frequency_mhz": "122.2"
-        },
-        {
-            "id": "67547",
-            "airport_ref": "3520",
-            "airport_ident": "KEWN",
-            "type": "TWR",
-            "description": "NEW BERN TWR",
-            "frequency_mhz": "124.25"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

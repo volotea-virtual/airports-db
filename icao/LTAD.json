@@ -63,24 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "57958",
-            "airport_ref": "4510",
-            "airport_ident": "LTAD",
-            "type": "APP",
-            "description": "ESENBOGA APP",
-            "frequency_mhz": "119.1"
-        },
-        {
-            "id": "57959",
-            "airport_ref": "4510",
-            "airport_ident": "LTAD",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "122.1"
-        }
-    ],
     "country": {
         "id": "302667",
         "code": "TR",

@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "54079",
-            "airport_ref": "5182",
-            "airport_ident": "OIMJ",
-            "type": "AFIS",
-            "description": "INFO",
-            "frequency_mhz": "124.35"
-        },
-        {
-            "id": "54080",
-            "airport_ref": "5182",
-            "airport_ident": "OIMJ",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.95"
-        }
-    ],
     "country": {
         "id": "302637",
         "code": "IR",

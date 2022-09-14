@@ -85,24 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "316264",
-            "airport_ref": "30273",
-            "airport_ident": "EYPR",
-            "type": "Info",
-            "description": "",
-            "frequency_mhz": "125"
-        },
-        {
-            "id": "299168",
-            "airport_ref": "30273",
-            "airport_ident": "EYPR",
-            "type": "local airport(li",
-            "description": "glider Frequency",
-            "frequency_mhz": "125"
-        }
-    ],
     "country": {
         "id": "302700",
         "code": "LT",

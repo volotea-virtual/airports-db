@@ -17,16 +17,6 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "Uglich Fominskoe Helipad, Вертолётная площадка Углич-Фоминское",
-    "freqs": [
-        {
-            "id": "75185",
-            "airport_ref": "44640",
-            "airport_ident": "RU-0177",
-            "type": "Unknown",
-            "description": "Srazu Klub",
-            "frequency_mhz": "120.55"
-        }
-    ],
     "country": {
         "id": "302714",
         "code": "RU",

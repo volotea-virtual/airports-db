@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "56314",
-            "airport_ref": "4441",
-            "airport_ident": "LPBJ",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "130.1"
-        },
-        {
-            "id": "56315",
-            "airport_ref": "4441",
-            "airport_ident": "LPBJ",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "23.4"
-        },
-        {
-            "id": "56316",
-            "airport_ref": "4441",
-            "airport_ident": "LPBJ",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "130.4"
-        }
-    ],
     "country": {
         "id": "302711",
         "code": "PT",

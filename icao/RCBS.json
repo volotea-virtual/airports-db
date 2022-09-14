@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "58004",
-            "airport_ref": "5510",
-            "airport_ident": "RCBS",
-            "type": "APP",
-            "description": "TAICHUNG APP",
-            "frequency_mhz": "124.6"
-        },
-        {
-            "id": "58005",
-            "airport_ref": "5510",
-            "airport_ident": "RCBS",
-            "type": "ATIS",
-            "description": "KINMEN ATIS",
-            "frequency_mhz": "127.2"
-        },
-        {
-            "id": "58006",
-            "airport_ref": "5510",
-            "airport_ident": "RCBS",
-            "type": "TWR",
-            "description": "KINMEN TWR",
-            "frequency_mhz": "118"
-        }
-    ],
     "country": {
         "id": "302668",
         "code": "TW",

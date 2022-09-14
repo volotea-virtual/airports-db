@@ -17,16 +17,6 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
-    "freqs": [
-        {
-            "id": "299848",
-            "airport_ref": "298392",
-            "airport_ident": "CA-0463",
-            "type": "CTAF",
-            "description": "",
-            "frequency_mhz": "123.2"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

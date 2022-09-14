@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "300068",
-            "airport_ref": "1832",
-            "airport_ident": "CYOA",
-            "type": "CTAF",
-            "description": "",
-            "frequency_mhz": "122.7"
-        },
-        {
-            "id": "300070",
-            "airport_ref": "1832",
-            "airport_ident": "CYOA",
-            "type": "PAL",
-            "description": "Edmonton Center",
-            "frequency_mhz": "135.175"
-        },
-        {
-            "id": "300069",
-            "airport_ref": "1832",
-            "airport_ident": "CYOA",
-            "type": "RCO",
-            "description": "Arctic Radio (FISE)",
-            "frequency_mhz": "123.275"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

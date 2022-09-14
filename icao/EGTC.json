@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "58096",
-            "airport_ref": "2480",
-            "airport_ident": "EGTC",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "122.85"
-        },
-        {
-            "id": "58097",
-            "airport_ref": "2480",
-            "airport_ident": "EGTC",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "121.875"
-        },
-        {
-            "id": "307868",
-            "airport_ref": "2480",
-            "airport_ident": "EGTC",
-            "type": "TWR",
-            "description": "",
-            "frequency_mhz": "122.85"
-        },
-        {
-            "id": "58098",
-            "airport_ref": "2480",
-            "airport_ident": "EGTC",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "134.925"
-        }
-    ],
     "country": {
         "id": "302688",
         "code": "GB",

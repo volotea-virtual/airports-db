@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "62743",
-            "airport_ref": "20197",
-            "airport_ident": "KIWI",
-            "type": "A/D",
-            "description": "BRUNSWICK APP/DEP",
-            "frequency_mhz": "118.15"
-        },
-        {
-            "id": "62744",
-            "airport_ref": "20197",
-            "airport_ident": "KIWI",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "135.725"
-        },
-        {
-            "id": "62745",
-            "airport_ref": "20197",
-            "airport_ident": "KIWI",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

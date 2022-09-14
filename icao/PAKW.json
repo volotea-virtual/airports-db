@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "59663",
-            "airport_ref": "5383",
-            "airport_ident": "PAKW",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "135.45"
-        },
-        {
-            "id": "59664",
-            "airport_ref": "5383",
-            "airport_ident": "PAKW",
-            "type": "CNTR",
-            "description": "ANCHORAGE CNTR",
-            "frequency_mhz": "118.5"
-        },
-        {
-            "id": "59665",
-            "airport_ref": "5383",
-            "airport_ident": "PAKW",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "120.9"
-        },
-        {
-            "id": "59666",
-            "airport_ref": "5383",
-            "airport_ident": "PAKW",
-            "type": "FSS",
-            "description": "KETCHIKAN RDO",
-            "frequency_mhz": "122.25"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

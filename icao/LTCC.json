@@ -41,48 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "57860",
-            "airport_ref": "4549",
-            "airport_ident": "LTCC",
-            "type": "ACP",
-            "description": "MAC ALCE",
-            "frequency_mhz": "123.2"
-        },
-        {
-            "id": "57861",
-            "airport_ref": "4549",
-            "airport_ident": "LTCC",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "122.1"
-        },
-        {
-            "id": "57862",
-            "airport_ref": "4549",
-            "airport_ident": "LTCC",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "122.425"
-        },
-        {
-            "id": "57863",
-            "airport_ref": "4549",
-            "airport_ident": "LTCC",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "122.1"
-        },
-        {
-            "id": "57864",
-            "airport_ref": "4549",
-            "airport_ident": "LTCC",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.1"
-        }
-    ],
     "country": {
         "id": "302667",
         "code": "TR",

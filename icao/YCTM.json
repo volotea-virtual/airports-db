@@ -3,8 +3,8 @@
     "ident": "YCTM",
     "type": "medium_airport",
     "name": "Cootamundra Airport",
-    "latitude_deg": "-34.6239013671875",
-    "longitude_deg": "148.0279998779297",
+    "latitude_deg": "-34.624283",
+    "longitude_deg": "148.036641",
     "elevation_ft": "1110",
     "continent": "OC",
     "iso_country": "AU",
@@ -15,7 +15,7 @@
     "iata_code": "CMD",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cootamundra_Airport",
     "keywords": "",
     "runways": [
         {
@@ -61,24 +61,6 @@
             "he_elevation_ft": "1109",
             "he_heading_degT": "354",
             "he_displaced_threshold_ft": "985"
-        }
-    ],
-    "freqs": [
-        {
-            "id": "48872",
-            "airport_ref": "26965",
-            "airport_ident": "YCTM",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "126.7"
-        },
-        {
-            "id": "48873",
-            "airport_ref": "26965",
-            "airport_ident": "YCTM",
-            "type": "FSS",
-            "description": "MELBOURNE CNTR",
-            "frequency_mhz": "124.1"
         }
     ],
     "country": {

@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "49952",
-            "airport_ref": "612",
-            "airport_ident": "CAA8",
-            "type": "ATF",
-            "description": "ATF",
-            "frequency_mhz": "123.2"
-        },
-        {
-            "id": "49953",
-            "airport_ref": "612",
-            "airport_ident": "CAA8",
-            "type": "RCO",
-            "description": "PACIFIC RDO",
-            "frequency_mhz": "126.7"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

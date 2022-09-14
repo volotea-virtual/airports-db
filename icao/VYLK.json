@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": "200"
         }
     ],
-    "freqs": [
-        {
-            "id": "49523",
-            "airport_ref": "26724",
-            "airport_ident": "VYLK",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.7"
-        }
-    ],
     "country": {
         "id": "302649",
         "code": "MM",

@@ -41,48 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "58132",
-            "airport_ref": "2409",
-            "airport_ident": "EGDX",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "126.625"
-        },
-        {
-            "id": "58133",
-            "airport_ref": "2409",
-            "airport_ident": "EGDX",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "34.045"
-        },
-        {
-            "id": "58134",
-            "airport_ref": "2409",
-            "airport_ident": "EGDX",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "24.112"
-        },
-        {
-            "id": "58135",
-            "airport_ref": "2409",
-            "airport_ident": "EGDX",
-            "type": "MISC",
-            "description": "CARDIFF ATIS",
-            "frequency_mhz": "132.475"
-        },
-        {
-            "id": "58136",
-            "airport_ref": "2409",
-            "airport_ident": "EGDX",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.125"
-        }
-    ],
     "country": {
         "id": "302688",
         "code": "GB",

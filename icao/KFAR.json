@@ -85,56 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "60417",
-            "airport_ref": "3523",
-            "airport_ident": "KFAR",
-            "type": "A/D",
-            "description": "FARGO APP/DEP",
-            "frequency_mhz": "120.4"
-        },
-        {
-            "id": "60418",
-            "airport_ref": "3523",
-            "airport_ident": "KFAR",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "124.5"
-        },
-        {
-            "id": "60419",
-            "airport_ref": "3523",
-            "airport_ident": "KFAR",
-            "type": "GND",
-            "description": "GND/CLNC DEL",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "60420",
-            "airport_ref": "3523",
-            "airport_ident": "KFAR",
-            "type": "RDO",
-            "description": "GRAND FORKS RDO",
-            "frequency_mhz": "122.425"
-        },
-        {
-            "id": "60421",
-            "airport_ref": "3523",
-            "airport_ident": "KFAR",
-            "type": "TWR",
-            "description": "FARGO TWR",
-            "frequency_mhz": "133.8"
-        },
-        {
-            "id": "60422",
-            "airport_ref": "3523",
-            "airport_ident": "KFAR",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.95"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

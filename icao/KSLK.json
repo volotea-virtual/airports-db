@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "64431",
-            "airport_ref": "3890",
-            "airport_ident": "KSLK",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "124.175"
-        },
-        {
-            "id": "64432",
-            "airport_ref": "3890",
-            "airport_ident": "KSLK",
-            "type": "CNTR",
-            "description": "BOSTON CNTR",
-            "frequency_mhz": "120.35"
-        },
-        {
-            "id": "64433",
-            "airport_ref": "3890",
-            "airport_ident": "KSLK",
-            "type": "RDO",
-            "description": "BURLINGTON RDO",
-            "frequency_mhz": "109.2"
-        },
-        {
-            "id": "64434",
-            "airport_ref": "3890",
-            "airport_ident": "KSLK",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

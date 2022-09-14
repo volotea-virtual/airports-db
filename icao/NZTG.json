@@ -129,40 +129,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55926",
-            "airport_ref": "5055",
-            "airport_ident": "NZTG",
-            "type": "APP",
-            "description": "CHRISTCHURCH APP",
-            "frequency_mhz": "119.5"
-        },
-        {
-            "id": "55927",
-            "airport_ref": "5055",
-            "airport_ident": "NZTG",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "126.6"
-        },
-        {
-            "id": "55928",
-            "airport_ref": "5055",
-            "airport_ident": "NZTG",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "118.3"
-        },
-        {
-            "id": "55929",
-            "airport_ref": "5055",
-            "airport_ident": "NZTG",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.3"
-        }
-    ],
     "country": {
         "id": "302776",
         "code": "NZ",

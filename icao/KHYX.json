@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "66600",
-            "airport_ref": "20111",
-            "airport_ident": "KHYX",
-            "type": "A/D",
-            "description": "APP/DEP",
-            "frequency_mhz": "120.95"
-        },
-        {
-            "id": "66601",
-            "airport_ref": "20111",
-            "airport_ident": "KHYX",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "118.325"
-        },
-        {
-            "id": "66602",
-            "airport_ref": "20111",
-            "airport_ident": "KHYX",
-            "type": "RDO",
-            "description": "LANSING RDO",
-            "frequency_mhz": "122.2"
-        },
-        {
-            "id": "66603",
-            "airport_ref": "20111",
-            "airport_ident": "KHYX",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -63,16 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "309175",
-            "airport_ref": "46181",
-            "airport_ident": "IT-0001",
-            "type": "UNICOM",
-            "description": "Mazzè Radio",
-            "frequency_mhz": "130"
-        }
-    ],
     "country": {
         "id": "302697",
         "code": "IT",

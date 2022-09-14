@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "62793",
-            "airport_ref": "20524",
-            "airport_ident": "KMLF",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "135.025"
-        },
-        {
-            "id": "62794",
-            "airport_ref": "20524",
-            "airport_ident": "KMLF",
-            "type": "RDO",
-            "description": "CEDAR CITY RDO",
-            "frequency_mhz": "112.1"
-        },
-        {
-            "id": "62795",
-            "airport_ref": "20524",
-            "airport_ident": "KMLF",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

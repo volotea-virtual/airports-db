@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51664",
-            "airport_ref": "4847",
-            "airport_ident": "MUMZ",
-            "type": "A/G",
-            "description": "MANZANILLO RDO",
-            "frequency_mhz": "340.7"
-        },
-        {
-            "id": "51665",
-            "airport_ref": "4847",
-            "airport_ident": "MUMZ",
-            "type": "TWR",
-            "description": "MANZANILLO TWR",
-            "frequency_mhz": "118.3"
-        }
-    ],
     "country": {
         "id": "302732",
         "code": "CU",

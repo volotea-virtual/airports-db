@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "319030",
-            "airport_ref": "28594",
-            "airport_ident": "EDQH",
-            "type": "INFO",
-            "description": "HERZOGENAURACH INFO",
-            "frequency_mhz": "134.555"
-        }
-    ],
     "country": {
         "id": "302681",
         "code": "DE",

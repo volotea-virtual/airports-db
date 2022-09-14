@@ -85,16 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "345628",
-            "airport_ref": "29897",
-            "airport_ident": "EPGL",
-            "type": "CTAF",
-            "description": "Gliwice RADIO",
-            "frequency_mhz": "118.26"
-        }
-    ],
     "country": {
         "id": "302710",
         "code": "PL",

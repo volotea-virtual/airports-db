@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51561",
-            "airport_ref": "6148",
-            "airport_ident": "SKPE",
-            "type": "APP",
-            "description": "PEREIRA APP",
-            "frequency_mhz": "120.7"
-        },
-        {
-            "id": "51562",
-            "airport_ref": "6148",
-            "airport_ident": "SKPE",
-            "type": "RDO",
-            "description": "PEREIRA RDO",
-            "frequency_mhz": "348.8"
-        },
-        {
-            "id": "51563",
-            "airport_ref": "6148",
-            "airport_ident": "SKPE",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.7"
-        }
-    ],
     "country": {
         "id": "302793",
         "code": "CO",

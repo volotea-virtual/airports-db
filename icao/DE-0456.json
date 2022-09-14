@@ -63,64 +63,6 @@
             "he_displaced_threshold_ft": "476"
         }
     ],
-    "freqs": [
-        {
-            "id": "52776",
-            "airport_ref": "2215",
-            "airport_ident": "DE-0456",
-            "type": "AFIS",
-            "description": "BERLIN INFO",
-            "frequency_mhz": "132.65"
-        },
-        {
-            "id": "52777",
-            "airport_ref": "2215",
-            "airport_ident": "DE-0456",
-            "type": "APP",
-            "description": "BERLIN ARR",
-            "frequency_mhz": "119.625"
-        },
-        {
-            "id": "52778",
-            "airport_ref": "2215",
-            "airport_ident": "DE-0456",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "126.025"
-        },
-        {
-            "id": "52779",
-            "airport_ref": "2215",
-            "airport_ident": "DE-0456",
-            "type": "DEP",
-            "description": "BERLIN DEP",
-            "frequency_mhz": "120.625"
-        },
-        {
-            "id": "52780",
-            "airport_ref": "2215",
-            "airport_ident": "DE-0456",
-            "type": "DIR",
-            "description": "BERLIN DIR",
-            "frequency_mhz": "136.1"
-        },
-        {
-            "id": "52781",
-            "airport_ref": "2215",
-            "airport_ident": "DE-0456",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.95"
-        },
-        {
-            "id": "52782",
-            "airport_ref": "2215",
-            "airport_ident": "DE-0456",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "119.575"
-        }
-    ],
     "country": {
         "id": "302681",
         "code": "DE",

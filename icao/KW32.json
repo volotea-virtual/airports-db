@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "67766",
-            "airport_ref": "21351",
-            "airport_ident": "KW32",
-            "type": "A/D",
-            "description": "POTOMAC APP/DEP",
-            "frequency_mhz": "124.7"
-        },
-        {
-            "id": "67767",
-            "airport_ref": "21351",
-            "airport_ident": "KW32",
-            "type": "ATIS",
-            "description": "ANDREWS",
-            "frequency_mhz": "113.1"
-        },
-        {
-            "id": "67768",
-            "airport_ref": "21351",
-            "airport_ident": "KW32",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

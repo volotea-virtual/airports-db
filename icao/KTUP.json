@@ -41,64 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "63251",
-            "airport_ref": "3931",
-            "airport_ident": "KTUP",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "133.525"
-        },
-        {
-            "id": "63252",
-            "airport_ref": "3931",
-            "airport_ident": "KTUP",
-            "type": "CNTR",
-            "description": "MEMPHIS CNTR",
-            "frequency_mhz": "128.5"
-        },
-        {
-            "id": "63253",
-            "airport_ref": "3931",
-            "airport_ident": "KTUP",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "118.775"
-        },
-        {
-            "id": "63254",
-            "airport_ref": "3931",
-            "airport_ident": "KTUP",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.825"
-        },
-        {
-            "id": "63255",
-            "airport_ref": "3931",
-            "airport_ident": "KTUP",
-            "type": "OPS",
-            "description": "ARNG OPS",
-            "frequency_mhz": "33.5"
-        },
-        {
-            "id": "63256",
-            "airport_ref": "3931",
-            "airport_ident": "KTUP",
-            "type": "RDO",
-            "description": "RDO",
-            "frequency_mhz": "122.5"
-        },
-        {
-            "id": "63257",
-            "airport_ref": "3931",
-            "airport_ident": "KTUP",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.775"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

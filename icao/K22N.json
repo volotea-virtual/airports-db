@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "59303",
-            "airport_ref": "18537",
-            "airport_ident": "K22N",
-            "type": "A/D",
-            "description": "ALLENTOWN APP/DEP",
-            "frequency_mhz": "119.65"
-        },
-        {
-            "id": "59304",
-            "airport_ref": "18537",
-            "airport_ident": "K22N",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123.05"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

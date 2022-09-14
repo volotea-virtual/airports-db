@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "68743",
-            "airport_ref": "21443",
-            "airport_ident": "KZUN",
-            "type": "CNTR",
-            "description": "ALBUQUERQUE CNTR",
-            "frequency_mhz": "124.325"
-        },
-        {
-            "id": "68744",
-            "airport_ref": "21443",
-            "airport_ident": "KZUN",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.9"
-        },
-        {
-            "id": "68745",
-            "airport_ref": "21443",
-            "airport_ident": "KZUN",
-            "type": "RDO",
-            "description": "ALBUQUERQUE RDO",
-            "frequency_mhz": "122.05"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

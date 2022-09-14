@@ -63,64 +63,6 @@
             "he_displaced_threshold_ft": "188"
         }
     ],
-    "freqs": [
-        {
-            "id": "67924",
-            "airport_ref": "19881",
-            "airport_ident": "KFMN",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "127.15"
-        },
-        {
-            "id": "67925",
-            "airport_ref": "19881",
-            "airport_ident": "KFMN",
-            "type": "CNTR",
-            "description": "DENVER CNTR",
-            "frequency_mhz": "118.575"
-        },
-        {
-            "id": "67926",
-            "airport_ref": "19881",
-            "airport_ident": "KFMN",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "118.9"
-        },
-        {
-            "id": "67927",
-            "airport_ref": "19881",
-            "airport_ident": "KFMN",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.7"
-        },
-        {
-            "id": "67928",
-            "airport_ref": "19881",
-            "airport_ident": "KFMN",
-            "type": "RDO",
-            "description": "ALBUQUERQUE RDO",
-            "frequency_mhz": "122.4"
-        },
-        {
-            "id": "67929",
-            "airport_ref": "19881",
-            "airport_ident": "KFMN",
-            "type": "TWR",
-            "description": "FARMINGTON TWR",
-            "frequency_mhz": "118.9"
-        },
-        {
-            "id": "67930",
-            "airport_ref": "19881",
-            "airport_ident": "KFMN",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.95"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -63,56 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "49714",
-            "airport_ref": "5906",
-            "airport_ident": "SBGL",
-            "type": "APP",
-            "description": "RIO APP",
-            "frequency_mhz": "119.35"
-        },
-        {
-            "id": "49715",
-            "airport_ref": "5906",
-            "airport_ident": "SBGL",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "127.6"
-        },
-        {
-            "id": "49716",
-            "airport_ref": "5906",
-            "airport_ident": "SBGL",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "121"
-        },
-        {
-            "id": "49717",
-            "airport_ref": "5906",
-            "airport_ident": "SBGL",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.65"
-        },
-        {
-            "id": "49718",
-            "airport_ref": "5906",
-            "airport_ident": "SBGL",
-            "type": "OPS",
-            "description": "OPS",
-            "frequency_mhz": "122.5"
-        },
-        {
-            "id": "49719",
-            "airport_ref": "5906",
-            "airport_ident": "SBGL",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118"
-        }
-    ],
     "country": {
         "id": "302791",
         "code": "BR",

@@ -63,24 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55508",
-            "airport_ref": "4704",
-            "airport_ident": "MMCV",
-            "type": "APP",
-            "description": "MONTERREY CNTR",
-            "frequency_mhz": "124.5"
-        },
-        {
-            "id": "55509",
-            "airport_ref": "4704",
-            "airport_ident": "MMCV",
-            "type": "TWR",
-            "description": "VICTORIA TWR",
-            "frequency_mhz": "118.2"
-        }
-    ],
     "country": {
         "id": "302747",
         "code": "MX",

@@ -63,16 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "53817",
-            "airport_ref": "26489",
-            "airport_ident": "VEAT",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "123.5"
-        }
-    ],
     "country": {
         "id": "302634",
         "code": "IN",

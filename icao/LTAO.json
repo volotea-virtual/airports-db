@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "57855",
-            "airport_ref": "4519",
-            "airport_ident": "LTAO",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "125.6"
-        },
-        {
-            "id": "57854",
-            "airport_ref": "4519",
-            "airport_ident": "LTAO",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "132"
-        }
-    ],
     "country": {
         "id": "302667",
         "code": "TR",

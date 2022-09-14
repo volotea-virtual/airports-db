@@ -85,64 +85,6 @@
             "he_displaced_threshold_ft": "328"
         }
     ],
-    "freqs": [
-        {
-            "id": "53421",
-            "airport_ref": "4258",
-            "airport_ident": "LGIR",
-            "type": "A/G",
-            "description": "KAZANTZAKIS RDO",
-            "frequency_mhz": "563.7"
-        },
-        {
-            "id": "53422",
-            "airport_ref": "4258",
-            "airport_ident": "LGIR",
-            "type": "APP",
-            "description": "IRAKLION APP",
-            "frequency_mhz": "123.975"
-        },
-        {
-            "id": "53423",
-            "airport_ref": "4258",
-            "airport_ident": "LGIR",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "127.55"
-        },
-        {
-            "id": "53424",
-            "airport_ref": "4258",
-            "airport_ident": "LGIR",
-            "type": "DIR",
-            "description": "IRAKLION DIRECTOR",
-            "frequency_mhz": "118.025"
-        },
-        {
-            "id": "53425",
-            "airport_ref": "4258",
-            "airport_ident": "LGIR",
-            "type": "GND",
-            "description": "KAZANTZAKIS GND",
-            "frequency_mhz": "121.7"
-        },
-        {
-            "id": "53426",
-            "airport_ref": "4258",
-            "airport_ident": "LGIR",
-            "type": "TRSA",
-            "description": "IRAKLION RADAR",
-            "frequency_mhz": "123.975"
-        },
-        {
-            "id": "53427",
-            "airport_ref": "4258",
-            "airport_ident": "LGIR",
-            "type": "TWR",
-            "description": "KAZANTZAKIS TWR",
-            "frequency_mhz": "120.85"
-        }
-    ],
     "country": {
         "id": "302691",
         "code": "GR",

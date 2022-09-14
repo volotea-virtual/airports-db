@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "59745",
-            "airport_ref": "20902",
-            "airport_ident": "KPYX",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "118.175"
-        },
-        {
-            "id": "59746",
-            "airport_ref": "20902",
-            "airport_ident": "KPYX",
-            "type": "CNTR",
-            "description": "KANSAS CITY CNTR",
-            "frequency_mhz": "126.95"
-        },
-        {
-            "id": "59747",
-            "airport_ref": "20902",
-            "airport_ident": "KPYX",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

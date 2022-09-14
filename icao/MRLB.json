@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51587",
-            "airport_ref": "4806",
-            "airport_ident": "MRLB",
-            "type": "APP",
-            "description": "LIBERIA APP",
-            "frequency_mhz": "119.8"
-        },
-        {
-            "id": "51588",
-            "airport_ref": "4806",
-            "airport_ident": "MRLB",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.7"
-        },
-        {
-            "id": "51589",
-            "airport_ref": "4806",
-            "airport_ident": "MRLB",
-            "type": "RDO",
-            "description": "COCO RDO",
-            "frequency_mhz": "126.8"
-        },
-        {
-            "id": "51590",
-            "airport_ref": "4806",
-            "airport_ident": "MRLB",
-            "type": "TWR",
-            "description": "LIBERIA TWR",
-            "frequency_mhz": "118.8"
-        }
-    ],
     "country": {
         "id": "302731",
         "code": "CR",

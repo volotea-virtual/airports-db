@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "48280",
-            "airport_ref": "2074",
-            "airport_ident": "DAOV",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "119.7"
-        }
-    ],
     "country": {
         "id": "302568",
         "code": "DZ",

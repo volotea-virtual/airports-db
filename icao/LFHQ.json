@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "52522",
-            "airport_ref": "4112",
-            "airport_ident": "LFHQ",
-            "type": "AFIS",
-            "description": "ST FLOUR INFO",
-            "frequency_mhz": "120.05"
-        }
-    ],
     "country": {
         "id": "302687",
         "code": "FR",

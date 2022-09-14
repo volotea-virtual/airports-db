@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "57120",
-            "airport_ref": "2811",
-            "airport_ident": "FAMJ",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.2"
-        }
-    ],
     "country": {
         "id": "302610",
         "code": "ZA",

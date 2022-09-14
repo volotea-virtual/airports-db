@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "56854",
-            "airport_ref": "3236",
-            "airport_ident": "HRYG",
-            "type": "APP",
-            "description": "GOMA APP",
-            "frequency_mhz": "118.7"
-        },
-        {
-            "id": "56855",
-            "airport_ref": "3236",
-            "airport_ident": "HRYG",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "121.8"
-        }
-    ],
     "country": {
         "id": "302595",
         "code": "RW",

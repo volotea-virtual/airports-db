@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "68054",
-            "airport_ref": "20352",
-            "airport_ident": "KLLJ",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "119.275"
-        },
-        {
-            "id": "68055",
-            "airport_ref": "20352",
-            "airport_ident": "KLLJ",
-            "type": "CNTR",
-            "description": "SALT LAKE CITY CNTR",
-            "frequency_mhz": "128.05"
-        },
-        {
-            "id": "68056",
-            "airport_ref": "20352",
-            "airport_ident": "KLLJ",
-            "type": "RDO",
-            "description": "BOISE RDO",
-            "frequency_mhz": "122.6"
-        },
-        {
-            "id": "68057",
-            "airport_ref": "20352",
-            "airport_ident": "KLLJ",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

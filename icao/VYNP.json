@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "49513",
-            "airport_ref": "26733",
-            "airport_ident": "VYNP",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "119.7"
-        },
-        {
-            "id": "49514",
-            "airport_ref": "26733",
-            "airport_ident": "VYNP",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.7"
-        }
-    ],
     "country": {
         "id": "302649",
         "code": "MM",

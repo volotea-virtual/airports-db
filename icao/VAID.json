@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "53848",
-            "airport_ref": "26446",
-            "airport_ident": "VAID",
-            "type": "APP",
-            "description": "INDORE APP",
-            "frequency_mhz": "122.3"
-        },
-        {
-            "id": "53849",
-            "airport_ref": "26446",
-            "airport_ident": "VAID",
-            "type": "TWR",
-            "description": "INDORE TWR",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302634",
         "code": "IN",

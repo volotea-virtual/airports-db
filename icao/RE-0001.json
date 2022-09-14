@@ -1,0 +1,38 @@
+{
+    "id": "356614",
+    "ident": "RE-0001",
+    "type": "small_airport",
+    "name": "Adventure Reunion Paramotor Field",
+    "latitude_deg": "-21.111944",
+    "longitude_deg": "55.261667",
+    "elevation_ft": "190",
+    "continent": "AF",
+    "iso_country": "RE",
+    "iso_region": "RE-U-A",
+    "municipality": "Les Trois-Bassins",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "LF97445",
+    "country": {
+        "id": "302594",
+        "code": "RE",
+        "name": "Réunion",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Réunion",
+        "keywords": "Île Bourbon, La Réunion"
+    },
+    "region": {
+        "id": "305217",
+        "code": "RE-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "AF",
+        "iso_country": "RE",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}

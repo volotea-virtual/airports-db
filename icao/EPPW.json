@@ -63,16 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "56195",
-            "airport_ref": "2627",
-            "airport_ident": "EPPW",
-            "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "128.5"
-        }
-    ],
     "country": {
         "id": "302710",
         "code": "PL",

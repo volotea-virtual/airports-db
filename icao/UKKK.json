@@ -41,48 +41,6 @@
             "he_displaced_threshold_ft": "157"
         }
     ],
-    "freqs": [
-        {
-            "id": "58586",
-            "airport_ref": "6478",
-            "airport_ident": "UKKK",
-            "type": "APP",
-            "description": "KYIV RADAR",
-            "frequency_mhz": "125.3"
-        },
-        {
-            "id": "58589",
-            "airport_ref": "6478",
-            "airport_ident": "UKKK",
-            "type": "ATIS (eng)",
-            "description": "METEO",
-            "frequency_mhz": "127.475"
-        },
-        {
-            "id": "58587",
-            "airport_ref": "6478",
-            "airport_ident": "UKKK",
-            "type": "ATIS (rus)",
-            "description": "Zhuliany ATIS",
-            "frequency_mhz": "126.8"
-        },
-        {
-            "id": "58588",
-            "airport_ref": "6478",
-            "airport_ident": "UKKK",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "119"
-        },
-        {
-            "id": "58590",
-            "airport_ref": "6478",
-            "airport_ident": "UKKK",
-            "type": "TWR",
-            "description": "Tower",
-            "frequency_mhz": "120.7"
-        }
-    ],
     "country": {
         "id": "302719",
         "code": "UA",

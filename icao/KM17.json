@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "60699",
-            "airport_ref": "20413",
-            "airport_ident": "KM17",
-            "type": "A/D",
-            "description": "SPRINGFIELD APP/DEP",
-            "frequency_mhz": "124.95"
-        },
-        {
-            "id": "60700",
-            "airport_ref": "20413",
-            "airport_ident": "KM17",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

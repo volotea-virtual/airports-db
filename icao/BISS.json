@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "309536",
-            "airport_ref": "30751",
-            "airport_ident": "BISS",
-            "type": "TRFC",
-            "description": "Traffic",
-            "frequency_mhz": "119.9"
-        }
-    ],
     "country": {
         "id": "302696",
         "code": "IS",

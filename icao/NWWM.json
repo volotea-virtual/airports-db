@@ -41,48 +41,6 @@
             "he_displaced_threshold_ft": "500"
         }
     ],
-    "freqs": [
-        {
-            "id": "55673",
-            "airport_ref": "5017",
-            "airport_ident": "NWWM",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "124.3"
-        },
-        {
-            "id": "55674",
-            "airport_ref": "5017",
-            "airport_ident": "NWWM",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "126.6"
-        },
-        {
-            "id": "55675",
-            "airport_ref": "5017",
-            "airport_ident": "NWWM",
-            "type": "MISC",
-            "description": "VDF",
-            "frequency_mhz": "124.3"
-        },
-        {
-            "id": "320532",
-            "airport_ref": "5017",
-            "airport_ident": "NWWM",
-            "type": "SUPP",
-            "description": "Suppletive",
-            "frequency_mhz": "118.3"
-        },
-        {
-            "id": "55676",
-            "airport_ref": "5017",
-            "airport_ident": "NWWM",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "124.3"
-        }
-    ],
     "country": {
         "id": "302772",
         "code": "NC",

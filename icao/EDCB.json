@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "310110",
-            "airport_ref": "28519",
-            "airport_ident": "EDCB",
-            "type": "GE",
-            "description": "Ballenstedt Info",
-            "frequency_mhz": "0"
-        },
-        {
-            "id": "315838",
-            "airport_ref": "28519",
-            "airport_ident": "EDCB",
-            "type": "INFO",
-            "description": "Ballenstedt Info",
-            "frequency_mhz": "122.705"
-        }
-    ],
     "country": {
         "id": "302681",
         "code": "DE",

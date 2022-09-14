@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "323285",
-            "airport_ref": "31574",
-            "airport_ident": "HDCH",
-            "type": "GND",
-            "description": "",
-            "frequency_mhz": "120.425"
-        },
-        {
-            "id": "323286",
-            "airport_ref": "31574",
-            "airport_ident": "HDCH",
-            "type": "GND",
-            "description": "",
-            "frequency_mhz": "233.2"
-        },
-        {
-            "id": "323283",
-            "airport_ref": "31574",
-            "airport_ident": "HDCH",
-            "type": "TWR",
-            "description": "",
-            "frequency_mhz": "126.8"
-        },
-        {
-            "id": "323284",
-            "airport_ref": "31574",
-            "airport_ident": "HDCH",
-            "type": "TWR",
-            "description": "",
-            "frequency_mhz": "238.05"
-        }
-    ],
     "country": {
         "id": "302567",
         "code": "DJ",

@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "317211",
-            "airport_ref": "317209",
-            "airport_ident": "PT-0017",
-            "type": "Unicom",
-            "description": "",
-            "frequency_mhz": "122.5"
-        }
-    ],
     "country": {
         "id": "302711",
         "code": "PT",

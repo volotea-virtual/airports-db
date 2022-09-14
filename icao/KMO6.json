@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "58911",
-            "airport_ref": "20541",
-            "airport_ident": "KMO6",
-            "type": "A/D",
-            "description": "ST LOUIS APP/DEP",
-            "frequency_mhz": "126.5"
-        },
-        {
-            "id": "58912",
-            "airport_ref": "20541",
-            "airport_ident": "KMO6",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "333233",
-            "airport_ref": "29989",
-            "airport_ident": "LKJA",
-            "type": "RADIO",
-            "description": "",
-            "frequency_mhz": "119.105"
-        }
-    ],
     "country": {
         "id": "302680",
         "code": "CZ",

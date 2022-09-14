@@ -41,48 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "48188",
-            "airport_ref": "6402",
-            "airport_ident": "TNCA",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "132.1"
-        },
-        {
-            "id": "48189",
-            "airport_ref": "6402",
-            "airport_ident": "TNCA",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "48190",
-            "airport_ref": "6402",
-            "airport_ident": "TNCA",
-            "type": "MISC",
-            "description": "SEARCH AND RESCUE",
-            "frequency_mhz": "123.1"
-        },
-        {
-            "id": "48191",
-            "airport_ref": "6402",
-            "airport_ident": "TNCA",
-            "type": "RMP",
-            "description": "BEATRIX APRON",
-            "frequency_mhz": "121.6"
-        },
-        {
-            "id": "48192",
-            "airport_ref": "6402",
-            "airport_ident": "TNCA",
-            "type": "TWR",
-            "description": "BEATRIX TWR",
-            "frequency_mhz": "120.9"
-        }
-    ],
     "country": {
         "id": "302725",
         "code": "AW",

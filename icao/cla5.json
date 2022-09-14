@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "299245",
-            "airport_ref": "299244",
-            "airport_ident": "cla5",
-            "type": "MF",
-            "description": "Lethbridge Radio",
-            "frequency_mhz": "121"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

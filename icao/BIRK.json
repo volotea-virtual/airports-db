@@ -85,48 +85,6 @@
             "he_displaced_threshold_ft": "213"
         }
     ],
-    "freqs": [
-        {
-            "id": "53556",
-            "airport_ref": "125",
-            "airport_ident": "BIRK",
-            "type": "A/D",
-            "description": "APP/DEP",
-            "frequency_mhz": "119"
-        },
-        {
-            "id": "53557",
-            "airport_ref": "125",
-            "airport_ident": "BIRK",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "128.1"
-        },
-        {
-            "id": "53558",
-            "airport_ref": "125",
-            "airport_ident": "BIRK",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.7"
-        },
-        {
-            "id": "53559",
-            "airport_ref": "125",
-            "airport_ident": "BIRK",
-            "type": "RDO",
-            "description": "RDO",
-            "frequency_mhz": "126.55"
-        },
-        {
-            "id": "53560",
-            "airport_ref": "125",
-            "airport_ident": "BIRK",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118"
-        }
-    ],
     "country": {
         "id": "302696",
         "code": "IS",

@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": "540"
         }
     ],
-    "freqs": [
-        {
-            "id": "61372",
-            "airport_ref": "21254",
-            "airport_ident": "KU12",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.9"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

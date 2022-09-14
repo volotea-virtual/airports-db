@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "49854",
-            "airport_ref": "5887",
-            "airport_ident": "SBCM",
-            "type": "AFIS",
-            "description": "CRICIUMA RDO",
-            "frequency_mhz": "131.95"
-        }
-    ],
     "country": {
         "id": "302791",
         "code": "BR",

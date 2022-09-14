@@ -63,56 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "56798",
-            "airport_ref": "6455",
-            "airport_ident": "UHHH",
-            "type": "APP",
-            "description": "KHABAROVSK APP",
-            "frequency_mhz": "125.2"
-        },
-        {
-            "id": "56799",
-            "airport_ref": "6455",
-            "airport_ident": "UHHH",
-            "type": "ATIS",
-            "description": "KHABAROVSK ATIS",
-            "frequency_mhz": "124.875"
-        },
-        {
-            "id": "56800",
-            "airport_ref": "6455",
-            "airport_ident": "UHHH",
-            "type": "MISC",
-            "description": "KHABAROVSK TRANSIT",
-            "frequency_mhz": "131.8"
-        },
-        {
-            "id": "56801",
-            "airport_ref": "6455",
-            "airport_ident": "UHHH",
-            "type": "PMSV",
-            "description": "KHABAROVSK VOLMET",
-            "frequency_mhz": "127.875"
-        },
-        {
-            "id": "56802",
-            "airport_ref": "6455",
-            "airport_ident": "UHHH",
-            "type": "RDR",
-            "description": "KHABAROVSK KRUG",
-            "frequency_mhz": "120.3"
-        },
-        {
-            "id": "56803",
-            "airport_ref": "6455",
-            "airport_ident": "UHHH",
-            "type": "TWR",
-            "description": "KHABAROVSK TWR",
-            "frequency_mhz": "119.3"
-        }
-    ],
     "country": {
         "id": "302714",
         "code": "RU",

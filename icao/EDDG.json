@@ -41,48 +41,6 @@
             "he_displaced_threshold_ft": "656"
         }
     ],
-    "freqs": [
-        {
-            "id": "52946",
-            "airport_ref": "2213",
-            "airport_ident": "EDDG",
-            "type": "AFIS",
-            "description": "LANGEN INFO",
-            "frequency_mhz": "123.525"
-        },
-        {
-            "id": "52947",
-            "airport_ref": "2213",
-            "airport_ident": "EDDG",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "127.175"
-        },
-        {
-            "id": "52948",
-            "airport_ref": "2213",
-            "airport_ident": "EDDG",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.875"
-        },
-        {
-            "id": "52949",
-            "airport_ref": "2213",
-            "airport_ident": "EDDG",
-            "type": "RDR",
-            "description": "LANGEN RADAR",
-            "frequency_mhz": "129.3"
-        },
-        {
-            "id": "52950",
-            "airport_ref": "2213",
-            "airport_ident": "EDDG",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "129.8"
-        }
-    ],
     "country": {
         "id": "302681",
         "code": "DE",

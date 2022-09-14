@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "57717",
-            "airport_ref": "26652",
-            "airport_ident": "VTCR",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "120.05"
-        },
-        {
-            "id": "57718",
-            "airport_ref": "26652",
-            "airport_ident": "VTCR",
-            "type": "RDO",
-            "description": "RDO",
-            "frequency_mhz": "666.7"
-        },
-        {
-            "id": "57719",
-            "airport_ref": "26652",
-            "airport_ident": "VTCR",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.4"
-        }
-    ],
     "country": {
         "id": "302663",
         "code": "TH",

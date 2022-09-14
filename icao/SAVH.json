@@ -3,8 +3,8 @@
     "ident": "SAVH",
     "type": "medium_airport",
     "name": "Las Heras Airport",
-    "latitude_deg": "-46.53829956049999",
-    "longitude_deg": "-68.9653015137",
+    "latitude_deg": "-46.538517",
+    "longitude_deg": "-68.965323",
     "elevation_ft": "1082",
     "continent": "SA",
     "iso_country": "AR",
@@ -15,7 +15,7 @@
     "iata_code": "LHS",
     "local_code": "CLH",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Colonia_Las_Heras_Airport",
     "keywords": "",
     "runways": [
         {

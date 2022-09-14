@@ -63,24 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "73074",
-            "airport_ref": "27595",
-            "airport_ident": "AU-0220",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "119"
-        },
-        {
-            "id": "73075",
-            "airport_ref": "27595",
-            "airport_ident": "AU-0220",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "126.8"
-        }
-    ],
     "country": {
         "id": "302764",
         "code": "AU",

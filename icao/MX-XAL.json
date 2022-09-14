@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "301285",
-            "airport_ref": "32690",
-            "airport_ident": "MX-XAL",
-            "type": "Unicom",
-            "description": "",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302747",
         "code": "MX",

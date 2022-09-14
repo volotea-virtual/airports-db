@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "71458",
-            "airport_ref": "21141",
-            "airport_ident": "KT20",
-            "type": "CNTR",
-            "description": "HOUSTON CNTR",
-            "frequency_mhz": "126.625"
-        },
-        {
-            "id": "71459",
-            "airport_ref": "21141",
-            "airport_ident": "KT20",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.9"
-        },
-        {
-            "id": "71460",
-            "airport_ref": "21141",
-            "airport_ident": "KT20",
-            "type": "MISC",
-            "description": "RWY LGT",
-            "frequency_mhz": "123"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

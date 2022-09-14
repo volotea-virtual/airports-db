@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "57455",
-            "airport_ref": "2708",
-            "airport_ident": "ESST",
-            "type": "AFIS",
-            "description": "AFIS",
-            "frequency_mhz": "122.05"
-        }
-    ],
     "country": {
         "id": "302715",
         "code": "SE",

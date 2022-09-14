@@ -63,56 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "62685",
-            "airport_ref": "3613",
-            "airport_ident": "KINT",
-            "type": "A/D",
-            "description": "GREENSBORO APP/DEP",
-            "frequency_mhz": "124.35"
-        },
-        {
-            "id": "62686",
-            "airport_ref": "3613",
-            "airport_ident": "KINT",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "121.3"
-        },
-        {
-            "id": "62687",
-            "airport_ref": "3613",
-            "airport_ident": "KINT",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "123.75"
-        },
-        {
-            "id": "62688",
-            "airport_ref": "3613",
-            "airport_ident": "KINT",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "128.25"
-        },
-        {
-            "id": "62689",
-            "airport_ref": "3613",
-            "airport_ident": "KINT",
-            "type": "TWR",
-            "description": "WINSTON SALEM TWR",
-            "frequency_mhz": "123.75"
-        },
-        {
-            "id": "62690",
-            "airport_ref": "3613",
-            "airport_ident": "KINT",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.95"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

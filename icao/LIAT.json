@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "316450",
-            "airport_ref": "316448",
-            "airport_ident": "LIAT",
-            "type": "RDO",
-            "description": "Valdera Radio",
-            "frequency_mhz": "119"
-        }
-    ],
     "country": {
         "id": "302697",
         "code": "IT",

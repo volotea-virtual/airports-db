@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "56522",
-            "airport_ref": "5719",
-            "airport_ident": "RPUH",
-            "type": "FSS",
-            "description": "RDO",
-            "frequency_mhz": "118.3"
-        }
-    ],
     "country": {
         "id": "302656",
         "code": "PH",

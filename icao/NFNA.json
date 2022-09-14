@@ -22,49 +22,23 @@
             "id": "235776",
             "airport_ref": "4960",
             "airport_ident": "NFNA",
-            "length_ft": "6129",
-            "width_ft": "100",
+            "length_ft": "7047",
+            "width_ft": "148",
             "surface": "ASP",
             "lighted": "1",
             "closed": "0",
             "le_ident": "10",
-            "le_latitude_deg": "-18.04050064086914",
-            "le_longitude_deg": "178.55099487304688",
+            "le_latitude_deg": "-18.040892",
+            "le_longitude_deg": "178.551971",
             "le_elevation_ft": "17",
-            "le_heading_degT": "109.2",
+            "le_heading_degT": "109",
             "le_displaced_threshold_ft": "394",
             "he_ident": "28",
-            "he_latitude_deg": "-18.04599952697754",
-            "he_longitude_deg": "178.5679931640625",
+            "he_latitude_deg": "-18.047272",
+            "he_longitude_deg": "178.571136",
             "he_elevation_ft": "10",
-            "he_heading_degT": "289.2",
+            "he_heading_degT": "289",
             "he_displaced_threshold_ft": ""
-        }
-    ],
-    "freqs": [
-        {
-            "id": "52145",
-            "airport_ref": "4960",
-            "airport_ident": "NFNA",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "119.7"
-        },
-        {
-            "id": "52146",
-            "airport_ref": "4960",
-            "airport_ident": "NFNA",
-            "type": "ATIS",
-            "description": "TRML INFO",
-            "frequency_mhz": "128.5"
-        },
-        {
-            "id": "52147",
-            "airport_ref": "4960",
-            "airport_ident": "NFNA",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "119.7"
         }
     ],
     "country": {

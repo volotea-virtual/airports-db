@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": "624"
         }
     ],
-    "freqs": [
-        {
-            "id": "52727",
-            "airport_ref": "2226",
-            "airport_ident": "EDFE",
-            "type": "AFIS",
-            "description": "LANGEN INFORMATION",
-            "frequency_mhz": "119.15"
-        },
-        {
-            "id": "52728",
-            "airport_ref": "2226",
-            "airport_ident": "EDFE",
-            "type": "INFO",
-            "description": "Egelsbach Info",
-            "frequency_mhz": "118.405"
-        },
-        {
-            "id": "52729",
-            "airport_ref": "2226",
-            "airport_ident": "EDFE",
-            "type": "RMP",
-            "description": "Egelsbach Apron",
-            "frequency_mhz": "121.73"
-        }
-    ],
     "country": {
         "id": "302681",
         "code": "DE",

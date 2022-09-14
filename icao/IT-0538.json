@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "331160",
-            "airport_ref": "331158",
-            "airport_ident": "IT-0538",
-            "type": "UNICOM",
-            "description": "SAT Radio",
-            "frequency_mhz": "130"
-        }
-    ],
     "country": {
         "id": "302697",
         "code": "IT",

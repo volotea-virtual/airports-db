@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55504",
-            "airport_ref": "4728",
-            "airport_ident": "MMMM",
-            "type": "APP",
-            "description": "MORELIA  APP/TWR",
-            "frequency_mhz": "118.5"
-        }
-    ],
     "country": {
         "id": "302747",
         "code": "MX",

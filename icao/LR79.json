@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "56406",
-            "airport_ref": "5667",
-            "airport_ident": "LR79",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "130"
-        },
-        {
-            "id": "56407",
-            "airport_ref": "5667",
-            "airport_ident": "LR79",
-            "type": "DEP",
-            "description": "DEP",
-            "frequency_mhz": "130"
-        },
-        {
-            "id": "56408",
-            "airport_ref": "5667",
-            "airport_ident": "LR79",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "130"
-        }
-    ],
     "country": {
         "id": "302712",
         "code": "RO",

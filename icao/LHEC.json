@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "313776",
-            "airport_ref": "43982",
-            "airport_ident": "LHEC",
-            "type": "CTAF",
-            "description": "",
-            "frequency_mhz": "123.675"
-        }
-    ],
     "country": {
         "id": "302693",
         "code": "HU",

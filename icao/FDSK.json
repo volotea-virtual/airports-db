@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "323080",
-            "airport_ref": "308033",
-            "airport_ident": "FDSK",
-            "type": "APP",
-            "description": "Sikhuphe Aproach Control",
-            "frequency_mhz": "128"
-        },
-        {
-            "id": "323082",
-            "airport_ref": "308033",
-            "airport_ident": "FDSK",
-            "type": "GND",
-            "description": "Sikhuphe Ground Control",
-            "frequency_mhz": "121.8"
-        },
-        {
-            "id": "323081",
-            "airport_ref": "308033",
-            "airport_ident": "FDSK",
-            "type": "TWR",
-            "description": "Sikhuphe Tower",
-            "frequency_mhz": "118.55"
-        }
-    ],
     "country": {
         "id": "302603",
         "code": "SZ",

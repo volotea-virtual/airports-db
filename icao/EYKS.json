@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55167",
-            "airport_ref": "2761",
-            "airport_ident": "EYKS",
-            "type": "AAS",
-            "description": "ALEKSOTAS INFO",
-            "frequency_mhz": "135.5"
-        },
-        {
-            "id": "55168",
-            "airport_ref": "2761",
-            "airport_ident": "EYKS",
-            "type": "APP",
-            "description": "KAUNAS APCH",
-            "frequency_mhz": "124.2"
-        },
-        {
-            "id": "55169",
-            "airport_ref": "2761",
-            "airport_ident": "EYKS",
-            "type": "INFO",
-            "description": "KAUNAS INFO",
-            "frequency_mhz": "124.6"
-        },
-        {
-            "id": "55170",
-            "airport_ref": "2761",
-            "airport_ident": "EYKS",
-            "type": "TWR",
-            "description": "KAUNAS TWR",
-            "frequency_mhz": "118.5"
-        }
-    ],
     "country": {
         "id": "302700",
         "code": "LT",

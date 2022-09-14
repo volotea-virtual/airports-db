@@ -85,64 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "68833",
-            "airport_ref": "3576",
-            "airport_ident": "KHFD",
-            "type": "A/D",
-            "description": "BRADLEY APP/DEP",
-            "frequency_mhz": "127.8"
-        },
-        {
-            "id": "68834",
-            "airport_ref": "3576",
-            "airport_ident": "KHFD",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "126.45"
-        },
-        {
-            "id": "68835",
-            "airport_ref": "3576",
-            "airport_ident": "KHFD",
-            "type": "CLD",
-            "description": "BRADLEY CLNC DEL",
-            "frequency_mhz": "121.6"
-        },
-        {
-            "id": "68836",
-            "airport_ref": "3576",
-            "airport_ident": "KHFD",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "119.6"
-        },
-        {
-            "id": "68837",
-            "airport_ref": "3576",
-            "airport_ident": "KHFD",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.6"
-        },
-        {
-            "id": "68838",
-            "airport_ref": "3576",
-            "airport_ident": "KHFD",
-            "type": "TWR",
-            "description": "BRAINARD TWR",
-            "frequency_mhz": "119.6"
-        },
-        {
-            "id": "68839",
-            "airport_ref": "3576",
-            "airport_ident": "KHFD",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.95"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

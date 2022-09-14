@@ -63,24 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "308612",
-            "airport_ref": "26605",
-            "airport_ident": "VOBR",
-            "type": "APP",
-            "description": "",
-            "frequency_mhz": "122.85"
-        },
-        {
-            "id": "75400",
-            "airport_ref": "26605",
-            "airport_ident": "VOBR",
-            "type": "Twr",
-            "description": "",
-            "frequency_mhz": "123.5"
-        }
-    ],
     "country": {
         "id": "302634",
         "code": "IN",

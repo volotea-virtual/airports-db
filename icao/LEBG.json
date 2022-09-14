@@ -63,16 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "57365",
-            "airport_ref": "4003",
-            "airport_ident": "LEBG",
-            "type": "UNIC",
-            "description": "UNIC",
-            "frequency_mhz": "122.4"
-        }
-    ],
     "country": {
         "id": "302684",
         "code": "ES",

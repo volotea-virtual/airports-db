@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "57160",
-            "airport_ref": "2877",
-            "airport_ident": "FHAW",
-            "type": "A/G",
-            "description": "RAF HAVENS HF",
-            "frequency_mhz": "1124.7"
-        },
-        {
-            "id": "57161",
-            "airport_ref": "2877",
-            "airport_ident": "FHAW",
-            "type": "ACC",
-            "description": "ATLANTICO FIR",
-            "frequency_mhz": "1795.5"
-        },
-        {
-            "id": "57162",
-            "airport_ref": "2877",
-            "airport_ident": "FHAW",
-            "type": "RDO",
-            "description": "ASCENSION RDO",
-            "frequency_mhz": "1078"
-        },
-        {
-            "id": "57163",
-            "airport_ref": "2877",
-            "airport_ident": "FHAW",
-            "type": "TWR",
-            "description": "WIDEAWAKE TWR",
-            "frequency_mhz": "126.2"
-        }
-    ],
     "country": {
         "id": "302598",
         "code": "SH",

@@ -63,56 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51284",
-            "airport_ref": "27205",
-            "airport_ident": "ZLXY",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "119.6"
-        },
-        {
-            "id": "51285",
-            "airport_ref": "27205",
-            "airport_ident": "ZLXY",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "127.45"
-        },
-        {
-            "id": "333740",
-            "airport_ref": "27205",
-            "airport_ident": "ZLXY",
-            "type": "CLD",
-            "description": "",
-            "frequency_mhz": "121.6"
-        },
-        {
-            "id": "333741",
-            "airport_ref": "27205",
-            "airport_ident": "ZLXY",
-            "type": "DEP",
-            "description": "",
-            "frequency_mhz": "128.65"
-        },
-        {
-            "id": "51286",
-            "airport_ref": "27205",
-            "airport_ident": "ZLXY",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.8"
-        },
-        {
-            "id": "51287",
-            "airport_ref": "27205",
-            "airport_ident": "ZLXY",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "124.3"
-        }
-    ],
     "country": {
         "id": "302627",
         "code": "CN",

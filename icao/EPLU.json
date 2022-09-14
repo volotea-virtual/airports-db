@@ -85,24 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "349578",
-            "airport_ref": "2617",
-            "airport_ident": "EPLU",
-            "type": "FIS POZNAŃ INFO",
-            "description": "POZNAŃ INFORMATION",
-            "frequency_mhz": "127.25"
-        },
-        {
-            "id": "56237",
-            "airport_ref": "2617",
-            "airport_ident": "EPLU",
-            "type": "RADIO",
-            "description": "LUBIN RADIO",
-            "frequency_mhz": "119.535"
-        }
-    ],
     "country": {
         "id": "302710",
         "code": "PL",

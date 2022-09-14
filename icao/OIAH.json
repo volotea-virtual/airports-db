@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "54035",
-            "airport_ref": "5133",
-            "airport_ident": "OIAH",
-            "type": "AFIS",
-            "description": "INFO",
-            "frequency_mhz": "122.1"
-        }
-    ],
     "country": {
         "id": "302637",
         "code": "IR",

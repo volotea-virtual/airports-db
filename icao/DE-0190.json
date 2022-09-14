@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "315241",
-            "airport_ref": "315240",
-            "airport_ident": "DE-0190",
-            "type": "CTAF",
-            "description": "",
-            "frequency_mhz": "123.425"
-        }
-    ],
     "country": {
         "id": "302681",
         "code": "DE",

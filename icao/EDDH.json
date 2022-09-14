@@ -63,64 +63,6 @@
             "he_displaced_threshold_ft": "1464"
         }
     ],
-    "freqs": [
-        {
-            "id": "330907",
-            "airport_ref": "2214",
-            "airport_ident": "EDDH",
-            "type": "AFIS",
-            "description": "LANGEN INFORMATION",
-            "frequency_mhz": "125.1"
-        },
-        {
-            "id": "53112",
-            "airport_ref": "2214",
-            "airport_ident": "EDDH",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "123.125"
-        },
-        {
-            "id": "53113",
-            "airport_ref": "2214",
-            "airport_ident": "EDDH",
-            "type": "DIR",
-            "description": "DIRECTOR",
-            "frequency_mhz": "118.2"
-        },
-        {
-            "id": "53114",
-            "airport_ref": "2214",
-            "airport_ident": "EDDH",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.8"
-        },
-        {
-            "id": "53115",
-            "airport_ref": "2214",
-            "airport_ident": "EDDH",
-            "type": "RDR",
-            "description": "BREMEN RADAR",
-            "frequency_mhz": "134.25"
-        },
-        {
-            "id": "53116",
-            "airport_ref": "2214",
-            "airport_ident": "EDDH",
-            "type": "RMP",
-            "description": "APRON",
-            "frequency_mhz": "121.7"
-        },
-        {
-            "id": "53117",
-            "airport_ref": "2214",
-            "airport_ident": "EDDH",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "126.85"
-        }
-    ],
     "country": {
         "id": "302681",
         "code": "DE",

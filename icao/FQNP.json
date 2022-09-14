@@ -63,24 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55648",
-            "airport_ref": "2980",
-            "airport_ident": "FQNP",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "128.8"
-        },
-        {
-            "id": "55649",
-            "airport_ref": "2980",
-            "airport_ident": "FQNP",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "121.3"
-        }
-    ],
     "country": {
         "id": "302590",
         "code": "MZ",

@@ -3,13 +3,13 @@
     "ident": "YSRD",
     "type": "small_airport",
     "name": "Sunrise Dam Airport",
-    "latitude_deg": "-29.101699829101562",
-    "longitude_deg": "122.44999694824219",
+    "latitude_deg": "-29.099022",
+    "longitude_deg": "122.456253",
     "elevation_ft": "",
     "continent": "OC",
     "iso_country": "AU",
     "iso_region": "AU-WA",
-    "municipality": "",
+    "municipality": "Laverton",
     "scheduled_service": "no",
     "gps_code": "YSRD",
     "iata_code": "",
@@ -39,32 +39,6 @@
             "he_elevation_ft": "",
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
-        }
-    ],
-    "freqs": [
-        {
-            "id": "74562",
-            "airport_ref": "38588",
-            "airport_ident": "YSRD",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "126.7"
-        },
-        {
-            "id": "74563",
-            "airport_ref": "38588",
-            "airport_ident": "YSRD",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "120.6"
-        },
-        {
-            "id": "74564",
-            "airport_ref": "38588",
-            "airport_ident": "YSRD",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "122.1"
         }
     ],
     "country": {

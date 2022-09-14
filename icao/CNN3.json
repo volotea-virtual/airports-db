@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "75526",
-            "airport_ref": "1325",
-            "airport_ident": "CNN3",
-            "type": "A/G",
-            "description": "",
-            "frequency_mhz": "122.9"
-        },
-        {
-            "id": "75525",
-            "airport_ref": "1325",
-            "airport_ident": "CNN3",
-            "type": "CTAF",
-            "description": "",
-            "frequency_mhz": "122.725"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

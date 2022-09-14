@@ -85,64 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "62340",
-            "airport_ref": "3629",
-            "airport_ident": "KLAN",
-            "type": "A/D",
-            "description": "LANSING APP/DEP",
-            "frequency_mhz": "118.65"
-        },
-        {
-            "id": "62341",
-            "airport_ref": "3629",
-            "airport_ident": "KLAN",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "119.75"
-        },
-        {
-            "id": "62342",
-            "airport_ref": "3629",
-            "airport_ident": "KLAN",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "123.675"
-        },
-        {
-            "id": "62343",
-            "airport_ref": "3629",
-            "airport_ident": "KLAN",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "62344",
-            "airport_ref": "3629",
-            "airport_ident": "KLAN",
-            "type": "RDO",
-            "description": "LANSING RDO",
-            "frequency_mhz": "122.2"
-        },
-        {
-            "id": "62345",
-            "airport_ref": "3629",
-            "airport_ident": "KLAN",
-            "type": "TWR",
-            "description": "LANSING TWR",
-            "frequency_mhz": "119.9"
-        },
-        {
-            "id": "62346",
-            "airport_ref": "3629",
-            "airport_ident": "KLAN",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.95"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

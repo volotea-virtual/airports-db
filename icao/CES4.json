@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": "200"
         }
     ],
-    "freqs": [
-        {
-            "id": "50881",
-            "airport_ref": "896",
-            "airport_ident": "CES4",
-            "type": "UNIC",
-            "description": "ATF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

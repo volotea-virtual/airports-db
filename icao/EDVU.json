@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "314142",
-            "airport_ref": "28741",
-            "airport_ident": "EDVU",
-            "type": "TWR",
-            "description": "Uelzen INFO",
-            "frequency_mhz": "130.9"
-        }
-    ],
     "country": {
         "id": "302681",
         "code": "DE",

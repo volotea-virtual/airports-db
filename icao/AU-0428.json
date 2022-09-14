@@ -17,24 +17,6 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "YTNC",
-    "freqs": [
-        {
-            "id": "74727",
-            "airport_ref": "38612",
-            "airport_ident": "AU-0428",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "126.7"
-        },
-        {
-            "id": "74728",
-            "airport_ref": "38612",
-            "airport_ident": "AU-0428",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "119.5"
-        }
-    ],
     "country": {
         "id": "302764",
         "code": "AU",

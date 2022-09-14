@@ -63,24 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "75453",
-            "airport_ref": "1571",
-            "airport_ident": "CSW5",
-            "type": "A/G",
-            "description": "Tour de Bell",
-            "frequency_mhz": "130.25"
-        },
-        {
-            "id": "75452",
-            "airport_ref": "1571",
-            "airport_ident": "CSW5",
-            "type": "RADIO",
-            "description": "Mirabel Radio",
-            "frequency_mhz": "119.1"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

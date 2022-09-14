@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "75533",
-            "airport_ref": "1266",
-            "airport_ident": "CLC2",
-            "type": "MF",
-            "description": "Sault Radio",
-            "frequency_mhz": "119.4"
-        },
-        {
-            "id": "75532",
-            "airport_ref": "1266",
-            "airport_ident": "CLC2",
-            "type": "TWR",
-            "description": "London Tower",
-            "frequency_mhz": "119.4"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

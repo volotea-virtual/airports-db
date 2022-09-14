@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "62226",
-            "airport_ref": "3630",
-            "airport_ident": "KLAR",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "135.475"
-        },
-        {
-            "id": "62227",
-            "airport_ref": "3630",
-            "airport_ident": "KLAR",
-            "type": "CNTR",
-            "description": "DENVER CNTR",
-            "frequency_mhz": "125.9"
-        },
-        {
-            "id": "62228",
-            "airport_ref": "3630",
-            "airport_ident": "KLAR",
-            "type": "RDO",
-            "description": "CASPER RDO",
-            "frequency_mhz": "122.6"
-        },
-        {
-            "id": "62229",
-            "airport_ref": "3630",
-            "airport_ident": "KLAR",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123.05"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

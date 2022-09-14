@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": "1010"
         }
     ],
-    "freqs": [
-        {
-            "id": "48418",
-            "airport_ref": "5807",
-            "airport_ident": "SARL",
-            "type": "TWR",
-            "description": "LIBRES TWR/APP",
-            "frequency_mhz": "120.3"
-        }
-    ],
     "country": {
         "id": "302789",
         "code": "AR",

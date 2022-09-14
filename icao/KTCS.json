@@ -129,40 +129,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "68223",
-            "airport_ref": "3919",
-            "airport_ident": "KTCS",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "120.675"
-        },
-        {
-            "id": "68224",
-            "airport_ref": "3919",
-            "airport_ident": "KTCS",
-            "type": "CNTR",
-            "description": "ALBUQUERQUE CNTR",
-            "frequency_mhz": "128.2"
-        },
-        {
-            "id": "68225",
-            "airport_ref": "3919",
-            "airport_ident": "KTCS",
-            "type": "RDO",
-            "description": "ALBUQUERQUE RDO",
-            "frequency_mhz": "122.2"
-        },
-        {
-            "id": "68226",
-            "airport_ref": "3919",
-            "airport_ident": "KTCS",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "56251",
-            "airport_ref": "4789",
-            "airport_ident": "MPDA",
-            "type": "ACC",
-            "description": "PANAMA CON",
-            "frequency_mhz": "133"
-        },
-        {
-            "id": "56252",
-            "airport_ref": "4789",
-            "airport_ident": "MPDA",
-            "type": "APP",
-            "description": "PANAMA APP",
-            "frequency_mhz": "119.7"
-        },
-        {
-            "id": "56253",
-            "airport_ref": "4789",
-            "airport_ident": "MPDA",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.7"
-        },
-        {
-            "id": "56254",
-            "airport_ref": "4789",
-            "airport_ident": "MPDA",
-            "type": "TWR",
-            "description": "MALEK TWR",
-            "frequency_mhz": "118.7"
-        }
-    ],
     "country": {
         "id": "302749",
         "code": "PA",

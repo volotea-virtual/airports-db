@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "56133",
-            "airport_ref": "5255",
-            "airport_ident": "OPKC",
-            "type": "APP",
-            "description": "KARACHI APP",
-            "frequency_mhz": "125.5"
-        },
-        {
-            "id": "56134",
-            "airport_ref": "5255",
-            "airport_ident": "OPKC",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "126.7"
-        },
-        {
-            "id": "56135",
-            "airport_ref": "5255",
-            "airport_ident": "OPKC",
-            "type": "GND",
-            "description": "KARACHI GND",
-            "frequency_mhz": "121.6"
-        },
-        {
-            "id": "56136",
-            "airport_ref": "5255",
-            "airport_ident": "OPKC",
-            "type": "TWR",
-            "description": "KARACHI TWR",
-            "frequency_mhz": "118.3"
-        }
-    ],
     "country": {
         "id": "302657",
         "code": "PK",

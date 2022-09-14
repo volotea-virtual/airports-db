@@ -63,16 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "354367",
-            "airport_ref": "17154",
-            "airport_ident": "DTG",
-            "type": "CTAF",
-            "description": "Dwight traffic",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

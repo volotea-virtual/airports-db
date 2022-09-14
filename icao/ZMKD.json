@@ -85,24 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55288",
-            "airport_ref": "27210",
-            "airport_ident": "ZMKD",
-            "type": "APP",
-            "description": "KHAR US APP",
-            "frequency_mhz": "130"
-        },
-        {
-            "id": "55289",
-            "airport_ref": "27210",
-            "airport_ident": "ZMKD",
-            "type": "RDO",
-            "description": "KHAR US RDO",
-            "frequency_mhz": "571.5"
-        }
-    ],
     "country": {
         "id": "302650",
         "code": "MN",

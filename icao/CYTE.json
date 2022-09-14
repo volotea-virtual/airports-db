@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51040",
-            "airport_ref": "1918",
-            "airport_ident": "CYTE",
-            "type": "ATF",
-            "description": "MANDATORY FREQ",
-            "frequency_mhz": "122.1"
-        },
-        {
-            "id": "51039",
-            "airport_ref": "1918",
-            "airport_ident": "CYTE",
-            "type": "AWOS",
-            "description": "AWOS",
-            "frequency_mhz": "128.7"
-        },
-        {
-            "id": "51041",
-            "airport_ref": "1918",
-            "airport_ident": "CYTE",
-            "type": "RDO",
-            "description": "ARPT RDO",
-            "frequency_mhz": "122.1"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

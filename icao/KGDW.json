@@ -63,24 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "62947",
-            "airport_ref": "19937",
-            "airport_ident": "KGDW",
-            "type": "A/D",
-            "description": "SAGINAW APP/DEP",
-            "frequency_mhz": "126.45"
-        },
-        {
-            "id": "62948",
-            "airport_ref": "19937",
-            "airport_ident": "KGDW",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

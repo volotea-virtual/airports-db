@@ -63,64 +63,6 @@
             "he_displaced_threshold_ft": "315"
         }
     ],
-    "freqs": [
-        {
-            "id": "65486",
-            "airport_ref": "3626",
-            "airport_ident": "KJXN",
-            "type": "A/D",
-            "description": "LANSING APP/DEP",
-            "frequency_mhz": "127.3"
-        },
-        {
-            "id": "65487",
-            "airport_ref": "3626",
-            "airport_ident": "KJXN",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "125.725"
-        },
-        {
-            "id": "65488",
-            "airport_ref": "3626",
-            "airport_ident": "KJXN",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "120.7"
-        },
-        {
-            "id": "65489",
-            "airport_ref": "3626",
-            "airport_ident": "KJXN",
-            "type": "GND",
-            "description": "GND/CLNC DEL",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "65490",
-            "airport_ref": "3626",
-            "airport_ident": "KJXN",
-            "type": "RDO",
-            "description": "LANSING RDO",
-            "frequency_mhz": "122.2"
-        },
-        {
-            "id": "65491",
-            "airport_ref": "3626",
-            "airport_ident": "KJXN",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "120.7"
-        },
-        {
-            "id": "65492",
-            "airport_ref": "3626",
-            "airport_ident": "KJXN",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.95"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

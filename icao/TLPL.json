@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": "493"
         }
     ],
-    "freqs": [
-        {
-            "id": "57370",
-            "airport_ref": "6389",
-            "airport_ident": "TLPL",
-            "type": "APP",
-            "description": "ST LUCIA APP",
-            "frequency_mhz": "119.8"
-        },
-        {
-            "id": "57371",
-            "airport_ref": "6389",
-            "airport_ident": "TLPL",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.6"
-        },
-        {
-            "id": "57372",
-            "airport_ref": "6389",
-            "airport_ident": "TLPL",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.3"
-        }
-    ],
     "country": {
         "id": "302744",
         "code": "LC",

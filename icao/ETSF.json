@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "52754",
-            "airport_ref": "2751",
-            "airport_ident": "ETSF",
-            "type": "AAS",
-            "description": "MUNCHEN INFO",
-            "frequency_mhz": "126.95"
-        },
-        {
-            "id": "52755",
-            "airport_ref": "2751",
-            "airport_ident": "ETSF",
-            "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "123.7"
-        }
-    ],
     "country": {
         "id": "302681",
         "code": "DE",

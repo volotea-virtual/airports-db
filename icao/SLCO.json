@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "49480",
-            "airport_ref": "6182",
-            "airport_ident": "SLCO",
-            "type": "RDO",
-            "description": "COBIJA RDO",
-            "frequency_mhz": "662.2"
-        },
-        {
-            "id": "49481",
-            "airport_ref": "6182",
-            "airport_ident": "SLCO",
-            "type": "TWR",
-            "description": "COBIJA TWR",
-            "frequency_mhz": "118.3"
-        }
-    ],
     "country": {
         "id": "302790",
         "code": "BO",

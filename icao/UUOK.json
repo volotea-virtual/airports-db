@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "56638",
-            "airport_ref": "26399",
-            "airport_ident": "UUOK",
-            "type": "APP",
-            "description": "KRUG",
-            "frequency_mhz": "131.5"
-        },
-        {
-            "id": "56639",
-            "airport_ref": "26399",
-            "airport_ident": "UUOK",
-            "type": "GND",
-            "description": "TAXIING",
-            "frequency_mhz": "120.6"
-        },
-        {
-            "id": "56640",
-            "airport_ref": "26399",
-            "airport_ident": "UUOK",
-            "type": "PMSV",
-            "description": "METRO",
-            "frequency_mhz": "127.8"
-        },
-        {
-            "id": "56641",
-            "airport_ref": "26399",
-            "airport_ident": "UUOK",
-            "type": "TWR",
-            "description": "START",
-            "frequency_mhz": "131.5"
-        }
-    ],
     "country": {
         "id": "302714",
         "code": "RU",

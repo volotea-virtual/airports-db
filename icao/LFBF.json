@@ -41,56 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "52409",
-            "airport_ref": "4062",
-            "airport_ident": "LFBF",
-            "type": "AFIS",
-            "description": "TOULOUSE INFO",
-            "frequency_mhz": "121.25"
-        },
-        {
-            "id": "52410",
-            "airport_ref": "4062",
-            "airport_ident": "LFBF",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "118.8"
-        },
-        {
-            "id": "52411",
-            "airport_ref": "4062",
-            "airport_ident": "LFBF",
-            "type": "APP",
-            "description": "TOULOUSE APP",
-            "frequency_mhz": "125.175"
-        },
-        {
-            "id": "52412",
-            "airport_ref": "4062",
-            "airport_ident": "LFBF",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "141.75"
-        },
-        {
-            "id": "52413",
-            "airport_ref": "4062",
-            "airport_ident": "LFBF",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "122.1"
-        },
-        {
-            "id": "52414",
-            "airport_ref": "4062",
-            "airport_ident": "LFBF",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.4"
-        }
-    ],
     "country": {
         "id": "302687",
         "code": "FR",

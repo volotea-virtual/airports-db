@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55453",
-            "airport_ref": "4768",
-            "airport_ident": "MMZO",
-            "type": "APP",
-            "description": "MANZANILLO APP/TWR",
-            "frequency_mhz": "118.7"
-        }
-    ],
     "country": {
         "id": "302747",
         "code": "MX",

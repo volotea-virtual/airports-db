@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": "880"
         }
     ],
-    "freqs": [
-        {
-            "id": "49321",
-            "airport_ref": "2168",
-            "airport_ident": "EBWE",
-            "type": "AFIS",
-            "description": "RDO",
-            "frequency_mhz": "120.225"
-        }
-    ],
     "country": {
         "id": "302676",
         "code": "BE",

@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "73722",
-            "airport_ref": "27756",
-            "airport_ident": "YMCO",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "126.7"
-        },
-        {
-            "id": "73723",
-            "airport_ref": "27756",
-            "airport_ident": "YMCO",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "117.5"
-        },
-        {
-            "id": "73724",
-            "airport_ref": "27756",
-            "airport_ident": "YMCO",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "124"
-        }
-    ],
     "country": {
         "id": "302764",
         "code": "AU",

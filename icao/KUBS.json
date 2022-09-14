@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "70346",
-            "airport_ref": "21282",
-            "airport_ident": "KUBS",
-            "type": "A/D",
-            "description": "APP/DEP",
-            "frequency_mhz": "135.6"
-        },
-        {
-            "id": "70347",
-            "airport_ref": "21282",
-            "airport_ident": "KUBS",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

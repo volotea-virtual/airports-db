@@ -3,13 +3,13 @@
     "ident": "YPKG",
     "type": "medium_airport",
     "name": "Kalgoorlie Boulder Airport",
-    "latitude_deg": "-30.789400100699996",
-    "longitude_deg": "121.461997986",
+    "latitude_deg": "-30.791543",
+    "longitude_deg": "121.464586",
     "elevation_ft": "1203",
     "continent": "OC",
     "iso_country": "AU",
     "iso_region": "AU-WA",
-    "municipality": "Kalgoorlie",
+    "municipality": "Broadwood",
     "scheduled_service": "yes",
     "gps_code": "YPKG",
     "iata_code": "KGI",
@@ -61,32 +61,6 @@
             "he_elevation_ft": "1187",
             "he_heading_degT": "5",
             "he_displaced_threshold_ft": ""
-        }
-    ],
-    "freqs": [
-        {
-            "id": "48918",
-            "airport_ref": "27108",
-            "airport_ident": "YPKG",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "126.6"
-        },
-        {
-            "id": "48919",
-            "airport_ref": "27108",
-            "airport_ident": "YPKG",
-            "type": "FSS",
-            "description": "MELBOURNE CNTR",
-            "frequency_mhz": "122.1"
-        },
-        {
-            "id": "48920",
-            "airport_ref": "27108",
-            "airport_ident": "YPKG",
-            "type": "UNIC",
-            "description": "UNICOM AIR BP",
-            "frequency_mhz": "126.6"
         }
     ],
     "country": {

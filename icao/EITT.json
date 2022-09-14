@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "313605",
-            "airport_ref": "43998",
-            "airport_ident": "EITT",
-            "type": "Radio",
-            "description": "",
-            "frequency_mhz": "118.275"
-        }
-    ],
     "country": {
         "id": "302694",
         "code": "IE",

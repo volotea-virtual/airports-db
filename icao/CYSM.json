@@ -63,24 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "50648",
-            "airport_ref": "1907",
-            "airport_ident": "CYSM",
-            "type": "A/D",
-            "description": "YELOWKNIFE RDO",
-            "frequency_mhz": "123.55"
-        },
-        {
-            "id": "50649",
-            "airport_ref": "1907",
-            "airport_ident": "CYSM",
-            "type": "ATF",
-            "description": "AIRPORT RDO",
-            "frequency_mhz": "122.2"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

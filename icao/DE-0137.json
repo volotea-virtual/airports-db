@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "326322",
-            "airport_ref": "312210",
-            "airport_ident": "DE-0137",
-            "type": "Info",
-            "description": "",
-            "frequency_mhz": "123.37"
-        }
-    ],
     "country": {
         "id": "302681",
         "code": "DE",

@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "71908",
-            "airport_ref": "29168",
-            "airport_ident": "EGNY",
-            "type": "A/G",
-            "description": "Beverley Linley Hill A/G",
-            "frequency_mhz": "123.05"
-        }
-    ],
     "country": {
         "id": "302688",
         "code": "GB",

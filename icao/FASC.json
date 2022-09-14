@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "57124",
-            "airport_ref": "2835",
-            "airport_ident": "FASC",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "121"
-        },
-        {
-            "id": "57125",
-            "airport_ref": "2835",
-            "airport_ident": "FASC",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122"
-        }
-    ],
     "country": {
         "id": "302610",
         "code": "ZA",

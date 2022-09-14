@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "52228",
-            "airport_ref": "4207",
-            "airport_ident": "LFRC",
-            "type": "APP",
-            "description": "DEAUVILLE APP",
-            "frequency_mhz": "119.35"
-        },
-        {
-            "id": "52229",
-            "airport_ref": "4207",
-            "airport_ident": "LFRC",
-            "type": "TWR",
-            "description": "CHERBOURG TWR",
-            "frequency_mhz": "119.625"
-        }
-    ],
     "country": {
         "id": "302687",
         "code": "FR",

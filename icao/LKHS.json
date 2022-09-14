@@ -85,24 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "314452",
-            "airport_ref": "29961",
-            "airport_ident": "LKHS",
-            "type": "info",
-            "description": "",
-            "frequency_mhz": "130.2"
-        },
-        {
-            "id": "333135",
-            "airport_ref": "29961",
-            "airport_ident": "LKHS",
-            "type": "RADIO",
-            "description": "",
-            "frequency_mhz": "130.205"
-        }
-    ],
     "country": {
         "id": "302680",
         "code": "CZ",

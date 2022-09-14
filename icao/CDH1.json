@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": "500"
         }
     ],
-    "freqs": [
-        {
-            "id": "50977",
-            "airport_ref": "809",
-            "airport_ident": "CDH1",
-            "type": "UNIC",
-            "description": "ATF/UNICOM",
-            "frequency_mhz": "123.35"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

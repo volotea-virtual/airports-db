@@ -63,48 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "66244",
-            "airport_ref": "3362",
-            "airport_ident": "KACV",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "118.525"
-        },
-        {
-            "id": "66245",
-            "airport_ref": "3362",
-            "airport_ident": "KACV",
-            "type": "CNTR",
-            "description": "SEATTLE CNTR",
-            "frequency_mhz": "124.85"
-        },
-        {
-            "id": "66246",
-            "airport_ref": "3362",
-            "airport_ident": "KACV",
-            "type": "OPS",
-            "description": "COAST GUARD AIR OPS",
-            "frequency_mhz": "34.5"
-        },
-        {
-            "id": "66247",
-            "airport_ref": "3362",
-            "airport_ident": "KACV",
-            "type": "RDO",
-            "description": "OAKLAND RDO",
-            "frequency_mhz": "122.6"
-        },
-        {
-            "id": "66248",
-            "airport_ref": "3362",
-            "airport_ident": "KACV",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

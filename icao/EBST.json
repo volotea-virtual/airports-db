@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "49320",
-            "airport_ref": "2165",
-            "airport_ident": "EBST",
-            "type": "INFO",
-            "description": "RDO",
-            "frequency_mhz": "119.98"
-        }
-    ],
     "country": {
         "id": "302676",
         "code": "BE",

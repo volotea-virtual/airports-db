@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "57006",
-            "airport_ref": "4245",
-            "airport_ident": "LFVP",
-            "type": "A/D",
-            "description": "TRML",
-            "frequency_mhz": "118.5"
-        },
-        {
-            "id": "57007",
-            "airport_ref": "4245",
-            "airport_ident": "LFVP",
-            "type": "CNTR",
-            "description": "GANDER CNTR",
-            "frequency_mhz": "134.9"
-        },
-        {
-            "id": "57008",
-            "airport_ref": "4245",
-            "airport_ident": "LFVP",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "119.1"
-        },
-        {
-            "id": "57009",
-            "airport_ref": "4245",
-            "airport_ident": "LFVP",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "119.1"
-        }
-    ],
     "country": {
         "id": "302750",
         "code": "PM",

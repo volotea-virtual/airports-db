@@ -85,32 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "59226",
-            "airport_ref": "21178",
-            "airport_ident": "KTAZ",
-            "type": "A/D",
-            "description": "SPRINGFIELD APP/DEP",
-            "frequency_mhz": "118.6"
-        },
-        {
-            "id": "59227",
-            "airport_ref": "21178",
-            "airport_ident": "KTAZ",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "123.875"
-        },
-        {
-            "id": "59228",
-            "airport_ref": "21178",
-            "airport_ident": "KTAZ",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

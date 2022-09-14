@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "49797",
-            "airport_ref": "5962",
-            "airport_ident": "SBPV",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "119.1"
-        },
-        {
-            "id": "49798",
-            "airport_ref": "5962",
-            "airport_ident": "SBPV",
-            "type": "OPS",
-            "description": "OPS",
-            "frequency_mhz": "122.5"
-        },
-        {
-            "id": "49799",
-            "airport_ref": "5962",
-            "airport_ident": "SBPV",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.7"
-        }
-    ],
     "country": {
         "id": "302791",
         "code": "BR",

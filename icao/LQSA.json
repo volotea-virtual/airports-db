@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": "1666"
         }
     ],
-    "freqs": [
-        {
-            "id": "49436",
-            "airport_ref": "4469",
-            "airport_ident": "LQSA",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "136.45"
-        },
-        {
-            "id": "49437",
-            "airport_ref": "4469",
-            "airport_ident": "LQSA",
-            "type": "GCA",
-            "description": "GCA",
-            "frequency_mhz": "119.4"
-        },
-        {
-            "id": "49438",
-            "airport_ref": "4469",
-            "airport_ident": "LQSA",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "49439",
-            "airport_ref": "4469",
-            "airport_ident": "LQSA",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.25"
-        }
-    ],
     "country": {
         "id": "302675",
         "code": "BA",

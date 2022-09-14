@@ -3,13 +3,13 @@
     "ident": "VTBI",
     "type": "small_airport",
     "name": "Khao E To Airport",
-    "latitude_deg": "14.077799797058105",
-    "longitude_deg": "101.37999725341797",
+    "latitude_deg": "14.0778",
+    "longitude_deg": "101.379997",
     "elevation_ft": "80",
     "continent": "AS",
     "iso_country": "TH",
     "iso_region": "TH-25",
-    "municipality": "",
+    "municipality": "Prachin Buri",
     "scheduled_service": "no",
     "gps_code": "VTBI",
     "iata_code": "",
@@ -39,16 +39,6 @@
             "he_elevation_ft": "80",
             "he_heading_degT": "352.3",
             "he_displaced_threshold_ft": ""
-        }
-    ],
-    "freqs": [
-        {
-            "id": "57716",
-            "airport_ref": "26640",
-            "airport_ident": "VTBI",
-            "type": "CNTR",
-            "description": "BANGKOK CON",
-            "frequency_mhz": "133.1"
         }
     ],
     "country": {

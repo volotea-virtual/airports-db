@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "54786",
-            "airport_ref": "5675",
-            "airport_ident": "ROKJ",
-            "type": "A/G",
-            "description": "REMOTE",
-            "frequency_mhz": "122.7"
-        }
-    ],
     "country": {
         "id": "302639",
         "code": "JP",

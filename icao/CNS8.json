@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "75157",
-            "airport_ref": "1341",
-            "airport_ident": "CNS8",
-            "type": "ATF",
-            "description": "Morrisburg Traffic",
-            "frequency_mhz": "123.2"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

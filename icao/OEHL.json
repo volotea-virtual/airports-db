@@ -41,48 +41,6 @@
             "he_displaced_threshold_ft": "1164"
         }
     ],
-    "freqs": [
-        {
-            "id": "56983",
-            "airport_ref": "5093",
-            "airport_ident": "OEHL",
-            "type": "A/G",
-            "description": "SAUDIA RDO",
-            "frequency_mhz": "131.5"
-        },
-        {
-            "id": "56984",
-            "airport_ref": "5093",
-            "airport_ident": "OEHL",
-            "type": "AFIS",
-            "description": "INFO",
-            "frequency_mhz": "118.7"
-        },
-        {
-            "id": "56985",
-            "airport_ref": "5093",
-            "airport_ident": "OEHL",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.8"
-        },
-        {
-            "id": "56986",
-            "airport_ref": "5093",
-            "airport_ident": "OEHL",
-            "type": "EMR",
-            "description": "FIRE RESCUE SVC",
-            "frequency_mhz": "133.5"
-        },
-        {
-            "id": "56987",
-            "airport_ref": "5093",
-            "airport_ident": "OEHL",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        }
-    ],
     "country": {
         "id": "302660",
         "code": "SA",

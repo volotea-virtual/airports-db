@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "75245",
-            "airport_ref": "29721",
-            "airport_ident": "LJBO",
-            "type": "RDO",
-            "description": "Bovec Radio",
-            "frequency_mhz": "123.505"
-        }
-    ],
     "country": {
         "id": "302716",
         "code": "SI",

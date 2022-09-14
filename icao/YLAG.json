@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "73503",
-            "airport_ref": "38422",
-            "airport_ident": "YLAG",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "125.55"
-        },
-        {
-            "id": "73504",
-            "airport_ref": "38422",
-            "airport_ident": "YLAG",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "126.8"
-        }
-    ],
     "country": {
         "id": "302764",
         "code": "AU",

@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "50989",
-            "airport_ref": "1775",
-            "airport_ident": "CYIO",
-            "type": "AWOS",
-            "description": "AWOS",
-            "frequency_mhz": "128.3"
-        },
-        {
-            "id": "50990",
-            "airport_ref": "1775",
-            "airport_ident": "CYIO",
-            "type": "RDO",
-            "description": "RDO",
-            "frequency_mhz": "122.1"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

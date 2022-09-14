@@ -63,16 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55452",
-            "airport_ref": "4765",
-            "airport_ident": "MMZC",
-            "type": "TWR",
-            "description": "ZACATECAS TWR",
-            "frequency_mhz": "118"
-        }
-    ],
     "country": {
         "id": "302747",
         "code": "MX",

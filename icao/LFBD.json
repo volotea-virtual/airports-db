@@ -63,64 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "52382",
-            "airport_ref": "4060",
-            "airport_ident": "LFBD",
-            "type": "APP",
-            "description": "AQUITAINE APP",
-            "frequency_mhz": "118.6"
-        },
-        {
-            "id": "52383",
-            "airport_ref": "4060",
-            "airport_ident": "LFBD",
-            "type": "ARR",
-            "description": "APP",
-            "frequency_mhz": "121.2"
-        },
-        {
-            "id": "52384",
-            "airport_ref": "4060",
-            "airport_ident": "LFBD",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "131.15"
-        },
-        {
-            "id": "52385",
-            "airport_ref": "4060",
-            "airport_ident": "LFBD",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "52386",
-            "airport_ref": "4060",
-            "airport_ident": "LFBD",
-            "type": "INFO",
-            "description": "AQUITAINE INFO",
-            "frequency_mhz": "120.575"
-        },
-        {
-            "id": "52387",
-            "airport_ref": "4060",
-            "airport_ident": "LFBD",
-            "type": "OPS",
-            "description": "OPNS",
-            "frequency_mhz": "143.175"
-        },
-        {
-            "id": "52388",
-            "airport_ref": "4060",
-            "airport_ident": "LFBD",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.3"
-        }
-    ],
     "country": {
         "id": "302687",
         "code": "FR",

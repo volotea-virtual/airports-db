@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "63901",
-            "airport_ref": "20031",
-            "airport_ident": "KHBW",
-            "type": "CNTR",
-            "description": "CHICAGO CNTR",
-            "frequency_mhz": "133.3"
-        },
-        {
-            "id": "63902",
-            "airport_ref": "20031",
-            "airport_ident": "KHBW",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.9"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

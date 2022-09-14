@@ -63,48 +63,6 @@
             "he_displaced_threshold_ft": "200"
         }
     ],
-    "freqs": [
-        {
-            "id": "298605",
-            "airport_ref": "2153",
-            "airport_ident": "EBBE",
-            "type": "APP",
-            "description": "Combined MIL Approach",
-            "frequency_mhz": "122.5"
-        },
-        {
-            "id": "49327",
-            "airport_ref": "2153",
-            "airport_ident": "EBBE",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "122.825"
-        },
-        {
-            "id": "49328",
-            "airport_ref": "2153",
-            "airport_ident": "EBBE",
-            "type": "GCA",
-            "description": "GCA",
-            "frequency_mhz": "123.3"
-        },
-        {
-            "id": "49329",
-            "airport_ref": "2153",
-            "airport_ident": "EBBE",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "122.1"
-        },
-        {
-            "id": "49330",
-            "airport_ref": "2153",
-            "airport_ident": "EBBE",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "122.1"
-        }
-    ],
     "country": {
         "id": "302676",
         "code": "BE",

@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "319268",
-            "airport_ref": "5743",
-            "airport_ident": "RPVO",
-            "type": "UNICOM",
-            "description": "Ormoc Traffic Advisory",
-            "frequency_mhz": "121.9"
-        }
-    ],
     "country": {
         "id": "302656",
         "code": "PH",

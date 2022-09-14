@@ -63,56 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51502",
-            "airport_ref": "6104",
-            "airport_ident": "SKBO",
-            "type": "APP",
-            "description": "BOGOTA APP",
-            "frequency_mhz": "119.5"
-        },
-        {
-            "id": "51503",
-            "airport_ref": "6104",
-            "airport_ident": "SKBO",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "113.9"
-        },
-        {
-            "id": "51504",
-            "airport_ref": "6104",
-            "airport_ident": "SKBO",
-            "type": "DEP",
-            "description": "BOGOTA DEP",
-            "frequency_mhz": "119.5"
-        },
-        {
-            "id": "51505",
-            "airport_ref": "6104",
-            "airport_ident": "SKBO",
-            "type": "INFO",
-            "description": "BOGOTA FIS",
-            "frequency_mhz": "126.9"
-        },
-        {
-            "id": "51506",
-            "airport_ref": "6104",
-            "airport_ident": "SKBO",
-            "type": "OPS",
-            "description": "MILGP RDO OPS",
-            "frequency_mhz": "1395"
-        },
-        {
-            "id": "51507",
-            "airport_ref": "6104",
-            "airport_ident": "SKBO",
-            "type": "RDO",
-            "description": "BOGOTA RDO",
-            "frequency_mhz": "348.8"
-        }
-    ],
     "country": {
         "id": "302793",
         "code": "CO",

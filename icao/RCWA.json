@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": "181"
         }
     ],
-    "freqs": [
-        {
-            "id": "58035",
-            "airport_ref": "5529",
-            "airport_ident": "RCWA",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.1"
-        }
-    ],
     "country": {
         "id": "302668",
         "code": "TW",

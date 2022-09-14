@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "307319",
-            "airport_ref": "28571",
-            "airport_ident": "EDNG",
-            "type": "TOWER",
-            "description": "Giengen Info",
-            "frequency_mhz": "122.35"
-        }
-    ],
     "country": {
         "id": "302681",
         "code": "DE",

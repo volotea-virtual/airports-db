@@ -5,7 +5,7 @@
     "name": "Finley Airport",
     "latitude_deg": "-35.658918",
     "longitude_deg": "145.561214",
-    "elevation_ft": "",
+    "elevation_ft": "380",
     "continent": "OC",
     "iso_country": "AU",
     "iso_region": "AU-NSW",
@@ -15,7 +15,7 @@
     "iata_code": "FLY",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Finley_Airport",
     "keywords": "",
     "runways": [
         {
@@ -39,24 +39,6 @@
             "he_elevation_ft": "",
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
-        }
-    ],
-    "freqs": [
-        {
-            "id": "72968",
-            "airport_ref": "27562",
-            "airport_ident": "YFIL",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "118.6"
-        },
-        {
-            "id": "72969",
-            "airport_ref": "27562",
-            "airport_ident": "YFIL",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "125.7"
         }
     ],
     "country": {

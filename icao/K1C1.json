@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "62589",
-            "airport_ref": "18455",
-            "airport_ident": "K1C1",
-            "type": "A/D",
-            "description": "CHAMPAIGN APP/DEP",
-            "frequency_mhz": "121.35"
-        },
-        {
-            "id": "62590",
-            "airport_ref": "18455",
-            "airport_ident": "K1C1",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

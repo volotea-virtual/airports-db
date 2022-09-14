@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "71642",
-            "airport_ref": "6337",
-            "airport_ident": "SVVP",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.65"
-        }
-    ],
     "country": {
         "id": "302802",
         "code": "VE",

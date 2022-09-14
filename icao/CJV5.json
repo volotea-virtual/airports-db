@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "50886",
-            "airport_ref": "1138",
-            "airport_ident": "CJV5",
-            "type": "ATF",
-            "description": "ATF",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "49300",
-            "airport_ref": "2864",
-            "airport_ident": "FBSK",
-            "type": "APP",
-            "description": "GABORONE APP",
-            "frequency_mhz": "128.2"
-        },
-        {
-            "id": "49301",
-            "airport_ref": "2864",
-            "airport_ident": "FBSK",
-            "type": "GND",
-            "description": "KHAMA GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "49302",
-            "airport_ref": "2864",
-            "airport_ident": "FBSK",
-            "type": "TWR",
-            "description": "KHAMA TWR",
-            "frequency_mhz": "118.3"
-        }
-    ],
     "country": {
         "id": "302560",
         "code": "BW",

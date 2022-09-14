@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "65686",
-            "airport_ref": "3480",
-            "airport_ident": "KDAN",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "128.125"
-        },
-        {
-            "id": "65687",
-            "airport_ref": "3480",
-            "airport_ident": "KDAN",
-            "type": "CNTR",
-            "description": "WASHINGTON CNTR",
-            "frequency_mhz": "124.05"
-        },
-        {
-            "id": "65688",
-            "airport_ref": "3480",
-            "airport_ident": "KDAN",
-            "type": "RDO",
-            "description": "LEESBURG RDO",
-            "frequency_mhz": "122.2"
-        },
-        {
-            "id": "65689",
-            "airport_ref": "3480",
-            "airport_ident": "KDAN",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123.05"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

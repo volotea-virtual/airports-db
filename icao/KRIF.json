@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "69963",
-            "airport_ref": "20930",
-            "airport_ident": "KRIF",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "133.375"
-        },
-        {
-            "id": "69964",
-            "airport_ref": "20930",
-            "airport_ident": "KRIF",
-            "type": "CNTR",
-            "description": "SALT LAKE CNTR",
-            "frequency_mhz": "133.6"
-        },
-        {
-            "id": "69965",
-            "airport_ref": "20930",
-            "airport_ident": "KRIF",
-            "type": "RCO",
-            "description": "CEDAR CITY RDO",
-            "frequency_mhz": "122.5"
-        },
-        {
-            "id": "69966",
-            "airport_ref": "20930",
-            "airport_ident": "KRIF",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

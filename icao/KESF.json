@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "64761",
-            "airport_ref": "3516",
-            "airport_ident": "KESF",
-            "type": "A/D",
-            "description": "POLK APP/DEP",
-            "frequency_mhz": "132.05"
-        },
-        {
-            "id": "64762",
-            "airport_ref": "3516",
-            "airport_ident": "KESF",
-            "type": "CTAF",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        },
-        {
-            "id": "64763",
-            "airport_ref": "3516",
-            "airport_ident": "KESF",
-            "type": "MISC",
-            "description": "ARNG OPS",
-            "frequency_mhz": "141.45"
-        },
-        {
-            "id": "64764",
-            "airport_ref": "3516",
-            "airport_ident": "KESF",
-            "type": "RDO",
-            "description": "DE RIDDER RDO",
-            "frequency_mhz": "122.55"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

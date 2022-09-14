@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51389",
-            "airport_ref": "2883",
-            "airport_ident": "FKKL",
-            "type": "A/G",
-            "description": "RDO",
-            "frequency_mhz": "890.3"
-        },
-        {
-            "id": "51390",
-            "airport_ref": "2883",
-            "airport_ident": "FKKL",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.9"
-        }
-    ],
     "country": {
         "id": "302565",
         "code": "CM",

@@ -85,56 +85,6 @@
             "he_displaced_threshold_ft": "246"
         }
     ],
-    "freqs": [
-        {
-            "id": "54125",
-            "airport_ref": "4411",
-            "airport_ident": "LLBG",
-            "type": "APP",
-            "description": "Ben Gurion Approach",
-            "frequency_mhz": "120.5"
-        },
-        {
-            "id": "54126",
-            "airport_ref": "4411",
-            "airport_ident": "LLBG",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "132.5"
-        },
-        {
-            "id": "315531",
-            "airport_ref": "4411",
-            "airport_ident": "LLBG",
-            "type": "CTR",
-            "description": "Tel Aviv Control",
-            "frequency_mhz": "121.4"
-        },
-        {
-            "id": "315532",
-            "airport_ref": "4411",
-            "airport_ident": "LLBG",
-            "type": "GND",
-            "description": "Ben Gurion Ground",
-            "frequency_mhz": "118.05"
-        },
-        {
-            "id": "54128",
-            "airport_ref": "4411",
-            "airport_ident": "LLBG",
-            "type": "GND",
-            "description": "Ben Gurion Ground/Delivery",
-            "frequency_mhz": "129.2"
-        },
-        {
-            "id": "54132",
-            "airport_ref": "4411",
-            "airport_ident": "LLBG",
-            "type": "TWR",
-            "description": "Ben Gurion Tower",
-            "frequency_mhz": "134.6"
-        }
-    ],
     "country": {
         "id": "302633",
         "code": "IL",

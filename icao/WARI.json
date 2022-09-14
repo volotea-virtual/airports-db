@@ -63,24 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "53711",
-            "airport_ref": "26786",
-            "airport_ident": "WARI",
-            "type": "APP",
-            "description": "MADIUN APP",
-            "frequency_mhz": "122.6"
-        },
-        {
-            "id": "53712",
-            "airport_ref": "26786",
-            "airport_ident": "WARI",
-            "type": "GND",
-            "description": "YUDI GND",
-            "frequency_mhz": "121.7"
-        }
-    ],
     "country": {
         "id": "302632",
         "code": "ID",

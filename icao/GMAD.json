@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55343",
-            "airport_ref": "3101",
-            "airport_ident": "GMAD",
-            "type": "APP",
-            "description": "AGADIR APP",
-            "frequency_mhz": "120.9"
-        },
-        {
-            "id": "55344",
-            "airport_ref": "3101",
-            "airport_ident": "GMAD",
-            "type": "TWR",
-            "description": "AGADIR TWR",
-            "frequency_mhz": "119.5"
-        }
-    ],
     "country": {
         "id": "302584",
         "code": "MA",

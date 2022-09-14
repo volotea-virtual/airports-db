@@ -1,0 +1,38 @@
+{
+    "id": "356534",
+    "ident": "GL-0012",
+    "type": "closed",
+    "name": "Qaqortoq Airport (under construction)",
+    "latitude_deg": "60.76383",
+    "longitude_deg": "-46.05973",
+    "elevation_ft": "",
+    "continent": "NA",
+    "iso_country": "GL",
+    "iso_region": "GL-U-A",
+    "municipality": "Qaqortoq",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302736",
+        "code": "GL",
+        "name": "Greenland",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Greenland",
+        "keywords": "Airports in Greenland"
+    },
+    "region": {
+        "id": "303853",
+        "code": "GL-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "NA",
+        "iso_country": "GL",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}

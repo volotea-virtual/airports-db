@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "52578",
-            "airport_ref": "4168",
-            "airport_ident": "LFOA",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "119.7"
-        },
-        {
-            "id": "52577",
-            "airport_ref": "4168",
-            "airport_ident": "LFOA",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "138.975"
-        },
-        {
-            "id": "52579",
-            "airport_ref": "4168",
-            "airport_ident": "LFOA",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "122.1"
-        }
-    ],
     "country": {
         "id": "302687",
         "code": "FR",

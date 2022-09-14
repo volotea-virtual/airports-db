@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "56457",
-            "airport_ref": "4480",
-            "airport_ident": "LRIA",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "119.2"
-        },
-        {
-            "id": "56458",
-            "airport_ref": "4480",
-            "airport_ident": "LRIA",
-            "type": "GCA",
-            "description": "PRECISION",
-            "frequency_mhz": "118.8"
-        },
-        {
-            "id": "56459",
-            "airport_ref": "4480",
-            "airport_ident": "LRIA",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "119.2"
-        }
-    ],
     "country": {
         "id": "302712",
         "code": "RO",

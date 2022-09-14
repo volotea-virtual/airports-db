@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "50769",
-            "airport_ref": "1596",
-            "airport_ident": "CTG3",
-            "type": "A/D",
-            "description": "QUEBEC RDO",
-            "frequency_mhz": "126.7"
-        },
-        {
-            "id": "50770",
-            "airport_ref": "1596",
-            "airport_ident": "CTG3",
-            "type": "UNIC",
-            "description": "ATF/UNICOM",
-            "frequency_mhz": "122.35"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

@@ -63,16 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55206",
-            "airport_ref": "3224",
-            "airport_ident": "HLLM",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "126.3"
-        }
-    ],
     "country": {
         "id": "302583",
         "code": "LY",

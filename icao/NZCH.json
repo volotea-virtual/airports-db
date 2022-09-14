@@ -85,64 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55990",
-            "airport_ref": "5026",
-            "airport_ident": "NZCH",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "124.1"
-        },
-        {
-            "id": "55991",
-            "airport_ref": "5026",
-            "airport_ident": "NZCH",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "127.2"
-        },
-        {
-            "id": "307667",
-            "airport_ref": "5026",
-            "airport_ident": "NZCH",
-            "type": "CTRL",
-            "description": "Control",
-            "frequency_mhz": "120.9"
-        },
-        {
-            "id": "307666",
-            "airport_ref": "5026",
-            "airport_ident": "NZCH",
-            "type": "Delivery",
-            "description": "Delivery",
-            "frequency_mhz": "128.2"
-        },
-        {
-            "id": "55992",
-            "airport_ref": "5026",
-            "airport_ident": "NZCH",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "55993",
-            "airport_ref": "5026",
-            "airport_ident": "NZCH",
-            "type": "OPS",
-            "description": "AMC OPS",
-            "frequency_mhz": "122.5"
-        },
-        {
-            "id": "55994",
-            "airport_ref": "5026",
-            "airport_ident": "NZCH",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.4"
-        }
-    ],
     "country": {
         "id": "302776",
         "code": "NZ",

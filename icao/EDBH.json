@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "53140",
-            "airport_ref": "2196",
-            "airport_ident": "EDBH",
-            "type": "AFIS",
-            "description": "BERLIN INFO",
-            "frequency_mhz": "132.65"
-        },
-        {
-            "id": "53141",
-            "airport_ref": "2196",
-            "airport_ident": "EDBH",
-            "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "118.075"
-        },
-        {
-            "id": "53142",
-            "airport_ref": "2196",
-            "airport_ident": "EDBH",
-            "type": "RDR",
-            "description": "BERLIN RADAR",
-            "frequency_mhz": "126.425"
-        }
-    ],
     "country": {
         "id": "302681",
         "code": "DE",

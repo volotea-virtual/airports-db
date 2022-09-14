@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51870",
-            "airport_ref": "3190",
-            "airport_ident": "HEKG",
-            "type": "RDO",
-            "description": "RDO",
-            "frequency_mhz": "585.9"
-        },
-        {
-            "id": "51871",
-            "airport_ref": "3190",
-            "airport_ident": "HEKG",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302569",
         "code": "EG",

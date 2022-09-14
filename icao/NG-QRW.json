@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "323086",
-            "airport_ref": "32192",
-            "airport_ident": "NG-QRW",
-            "type": "TWR",
-            "description": "",
-            "frequency_mhz": "129.1"
-        }
-    ],
     "country": {
         "id": "302593",
         "code": "NG",

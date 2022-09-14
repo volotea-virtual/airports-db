@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": "300"
         }
     ],
-    "freqs": [
-        {
-            "id": "50766",
-            "airport_ref": "1896",
-            "airport_ident": "CYRV",
-            "type": "RCO",
-            "description": "PACIFIC RDO",
-            "frequency_mhz": "126.7"
-        },
-        {
-            "id": "50767",
-            "airport_ref": "1896",
-            "airport_ident": "CYRV",
-            "type": "UNIC",
-            "description": "ATF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "57708",
-            "airport_ref": "26674",
-            "airport_ident": "VTSP",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "124.7"
-        },
-        {
-            "id": "57709",
-            "airport_ref": "26674",
-            "airport_ident": "VTSP",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "128"
-        },
-        {
-            "id": "57710",
-            "airport_ref": "26674",
-            "airport_ident": "VTSP",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "57711",
-            "airport_ref": "26674",
-            "airport_ident": "VTSP",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.1"
-        }
-    ],
     "country": {
         "id": "302663",
         "code": "TH",

@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "71639",
-            "airport_ref": "6414",
-            "airport_ident": "TVSM",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "123"
-        }
-    ],
     "country": {
         "id": "302756",
         "code": "VC",

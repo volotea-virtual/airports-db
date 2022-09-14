@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "49276",
-            "airport_ref": "6039",
-            "airport_ident": "SCRM",
-            "type": "APP",
-            "description": "MARSH APP",
-            "frequency_mhz": "118.1"
-        },
-        {
-            "id": "49277",
-            "airport_ref": "6039",
-            "airport_ident": "SCRM",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.1"
-        }
-    ],
     "country": {
         "id": "302615",
         "code": "AQ",

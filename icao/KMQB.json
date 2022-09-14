@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "69898",
-            "airport_ref": "20553",
-            "airport_ident": "KMQB",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "119.025"
-        },
-        {
-            "id": "69899",
-            "airport_ref": "20553",
-            "airport_ident": "KMQB",
-            "type": "CNTR",
-            "description": "CHICAGO CNTR",
-            "frequency_mhz": "135.6"
-        },
-        {
-            "id": "69900",
-            "airport_ref": "20553",
-            "airport_ident": "KMQB",
-            "type": "RDO",
-            "description": "KANKAKEE RDO",
-            "frequency_mhz": "122.15"
-        },
-        {
-            "id": "69901",
-            "airport_ref": "20553",
-            "airport_ident": "KMQB",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

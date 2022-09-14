@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "68918",
-            "airport_ref": "5441",
-            "airport_ident": "PHBK",
-            "type": "CNTR",
-            "description": "HONOLULU CNTR",
-            "frequency_mhz": "126.5"
-        },
-        {
-            "id": "68919",
-            "airport_ref": "5441",
-            "airport_ident": "PHBK",
-            "type": "OPS",
-            "description": "RANGE OUTRIDER",
-            "frequency_mhz": "32.285"
-        },
-        {
-            "id": "68920",
-            "airport_ref": "5441",
-            "airport_ident": "PHBK",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "126.2"
-        },
-        {
-            "id": "68921",
-            "airport_ref": "5441",
-            "airport_ident": "PHBK",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

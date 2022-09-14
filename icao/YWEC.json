@@ -17,40 +17,6 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
-    "freqs": [
-        {
-            "id": "74899",
-            "airport_ref": "28040",
-            "airport_ident": "YWEC",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "126.7"
-        },
-        {
-            "id": "74900",
-            "airport_ref": "28040",
-            "airport_ident": "YWEC",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "112.8"
-        },
-        {
-            "id": "74901",
-            "airport_ref": "28040",
-            "airport_ident": "YWEC",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "119.6"
-        },
-        {
-            "id": "74902",
-            "airport_ref": "28040",
-            "airport_ident": "YWEC",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "122.1"
-        }
-    ],
     "country": {
         "id": "302764",
         "code": "AU",

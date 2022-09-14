@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": "722"
         }
     ],
-    "freqs": [
-        {
-            "id": "53162",
-            "airport_ref": "2232",
-            "airport_ident": "EDGE",
-            "type": "AFIS",
-            "description": "BERLIN INFO",
-            "frequency_mhz": "125.8"
-        },
-        {
-            "id": "53163",
-            "airport_ref": "2232",
-            "airport_ident": "EDGE",
-            "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "119.75"
-        }
-    ],
     "country": {
         "id": "302681",
         "code": "DE",

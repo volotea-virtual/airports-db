@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55438",
-            "airport_ref": "4750",
-            "airport_ident": "MMSD",
-            "type": "APP",
-            "description": "SAN JOSE APP",
-            "frequency_mhz": "120.9"
-        },
-        {
-            "id": "55439",
-            "airport_ref": "4750",
-            "airport_ident": "MMSD",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "127.6"
-        },
-        {
-            "id": "55440",
-            "airport_ref": "4750",
-            "airport_ident": "MMSD",
-            "type": "TWR",
-            "description": "SAN JOSE TWR",
-            "frequency_mhz": "118.9"
-        }
-    ],
     "country": {
         "id": "302747",
         "code": "MX",

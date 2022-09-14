@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "328831",
-            "airport_ref": "320473",
-            "airport_ident": "CGB3",
-            "type": "tfc",
-            "description": "",
-            "frequency_mhz": "123.2"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

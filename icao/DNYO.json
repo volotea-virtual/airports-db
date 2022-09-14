@@ -63,16 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55714",
-            "airport_ref": "2122",
-            "airport_ident": "DNYO",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "122.5"
-        }
-    ],
     "country": {
         "id": "302593",
         "code": "NG",

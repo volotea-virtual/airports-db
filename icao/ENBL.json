@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "75350",
-            "airport_ref": "29254",
-            "airport_ident": "ENBL",
-            "type": "AFIS",
-            "description": "Bringeland",
-            "frequency_mhz": "118.45"
-        }
-    ],
     "country": {
         "id": "302709",
         "code": "NO",

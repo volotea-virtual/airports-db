@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55326",
-            "airport_ref": "3107",
-            "airport_ident": "GMFO",
-            "type": "APP",
-            "description": "OUJDA APP",
-            "frequency_mhz": "136.6"
-        },
-        {
-            "id": "55327",
-            "airport_ref": "3107",
-            "airport_ident": "GMFO",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "121.6"
-        },
-        {
-            "id": "55328",
-            "airport_ref": "3107",
-            "airport_ident": "GMFO",
-            "type": "TWR",
-            "description": "OUJDA TWR",
-            "frequency_mhz": "118.2"
-        }
-    ],
     "country": {
         "id": "302584",
         "code": "MA",

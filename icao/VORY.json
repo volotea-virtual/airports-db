@@ -3,13 +3,13 @@
     "ident": "VORY",
     "type": "medium_airport",
     "name": "Rajahmundry Airport",
-    "latitude_deg": "17.1103992462",
-    "longitude_deg": "81.81819915770001",
+    "latitude_deg": "17.105799",
+    "longitude_deg": "81.813204",
     "elevation_ft": "151",
     "continent": "AS",
     "iso_country": "IN",
     "iso_region": "IN-AP",
-    "municipality": "Rajahmundry",
+    "municipality": "Madhurapudi",
     "scheduled_service": "yes",
     "gps_code": "VORY",
     "iata_code": "RJA",
@@ -39,16 +39,6 @@
             "he_elevation_ft": "146",
             "he_heading_degT": "234",
             "he_displaced_threshold_ft": ""
-        }
-    ],
-    "freqs": [
-        {
-            "id": "53898",
-            "airport_ref": "26623",
-            "airport_ident": "VORY",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "122.3"
         }
     ],
     "country": {

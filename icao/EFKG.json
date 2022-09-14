@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "310783",
-            "airport_ref": "27259",
-            "airport_ident": "EFKG",
-            "type": "ACC",
-            "description": "Tampere radar",
-            "frequency_mhz": "121.3"
-        },
-        {
-            "id": "310782",
-            "airport_ref": "27259",
-            "airport_ident": "EFKG",
-            "type": "RDO",
-            "description": "Kumlinge traffic",
-            "frequency_mhz": "123.4"
-        }
-    ],
     "country": {
         "id": "302685",
         "code": "FI",

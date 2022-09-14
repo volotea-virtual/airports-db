@@ -63,16 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "57086",
-            "airport_ref": "2827",
-            "airport_ident": "FAPP",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "124.3"
-        }
-    ],
     "country": {
         "id": "302610",
         "code": "ZA",

@@ -63,16 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "315186",
-            "airport_ref": "34969",
-            "airport_ident": "UUMU",
-            "type": "LANDING",
-            "description": "",
-            "frequency_mhz": "121.1"
-        }
-    ],
     "country": {
         "id": "302714",
         "code": "RU",

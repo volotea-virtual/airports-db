@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "56442",
-            "airport_ref": "4482",
-            "airport_ident": "LROP",
-            "type": "APP",
-            "description": "BUCURESTI APP",
-            "frequency_mhz": "118.25"
-        },
-        {
-            "id": "56443",
-            "airport_ref": "4482",
-            "airport_ident": "LROP",
-            "type": "ATIS",
-            "description": "OTOPENI ATIS",
-            "frequency_mhz": "118.5"
-        },
-        {
-            "id": "56444",
-            "airport_ref": "4482",
-            "airport_ident": "LROP",
-            "type": "GND",
-            "description": "OTOPENI GND",
-            "frequency_mhz": "121.7"
-        },
-        {
-            "id": "56445",
-            "airport_ref": "4482",
-            "airport_ident": "LROP",
-            "type": "TWR",
-            "description": "OTOPENI TWR",
-            "frequency_mhz": "120.9"
-        }
-    ],
     "country": {
         "id": "302712",
         "code": "RO",

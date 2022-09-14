@@ -63,16 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "329091",
-            "airport_ref": "2833",
-            "airport_ident": "FARS",
-            "type": "CTAF",
-            "description": "Robertson traffic",
-            "frequency_mhz": "124.8"
-        }
-    ],
     "country": {
         "id": "302610",
         "code": "ZA",

@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": "410"
         }
     ],
-    "freqs": [
-        {
-            "id": "333665",
-            "airport_ref": "28561",
-            "airport_ident": "EDBF",
-            "type": "CTAF",
-            "description": "",
-            "frequency_mhz": "133.94"
-        }
-    ],
     "country": {
         "id": "302681",
         "code": "DE",

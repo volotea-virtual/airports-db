@@ -17,16 +17,6 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
-    "freqs": [
-        {
-            "id": "75369",
-            "airport_ref": "46463",
-            "airport_ident": "AU-0045",
-            "type": "CTAF",
-            "description": "",
-            "frequency_mhz": "119.1"
-        }
-    ],
     "country": {
         "id": "302764",
         "code": "AU",

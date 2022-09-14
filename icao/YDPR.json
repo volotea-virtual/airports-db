@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "72810",
-            "airport_ref": "38327",
-            "airport_ident": "YDPR",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "125"
-        },
-        {
-            "id": "72812",
-            "airport_ref": "38327",
-            "airport_ident": "YDPR",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "122.1"
-        },
-        {
-            "id": "72811",
-            "airport_ref": "38327",
-            "airport_ident": "YDPR",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "125.3"
-        }
-    ],
     "country": {
         "id": "302764",
         "code": "AU",

@@ -63,56 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51764",
-            "airport_ref": "4636",
-            "airport_ident": "MDPC",
-            "type": "A/D",
-            "description": "APP",
-            "frequency_mhz": "119.7"
-        },
-        {
-            "id": "51765",
-            "airport_ref": "4636",
-            "airport_ident": "MDPC",
-            "type": "APP",
-            "description": "LAS AMERICAS APP",
-            "frequency_mhz": "119.3"
-        },
-        {
-            "id": "314314",
-            "airport_ref": "4636",
-            "airport_ident": "MDPC",
-            "type": "ATIS",
-            "description": "",
-            "frequency_mhz": "132.85"
-        },
-        {
-            "id": "314316",
-            "airport_ref": "4636",
-            "airport_ident": "MDPC",
-            "type": "DLV",
-            "description": "DELIVERY",
-            "frequency_mhz": "121.65"
-        },
-        {
-            "id": "314315",
-            "airport_ref": "4636",
-            "airport_ident": "MDPC",
-            "type": "GND",
-            "description": "GROUND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "51766",
-            "airport_ref": "4636",
-            "airport_ident": "MDPC",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.8"
-        }
-    ],
     "country": {
         "id": "302734",
         "code": "DO",

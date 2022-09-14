@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "54318",
-            "airport_ref": "4381",
-            "airport_ident": "LIRS",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "122.1"
-        },
-        {
-            "id": "54319",
-            "airport_ref": "4381",
-            "airport_ident": "LIRS",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "28.035"
-        },
-        {
-            "id": "54320",
-            "airport_ref": "4381",
-            "airport_ident": "LIRS",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "122.1"
-        }
-    ],
     "country": {
         "id": "302697",
         "code": "IT",

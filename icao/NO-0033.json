@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "308254",
-            "airport_ref": "308253",
-            "airport_ident": "NO-0033",
-            "type": "123.5",
-            "description": "Lillehammer Mjøsisen",
-            "frequency_mhz": "0"
-        }
-    ],
     "country": {
         "id": "302709",
         "code": "NO",

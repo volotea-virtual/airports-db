@@ -63,64 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "61257",
-            "airport_ref": "3904",
-            "airport_ident": "KSTJ",
-            "type": "A/D",
-            "description": "ST JOSEPH APP/DEP",
-            "frequency_mhz": "120.35"
-        },
-        {
-            "id": "61258",
-            "airport_ref": "3904",
-            "airport_ident": "KSTJ",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "125.05"
-        },
-        {
-            "id": "61259",
-            "airport_ref": "3904",
-            "airport_ident": "KSTJ",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "126.9"
-        },
-        {
-            "id": "61260",
-            "airport_ref": "3904",
-            "airport_ident": "KSTJ",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "61261",
-            "airport_ref": "3904",
-            "airport_ident": "KSTJ",
-            "type": "POST",
-            "description": "ANG COMD POST",
-            "frequency_mhz": "34.94"
-        },
-        {
-            "id": "61262",
-            "airport_ref": "3904",
-            "airport_ident": "KSTJ",
-            "type": "TWR",
-            "description": "ST JOSEPH TWR",
-            "frequency_mhz": "126.9"
-        },
-        {
-            "id": "61263",
-            "airport_ref": "3904",
-            "airport_ident": "KSTJ",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.95"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

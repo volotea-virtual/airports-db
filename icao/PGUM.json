@@ -63,64 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "53299",
-            "airport_ref": "5433",
-            "airport_ident": "PGUM",
-            "type": "A/D",
-            "description": "APP/DEP",
-            "frequency_mhz": "118.7"
-        },
-        {
-            "id": "53300",
-            "airport_ref": "5433",
-            "airport_ident": "PGUM",
-            "type": "ARTC",
-            "description": "GUAM CERAP",
-            "frequency_mhz": "120.5"
-        },
-        {
-            "id": "53301",
-            "airport_ref": "5433",
-            "airport_ident": "PGUM",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "119"
-        },
-        {
-            "id": "53302",
-            "airport_ref": "5433",
-            "airport_ident": "PGUM",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "53303",
-            "airport_ref": "5433",
-            "airport_ident": "PGUM",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "53304",
-            "airport_ref": "5433",
-            "airport_ident": "PGUM",
-            "type": "RMP",
-            "description": "RAMP",
-            "frequency_mhz": "121.6"
-        },
-        {
-            "id": "53305",
-            "airport_ref": "5433",
-            "airport_ident": "PGUM",
-            "type": "TWR",
-            "description": "AGANA TWR",
-            "frequency_mhz": "118.1"
-        }
-    ],
     "country": {
         "id": "302768",
         "code": "GU",

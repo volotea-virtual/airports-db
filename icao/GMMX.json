@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55332",
-            "airport_ref": "3115",
-            "airport_ident": "GMMX",
-            "type": "APP",
-            "description": "MARRAKECH APP",
-            "frequency_mhz": "119.7"
-        },
-        {
-            "id": "55333",
-            "airport_ref": "3115",
-            "airport_ident": "GMMX",
-            "type": "TWR",
-            "description": "MARRAKECH TWR",
-            "frequency_mhz": "118.7"
-        }
-    ],
     "country": {
         "id": "302584",
         "code": "MA",

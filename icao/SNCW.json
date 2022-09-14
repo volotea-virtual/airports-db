@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "49754",
-            "airport_ref": "293",
-            "airport_ident": "SNCW",
-            "type": "OPS",
-            "description": "OPS",
-            "frequency_mhz": "122.05"
-        }
-    ],
     "country": {
         "id": "302791",
         "code": "BR",

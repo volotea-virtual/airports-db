@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": "459"
         }
     ],
-    "freqs": [
-        {
-            "id": "57419",
-            "airport_ref": "2682",
-            "airport_ident": "ESNN",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "127.4"
-        },
-        {
-            "id": "57420",
-            "airport_ref": "2682",
-            "airport_ident": "ESNN",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "129.55"
-        }
-    ],
     "country": {
         "id": "302715",
         "code": "SE",

@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": "1467"
         }
     ],
-    "freqs": [
-        {
-            "id": "56062",
-            "airport_ref": "6233",
-            "airport_ident": "SPQU",
-            "type": "APP",
-            "description": "AREQUIPA APP",
-            "frequency_mhz": "118.7"
-        },
-        {
-            "id": "56063",
-            "airport_ref": "6233",
-            "airport_ident": "SPQU",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "56064",
-            "airport_ref": "6233",
-            "airport_ident": "SPQU",
-            "type": "TWR",
-            "description": "AREQUIPA TWR",
-            "frequency_mhz": "118.7"
-        }
-    ],
     "country": {
         "id": "302798",
         "code": "PE",

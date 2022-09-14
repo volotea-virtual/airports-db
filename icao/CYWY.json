@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51056",
-            "airport_ref": "1954",
-            "airport_ident": "CYWY",
-            "type": "ATF",
-            "description": "MANDATORY FREQ",
-            "frequency_mhz": "122.1"
-        },
-        {
-            "id": "51057",
-            "airport_ref": "1954",
-            "airport_ident": "CYWY",
-            "type": "RDO",
-            "description": "ARPT RDO",
-            "frequency_mhz": "122.1"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

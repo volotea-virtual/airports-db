@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55252",
-            "airport_ref": "4641",
-            "airport_ident": "FM43",
-            "type": "AFIS",
-            "description": "AFIS",
-            "frequency_mhz": "118.9"
-        },
-        {
-            "id": "55253",
-            "airport_ref": "4641",
-            "airport_ident": "FM43",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "119.7"
-        }
-    ],
     "country": {
         "id": "302585",
         "code": "MG",

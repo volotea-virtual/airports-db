@@ -41,48 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "48193",
-            "airport_ref": "6359",
-            "airport_ident": "TAPA",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "119.1"
-        },
-        {
-            "id": "48194",
-            "airport_ref": "6359",
-            "airport_ident": "TAPA",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "114.5"
-        },
-        {
-            "id": "48195",
-            "airport_ref": "6359",
-            "airport_ident": "TAPA",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "48196",
-            "airport_ref": "6359",
-            "airport_ident": "TAPA",
-            "type": "RDO",
-            "description": "ANTIQUA RDO",
-            "frequency_mhz": "26.48"
-        },
-        {
-            "id": "48197",
-            "airport_ref": "6359",
-            "airport_ident": "TAPA",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.2"
-        }
-    ],
     "country": {
         "id": "302722",
         "code": "AG",

@@ -1,0 +1,38 @@
+{
+    "id": "356537",
+    "ident": "SI8C",
+    "type": "small_airport",
+    "name": "Grupo Pivot Airport",
+    "latitude_deg": "-14.315991",
+    "longitude_deg": "-45.811631",
+    "elevation_ft": "2923",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-BA",
+    "municipality": "Jaborandi",
+    "scheduled_service": "no",
+    "gps_code": "SI8C",
+    "iata_code": "",
+    "local_code": "BA0396",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian"
+    },
+    "region": {
+        "id": "303203",
+        "code": "BR-BA",
+        "local_code": "BA",
+        "name": "Bahia",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bahia",
+        "keywords": "Airports in Bahia"
+    }
+}

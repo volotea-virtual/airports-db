@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "53457",
-            "airport_ref": "3148",
-            "airport_ident": "GUFH",
-            "type": "A/G",
-            "description": "A/G VOICE RDO",
-            "frequency_mhz": "658.9"
-        },
-        {
-            "id": "53458",
-            "airport_ref": "3148",
-            "airport_ident": "GUFH",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.5"
-        }
-    ],
     "country": {
         "id": "302576",
         "code": "GN",

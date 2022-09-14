@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "56210",
-            "airport_ref": "2622",
-            "airport_ident": "EPMO",
-            "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "124.5"
-        }
-    ],
     "country": {
         "id": "302710",
         "code": "PL",

@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "75163",
-            "airport_ref": "1355",
-            "airport_ident": "CNW3",
-            "type": "ATF",
-            "description": "Bancroft Traffic",
-            "frequency_mhz": "122.8"
-        },
-        {
-            "id": "75164",
-            "airport_ref": "1355",
-            "airport_ident": "CNW3",
-            "type": "UNICOM",
-            "description": "Bancroft Unicom",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

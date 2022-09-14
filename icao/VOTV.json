@@ -41,48 +41,6 @@
             "he_displaced_threshold_ft": "522"
         }
     ],
-    "freqs": [
-        {
-            "id": "53950",
-            "airport_ref": "26629",
-            "airport_ident": "VOTV",
-            "type": "ACC",
-            "description": "CON",
-            "frequency_mhz": "125.9"
-        },
-        {
-            "id": "53951",
-            "airport_ref": "26629",
-            "airport_ident": "VOTV",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "119.6"
-        },
-        {
-            "id": "53952",
-            "airport_ref": "26629",
-            "airport_ident": "VOTV",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "126.6"
-        },
-        {
-            "id": "53953",
-            "airport_ref": "26629",
-            "airport_ident": "VOTV",
-            "type": "RDO",
-            "description": "RDO",
-            "frequency_mhz": "1128.5"
-        },
-        {
-            "id": "53954",
-            "airport_ref": "26629",
-            "airport_ident": "VOTV",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.1"
-        }
-    ],
     "country": {
         "id": "302634",
         "code": "IN",

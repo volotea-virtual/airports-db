@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "48367",
-            "airport_ref": "5774",
-            "airport_ident": "SACT",
-            "type": "RDO",
-            "description": "GORDILLO RDO",
-            "frequency_mhz": "118.5"
-        }
-    ],
     "country": {
         "id": "302789",
         "code": "AR",

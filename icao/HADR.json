@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51992",
-            "airport_ref": "3162",
-            "airport_ident": "HADR",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "120.1"
-        },
-        {
-            "id": "51993",
-            "airport_ref": "3162",
-            "airport_ident": "HADR",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "51994",
-            "airport_ref": "3162",
-            "airport_ident": "HADR",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.3"
-        }
-    ],
     "country": {
         "id": "302572",
         "code": "ET",

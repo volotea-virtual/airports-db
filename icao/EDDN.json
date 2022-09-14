@@ -41,48 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "53179",
-            "airport_ref": "2219",
-            "airport_ident": "EDDN",
-            "type": "APP",
-            "description": "Nürnberg Director",
-            "frequency_mhz": "119.475"
-        },
-        {
-            "id": "53178",
-            "airport_ref": "2219",
-            "airport_ident": "EDDN",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "123.075"
-        },
-        {
-            "id": "53180",
-            "airport_ref": "2219",
-            "airport_ident": "EDDN",
-            "type": "GND",
-            "description": "NUERNBERG GROUND",
-            "frequency_mhz": "118.1"
-        },
-        {
-            "id": "53181",
-            "airport_ref": "2219",
-            "airport_ident": "EDDN",
-            "type": "RDR",
-            "description": "MUNCHEN RADAR",
-            "frequency_mhz": "129.525"
-        },
-        {
-            "id": "53182",
-            "airport_ref": "2219",
-            "airport_ident": "EDDN",
-            "type": "TWR",
-            "description": "NUERNBERG TOWER",
-            "frequency_mhz": "118.3"
-        }
-    ],
     "country": {
         "id": "302681",
         "code": "DE",

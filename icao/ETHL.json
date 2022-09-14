@@ -63,48 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "52830",
-            "airport_ref": "2725",
-            "airport_ident": "ETHL",
-            "type": "A/G",
-            "description": "A/G",
-            "frequency_mhz": "42.4"
-        },
-        {
-            "id": "52831",
-            "airport_ref": "2725",
-            "airport_ident": "ETHL",
-            "type": "ACC",
-            "description": "MUNCHEN CON",
-            "frequency_mhz": "129.45"
-        },
-        {
-            "id": "52833",
-            "airport_ref": "2725",
-            "airport_ident": "ETHL",
-            "type": "RDR",
-            "description": "LIMA RADAR",
-            "frequency_mhz": "34.4"
-        },
-        {
-            "id": "52832",
-            "airport_ref": "2725",
-            "airport_ident": "ETHL",
-            "type": "RDR",
-            "description": "LIMA RADAR",
-            "frequency_mhz": "119.1"
-        },
-        {
-            "id": "52834",
-            "airport_ref": "2725",
-            "airport_ident": "ETHL",
-            "type": "TWR",
-            "description": "LIMA TWR",
-            "frequency_mhz": "42.4"
-        }
-    ],
     "country": {
         "id": "302681",
         "code": "DE",

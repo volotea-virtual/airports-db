@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "316713",
-            "airport_ref": "29419",
-            "airport_ident": "LIDG",
-            "type": "RDO",
-            "description": "Lugo Radio",
-            "frequency_mhz": "119.65"
-        }
-    ],
     "country": {
         "id": "302697",
         "code": "IT",

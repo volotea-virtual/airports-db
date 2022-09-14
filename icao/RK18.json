@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55065",
-            "airport_ref": "3803",
-            "airport_ident": "RK18",
-            "type": "FCC",
-            "description": "FCC GO NEE",
-            "frequency_mhz": "138"
-        }
-    ],
     "country": {
         "id": "302643",
         "code": "KR",

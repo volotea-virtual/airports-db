@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51332",
-            "airport_ref": "6001",
-            "airport_ident": "SCAR",
-            "type": "APP",
-            "description": "ARICA APP",
-            "frequency_mhz": "119.9"
-        },
-        {
-            "id": "51333",
-            "airport_ref": "6001",
-            "airport_ident": "SCAR",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "51334",
-            "airport_ref": "6001",
-            "airport_ident": "SCAR",
-            "type": "TWR",
-            "description": "ARICA TWR",
-            "frequency_mhz": "118.5"
-        }
-    ],
     "country": {
         "id": "302792",
         "code": "CL",

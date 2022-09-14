@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "50844",
-            "airport_ref": "2019",
-            "airport_ident": "CZGF",
-            "type": "ATF",
-            "description": "ATF",
-            "frequency_mhz": "123.2"
-        },
-        {
-            "id": "50843",
-            "airport_ref": "2019",
-            "airport_ident": "CZGF",
-            "type": "AWOS",
-            "description": "AWOS",
-            "frequency_mhz": "122.97"
-        },
-        {
-            "id": "50845",
-            "airport_ref": "2019",
-            "airport_ident": "CZGF",
-            "type": "RCO",
-            "description": "PACIFIC RDO",
-            "frequency_mhz": "126.7"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

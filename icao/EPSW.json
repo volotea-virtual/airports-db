@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "309492",
-            "airport_ref": "30451",
-            "airport_ident": "EPSW",
-            "type": "TWR",
-            "description": "Lublin Tower",
-            "frequency_mhz": "136.425"
-        }
-    ],
     "country": {
         "id": "302710",
         "code": "PL",

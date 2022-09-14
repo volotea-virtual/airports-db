@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "49896",
-            "airport_ref": "741",
-            "airport_ident": "CBZ9",
-            "type": "ATF",
-            "description": "ATF",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

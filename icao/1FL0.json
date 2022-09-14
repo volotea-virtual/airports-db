@@ -2,9 +2,9 @@
     "id": "8285",
     "ident": "1FL0",
     "type": "seaplane_base",
-    "name": "Garner Landing Seaplane Base",
-    "latitude_deg": "28.103599548339844",
-    "longitude_deg": "-81.80590057373047",
+    "name": "Londono's Landing Seaplane Base",
+    "latitude_deg": "28.1036",
+    "longitude_deg": "-81.805901",
     "elevation_ft": "147",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "1FL0",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Garner Landing",
     "runways": [
         {
             "id": "256858",

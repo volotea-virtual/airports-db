@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "64127",
-            "airport_ref": "20977",
-            "airport_ident": "KRXE",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "135.075"
-        },
-        {
-            "id": "64128",
-            "airport_ref": "20977",
-            "airport_ident": "KRXE",
-            "type": "CNTR",
-            "description": "SALT LAKE CITY CNTR",
-            "frequency_mhz": "128.35"
-        },
-        {
-            "id": "64129",
-            "airport_ref": "20977",
-            "airport_ident": "KRXE",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

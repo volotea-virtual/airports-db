@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": "600"
         }
     ],
-    "freqs": [
-        {
-            "id": "66829",
-            "airport_ref": "14566",
-            "airport_ident": "82IS",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.9"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

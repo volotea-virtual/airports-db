@@ -41,56 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51693",
-            "airport_ref": "3982",
-            "airport_ident": "LCRA",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "122.1"
-        },
-        {
-            "id": "51694",
-            "airport_ref": "3982",
-            "airport_ident": "LCRA",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "28.82"
-        },
-        {
-            "id": "51695",
-            "airport_ref": "3982",
-            "airport_ident": "LCRA",
-            "type": "DIR",
-            "description": "DIRECTOR",
-            "frequency_mhz": "122.1"
-        },
-        {
-            "id": "51696",
-            "airport_ref": "3982",
-            "airport_ident": "LCRA",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "26.1"
-        },
-        {
-            "id": "51697",
-            "airport_ref": "3982",
-            "airport_ident": "LCRA",
-            "type": "OPS",
-            "description": "OPS",
-            "frequency_mhz": "23.405"
-        },
-        {
-            "id": "51698",
-            "airport_ref": "3982",
-            "airport_ident": "LCRA",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "122.1"
-        }
-    ],
     "country": {
         "id": "302629",
         "code": "CY",

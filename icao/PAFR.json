@@ -41,48 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "58749",
-            "airport_ref": "5364",
-            "airport_ident": "PAFR",
-            "type": "A/D",
-            "description": "ANCHORAGE APP/DEP",
-            "frequency_mhz": "118.6"
-        },
-        {
-            "id": "58750",
-            "airport_ref": "5364",
-            "airport_ident": "PAFR",
-            "type": "CLD",
-            "description": "ANCHORAGE CLNC DEL",
-            "frequency_mhz": "128.65"
-        },
-        {
-            "id": "58751",
-            "airport_ref": "5364",
-            "airport_ident": "PAFR",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "125"
-        },
-        {
-            "id": "58752",
-            "airport_ref": "5364",
-            "airport_ident": "PAFR",
-            "type": "OPS",
-            "description": "AVN SPT FAC",
-            "frequency_mhz": "40.8"
-        },
-        {
-            "id": "58753",
-            "airport_ref": "5364",
-            "airport_ident": "PAFR",
-            "type": "PMSV",
-            "description": "PMSV METRO",
-            "frequency_mhz": "34.46"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

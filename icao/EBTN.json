@@ -63,16 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "329146",
-            "airport_ref": "29899",
-            "airport_ident": "EBTN",
-            "type": "RADIO",
-            "description": "Goetsenhoven radio",
-            "frequency_mhz": "125.375"
-        }
-    ],
     "country": {
         "id": "302676",
         "code": "BE",

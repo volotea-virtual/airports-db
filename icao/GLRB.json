@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": "1200"
         }
     ],
-    "freqs": [
-        {
-            "id": "55178",
-            "airport_ref": "3099",
-            "airport_ident": "GLRB",
-            "type": "A/G",
-            "description": "A/G VOICE RDO",
-            "frequency_mhz": "345.2"
-        },
-        {
-            "id": "55179",
-            "airport_ref": "3099",
-            "airport_ident": "GLRB",
-            "type": "APP",
-            "description": "ROBERTS APP",
-            "frequency_mhz": "124.5"
-        },
-        {
-            "id": "55180",
-            "airport_ref": "3099",
-            "airport_ident": "GLRB",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "55181",
-            "airport_ref": "3099",
-            "airport_ident": "GLRB",
-            "type": "TWR",
-            "description": "ROBERTS TWR",
-            "frequency_mhz": "118.3"
-        }
-    ],
     "country": {
         "id": "302581",
         "code": "LR",

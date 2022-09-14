@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": "2287"
         }
     ],
-    "freqs": [
-        {
-            "id": "54153",
-            "airport_ref": "4380",
-            "airport_ident": "LIRQ",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "126.075"
-        },
-        {
-            "id": "54154",
-            "airport_ref": "4380",
-            "airport_ident": "LIRQ",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "129.35"
-        },
-        {
-            "id": "54155",
-            "airport_ref": "4380",
-            "airport_ident": "LIRQ",
-            "type": "TWR",
-            "description": "FIRENZE TWR",
-            "frequency_mhz": "118.3"
-        }
-    ],
     "country": {
         "id": "302697",
         "code": "IT",

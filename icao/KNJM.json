@@ -41,56 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "59922",
-            "airport_ref": "20644",
-            "airport_ident": "KNJM",
-            "type": "A/D",
-            "description": "CHERRY POINT APP/DEP",
-            "frequency_mhz": "119.35"
-        },
-        {
-            "id": "59923",
-            "airport_ref": "20644",
-            "airport_ident": "KNJM",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "26.26"
-        },
-        {
-            "id": "59924",
-            "airport_ref": "20644",
-            "airport_ident": "KNJM",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "126.45"
-        },
-        {
-            "id": "59925",
-            "airport_ref": "20644",
-            "airport_ident": "KNJM",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "26.26"
-        },
-        {
-            "id": "59926",
-            "airport_ref": "20644",
-            "airport_ident": "KNJM",
-            "type": "PMSV",
-            "description": "PMSV METRO",
-            "frequency_mhz": "34.46"
-        },
-        {
-            "id": "59927",
-            "airport_ref": "20644",
-            "airport_ident": "KNJM",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "126.45"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

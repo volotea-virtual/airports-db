@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": "65"
         }
     ],
-    "freqs": [
-        {
-            "id": "310746",
-            "airport_ref": "27248",
-            "airport_ident": "EFFO",
-            "type": "ACC",
-            "description": "Tampere radar",
-            "frequency_mhz": "121.3"
-        },
-        {
-            "id": "310745",
-            "airport_ref": "27248",
-            "airport_ident": "EFFO",
-            "type": "RDO",
-            "description": "Forssa traffic",
-            "frequency_mhz": "123.15"
-        }
-    ],
     "country": {
         "id": "302685",
         "code": "FI",

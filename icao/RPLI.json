@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "56523",
-            "airport_ref": "5688",
-            "airport_ident": "RPLI",
-            "type": "A/D",
-            "description": "APP",
-            "frequency_mhz": "122.3"
-        },
-        {
-            "id": "56524",
-            "airport_ref": "5688",
-            "airport_ident": "RPLI",
-            "type": "RDO",
-            "description": "RDO",
-            "frequency_mhz": "124"
-        },
-        {
-            "id": "56525",
-            "airport_ref": "5688",
-            "airport_ident": "RPLI",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.1"
-        }
-    ],
     "country": {
         "id": "302656",
         "code": "PH",

@@ -41,48 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "48222",
-            "airport_ref": "5237",
-            "airport_ident": "OMFJ",
-            "type": "APP",
-            "description": "RADAR",
-            "frequency_mhz": "129.4"
-        },
-        {
-            "id": "48223",
-            "airport_ref": "5237",
-            "airport_ident": "OMFJ",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "114.7"
-        },
-        {
-            "id": "48224",
-            "airport_ref": "5237",
-            "airport_ident": "OMFJ",
-            "type": "DEP",
-            "description": "DUBAI DEPARTURE",
-            "frequency_mhz": "125.45"
-        },
-        {
-            "id": "48225",
-            "airport_ref": "5237",
-            "airport_ident": "OMFJ",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "119.45"
-        },
-        {
-            "id": "48226",
-            "airport_ref": "5237",
-            "airport_ident": "OMFJ",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "124.6"
-        }
-    ],
     "country": {
         "id": "302618",
         "code": "AE",

@@ -63,64 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "65477",
-            "airport_ref": "3845",
-            "airport_ident": "KRFD",
-            "type": "A/D",
-            "description": "ROCKFORD APP/DEP",
-            "frequency_mhz": "121"
-        },
-        {
-            "id": "65478",
-            "airport_ref": "3845",
-            "airport_ident": "KRFD",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "126.7"
-        },
-        {
-            "id": "65479",
-            "airport_ref": "3845",
-            "airport_ident": "KRFD",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "119.25"
-        },
-        {
-            "id": "65480",
-            "airport_ref": "3845",
-            "airport_ident": "KRFD",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "65481",
-            "airport_ref": "3845",
-            "airport_ident": "KRFD",
-            "type": "RDO",
-            "description": "KANKAKEE RDO",
-            "frequency_mhz": "122.65"
-        },
-        {
-            "id": "65482",
-            "airport_ref": "3845",
-            "airport_ident": "KRFD",
-            "type": "TWR",
-            "description": "ROCKFORD TWR",
-            "frequency_mhz": "118.3"
-        },
-        {
-            "id": "65483",
-            "airport_ref": "3845",
-            "airport_ident": "KRFD",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.95"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

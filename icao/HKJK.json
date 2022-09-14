@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "54833",
-            "airport_ref": "3206",
-            "airport_ident": "HKJK",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "122.3"
-        },
-        {
-            "id": "54834",
-            "airport_ref": "3206",
-            "airport_ident": "HKJK",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "126.2"
-        },
-        {
-            "id": "54835",
-            "airport_ref": "3206",
-            "airport_ident": "HKJK",
-            "type": "RMP",
-            "description": "APRON CTL",
-            "frequency_mhz": "121.6"
-        },
-        {
-            "id": "54836",
-            "airport_ref": "3206",
-            "airport_ident": "HKJK",
-            "type": "TWR",
-            "description": "Nairobi Tower",
-            "frequency_mhz": "118.7"
-        }
-    ],
     "country": {
         "id": "302579",
         "code": "KE",

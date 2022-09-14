@@ -41,48 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "70396",
-            "airport_ref": "5367",
-            "airport_ident": "PAGK",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "134.85"
-        },
-        {
-            "id": "70397",
-            "airport_ref": "5367",
-            "airport_ident": "PAGK",
-            "type": "CNTR",
-            "description": "ANCHORAGE CNTR",
-            "frequency_mhz": "119.5"
-        },
-        {
-            "id": "70398",
-            "airport_ref": "5367",
-            "airport_ident": "PAGK",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.9"
-        },
-        {
-            "id": "70399",
-            "airport_ref": "5367",
-            "airport_ident": "PAGK",
-            "type": "FSS",
-            "description": "KENAI RDO",
-            "frequency_mhz": "122.2"
-        },
-        {
-            "id": "70400",
-            "airport_ref": "5367",
-            "airport_ident": "PAGK",
-            "type": "MISC",
-            "description": "TWEB",
-            "frequency_mhz": "115.6"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

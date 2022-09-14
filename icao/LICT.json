@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": "820"
         }
     ],
-    "freqs": [
-        {
-            "id": "54160",
-            "airport_ref": "4324",
-            "airport_ident": "LICT",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "119.95"
-        },
-        {
-            "id": "54163",
-            "airport_ref": "4324",
-            "airport_ident": "LICT",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "119.7"
-        }
-    ],
     "country": {
         "id": "302697",
         "code": "IT",

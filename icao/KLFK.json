@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": "105"
         }
     ],
-    "freqs": [
-        {
-            "id": "65235",
-            "airport_ref": "20332",
-            "airport_ident": "KLFK",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "120.625"
-        },
-        {
-            "id": "65236",
-            "airport_ref": "20332",
-            "airport_ident": "KLFK",
-            "type": "CNTR",
-            "description": "HOUSTON CNTR",
-            "frequency_mhz": "134.8"
-        },
-        {
-            "id": "65237",
-            "airport_ref": "20332",
-            "airport_ident": "KLFK",
-            "type": "RDO",
-            "description": "MONTGOMERY CO RDO",
-            "frequency_mhz": "122.2"
-        },
-        {
-            "id": "65238",
-            "airport_ref": "20332",
-            "airport_ident": "KLFK",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

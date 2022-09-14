@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "57491",
-            "airport_ref": "2656",
-            "airport_ident": "ESIB",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "134.3"
-        },
-        {
-            "id": "57492",
-            "airport_ref": "2656",
-            "airport_ident": "ESIB",
-            "type": "TCA",
-            "description": "CON",
-            "frequency_mhz": "134.55"
-        },
-        {
-            "id": "57493",
-            "airport_ref": "2656",
-            "airport_ident": "ESIB",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "128.2"
-        }
-    ],
     "country": {
         "id": "302715",
         "code": "SE",

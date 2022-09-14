@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51795",
-            "airport_ref": "6084",
-            "airport_ident": "SETN",
-            "type": "RDO",
-            "description": "GUAYAQUIL RDO",
-            "frequency_mhz": "126.9"
-        },
-        {
-            "id": "51796",
-            "airport_ref": "6084",
-            "airport_ident": "SETN",
-            "type": "TWR",
-            "description": "TACHINA TWR",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302794",
         "code": "EC",

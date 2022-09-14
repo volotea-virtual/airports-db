@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "53879",
-            "airport_ref": "26550",
-            "airport_ident": "VICG",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "118.3"
-        },
-        {
-            "id": "53880",
-            "airport_ref": "26550",
-            "airport_ident": "VICG",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.6"
-        }
-    ],
     "country": {
         "id": "302634",
         "code": "IN",

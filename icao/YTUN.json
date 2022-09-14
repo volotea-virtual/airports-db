@@ -63,24 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "74782",
-            "airport_ref": "28009",
-            "airport_ident": "YTUN",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "126.7"
-        },
-        {
-            "id": "74783",
-            "airport_ref": "28009",
-            "airport_ident": "YTUN",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "119.5"
-        }
-    ],
     "country": {
         "id": "302764",
         "code": "AU",

@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "349446",
-            "airport_ref": "310896",
-            "airport_ident": "EFML",
-            "type": "Info",
-            "description": "",
-            "frequency_mhz": "120.65"
-        }
-    ],
     "country": {
         "id": "302685",
         "code": "FI",

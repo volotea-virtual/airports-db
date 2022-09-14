@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "53611",
-            "airport_ref": "26858",
-            "airport_ident": "WIPT",
-            "type": "APP",
-            "description": "PADANG APP",
-            "frequency_mhz": "124"
-        },
-        {
-            "id": "53612",
-            "airport_ref": "26858",
-            "airport_ident": "WIPT",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "127.25"
-        },
-        {
-            "id": "53613",
-            "airport_ref": "26858",
-            "airport_ident": "WIPT",
-            "type": "TWR",
-            "description": "MINANG TWR",
-            "frequency_mhz": "118.3"
-        }
-    ],
     "country": {
         "id": "302632",
         "code": "ID",

@@ -63,16 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "313584",
-            "airport_ref": "29215",
-            "airport_ident": "EIBR",
-            "type": "Radio",
-            "description": "",
-            "frequency_mhz": "122.95"
-        }
-    ],
     "country": {
         "id": "302694",
         "code": "IE",

@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": "1231"
         }
     ],
-    "freqs": [
-        {
-            "id": "55853",
-            "airport_ref": "2600",
-            "airport_ident": "ENTO",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "119.075"
-        },
-        {
-            "id": "55854",
-            "airport_ref": "2600",
-            "airport_ident": "ENTO",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "126.175"
-        },
-        {
-            "id": "55855",
-            "airport_ref": "2600",
-            "airport_ident": "ENTO",
-            "type": "TCA",
-            "description": "FARRIS TCA",
-            "frequency_mhz": "134.05"
-        },
-        {
-            "id": "55856",
-            "airport_ref": "2600",
-            "airport_ident": "ENTO",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.65"
-        }
-    ],
     "country": {
         "id": "302709",
         "code": "NO",

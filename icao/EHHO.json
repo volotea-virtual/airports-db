@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "352518",
-            "airport_ref": "28121",
-            "airport_ident": "EHHO",
-            "type": "FIS",
-            "description": "Dutch MIL Info",
-            "frequency_mhz": "132.35"
-        },
-        {
-            "id": "75288",
-            "airport_ref": "28121",
-            "airport_ident": "EHHO",
-            "type": "INFO",
-            "description": "Hoogeveen Radio",
-            "frequency_mhz": "127.355"
-        }
-    ],
     "country": {
         "id": "302708",
         "code": "NL",

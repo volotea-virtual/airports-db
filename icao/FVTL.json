@@ -63,24 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "71894",
-            "airport_ref": "3013",
-            "airport_ident": "FVTL",
-            "type": "APP",
-            "description": "THORNHILL APP",
-            "frequency_mhz": "126.5"
-        },
-        {
-            "id": "71895",
-            "airport_ref": "3013",
-            "airport_ident": "FVTL",
-            "type": "TWR",
-            "description": "THORNHILL TWR",
-            "frequency_mhz": "123.5"
-        }
-    ],
     "country": {
         "id": "302612",
         "code": "ZW",

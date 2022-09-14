@@ -85,64 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "65467",
-            "airport_ref": "3895",
-            "airport_ident": "KSNS",
-            "type": "A/D",
-            "description": "NORCAL APP/DEP",
-            "frequency_mhz": "127.15"
-        },
-        {
-            "id": "65468",
-            "airport_ref": "3895",
-            "airport_ident": "KSNS",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "124.85"
-        },
-        {
-            "id": "65469",
-            "airport_ref": "3895",
-            "airport_ident": "KSNS",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "119.4"
-        },
-        {
-            "id": "65470",
-            "airport_ref": "3895",
-            "airport_ident": "KSNS",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.7"
-        },
-        {
-            "id": "65471",
-            "airport_ref": "3895",
-            "airport_ident": "KSNS",
-            "type": "RDO",
-            "description": "OAKLAND RDO",
-            "frequency_mhz": "122.6"
-        },
-        {
-            "id": "65472",
-            "airport_ref": "3895",
-            "airport_ident": "KSNS",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "119.4"
-        },
-        {
-            "id": "65473",
-            "airport_ref": "3895",
-            "airport_ident": "KSNS",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.95"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

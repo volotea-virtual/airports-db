@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "52648",
-            "airport_ref": "4102",
-            "airport_ident": "LFFI",
-            "type": "AFIS",
-            "description": "INFO",
-            "frequency_mhz": "118.2"
-        },
-        {
-            "id": "52649",
-            "airport_ref": "4102",
-            "airport_ident": "LFFI",
-            "type": "APP",
-            "description": "NANTES APP",
-            "frequency_mhz": "130.275"
-        }
-    ],
     "country": {
         "id": "302687",
         "code": "FR",

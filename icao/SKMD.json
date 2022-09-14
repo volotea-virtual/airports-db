@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": "984"
         }
     ],
-    "freqs": [
-        {
-            "id": "51450",
-            "airport_ref": "6132",
-            "airport_ident": "SKMD",
-            "type": "APP",
-            "description": "MEDELLIN APP",
-            "frequency_mhz": "121.1"
-        },
-        {
-            "id": "51451",
-            "airport_ref": "6132",
-            "airport_ident": "SKMD",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "51452",
-            "airport_ref": "6132",
-            "airport_ident": "SKMD",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.9"
-        }
-    ],
     "country": {
         "id": "302793",
         "code": "CO",

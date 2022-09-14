@@ -41,56 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "49440",
-            "airport_ref": "4470",
-            "airport_ident": "LQTZ",
-            "type": "APP",
-            "description": "APP/DEP",
-            "frequency_mhz": "125.8"
-        },
-        {
-            "id": "49441",
-            "airport_ref": "4470",
-            "airport_ident": "LQTZ",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "140.325"
-        },
-        {
-            "id": "49442",
-            "airport_ref": "4470",
-            "airport_ident": "LQTZ",
-            "type": "GCCD",
-            "description": "GND/CLNC DEL",
-            "frequency_mhz": "143.425"
-        },
-        {
-            "id": "49443",
-            "airport_ref": "4470",
-            "airport_ident": "LQTZ",
-            "type": "OPS",
-            "description": "AFLD OPS",
-            "frequency_mhz": "142.525"
-        },
-        {
-            "id": "49444",
-            "airport_ref": "4470",
-            "airport_ident": "LQTZ",
-            "type": "PMSV",
-            "description": "PMSV METRO",
-            "frequency_mhz": "25.892"
-        },
-        {
-            "id": "49445",
-            "airport_ref": "4470",
-            "airport_ident": "LQTZ",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "130.85"
-        }
-    ],
     "country": {
         "id": "302675",
         "code": "BA",

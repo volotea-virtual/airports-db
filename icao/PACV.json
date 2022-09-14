@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "64067",
-            "airport_ref": "5348",
-            "airport_ident": "PACV",
-            "type": "A/D",
-            "description": "ANCHORAGE APP/DEP",
-            "frequency_mhz": "133.6"
-        },
-        {
-            "id": "64068",
-            "airport_ref": "5348",
-            "airport_ident": "PACV",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "134.8"
-        },
-        {
-            "id": "64069",
-            "airport_ref": "5348",
-            "airport_ident": "PACV",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "123.6"
-        },
-        {
-            "id": "64070",
-            "airport_ref": "5348",
-            "airport_ident": "PACV",
-            "type": "FSS",
-            "description": "JUNEAU RDO",
-            "frequency_mhz": "122.2"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

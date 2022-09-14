@@ -85,32 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "62155",
-            "airport_ref": "21238",
-            "airport_ident": "KTWT",
-            "type": "A/D",
-            "description": "EVANSVILLE APP/DEP",
-            "frequency_mhz": "126.4"
-        },
-        {
-            "id": "62156",
-            "airport_ref": "21238",
-            "airport_ident": "KTWT",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "118.775"
-        },
-        {
-            "id": "62157",
-            "airport_ref": "21238",
-            "airport_ident": "KTWT",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

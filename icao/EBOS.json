@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "49331",
-            "airport_ref": "2163",
-            "airport_ident": "EBOS",
-            "type": "APP",
-            "description": "Oostende Approach",
-            "frequency_mhz": "120.6"
-        },
-        {
-            "id": "309477",
-            "airport_ref": "2163",
-            "airport_ident": "EBOS",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "126.13"
-        },
-        {
-            "id": "49332",
-            "airport_ref": "2163",
-            "airport_ident": "EBOS",
-            "type": "GND",
-            "description": "Oostende Ground",
-            "frequency_mhz": "121.98"
-        },
-        {
-            "id": "49333",
-            "airport_ref": "2163",
-            "airport_ident": "EBOS",
-            "type": "TWR",
-            "description": "Oostende Tower",
-            "frequency_mhz": "118.18"
-        }
-    ],
     "country": {
         "id": "302676",
         "code": "BE",

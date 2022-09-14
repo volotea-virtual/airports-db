@@ -63,16 +63,6 @@
             "he_displaced_threshold_ft": "1200"
         }
     ],
-    "freqs": [
-        {
-            "id": "54403",
-            "airport_ref": "5301",
-            "airport_ident": "ORUB",
-            "type": "TWR",
-            "description": "BLAIR TWR",
-            "frequency_mhz": "135.5"
-        }
-    ],
     "country": {
         "id": "302636",
         "code": "IQ",

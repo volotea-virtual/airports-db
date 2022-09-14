@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "71417",
-            "airport_ref": "20443",
-            "airport_ident": "KM55",
-            "type": "A/D",
-            "description": "COLUMBUS APP/DEP",
-            "frequency_mhz": "120.4"
-        },
-        {
-            "id": "71418",
-            "airport_ref": "20443",
-            "airport_ident": "KM55",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.9"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

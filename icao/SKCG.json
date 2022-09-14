@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51494",
-            "airport_ref": "6109",
-            "airport_ident": "SKCG",
-            "type": "APP",
-            "description": "BARRANQUILLA APP",
-            "frequency_mhz": "119.1"
-        },
-        {
-            "id": "51495",
-            "airport_ref": "6109",
-            "airport_ident": "SKCG",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.3"
-        }
-    ],
     "country": {
         "id": "302793",
         "code": "CO",

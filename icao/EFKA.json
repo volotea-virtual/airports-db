@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "52056",
-            "airport_ref": "2317",
-            "airport_ident": "EFKA",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "130.1"
-        },
-        {
-            "id": "52057",
-            "airport_ref": "2317",
-            "airport_ident": "EFKA",
-            "type": "ARR",
-            "description": "ARRIVAL",
-            "frequency_mhz": "128.15"
-        },
-        {
-            "id": "52058",
-            "airport_ref": "2317",
-            "airport_ident": "EFKA",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "112.4"
-        },
-        {
-            "id": "52059",
-            "airport_ref": "2317",
-            "airport_ident": "EFKA",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302685",
         "code": "FI",

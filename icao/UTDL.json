@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": "975"
         }
     ],
-    "freqs": [
-        {
-            "id": "57766",
-            "airport_ref": "26386",
-            "airport_ident": "UTDL",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "124.8"
-        },
-        {
-            "id": "57767",
-            "airport_ref": "26386",
-            "airport_ident": "UTDL",
-            "type": "GCA",
-            "description": "KRUG",
-            "frequency_mhz": "120.3"
-        },
-        {
-            "id": "57768",
-            "airport_ref": "26386",
-            "airport_ident": "UTDL",
-            "type": "PMSV",
-            "description": "METEO",
-            "frequency_mhz": "127.2"
-        },
-        {
-            "id": "57769",
-            "airport_ref": "26386",
-            "airport_ident": "UTDL",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "120.3"
-        }
-    ],
     "country": {
         "id": "302664",
         "code": "TJ",

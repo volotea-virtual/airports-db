@@ -63,16 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55656",
-            "airport_ref": "2981",
-            "airport_ident": "FQPB",
-            "type": "AFIS",
-            "description": "TWR",
-            "frequency_mhz": "118.4"
-        }
-    ],
     "country": {
         "id": "302590",
         "code": "MZ",

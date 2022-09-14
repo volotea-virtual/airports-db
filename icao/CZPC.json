@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": "1200"
         }
     ],
-    "freqs": [
-        {
-            "id": "50369",
-            "airport_ref": "2034",
-            "airport_ident": "CZPC",
-            "type": "A/D",
-            "description": "EDMONTON CNTR",
-            "frequency_mhz": "132.75"
-        },
-        {
-            "id": "50370",
-            "airport_ref": "2034",
-            "airport_ident": "CZPC",
-            "type": "ATF",
-            "description": "ATF",
-            "frequency_mhz": "123.2"
-        },
-        {
-            "id": "50371",
-            "airport_ref": "2034",
-            "airport_ident": "CZPC",
-            "type": "RDO",
-            "description": "EDMONTON RDO",
-            "frequency_mhz": "126.7"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

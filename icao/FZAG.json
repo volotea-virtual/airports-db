@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51140",
-            "airport_ref": "3042",
-            "airport_ident": "FZAG",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.9"
-        }
-    ],
     "country": {
         "id": "302561",
         "code": "CD",

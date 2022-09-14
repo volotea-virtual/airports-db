@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": "300"
         }
     ],
-    "freqs": [
-        {
-            "id": "50342",
-            "airport_ref": "836",
-            "airport_ident": "CEC4",
-            "type": "ATF",
-            "description": "ATF",
-            "frequency_mhz": "123.2"
-        },
-        {
-            "id": "50343",
-            "airport_ref": "836",
-            "airport_ident": "CEC4",
-            "type": "RCO",
-            "description": "EDMONTON RDO",
-            "frequency_mhz": "123.55"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

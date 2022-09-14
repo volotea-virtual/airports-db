@@ -63,16 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "317171",
-            "airport_ref": "317168",
-            "airport_ident": "YCVA",
-            "type": "CTAF",
-            "description": "",
-            "frequency_mhz": "126.7"
-        }
-    ],
     "country": {
         "id": "302764",
         "code": "AU",

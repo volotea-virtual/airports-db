@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "57226",
-            "airport_ref": "4012",
-            "airport_ident": "LEGT",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "127.1"
-        },
-        {
-            "id": "57227",
-            "airport_ref": "4012",
-            "airport_ident": "LEGT",
-            "type": "DEP",
-            "description": "MADRID DEP",
-            "frequency_mhz": "127.1"
-        },
-        {
-            "id": "57228",
-            "airport_ref": "4012",
-            "airport_ident": "LEGT",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.6"
-        },
-        {
-            "id": "57229",
-            "airport_ref": "4012",
-            "airport_ident": "LEGT",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "138.3"
-        }
-    ],
     "country": {
         "id": "302684",
         "code": "ES",

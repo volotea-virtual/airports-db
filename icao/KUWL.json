@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": "322"
         }
     ],
-    "freqs": [
-        {
-            "id": "64940",
-            "airport_ref": "21308",
-            "airport_ident": "KUWL",
-            "type": "A/D",
-            "description": "INDIANAPOLIS APP/DEP",
-            "frequency_mhz": "135.45"
-        },
-        {
-            "id": "64941",
-            "airport_ref": "21308",
-            "airport_ident": "KUWL",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123.05"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

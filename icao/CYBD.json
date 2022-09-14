@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": "115"
         }
     ],
-    "freqs": [
-        {
-            "id": "50521",
-            "airport_ref": "1670",
-            "airport_ident": "CYBD",
-            "type": "ATF",
-            "description": "ATF",
-            "frequency_mhz": "122.8"
-        },
-        {
-            "id": "50522",
-            "airport_ref": "1670",
-            "airport_ident": "CYBD",
-            "type": "RCO",
-            "description": "PACIFIC RDO",
-            "frequency_mhz": "126.7"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

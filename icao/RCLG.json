@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "325036",
-            "airport_ref": "32487",
-            "airport_ident": "RCLG",
-            "type": "ATIS",
-            "description": "TAICHUNG AIRPORT",
-            "frequency_mhz": "127.7"
-        },
-        {
-            "id": "325037",
-            "airport_ref": "32487",
-            "airport_ident": "RCLG",
-            "type": "Ground Control",
-            "description": "TAI CHUNG Ground Control",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "325038",
-            "airport_ref": "32487",
-            "airport_ident": "RCLG",
-            "type": "Tower",
-            "description": "TAI CHUNG Tower",
-            "frequency_mhz": "118.5"
-        }
-    ],
     "country": {
         "id": "302668",
         "code": "TW",

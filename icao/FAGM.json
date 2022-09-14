@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": "378"
         }
     ],
-    "freqs": [
-        {
-            "id": "57073",
-            "airport_ref": "2784",
-            "airport_ident": "FAGM",
-            "type": "APP",
-            "description": "JOHANNESBURG APP",
-            "frequency_mhz": "124.5"
-        },
-        {
-            "id": "57074",
-            "airport_ref": "2784",
-            "airport_ident": "FAGM",
-            "type": "MISC",
-            "description": "APRON OFFICE",
-            "frequency_mhz": "130.5"
-        },
-        {
-            "id": "57075",
-            "airport_ref": "2784",
-            "airport_ident": "FAGM",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.7"
-        }
-    ],
     "country": {
         "id": "302610",
         "code": "ZA",

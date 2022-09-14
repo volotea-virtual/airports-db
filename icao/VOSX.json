@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "308618",
-            "airport_ref": "26625",
-            "airport_ident": "VOSX",
-            "type": "APP",
-            "description": "",
-            "frequency_mhz": "122.3"
-        },
-        {
-            "id": "308619",
-            "airport_ref": "26625",
-            "airport_ident": "VOSX",
-            "type": "NDB",
-            "description": "SX",
-            "frequency_mhz": "325"
-        },
-        {
-            "id": "308617",
-            "airport_ref": "26625",
-            "airport_ident": "VOSX",
-            "type": "TWR",
-            "description": "",
-            "frequency_mhz": "120.7"
-        }
-    ],
     "country": {
         "id": "302634",
         "code": "IN",

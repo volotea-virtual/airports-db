@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "57376",
-            "airport_ref": "3242",
-            "airport_ident": "HSKA",
-            "type": "INFO",
-            "description": "TWR",
-            "frequency_mhz": "118.2"
-        }
-    ],
     "country": {
         "id": "302597",
         "code": "SD",

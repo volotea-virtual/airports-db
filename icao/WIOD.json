@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "53639",
-            "airport_ref": "26842",
-            "airport_ident": "WIOD",
-            "type": "TWR",
-            "description": "Hanan Djoeddin",
-            "frequency_mhz": "118.8"
-        }
-    ],
     "country": {
         "id": "302632",
         "code": "ID",

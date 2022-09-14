@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "63956",
-            "airport_ref": "19759",
-            "airport_ident": "KENL",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "121.125"
-        },
-        {
-            "id": "63957",
-            "airport_ref": "19759",
-            "airport_ident": "KENL",
-            "type": "CNTR",
-            "description": "KANSAS CITY CNTR",
-            "frequency_mhz": "127.7"
-        },
-        {
-            "id": "63958",
-            "airport_ref": "19759",
-            "airport_ident": "KENL",
-            "type": "RDO",
-            "description": "ST LOUIS RDO",
-            "frequency_mhz": "115"
-        },
-        {
-            "id": "63959",
-            "airport_ref": "19759",
-            "airport_ident": "KENL",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

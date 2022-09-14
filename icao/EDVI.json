@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "314923",
-            "airport_ref": "28602",
-            "airport_ident": "EDVI",
-            "type": "INFO",
-            "description": "Höxter Info",
-            "frequency_mhz": "130.28"
-        }
-    ],
     "country": {
         "id": "302681",
         "code": "DE",

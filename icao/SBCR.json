@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "49710",
-            "airport_ref": "5890",
-            "airport_ident": "SBCR",
-            "type": "AFIS",
-            "description": "RDO",
-            "frequency_mhz": "119.5"
-        },
-        {
-            "id": "49711",
-            "airport_ref": "5890",
-            "airport_ident": "SBCR",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "119.5"
-        }
-    ],
     "country": {
         "id": "302791",
         "code": "BR",

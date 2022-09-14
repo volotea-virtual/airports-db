@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": "82"
         }
     ],
-    "freqs": [
-        {
-            "id": "75213",
-            "airport_ref": "29767",
-            "airport_ident": "NZCB",
-            "type": "ATF",
-            "description": "",
-            "frequency_mhz": "119.1"
-        }
-    ],
     "country": {
         "id": "302776",
         "code": "NZ",

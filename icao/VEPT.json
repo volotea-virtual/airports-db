@@ -2,9 +2,9 @@
     "id": "26517",
     "ident": "VEPT",
     "type": "medium_airport",
-    "name": "Lok Nayak Jayaprakash Airport",
-    "latitude_deg": "25.591299057",
-    "longitude_deg": "85.0879974365",
+    "name": "Jay Prakash Narayan Airport",
+    "latitude_deg": "25.591299",
+    "longitude_deg": "85.087997",
     "elevation_ft": "170",
     "continent": "AS",
     "iso_country": "IN",
@@ -15,8 +15,8 @@
     "iata_code": "PAT",
     "local_code": "",
     "home_link": "http://airportsindia.org.in/allAirports/patna_techinfo.jsp",
-    "wikipedia_link": "https://en.wikipedia.org/wiki/Lok_Nayak_Jayaprakash_Airport",
-    "keywords": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Jay_Prakash_Narayan_Airport",
+    "keywords": "Lok Nayah Jayprakash",
     "runways": [
         {
             "id": "236781",
@@ -39,16 +39,6 @@
             "he_elevation_ft": "169",
             "he_heading_degT": "248.3",
             "he_displaced_threshold_ft": "440"
-        }
-    ],
-    "freqs": [
-        {
-            "id": "53962",
-            "airport_ref": "26517",
-            "airport_ident": "VEPT",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.3"
         }
     ],
     "country": {

@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": "843"
         }
     ],
-    "freqs": [
-        {
-            "id": "58131",
-            "airport_ref": "2433",
-            "airport_ident": "EGLK",
-            "type": "AAS",
-            "description": "AFIS INFO",
-            "frequency_mhz": "122.3"
-        }
-    ],
     "country": {
         "id": "302688",
         "code": "GB",

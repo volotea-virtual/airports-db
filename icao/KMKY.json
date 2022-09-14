@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "64847",
-            "airport_ref": "20521",
-            "airport_ident": "KMKY",
-            "type": "A/D",
-            "description": "FORT MYERS APP/DEP",
-            "frequency_mhz": "119.75"
-        },
-        {
-            "id": "64848",
-            "airport_ref": "20521",
-            "airport_ident": "KMKY",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "120.075"
-        },
-        {
-            "id": "64849",
-            "airport_ref": "20521",
-            "airport_ident": "KMKY",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "120.8"
-        },
-        {
-            "id": "64850",
-            "airport_ref": "20521",
-            "airport_ident": "KMKY",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

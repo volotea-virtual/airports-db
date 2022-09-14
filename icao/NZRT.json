@@ -85,16 +85,6 @@
             "he_displaced_threshold_ft": "72"
         }
     ],
-    "freqs": [
-        {
-            "id": "307677",
-            "airport_ref": "30320",
-            "airport_ident": "NZRT",
-            "type": "MBZ",
-            "description": "Mandatory Broadcast Zone",
-            "frequency_mhz": "120.2"
-        }
-    ],
     "country": {
         "id": "302776",
         "code": "NZ",

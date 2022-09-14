@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "302414",
-            "airport_ref": "28708",
-            "airport_ident": "EDFR",
-            "type": "AFIS",
-            "description": "Rothenburg Info (ge)",
-            "frequency_mhz": "118.175"
-        },
-        {
-            "id": "302415",
-            "airport_ref": "28708",
-            "airport_ident": "EDFR",
-            "type": "FIS",
-            "description": "Langen Information",
-            "frequency_mhz": "128.95"
-        }
-    ],
     "country": {
         "id": "302681",
         "code": "DE",

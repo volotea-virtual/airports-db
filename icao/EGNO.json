@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": "354"
         }
     ],
-    "freqs": [
-        {
-            "id": "58532",
-            "airport_ref": "2445",
-            "airport_ident": "EGNO",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "129.525"
-        },
-        {
-            "id": "58533",
-            "airport_ref": "2445",
-            "airport_ident": "EGNO",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "121.725"
-        },
-        {
-            "id": "58534",
-            "airport_ref": "2445",
-            "airport_ident": "EGNO",
-            "type": "RDR",
-            "description": "RDR",
-            "frequency_mhz": "129.525"
-        },
-        {
-            "id": "58535",
-            "airport_ref": "2445",
-            "airport_ident": "EGNO",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "130.8"
-        }
-    ],
     "country": {
         "id": "302688",
         "code": "GB",

@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51736",
-            "airport_ref": "2543",
-            "airport_ident": "EKEB",
-            "type": "AFIS",
-            "description": "AFIS",
-            "frequency_mhz": "120.15"
-        },
-        {
-            "id": "51737",
-            "airport_ref": "2543",
-            "airport_ident": "EKEB",
-            "type": "MISC",
-            "description": "HANDLING",
-            "frequency_mhz": "130.575"
-        }
-    ],
     "country": {
         "id": "302682",
         "code": "DK",

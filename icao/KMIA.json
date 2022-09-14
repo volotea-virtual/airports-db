@@ -107,64 +107,6 @@
             "he_displaced_threshold_ft": "939"
         }
     ],
-    "freqs": [
-        {
-            "id": "63316",
-            "airport_ref": "3685",
-            "airport_ident": "KMIA",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "120.5"
-        },
-        {
-            "id": "63317",
-            "airport_ref": "3685",
-            "airport_ident": "KMIA",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "119.15"
-        },
-        {
-            "id": "63318",
-            "airport_ref": "3685",
-            "airport_ident": "KMIA",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "120.35"
-        },
-        {
-            "id": "63319",
-            "airport_ref": "3685",
-            "airport_ident": "KMIA",
-            "type": "DEP",
-            "description": "DEP",
-            "frequency_mhz": "119.45"
-        },
-        {
-            "id": "63320",
-            "airport_ref": "3685",
-            "airport_ident": "KMIA",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.8"
-        },
-        {
-            "id": "63321",
-            "airport_ref": "3685",
-            "airport_ident": "KMIA",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.3"
-        },
-        {
-            "id": "63322",
-            "airport_ref": "3685",
-            "airport_ident": "KMIA",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

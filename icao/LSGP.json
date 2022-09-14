@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "354123",
-            "airport_ref": "29498",
-            "airport_ident": "LSGP",
-            "type": "A/A",
-            "description": "La Côte Aérodrome",
-            "frequency_mhz": "123.655"
-        },
-        {
-            "id": "354124",
-            "airport_ref": "29498",
-            "airport_ident": "LSGP",
-            "type": "FIS",
-            "description": "Geneva Information",
-            "frequency_mhz": "126.35"
-        }
-    ],
     "country": {
         "id": "302679",
         "code": "CH",

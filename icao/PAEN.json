@@ -85,64 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "64601",
-            "airport_ref": "5359",
-            "airport_ident": "PAEN",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "120.3"
-        },
-        {
-            "id": "64602",
-            "airport_ref": "5359",
-            "airport_ident": "PAEN",
-            "type": "CNTR",
-            "description": "ANCHORAGE CNTR",
-            "frequency_mhz": "125.7"
-        },
-        {
-            "id": "64603",
-            "airport_ref": "5359",
-            "airport_ident": "PAEN",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "121.3"
-        },
-        {
-            "id": "64604",
-            "airport_ref": "5359",
-            "airport_ident": "PAEN",
-            "type": "FSS",
-            "description": "RDO",
-            "frequency_mhz": "122.65"
-        },
-        {
-            "id": "64605",
-            "airport_ref": "5359",
-            "airport_ident": "PAEN",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "64606",
-            "airport_ref": "5359",
-            "airport_ident": "PAEN",
-            "type": "MISC",
-            "description": "TWEB",
-            "frequency_mhz": "117.6"
-        },
-        {
-            "id": "64607",
-            "airport_ref": "5359",
-            "airport_ident": "PAEN",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "121.3"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

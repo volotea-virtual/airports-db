@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": "557"
         }
     ],
-    "freqs": [
-        {
-            "id": "52451",
-            "airport_ref": "4158",
-            "airport_ident": "LFMP",
-            "type": "APP",
-            "description": "PERPIGNAN APP",
-            "frequency_mhz": "120.75"
-        },
-        {
-            "id": "52452",
-            "airport_ref": "4158",
-            "airport_ident": "LFMP",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "127.875"
-        },
-        {
-            "id": "52453",
-            "airport_ref": "4158",
-            "airport_ident": "LFMP",
-            "type": "TWR",
-            "description": "PERPIGNAN TWR",
-            "frequency_mhz": "121.9"
-        }
-    ],
     "country": {
         "id": "302687",
         "code": "FR",

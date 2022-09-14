@@ -107,64 +107,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "54878",
-            "airport_ref": "5653",
-            "airport_ident": "RKSI",
-            "type": "APP",
-            "description": "SEOUL APP",
-            "frequency_mhz": "120.8"
-        },
-        {
-            "id": "54879",
-            "airport_ref": "5653",
-            "airport_ident": "RKSI",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "23.025"
-        },
-        {
-            "id": "54880",
-            "airport_ref": "5653",
-            "airport_ident": "RKSI",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "121"
-        },
-        {
-            "id": "54881",
-            "airport_ref": "5653",
-            "airport_ident": "RKSI",
-            "type": "DEP",
-            "description": "SEOUL DEP",
-            "frequency_mhz": "121.35"
-        },
-        {
-            "id": "54882",
-            "airport_ref": "5653",
-            "airport_ident": "RKSI",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.4"
-        },
-        {
-            "id": "54883",
-            "airport_ref": "5653",
-            "airport_ident": "RKSI",
-            "type": "RMP",
-            "description": "RAMP CON",
-            "frequency_mhz": "121.65"
-        },
-        {
-            "id": "54884",
-            "airport_ref": "5653",
-            "airport_ident": "RKSI",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.2"
-        }
-    ],
     "country": {
         "id": "302643",
         "code": "KR",

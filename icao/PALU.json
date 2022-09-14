@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "58652",
-            "airport_ref": "5385",
-            "airport_ident": "PALU",
-            "type": "CNTR",
-            "description": "ANCHORAGE CNTR",
-            "frequency_mhz": "119.65"
-        },
-        {
-            "id": "58653",
-            "airport_ref": "5385",
-            "airport_ident": "PALU",
-            "type": "FSS",
-            "description": "KOTZEBUE RDO",
-            "frequency_mhz": "122.3"
-        },
-        {
-            "id": "58654",
-            "airport_ref": "5385",
-            "airport_ident": "PALU",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "126.2"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

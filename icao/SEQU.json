@@ -41,48 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51797",
-            "airport_ref": "6073",
-            "airport_ident": "SEQU",
-            "type": "APP",
-            "description": "QUITO APP",
-            "frequency_mhz": "119.7"
-        },
-        {
-            "id": "51798",
-            "airport_ref": "6073",
-            "airport_ident": "SEQU",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "115.3"
-        },
-        {
-            "id": "51799",
-            "airport_ref": "6073",
-            "airport_ident": "SEQU",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "51800",
-            "airport_ref": "6073",
-            "airport_ident": "SEQU",
-            "type": "RDO",
-            "description": "QUITO RDO",
-            "frequency_mhz": "126.9"
-        },
-        {
-            "id": "51801",
-            "airport_ref": "6073",
-            "airport_ident": "SEQU",
-            "type": "TWR",
-            "description": "QUITO TWR",
-            "frequency_mhz": "118.1"
-        }
-    ],
     "country": {
         "id": "302794",
         "code": "EC",

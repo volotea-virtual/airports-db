@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "56613",
-            "airport_ref": "6505",
-            "airport_ident": "UNEE",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "125.5"
-        },
-        {
-            "id": "56614",
-            "airport_ref": "6505",
-            "airport_ident": "UNEE",
-            "type": "PMSV",
-            "description": "METEO",
-            "frequency_mhz": "128.7"
-        },
-        {
-            "id": "56615",
-            "airport_ref": "6505",
-            "airport_ident": "UNEE",
-            "type": "TWR",
-            "description": "START",
-            "frequency_mhz": "118.3"
-        }
-    ],
     "country": {
         "id": "302714",
         "code": "RU",

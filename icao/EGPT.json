@@ -85,16 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "71972",
-            "airport_ref": "29175",
-            "airport_ident": "EGPT",
-            "type": "A/G",
-            "description": "Perth Scone A/G",
-            "frequency_mhz": "121.08"
-        }
-    ],
     "country": {
         "id": "302688",
         "code": "GB",

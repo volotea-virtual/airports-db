@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "75489",
-            "airport_ref": "965",
-            "airport_ident": "CFM5",
-            "type": "CTAF",
-            "description": "Hamburg UNICOM",
-            "frequency_mhz": "130.275"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

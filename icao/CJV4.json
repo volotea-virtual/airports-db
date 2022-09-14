@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "75444",
-            "airport_ref": "1137",
-            "airport_ident": "CJV4",
-            "type": "ATF",
-            "description": "Otter Lake Unicom/Traffic, 5nm below 4300ASL",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

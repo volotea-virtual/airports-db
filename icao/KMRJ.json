@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "65575",
-            "airport_ref": "20560",
-            "airport_ident": "KMRJ",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "118.525"
-        },
-        {
-            "id": "65576",
-            "airport_ref": "20560",
-            "airport_ident": "KMRJ",
-            "type": "CNTR",
-            "description": "CHICAGO CNTR",
-            "frequency_mhz": "133.95"
-        },
-        {
-            "id": "65577",
-            "airport_ref": "20560",
-            "airport_ident": "KMRJ",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

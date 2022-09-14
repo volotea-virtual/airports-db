@@ -41,64 +41,6 @@
             "he_displaced_threshold_ft": "700"
         }
     ],
-    "freqs": [
-        {
-            "id": "62199",
-            "airport_ref": "3655",
-            "airport_ident": "KLSF",
-            "type": "A/D",
-            "description": "ATLANTA APP/DEP",
-            "frequency_mhz": "125.5"
-        },
-        {
-            "id": "62200",
-            "airport_ref": "3655",
-            "airport_ident": "KLSF",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "134.375"
-        },
-        {
-            "id": "62201",
-            "airport_ref": "3655",
-            "airport_ident": "KLSF",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "121.7"
-        },
-        {
-            "id": "62202",
-            "airport_ref": "3655",
-            "airport_ident": "KLSF",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.05"
-        },
-        {
-            "id": "62203",
-            "airport_ref": "3655",
-            "airport_ident": "KLSF",
-            "type": "PMSV",
-            "description": "PMSV METRO",
-            "frequency_mhz": "34.32"
-        },
-        {
-            "id": "62204",
-            "airport_ref": "3655",
-            "airport_ident": "KLSF",
-            "type": "PTD",
-            "description": "PTD/BASE OPS",
-            "frequency_mhz": "134.1"
-        },
-        {
-            "id": "62205",
-            "airport_ref": "3655",
-            "airport_ident": "KLSF",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "119.05"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

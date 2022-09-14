@@ -85,16 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "75327",
-            "airport_ref": "28970",
-            "airport_ident": "LFPA",
-            "type": "CTAF",
-            "description": "PERSAN-BEAUMONT",
-            "frequency_mhz": "119.5"
-        }
-    ],
     "country": {
         "id": "302687",
         "code": "FR",

@@ -4,9 +4,9 @@
     "type": "medium_airport",
     "name": "Juan Casiano Airport",
     "latitude_deg": "2.57013",
-    "longitude_deg": "-77.8986",
+    "longitude_deg": "-77.897969",
     "elevation_ft": "164",
-    "continent": "SA",
+    "continent": "NA",
     "iso_country": "CO",
     "iso_region": "CO-CAU",
     "municipality": "Guapi",
@@ -15,7 +15,7 @@
     "iata_code": "GPI",
     "local_code": "GPI",
     "home_link": "",
-    "wikipedia_link": "https://en.wikipedia.org/wiki/Glacier_Park_International_Airport",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Guapi_Airport",
     "keywords": "",
     "runways": [
         {
@@ -39,24 +39,6 @@
             "he_elevation_ft": "164",
             "he_heading_degT": "198",
             "he_displaced_threshold_ft": ""
-        }
-    ],
-    "freqs": [
-        {
-            "id": "51490",
-            "airport_ref": "6122",
-            "airport_ident": "SKGP",
-            "type": "RDO",
-            "description": "RDO",
-            "frequency_mhz": "348.8"
-        },
-        {
-            "id": "51491",
-            "airport_ref": "6122",
-            "airport_ident": "SKGP",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.6"
         }
     ],
     "country": {

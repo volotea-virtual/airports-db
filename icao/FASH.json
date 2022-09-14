@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "75427",
-            "airport_ref": "27295",
-            "airport_ident": "FASH",
-            "type": "ATF",
-            "description": "",
-            "frequency_mhz": "119.3"
-        }
-    ],
     "country": {
         "id": "302610",
         "code": "ZA",

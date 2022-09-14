@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "50484",
-            "airport_ref": "1587",
-            "airport_ident": "CTA4",
-            "type": "ATF",
-            "description": "ATF",
-            "frequency_mhz": "123.2"
-        },
-        {
-            "id": "50485",
-            "airport_ref": "1587",
-            "airport_ident": "CTA4",
-            "type": "RDO",
-            "description": "QUEBEC RDO",
-            "frequency_mhz": "126.7"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

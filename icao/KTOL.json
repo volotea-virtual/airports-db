@@ -63,64 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "59024",
-            "airport_ref": "3925",
-            "airport_ident": "KTOL",
-            "type": "A/D",
-            "description": "APP/DEP",
-            "frequency_mhz": "123.975"
-        },
-        {
-            "id": "59025",
-            "airport_ref": "3925",
-            "airport_ident": "KTOL",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "118.75"
-        },
-        {
-            "id": "59026",
-            "airport_ref": "3925",
-            "airport_ident": "KTOL",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "121.75"
-        },
-        {
-            "id": "59027",
-            "airport_ref": "3925",
-            "airport_ident": "KTOL",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "59028",
-            "airport_ref": "3925",
-            "airport_ident": "KTOL",
-            "type": "OPS",
-            "description": "180 FW OPS SOF",
-            "frequency_mhz": "143.85"
-        },
-        {
-            "id": "59029",
-            "airport_ref": "3925",
-            "airport_ident": "KTOL",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.1"
-        },
-        {
-            "id": "59030",
-            "airport_ref": "3925",
-            "airport_ident": "KTOL",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.95"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

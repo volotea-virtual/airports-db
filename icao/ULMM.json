@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "56735",
-            "airport_ref": "6490",
-            "airport_ident": "ULMM",
-            "type": "PMSV",
-            "description": "METEO",
-            "frequency_mhz": "127.4"
-        },
-        {
-            "id": "56736",
-            "airport_ref": "6490",
-            "airport_ident": "ULMM",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "120.3"
-        }
-    ],
     "country": {
         "id": "302714",
         "code": "RU",

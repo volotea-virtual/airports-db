@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "75563",
-            "airport_ref": "35178",
-            "airport_ident": "RPVB",
-            "type": "approach",
-            "description": "",
-            "frequency_mhz": "121"
-        },
-        {
-            "id": "75562",
-            "airport_ref": "35178",
-            "airport_ident": "RPVB",
-            "type": "TOWER",
-            "description": "",
-            "frequency_mhz": "118.8"
-        }
-    ],
     "country": {
         "id": "302656",
         "code": "PH",

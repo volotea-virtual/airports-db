@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "75283",
-            "airport_ref": "29468",
-            "airport_ident": "LOKW",
-            "type": "AFIS",
-            "description": "Wolfsberg Flugplatz",
-            "frequency_mhz": "122.5"
-        }
-    ],
     "country": {
         "id": "302674",
         "code": "AT",

@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": "131"
         }
     ],
-    "freqs": [
-        {
-            "id": "314116",
-            "airport_ref": "30066",
-            "airport_ident": "LPJF",
-            "type": "RDO",
-            "description": "LEIRIA RADIO",
-            "frequency_mhz": "121.25"
-        }
-    ],
     "country": {
         "id": "302711",
         "code": "PT",

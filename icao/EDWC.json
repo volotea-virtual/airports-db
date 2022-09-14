@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "309847",
-            "airport_ref": "28548",
-            "airport_ident": "EDWC",
-            "type": "INFO",
-            "description": "Damme Info",
-            "frequency_mhz": "133.3"
-        }
-    ],
     "country": {
         "id": "302681",
         "code": "DE",

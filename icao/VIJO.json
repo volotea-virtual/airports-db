@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "53971",
-            "airport_ref": "26562",
-            "airport_ident": "VIJO",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "122.7"
-        },
-        {
-            "id": "53972",
-            "airport_ref": "26562",
-            "airport_ident": "VIJO",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "123.5"
-        }
-    ],
     "country": {
         "id": "302634",
         "code": "IN",

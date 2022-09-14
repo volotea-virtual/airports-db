@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51499",
-            "airport_ref": "6117",
-            "airport_ident": "SKEJ",
-            "type": "APP",
-            "description": "BUCARAMANGA APP",
-            "frequency_mhz": "119"
-        },
-        {
-            "id": "51500",
-            "airport_ref": "6117",
-            "airport_ident": "SKEJ",
-            "type": "RDO",
-            "description": "BARRANCABERMEJA RDO",
-            "frequency_mhz": "348.8"
-        },
-        {
-            "id": "51501",
-            "airport_ref": "6117",
-            "airport_ident": "SKEJ",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.45"
-        }
-    ],
     "country": {
         "id": "302793",
         "code": "CO",

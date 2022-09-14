@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "68443",
-            "airport_ref": "3615",
-            "airport_ident": "KIRK",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "121.125"
-        },
-        {
-            "id": "68444",
-            "airport_ref": "3615",
-            "airport_ident": "KIRK",
-            "type": "CNTR",
-            "description": "KANSAS CITY CNTR",
-            "frequency_mhz": "132.6"
-        },
-        {
-            "id": "68445",
-            "airport_ref": "3615",
-            "airport_ident": "KIRK",
-            "type": "RDO",
-            "description": "COLUMBIA RDO",
-            "frequency_mhz": "122.2"
-        },
-        {
-            "id": "68446",
-            "airport_ref": "3615",
-            "airport_ident": "KIRK",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

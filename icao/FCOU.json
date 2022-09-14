@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "310654",
-            "airport_ref": "2870",
-            "airport_ident": "FCOU",
-            "type": "ACC",
-            "description": "BRAZZA CONTROL",
-            "frequency_mhz": "127.1"
-        },
-        {
-            "id": "51107",
-            "airport_ref": "2870",
-            "airport_ident": "FCOU",
-            "type": "AFIS-TOWER",
-            "description": "AFIS",
-            "frequency_mhz": "118.1"
-        }
-    ],
     "country": {
         "id": "302563",
         "code": "CG",

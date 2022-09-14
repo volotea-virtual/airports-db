@@ -63,64 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "59623",
-            "airport_ref": "3929",
-            "airport_ident": "KTTN",
-            "type": "A/D",
-            "description": "PHILADELPHIA APP/DEP",
-            "frequency_mhz": "123.8"
-        },
-        {
-            "id": "59624",
-            "airport_ref": "3929",
-            "airport_ident": "KTTN",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "126.775"
-        },
-        {
-            "id": "59625",
-            "airport_ref": "3929",
-            "airport_ident": "KTTN",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "126.775"
-        },
-        {
-            "id": "59626",
-            "airport_ref": "3929",
-            "airport_ident": "KTTN",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "120.7"
-        },
-        {
-            "id": "59627",
-            "airport_ref": "3929",
-            "airport_ident": "KTTN",
-            "type": "GND",
-            "description": "GND/CLNC DEL",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "59629",
-            "airport_ref": "3929",
-            "airport_ident": "KTTN",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "120.7"
-        },
-        {
-            "id": "59630",
-            "airport_ref": "3929",
-            "airport_ident": "KTTN",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.95"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

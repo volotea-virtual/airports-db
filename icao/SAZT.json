@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "48406",
-            "airport_ref": "5853",
-            "airport_ident": "SAZT",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "119.4"
-        },
-        {
-            "id": "48407",
-            "airport_ref": "5853",
-            "airport_ident": "SAZT",
-            "type": "ARR",
-            "description": "CON",
-            "frequency_mhz": "120.9"
-        },
-        {
-            "id": "48408",
-            "airport_ref": "5853",
-            "airport_ident": "SAZT",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "119.4"
-        }
-    ],
     "country": {
         "id": "302789",
         "code": "AR",

@@ -41,48 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "52938",
-            "airport_ref": "2755",
-            "airport_ident": "ETSN",
-            "type": "ACC",
-            "description": "MUNCHEN CON",
-            "frequency_mhz": "136.525"
-        },
-        {
-            "id": "52940",
-            "airport_ref": "2755",
-            "airport_ident": "ETSN",
-            "type": "RDR",
-            "description": "DONAU RADAR",
-            "frequency_mhz": "34.4"
-        },
-        {
-            "id": "52939",
-            "airport_ref": "2755",
-            "airport_ident": "ETSN",
-            "type": "RDR",
-            "description": "DONAU RADAR",
-            "frequency_mhz": "123.3"
-        },
-        {
-            "id": "52942",
-            "airport_ref": "2755",
-            "airport_ident": "ETSN",
-            "type": "TWR",
-            "description": "DONAU TWR",
-            "frequency_mhz": "24.04"
-        },
-        {
-            "id": "52941",
-            "airport_ref": "2755",
-            "airport_ident": "ETSN",
-            "type": "TWR",
-            "description": "DONAU TWR",
-            "frequency_mhz": "122.1"
-        }
-    ],
     "country": {
         "id": "302681",
         "code": "DE",

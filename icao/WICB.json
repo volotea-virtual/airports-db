@@ -85,24 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "323251",
-            "airport_ref": "26823",
-            "airport_ident": "WICB",
-            "type": "GRD",
-            "description": "BUDI GROUND",
-            "frequency_mhz": "119.7"
-        },
-        {
-            "id": "53773",
-            "airport_ref": "26823",
-            "airport_ident": "WICB",
-            "type": "TWR",
-            "description": "BUDI TWR",
-            "frequency_mhz": "123.2"
-        }
-    ],
     "country": {
         "id": "302632",
         "code": "ID",

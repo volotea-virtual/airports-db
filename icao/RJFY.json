@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "54487",
-            "airport_ref": "5574",
-            "airport_ident": "RJFY",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "122.15"
-        },
-        {
-            "id": "54488",
-            "airport_ref": "5574",
-            "airport_ident": "RJFY",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "24.68"
-        },
-        {
-            "id": "54489",
-            "airport_ref": "5574",
-            "airport_ident": "RJFY",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "23.68"
-        },
-        {
-            "id": "54490",
-            "airport_ref": "5574",
-            "airport_ident": "RJFY",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "126.2"
-        }
-    ],
     "country": {
         "id": "302639",
         "code": "JP",

@@ -41,48 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "60662",
-            "airport_ref": "3596",
-            "airport_ident": "KHUA",
-            "type": "A/D",
-            "description": "HUNTSVILLE APP/DEP",
-            "frequency_mhz": "118.05"
-        },
-        {
-            "id": "60663",
-            "airport_ref": "3596",
-            "airport_ident": "KHUA",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "126.95"
-        },
-        {
-            "id": "60664",
-            "airport_ref": "3596",
-            "airport_ident": "KHUA",
-            "type": "GCA",
-            "description": "GCA",
-            "frequency_mhz": "124.8"
-        },
-        {
-            "id": "60665",
-            "airport_ref": "3596",
-            "airport_ident": "KHUA",
-            "type": "OPS",
-            "description": "BASE OPS",
-            "frequency_mhz": "126.2"
-        },
-        {
-            "id": "60666",
-            "airport_ref": "3596",
-            "airport_ident": "KHUA",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "126.95"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

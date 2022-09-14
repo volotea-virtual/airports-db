@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "66433",
-            "airport_ref": "20938",
-            "airport_ident": "KRKW",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "118.775"
-        },
-        {
-            "id": "66434",
-            "airport_ref": "20938",
-            "airport_ident": "KRKW",
-            "type": "CNTR",
-            "description": "ATLANTA CNTR",
-            "frequency_mhz": "133.6"
-        },
-        {
-            "id": "66435",
-            "airport_ref": "20938",
-            "airport_ident": "KRKW",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

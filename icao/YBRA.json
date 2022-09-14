@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": "485"
         }
     ],
-    "freqs": [
-        {
-            "id": "72318",
-            "airport_ref": "27410",
-            "airport_ident": "YBRA",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.5"
-        },
-        {
-            "id": "72319",
-            "airport_ref": "27410",
-            "airport_ident": "YBRA",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "123.4"
-        },
-        {
-            "id": "72320",
-            "airport_ref": "27410",
-            "airport_ident": "YBRA",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "125.2"
-        }
-    ],
     "country": {
         "id": "302764",
         "code": "AU",

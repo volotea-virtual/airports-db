@@ -1,0 +1,38 @@
+{
+    "id": "356496",
+    "ident": "TW-0056",
+    "type": "heliport",
+    "name": "Sanxing Heliport",
+    "latitude_deg": "24.69129",
+    "longitude_deg": "121.67017",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "TW",
+    "iso_region": "TW-ILA",
+    "municipality": "Sanxing",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302668",
+        "code": "TW",
+        "name": "Taiwan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Taiwan",
+        "keywords": "Taiwanese airports"
+    },
+    "region": {
+        "id": "305940",
+        "code": "TW-ILA",
+        "local_code": "ILA",
+        "name": "Ilan County",
+        "continent": "AS",
+        "iso_country": "TW",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ilan_County",
+        "keywords": "Airports in Ilan County"
+    }
+}

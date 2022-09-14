@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "53679",
-            "airport_ref": "26846",
-            "airport_ident": "WION",
-            "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "112.1"
-        }
-    ],
     "country": {
         "id": "302632",
         "code": "ID",

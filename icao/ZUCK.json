@@ -85,40 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51152",
-            "airport_ref": "27228",
-            "airport_ident": "ZUCK",
-            "type": "APP",
-            "description": "CHONGQING APP",
-            "frequency_mhz": "125.2"
-        },
-        {
-            "id": "51153",
-            "airport_ref": "27228",
-            "airport_ident": "ZUCK",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "126.4"
-        },
-        {
-            "id": "51154",
-            "airport_ref": "27228",
-            "airport_ident": "ZUCK",
-            "type": "GND",
-            "description": "CHONGQING GND",
-            "frequency_mhz": "121.75"
-        },
-        {
-            "id": "51155",
-            "airport_ref": "27228",
-            "airport_ident": "ZUCK",
-            "type": "TWR",
-            "description": "CHONGQING TWR",
-            "frequency_mhz": "118.2"
-        }
-    ],
     "country": {
         "id": "302627",
         "code": "CN",

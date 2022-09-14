@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "50615",
-            "airport_ref": "1961",
-            "airport_ident": "CYXL",
-            "type": "A/D",
-            "description": "MF",
-            "frequency_mhz": "122"
-        },
-        {
-            "id": "50616",
-            "airport_ref": "1961",
-            "airport_ident": "CYXL",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "124.75"
-        },
-        {
-            "id": "50617",
-            "airport_ref": "1961",
-            "airport_ident": "CYXL",
-            "type": "RCO",
-            "description": "WINNIPEG RDO",
-            "frequency_mhz": "126"
-        },
-        {
-            "id": "50618",
-            "airport_ref": "1961",
-            "airport_ident": "CYXL",
-            "type": "RDO",
-            "description": "RDO",
-            "frequency_mhz": "122"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

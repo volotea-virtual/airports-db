@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "72058",
-            "airport_ref": "27322",
-            "airport_ident": "YALG",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "125.7"
-        },
-        {
-            "id": "72059",
-            "airport_ref": "27322",
-            "airport_ident": "YALG",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "119.6"
-        },
-        {
-            "id": "72060",
-            "airport_ref": "27322",
-            "airport_ident": "YALG",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "122.4"
-        }
-    ],
     "country": {
         "id": "302764",
         "code": "AU",

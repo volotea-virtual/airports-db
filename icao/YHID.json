@@ -63,24 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "48606",
-            "airport_ref": "27004",
-            "airport_ident": "YHID",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "126.5"
-        },
-        {
-            "id": "48607",
-            "airport_ref": "27004",
-            "airport_ident": "YHID",
-            "type": "FSS",
-            "description": "BRISBANE CNTR",
-            "frequency_mhz": "120.3"
-        }
-    ],
     "country": {
         "id": "302764",
         "code": "AU",

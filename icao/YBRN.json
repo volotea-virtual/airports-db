@@ -3,8 +3,8 @@
     "ident": "YBRN",
     "type": "medium_airport",
     "name": "Balranald Airport",
-    "latitude_deg": "-34.623600006103516",
-    "longitude_deg": "143.5780029296875",
+    "latitude_deg": "-34.624834",
+    "longitude_deg": "143.577114",
     "elevation_ft": "210",
     "continent": "OC",
     "iso_country": "AU",
@@ -14,8 +14,8 @@
     "gps_code": "YBRN",
     "iata_code": "BZD",
     "local_code": "",
-    "home_link": "",
-    "wikipedia_link": "",
+    "home_link": "https://balranald.nsw.gov.au/infrastructure/balranald-aerodrome/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Balranald_Airport",
     "keywords": "",
     "runways": [
         {
@@ -61,24 +61,6 @@
             "he_elevation_ft": "210",
             "he_heading_degT": "6",
             "he_displaced_threshold_ft": ""
-        }
-    ],
-    "freqs": [
-        {
-            "id": "48938",
-            "airport_ref": "26928",
-            "airport_ident": "YBRN",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "126.7"
-        },
-        {
-            "id": "48939",
-            "airport_ref": "26928",
-            "airport_ident": "YBRN",
-            "type": "FSS",
-            "description": "MELBOURNE CNTR",
-            "frequency_mhz": "118.6"
         }
     ],
     "country": {

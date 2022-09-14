@@ -85,48 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "57285",
-            "airport_ref": "4004",
-            "airport_ident": "LEBL",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "119.1"
-        },
-        {
-            "id": "57286",
-            "airport_ref": "4004",
-            "airport_ident": "LEBL",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "118.65"
-        },
-        {
-            "id": "57287",
-            "airport_ref": "4004",
-            "airport_ident": "LEBL",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "121.8"
-        },
-        {
-            "id": "57288",
-            "airport_ref": "4004",
-            "airport_ident": "LEBL",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.65"
-        },
-        {
-            "id": "57289",
-            "airport_ref": "4004",
-            "airport_ident": "LEBL",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.1"
-        }
-    ],
     "country": {
         "id": "302684",
         "code": "ES",

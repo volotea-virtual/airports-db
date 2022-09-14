@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "50550",
-            "airport_ref": "1744",
-            "airport_ident": "CYGL",
-            "type": "A/G",
-            "description": "MF",
-            "frequency_mhz": "122.3"
-        },
-        {
-            "id": "50551",
-            "airport_ref": "1744",
-            "airport_ident": "CYGL",
-            "type": "CNTR",
-            "description": "MONTREAL CNTR",
-            "frequency_mhz": "132.1"
-        },
-        {
-            "id": "50552",
-            "airport_ref": "1744",
-            "airport_ident": "CYGL",
-            "type": "RCO",
-            "description": "QUEBEC RDO",
-            "frequency_mhz": "126.7"
-        },
-        {
-            "id": "50553",
-            "airport_ref": "1744",
-            "airport_ident": "CYGL",
-            "type": "RDO",
-            "description": "RDO",
-            "frequency_mhz": "122.3"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

@@ -85,24 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55967",
-            "airport_ref": "5047",
-            "airport_ident": "NZOU",
-            "type": "ACC",
-            "description": "CHRISTCHURCH CON",
-            "frequency_mhz": "129.3"
-        },
-        {
-            "id": "55968",
-            "airport_ref": "5047",
-            "airport_ident": "NZOU",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "119.1"
-        }
-    ],
     "country": {
         "id": "302776",
         "code": "NZ",

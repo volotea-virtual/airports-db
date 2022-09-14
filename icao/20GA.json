@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "70996",
-            "airport_ref": "8787",
-            "airport_ident": "20GA",
-            "type": "MULT",
-            "description": "MULT",
-            "frequency_mhz": "122.9"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

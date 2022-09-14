@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "73213",
-            "airport_ref": "38391",
-            "airport_ident": "YHTA",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.1"
-        },
-        {
-            "id": "73215",
-            "airport_ref": "38391",
-            "airport_ident": "YHTA",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "118.6"
-        },
-        {
-            "id": "73214",
-            "airport_ref": "38391",
-            "airport_ident": "YHTA",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "125.3"
-        }
-    ],
     "country": {
         "id": "302764",
         "code": "AU",

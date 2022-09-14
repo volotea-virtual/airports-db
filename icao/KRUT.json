@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "62417",
-            "airport_ref": "3859",
-            "airport_ident": "KRUT",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "118.375"
-        },
-        {
-            "id": "62418",
-            "airport_ref": "3859",
-            "airport_ident": "KRUT",
-            "type": "CNTR",
-            "description": "BOSTON CNTR",
-            "frequency_mhz": "135.7"
-        },
-        {
-            "id": "62419",
-            "airport_ref": "3859",
-            "airport_ident": "KRUT",
-            "type": "RDO",
-            "description": "BURLINGTON RDO",
-            "frequency_mhz": "122.3"
-        },
-        {
-            "id": "62420",
-            "airport_ref": "3859",
-            "airport_ident": "KRUT",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

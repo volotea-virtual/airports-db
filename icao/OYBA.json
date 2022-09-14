@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "71866",
-            "airport_ref": "5313",
-            "airport_ident": "OYBA",
-            "type": "RDO",
-            "description": "RDO",
-            "frequency_mhz": "118.9"
-        }
-    ],
     "country": {
         "id": "302671",
         "code": "YE",

@@ -63,56 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "67740",
-            "airport_ref": "3487",
-            "airport_ident": "KDET",
-            "type": "A/D",
-            "description": "APP/DEP",
-            "frequency_mhz": "126.85"
-        },
-        {
-            "id": "67741",
-            "airport_ref": "3487",
-            "airport_ident": "KDET",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "124.875"
-        },
-        {
-            "id": "67742",
-            "airport_ref": "3487",
-            "airport_ident": "KDET",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.85"
-        },
-        {
-            "id": "67743",
-            "airport_ref": "3487",
-            "airport_ident": "KDET",
-            "type": "RDO",
-            "description": "LANSING RDO",
-            "frequency_mhz": "122.2"
-        },
-        {
-            "id": "67744",
-            "airport_ref": "3487",
-            "airport_ident": "KDET",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "121.3"
-        },
-        {
-            "id": "67745",
-            "airport_ref": "3487",
-            "airport_ident": "KDET",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.95"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

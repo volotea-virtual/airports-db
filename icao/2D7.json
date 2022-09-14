@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": "734"
         }
     ],
-    "freqs": [
-        {
-            "id": "333743",
-            "airport_ref": "9368",
-            "airport_ident": "2D7",
-            "type": "APP/DEP",
-            "description": "CLEVELAND APP/DEP",
-            "frequency_mhz": "125.5"
-        },
-        {
-            "id": "333742",
-            "airport_ref": "9368",
-            "airport_ident": "2D7",
-            "type": "CTAF",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

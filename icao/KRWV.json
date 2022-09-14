@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": "242"
         }
     ],
-    "freqs": [
-        {
-            "id": "71039",
-            "airport_ref": "20976",
-            "airport_ident": "KRWV",
-            "type": "A/D",
-            "description": "HOUSTON CNTR",
-            "frequency_mhz": "120.4"
-        },
-        {
-            "id": "71040",
-            "airport_ref": "20976",
-            "airport_ident": "KRWV",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "118.35"
-        },
-        {
-            "id": "71041",
-            "airport_ref": "20976",
-            "airport_ident": "KRWV",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.9"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

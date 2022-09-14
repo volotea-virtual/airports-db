@@ -63,24 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "53637",
-            "airport_ref": "26785",
-            "airport_ident": "WARA",
-            "type": "APP",
-            "description": "SURABAYA APP",
-            "frequency_mhz": "119.1"
-        },
-        {
-            "id": "53638",
-            "airport_ref": "26785",
-            "airport_ident": "WARA",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "122.5"
-        }
-    ],
     "country": {
         "id": "302632",
         "code": "ID",

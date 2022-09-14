@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "54149",
-            "airport_ref": "4331",
-            "airport_ident": "LIED",
-            "type": "APP",
-            "description": "CAGLIARI APP",
-            "frequency_mhz": "118.75"
-        },
-        {
-            "id": "54150",
-            "airport_ref": "4331",
-            "airport_ident": "LIED",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "27.917"
-        },
-        {
-            "id": "54151",
-            "airport_ref": "4331",
-            "airport_ident": "LIED",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "122.1"
-        }
-    ],
     "country": {
         "id": "302697",
         "code": "IT",

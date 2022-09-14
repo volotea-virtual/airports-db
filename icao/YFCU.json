@@ -17,32 +17,6 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
-    "freqs": [
-        {
-            "id": "72961",
-            "airport_ref": "38352",
-            "airport_ident": "YFCU",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "125.4"
-        },
-        {
-            "id": "72962",
-            "airport_ref": "38352",
-            "airport_ident": "YFCU",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "119.6"
-        },
-        {
-            "id": "72963",
-            "airport_ref": "38352",
-            "airport_ident": "YFCU",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "134.2"
-        }
-    ],
     "country": {
         "id": "302764",
         "code": "AU",

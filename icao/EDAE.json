@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": "164"
         }
     ],
-    "freqs": [
-        {
-            "id": "53254",
-            "airport_ref": "2186",
-            "airport_ident": "EDAE",
-            "type": "AFIS",
-            "description": "BERLIN INFO",
-            "frequency_mhz": "132.65"
-        },
-        {
-            "id": "53255",
-            "airport_ref": "2186",
-            "airport_ident": "EDAE",
-            "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "122"
-        }
-    ],
     "country": {
         "id": "302681",
         "code": "DE",

@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "52198",
-            "airport_ref": "5000",
-            "airport_ident": "NTKR",
-            "type": "AFIS",
-            "description": "INFO",
-            "frequency_mhz": "118.7"
-        }
-    ],
     "country": {
         "id": "302777",
         "code": "PF",

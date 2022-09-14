@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": "600"
         }
     ],
-    "freqs": [
-        {
-            "id": "59940",
-            "airport_ref": "21425",
-            "airport_ident": "KY65",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.9"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

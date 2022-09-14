@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "56450",
-            "airport_ref": "4484",
-            "airport_ident": "LRSM",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "118.8"
-        },
-        {
-            "id": "56451",
-            "airport_ref": "4484",
-            "airport_ident": "LRSM",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.8"
-        }
-    ],
     "country": {
         "id": "302712",
         "code": "RO",

@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "75282",
-            "airport_ref": "29050",
-            "airport_ident": "EBSP",
-            "type": "TWR",
-            "description": "",
-            "frequency_mhz": "124.755"
-        }
-    ],
     "country": {
         "id": "302676",
         "code": "BE",

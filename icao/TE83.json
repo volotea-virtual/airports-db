@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "60019",
-            "airport_ref": "24891",
-            "airport_ident": "TE83",
-            "type": "CNTR",
-            "description": "HOUSTON CNTR",
-            "frequency_mhz": "126.625"
-        },
-        {
-            "id": "60020",
-            "airport_ref": "24891",
-            "airport_ident": "TE83",
-            "type": "MISC",
-            "description": "FOR LIRL/ROT BCN",
-            "frequency_mhz": "122.9"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

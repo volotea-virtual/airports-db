@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "60154",
-            "airport_ref": "3592",
-            "airport_ident": "KHRO",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "121.125"
-        },
-        {
-            "id": "60155",
-            "airport_ref": "3592",
-            "airport_ident": "KHRO",
-            "type": "CNTR",
-            "description": "MEMPHIS CNTR",
-            "frequency_mhz": "126.85"
-        },
-        {
-            "id": "60156",
-            "airport_ref": "3592",
-            "airport_ident": "KHRO",
-            "type": "RDO",
-            "description": "JONESBORO RDO",
-            "frequency_mhz": "122.45"
-        },
-        {
-            "id": "60157",
-            "airport_ref": "3592",
-            "airport_ident": "KHRO",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

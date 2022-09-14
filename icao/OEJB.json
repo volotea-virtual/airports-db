@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "56990",
-            "airport_ref": "5095",
-            "airport_ident": "OEJB",
-            "type": "APP",
-            "description": "DHAHRAN APP",
-            "frequency_mhz": "130.5"
-        },
-        {
-            "id": "56991",
-            "airport_ref": "5095",
-            "airport_ident": "OEJB",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "56992",
-            "airport_ref": "5095",
-            "airport_ident": "OEJB",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "120.5"
-        }
-    ],
     "country": {
         "id": "302660",
         "code": "SA",

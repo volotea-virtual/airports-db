@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "50882",
-            "airport_ref": "1958",
-            "airport_ident": "CYXH",
-            "type": "A/G",
-            "description": "MF",
-            "frequency_mhz": "122.2"
-        },
-        {
-            "id": "50883",
-            "airport_ref": "1958",
-            "airport_ident": "CYXH",
-            "type": "AWOS",
-            "description": "AWOS",
-            "frequency_mhz": "124.875"
-        },
-        {
-            "id": "50884",
-            "airport_ref": "1958",
-            "airport_ident": "CYXH",
-            "type": "RCO",
-            "description": "EDMONTON RDO",
-            "frequency_mhz": "126.7"
-        },
-        {
-            "id": "50885",
-            "airport_ref": "1958",
-            "airport_ident": "CYXH",
-            "type": "RDO",
-            "description": "RDO",
-            "frequency_mhz": "122.2"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

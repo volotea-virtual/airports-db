@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51530",
-            "airport_ref": "6108",
-            "airport_ident": "SKCC",
-            "type": "APP",
-            "description": "CUCUTA APP",
-            "frequency_mhz": "119.9"
-        },
-        {
-            "id": "51531",
-            "airport_ref": "6108",
-            "airport_ident": "SKCC",
-            "type": "RDO",
-            "description": "CUCUTA RDO",
-            "frequency_mhz": "348.8"
-        },
-        {
-            "id": "51532",
-            "airport_ref": "6108",
-            "airport_ident": "SKCC",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.1"
-        }
-    ],
     "country": {
         "id": "302793",
         "code": "CO",

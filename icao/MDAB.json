@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51768",
-            "airport_ref": "4631",
-            "airport_ident": "MDAB",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.45"
-        }
-    ],
     "country": {
         "id": "302734",
         "code": "DO",

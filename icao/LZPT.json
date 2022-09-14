@@ -63,16 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "315710",
-            "airport_ref": "30103",
-            "airport_ident": "LZPT",
-            "type": "INFO",
-            "description": "Partizanske PREVADZKA",
-            "frequency_mhz": "123.5"
-        }
-    ],
     "country": {
         "id": "302717",
         "code": "SK",

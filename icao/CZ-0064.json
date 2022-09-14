@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "316179",
-            "airport_ref": "316178",
-            "airport_ident": "CZ-0064",
-            "type": "Info",
-            "description": "Kramolín Radio",
-            "frequency_mhz": "122.4"
-        }
-    ],
     "country": {
         "id": "302680",
         "code": "CZ",

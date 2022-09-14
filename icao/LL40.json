@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": "627"
         }
     ],
-    "freqs": [
-        {
-            "id": "69924",
-            "airport_ref": "21594",
-            "airport_ident": "LL40",
-            "type": "A/D",
-            "description": "CHICAGO APP/DEP",
-            "frequency_mhz": "133.1"
-        },
-        {
-            "id": "69925",
-            "airport_ref": "21594",
-            "airport_ident": "LL40",
-            "type": "FSS",
-            "description": "KANKAKEE RDO",
-            "frequency_mhz": "122.1"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": "770"
         }
     ],
-    "freqs": [
-        {
-            "id": "64616",
-            "airport_ref": "20612",
-            "airport_ident": "KN53",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

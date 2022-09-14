@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "52971",
-            "airport_ref": "2201",
-            "airport_ident": "EDBT",
-            "type": "AAS",
-            "description": "INFO",
-            "frequency_mhz": "122"
-        },
-        {
-            "id": "52972",
-            "airport_ref": "2201",
-            "airport_ident": "EDBT",
-            "type": "INFO",
-            "description": "BERLIN INFO",
-            "frequency_mhz": "125.8"
-        }
-    ],
     "country": {
         "id": "302681",
         "code": "DE",

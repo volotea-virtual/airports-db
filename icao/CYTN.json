@@ -63,24 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "50376",
-            "airport_ref": "1922",
-            "airport_ident": "CYTN",
-            "type": "A/D",
-            "description": "MONCTON CNTR",
-            "frequency_mhz": "135.3"
-        },
-        {
-            "id": "50377",
-            "airport_ref": "1922",
-            "airport_ident": "CYTN",
-            "type": "UNIC",
-            "description": "ATF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

@@ -63,16 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "71923",
-            "airport_ref": "29191",
-            "airport_ident": "EGSR",
-            "type": "A/G",
-            "description": "Earls Colne A/G",
-            "frequency_mhz": "122.425"
-        }
-    ],
     "country": {
         "id": "302688",
         "code": "GB",

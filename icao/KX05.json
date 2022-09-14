@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": "900"
         }
     ],
-    "freqs": [
-        {
-            "id": "62667",
-            "airport_ref": "21388",
-            "airport_ident": "KX05",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

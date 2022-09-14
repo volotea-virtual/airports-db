@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "49720",
-            "airport_ref": "5891",
-            "airport_ident": "SBCT",
-            "type": "APP",
-            "description": "CURITIBA APP",
-            "frequency_mhz": "119.95"
-        },
-        {
-            "id": "49721",
-            "airport_ref": "5891",
-            "airport_ident": "SBCT",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "127.8"
-        },
-        {
-            "id": "49722",
-            "airport_ref": "5891",
-            "airport_ident": "SBCT",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "49723",
-            "airport_ref": "5891",
-            "airport_ident": "SBCT",
-            "type": "TWR",
-            "description": "CURITIBA TWR",
-            "frequency_mhz": "118.55"
-        }
-    ],
     "country": {
         "id": "302791",
         "code": "BR",

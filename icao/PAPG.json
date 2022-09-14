@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "61006",
-            "airport_ref": "5398",
-            "airport_ident": "PAPG",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "125.8"
-        },
-        {
-            "id": "61007",
-            "airport_ref": "5398",
-            "airport_ident": "PAPG",
-            "type": "CNTR",
-            "description": "ANCHORAGE CNTR",
-            "frequency_mhz": "118"
-        },
-        {
-            "id": "61008",
-            "airport_ref": "5398",
-            "airport_ident": "PAPG",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.5"
-        },
-        {
-            "id": "61009",
-            "airport_ref": "5398",
-            "airport_ident": "PAPG",
-            "type": "FSS",
-            "description": "SITKA RDO",
-            "frequency_mhz": "122.35"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

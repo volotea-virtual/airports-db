@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": "736"
         }
     ],
-    "freqs": [
-        {
-            "id": "57452",
-            "airport_ref": "2661",
-            "airport_ident": "ESKV",
-            "type": "AFIS",
-            "description": "AFIS",
-            "frequency_mhz": "122.35"
-        }
-    ],
     "country": {
         "id": "302715",
         "code": "SE",

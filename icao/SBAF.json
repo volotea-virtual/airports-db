@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "49837",
-            "airport_ref": "5858",
-            "airport_ident": "SBAF",
-            "type": "APP",
-            "description": "RIO APP",
-            "frequency_mhz": "119.35"
-        },
-        {
-            "id": "49838",
-            "airport_ref": "5858",
-            "airport_ident": "SBAF",
-            "type": "GND",
-            "description": "AFONSOS",
-            "frequency_mhz": "121.85"
-        },
-        {
-            "id": "49839",
-            "airport_ref": "5858",
-            "airport_ident": "SBAF",
-            "type": "TWR",
-            "description": "AFONSOS TWR",
-            "frequency_mhz": "118.9"
-        }
-    ],
     "country": {
         "id": "302791",
         "code": "BR",

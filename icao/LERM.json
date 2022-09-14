@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "300904",
-            "airport_ref": "4029",
-            "airport_ident": "LERM",
-            "type": "RF",
-            "description": "Robledillo",
-            "frequency_mhz": "123.325"
-        }
-    ],
     "country": {
         "id": "302684",
         "code": "ES",

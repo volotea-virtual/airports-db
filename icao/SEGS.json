@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51807",
-            "airport_ref": "6055",
-            "airport_ident": "SEGS",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "122.2"
-        }
-    ],
     "country": {
         "id": "302794",
         "code": "EC",

@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "66845",
-            "airport_ref": "21330",
-            "airport_ident": "KVMR",
-            "type": "A/D",
-            "description": "SIOUX CITY APP/DEP",
-            "frequency_mhz": "124.6"
-        },
-        {
-            "id": "66846",
-            "airport_ref": "21330",
-            "airport_ident": "KVMR",
-            "type": "RCO",
-            "description": "HURON RDO",
-            "frequency_mhz": "122.55"
-        },
-        {
-            "id": "66847",
-            "airport_ref": "21330",
-            "airport_ident": "KVMR",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

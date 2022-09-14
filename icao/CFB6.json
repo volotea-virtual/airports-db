@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": "247"
         }
     ],
-    "freqs": [
-        {
-            "id": "50041",
-            "airport_ref": "931",
-            "airport_ident": "CFB6",
-            "type": "ATF",
-            "description": "ATF",
-            "frequency_mhz": "123.5"
-        },
-        {
-            "id": "300066",
-            "airport_ref": "931",
-            "airport_ident": "CFB6",
-            "type": "AWOS",
-            "description": "780-862-7450",
-            "frequency_mhz": "122.35"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

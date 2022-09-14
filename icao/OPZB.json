@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "56137",
-            "airport_ref": "5285",
-            "airport_ident": "OPZB",
-            "type": "GND",
-            "description": "TWR",
-            "frequency_mhz": "121.8"
-        },
-        {
-            "id": "56138",
-            "airport_ref": "5285",
-            "airport_ident": "OPZB",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "120.7"
-        }
-    ],
     "country": {
         "id": "302657",
         "code": "PK",

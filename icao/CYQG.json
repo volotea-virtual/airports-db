@@ -63,64 +63,6 @@
             "he_displaced_threshold_ft": "325"
         }
     ],
-    "freqs": [
-        {
-            "id": "50439",
-            "airport_ref": "1867",
-            "airport_ident": "CYQG",
-            "type": "A/D",
-            "description": "DETROIT  APP/DEP",
-            "frequency_mhz": "126.85"
-        },
-        {
-            "id": "50440",
-            "airport_ref": "1867",
-            "airport_ident": "CYQG",
-            "type": "A/G",
-            "description": "MF",
-            "frequency_mhz": "124.7"
-        },
-        {
-            "id": "50441",
-            "airport_ref": "1867",
-            "airport_ident": "CYQG",
-            "type": "AAS",
-            "description": "VFR ADVSY",
-            "frequency_mhz": "134.3"
-        },
-        {
-            "id": "50442",
-            "airport_ref": "1867",
-            "airport_ident": "CYQG",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "134.5"
-        },
-        {
-            "id": "50443",
-            "airport_ref": "1867",
-            "airport_ident": "CYQG",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.7"
-        },
-        {
-            "id": "50444",
-            "airport_ref": "1867",
-            "airport_ident": "CYQG",
-            "type": "RDO",
-            "description": "LONDON RDO",
-            "frequency_mhz": "126.7"
-        },
-        {
-            "id": "50445",
-            "airport_ref": "1867",
-            "airport_ident": "CYQG",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "124.7"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

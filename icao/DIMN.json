@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "54345",
-            "airport_ref": "2100",
-            "airport_ident": "DIMN",
-            "type": "A/G",
-            "description": "A/G",
-            "frequency_mhz": "667.3"
-        },
-        {
-            "id": "54346",
-            "airport_ref": "2100",
-            "airport_ident": "DIMN",
-            "type": "AFIS",
-            "description": "AFIS",
-            "frequency_mhz": "118.4"
-        }
-    ],
     "country": {
         "id": "302564",
         "code": "CI",

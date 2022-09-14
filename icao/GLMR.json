@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": "200"
         }
     ],
-    "freqs": [
-        {
-            "id": "55182",
-            "airport_ref": "3098",
-            "airport_ident": "GLMR",
-            "type": "APP",
-            "description": "ROBERTS APP",
-            "frequency_mhz": "124.5"
-        },
-        {
-            "id": "55183",
-            "airport_ref": "3098",
-            "airport_ident": "GLMR",
-            "type": "TWR",
-            "description": "SPRIGGS TWR",
-            "frequency_mhz": "118.7"
-        }
-    ],
     "country": {
         "id": "302581",
         "code": "LR",

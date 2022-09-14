@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51212",
-            "airport_ref": "27237",
-            "airport_ident": "ZYCC",
-            "type": "APP",
-            "description": "CHANGCHUN APP",
-            "frequency_mhz": "119.45"
-        },
-        {
-            "id": "51213",
-            "airport_ref": "27237",
-            "airport_ident": "ZYCC",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "126.25"
-        },
-        {
-            "id": "51214",
-            "airport_ref": "27237",
-            "airport_ident": "ZYCC",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.45"
-        }
-    ],
     "country": {
         "id": "302627",
         "code": "CN",

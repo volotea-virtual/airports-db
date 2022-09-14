@@ -41,48 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "49423",
-            "airport_ref": "26534",
-            "airport_ident": "VGZR",
-            "type": "APP",
-            "description": "DHAKA APP",
-            "frequency_mhz": "121.3"
-        },
-        {
-            "id": "49424",
-            "airport_ref": "26534",
-            "airport_ident": "VGZR",
-            "type": "ATIS",
-            "description": "DHAKA ATIS",
-            "frequency_mhz": "127.4"
-        },
-        {
-            "id": "49425",
-            "airport_ref": "26534",
-            "airport_ident": "VGZR",
-            "type": "GND",
-            "description": "DHAKA GND",
-            "frequency_mhz": "121.8"
-        },
-        {
-            "id": "49426",
-            "airport_ref": "26534",
-            "airport_ident": "VGZR",
-            "type": "RDO",
-            "description": "DHAKA RDO",
-            "frequency_mhz": "294.7"
-        },
-        {
-            "id": "49427",
-            "airport_ref": "26534",
-            "airport_ident": "VGZR",
-            "type": "TWR",
-            "description": "DHAKA TWR",
-            "frequency_mhz": "118.3"
-        }
-    ],
     "country": {
         "id": "302622",
         "code": "BD",

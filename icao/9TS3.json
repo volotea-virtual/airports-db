@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "67953",
-            "airport_ref": "15989",
-            "airport_ident": "9TS3",
-            "type": "CNTR",
-            "description": "HOUSTON CNTR",
-            "frequency_mhz": "126.625"
-        },
-        {
-            "id": "67954",
-            "airport_ref": "15989",
-            "airport_ident": "9TS3",
-            "type": "MISC",
-            "description": "FOR RWY LGT",
-            "frequency_mhz": "122.7"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

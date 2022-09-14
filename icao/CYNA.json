@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "50245",
-            "airport_ref": "1822",
-            "airport_ident": "CYNA",
-            "type": "AWOS",
-            "description": "AWOS",
-            "frequency_mhz": "126.25"
-        },
-        {
-            "id": "50246",
-            "airport_ref": "1822",
-            "airport_ident": "CYNA",
-            "type": "RCO",
-            "description": "QUEBEC RDO",
-            "frequency_mhz": "122.2"
-        },
-        {
-            "id": "50247",
-            "airport_ref": "1822",
-            "airport_ident": "CYNA",
-            "type": "RDO",
-            "description": "MF QUEBEC RDO",
-            "frequency_mhz": "122.2"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

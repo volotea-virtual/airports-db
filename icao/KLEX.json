@@ -63,56 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "70508",
-            "airport_ref": "3640",
-            "airport_ident": "KLEX",
-            "type": "A/D",
-            "description": "LEXINGTON APP/DEP",
-            "frequency_mhz": "120.15"
-        },
-        {
-            "id": "70509",
-            "airport_ref": "3640",
-            "airport_ident": "KLEX",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "126.3"
-        },
-        {
-            "id": "70510",
-            "airport_ref": "3640",
-            "airport_ident": "KLEX",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "132.35"
-        },
-        {
-            "id": "70511",
-            "airport_ref": "3640",
-            "airport_ident": "KLEX",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "70512",
-            "airport_ref": "3640",
-            "airport_ident": "KLEX",
-            "type": "TWR",
-            "description": "LEXINGTON TWR",
-            "frequency_mhz": "119.1"
-        },
-        {
-            "id": "70513",
-            "airport_ref": "3640",
-            "airport_ident": "KLEX",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.95"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

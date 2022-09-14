@@ -63,64 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "56712",
-            "airport_ref": "26412",
-            "airport_ident": "UWWW",
-            "type": "APP",
-            "description": "SAMARA APP",
-            "frequency_mhz": "124.6"
-        },
-        {
-            "id": "56713",
-            "airport_ref": "26412",
-            "airport_ident": "UWWW",
-            "type": "ATIS",
-            "description": "SAMARA ATIS",
-            "frequency_mhz": "134.1"
-        },
-        {
-            "id": "56714",
-            "airport_ref": "26412",
-            "airport_ident": "UWWW",
-            "type": "GND",
-            "description": "SAMARA TAXIING",
-            "frequency_mhz": "119"
-        },
-        {
-            "id": "56715",
-            "airport_ref": "26412",
-            "airport_ident": "UWWW",
-            "type": "MISC",
-            "description": "SAMARA TRANSIT",
-            "frequency_mhz": "131.6"
-        },
-        {
-            "id": "56716",
-            "airport_ref": "26412",
-            "airport_ident": "UWWW",
-            "type": "PMSV",
-            "description": "SAMARA VOLMET",
-            "frequency_mhz": "126.875"
-        },
-        {
-            "id": "56717",
-            "airport_ref": "26412",
-            "airport_ident": "UWWW",
-            "type": "RDR",
-            "description": "SAMARA KRUG",
-            "frequency_mhz": "128"
-        },
-        {
-            "id": "56718",
-            "airport_ref": "26412",
-            "airport_ident": "UWWW",
-            "type": "TWR",
-            "description": "SAMARA TWR",
-            "frequency_mhz": "118.2"
-        }
-    ],
     "country": {
         "id": "302714",
         "code": "RU",

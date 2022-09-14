@@ -1,0 +1,38 @@
+{
+    "id": "356523",
+    "ident": "FI-0011",
+    "type": "closed",
+    "name": "Katajanokka Airport",
+    "latitude_deg": "60.164123",
+    "longitude_deg": "24.975121",
+    "elevation_ft": "0",
+    "continent": "EU",
+    "iso_country": "FI",
+    "iso_region": "FI-18",
+    "municipality": "Helsinki",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Katajanokka_Airport",
+    "keywords": "",
+    "country": {
+        "id": "302685",
+        "code": "FI",
+        "name": "Finland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Finland",
+        "keywords": "Lentokentät, Suomen"
+    },
+    "region": {
+        "id": "336519",
+        "code": "FI-18",
+        "local_code": "18",
+        "name": "Uusimaa Region",
+        "continent": "EU",
+        "iso_country": "FI",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Uusimaa",
+        "keywords": "Airports in Uusimaa Region"
+    }
+}

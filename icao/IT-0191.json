@@ -17,16 +17,6 @@
     "home_link": "http://www.scuolavoloicarus.it/contatti/",
     "wikipedia_link": "",
     "keywords": "L'Elika",
-    "freqs": [
-        {
-            "id": "331162",
-            "airport_ref": "317563",
-            "airport_ident": "IT-0191",
-            "type": "UNICOM",
-            "description": "Castagnole Radio",
-            "frequency_mhz": "130"
-        }
-    ],
     "country": {
         "id": "302697",
         "code": "IT",

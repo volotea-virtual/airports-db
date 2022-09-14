@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": "328"
         }
     ],
-    "freqs": [
-        {
-            "id": "48775",
-            "airport_ref": "26994",
-            "airport_ident": "YGLA",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "118.8"
-        },
-        {
-            "id": "48776",
-            "airport_ref": "26994",
-            "airport_ident": "YGLA",
-            "type": "FSS",
-            "description": "BRISBANE CNTR",
-            "frequency_mhz": "119.55"
-        }
-    ],
     "country": {
         "id": "302764",
         "code": "AU",

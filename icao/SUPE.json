@@ -17,16 +17,6 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
-    "freqs": [
-        {
-            "id": "301522",
-            "airport_ref": "32390",
-            "airport_ident": "SUPE",
-            "type": "AD",
-            "description": "Non controlled airport. This frecuency is for local traffic.",
-            "frequency_mhz": "118.7"
-        }
-    ],
     "country": {
         "id": "302801",
         "code": "UY",

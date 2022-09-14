@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "59296",
-            "airport_ref": "7213",
-            "airport_ident": "0ID2",
-            "type": "ARTC",
-            "description": "SALT LAKE CITY CNTR",
-            "frequency_mhz": "128.35"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

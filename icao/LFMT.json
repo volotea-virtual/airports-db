@@ -63,48 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "52264",
-            "airport_ref": "4161",
-            "airport_ident": "LFMT",
-            "type": "APP",
-            "description": "MONTPELLIER APP",
-            "frequency_mhz": "120.375"
-        },
-        {
-            "id": "52265",
-            "airport_ref": "4161",
-            "airport_ident": "LFMT",
-            "type": "ATIS",
-            "description": "MONTPELLIER ATIS",
-            "frequency_mhz": "124.125"
-        },
-        {
-            "id": "52266",
-            "airport_ref": "4161",
-            "airport_ident": "LFMT",
-            "type": "GND",
-            "description": "MONTPELLIER GND",
-            "frequency_mhz": "121.95"
-        },
-        {
-            "id": "52267",
-            "airport_ref": "4161",
-            "airport_ident": "LFMT",
-            "type": "TWR",
-            "description": "MONTPELLIER TWR South sector",
-            "frequency_mhz": "118.2"
-        },
-        {
-            "id": "309617",
-            "airport_ref": "4161",
-            "airport_ident": "LFMT",
-            "type": "TWR",
-            "description": "MONTPELLIER TWR North sector",
-            "frequency_mhz": "118.775"
-        }
-    ],
     "country": {
         "id": "302687",
         "code": "FR",

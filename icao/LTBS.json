@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "57936",
-            "airport_ref": "4542",
-            "airport_ident": "LTBS",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "119.225"
-        },
-        {
-            "id": "57937",
-            "airport_ref": "4542",
-            "airport_ident": "LTBS",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "127.35"
-        },
-        {
-            "id": "57938",
-            "airport_ref": "4542",
-            "airport_ident": "LTBS",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "57939",
-            "airport_ref": "4542",
-            "airport_ident": "LTBS",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.5"
-        }
-    ],
     "country": {
         "id": "302667",
         "code": "TR",

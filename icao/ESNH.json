@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": "591"
         }
     ],
-    "freqs": [
-        {
-            "id": "57409",
-            "airport_ref": "2677",
-            "airport_ident": "ESNH",
-            "type": "RDO",
-            "description": "RDO",
-            "frequency_mhz": "123.2"
-        }
-    ],
     "country": {
         "id": "302715",
         "code": "SE",

@@ -17,16 +17,6 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
-    "freqs": [
-        {
-            "id": "299984",
-            "airport_ref": "31438",
-            "airport_ident": "FZQF",
-            "type": "TWR",
-            "description": "Fungurume Tower",
-            "frequency_mhz": "118.7"
-        }
-    ],
     "country": {
         "id": "302561",
         "code": "CD",

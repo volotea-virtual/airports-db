@@ -63,64 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "71097",
-            "airport_ref": "3796",
-            "airport_ident": "KPWM",
-            "type": "A/D",
-            "description": "APP/DEP",
-            "frequency_mhz": "119.75"
-        },
-        {
-            "id": "71098",
-            "airport_ref": "3796",
-            "airport_ident": "KPWM",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "119.05"
-        },
-        {
-            "id": "71099",
-            "airport_ref": "3796",
-            "airport_ident": "KPWM",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "71100",
-            "airport_ref": "3796",
-            "airport_ident": "KPWM",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "120.9"
-        },
-        {
-            "id": "71101",
-            "airport_ref": "3796",
-            "airport_ident": "KPWM",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "71102",
-            "airport_ref": "3796",
-            "airport_ident": "KPWM",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "120.9"
-        },
-        {
-            "id": "71103",
-            "airport_ref": "3796",
-            "airport_ident": "KPWM",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.95"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

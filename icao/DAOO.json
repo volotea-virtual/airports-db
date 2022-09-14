@@ -63,24 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "48289",
-            "airport_ref": "2071",
-            "airport_ident": "DAOO",
-            "type": "APP",
-            "description": "ORAN APP",
-            "frequency_mhz": "128.2"
-        },
-        {
-            "id": "48290",
-            "airport_ref": "2071",
-            "airport_ident": "DAOO",
-            "type": "TWR",
-            "description": "ORAN TWR",
-            "frequency_mhz": "118.1"
-        }
-    ],
     "country": {
         "id": "302568",
         "code": "DZ",

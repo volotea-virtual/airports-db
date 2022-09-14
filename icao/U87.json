@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "313655",
-            "airport_ref": "25230",
-            "airport_ident": "U87",
-            "type": "UNICOM",
-            "description": "",
-            "frequency_mhz": "122.9"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

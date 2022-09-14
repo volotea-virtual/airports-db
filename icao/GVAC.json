@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51681",
-            "airport_ref": "3150",
-            "airport_ident": "GVAC",
-            "type": "A/G",
-            "description": "A/G",
-            "frequency_mhz": "345.2"
-        },
-        {
-            "id": "51682",
-            "airport_ref": "3150",
-            "airport_ident": "GVAC",
-            "type": "APP",
-            "description": "SAL APP - (V)",
-            "frequency_mhz": "126.4"
-        },
-        {
-            "id": "323047",
-            "airport_ref": "3150",
-            "airport_ident": "GVAC",
-            "type": "AWOS",
-            "description": "",
-            "frequency_mhz": "127.6"
-        },
-        {
-            "id": "51683",
-            "airport_ref": "3150",
-            "airport_ident": "GVAC",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "119.7"
-        }
-    ],
     "country": {
         "id": "302566",
         "code": "CV",

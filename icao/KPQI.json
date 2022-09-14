@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "61850",
-            "airport_ref": "3787",
-            "airport_ident": "KPQI",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "118.025"
-        },
-        {
-            "id": "61851",
-            "airport_ref": "3787",
-            "airport_ident": "KPQI",
-            "type": "CLD",
-            "description": "BOSTON CLNC DEL",
-            "frequency_mhz": "121.6"
-        },
-        {
-            "id": "61852",
-            "airport_ref": "3787",
-            "airport_ident": "KPQI",
-            "type": "CNTR",
-            "description": "BOSTON CNTR",
-            "frequency_mhz": "124.75"
-        },
-        {
-            "id": "61853",
-            "airport_ref": "3787",
-            "airport_ident": "KPQI",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

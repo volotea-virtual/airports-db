@@ -107,32 +107,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "310815",
-            "airport_ref": "2342",
-            "airport_ident": "EFRY",
-            "type": "ACC",
-            "description": "Tampere radar",
-            "frequency_mhz": "121.3"
-        },
-        {
-            "id": "52129",
-            "airport_ref": "2342",
-            "airport_ident": "EFRY",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "122.625"
-        },
-        {
-            "id": "310814",
-            "airport_ref": "2342",
-            "airport_ident": "EFRY",
-            "type": "RDo",
-            "description": "Räyskälä traffic",
-            "frequency_mhz": "122.65"
-        }
-    ],
     "country": {
         "id": "302685",
         "code": "FI",

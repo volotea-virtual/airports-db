@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "58853",
-            "airport_ref": "5375",
-            "airport_ident": "PAII",
-            "type": "A/D",
-            "description": "ANCHORAGE CNTR",
-            "frequency_mhz": "124.8"
-        },
-        {
-            "id": "58854",
-            "airport_ref": "5375",
-            "airport_ident": "PAII",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "135.65"
-        },
-        {
-            "id": "58855",
-            "airport_ref": "5375",
-            "airport_ident": "PAII",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

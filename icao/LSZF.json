@@ -63,24 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "75568",
-            "airport_ref": "29519",
-            "airport_ident": "LSZF",
-            "type": "AFIS",
-            "description": "Birrfeld aerodrome (de,en)",
-            "frequency_mhz": "123.55"
-        },
-        {
-            "id": "302419",
-            "airport_ref": "29519",
-            "airport_ident": "LSZF",
-            "type": "FIS",
-            "description": "Zurich Information (en,ge)",
-            "frequency_mhz": "124.7"
-        }
-    ],
     "country": {
         "id": "302679",
         "code": "CH",

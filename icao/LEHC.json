@@ -63,24 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "335840",
-            "airport_ref": "29967",
-            "airport_ident": "LEHC",
-            "type": "LEHC_AFIS",
-            "description": "Huesca Information",
-            "frequency_mhz": "128.95"
-        },
-        {
-            "id": "335841",
-            "airport_ref": "29967",
-            "airport_ident": "LEHC",
-            "type": "LEZG_APP",
-            "description": "Zaragoza Approach",
-            "frequency_mhz": "119.3"
-        }
-    ],
     "country": {
         "id": "302684",
         "code": "ES",

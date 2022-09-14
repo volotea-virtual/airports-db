@@ -17,32 +17,6 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
-    "freqs": [
-        {
-            "id": "74982",
-            "airport_ref": "38651",
-            "airport_ident": "YWMM",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "128.55"
-        },
-        {
-            "id": "74983",
-            "airport_ref": "38651",
-            "airport_ident": "YWMM",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "119.6"
-        },
-        {
-            "id": "74984",
-            "airport_ref": "38651",
-            "airport_ident": "YWMM",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "122.1"
-        }
-    ],
     "country": {
         "id": "302764",
         "code": "AU",

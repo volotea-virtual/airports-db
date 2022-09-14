@@ -3,15 +3,15 @@
     "ident": "K6S0",
     "type": "small_airport",
     "name": "Big Timber Airport",
-    "latitude_deg": "45.806400299072266",
-    "longitude_deg": "-109.98100280761719",
+    "latitude_deg": "45.806681",
+    "longitude_deg": "-109.979153",
     "elevation_ft": "4492",
     "continent": "NA",
     "iso_country": "US",
     "iso_region": "US-MT",
     "municipality": "Big Timber",
     "scheduled_service": "no",
-    "gps_code": "K6S0",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "6S0",
     "home_link": "",
@@ -61,16 +61,6 @@
             "he_elevation_ft": "",
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
-        }
-    ],
-    "freqs": [
-        {
-            "id": "67414",
-            "airport_ref": "19008",
-            "airport_ident": "K6S0",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
         }
     ],
     "country": {

@@ -85,48 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "50256",
-            "airport_ref": "1780",
-            "airport_ident": "CYJN",
-            "type": "A/D",
-            "description": "MONTREAL APP DEP",
-            "frequency_mhz": "125.15"
-        },
-        {
-            "id": "50257",
-            "airport_ref": "1780",
-            "airport_ident": "CYJN",
-            "type": "A/G",
-            "description": "VFR ADVSY",
-            "frequency_mhz": "134.15"
-        },
-        {
-            "id": "50258",
-            "airport_ref": "1780",
-            "airport_ident": "CYJN",
-            "type": "ATF",
-            "description": "ATF",
-            "frequency_mhz": "118.2"
-        },
-        {
-            "id": "50259",
-            "airport_ref": "1780",
-            "airport_ident": "CYJN",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.7"
-        },
-        {
-            "id": "50260",
-            "airport_ref": "1780",
-            "airport_ident": "CYJN",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.2"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

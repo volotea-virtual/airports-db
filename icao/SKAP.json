@@ -63,24 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51435",
-            "airport_ref": "6098",
-            "airport_ident": "SKAP",
-            "type": "APP",
-            "description": "VILLAVICENCIO APP",
-            "frequency_mhz": "119.3"
-        },
-        {
-            "id": "51436",
-            "airport_ref": "6098",
-            "airport_ident": "SKAP",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "126.2"
-        }
-    ],
     "country": {
         "id": "302793",
         "code": "CO",

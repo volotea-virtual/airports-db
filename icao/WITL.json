@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": "209"
         }
     ],
-    "freqs": [
-        {
-            "id": "53642",
-            "airport_ref": "26860",
-            "airport_ident": "WITL",
-            "type": "A/G",
-            "description": "INFO",
-            "frequency_mhz": "130.45"
-        }
-    ],
     "country": {
         "id": "302632",
         "code": "ID",

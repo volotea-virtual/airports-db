@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51084",
-            "airport_ref": "2998",
-            "airport_ident": "FTTJ",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "119.7"
-        },
-        {
-            "id": "51085",
-            "airport_ref": "2998",
-            "airport_ident": "FTTJ",
-            "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "128.1"
-        },
-        {
-            "id": "51086",
-            "airport_ref": "2998",
-            "airport_ident": "FTTJ",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.1"
-        }
-    ],
     "country": {
         "id": "302604",
         "code": "TD",

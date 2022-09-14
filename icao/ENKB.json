@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": "263"
         }
     ],
-    "freqs": [
-        {
-            "id": "55819",
-            "airport_ref": "2581",
-            "airport_ident": "ENKB",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.3"
-        }
-    ],
     "country": {
         "id": "302709",
         "code": "NO",

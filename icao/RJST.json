@@ -63,56 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "54622",
-            "airport_ref": "5616",
-            "airport_ident": "RJST",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "120.1"
-        },
-        {
-            "id": "54623",
-            "airport_ref": "5616",
-            "airport_ident": "RJST",
-            "type": "DEP",
-            "description": "DEP",
-            "frequency_mhz": "120.1"
-        },
-        {
-            "id": "54624",
-            "airport_ref": "5616",
-            "airport_ident": "RJST",
-            "type": "GCA",
-            "description": "RDR",
-            "frequency_mhz": "134.1"
-        },
-        {
-            "id": "54625",
-            "airport_ref": "5616",
-            "airport_ident": "RJST",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "27.58"
-        },
-        {
-            "id": "54626",
-            "airport_ref": "5616",
-            "airport_ident": "RJST",
-            "type": "TCA",
-            "description": "TCA",
-            "frequency_mhz": "123.85"
-        },
-        {
-            "id": "54627",
-            "airport_ref": "5616",
-            "airport_ident": "RJST",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "126.2"
-        }
-    ],
     "country": {
         "id": "302639",
         "code": "JP",

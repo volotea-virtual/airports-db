@@ -63,24 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "52199",
-            "airport_ref": "5003",
-            "airport_ident": "NTTB",
-            "type": "APP",
-            "description": "TAHITI CON",
-            "frequency_mhz": "134.7"
-        },
-        {
-            "id": "52200",
-            "airport_ref": "5003",
-            "airport_ident": "NTTB",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.9"
-        }
-    ],
     "country": {
         "id": "302777",
         "code": "PF",

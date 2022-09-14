@@ -17,24 +17,6 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Nakuru_Airport",
     "keywords": "",
-    "freqs": [
-        {
-            "id": "310998",
-            "airport_ref": "28485",
-            "airport_ident": "HKNK",
-            "type": "Air to Air Local",
-            "description": "Pilot contact when in the area",
-            "frequency_mhz": "118"
-        },
-        {
-            "id": "310999",
-            "airport_ref": "28485",
-            "airport_ident": "HKNK",
-            "type": "Tropic Air Ops",
-            "description": "Call for info",
-            "frequency_mhz": "119.2"
-        }
-    ],
     "country": {
         "id": "302579",
         "code": "KE",

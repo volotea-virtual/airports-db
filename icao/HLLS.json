@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55217",
-            "airport_ref": "3226",
-            "airport_ident": "HLLS",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "119.1"
-        },
-        {
-            "id": "55218",
-            "airport_ref": "3226",
-            "airport_ident": "HLLS",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "55219",
-            "airport_ref": "3226",
-            "airport_ident": "HLLS",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "119.1"
-        }
-    ],
     "country": {
         "id": "302583",
         "code": "LY",

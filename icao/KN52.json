@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": "200"
         }
     ],
-    "freqs": [
-        {
-            "id": "59224",
-            "airport_ref": "20611",
-            "airport_ident": "KN52",
-            "type": "A/D",
-            "description": "CHARLOTTE APP/DEP",
-            "frequency_mhz": "120.05"
-        },
-        {
-            "id": "59225",
-            "airport_ref": "20611",
-            "airport_ident": "KN52",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

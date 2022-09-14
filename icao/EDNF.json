@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "331089",
-            "airport_ref": "29848",
-            "airport_ident": "EDNF",
-            "type": "INFO",
-            "description": "Grafenau Info",
-            "frequency_mhz": "118.935"
-        }
-    ],
     "country": {
         "id": "302681",
         "code": "DE",

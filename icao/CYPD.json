@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "50974",
-            "airport_ref": "1844",
-            "airport_ident": "CYPD",
-            "type": "RDO",
-            "description": "HALIFAX RDO",
-            "frequency_mhz": "126.7"
-        },
-        {
-            "id": "50975",
-            "airport_ref": "1844",
-            "airport_ident": "CYPD",
-            "type": "UNIC",
-            "description": "ATF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

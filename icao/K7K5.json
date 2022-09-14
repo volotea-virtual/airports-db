@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "69005",
-            "airport_ref": "19063",
-            "airport_ident": "K7K5",
-            "type": "APP",
-            "description": "MINOT APP",
-            "frequency_mhz": "119.6"
-        },
-        {
-            "id": "69006",
-            "airport_ref": "19063",
-            "airport_ident": "K7K5",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.8"
-        },
-        {
-            "id": "69007",
-            "airport_ref": "19063",
-            "airport_ident": "K7K5",
-            "type": "DEP",
-            "description": "MINOT DEP",
-            "frequency_mhz": "119.6"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

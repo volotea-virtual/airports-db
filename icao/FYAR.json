@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "71782",
-            "airport_ref": "3024",
-            "airport_ident": "FYAR",
-            "type": "A/G",
-            "description": "A/G VOICE RDO",
-            "frequency_mhz": "123.5"
-        }
-    ],
     "country": {
         "id": "302591",
         "code": "NA",

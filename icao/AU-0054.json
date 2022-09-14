@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "299300",
-            "airport_ref": "299298",
-            "airport_ident": "AU-0054",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "126.7"
-        },
-        {
-            "id": "299299",
-            "airport_ref": "299298",
-            "airport_ident": "AU-0054",
-            "type": "FIA",
-            "description": "Melbourne Centre",
-            "frequency_mhz": "122.4"
-        }
-    ],
     "country": {
         "id": "302764",
         "code": "AU",

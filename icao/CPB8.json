@@ -17,16 +17,6 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Paramount_Bistcho_Airport",
     "keywords": "",
-    "freqs": [
-        {
-            "id": "298794",
-            "airport_ref": "1382",
-            "airport_ident": "CPB8",
-            "type": "Unicom",
-            "description": "",
-            "frequency_mhz": "123.2"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

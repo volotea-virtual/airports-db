@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "75225",
-            "airport_ref": "44771",
-            "airport_ident": "LJNM",
-            "type": "AFIS",
-            "description": "",
-            "frequency_mhz": "123.5"
-        }
-    ],
     "country": {
         "id": "302716",
         "code": "SI",

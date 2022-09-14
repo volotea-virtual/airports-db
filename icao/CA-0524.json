@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": "1190"
         }
     ],
-    "freqs": [
-        {
-            "id": "309842",
-            "airport_ref": "309767",
-            "airport_ident": "CA-0524",
-            "type": "CTAF",
-            "description": "",
-            "frequency_mhz": "123"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

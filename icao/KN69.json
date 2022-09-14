@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "62860",
-            "airport_ref": "20618",
-            "airport_ident": "KN69",
-            "type": "A/D",
-            "description": "NEW YORK APP/DEP",
-            "frequency_mhz": "132.75"
-        },
-        {
-            "id": "62861",
-            "airport_ref": "20618",
-            "airport_ident": "KN69",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

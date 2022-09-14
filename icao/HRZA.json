@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "56856",
-            "airport_ref": "3238",
-            "airport_ident": "HRZA",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "120.7"
-        }
-    ],
     "country": {
         "id": "302595",
         "code": "RW",

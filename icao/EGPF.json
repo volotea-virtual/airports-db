@@ -63,48 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "58394",
-            "airport_ref": "2461",
-            "airport_ident": "EGPF",
-            "type": "ACC",
-            "description": "SHANWICK OCEANIC",
-            "frequency_mhz": "120.35"
-        },
-        {
-            "id": "58395",
-            "airport_ref": "2461",
-            "airport_ident": "EGPF",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "119.1"
-        },
-        {
-            "id": "58396",
-            "airport_ref": "2461",
-            "airport_ident": "EGPF",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "129.575"
-        },
-        {
-            "id": "58397",
-            "airport_ref": "2461",
-            "airport_ident": "EGPF",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.705"
-        },
-        {
-            "id": "58398",
-            "airport_ref": "2461",
-            "airport_ident": "EGPF",
-            "type": "TWR",
-            "description": "Glasgow Tower",
-            "frequency_mhz": "118.805"
-        }
-    ],
     "country": {
         "id": "302688",
         "code": "GB",

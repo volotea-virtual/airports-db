@@ -2,14 +2,14 @@
     "id": "354707",
     "ident": "TH-0025",
     "type": "small_airport",
-    "name": "DZ Thailand",
+    "name": "Dropzone Thailand Airport",
     "latitude_deg": "12.6714",
     "longitude_deg": "101.5476",
     "elevation_ft": "",
     "continent": "AS",
     "iso_country": "TH",
     "iso_region": "TH-21",
-    "municipality": "",
+    "municipality": "Klaeng",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
@@ -17,16 +17,6 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
-    "freqs": [
-        {
-            "id": "354708",
-            "airport_ref": "354707",
-            "airport_ident": "TH-0025",
-            "type": "CTAF",
-            "description": "",
-            "frequency_mhz": "122.775"
-        }
-    ],
     "country": {
         "id": "302663",
         "code": "TH",

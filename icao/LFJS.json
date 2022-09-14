@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "312596",
-            "airport_ref": "28914",
-            "airport_ident": "LFJS",
-            "type": "A/A",
-            "description": "Soissons",
-            "frequency_mhz": "120.375"
-        }
-    ],
     "country": {
         "id": "302687",
         "code": "FR",

@@ -41,48 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "49658",
-            "airport_ref": "5897",
-            "airport_ident": "SBEG",
-            "type": "APP",
-            "description": "MANAUS APP",
-            "frequency_mhz": "119.7"
-        },
-        {
-            "id": "49659",
-            "airport_ref": "5897",
-            "airport_ident": "SBEG",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "127.65"
-        },
-        {
-            "id": "49660",
-            "airport_ref": "5897",
-            "airport_ident": "SBEG",
-            "type": "GND",
-            "description": "EDUARDO GOMES GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "49661",
-            "airport_ref": "5897",
-            "airport_ident": "SBEG",
-            "type": "OPS",
-            "description": "OPS",
-            "frequency_mhz": "122.5"
-        },
-        {
-            "id": "49662",
-            "airport_ref": "5897",
-            "airport_ident": "SBEG",
-            "type": "TWR",
-            "description": "EDUARDO GOMES TWR",
-            "frequency_mhz": "118.3"
-        }
-    ],
     "country": {
         "id": "302791",
         "code": "BR",

@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "317482",
-            "airport_ref": "317479",
-            "airport_ident": "IT-0189",
-            "type": "Info",
-            "description": "Rivoli Avro",
-            "frequency_mhz": "123.455"
-        }
-    ],
     "country": {
         "id": "302697",
         "code": "IT",

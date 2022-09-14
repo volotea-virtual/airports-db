@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "318095",
-            "airport_ref": "318093",
-            "airport_ident": "IT-0232",
-            "type": "Info",
-            "description": "Cascia Santa Rita",
-            "frequency_mhz": "130"
-        }
-    ],
     "country": {
         "id": "302697",
         "code": "IT",

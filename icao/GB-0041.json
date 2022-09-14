@@ -17,16 +17,6 @@
     "home_link": "http://www.raf.mod.uk/rafboulmer/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/RAF_Boulmer",
     "keywords": "RAF Boulmer",
-    "freqs": [
-        {
-            "id": "307390",
-            "airport_ref": "307389",
-            "airport_ident": "GB-0041",
-            "type": "A/G",
-            "description": "Boulmer Radio",
-            "frequency_mhz": "123.1"
-        }
-    ],
     "country": {
         "id": "302688",
         "code": "GB",

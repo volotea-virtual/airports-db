@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "64251",
-            "airport_ref": "20469",
-            "airport_ident": "KMAE",
-            "type": "A/D",
-            "description": "FRESNO APP/DEP",
-            "frequency_mhz": "119.45"
-        },
-        {
-            "id": "64252",
-            "airport_ref": "20469",
-            "airport_ident": "KMAE",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "134.725"
-        },
-        {
-            "id": "64253",
-            "airport_ref": "20469",
-            "airport_ident": "KMAE",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

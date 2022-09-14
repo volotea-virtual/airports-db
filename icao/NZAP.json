@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55936",
-            "airport_ref": "5024",
-            "airport_ident": "NZAP",
-            "type": "AFIS",
-            "description": "CHRISTCHURCH FIS",
-            "frequency_mhz": "123.6"
-        },
-        {
-            "id": "55937",
-            "airport_ref": "5024",
-            "airport_ident": "NZAP",
-            "type": "AWIB",
-            "description": "AWIB",
-            "frequency_mhz": "125.2"
-        },
-        {
-            "id": "55938",
-            "airport_ref": "5024",
-            "airport_ident": "NZAP",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "118.4"
-        },
-        {
-            "id": "55939",
-            "airport_ref": "5024",
-            "airport_ident": "NZAP",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "118.4"
-        }
-    ],
     "country": {
         "id": "302776",
         "code": "NZ",

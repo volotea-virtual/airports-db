@@ -2,9 +2,9 @@
     "id": "43884",
     "ident": "BA-0001",
     "type": "small_airport",
-    "name": "Sport airfield Ciljuge",
-    "latitude_deg": "44.438152313232",
-    "longitude_deg": "18.685613632202",
+    "name": "Ciljuge Sport Airfield",
+    "latitude_deg": "44.436538",
+    "longitude_deg": "18.68537",
     "elevation_ft": "725",
     "continent": "EU",
     "iso_country": "BA",
@@ -39,16 +39,6 @@
             "he_elevation_ft": "",
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
-        }
-    ],
-    "freqs": [
-        {
-            "id": "309235",
-            "airport_ref": "43884",
-            "airport_ident": "BA-0001",
-            "type": "Ciljuge Info",
-            "description": "Ciljuge Info",
-            "frequency_mhz": "123.6"
         }
     ],
     "country": {

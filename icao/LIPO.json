@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": "640"
         }
     ],
-    "freqs": [
-        {
-            "id": "54337",
-            "airport_ref": "4360",
-            "airport_ident": "LIPO",
-            "type": "APP",
-            "description": "GARDA APP",
-            "frequency_mhz": "124.45"
-        },
-        {
-            "id": "54338",
-            "airport_ref": "4360",
-            "airport_ident": "LIPO",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "119.4"
-        }
-    ],
     "country": {
         "id": "302697",
         "code": "IT",

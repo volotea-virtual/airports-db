@@ -63,56 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "48962",
-            "airport_ref": "27066",
-            "airport_ident": "YMML",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "132"
-        },
-        {
-            "id": "48963",
-            "airport_ref": "27066",
-            "airport_ident": "YMML",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "114.1"
-        },
-        {
-            "id": "48964",
-            "airport_ref": "27066",
-            "airport_ident": "YMML",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "127.2"
-        },
-        {
-            "id": "48965",
-            "airport_ref": "27066",
-            "airport_ident": "YMML",
-            "type": "DEP",
-            "description": "DEP",
-            "frequency_mhz": "118.9"
-        },
-        {
-            "id": "48966",
-            "airport_ref": "27066",
-            "airport_ident": "YMML",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.7"
-        },
-        {
-            "id": "48967",
-            "airport_ref": "27066",
-            "airport_ident": "YMML",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "120.5"
-        }
-    ],
     "country": {
         "id": "302764",
         "code": "AU",

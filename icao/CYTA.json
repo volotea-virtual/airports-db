@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "50901",
-            "airport_ref": "1917",
-            "airport_ident": "CYTA",
-            "type": "A/G",
-            "description": "Petawawa Advisory",
-            "frequency_mhz": "126.4"
-        },
-        {
-            "id": "50902",
-            "airport_ref": "1917",
-            "airport_ident": "CYTA",
-            "type": "ATF",
-            "description": "Pembroke Traffic",
-            "frequency_mhz": "122.8"
-        },
-        {
-            "id": "50900",
-            "airport_ref": "1917",
-            "airport_ident": "CYTA",
-            "type": "PAL",
-            "description": "Montreal Centre",
-            "frequency_mhz": "135.2"
-        },
-        {
-            "id": "75214",
-            "airport_ref": "1917",
-            "airport_ident": "CYTA",
-            "type": "UNICOM",
-            "description": "Pembroke Unicom",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

@@ -63,24 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55501",
-            "airport_ref": "4701",
-            "airport_ident": "MMCS",
-            "type": "APP",
-            "description": "JUAREZ APP",
-            "frequency_mhz": "119.9"
-        },
-        {
-            "id": "55502",
-            "airport_ref": "4701",
-            "airport_ident": "MMCS",
-            "type": "TWR",
-            "description": "JUAREZ TWR",
-            "frequency_mhz": "118.9"
-        }
-    ],
     "country": {
         "id": "302747",
         "code": "MX",

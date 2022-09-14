@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55174",
-            "airport_ref": "2766",
-            "airport_ident": "EYVI",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "120.7"
-        },
-        {
-            "id": "55175",
-            "airport_ref": "2766",
-            "airport_ident": "EYVI",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "125.8"
-        },
-        {
-            "id": "55176",
-            "airport_ref": "2766",
-            "airport_ident": "EYVI",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.2"
-        }
-    ],
     "country": {
         "id": "302700",
         "code": "LT",

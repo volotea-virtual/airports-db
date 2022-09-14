@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "54355",
-            "airport_ref": "2097",
-            "airport_ident": "DIBK",
-            "type": "A/G",
-            "description": "A/G VOICE RDO",
-            "frequency_mhz": "667.3"
-        },
-        {
-            "id": "54356",
-            "airport_ref": "2097",
-            "airport_ident": "DIBK",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "121.7"
-        },
-        {
-            "id": "54357",
-            "airport_ref": "2097",
-            "airport_ident": "DIBK",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.7"
-        },
-        {
-            "id": "54358",
-            "airport_ref": "2097",
-            "airport_ident": "DIBK",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.9"
-        }
-    ],
     "country": {
         "id": "302564",
         "code": "CI",

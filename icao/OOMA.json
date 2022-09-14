@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55374",
-            "airport_ref": "5241",
-            "airport_ident": "OOMA",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "121.3"
-        },
-        {
-            "id": "55375",
-            "airport_ref": "5241",
-            "airport_ident": "OOMA",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.65"
-        },
-        {
-            "id": "55376",
-            "airport_ref": "5241",
-            "airport_ident": "OOMA",
-            "type": "POST",
-            "description": "CMD POST",
-            "frequency_mhz": "30.885"
-        },
-        {
-            "id": "55377",
-            "airport_ref": "5241",
-            "airport_ident": "OOMA",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.15"
-        }
-    ],
     "country": {
         "id": "302655",
         "code": "OM",

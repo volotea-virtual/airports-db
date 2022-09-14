@@ -17,16 +17,6 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
-    "freqs": [
-        {
-            "id": "73392",
-            "airport_ref": "30022",
-            "airport_ident": "YKEL",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "126.5"
-        }
-    ],
     "country": {
         "id": "302764",
         "code": "AU",

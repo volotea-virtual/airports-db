@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "49767",
-            "airport_ref": "366",
-            "airport_ident": "SNOZ",
-            "type": "TWR",
-            "description": "SAO LUIS",
-            "frequency_mhz": "118.7"
-        }
-    ],
     "country": {
         "id": "302791",
         "code": "BR",

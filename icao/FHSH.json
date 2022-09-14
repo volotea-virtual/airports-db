@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": "1033"
         }
     ],
-    "freqs": [
-        {
-            "id": "318448",
-            "airport_ref": "318444",
-            "airport_ident": "FHSH",
-            "type": "APP",
-            "description": "",
-            "frequency_mhz": "119.1"
-        },
-        {
-            "id": "318446",
-            "airport_ref": "318444",
-            "airport_ident": "FHSH",
-            "type": "TWR",
-            "description": "",
-            "frequency_mhz": "118.2"
-        }
-    ],
     "country": {
         "id": "302598",
         "code": "SH",

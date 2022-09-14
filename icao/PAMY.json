@@ -41,48 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "58787",
-            "airport_ref": "5387",
-            "airport_ident": "PAMY",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "123.9"
-        },
-        {
-            "id": "58788",
-            "airport_ref": "5387",
-            "airport_ident": "PAMY",
-            "type": "CNTR",
-            "description": "ANCHORAGE CNTR",
-            "frequency_mhz": "124.5"
-        },
-        {
-            "id": "58789",
-            "airport_ref": "5387",
-            "airport_ident": "PAMY",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.9"
-        },
-        {
-            "id": "58790",
-            "airport_ref": "5387",
-            "airport_ident": "PAMY",
-            "type": "FSS",
-            "description": "KENAI RDO",
-            "frequency_mhz": "122"
-        },
-        {
-            "id": "58791",
-            "airport_ref": "5387",
-            "airport_ident": "PAMY",
-            "type": "MISC",
-            "description": "TWEB",
-            "frequency_mhz": "32.3"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

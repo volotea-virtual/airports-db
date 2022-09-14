@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "52118",
-            "airport_ref": "2348",
-            "airport_ident": "EFTS",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "123.15"
-        }
-    ],
     "country": {
         "id": "302685",
         "code": "FI",

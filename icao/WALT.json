@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "53714",
-            "airport_ref": "26764",
-            "airport_ident": "WALT",
-            "type": "RDO",
-            "description": "RDO",
-            "frequency_mhz": "129.7"
-        }
-    ],
     "country": {
         "id": "302632",
         "code": "ID",

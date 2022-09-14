@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51032",
-            "airport_ref": "1674",
-            "airport_ident": "CYBK",
-            "type": "FSS",
-            "description": "ARCTIC RDO",
-            "frequency_mhz": "568"
-        },
-        {
-            "id": "51033",
-            "airport_ref": "1674",
-            "airport_ident": "CYBK",
-            "type": "UNIC",
-            "description": "ARPT RDO",
-            "frequency_mhz": "122.1"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "75536",
-            "airport_ref": "1316",
-            "airport_ident": "CNK9",
-            "type": "MF",
-            "description": "Waterloo Traffic",
-            "frequency_mhz": "126"
-        },
-        {
-            "id": "75535",
-            "airport_ref": "1316",
-            "airport_ident": "CNK9",
-            "type": "TWR",
-            "description": "Waterloo Tower",
-            "frequency_mhz": "126"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

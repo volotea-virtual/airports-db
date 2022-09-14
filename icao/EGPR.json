@@ -85,16 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "71905",
-            "airport_ref": "29173",
-            "airport_ident": "EGPR",
-            "type": "AFIS",
-            "description": "Barra AFIS",
-            "frequency_mhz": "118.075"
-        }
-    ],
     "country": {
         "id": "302688",
         "code": "GB",

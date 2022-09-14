@@ -107,40 +107,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "302435",
-            "airport_ref": "4504",
-            "airport_ident": "LSZG",
-            "type": "APP",
-            "description": "Bern Approach ge,en",
-            "frequency_mhz": "127.325"
-        },
-        {
-            "id": "57598",
-            "airport_ref": "4504",
-            "airport_ident": "LSZG",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "121.1"
-        },
-        {
-            "id": "57599",
-            "airport_ref": "4504",
-            "airport_ident": "LSZG",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.8"
-        },
-        {
-            "id": "57600",
-            "airport_ref": "4504",
-            "airport_ident": "LSZG",
-            "type": "TWR",
-            "description": "ge, en",
-            "frequency_mhz": "120.1"
-        }
-    ],
     "country": {
         "id": "302679",
         "code": "CH",

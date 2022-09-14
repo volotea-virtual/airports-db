@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": "196"
         }
     ],
-    "freqs": [
-        {
-            "id": "52618",
-            "airport_ref": "4067",
-            "airport_ident": "LFBL",
-            "type": "APP",
-            "description": "LIMOGES APP",
-            "frequency_mhz": "119.2"
-        },
-        {
-            "id": "52619",
-            "airport_ref": "4067",
-            "airport_ident": "LFBL",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "128.075"
-        },
-        {
-            "id": "52620",
-            "airport_ref": "4067",
-            "airport_ident": "LFBL",
-            "type": "INFO",
-            "description": "LIMOGES INFO",
-            "frequency_mhz": "124.05"
-        },
-        {
-            "id": "52621",
-            "airport_ref": "4067",
-            "airport_ident": "LFBL",
-            "type": "TWR",
-            "description": "LIMOGES TWR",
-            "frequency_mhz": "118.7"
-        }
-    ],
     "country": {
         "id": "302687",
         "code": "FR",

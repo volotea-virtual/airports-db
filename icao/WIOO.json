@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "53774",
-            "airport_ref": "26847",
-            "airport_ident": "WIOO",
-            "type": "APP",
-            "description": "PONTIANAK APP",
-            "frequency_mhz": "119"
-        },
-        {
-            "id": "53775",
-            "airport_ref": "26847",
-            "airport_ident": "WIOO",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "127.4"
-        },
-        {
-            "id": "53776",
-            "airport_ref": "26847",
-            "airport_ident": "WIOO",
-            "type": "INFO",
-            "description": "PONTIAK INFO",
-            "frequency_mhz": "895.7"
-        },
-        {
-            "id": "53777",
-            "airport_ref": "26847",
-            "airport_ident": "WIOO",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.3"
-        }
-    ],
     "country": {
         "id": "302632",
         "code": "ID",

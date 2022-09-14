@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "54848",
-            "airport_ref": "6428",
-            "airport_ident": "UAFW",
-            "type": "APP",
-            "description": "BISHKEK APP",
-            "frequency_mhz": "124.6"
-        },
-        {
-            "id": "54849",
-            "airport_ref": "6428",
-            "airport_ident": "UAFW",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "124"
-        }
-    ],
     "country": {
         "id": "302640",
         "code": "KG",

@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": "787"
         }
     ],
-    "freqs": [
-        {
-            "id": "49252",
-            "airport_ref": "4433",
-            "airport_ident": "LOWS",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "123.725"
-        },
-        {
-            "id": "49253",
-            "airport_ref": "4433",
-            "airport_ident": "LOWS",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "125.725"
-        },
-        {
-            "id": "49254",
-            "airport_ref": "4433",
-            "airport_ident": "LOWS",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.75"
-        },
-        {
-            "id": "49255",
-            "airport_ref": "4433",
-            "airport_ident": "LOWS",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.1"
-        }
-    ],
     "country": {
         "id": "302674",
         "code": "AT",

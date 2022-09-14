@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "299181",
-            "airport_ref": "299180",
-            "airport_ident": "cmb2",
-            "type": "UNICOM ltd hrs O",
-            "description": "",
-            "frequency_mhz": "123.35"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

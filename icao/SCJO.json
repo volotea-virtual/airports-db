@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51338",
-            "airport_ref": "6027",
-            "airport_ident": "SCJO",
-            "type": "APP",
-            "description": "PUERTO MONTT APP",
-            "frequency_mhz": "119.5"
-        },
-        {
-            "id": "51339",
-            "airport_ref": "6027",
-            "airport_ident": "SCJO",
-            "type": "GND",
-            "description": "OSORNO GND",
-            "frequency_mhz": "121.7"
-        },
-        {
-            "id": "51340",
-            "airport_ref": "6027",
-            "airport_ident": "SCJO",
-            "type": "TWR",
-            "description": "OSORNO TWR",
-            "frequency_mhz": "118.9"
-        }
-    ],
     "country": {
         "id": "302792",
         "code": "CL",

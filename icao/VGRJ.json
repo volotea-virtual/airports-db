@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "49428",
-            "airport_ref": "26530",
-            "airport_ident": "VGRJ",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "122.9"
-        }
-    ],
     "country": {
         "id": "302622",
         "code": "BD",

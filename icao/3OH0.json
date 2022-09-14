@@ -63,16 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "333773",
-            "airport_ref": "10702",
-            "airport_ident": "3OH0",
-            "type": "UNICOM",
-            "description": "",
-            "frequency_mhz": "122.9"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

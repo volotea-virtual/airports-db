@@ -85,32 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "63452",
-            "airport_ref": "20230",
-            "airport_ident": "KJYL",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "118.875"
-        },
-        {
-            "id": "63453",
-            "airport_ref": "20230",
-            "airport_ident": "KJYL",
-            "type": "CNTR",
-            "description": "JACKSONVILLE CNTR",
-            "frequency_mhz": "132.5"
-        },
-        {
-            "id": "63454",
-            "airport_ref": "20230",
-            "airport_ident": "KJYL",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

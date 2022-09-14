@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "75408",
-            "airport_ref": "46497",
-            "airport_ident": "CLB2",
-            "type": "CTAF",
-            "description": "",
-            "frequency_mhz": "123.2"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

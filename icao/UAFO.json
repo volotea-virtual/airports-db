@@ -41,48 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "54864",
-            "airport_ref": "6427",
-            "airport_ident": "UAFO",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "124.2"
-        },
-        {
-            "id": "54865",
-            "airport_ref": "6427",
-            "airport_ident": "UAFO",
-            "type": "GCA",
-            "description": "GCA",
-            "frequency_mhz": "120.6"
-        },
-        {
-            "id": "54866",
-            "airport_ref": "6427",
-            "airport_ident": "UAFO",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.8"
-        },
-        {
-            "id": "54867",
-            "airport_ref": "6427",
-            "airport_ident": "UAFO",
-            "type": "PMSV",
-            "description": "METEO",
-            "frequency_mhz": "134.2"
-        },
-        {
-            "id": "54868",
-            "airport_ref": "6427",
-            "airport_ident": "UAFO",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.3"
-        }
-    ],
     "country": {
         "id": "302640",
         "code": "KG",

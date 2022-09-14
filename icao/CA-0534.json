@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "311165",
-            "airport_ref": "311164",
-            "airport_ident": "CA-0534",
-            "type": "CTAF",
-            "description": "Lac William",
-            "frequency_mhz": "123.2"
-        },
-        {
-            "id": "311166",
-            "airport_ref": "311164",
-            "airport_ident": "CA-0534",
-            "type": "Ground",
-            "description": "Sol Lac William",
-            "frequency_mhz": "122.9"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

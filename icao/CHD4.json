@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "311599",
-            "airport_ref": "311598",
-            "airport_ident": "CHD4",
-            "type": "ATF",
-            "description": "Thamesford Traffic, 3NM below 4100ASL",
-            "frequency_mhz": "123.2"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

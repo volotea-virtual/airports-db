@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "54076",
-            "airport_ref": "5139",
-            "airport_ident": "OIBB",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "38.54"
-        },
-        {
-            "id": "54075",
-            "airport_ref": "5139",
-            "airport_ident": "OIBB",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "131.4"
-        },
-        {
-            "id": "54077",
-            "airport_ref": "5139",
-            "airport_ident": "OIBB",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "126.2"
-        },
-        {
-            "id": "54078",
-            "airport_ref": "5139",
-            "airport_ident": "OIBB",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "119.7"
-        }
-    ],
     "country": {
         "id": "302637",
         "code": "IR",

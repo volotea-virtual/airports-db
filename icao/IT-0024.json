@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "298739",
-            "airport_ref": "298738",
-            "airport_ident": "IT-0024",
-            "type": "Radio",
-            "description": "",
-            "frequency_mhz": "130"
-        },
-        {
-            "id": "298741",
-            "airport_ref": "298738",
-            "airport_ident": "IT-0024",
-            "type": "Radio",
-            "description": "",
-            "frequency_mhz": "143.9"
-        }
-    ],
     "country": {
         "id": "302697",
         "code": "IT",

@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": "495"
         }
     ],
-    "freqs": [
-        {
-            "id": "54193",
-            "airport_ref": "4333",
-            "airport_ident": "LIEO",
-            "type": "APP",
-            "description": "OLBIA RADAR",
-            "frequency_mhz": "125.95"
-        },
-        {
-            "id": "54194",
-            "airport_ref": "4333",
-            "airport_ident": "LIEO",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "113.9"
-        },
-        {
-            "id": "54195",
-            "airport_ref": "4333",
-            "airport_ident": "LIEO",
-            "type": "TWR",
-            "description": "OLBIA TWR",
-            "frequency_mhz": "118.975"
-        }
-    ],
     "country": {
         "id": "302697",
         "code": "IT",

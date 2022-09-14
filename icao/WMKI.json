@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55599",
-            "airport_ref": "26872",
-            "airport_ident": "WMKI",
-            "type": "TWR",
-            "description": "IPOH TWR",
-            "frequency_mhz": "122.1"
-        }
-    ],
     "country": {
         "id": "302653",
         "code": "MY",

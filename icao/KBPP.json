@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "65425",
-            "airport_ref": "19403",
-            "airport_ident": "KBPP",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "37.4"
-        },
-        {
-            "id": "65426",
-            "airport_ref": "19403",
-            "airport_ident": "KBPP",
-            "type": "RDO",
-            "description": "GRAND FORKS RDO",
-            "frequency_mhz": "122.4"
-        },
-        {
-            "id": "65427",
-            "airport_ref": "19403",
-            "airport_ident": "KBPP",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

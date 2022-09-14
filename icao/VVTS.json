@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "71750",
-            "airport_ref": "26708",
-            "airport_ident": "VVTS",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "125.5"
-        },
-        {
-            "id": "71751",
-            "airport_ref": "26708",
-            "airport_ident": "VVTS",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "128"
-        },
-        {
-            "id": "71752",
-            "airport_ref": "26708",
-            "airport_ident": "VVTS",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "71753",
-            "airport_ref": "26708",
-            "airport_ident": "VVTS",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.7"
-        }
-    ],
     "country": {
         "id": "302670",
         "code": "VN",

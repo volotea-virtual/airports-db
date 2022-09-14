@@ -17,24 +17,6 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
-    "freqs": [
-        {
-            "id": "73919",
-            "airport_ref": "38492",
-            "airport_ident": "YMPK",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.4"
-        },
-        {
-            "id": "73920",
-            "airport_ref": "38492",
-            "airport_ident": "YMPK",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "119.5"
-        }
-    ],
     "country": {
         "id": "302764",
         "code": "AU",

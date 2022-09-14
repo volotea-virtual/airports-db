@@ -17,16 +17,6 @@
     "home_link": "http://www.vegaulm.it",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Lecce_Airfield",
     "keywords": "Vega, Vega ulm, Fondone, Aviosuperficie \"Fondone\", Lecce Airfield, Fondone Lecce Airfield",
-    "freqs": [
-        {
-            "id": "317668",
-            "airport_ref": "317667",
-            "airport_ident": "IT-0206",
-            "type": "Info",
-            "description": "",
-            "frequency_mhz": "128.45"
-        }
-    ],
     "country": {
         "id": "302697",
         "code": "IT",

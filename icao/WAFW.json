@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "53592",
-            "airport_ref": "26774",
-            "airport_ident": "WAFW",
-            "type": "A/G",
-            "description": "INFO",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302632",
         "code": "ID",

@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "323049",
-            "airport_ref": "30553",
-            "airport_ident": "HSWW",
-            "type": "INFO",
-            "description": "",
-            "frequency_mhz": "119.2"
-        }
-    ],
     "country": {
         "id": "302614",
         "code": "SS",

@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "308270",
-            "airport_ref": "2108",
-            "airport_ident": "DNEN",
-            "type": "ENG VOR",
-            "description": "Enugu VOR",
-            "frequency_mhz": "115.7"
-        },
-        {
-            "id": "310642",
-            "airport_ref": "2108",
-            "airport_ident": "DNEN",
-            "type": "ILS - IEN",
-            "description": "Enugu ILS freq. IEN",
-            "frequency_mhz": "108.3"
-        },
-        {
-            "id": "55727",
-            "airport_ref": "2108",
-            "airport_ident": "DNEN",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "123.3"
-        }
-    ],
     "country": {
         "id": "302593",
         "code": "NG",

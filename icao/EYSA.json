@@ -63,16 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55162",
-            "airport_ref": "2764",
-            "airport_ident": "EYSA",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "120.4"
-        }
-    ],
     "country": {
         "id": "302700",
         "code": "LT",

@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "50969",
-            "airport_ref": "1888",
-            "airport_ident": "CYRJ",
-            "type": "A/G",
-            "description": "MF",
-            "frequency_mhz": "122.2"
-        },
-        {
-            "id": "50970",
-            "airport_ref": "1888",
-            "airport_ident": "CYRJ",
-            "type": "RCO",
-            "description": "QUEBEC RDO",
-            "frequency_mhz": "126.7"
-        },
-        {
-            "id": "50971",
-            "airport_ref": "1888",
-            "airport_ident": "CYRJ",
-            "type": "RDO",
-            "description": "RDO",
-            "frequency_mhz": "122.2"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

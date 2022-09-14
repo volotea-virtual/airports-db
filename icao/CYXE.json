@@ -63,64 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "50508",
-            "airport_ref": "1957",
-            "airport_ident": "CYXE",
-            "type": "A/D",
-            "description": "APP/DEP",
-            "frequency_mhz": "119.9"
-        },
-        {
-            "id": "50509",
-            "airport_ref": "1957",
-            "airport_ident": "CYXE",
-            "type": "A/G",
-            "description": "MF SASKATOON RDO",
-            "frequency_mhz": "118.3"
-        },
-        {
-            "id": "50510",
-            "airport_ref": "1957",
-            "airport_ident": "CYXE",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "128.4"
-        },
-        {
-            "id": "50511",
-            "airport_ref": "1957",
-            "airport_ident": "CYXE",
-            "type": "CNTR",
-            "description": "WINNIPEG CNTR",
-            "frequency_mhz": "134.325"
-        },
-        {
-            "id": "50512",
-            "airport_ref": "1957",
-            "airport_ident": "CYXE",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "50513",
-            "airport_ref": "1957",
-            "airport_ident": "CYXE",
-            "type": "RCO",
-            "description": "EDMONTON RDO",
-            "frequency_mhz": "122.5"
-        },
-        {
-            "id": "50514",
-            "airport_ref": "1957",
-            "airport_ident": "CYXE",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.3"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

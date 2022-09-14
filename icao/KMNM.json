@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "64293",
-            "airport_ref": "20535",
-            "airport_ident": "KMNM",
-            "type": "A/D",
-            "description": "GREEN BAY APP/DEP",
-            "frequency_mhz": "119.5"
-        },
-        {
-            "id": "64294",
-            "airport_ref": "20535",
-            "airport_ident": "KMNM",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "109.6"
-        },
-        {
-            "id": "64295",
-            "airport_ref": "20535",
-            "airport_ident": "KMNM",
-            "type": "RDO",
-            "description": "GREEN BAY RDO",
-            "frequency_mhz": "109.6"
-        },
-        {
-            "id": "64296",
-            "airport_ref": "20535",
-            "airport_ident": "KMNM",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

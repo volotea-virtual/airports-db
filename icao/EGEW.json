@@ -85,16 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "71998",
-            "airport_ref": "29134",
-            "airport_ident": "EGEW",
-            "type": "RAD/APP",
-            "description": "Westray RAD/APP",
-            "frequency_mhz": "118.3"
-        }
-    ],
     "country": {
         "id": "302688",
         "code": "GB",

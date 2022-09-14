@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "75189",
-            "airport_ref": "44650",
-            "airport_ident": "RU-0184",
-            "type": "Tower",
-            "description": "Volzhanka Start",
-            "frequency_mhz": "129.1"
-        }
-    ],
     "country": {
         "id": "302714",
         "code": "RU",

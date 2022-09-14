@@ -41,48 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "57432",
-            "airport_ref": "2702",
-            "airport_ident": "ESSB",
-            "type": "AFIS",
-            "description": "AFIS",
-            "frequency_mhz": "119.4"
-        },
-        {
-            "id": "57433",
-            "airport_ref": "2702",
-            "airport_ident": "ESSB",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "120.15"
-        },
-        {
-            "id": "57434",
-            "airport_ref": "2702",
-            "airport_ident": "ESSB",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "122.45"
-        },
-        {
-            "id": "57435",
-            "airport_ref": "2702",
-            "airport_ident": "ESSB",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.6"
-        },
-        {
-            "id": "57436",
-            "airport_ref": "2702",
-            "airport_ident": "ESSB",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.1"
-        }
-    ],
     "country": {
         "id": "302715",
         "code": "SE",

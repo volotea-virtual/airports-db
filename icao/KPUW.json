@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": "801"
         }
     ],
-    "freqs": [
-        {
-            "id": "64492",
-            "airport_ref": "20883",
-            "airport_ident": "KPUW",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "135.675"
-        },
-        {
-            "id": "64493",
-            "airport_ref": "20883",
-            "airport_ident": "KPUW",
-            "type": "CNTR",
-            "description": "SEATTLE CNTR",
-            "frequency_mhz": "123.95"
-        },
-        {
-            "id": "64494",
-            "airport_ref": "20883",
-            "airport_ident": "KPUW",
-            "type": "RDO",
-            "description": "SEATTLE RDO",
-            "frequency_mhz": "122.6"
-        },
-        {
-            "id": "64495",
-            "airport_ref": "20883",
-            "airport_ident": "KPUW",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

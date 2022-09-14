@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "58112",
-            "airport_ref": "2481",
-            "airport_ident": "EGTE",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "128.975"
-        },
-        {
-            "id": "58113",
-            "airport_ref": "2481",
-            "airport_ident": "EGTE",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "119.325"
-        },
-        {
-            "id": "313586",
-            "airport_ref": "2481",
-            "airport_ident": "EGTE",
-            "type": "Radar",
-            "description": "EXETER Radar",
-            "frequency_mhz": "123.57"
-        },
-        {
-            "id": "58114",
-            "airport_ref": "2481",
-            "airport_ident": "EGTE",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "119.8"
-        }
-    ],
     "country": {
         "id": "302688",
         "code": "GB",

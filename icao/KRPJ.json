@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "68256",
-            "airport_ref": "20955",
-            "airport_ident": "KRPJ",
-            "type": "A/D",
-            "description": "ROCKFORD APP/DEP",
-            "frequency_mhz": "126"
-        },
-        {
-            "id": "68257",
-            "airport_ref": "20955",
-            "airport_ident": "KRPJ",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "119.675"
-        },
-        {
-            "id": "68258",
-            "airport_ref": "20955",
-            "airport_ident": "KRPJ",
-            "type": "FSS",
-            "description": "KANKAKEE RDO",
-            "frequency_mhz": "122.1"
-        },
-        {
-            "id": "68259",
-            "airport_ref": "20955",
-            "airport_ident": "KRPJ",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

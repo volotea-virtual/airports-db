@@ -107,56 +107,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "56849",
-            "airport_ref": "6462",
-            "airport_ident": "UHWW",
-            "type": "ATIS",
-            "description": "VLADIVOSTOK ATIS",
-            "frequency_mhz": "127.8"
-        },
-        {
-            "id": "56850",
-            "airport_ref": "6462",
-            "airport_ident": "UHWW",
-            "type": "GND",
-            "description": "TAXIING",
-            "frequency_mhz": "121.7"
-        },
-        {
-            "id": "56851",
-            "airport_ref": "6462",
-            "airport_ident": "UHWW",
-            "type": "PMSV",
-            "description": "VLADIVOSTOK VOLMET",
-            "frequency_mhz": "126.4"
-        },
-        {
-            "id": "315118",
-            "airport_ref": "6462",
-            "airport_ident": "UHWW",
-            "type": "Reserve",
-            "description": "for all ATC units",
-            "frequency_mhz": "124"
-        },
-        {
-            "id": "56853",
-            "airport_ref": "6462",
-            "airport_ident": "UHWW",
-            "type": "Service",
-            "description": "Start-up; Towing",
-            "frequency_mhz": "118.3"
-        },
-        {
-            "id": "56852",
-            "airport_ref": "6462",
-            "airport_ident": "UHWW",
-            "type": "TWR",
-            "description": "",
-            "frequency_mhz": "126"
-        }
-    ],
     "country": {
         "id": "302714",
         "code": "RU",

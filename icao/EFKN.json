@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "310771",
-            "airport_ref": "27255",
-            "airport_ident": "EFKN",
-            "type": "ACC",
-            "description": "Tampere radar",
-            "frequency_mhz": "127.1"
-        },
-        {
-            "id": "310770",
-            "airport_ref": "27255",
-            "airport_ident": "EFKN",
-            "type": "RDO",
-            "description": "Kannus traffic",
-            "frequency_mhz": "123.45"
-        }
-    ],
     "country": {
         "id": "302685",
         "code": "FI",

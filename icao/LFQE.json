@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "52445",
-            "airport_ref": "4195",
-            "airport_ident": "LFQE",
-            "type": "APP",
-            "description": "ETAIN APP",
-            "frequency_mhz": "120.125"
-        },
-        {
-            "id": "52446",
-            "airport_ref": "4195",
-            "airport_ident": "LFQE",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "138.1"
-        },
-        {
-            "id": "52447",
-            "airport_ref": "4195",
-            "airport_ident": "LFQE",
-            "type": "TWR",
-            "description": "ETAIN TWR",
-            "frequency_mhz": "142.7"
-        }
-    ],
     "country": {
         "id": "302687",
         "code": "FR",

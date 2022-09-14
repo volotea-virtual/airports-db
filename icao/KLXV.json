@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "60997",
-            "airport_ref": "20398",
-            "airport_ident": "KLXV",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "118.375"
-        },
-        {
-            "id": "60998",
-            "airport_ref": "20398",
-            "airport_ident": "KLXV",
-            "type": "CNTR",
-            "description": "DENVER CNTR",
-            "frequency_mhz": "119.85"
-        },
-        {
-            "id": "60999",
-            "airport_ref": "20398",
-            "airport_ident": "KLXV",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

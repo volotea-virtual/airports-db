@@ -63,56 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "299457",
-            "airport_ref": "28118",
-            "airport_ident": "VTBS",
-            "type": "ATIS",
-            "description": "",
-            "frequency_mhz": "127.8"
-        },
-        {
-            "id": "299460",
-            "airport_ref": "28118",
-            "airport_ident": "VTBS",
-            "type": "GROUND (EAST)",
-            "description": "",
-            "frequency_mhz": "121.65"
-        },
-        {
-            "id": "299461",
-            "airport_ref": "28118",
-            "airport_ident": "VTBS",
-            "type": "GROUND (MAIN)",
-            "description": "",
-            "frequency_mhz": "121.75"
-        },
-        {
-            "id": "299462",
-            "airport_ref": "28118",
-            "airport_ident": "VTBS",
-            "type": "GROUND (WEST)",
-            "description": "",
-            "frequency_mhz": "121.95"
-        },
-        {
-            "id": "299459",
-            "airport_ref": "28118",
-            "airport_ident": "VTBS",
-            "type": "TOWER (01L/19R)",
-            "description": "",
-            "frequency_mhz": "119"
-        },
-        {
-            "id": "299458",
-            "airport_ref": "28118",
-            "airport_ident": "VTBS",
-            "type": "TOWER (01R/19L)",
-            "description": "",
-            "frequency_mhz": "118.2"
-        }
-    ],
     "country": {
         "id": "302663",
         "code": "TH",

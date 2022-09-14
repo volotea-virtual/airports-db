@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": "524"
         }
     ],
-    "freqs": [
-        {
-            "id": "57994",
-            "airport_ref": "4545",
-            "airport_ident": "LTBV",
-            "type": "TWR",
-            "description": "BODRUM TWR",
-            "frequency_mhz": "126"
-        }
-    ],
     "country": {
         "id": "302667",
         "code": "TR",

@@ -41,48 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "49957",
-            "airport_ref": "1895",
-            "airport_ident": "CYRT",
-            "type": "MF",
-            "description": "Rankin Radio, 5nm below 3100ASL",
-            "frequency_mhz": "122.2"
-        },
-        {
-            "id": "311310",
-            "airport_ref": "1895",
-            "airport_ident": "CYRT",
-            "type": "PAL",
-            "description": "Edmonton Control",
-            "frequency_mhz": "134"
-        },
-        {
-            "id": "49959",
-            "airport_ref": "1895",
-            "airport_ident": "CYRT",
-            "type": "RCO",
-            "description": "Artic Radio (FISE)",
-            "frequency_mhz": "123.55"
-        },
-        {
-            "id": "49960",
-            "airport_ref": "1895",
-            "airport_ident": "CYRT",
-            "type": "RDO",
-            "description": "Rankin Radio",
-            "frequency_mhz": "122.2"
-        },
-        {
-            "id": "49958",
-            "airport_ref": "1895",
-            "airport_ident": "CYRT",
-            "type": "VDF",
-            "description": "VHF Direction Finding",
-            "frequency_mhz": "122.2"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

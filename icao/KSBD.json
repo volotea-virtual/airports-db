@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "63894",
-            "airport_ref": "3867",
-            "airport_ident": "KSBD",
-            "type": "A/D",
-            "description": "SOCAL APP/DEP",
-            "frequency_mhz": "119.65"
-        },
-        {
-            "id": "63895",
-            "airport_ref": "3867",
-            "airport_ident": "KSBD",
-            "type": "MISC",
-            "description": "TANKER BASE",
-            "frequency_mhz": "123.975"
-        },
-        {
-            "id": "63896",
-            "airport_ref": "3867",
-            "airport_ident": "KSBD",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.975"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

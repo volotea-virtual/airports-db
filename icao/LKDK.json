@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "333128",
-            "airport_ref": "29836",
-            "airport_ident": "LKDK",
-            "type": "RADIO",
-            "description": "",
-            "frequency_mhz": "119.61"
-        }
-    ],
     "country": {
         "id": "302680",
         "code": "CZ",

@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "57940",
-            "airport_ref": "4523",
-            "airport_ident": "LTAU",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "122.1"
-        },
-        {
-            "id": "57941",
-            "airport_ref": "4523",
-            "airport_ident": "LTAU",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.95"
-        },
-        {
-            "id": "57942",
-            "airport_ref": "4523",
-            "airport_ident": "LTAU",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "122.1"
-        }
-    ],
     "country": {
         "id": "302667",
         "code": "TR",

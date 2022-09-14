@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "49596",
-            "airport_ref": "5917",
-            "airport_ident": "SBIL",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "120.1"
-        }
-    ],
     "country": {
         "id": "302791",
         "code": "BR",

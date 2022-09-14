@@ -85,16 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "75419",
-            "airport_ref": "1346",
-            "airport_ident": "CNT7",
-            "type": "CTAF",
-            "description": "Picton Traffic",
-            "frequency_mhz": "123.2"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

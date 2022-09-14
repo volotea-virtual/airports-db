@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": "850"
         }
     ],
-    "freqs": [
-        {
-            "id": "314887",
-            "airport_ref": "18393",
-            "airport_ident": "K0S9",
-            "type": "AWOS-3P",
-            "description": "Phone: 360-379-1199",
-            "frequency_mhz": "119.025"
-        },
-        {
-            "id": "71485",
-            "airport_ref": "18393",
-            "airport_ident": "K0S9",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

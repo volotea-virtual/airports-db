@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "53379",
-            "airport_ref": "4248",
-            "airport_ident": "LGAD",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "120.65"
-        },
-        {
-            "id": "53380",
-            "airport_ref": "4248",
-            "airport_ident": "LGAD",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "120.65"
-        }
-    ],
     "country": {
         "id": "302691",
         "code": "GR",

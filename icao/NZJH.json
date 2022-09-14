@@ -17,16 +17,6 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
-    "freqs": [
-        {
-            "id": "317754",
-            "airport_ref": "308785",
-            "airport_ident": "NZJH",
-            "type": "CTAF (CFZ)",
-            "description": "Hastings Traffic",
-            "frequency_mhz": "125.8"
-        }
-    ],
     "country": {
         "id": "302776",
         "code": "NZ",

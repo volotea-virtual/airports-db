@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "56344",
-            "airport_ref": "60",
-            "airport_ident": "AYKM",
-            "type": "FSS",
-            "description": "MORESBY",
-            "frequency_mhz": "120.9"
-        }
-    ],
     "country": {
         "id": "302778",
         "code": "PG",

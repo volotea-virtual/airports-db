@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "66901",
-            "airport_ref": "24758",
-            "airport_ident": "TA50",
-            "type": "MISC",
-            "description": "RWY AND ROT BCN LGT",
-            "frequency_mhz": "122.9"
-        },
-        {
-            "id": "66902",
-            "airport_ref": "24758",
-            "airport_ident": "TA50",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

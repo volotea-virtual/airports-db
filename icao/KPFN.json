@@ -63,64 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "60123",
-            "airport_ref": "3769",
-            "airport_ident": "KPFN",
-            "type": "A/D",
-            "description": "TYNDALL APP/DEP",
-            "frequency_mhz": "119.75"
-        },
-        {
-            "id": "60124",
-            "airport_ref": "3769",
-            "airport_ident": "KPFN",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "119.975"
-        },
-        {
-            "id": "60125",
-            "airport_ref": "3769",
-            "airport_ident": "KPFN",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "120.5"
-        },
-        {
-            "id": "60126",
-            "airport_ref": "3769",
-            "airport_ident": "KPFN",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.65"
-        },
-        {
-            "id": "60127",
-            "airport_ref": "3769",
-            "airport_ident": "KPFN",
-            "type": "RDO",
-            "description": "GAINESVILLE RDO",
-            "frequency_mhz": "114.3"
-        },
-        {
-            "id": "60128",
-            "airport_ref": "3769",
-            "airport_ident": "KPFN",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "120.5"
-        },
-        {
-            "id": "60129",
-            "airport_ref": "3769",
-            "airport_ident": "KPFN",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.95"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

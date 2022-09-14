@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "66635",
-            "airport_ref": "20799",
-            "airport_ident": "KP20",
-            "type": "CNTR",
-            "description": "LOS ANGELES CNTR",
-            "frequency_mhz": "128.15"
-        },
-        {
-            "id": "66636",
-            "airport_ref": "20799",
-            "airport_ident": "KP20",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.725"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -3,20 +3,20 @@
     "ident": "TH-0001",
     "type": "small_airport",
     "name": "Eastern Flying Club Airport",
-    "latitude_deg": "12.901714",
-    "longitude_deg": "100.932856",
+    "latitude_deg": "12.902439",
+    "longitude_deg": "100.933227",
     "elevation_ft": "160",
     "continent": "AS",
     "iso_country": "TH",
     "iso_region": "TH-20",
-    "municipality": "Bang Lamung",
+    "municipality": "Pattaya (Bang Lamung)",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
     "local_code": "EFC",
     "home_link": "http://www.thaiflyingclub.com/linkairporteastern.html",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Jims",
     "runways": [
         {
             "id": "354567",
@@ -39,24 +39,6 @@
             "he_elevation_ft": "",
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
-        }
-    ],
-    "freqs": [
-        {
-            "id": "354566",
-            "airport_ref": "302324",
-            "airport_ident": "TH-0001",
-            "type": "CTAF",
-            "description": "",
-            "frequency_mhz": "122.3"
-        },
-        {
-            "id": "354569",
-            "airport_ref": "302324",
-            "airport_ident": "TH-0001",
-            "type": "UTAPAO Approach",
-            "description": "",
-            "frequency_mhz": "119.7"
         }
     ],
     "country": {

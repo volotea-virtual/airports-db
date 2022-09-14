@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "53902",
-            "airport_ref": "26612",
-            "airport_ident": "VOCX",
-            "type": "A/G",
-            "description": "RDO",
-            "frequency_mhz": "669.6"
-        },
-        {
-            "id": "53903",
-            "airport_ref": "26612",
-            "airport_ident": "VOCX",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "122.5"
-        },
-        {
-            "id": "53904",
-            "airport_ref": "26612",
-            "airport_ident": "VOCX",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "122.5"
-        }
-    ],
     "country": {
         "id": "302634",
         "code": "IN",

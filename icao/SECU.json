@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51820",
-            "airport_ref": "6054",
-            "airport_ident": "SECU",
-            "type": "APP",
-            "description": "APP/TWR",
-            "frequency_mhz": "122.3"
-        },
-        {
-            "id": "51821",
-            "airport_ref": "6054",
-            "airport_ident": "SECU",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "51822",
-            "airport_ref": "6054",
-            "airport_ident": "SECU",
-            "type": "RDO",
-            "description": "CUENCA RDO",
-            "frequency_mhz": "126.9"
-        }
-    ],
     "country": {
         "id": "302794",
         "code": "EC",

@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "56844",
-            "airport_ref": "6504",
-            "airport_ident": "UNBB",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "120.3"
-        },
-        {
-            "id": "56845",
-            "airport_ref": "6504",
-            "airport_ident": "UNBB",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "123.5"
-        }
-    ],
     "country": {
         "id": "302714",
         "code": "RU",

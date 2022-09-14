@@ -85,64 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "62796",
-            "airport_ref": "3570",
-            "airport_ident": "KGTB",
-            "type": "A/D",
-            "description": "APP/DEP",
-            "frequency_mhz": "128.25"
-        },
-        {
-            "id": "62797",
-            "airport_ref": "3570",
-            "airport_ident": "KGTB",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "126.55"
-        },
-        {
-            "id": "62798",
-            "airport_ref": "3570",
-            "airport_ident": "KGTB",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "62799",
-            "airport_ref": "3570",
-            "airport_ident": "KGTB",
-            "type": "MISC",
-            "description": "FORT DRUM FLT FLW",
-            "frequency_mhz": "141.025"
-        },
-        {
-            "id": "62800",
-            "airport_ref": "3570",
-            "airport_ident": "KGTB",
-            "type": "OPS",
-            "description": "BASE OPS",
-            "frequency_mhz": "120.8"
-        },
-        {
-            "id": "62801",
-            "airport_ref": "3570",
-            "airport_ident": "KGTB",
-            "type": "PMSV",
-            "description": "PMSV SACK METRO",
-            "frequency_mhz": "63.3"
-        },
-        {
-            "id": "62802",
-            "airport_ref": "3570",
-            "airport_ident": "KGTB",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.75"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

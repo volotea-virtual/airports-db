@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "52499",
-            "airport_ref": "4237",
-            "airport_ident": "LFSR",
-            "type": "AFIS",
-            "description": "AFIS",
-            "frequency_mhz": "118.275"
-        },
-        {
-            "id": "52500",
-            "airport_ref": "4237",
-            "airport_ident": "LFSR",
-            "type": "APP",
-            "description": "REIMS APP",
-            "frequency_mhz": "119.8"
-        },
-        {
-            "id": "52501",
-            "airport_ref": "4237",
-            "airport_ident": "LFSR",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "122.1"
-        },
-        {
-            "id": "52502",
-            "airport_ref": "4237",
-            "airport_ident": "LFSR",
-            "type": "TWR",
-            "description": "REIMS TWR",
-            "frequency_mhz": "118.275"
-        }
-    ],
     "country": {
         "id": "302687",
         "code": "FR",

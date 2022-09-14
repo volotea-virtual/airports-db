@@ -85,64 +85,6 @@
             "he_displaced_threshold_ft": "298"
         }
     ],
-    "freqs": [
-        {
-            "id": "60914",
-            "airport_ref": "3521",
-            "airport_ident": "KEWR",
-            "type": "APP",
-            "description": "NEW YORK APP",
-            "frequency_mhz": "127.6"
-        },
-        {
-            "id": "60915",
-            "airport_ref": "3521",
-            "airport_ident": "KEWR",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "115.7"
-        },
-        {
-            "id": "60916",
-            "airport_ref": "3521",
-            "airport_ident": "KEWR",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "118.85"
-        },
-        {
-            "id": "60917",
-            "airport_ref": "3521",
-            "airport_ident": "KEWR",
-            "type": "DEP",
-            "description": "NEW YORK DEP",
-            "frequency_mhz": "119.2"
-        },
-        {
-            "id": "60918",
-            "airport_ref": "3521",
-            "airport_ident": "KEWR",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.8"
-        },
-        {
-            "id": "60919",
-            "airport_ref": "3521",
-            "airport_ident": "KEWR",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.3"
-        },
-        {
-            "id": "60920",
-            "airport_ref": "3521",
-            "airport_ident": "KEWR",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.95"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

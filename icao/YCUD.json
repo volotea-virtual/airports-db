@@ -17,16 +17,6 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
-    "freqs": [
-        {
-            "id": "72652",
-            "airport_ref": "38308",
-            "airport_ident": "YCUD",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "119.5"
-        }
-    ],
     "country": {
         "id": "302764",
         "code": "AU",

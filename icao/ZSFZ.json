@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51168",
-            "airport_ref": "27217",
-            "airport_ident": "ZSFZ",
-            "type": "APP",
-            "description": "FUZHOU APP",
-            "frequency_mhz": "119.45"
-        },
-        {
-            "id": "51169",
-            "airport_ref": "27217",
-            "airport_ident": "ZSFZ",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "126.4"
-        },
-        {
-            "id": "51170",
-            "airport_ref": "27217",
-            "airport_ident": "ZSFZ",
-            "type": "GND",
-            "description": "FUZHOU GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "51171",
-            "airport_ref": "27217",
-            "airport_ident": "ZSFZ",
-            "type": "TWR",
-            "description": "FUZHOU TWR",
-            "frequency_mhz": "118.45"
-        }
-    ],
     "country": {
         "id": "302627",
         "code": "CN",

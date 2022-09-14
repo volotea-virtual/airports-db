@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51486",
-            "airport_ref": "6152",
-            "airport_ident": "SKPQ",
-            "type": "ACC",
-            "description": "ACC",
-            "frequency_mhz": "127.9"
-        },
-        {
-            "id": "51488",
-            "airport_ref": "6152",
-            "airport_ident": "SKPQ",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.6"
-        },
-        {
-            "id": "51489",
-            "airport_ref": "6152",
-            "airport_ident": "SKPQ",
-            "type": "TWR/APP",
-            "description": "TWR/APP",
-            "frequency_mhz": "126.3"
-        }
-    ],
     "country": {
         "id": "302793",
         "code": "CO",

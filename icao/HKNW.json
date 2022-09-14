@@ -63,16 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "54843",
-            "airport_ref": "3215",
-            "airport_ident": "HKNW",
-            "type": "TWR",
-            "description": "WILSON TWR",
-            "frequency_mhz": "118.1"
-        }
-    ],
     "country": {
         "id": "302579",
         "code": "KE",

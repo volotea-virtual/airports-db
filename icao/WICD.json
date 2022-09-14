@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "53692",
-            "airport_ref": "26825",
-            "airport_ident": "WICD",
-            "type": "A/G",
-            "description": "RDO",
-            "frequency_mhz": "122.1"
-        }
-    ],
     "country": {
         "id": "302632",
         "code": "ID",

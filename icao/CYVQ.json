@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "50637",
-            "airport_ref": "1940",
-            "airport_ident": "CYVQ",
-            "type": "A/D",
-            "description": "EDMONTON CNTR",
-            "frequency_mhz": "134.825"
-        },
-        {
-            "id": "50638",
-            "airport_ref": "1940",
-            "airport_ident": "CYVQ",
-            "type": "A/G",
-            "description": "MF",
-            "frequency_mhz": "122.2"
-        },
-        {
-            "id": "50639",
-            "airport_ref": "1940",
-            "airport_ident": "CYVQ",
-            "type": "FSS",
-            "description": "NORMAN WELLS RDO",
-            "frequency_mhz": "122.2"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

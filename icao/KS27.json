@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "59272",
-            "airport_ref": "20998",
-            "airport_ident": "KS27",
-            "type": "RDO",
-            "description": "GREAT FALLS RDO",
-            "frequency_mhz": "122.5"
-        },
-        {
-            "id": "59273",
-            "airport_ref": "20998",
-            "airport_ident": "KS27",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "56907",
-            "airport_ref": "5107",
-            "airport_ident": "OEPJ",
-            "type": "A/G",
-            "description": "DISPATCH",
-            "frequency_mhz": "138.25"
-        },
-        {
-            "id": "56908",
-            "airport_ref": "5107",
-            "airport_ident": "OEPJ",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302660",
         "code": "SA",

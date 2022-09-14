@@ -41,48 +41,6 @@
             "he_displaced_threshold_ft": "400"
         }
     ],
-    "freqs": [
-        {
-            "id": "51375",
-            "airport_ref": "4862",
-            "airport_ident": "MWCR",
-            "type": "A/D",
-            "description": "GRAND CAYMAN APP",
-            "frequency_mhz": "120.2"
-        },
-        {
-            "id": "51376",
-            "airport_ref": "4862",
-            "airport_ident": "MWCR",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "132.35"
-        },
-        {
-            "id": "51377",
-            "airport_ref": "4862",
-            "airport_ident": "MWCR",
-            "type": "CNTR",
-            "description": "KINGSTON CON",
-            "frequency_mhz": "128.1"
-        },
-        {
-            "id": "51378",
-            "airport_ref": "4862",
-            "airport_ident": "MWCR",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "51379",
-            "airport_ref": "4862",
-            "airport_ident": "MWCR",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118"
-        }
-    ],
     "country": {
         "id": "302743",
         "code": "KY",

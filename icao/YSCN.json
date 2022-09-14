@@ -63,48 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "48824",
-            "airport_ref": "27133",
-            "airport_ident": "YSCN",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "125.1"
-        },
-        {
-            "id": "48825",
-            "airport_ref": "27133",
-            "airport_ident": "YSCN",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "120.1"
-        },
-        {
-            "id": "48826",
-            "airport_ref": "27133",
-            "airport_ident": "YSCN",
-            "type": "FSS",
-            "description": "SYDNEY RADAR",
-            "frequency_mhz": "124.55"
-        },
-        {
-            "id": "48827",
-            "airport_ref": "27133",
-            "airport_ident": "YSCN",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "48828",
-            "airport_ref": "27133",
-            "airport_ident": "YSCN",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "120.1"
-        }
-    ],
     "country": {
         "id": "302764",
         "code": "AU",

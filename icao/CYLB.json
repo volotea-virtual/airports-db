@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "50016",
-            "airport_ref": "1797",
-            "airport_ident": "CYLB",
-            "type": "ATF",
-            "description": "ATF",
-            "frequency_mhz": "123.2"
-        },
-        {
-            "id": "50015",
-            "airport_ref": "1797",
-            "airport_ident": "CYLB",
-            "type": "CNTR",
-            "description": "EDMONTON CNTR",
-            "frequency_mhz": "134.7"
-        },
-        {
-            "id": "50017",
-            "airport_ref": "1797",
-            "airport_ident": "CYLB",
-            "type": "RCO",
-            "description": "EDMONTON RDO",
-            "frequency_mhz": "126.7"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

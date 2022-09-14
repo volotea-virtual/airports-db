@@ -63,56 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "329618",
-            "airport_ref": "26787",
-            "airport_ident": "WARJ",
-            "type": "APP",
-            "description": "Secondary",
-            "frequency_mhz": "120.2"
-        },
-        {
-            "id": "53693",
-            "airport_ref": "26787",
-            "airport_ident": "WARJ",
-            "type": "APP",
-            "description": "YOGYA DIRECTOR",
-            "frequency_mhz": "123.4"
-        },
-        {
-            "id": "53694",
-            "airport_ref": "26787",
-            "airport_ident": "WARJ",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "128.5"
-        },
-        {
-            "id": "53695",
-            "airport_ref": "26787",
-            "airport_ident": "WARJ",
-            "type": "GND",
-            "description": "ADI GND",
-            "frequency_mhz": "118.5"
-        },
-        {
-            "id": "329619",
-            "airport_ref": "26787",
-            "airport_ident": "WARJ",
-            "type": "TWR",
-            "description": "Secondary",
-            "frequency_mhz": "118.1"
-        },
-        {
-            "id": "53696",
-            "airport_ref": "26787",
-            "airport_ident": "WARJ",
-            "type": "TWR",
-            "description": "ADI TWR",
-            "frequency_mhz": "122.4"
-        }
-    ],
     "country": {
         "id": "302632",
         "code": "ID",

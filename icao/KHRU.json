@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "63833",
-            "airport_ref": "20082",
-            "airport_ident": "KHRU",
-            "type": "A/D",
-            "description": "KANSAS CITY CNTR",
-            "frequency_mhz": "127.35"
-        },
-        {
-            "id": "63834",
-            "airport_ref": "20082",
-            "airport_ident": "KHRU",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.9"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

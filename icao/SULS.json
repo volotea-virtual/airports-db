@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "71605",
-            "airport_ref": "6246",
-            "airport_ident": "SULS",
-            "type": "A/G",
-            "description": "A/G",
-            "frequency_mhz": "122.1"
-        },
-        {
-            "id": "71606",
-            "airport_ref": "6246",
-            "airport_ident": "SULS",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "117.6"
-        },
-        {
-            "id": "71607",
-            "airport_ref": "6246",
-            "airport_ident": "SULS",
-            "type": "RDO",
-            "description": "RDO",
-            "frequency_mhz": "45.662"
-        },
-        {
-            "id": "71608",
-            "airport_ref": "6246",
-            "airport_ident": "SULS",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.3"
-        }
-    ],
     "country": {
         "id": "302801",
         "code": "UY",

@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "48422",
-            "airport_ref": "5848",
-            "airport_ident": "SAZN",
-            "type": "TWR",
-            "description": "NEUQUEN TWR/APP",
-            "frequency_mhz": "119.3"
-        }
-    ],
     "country": {
         "id": "302789",
         "code": "AR",

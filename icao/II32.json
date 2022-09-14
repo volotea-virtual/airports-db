@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "63785",
-            "airport_ref": "17916",
-            "airport_ident": "II32",
-            "type": "FSS",
-            "description": "TERRE HAUTE RDO",
-            "frequency_mhz": "122.2"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "57472",
-            "airport_ref": "2644",
-            "airport_ident": "ESCK",
-            "type": "AFIS",
-            "description": "INFO",
-            "frequency_mhz": "130.3"
-        },
-        {
-            "id": "57473",
-            "airport_ref": "2644",
-            "airport_ident": "ESCK",
-            "type": "APP",
-            "description": "OSTGOTA APP",
-            "frequency_mhz": "132.95"
-        }
-    ],
     "country": {
         "id": "302715",
         "code": "SE",

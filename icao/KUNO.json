@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "71469",
-            "airport_ref": "21298",
-            "airport_ident": "KUNO",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "123.825"
-        },
-        {
-            "id": "71470",
-            "airport_ref": "21298",
-            "airport_ident": "KUNO",
-            "type": "CNTR",
-            "description": "MEMPHIS CNTR",
-            "frequency_mhz": "120.075"
-        },
-        {
-            "id": "71471",
-            "airport_ref": "21298",
-            "airport_ident": "KUNO",
-            "type": "RDO",
-            "description": "COLUMBIA RDO",
-            "frequency_mhz": "122.15"
-        },
-        {
-            "id": "71472",
-            "airport_ref": "21298",
-            "airport_ident": "KUNO",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

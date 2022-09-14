@@ -3,8 +3,8 @@
     "ident": "YCUE",
     "type": "small_airport",
     "name": "Cue Airport",
-    "latitude_deg": "-27.446699142456055",
-    "longitude_deg": "117.91799926757812",
+    "latitude_deg": "-27.4508",
+    "longitude_deg": "117.917515",
     "elevation_ft": "442",
     "continent": "OC",
     "iso_country": "AU",
@@ -15,7 +15,7 @@
     "iata_code": "CUY",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cue_Airport",
     "keywords": "",
     "runways": [
         {
@@ -61,24 +61,6 @@
             "he_elevation_ft": "1445",
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
-        }
-    ],
-    "freqs": [
-        {
-            "id": "72653",
-            "airport_ref": "27492",
-            "airport_ident": "YCUE",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "126.7"
-        },
-        {
-            "id": "72654",
-            "airport_ref": "27492",
-            "airport_ident": "YCUE",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "122.6"
         }
     ],
     "country": {

@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "332197",
-            "airport_ref": "298716",
-            "airport_ident": "LICB",
-            "type": "ILS",
-            "description": "ILS pista 09",
-            "frequency_mhz": "108.9"
-        }
-    ],
     "country": {
         "id": "302697",
         "code": "IT",

@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "49675",
-            "airport_ref": "5950",
-            "airport_ident": "SBOI",
-            "type": "AFIS",
-            "description": "RDO",
-            "frequency_mhz": "125.9"
-        }
-    ],
     "country": {
         "id": "302791",
         "code": "BR",

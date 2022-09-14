@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "62071",
-            "airport_ref": "21205",
-            "airport_ident": "KTNP",
-            "type": "CNTR",
-            "description": "LOS ANGELES CNTR",
-            "frequency_mhz": "128.15"
-        },
-        {
-            "id": "62072",
-            "airport_ref": "21205",
-            "airport_ident": "KTNP",
-            "type": "RDO",
-            "description": "RIVERSIDE RDO",
-            "frequency_mhz": "114.2"
-        },
-        {
-            "id": "62073",
-            "airport_ref": "21205",
-            "airport_ident": "KTNP",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

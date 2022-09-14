@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "71698",
-            "airport_ref": "6325",
-            "airport_ident": "SVSO",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "71699",
-            "airport_ref": "6325",
-            "airport_ident": "SVSO",
-            "type": "RDO",
-            "description": "SANTO DOMINGO RDO",
-            "frequency_mhz": "22.66"
-        },
-        {
-            "id": "71700",
-            "airport_ref": "6325",
-            "airport_ident": "SVSO",
-            "type": "TWR",
-            "description": "VIVAS TWR",
-            "frequency_mhz": "123.3"
-        }
-    ],
     "country": {
         "id": "302802",
         "code": "VE",

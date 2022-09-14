@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "65019",
-            "airport_ref": "19649",
-            "airport_ident": "KDPG",
-            "type": "ACC",
-            "description": "CLOVER CON SOUTH",
-            "frequency_mhz": "134.1"
-        },
-        {
-            "id": "65020",
-            "airport_ref": "19649",
-            "airport_ident": "KDPG",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "126.2"
-        },
-        {
-            "id": "65021",
-            "airport_ref": "19649",
-            "airport_ident": "KDPG",
-            "type": "EMR",
-            "description": "FIRE STATION",
-            "frequency_mhz": "126.2"
-        },
-        {
-            "id": "65022",
-            "airport_ref": "19649",
-            "airport_ident": "KDPG",
-            "type": "INFO",
-            "description": "DUGWAY RANGE CON",
-            "frequency_mhz": "36.1"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

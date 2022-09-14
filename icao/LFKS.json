@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "52462",
-            "airport_ref": "4128",
-            "airport_ident": "LFKS",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "33.9"
-        },
-        {
-            "id": "52461",
-            "airport_ref": "4128",
-            "airport_ident": "LFKS",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "119.9"
-        },
-        {
-            "id": "52463",
-            "airport_ref": "4128",
-            "airport_ident": "LFKS",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.35"
-        }
-    ],
     "country": {
         "id": "302687",
         "code": "FR",

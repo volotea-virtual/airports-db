@@ -85,64 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "52343",
-            "airport_ref": "4183",
-            "airport_ident": "LFPB",
-            "type": "APP",
-            "description": "DE GAULLE APP",
-            "frequency_mhz": "121.15"
-        },
-        {
-            "id": "52344",
-            "airport_ref": "4183",
-            "airport_ident": "LFPB",
-            "type": "APP",
-            "description": "DE GAULLE APP",
-            "frequency_mhz": "136.275"
-        },
-        {
-            "id": "52345",
-            "airport_ref": "4183",
-            "airport_ident": "LFPB",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "120"
-        },
-        {
-            "id": "52346",
-            "airport_ref": "4183",
-            "airport_ident": "LFPB",
-            "type": "DEP",
-            "description": "DE GAULLE DEP",
-            "frequency_mhz": "124.35"
-        },
-        {
-            "id": "52347",
-            "airport_ref": "4183",
-            "airport_ident": "LFPB",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "52348",
-            "airport_ref": "4183",
-            "airport_ident": "LFPB",
-            "type": "PFLT",
-            "description": "PREFLIGHT",
-            "frequency_mhz": "121.95"
-        },
-        {
-            "id": "52349",
-            "airport_ref": "4183",
-            "airport_ident": "LFPB",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.925"
-        }
-    ],
     "country": {
         "id": "302687",
         "code": "FR",

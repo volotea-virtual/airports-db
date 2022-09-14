@@ -85,40 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "68467",
-            "airport_ref": "19858",
-            "airport_ident": "KFEP",
-            "type": "A/D",
-            "description": "ROCKFORD APP/DEP",
-            "frequency_mhz": "126"
-        },
-        {
-            "id": "68468",
-            "airport_ref": "19858",
-            "airport_ident": "KFEP",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "119.025"
-        },
-        {
-            "id": "68469",
-            "airport_ref": "19858",
-            "airport_ident": "KFEP",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "121.85"
-        },
-        {
-            "id": "68470",
-            "airport_ref": "19858",
-            "airport_ident": "KFEP",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": "897"
         }
     ],
-    "freqs": [
-        {
-            "id": "55803",
-            "airport_ref": "2584",
-            "airport_ident": "ENLI",
-            "type": "CTAF",
-            "description": "Lista Traffic",
-            "frequency_mhz": "126.45"
-        }
-    ],
     "country": {
         "id": "302709",
         "code": "NO",

@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "59634",
-            "airport_ref": "20789",
-            "airport_ident": "KOZA",
-            "type": "CNTR",
-            "description": "HOUSTON CNTR",
-            "frequency_mhz": "125.75"
-        },
-        {
-            "id": "59635",
-            "airport_ref": "20789",
-            "airport_ident": "KOZA",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

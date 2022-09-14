@@ -9,7 +9,7 @@
     "continent": "EU",
     "iso_country": "ES",
     "iso_region": "ES-PM",
-    "municipality": "Ibiza",
+    "municipality": "Ibiza (Eivissa)",
     "scheduled_service": "yes",
     "gps_code": "LEIB",
     "iata_code": "IBZ",
@@ -39,48 +39,6 @@
             "he_elevation_ft": "16",
             "he_heading_degT": "242.1",
             "he_displaced_threshold_ft": ""
-        }
-    ],
-    "freqs": [
-        {
-            "id": "57351",
-            "airport_ref": "4013",
-            "airport_ident": "LEIB",
-            "type": "APP",
-            "description": "PALMA APP",
-            "frequency_mhz": "118.125"
-        },
-        {
-            "id": "57352",
-            "airport_ref": "4013",
-            "airport_ident": "LEIB",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "119.8"
-        },
-        {
-            "id": "57353",
-            "airport_ref": "4013",
-            "airport_ident": "LEIB",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "117.8"
-        },
-        {
-            "id": "57354",
-            "airport_ref": "4013",
-            "airport_ident": "LEIB",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.8"
-        },
-        {
-            "id": "57355",
-            "airport_ref": "4013",
-            "airport_ident": "LEIB",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.5"
         }
     ],
     "country": {

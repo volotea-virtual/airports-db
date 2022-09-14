@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "50089",
-            "airport_ref": "2028",
-            "airport_ident": "CZML",
-            "type": "A/D",
-            "description": "VANCOUVER CNTR",
-            "frequency_mhz": "134"
-        },
-        {
-            "id": "50090",
-            "airport_ref": "2028",
-            "airport_ident": "CZML",
-            "type": "ATF",
-            "description": "ATF",
-            "frequency_mhz": "123.2"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

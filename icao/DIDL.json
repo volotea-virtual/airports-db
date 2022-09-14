@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "323287",
-            "airport_ref": "2098",
-            "airport_ident": "DIDL",
-            "type": "AFIS",
-            "description": "",
-            "frequency_mhz": "118.7"
-        },
-        {
-            "id": "54359",
-            "airport_ref": "2098",
-            "airport_ident": "DIDL",
-            "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "118.2"
-        }
-    ],
     "country": {
         "id": "302564",
         "code": "CI",

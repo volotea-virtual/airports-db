@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "58267",
-            "airport_ref": "3073",
-            "airport_ident": "EGOQ",
-            "type": "APP",
-            "description": "VALLEY APP",
-            "frequency_mhz": "122.225"
-        },
-        {
-            "id": "58268",
-            "airport_ref": "3073",
-            "airport_ident": "EGOQ",
-            "type": "RDO",
-            "description": "RDO",
-            "frequency_mhz": "118.95"
-        },
-        {
-            "id": "58269",
-            "airport_ref": "3073",
-            "airport_ident": "EGOQ",
-            "type": "RDR",
-            "description": "RDR",
-            "frequency_mhz": "125.225"
-        },
-        {
-            "id": "58270",
-            "airport_ref": "3073",
-            "airport_ident": "EGOQ",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "119.75"
-        }
-    ],
     "country": {
         "id": "302688",
         "code": "GB",

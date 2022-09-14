@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55141",
-            "airport_ref": "6438",
-            "airport_ident": "UATT",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "120.9"
-        },
-        {
-            "id": "55142",
-            "airport_ref": "6438",
-            "airport_ident": "UATT",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "120.9"
-        }
-    ],
     "country": {
         "id": "302645",
         "code": "KZ",

@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": "1007"
         }
     ],
-    "freqs": [
-        {
-            "id": "57368",
-            "airport_ref": "6388",
-            "airport_ident": "TLPC",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "57369",
-            "airport_ref": "6388",
-            "airport_ident": "TLPC",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118"
-        }
-    ],
     "country": {
         "id": "302744",
         "code": "LC",

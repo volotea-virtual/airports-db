@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "53617",
-            "airport_ref": "26794",
-            "airport_ident": "WASR",
-            "type": "AFIS",
-            "description": "INFO",
-            "frequency_mhz": "122.2"
-        }
-    ],
     "country": {
         "id": "302632",
         "code": "ID",

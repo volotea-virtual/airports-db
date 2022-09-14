@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "311288",
-            "airport_ref": "41471",
-            "airport_ident": "WITA",
-            "type": "FIS",
-            "description": "",
-            "frequency_mhz": "112.8"
-        }
-    ],
     "country": {
         "id": "302632",
         "code": "ID",

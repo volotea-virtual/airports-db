@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "75303",
-            "airport_ref": "35371",
-            "airport_ident": "OAAK",
-            "type": "ACC",
-            "description": "Khabul Centre",
-            "frequency_mhz": "118.3"
-        },
-        {
-            "id": "75304",
-            "airport_ref": "35371",
-            "airport_ident": "OAAK",
-            "type": "ACC",
-            "description": "Khabul Centre",
-            "frequency_mhz": "120.9"
-        },
-        {
-            "id": "75305",
-            "airport_ref": "35371",
-            "airport_ident": "OAAK",
-            "type": "ATF",
-            "description": "",
-            "frequency_mhz": "125.2"
-        }
-    ],
     "country": {
         "id": "302619",
         "code": "AF",

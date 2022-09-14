@@ -41,48 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "312672",
-            "airport_ref": "300795",
-            "airport_ident": "FALE",
-            "type": "DURBAN Approach",
-            "description": "",
-            "frequency_mhz": "125.75"
-        },
-        {
-            "id": "312673",
-            "airport_ref": "300795",
-            "airport_ident": "FALE",
-            "type": "KING SHAKA ATIS",
-            "description": "",
-            "frequency_mhz": "127"
-        },
-        {
-            "id": "312675",
-            "airport_ref": "300795",
-            "airport_ident": "FALE",
-            "type": "KING SHAKA INT.",
-            "description": "KING SHAKA INT. Tower",
-            "frequency_mhz": "118.45"
-        },
-        {
-            "id": "312674",
-            "airport_ref": "300795",
-            "airport_ident": "FALE",
-            "type": "KING SHAKA INT.",
-            "description": "",
-            "frequency_mhz": "121.65"
-        },
-        {
-            "id": "312676",
-            "airport_ref": "300795",
-            "airport_ident": "FALE",
-            "type": "VOT \tTGV",
-            "description": "",
-            "frequency_mhz": "115.6"
-        }
-    ],
     "country": {
         "id": "302610",
         "code": "ZA",

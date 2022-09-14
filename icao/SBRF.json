@@ -41,48 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "49609",
-            "airport_ref": "5965",
-            "airport_ident": "SBRF",
-            "type": "APP",
-            "description": "RECIFE APP",
-            "frequency_mhz": "119.1"
-        },
-        {
-            "id": "49610",
-            "airport_ref": "5965",
-            "airport_ident": "SBRF",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "127.65"
-        },
-        {
-            "id": "49611",
-            "airport_ref": "5965",
-            "airport_ident": "SBRF",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.85"
-        },
-        {
-            "id": "49612",
-            "airport_ref": "5965",
-            "airport_ident": "SBRF",
-            "type": "OPS",
-            "description": "RECIFE OPS",
-            "frequency_mhz": "122.5"
-        },
-        {
-            "id": "49613",
-            "airport_ref": "5965",
-            "airport_ident": "SBRF",
-            "type": "TWR",
-            "description": "RECIFE TWR",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302791",
         "code": "BR",

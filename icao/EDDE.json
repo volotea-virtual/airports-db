@@ -41,56 +41,6 @@
             "he_displaced_threshold_ft": "689"
         }
     ],
-    "freqs": [
-        {
-            "id": "53061",
-            "airport_ref": "2211",
-            "airport_ident": "EDDE",
-            "type": "APP",
-            "description": "MUNCHEN RADAR",
-            "frequency_mhz": "132.3"
-        },
-        {
-            "id": "53062",
-            "airport_ref": "2211",
-            "airport_ident": "EDDE",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "133.45"
-        },
-        {
-            "id": "53063",
-            "airport_ref": "2211",
-            "airport_ident": "EDDE",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.75"
-        },
-        {
-            "id": "53064",
-            "airport_ref": "2211",
-            "airport_ident": "EDDE",
-            "type": "INFO",
-            "description": "MUNCHEN INFO",
-            "frequency_mhz": "120.65"
-        },
-        {
-            "id": "53065",
-            "airport_ref": "2211",
-            "airport_ident": "EDDE",
-            "type": "RMP",
-            "description": "APRON",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "53066",
-            "airport_ref": "2211",
-            "airport_ident": "EDDE",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "121.15"
-        }
-    ],
     "country": {
         "id": "302681",
         "code": "DE",

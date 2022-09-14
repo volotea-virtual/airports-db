@@ -63,24 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55283",
-            "airport_ref": "27206",
-            "airport_ident": "ZMBH",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "130"
-        },
-        {
-            "id": "55284",
-            "airport_ref": "27206",
-            "airport_ident": "ZMBH",
-            "type": "RDO",
-            "description": "RDO",
-            "frequency_mhz": "571.5"
-        }
-    ],
     "country": {
         "id": "302650",
         "code": "MN",

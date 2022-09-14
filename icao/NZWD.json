@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "49272",
-            "airport_ref": "5059",
-            "airport_ident": "NZWD",
-            "type": "CNTR",
-            "description": "MCMURDO CNTR",
-            "frequency_mhz": "118.2"
-        },
-        {
-            "id": "49273",
-            "airport_ref": "5059",
-            "airport_ident": "NZWD",
-            "type": "MISC",
-            "description": "INTL DISTRESS",
-            "frequency_mhz": "218.2"
-        },
-        {
-            "id": "49274",
-            "airport_ref": "5059",
-            "airport_ident": "NZWD",
-            "type": "TWR",
-            "description": "WILLIAMS FIELD TWR",
-            "frequency_mhz": "126.2"
-        }
-    ],
     "country": {
         "id": "302615",
         "code": "AQ",

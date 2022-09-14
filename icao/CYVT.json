@@ -63,24 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "50921",
-            "airport_ref": "1942",
-            "airport_ident": "CYVT",
-            "type": "A/G",
-            "description": "MF REGINA RDO",
-            "frequency_mhz": "122.3"
-        },
-        {
-            "id": "50922",
-            "airport_ref": "1942",
-            "airport_ident": "CYVT",
-            "type": "RCO",
-            "description": "REGINA RDO",
-            "frequency_mhz": "122.3"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

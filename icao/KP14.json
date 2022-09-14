@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "68820",
-            "airport_ref": "20797",
-            "airport_ident": "KP14",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "118.675"
-        },
-        {
-            "id": "68821",
-            "airport_ref": "20797",
-            "airport_ident": "KP14",
-            "type": "RDO",
-            "description": "PRESCOTT RDO",
-            "frequency_mhz": "122.6"
-        },
-        {
-            "id": "68822",
-            "airport_ref": "20797",
-            "airport_ident": "KP14",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

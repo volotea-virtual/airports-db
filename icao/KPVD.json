@@ -63,64 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "65060",
-            "airport_ref": "3795",
-            "airport_ident": "KPVD",
-            "type": "A/D",
-            "description": "PROVIDENCE APP/DEP",
-            "frequency_mhz": "135.4"
-        },
-        {
-            "id": "65061",
-            "airport_ref": "3795",
-            "airport_ident": "KPVD",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "124.2"
-        },
-        {
-            "id": "65062",
-            "airport_ref": "3795",
-            "airport_ident": "KPVD",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "126.65"
-        },
-        {
-            "id": "65063",
-            "airport_ref": "3795",
-            "airport_ident": "KPVD",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "120.7"
-        },
-        {
-            "id": "65064",
-            "airport_ref": "3795",
-            "airport_ident": "KPVD",
-            "type": "GND",
-            "description": "PROVIDENCE GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "65065",
-            "airport_ref": "3795",
-            "airport_ident": "KPVD",
-            "type": "RDO",
-            "description": "BRIDGEPORT RDO",
-            "frequency_mhz": "122.6"
-        },
-        {
-            "id": "65066",
-            "airport_ref": "3795",
-            "airport_ident": "KPVD",
-            "type": "TWR",
-            "description": "PROVIDENCE TWR",
-            "frequency_mhz": "120.7"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

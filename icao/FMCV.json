@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51398",
-            "airport_ref": "2903",
-            "airport_ident": "FMCV",
-            "type": "A/G",
-            "description": "A/G VOICE RDO",
-            "frequency_mhz": "548.4"
-        },
-        {
-            "id": "51399",
-            "airport_ref": "2903",
-            "airport_ident": "FMCV",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "119.7"
-        }
-    ],
     "country": {
         "id": "302580",
         "code": "KM",

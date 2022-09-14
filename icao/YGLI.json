@@ -3,19 +3,19 @@
     "ident": "YGLI",
     "type": "medium_airport",
     "name": "Glen Innes Airport",
-    "latitude_deg": "-29.674999237060547",
-    "longitude_deg": "151.68899536132812",
+    "latitude_deg": "-29.676029",
+    "longitude_deg": "151.691156",
     "elevation_ft": "3433",
     "continent": "OC",
     "iso_country": "AU",
     "iso_region": "AU-NSW",
-    "municipality": "",
+    "municipality": "Glen Innes",
     "scheduled_service": "no",
     "gps_code": "YGLI",
     "iata_code": "GLI",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Glen_Innes_Airport",
     "keywords": "",
     "runways": [
         {
@@ -61,24 +61,6 @@
             "he_elevation_ft": "3433",
             "he_heading_degT": "334",
             "he_displaced_threshold_ft": ""
-        }
-    ],
-    "freqs": [
-        {
-            "id": "48994",
-            "airport_ref": "26996",
-            "airport_ident": "YGLI",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "126.7"
-        },
-        {
-            "id": "48995",
-            "airport_ref": "26996",
-            "airport_ident": "YGLI",
-            "type": "FSS",
-            "description": "BRISBANE CNTR",
-            "frequency_mhz": "134.2"
         }
     ],
     "country": {

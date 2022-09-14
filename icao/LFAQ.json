@@ -63,16 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "327217",
-            "airport_ref": "4054",
-            "airport_ident": "LFAQ",
-            "type": "TWR",
-            "description": "",
-            "frequency_mhz": "119.65"
-        }
-    ],
     "country": {
         "id": "302687",
         "code": "FR",

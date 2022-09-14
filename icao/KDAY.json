@@ -85,64 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "64531",
-            "airport_ref": "3481",
-            "airport_ident": "KDAY",
-            "type": "A/D",
-            "description": "DAYTON APP/DEP",
-            "frequency_mhz": "118"
-        },
-        {
-            "id": "64532",
-            "airport_ref": "3481",
-            "airport_ident": "KDAY",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "125.8"
-        },
-        {
-            "id": "64533",
-            "airport_ref": "3481",
-            "airport_ident": "KDAY",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "121.75"
-        },
-        {
-            "id": "64534",
-            "airport_ref": "3481",
-            "airport_ident": "KDAY",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "64535",
-            "airport_ref": "3481",
-            "airport_ident": "KDAY",
-            "type": "RDO",
-            "description": "DAYTON RDO",
-            "frequency_mhz": "122.2"
-        },
-        {
-            "id": "64536",
-            "airport_ref": "3481",
-            "airport_ident": "KDAY",
-            "type": "TWR",
-            "description": "DAYTON TWR",
-            "frequency_mhz": "119.9"
-        },
-        {
-            "id": "64537",
-            "airport_ref": "3481",
-            "airport_ident": "KDAY",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.95"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "72866",
-            "airport_ref": "31021",
-            "airport_ident": "YEDA",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "126.7"
-        },
-        {
-            "id": "72867",
-            "airport_ref": "31021",
-            "airport_ident": "YEDA",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "114.2"
-        },
-        {
-            "id": "72869",
-            "airport_ref": "31021",
-            "airport_ident": "YEDA",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "119.8"
-        },
-        {
-            "id": "72868",
-            "airport_ref": "31021",
-            "airport_ident": "YEDA",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "121.3"
-        }
-    ],
     "country": {
         "id": "302764",
         "code": "AU",

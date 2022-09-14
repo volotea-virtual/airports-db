@@ -41,48 +41,6 @@
             "he_displaced_threshold_ft": "1148"
         }
     ],
-    "freqs": [
-        {
-            "id": "54251",
-            "airport_ref": "4342",
-            "airport_ident": "LIMF",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "23.44"
-        },
-        {
-            "id": "54250",
-            "airport_ref": "4342",
-            "airport_ident": "LIMF",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "129.275"
-        },
-        {
-            "id": "54252",
-            "airport_ref": "4342",
-            "airport_ident": "LIMF",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "120.475"
-        },
-        {
-            "id": "54253",
-            "airport_ref": "4342",
-            "airport_ident": "LIMF",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.7"
-        },
-        {
-            "id": "54254",
-            "airport_ref": "4342",
-            "airport_ident": "LIMF",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.5"
-        }
-    ],
     "country": {
         "id": "302697",
         "code": "IT",

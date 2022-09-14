@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": "360"
         }
     ],
-    "freqs": [
-        {
-            "id": "52417",
-            "airport_ref": "4159",
-            "airport_ident": "LFMQ",
-            "type": "AFIS",
-            "description": "AFIS",
-            "frequency_mhz": "119"
-        }
-    ],
     "country": {
         "id": "302687",
         "code": "FR",

@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": "1745"
         }
     ],
-    "freqs": [
-        {
-            "id": "58070",
-            "airport_ref": "3250",
-            "airport_ident": "HTAR",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.4"
-        }
-    ],
     "country": {
         "id": "302607",
         "code": "TZ",

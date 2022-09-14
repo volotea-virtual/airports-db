@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "49452",
-            "airport_ref": "6187",
-            "airport_ident": "SLPS",
-            "type": "RDO",
-            "description": "PUERTO SUAREZ RDO",
-            "frequency_mhz": "662.2"
-        },
-        {
-            "id": "49453",
-            "airport_ref": "6187",
-            "airport_ident": "SLPS",
-            "type": "TWR",
-            "description": "PUERTO SUAREZ TWR",
-            "frequency_mhz": "118.5"
-        }
-    ],
     "country": {
         "id": "302790",
         "code": "BO",

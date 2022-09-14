@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "319117",
-            "airport_ref": "319115",
-            "airport_ident": "LINF",
-            "type": "Info",
-            "description": "",
-            "frequency_mhz": "130"
-        }
-    ],
     "country": {
         "id": "302697",
         "code": "IT",

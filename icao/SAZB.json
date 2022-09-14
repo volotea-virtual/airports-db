@@ -85,40 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "48399",
-            "airport_ref": "5840",
-            "airport_ident": "SAZB",
-            "type": "APP",
-            "description": "BAHIA BLANCA APP",
-            "frequency_mhz": "124.8"
-        },
-        {
-            "id": "48400",
-            "airport_ref": "5840",
-            "airport_ident": "SAZB",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "48401",
-            "airport_ref": "5840",
-            "airport_ident": "SAZB",
-            "type": "RDO",
-            "description": "RDO",
-            "frequency_mhz": "296.5"
-        },
-        {
-            "id": "48402",
-            "airport_ref": "5840",
-            "airport_ident": "SAZB",
-            "type": "TWR",
-            "description": "ESPORA TWR",
-            "frequency_mhz": "119.15"
-        }
-    ],
     "country": {
         "id": "302789",
         "code": "AR",

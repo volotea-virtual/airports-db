@@ -41,64 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "64562",
-            "airport_ref": "20401",
-            "airport_ident": "KLZU",
-            "type": "A/D",
-            "description": "ATLANTA APP/DEP",
-            "frequency_mhz": "126.975"
-        },
-        {
-            "id": "64563",
-            "airport_ref": "20401",
-            "airport_ident": "KLZU",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "132.275"
-        },
-        {
-            "id": "64564",
-            "airport_ref": "20401",
-            "airport_ident": "KLZU",
-            "type": "CLD",
-            "description": "ATLANTA CLNC DEL",
-            "frequency_mhz": "134"
-        },
-        {
-            "id": "64565",
-            "airport_ref": "20401",
-            "airport_ident": "KLZU",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "124.1"
-        },
-        {
-            "id": "64566",
-            "airport_ref": "20401",
-            "airport_ident": "KLZU",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.8"
-        },
-        {
-            "id": "64567",
-            "airport_ref": "20401",
-            "airport_ident": "KLZU",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "124.1"
-        },
-        {
-            "id": "64568",
-            "airport_ref": "20401",
-            "airport_ident": "KLZU",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "123.05"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "56117",
-            "airport_ref": "6229",
-            "airport_ident": "SPNC",
-            "type": "RDO",
-            "description": "HUANUCO RDO",
-            "frequency_mhz": "126.9"
-        }
-    ],
     "country": {
         "id": "302798",
         "code": "PE",

@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": "284"
         }
     ],
-    "freqs": [
-        {
-            "id": "59797",
-            "airport_ref": "20056",
-            "airport_ident": "KHJO",
-            "type": "A/D",
-            "description": "FRESNO APP/DEP",
-            "frequency_mhz": "123.9"
-        },
-        {
-            "id": "59798",
-            "airport_ref": "20056",
-            "airport_ident": "KHJO",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "134.75"
-        },
-        {
-            "id": "59799",
-            "airport_ref": "20056",
-            "airport_ident": "KHJO",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

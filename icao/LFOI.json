@@ -85,16 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "312608",
-            "airport_ref": "4174",
-            "airport_ident": "LFOI",
-            "type": "A/A",
-            "description": "Abbeville",
-            "frequency_mhz": "123.5"
-        }
-    ],
     "country": {
         "id": "302687",
         "code": "FR",

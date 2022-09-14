@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "300675",
-            "airport_ref": "300673",
-            "airport_ident": "HSMN",
-            "type": "TWR",
-            "description": "Merowe Tower",
-            "frequency_mhz": "118.4"
-        }
-    ],
     "country": {
         "id": "302597",
         "code": "SD",

@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "74236",
-            "airport_ref": "27875",
-            "airport_ident": "YPAK",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "120"
-        },
-        {
-            "id": "74237",
-            "airport_ref": "27875",
-            "airport_ident": "YPAK",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "121.3"
-        },
-        {
-            "id": "74238",
-            "airport_ref": "27875",
-            "airport_ident": "YPAK",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "124"
-        }
-    ],
     "country": {
         "id": "302764",
         "code": "AU",

@@ -63,48 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "50802",
-            "airport_ref": "1743",
-            "airport_ident": "CYGK",
-            "type": "ATF",
-            "description": "Kingston Traffic",
-            "frequency_mhz": "122.5"
-        },
-        {
-            "id": "75159",
-            "airport_ref": "1743",
-            "airport_ident": "CYGK",
-            "type": "MF",
-            "description": "Kingston Radio, 0615-2300 local",
-            "frequency_mhz": "122.5"
-        },
-        {
-            "id": "50803",
-            "airport_ref": "1743",
-            "airport_ident": "CYGK",
-            "type": "RADIO",
-            "description": "Kingston Radio",
-            "frequency_mhz": "122.5"
-        },
-        {
-            "id": "75160",
-            "airport_ref": "1743",
-            "airport_ident": "CYGK",
-            "type": "RCO",
-            "description": "London Radio",
-            "frequency_mhz": "123.55"
-        },
-        {
-            "id": "75161",
-            "airport_ref": "1743",
-            "airport_ident": "CYGK",
-            "type": "VDF",
-            "description": "Kingston Radio",
-            "frequency_mhz": "122.5"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

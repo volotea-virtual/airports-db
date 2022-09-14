@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "57114",
-            "airport_ref": "2816",
-            "airport_ident": "FANC",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "124.8"
-        }
-    ],
     "country": {
         "id": "302610",
         "code": "ZA",

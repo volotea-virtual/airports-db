@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "71687",
-            "airport_ref": "6329",
-            "airport_ident": "SVSZ",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "122.4"
-        },
-        {
-            "id": "71688",
-            "airport_ref": "6329",
-            "airport_ident": "SVSZ",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "71689",
-            "airport_ref": "6329",
-            "airport_ident": "SVSZ",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.2"
-        }
-    ],
     "country": {
         "id": "302802",
         "code": "VE",

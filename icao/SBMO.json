@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "49649",
-            "airport_ref": "5942",
-            "airport_ident": "SBMO",
-            "type": "APP",
-            "description": "MACEIO APP",
-            "frequency_mhz": "119.25"
-        },
-        {
-            "id": "49650",
-            "airport_ref": "5942",
-            "airport_ident": "SBMO",
-            "type": "TWR",
-            "description": "MACEIO TWR",
-            "frequency_mhz": "118.25"
-        }
-    ],
     "country": {
         "id": "302791",
         "code": "BR",

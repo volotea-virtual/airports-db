@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51187",
-            "airport_ref": "27240",
-            "airport_ident": "ZYMD",
-            "type": "TWR",
-            "description": "MUDANJIANG TWR",
-            "frequency_mhz": "130"
-        }
-    ],
     "country": {
         "id": "302627",
         "code": "CN",

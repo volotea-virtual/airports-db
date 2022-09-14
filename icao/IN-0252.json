@@ -1,7 +1,7 @@
 {
     "id": "341899",
     "ident": "IN-0252",
-    "type": "small_airport",
+    "type": "heliport",
     "name": "Mau Heliport",
     "latitude_deg": "25.913982",
     "longitude_deg": "83.561476",

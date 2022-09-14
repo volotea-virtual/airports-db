@@ -63,16 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55199",
-            "airport_ref": "3023",
-            "airport_ident": "FXMU",
-            "type": "TWR",
-            "description": "BIRD NEST TWR",
-            "frequency_mhz": "118.9"
-        }
-    ],
     "country": {
         "id": "302582",
         "code": "LS",

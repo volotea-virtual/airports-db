@@ -3,8 +3,8 @@
     "ident": "YBRW",
     "type": "medium_airport",
     "name": "Brewarrina Airport",
-    "latitude_deg": "-29.973899841308594",
-    "longitude_deg": "146.81700134277344",
+    "latitude_deg": "-29.975792",
+    "longitude_deg": "146.81438",
     "elevation_ft": "414",
     "continent": "OC",
     "iso_country": "AU",
@@ -15,7 +15,7 @@
     "iata_code": "BWQ",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Brewarrina_Airport",
     "keywords": "",
     "runways": [
         {
@@ -39,24 +39,6 @@
             "he_elevation_ft": "369",
             "he_heading_degT": "216",
             "he_displaced_threshold_ft": ""
-        }
-    ],
-    "freqs": [
-        {
-            "id": "48762",
-            "airport_ref": "26929",
-            "airport_ident": "YBRW",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "126.7"
-        },
-        {
-            "id": "48763",
-            "airport_ref": "26929",
-            "airport_ident": "YBRW",
-            "type": "FSS",
-            "description": "MELBOURNE CNTR",
-            "frequency_mhz": "120"
         }
     ],
     "country": {

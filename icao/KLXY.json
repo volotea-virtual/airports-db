@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "67583",
-            "airport_ref": "20399",
-            "airport_ident": "KLXY",
-            "type": "A/D",
-            "description": "WACO APP/DEP",
-            "frequency_mhz": "135.2"
-        },
-        {
-            "id": "67584",
-            "airport_ref": "20399",
-            "airport_ident": "KLXY",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

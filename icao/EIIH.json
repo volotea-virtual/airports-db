@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "313608",
-            "airport_ref": "43996",
-            "airport_ident": "EIIH",
-            "type": "Radio",
-            "description": "",
-            "frequency_mhz": "131.9"
-        }
-    ],
     "country": {
         "id": "302694",
         "code": "IE",

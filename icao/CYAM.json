@@ -63,56 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "50471",
-            "airport_ref": "1657",
-            "airport_ident": "CYAM",
-            "type": "A/G",
-            "description": "MF",
-            "frequency_mhz": "118.8"
-        },
-        {
-            "id": "50472",
-            "airport_ref": "1657",
-            "airport_ident": "CYAM",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "133.05"
-        },
-        {
-            "id": "50473",
-            "airport_ref": "1657",
-            "airport_ident": "CYAM",
-            "type": "CNTR",
-            "description": "TORONTO CNTR",
-            "frequency_mhz": "132.65"
-        },
-        {
-            "id": "50474",
-            "airport_ref": "1657",
-            "airport_ident": "CYAM",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.7"
-        },
-        {
-            "id": "50475",
-            "airport_ref": "1657",
-            "airport_ident": "CYAM",
-            "type": "RCO",
-            "description": "LONDON RDO",
-            "frequency_mhz": "122.5"
-        },
-        {
-            "id": "50476",
-            "airport_ref": "1657",
-            "airport_ident": "CYAM",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.8"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

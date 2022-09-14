@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "57299",
-            "airport_ref": "4045",
-            "airport_ident": "LEVT",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.8"
-        },
-        {
-            "id": "57300",
-            "airport_ref": "4045",
-            "airport_ident": "LEVT",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.45"
-        }
-    ],
     "country": {
         "id": "302684",
         "code": "ES",

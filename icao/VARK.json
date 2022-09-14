@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": "300"
         }
     ],
-    "freqs": [
-        {
-            "id": "53801",
-            "airport_ref": "26458",
-            "airport_ident": "VARK",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "122.3"
-        },
-        {
-            "id": "53802",
-            "airport_ref": "26458",
-            "airport_ident": "VARK",
-            "type": "RDO",
-            "description": "MUMBAI ACC",
-            "frequency_mhz": "125.9"
-        },
-        {
-            "id": "53803",
-            "airport_ref": "26458",
-            "airport_ident": "VARK",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "122.1"
-        }
-    ],
     "country": {
         "id": "302634",
         "code": "IN",

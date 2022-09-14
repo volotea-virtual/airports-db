@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "53789",
-            "airport_ref": "26510",
-            "airport_ident": "VELP",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "122.25"
-        }
-    ],
     "country": {
         "id": "302634",
         "code": "IN",

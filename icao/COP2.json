@@ -17,16 +17,6 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "OP2",
-    "freqs": [
-        {
-            "id": "75521",
-            "airport_ref": "1369",
-            "airport_ident": "COP2",
-            "type": "CTAF",
-            "description": "",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

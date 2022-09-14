@@ -17,24 +17,6 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
-    "freqs": [
-        {
-            "id": "72910",
-            "airport_ref": "38340",
-            "airport_ident": "YEMJ",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "127.1"
-        },
-        {
-            "id": "72911",
-            "airport_ref": "38340",
-            "airport_ident": "YEMJ",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "118.15"
-        }
-    ],
     "country": {
         "id": "302764",
         "code": "AU",

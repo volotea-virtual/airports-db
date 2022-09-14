@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "316442",
-            "airport_ref": "316441",
-            "airport_ident": "CZ-0194",
-            "type": "Info",
-            "description": "Písek Radio",
-            "frequency_mhz": "119.415"
-        }
-    ],
     "country": {
         "id": "302680",
         "code": "CZ",

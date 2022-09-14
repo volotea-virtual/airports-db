@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55318",
-            "airport_ref": "3120",
-            "airport_ident": "GMTN",
-            "type": "TWR",
-            "description": "TETOUAN TWR",
-            "frequency_mhz": "119"
-        }
-    ],
     "country": {
         "id": "302584",
         "code": "MA",

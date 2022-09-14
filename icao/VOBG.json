@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "53945",
-            "airport_ref": "26603",
-            "airport_ident": "VOBG",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "127.7"
-        },
-        {
-            "id": "53946",
-            "airport_ref": "26603",
-            "airport_ident": "VOBG",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "128.25"
-        },
-        {
-            "id": "53947",
-            "airport_ref": "26603",
-            "airport_ident": "VOBG",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "123.5"
-        }
-    ],
     "country": {
         "id": "302634",
         "code": "IN",

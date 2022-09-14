@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": "265"
         }
     ],
-    "freqs": [
-        {
-            "id": "51549",
-            "airport_ref": "6140",
-            "airport_ident": "SKMZ",
-            "type": "APP",
-            "description": "MEDELLIN APP",
-            "frequency_mhz": "121.1"
-        },
-        {
-            "id": "51550",
-            "airport_ref": "6140",
-            "airport_ident": "SKMZ",
-            "type": "RDO",
-            "description": "MANIZALES RDO",
-            "frequency_mhz": "348.8"
-        },
-        {
-            "id": "51551",
-            "airport_ref": "6140",
-            "airport_ident": "SKMZ",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.2"
-        }
-    ],
     "country": {
         "id": "302793",
         "code": "CO",

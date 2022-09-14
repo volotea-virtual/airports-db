@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": "315"
         }
     ],
-    "freqs": [
-        {
-            "id": "54226",
-            "airport_ref": "4377",
-            "airport_ident": "LIRM",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "140.4"
-        },
-        {
-            "id": "54227",
-            "airport_ref": "4377",
-            "airport_ident": "LIRM",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.025"
-        }
-    ],
     "country": {
         "id": "302697",
         "code": "IT",

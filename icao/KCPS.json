@@ -85,64 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "63066",
-            "airport_ref": "19540",
-            "airport_ident": "KCPS",
-            "type": "A/D",
-            "description": "APP/DEP",
-            "frequency_mhz": "123.7"
-        },
-        {
-            "id": "63068",
-            "airport_ref": "19540",
-            "airport_ident": "KCPS",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "121.45"
-        },
-        {
-            "id": "63069",
-            "airport_ref": "19540",
-            "airport_ident": "KCPS",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "121.8"
-        },
-        {
-            "id": "63070",
-            "airport_ref": "19540",
-            "airport_ident": "KCPS",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "119.925"
-        },
-        {
-            "id": "63071",
-            "airport_ref": "19540",
-            "airport_ident": "KCPS",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.8"
-        },
-        {
-            "id": "63072",
-            "airport_ref": "19540",
-            "airport_ident": "KCPS",
-            "type": "TWR",
-            "description": "DOWNTOWN TWR",
-            "frequency_mhz": "119.925"
-        },
-        {
-            "id": "63073",
-            "airport_ref": "19540",
-            "airport_ident": "KCPS",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.95"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

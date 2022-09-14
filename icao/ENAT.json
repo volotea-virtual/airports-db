@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": "418"
         }
     ],
-    "freqs": [
-        {
-            "id": "55847",
-            "airport_ref": "2566",
-            "airport_ident": "ENAT",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "118.175"
-        },
-        {
-            "id": "55848",
-            "airport_ref": "2566",
-            "airport_ident": "ENAT",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.1"
-        }
-    ],
     "country": {
         "id": "302709",
         "code": "NO",

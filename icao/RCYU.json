@@ -85,32 +85,6 @@
             "he_displaced_threshold_ft": "328"
         }
     ],
-    "freqs": [
-        {
-            "id": "58023",
-            "airport_ref": "5530",
-            "airport_ident": "RCYU",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "119.1"
-        },
-        {
-            "id": "58024",
-            "airport_ref": "5530",
-            "airport_ident": "RCYU",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "58025",
-            "airport_ref": "5530",
-            "airport_ident": "RCYU",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.1"
-        }
-    ],
     "country": {
         "id": "302668",
         "code": "TW",

@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "49267",
-            "airport_ref": "5048",
-            "airport_ident": "NZPG",
-            "type": "CNTR",
-            "description": "MCMURDO CNTR",
-            "frequency_mhz": "118.2"
-        },
-        {
-            "id": "49268",
-            "airport_ref": "5048",
-            "airport_ident": "NZPG",
-            "type": "EMR",
-            "description": "INTL DISTRESS",
-            "frequency_mhz": "218.2"
-        }
-    ],
     "country": {
         "id": "302615",
         "code": "AQ",

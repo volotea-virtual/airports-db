@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "54845",
-            "airport_ref": "3205",
-            "airport_ident": "HKEL",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "119.4"
-        },
-        {
-            "id": "54846",
-            "airport_ref": "3205",
-            "airport_ident": "HKEL",
-            "type": "RDR",
-            "description": "RADAR",
-            "frequency_mhz": "121.1"
-        },
-        {
-            "id": "54847",
-            "airport_ref": "3205",
-            "airport_ident": "HKEL",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.4"
-        }
-    ],
     "country": {
         "id": "302579",
         "code": "KE",

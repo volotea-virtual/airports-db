@@ -63,24 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "57405",
-            "airport_ref": "2710",
-            "airport_ident": "ESSV",
-            "type": "ARR",
-            "description": "CON",
-            "frequency_mhz": "126.15"
-        },
-        {
-            "id": "57406",
-            "airport_ref": "2710",
-            "airport_ident": "ESSV",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "120.3"
-        }
-    ],
     "country": {
         "id": "302715",
         "code": "SE",

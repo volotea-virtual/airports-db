@@ -63,56 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "62545",
-            "airport_ref": "21101",
-            "airport_ident": "KSPG",
-            "type": "A/D",
-            "description": "TAMPA APP/DEP",
-            "frequency_mhz": "119.65"
-        },
-        {
-            "id": "62546",
-            "airport_ref": "21101",
-            "airport_ident": "KSPG",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "118.875"
-        },
-        {
-            "id": "62547",
-            "airport_ref": "21101",
-            "airport_ident": "KSPG",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "127.4"
-        },
-        {
-            "id": "62548",
-            "airport_ref": "21101",
-            "airport_ident": "KSPG",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.8"
-        },
-        {
-            "id": "62549",
-            "airport_ref": "21101",
-            "airport_ident": "KSPG",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "127.4"
-        },
-        {
-            "id": "62550",
-            "airport_ref": "21101",
-            "airport_ident": "KSPG",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.95"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -3,8 +3,8 @@
     "ident": "VIKA",
     "type": "small_airport",
     "name": "Kanpur Civil Airport",
-    "latitude_deg": "26.441401",
-    "longitude_deg": "80.364899",
+    "latitude_deg": "26.440857",
+    "longitude_deg": "80.365029",
     "elevation_ft": "411",
     "continent": "AS",
     "iso_country": "IN",
@@ -39,16 +39,6 @@
             "he_elevation_ft": "409",
             "he_heading_degT": "282",
             "he_displaced_threshold_ft": "690"
-        }
-    ],
-    "freqs": [
-        {
-            "id": "53869",
-            "airport_ref": "26566",
-            "airport_ident": "VIKA",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "122.3"
         }
     ],
     "country": {

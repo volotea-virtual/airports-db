@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "67615",
-            "airport_ref": "20985",
-            "airport_ident": "KRZZ",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "134.425"
-        },
-        {
-            "id": "67616",
-            "airport_ref": "20985",
-            "airport_ident": "KRZZ",
-            "type": "CNTR",
-            "description": "WASHINGTON CNTR",
-            "frequency_mhz": "132.02"
-        },
-        {
-            "id": "67617",
-            "airport_ref": "20985",
-            "airport_ident": "KRZZ",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

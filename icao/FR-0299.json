@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "354730",
-            "airport_ref": "43641",
-            "airport_ident": "FR-0299",
-            "type": "CTAF",
-            "description": "",
-            "frequency_mhz": "118.75"
-        },
-        {
-            "id": "354732",
-            "airport_ref": "43641",
-            "airport_ident": "FR-0299",
-            "type": "INFO",
-            "description": "Info trafic montagne",
-            "frequency_mhz": "130"
-        }
-    ],
     "country": {
         "id": "302687",
         "code": "FR",

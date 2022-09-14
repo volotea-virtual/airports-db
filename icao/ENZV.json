@@ -63,48 +63,6 @@
             "he_displaced_threshold_ft": "492"
         }
     ],
-    "freqs": [
-        {
-            "id": "55841",
-            "airport_ref": "2602",
-            "airport_ident": "ENZV",
-            "type": "APP",
-            "description": "Sola Approach",
-            "frequency_mhz": "119.6"
-        },
-        {
-            "id": "55842",
-            "airport_ref": "2602",
-            "airport_ident": "ENZV",
-            "type": "ARR",
-            "description": "ARR",
-            "frequency_mhz": "118.5"
-        },
-        {
-            "id": "55843",
-            "airport_ref": "2602",
-            "airport_ident": "ENZV",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "126"
-        },
-        {
-            "id": "55844",
-            "airport_ref": "2602",
-            "airport_ident": "ENZV",
-            "type": "GND",
-            "description": "Sola Ground",
-            "frequency_mhz": "121.75"
-        },
-        {
-            "id": "55845",
-            "airport_ref": "2602",
-            "airport_ident": "ENZV",
-            "type": "TWR",
-            "description": "Sola Tower",
-            "frequency_mhz": "118.35"
-        }
-    ],
     "country": {
         "id": "302709",
         "code": "NO",

@@ -129,64 +129,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "68091",
-            "airport_ref": "3673",
-            "airport_ident": "KMDW",
-            "type": "A/D",
-            "description": "APP/DEP",
-            "frequency_mhz": "118.4"
-        },
-        {
-            "id": "68092",
-            "airport_ref": "3673",
-            "airport_ident": "KMDW",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "132.75"
-        },
-        {
-            "id": "68093",
-            "airport_ref": "3673",
-            "airport_ident": "KMDW",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "132.75"
-        },
-        {
-            "id": "68094",
-            "airport_ref": "3673",
-            "airport_ident": "KMDW",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "121.85"
-        },
-        {
-            "id": "68095",
-            "airport_ref": "3673",
-            "airport_ident": "KMDW",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.65"
-        },
-        {
-            "id": "68096",
-            "airport_ref": "3673",
-            "airport_ident": "KMDW",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.7"
-        },
-        {
-            "id": "68097",
-            "airport_ref": "3673",
-            "airport_ident": "KMDW",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.95"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

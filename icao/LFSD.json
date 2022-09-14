@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "52275",
-            "airport_ref": "4228",
-            "airport_ident": "LFSD",
-            "type": "A/D",
-            "description": "DIJON APP",
-            "frequency_mhz": "142.45"
-        },
-        {
-            "id": "52276",
-            "airport_ref": "4228",
-            "airport_ident": "LFSD",
-            "type": "AFIS",
-            "description": "DIJON INFO",
-            "frequency_mhz": "118.325"
-        },
-        {
-            "id": "52277",
-            "airport_ref": "4228",
-            "airport_ident": "LFSD",
-            "type": "GND",
-            "description": "DIJON GND",
-            "frequency_mhz": "122.1"
-        },
-        {
-            "id": "52278",
-            "airport_ref": "4228",
-            "airport_ident": "LFSD",
-            "type": "TWR",
-            "description": "DIJON TWR",
-            "frequency_mhz": "118.325"
-        }
-    ],
     "country": {
         "id": "302687",
         "code": "FR",

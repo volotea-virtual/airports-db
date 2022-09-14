@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55459",
-            "airport_ref": "4722",
-            "airport_ident": "MMLO",
-            "type": "APP",
-            "description": "LEON APP",
-            "frequency_mhz": "119.05"
-        },
-        {
-            "id": "55460",
-            "airport_ref": "4722",
-            "airport_ident": "MMLO",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "128.4"
-        },
-        {
-            "id": "55461",
-            "airport_ref": "4722",
-            "airport_ident": "MMLO",
-            "type": "TWR",
-            "description": "LEON TWR",
-            "frequency_mhz": "118.35"
-        }
-    ],
     "country": {
         "id": "302747",
         "code": "MX",

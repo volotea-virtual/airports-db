@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": "564"
         }
     ],
-    "freqs": [
-        {
-            "id": "48838",
-            "airport_ref": "27129",
-            "airport_ident": "YRTI",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "126"
-        },
-        {
-            "id": "48839",
-            "airport_ref": "27129",
-            "airport_ident": "YRTI",
-            "type": "FSS",
-            "description": "PERTH RADAR",
-            "frequency_mhz": "135.25"
-        }
-    ],
     "country": {
         "id": "302764",
         "code": "AU",

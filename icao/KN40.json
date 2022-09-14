@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "59812",
-            "airport_ref": "20608",
-            "airport_ident": "KN40",
-            "type": "A/D",
-            "description": "ALLENTOWN APP/DEP",
-            "frequency_mhz": "118.2"
-        },
-        {
-            "id": "59813",
-            "airport_ref": "20608",
-            "airport_ident": "KN40",
-            "type": "RDO",
-            "description": "MILLVILLE RDO",
-            "frequency_mhz": "112.9"
-        },
-        {
-            "id": "59814",
-            "airport_ref": "20608",
-            "airport_ident": "KN40",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.975"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

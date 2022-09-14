@@ -107,32 +107,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "334806",
-            "airport_ref": "2629",
-            "airport_ident": "EPRZ",
-            "type": "ATIS",
-            "description": "Rzeszow ATIS",
-            "frequency_mhz": "124.955"
-        },
-        {
-            "id": "334805",
-            "airport_ref": "2629",
-            "airport_ident": "EPRZ",
-            "type": "DEL",
-            "description": "Rzeszow Delivery",
-            "frequency_mhz": "121.805"
-        },
-        {
-            "id": "56229",
-            "airport_ref": "2629",
-            "airport_ident": "EPRZ",
-            "type": "TWR",
-            "description": "RZESZOW TWR",
-            "frequency_mhz": "126.805"
-        }
-    ],
     "country": {
         "id": "302710",
         "code": "PL",

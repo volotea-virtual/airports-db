@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "71993",
-            "airport_ref": "29151",
-            "airport_ident": "EGHY",
-            "type": "A/G",
-            "description": "Truro A/G",
-            "frequency_mhz": "129.8"
-        }
-    ],
     "country": {
         "id": "302688",
         "code": "GB",

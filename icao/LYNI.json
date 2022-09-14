@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": "985"
         }
     ],
-    "freqs": [
-        {
-            "id": "71823",
-            "airport_ref": "4612",
-            "airport_ident": "LYNI",
-            "type": "APP",
-            "description": "Nis Approach",
-            "frequency_mhz": "119.525"
-        },
-        {
-            "id": "322711",
-            "airport_ref": "4612",
-            "airport_ident": "LYNI",
-            "type": "EMERG",
-            "description": "",
-            "frequency_mhz": "121.5"
-        },
-        {
-            "id": "71824",
-            "airport_ref": "4612",
-            "airport_ident": "LYNI",
-            "type": "TWR",
-            "description": "Nis Tower",
-            "frequency_mhz": "118.95"
-        },
-        {
-            "id": "322710",
-            "airport_ref": "4612",
-            "airport_ident": "LYNI",
-            "type": "TWR/APP ALTN",
-            "description": "",
-            "frequency_mhz": "136.075"
-        }
-    ],
     "country": {
         "id": "302713",
         "code": "RS",

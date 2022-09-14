@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55234",
-            "airport_ref": "2914",
-            "airport_ident": "FMNC",
-            "type": "A/G",
-            "description": "A/G VOICE RDO",
-            "frequency_mhz": "118.5"
-        }
-    ],
     "country": {
         "id": "302585",
         "code": "MG",

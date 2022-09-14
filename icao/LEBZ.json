@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "57338",
-            "airport_ref": "4005",
-            "airport_ident": "LEBZ",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "139.3"
-        },
-        {
-            "id": "57339",
-            "airport_ref": "4005",
-            "airport_ident": "LEBZ",
-            "type": "TWR",
-            "description": "BADAJOZ TWR",
-            "frequency_mhz": "122.1"
-        }
-    ],
     "country": {
         "id": "302684",
         "code": "ES",

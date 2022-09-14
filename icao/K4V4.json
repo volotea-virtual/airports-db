@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "59972",
-            "airport_ref": "18859",
-            "airport_ident": "K4V4",
-            "type": "A/D",
-            "description": "GRAND FORKS",
-            "frequency_mhz": "118.1"
-        },
-        {
-            "id": "59973",
-            "airport_ref": "18859",
-            "airport_ident": "K4V4",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

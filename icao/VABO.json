@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "53957",
-            "airport_ref": "26438",
-            "airport_ident": "VABO",
-            "type": "TWR",
-            "description": "BARODA TWR",
-            "frequency_mhz": "122.35"
-        }
-    ],
     "country": {
         "id": "302634",
         "code": "IN",

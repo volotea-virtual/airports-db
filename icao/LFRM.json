@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": "918"
         }
     ],
-    "freqs": [
-        {
-            "id": "52622",
-            "airport_ref": "4217",
-            "airport_ident": "LFRM",
-            "type": "TWR",
-            "description": "LE MANS TWR",
-            "frequency_mhz": "125.9"
-        }
-    ],
     "country": {
         "id": "302687",
         "code": "FR",

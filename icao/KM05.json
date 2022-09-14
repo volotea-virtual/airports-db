@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "61703",
-            "airport_ref": "20406",
-            "airport_ident": "KM05",
-            "type": "CNTR",
-            "description": "MEMPHIS CNTR",
-            "frequency_mhz": "134.65"
-        },
-        {
-            "id": "61704",
-            "airport_ref": "20406",
-            "airport_ident": "KM05",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.9"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

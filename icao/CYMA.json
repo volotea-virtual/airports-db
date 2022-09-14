@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51059",
-            "airport_ref": "1809",
-            "airport_ident": "CYMA",
-            "type": "CNTR",
-            "description": "EDMONTON CNTR",
-            "frequency_mhz": "134.65"
-        },
-        {
-            "id": "51060",
-            "airport_ref": "1809",
-            "airport_ident": "CYMA",
-            "type": "RCO",
-            "description": "WHITEHORSE RDO",
-            "frequency_mhz": "126.7"
-        },
-        {
-            "id": "51061",
-            "airport_ref": "1809",
-            "airport_ident": "CYMA",
-            "type": "RDO",
-            "description": "ARPT RDO",
-            "frequency_mhz": "122.1"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

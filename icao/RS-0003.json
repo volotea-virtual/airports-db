@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "301367",
-            "airport_ref": "301357",
-            "airport_ident": "RS-0003",
-            "type": "ground",
-            "description": "",
-            "frequency_mhz": "123.5"
-        }
-    ],
     "country": {
         "id": "302713",
         "code": "RS",

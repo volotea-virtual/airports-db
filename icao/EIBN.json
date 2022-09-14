@@ -3,8 +3,8 @@
     "ident": "EIBN",
     "type": "small_airport",
     "name": "Bantry Aerodrome",
-    "latitude_deg": "51.66859817504883",
-    "longitude_deg": "-9.484169960021973",
+    "latitude_deg": "51.6772",
+    "longitude_deg": "-9.487123",
     "elevation_ft": "7",
     "continent": "EU",
     "iso_country": "IE",
@@ -39,16 +39,6 @@
             "he_elevation_ft": "",
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
-        }
-    ],
-    "freqs": [
-        {
-            "id": "313591",
-            "airport_ref": "29214",
-            "airport_ident": "EIBN",
-            "type": "Radio",
-            "description": "",
-            "frequency_mhz": "122.4"
         }
     ],
     "country": {

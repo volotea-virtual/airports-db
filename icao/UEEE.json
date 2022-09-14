@@ -63,48 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "56822",
-            "airport_ref": "6447",
-            "airport_ident": "UEEE",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "129.3"
-        },
-        {
-            "id": "56823",
-            "airport_ref": "6447",
-            "airport_ident": "UEEE",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "126.2"
-        },
-        {
-            "id": "56824",
-            "airport_ref": "6447",
-            "airport_ident": "UEEE",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.7"
-        },
-        {
-            "id": "56825",
-            "airport_ref": "6447",
-            "airport_ident": "UEEE",
-            "type": "RDR",
-            "description": "ASR",
-            "frequency_mhz": "120.3"
-        },
-        {
-            "id": "56826",
-            "airport_ref": "6447",
-            "airport_ident": "UEEE",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "120"
-        }
-    ],
     "country": {
         "id": "302714",
         "code": "RU",

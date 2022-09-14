@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "60787",
-            "airport_ref": "20745",
-            "airport_ident": "KOMH",
-            "type": "A/D",
-            "description": "POTOMAC APP/DEP",
-            "frequency_mhz": "132.85"
-        },
-        {
-            "id": "60788",
-            "airport_ref": "20745",
-            "airport_ident": "KOMH",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "118.075"
-        },
-        {
-            "id": "60789",
-            "airport_ref": "20745",
-            "airport_ident": "KOMH",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

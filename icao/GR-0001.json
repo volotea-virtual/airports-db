@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "300299",
-            "airport_ref": "42451",
-            "airport_ident": "GR-0001",
-            "type": "CTAF",
-            "description": "",
-            "frequency_mhz": "119.7"
-        }
-    ],
     "country": {
         "id": "302691",
         "code": "GR",

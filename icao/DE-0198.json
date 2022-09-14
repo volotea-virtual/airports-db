@@ -17,16 +17,6 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
-    "freqs": [
-        {
-            "id": "326218",
-            "airport_ref": "315396",
-            "airport_ident": "DE-0198",
-            "type": "Dolmar INFO",
-            "description": "",
-            "frequency_mhz": "120.975"
-        }
-    ],
     "country": {
         "id": "302681",
         "code": "DE",

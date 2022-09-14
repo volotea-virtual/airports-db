@@ -63,16 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "311160",
-            "airport_ref": "30284",
-            "airport_ident": "EPPK",
-            "type": "INFO",
-            "description": "Kobylnica Radio",
-            "frequency_mhz": "122.9"
-        }
-    ],
     "country": {
         "id": "302710",
         "code": "PL",

@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "56362",
-            "airport_ref": "55",
-            "airport_ident": "AYDU",
-            "type": "FSS",
-            "description": "MORESBY CNTR",
-            "frequency_mhz": "124.9"
-        }
-    ],
     "country": {
         "id": "302778",
         "code": "PG",

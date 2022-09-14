@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "330871",
-            "airport_ref": "28744",
-            "airport_ident": "EDWU",
-            "type": "Info",
-            "description": "Varrelbusch Info",
-            "frequency_mhz": "132.565"
-        }
-    ],
     "country": {
         "id": "302681",
         "code": "DE",

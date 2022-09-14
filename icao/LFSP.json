@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "329950",
-            "airport_ref": "4236",
-            "airport_ident": "LFSP",
-            "type": "TWR",
-            "description": "",
-            "frequency_mhz": "135.7"
-        }
-    ],
     "country": {
         "id": "302687",
         "code": "FR",

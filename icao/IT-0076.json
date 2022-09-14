@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "309166",
-            "airport_ref": "308712",
-            "airport_ident": "IT-0076",
-            "type": "UNICOM",
-            "description": "Castellamonte Radio",
-            "frequency_mhz": "130"
-        }
-    ],
     "country": {
         "id": "302697",
         "code": "IT",

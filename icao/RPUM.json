@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "56510",
-            "airport_ref": "5721",
-            "airport_ident": "RPUM",
-            "type": "FSS",
-            "description": "RDO",
-            "frequency_mhz": "122.1"
-        }
-    ],
     "country": {
         "id": "302656",
         "code": "PH",

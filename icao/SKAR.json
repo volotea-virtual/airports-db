@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51467",
-            "airport_ref": "6099",
-            "airport_ident": "SKAR",
-            "type": "APP",
-            "description": "PEREIRA APP",
-            "frequency_mhz": "120.7"
-        },
-        {
-            "id": "51468",
-            "airport_ref": "6099",
-            "airport_ident": "SKAR",
-            "type": "RDO",
-            "description": "ARMENIA RDO",
-            "frequency_mhz": "348.8"
-        },
-        {
-            "id": "51469",
-            "airport_ref": "6099",
-            "airport_ident": "SKAR",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.5"
-        }
-    ],
     "country": {
         "id": "302793",
         "code": "CO",

@@ -2,14 +2,14 @@
     "id": "354709",
     "ident": "TH-0026",
     "type": "small_airport",
-    "name": "Nong Prue",
-    "latitude_deg": "12.8934",
-    "longitude_deg": "100.96",
+    "name": "Nong Prue Airport",
+    "latitude_deg": "12.893226",
+    "longitude_deg": "100.96015",
     "elevation_ft": "",
     "continent": "AS",
     "iso_country": "TH",
     "iso_region": "TH-20",
-    "municipality": "",
+    "municipality": "Pattaya",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
@@ -17,16 +17,6 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
-    "freqs": [
-        {
-            "id": "354710",
-            "airport_ref": "354709",
-            "airport_ident": "TH-0026",
-            "type": "CTAF",
-            "description": "",
-            "frequency_mhz": "122.3"
-        }
-    ],
     "country": {
         "id": "302663",
         "code": "TH",

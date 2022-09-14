@@ -63,48 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "64304",
-            "airport_ref": "3475",
-            "airport_ident": "KCXO",
-            "type": "A/D",
-            "description": "HOUSTON APP/DEP",
-            "frequency_mhz": "119.7"
-        },
-        {
-            "id": "64305",
-            "airport_ref": "3475",
-            "airport_ident": "KCXO",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "118.325"
-        },
-        {
-            "id": "64306",
-            "airport_ref": "3475",
-            "airport_ident": "KCXO",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "119.55"
-        },
-        {
-            "id": "64307",
-            "airport_ref": "3475",
-            "airport_ident": "KCXO",
-            "type": "RDO",
-            "description": "RDO",
-            "frequency_mhz": "122.2"
-        },
-        {
-            "id": "64308",
-            "airport_ref": "3475",
-            "airport_ident": "KCXO",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.95"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -63,56 +63,6 @@
             "he_displaced_threshold_ft": "601"
         }
     ],
-    "freqs": [
-        {
-            "id": "64464",
-            "airport_ref": "3366",
-            "airport_ident": "KAFW",
-            "type": "A/D",
-            "description": "RGNL APP/DEP",
-            "frequency_mhz": "118.1"
-        },
-        {
-            "id": "64465",
-            "airport_ref": "3366",
-            "airport_ident": "KAFW",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "126.925"
-        },
-        {
-            "id": "64466",
-            "airport_ref": "3366",
-            "airport_ident": "KAFW",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "126.925"
-        },
-        {
-            "id": "64467",
-            "airport_ref": "3366",
-            "airport_ident": "KAFW",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "128.725"
-        },
-        {
-            "id": "64468",
-            "airport_ref": "3366",
-            "airport_ident": "KAFW",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "132.65"
-        },
-        {
-            "id": "64469",
-            "airport_ref": "3366",
-            "airport_ident": "KAFW",
-            "type": "TWR",
-            "description": "ALLIANCE TWR",
-            "frequency_mhz": "120.825"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

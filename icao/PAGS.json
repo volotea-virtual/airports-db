@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "61610",
-            "airport_ref": "5369",
-            "airport_ident": "PAGS",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "125.9"
-        },
-        {
-            "id": "61611",
-            "airport_ref": "5369",
-            "airport_ident": "PAGS",
-            "type": "CNTR",
-            "description": "ANCHORAGE CNTR",
-            "frequency_mhz": "133.2"
-        },
-        {
-            "id": "61612",
-            "airport_ref": "5369",
-            "airport_ident": "PAGS",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.5"
-        },
-        {
-            "id": "61613",
-            "airport_ref": "5369",
-            "airport_ident": "PAGS",
-            "type": "RCO",
-            "description": "JUNEAU RDO",
-            "frequency_mhz": "122.65"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

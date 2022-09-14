@@ -3,8 +3,8 @@
     "ident": "EGTF",
     "type": "small_airport",
     "name": "Fairoaks Airport",
-    "latitude_deg": "51.3480987549",
-    "longitude_deg": "-0.558888971806",
+    "latitude_deg": "51.348099",
+    "longitude_deg": "-0.558889",
     "elevation_ft": "80",
     "continent": "EU",
     "iso_country": "GB",
@@ -14,7 +14,7 @@
     "gps_code": "EGTF",
     "iata_code": "",
     "local_code": "",
-    "home_link": "http://www.alanmann.co.uk/default.asp",
+    "home_link": "https://fairoaksairport.uk",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Fairoaks_Airport",
     "keywords": "",
     "runways": [
@@ -39,24 +39,6 @@
             "he_elevation_ft": "76",
             "he_heading_degT": "239",
             "he_displaced_threshold_ft": "43"
-        }
-    ],
-    "freqs": [
-        {
-            "id": "71928",
-            "airport_ref": "29198",
-            "airport_ident": "EGTF",
-            "type": "A/G",
-            "description": "Fairoaks Radio",
-            "frequency_mhz": "123.43"
-        },
-        {
-            "id": "71929",
-            "airport_ref": "29198",
-            "airport_ident": "EGTF",
-            "type": "AFIS",
-            "description": "Fairoaks AFIS",
-            "frequency_mhz": "123.43"
         }
     ],
     "country": {

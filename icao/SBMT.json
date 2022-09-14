@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": "492"
         }
     ],
-    "freqs": [
-        {
-            "id": "49614",
-            "airport_ref": "5945",
-            "airport_ident": "SBMT",
-            "type": "APP",
-            "description": "SAO PAULO APP",
-            "frequency_mhz": "119.8"
-        },
-        {
-            "id": "49615",
-            "airport_ref": "5945",
-            "airport_ident": "SBMT",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.6"
-        },
-        {
-            "id": "49616",
-            "airport_ref": "5945",
-            "airport_ident": "SBMT",
-            "type": "OPS",
-            "description": "OPS",
-            "frequency_mhz": "122.5"
-        },
-        {
-            "id": "49617",
-            "airport_ref": "5945",
-            "airport_ident": "SBMT",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.7"
-        }
-    ],
     "country": {
         "id": "302791",
         "code": "BR",

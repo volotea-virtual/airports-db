@@ -2,9 +2,9 @@
     "id": "6213",
     "ident": "SPHI",
     "type": "medium_airport",
-    "name": "Capitan FAP Jose A Quinones Gonzales International Airport",
-    "latitude_deg": "-6.787479877471924",
-    "longitude_deg": "-79.8281021118164",
+    "name": "Air Force Captain Jose A Quinones Gonzales International Airport",
+    "latitude_deg": "-6.78748",
+    "longitude_deg": "-79.828102",
     "elevation_ft": "97",
     "continent": "SA",
     "iso_country": "PE",
@@ -39,32 +39,6 @@
             "he_elevation_ft": "97",
             "he_heading_degT": "187",
             "he_displaced_threshold_ft": ""
-        }
-    ],
-    "freqs": [
-        {
-            "id": "56081",
-            "airport_ref": "6213",
-            "airport_ident": "SPHI",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "56082",
-            "airport_ref": "6213",
-            "airport_ident": "SPHI",
-            "type": "RDO",
-            "description": "CHICLAYO RDO",
-            "frequency_mhz": "126.9"
-        },
-        {
-            "id": "56083",
-            "airport_ref": "6213",
-            "airport_ident": "SPHI",
-            "type": "TWR",
-            "description": "CHICLAYO APP/TWR",
-            "frequency_mhz": "118.3"
         }
     ],
     "country": {

@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": "384"
         }
     ],
-    "freqs": [
-        {
-            "id": "49880",
-            "airport_ref": "859",
-            "airport_ident": "CEH6",
-            "type": "A/D",
-            "description": "EDMONTON CNTR",
-            "frequency_mhz": "133.45"
-        },
-        {
-            "id": "49881",
-            "airport_ref": "859",
-            "airport_ident": "CEH6",
-            "type": "RDO",
-            "description": "EDMONTON RDO",
-            "frequency_mhz": "126.7"
-        },
-        {
-            "id": "49882",
-            "airport_ref": "859",
-            "airport_ident": "CEH6",
-            "type": "UNIC",
-            "description": "ATF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

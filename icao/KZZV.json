@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "64499",
-            "airport_ref": "3967",
-            "airport_ident": "KZZV",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "111.4"
-        },
-        {
-            "id": "64500",
-            "airport_ref": "3967",
-            "airport_ident": "KZZV",
-            "type": "CNTR",
-            "description": "INDIANAPOLIS CNTR",
-            "frequency_mhz": "124.45"
-        },
-        {
-            "id": "64501",
-            "airport_ref": "3967",
-            "airport_ident": "KZZV",
-            "type": "RDO",
-            "description": "CLEVELAND RDO",
-            "frequency_mhz": "122.2"
-        },
-        {
-            "id": "64502",
-            "airport_ref": "3967",
-            "airport_ident": "KZZV",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

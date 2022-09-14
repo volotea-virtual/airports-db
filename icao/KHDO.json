@@ -129,32 +129,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "67248",
-            "airport_ref": "20039",
-            "airport_ident": "KHDO",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "119.675"
-        },
-        {
-            "id": "67249",
-            "airport_ref": "20039",
-            "airport_ident": "KHDO",
-            "type": "CNTR",
-            "description": "HOUSTON CNTR",
-            "frequency_mhz": "134.95"
-        },
-        {
-            "id": "67250",
-            "airport_ref": "20039",
-            "airport_ident": "KHDO",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.725"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

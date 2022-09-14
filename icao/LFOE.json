@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "52556",
-            "airport_ref": "4172",
-            "airport_ident": "LFOE",
-            "type": "APP",
-            "description": "EVREUX APP",
-            "frequency_mhz": "118.125"
-        },
-        {
-            "id": "52557",
-            "airport_ref": "4172",
-            "airport_ident": "LFOE",
-            "type": "ATIS",
-            "description": "EVREUX ATIS",
-            "frequency_mhz": "138.225"
-        },
-        {
-            "id": "52558",
-            "airport_ref": "4172",
-            "airport_ident": "LFOE",
-            "type": "GND",
-            "description": "EVREUX GND",
-            "frequency_mhz": "122.1"
-        },
-        {
-            "id": "52559",
-            "airport_ref": "4172",
-            "airport_ident": "LFOE",
-            "type": "TWR",
-            "description": "EVREUX TWR",
-            "frequency_mhz": "119.7"
-        }
-    ],
     "country": {
         "id": "302687",
         "code": "FR",

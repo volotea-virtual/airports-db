@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "315909",
-            "airport_ref": "315908",
-            "airport_ident": "CZ-0059",
-            "type": "info",
-            "description": "Chabeřice Radio",
-            "frequency_mhz": "128.825"
-        }
-    ],
     "country": {
         "id": "302680",
         "code": "CZ",

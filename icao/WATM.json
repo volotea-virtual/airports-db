@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "53603",
-            "airport_ref": "26799",
-            "airport_ident": "WATM",
-            "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "449.5"
-        }
-    ],
     "country": {
         "id": "302632",
         "code": "ID",

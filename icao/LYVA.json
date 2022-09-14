@@ -3,13 +3,13 @@
     "ident": "LYVA",
     "type": "small_airport",
     "name": "Divci Airport",
-    "latitude_deg": "44.297817",
-    "longitude_deg": "20.021913",
+    "latitude_deg": "44.29793",
+    "longitude_deg": "20.021567",
     "elevation_ft": "469",
     "continent": "EU",
     "iso_country": "RS",
     "iso_region": "RS-09",
-    "municipality": "Valjevo",
+    "municipality": "Divci",
     "scheduled_service": "no",
     "gps_code": "LYVA",
     "iata_code": "",
@@ -39,16 +39,6 @@
             "he_elevation_ft": "",
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
-        }
-    ],
-    "freqs": [
-        {
-            "id": "308322",
-            "airport_ref": "308320",
-            "airport_ident": "LYVA",
-            "type": "CTAF",
-            "description": "",
-            "frequency_mhz": "123.5"
         }
     ],
     "country": {

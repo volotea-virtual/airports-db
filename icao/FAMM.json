@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": "197"
         }
     ],
-    "freqs": [
-        {
-            "id": "57076",
-            "airport_ref": "2812",
-            "airport_ident": "FAMM",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "119.3"
-        },
-        {
-            "id": "57077",
-            "airport_ref": "2812",
-            "airport_ident": "FAMM",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "119.3"
-        }
-    ],
     "country": {
         "id": "302610",
         "code": "ZA",

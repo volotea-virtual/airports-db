@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51999",
-            "airport_ref": "3165",
-            "airport_ident": "HAGO",
-            "type": "RDO",
-            "description": "RDO",
-            "frequency_mhz": "125.2"
-        }
-    ],
     "country": {
         "id": "302572",
         "code": "ET",

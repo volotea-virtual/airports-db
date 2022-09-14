@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "54797",
-            "airport_ref": "5619",
-            "airport_ident": "RJTE",
-            "type": "APP",
-            "description": "TOKYO APP",
-            "frequency_mhz": "119.1"
-        },
-        {
-            "id": "54798",
-            "airport_ref": "5619",
-            "airport_ident": "RJTE",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "126.2"
-        }
-    ],
     "country": {
         "id": "302639",
         "code": "JP",

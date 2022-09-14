@@ -63,24 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "307879",
-            "airport_ref": "29187",
-            "airport_ident": "EGSN",
-            "type": "A/G",
-            "description": "Bourn Radio Twr",
-            "frequency_mhz": "124.35"
-        },
-        {
-            "id": "71910",
-            "airport_ref": "29187",
-            "airport_ident": "EGSN",
-            "type": "A/G",
-            "description": "Bourn A/G",
-            "frequency_mhz": "129.8"
-        }
-    ],
     "country": {
         "id": "302688",
         "code": "GB",

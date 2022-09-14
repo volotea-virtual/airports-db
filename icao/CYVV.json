@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "50702",
-            "airport_ref": "1943",
-            "airport_ident": "CYVV",
-            "type": "A/G",
-            "description": "MF",
-            "frequency_mhz": "122.2"
-        },
-        {
-            "id": "50703",
-            "airport_ref": "1943",
-            "airport_ident": "CYVV",
-            "type": "CNTR",
-            "description": "TORONTO CNTR",
-            "frequency_mhz": "132.575"
-        },
-        {
-            "id": "50704",
-            "airport_ref": "1943",
-            "airport_ident": "CYVV",
-            "type": "RDO",
-            "description": "LONDON RDO",
-            "frequency_mhz": "126.7"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

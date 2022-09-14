@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "75334",
-            "airport_ref": "30317",
-            "airport_ident": "ENRK",
-            "type": "UNIC",
-            "description": "Rakkestad Traffic",
-            "frequency_mhz": "122.95"
-        }
-    ],
     "country": {
         "id": "302709",
         "code": "NO",

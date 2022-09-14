@@ -85,56 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "57881",
-            "airport_ref": "4528",
-            "airport_ident": "LTBA",
-            "type": "APP",
-            "description": "YESILKOY APP",
-            "frequency_mhz": "120.5"
-        },
-        {
-            "id": "57882",
-            "airport_ref": "4528",
-            "airport_ident": "LTBA",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "128.2"
-        },
-        {
-            "id": "57883",
-            "airport_ref": "4528",
-            "airport_ident": "LTBA",
-            "type": "CLD",
-            "description": "YESILKOY DELIVERY",
-            "frequency_mhz": "121.7"
-        },
-        {
-            "id": "57884",
-            "airport_ref": "4528",
-            "airport_ident": "LTBA",
-            "type": "GND",
-            "description": "YESILKOY GND",
-            "frequency_mhz": "121.8"
-        },
-        {
-            "id": "57885",
-            "airport_ref": "4528",
-            "airport_ident": "LTBA",
-            "type": "RMP",
-            "description": "YESILKOY RAMP",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "57886",
-            "airport_ref": "4528",
-            "airport_ident": "LTBA",
-            "type": "TWR",
-            "description": "YESILKOY TWR",
-            "frequency_mhz": "118.1"
-        }
-    ],
     "country": {
         "id": "302667",
         "code": "TR",

@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "325768",
-            "airport_ref": "30969",
-            "airport_ident": "EBDT",
-            "type": "INFO",
-            "description": "Schaffen Radio",
-            "frequency_mhz": "118.93"
-        }
-    ],
     "country": {
         "id": "302676",
         "code": "BE",

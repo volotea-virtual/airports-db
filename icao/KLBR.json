@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "62894",
-            "airport_ref": "20321",
-            "airport_ident": "KLBR",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "118.925"
-        },
-        {
-            "id": "62895",
-            "airport_ref": "20321",
-            "airport_ident": "KLBR",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.9"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

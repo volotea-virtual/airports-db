@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "317175",
-            "airport_ref": "18966",
-            "airport_ident": "K67L",
-            "type": "AWOS",
-            "description": "",
-            "frequency_mhz": "118.525"
-        },
-        {
-            "id": "64130",
-            "airport_ref": "18966",
-            "airport_ident": "K67L",
-            "type": "CNTR",
-            "description": "LOS ANGELES CNTR",
-            "frequency_mhz": "124.2"
-        },
-        {
-            "id": "64131",
-            "airport_ref": "18966",
-            "airport_ident": "K67L",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

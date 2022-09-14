@@ -63,64 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "49639",
-            "airport_ref": "5872",
-            "airport_ident": "SBBR",
-            "type": "APP",
-            "description": "BRASILIA APP",
-            "frequency_mhz": "119.2"
-        },
-        {
-            "id": "49640",
-            "airport_ref": "5872",
-            "airport_ident": "SBBR",
-            "type": "ATIS",
-            "description": "BRASILIA ATIS",
-            "frequency_mhz": "127.8"
-        },
-        {
-            "id": "49641",
-            "airport_ref": "5872",
-            "airport_ident": "SBBR",
-            "type": "CLD",
-            "description": "BRASILIA CLNC DEL",
-            "frequency_mhz": "121.8"
-        },
-        {
-            "id": "49642",
-            "airport_ref": "5872",
-            "airport_ident": "SBBR",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.8"
-        },
-        {
-            "id": "49643",
-            "airport_ref": "5872",
-            "airport_ident": "SBBR",
-            "type": "OPS",
-            "description": "BRASILIA OPS",
-            "frequency_mhz": "122.5"
-        },
-        {
-            "id": "49644",
-            "airport_ref": "5872",
-            "airport_ident": "SBBR",
-            "type": "PMSV",
-            "description": "BRASILIA METRO",
-            "frequency_mhz": "132.6"
-        },
-        {
-            "id": "49645",
-            "airport_ref": "5872",
-            "airport_ident": "SBBR",
-            "type": "TWR",
-            "description": "BRASILIA TWR",
-            "frequency_mhz": "118.45"
-        }
-    ],
     "country": {
         "id": "302791",
         "code": "BR",

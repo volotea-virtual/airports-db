@@ -63,16 +63,6 @@
             "he_displaced_threshold_ft": "430"
         }
     ],
-    "freqs": [
-        {
-            "id": "312603",
-            "airport_ref": "28977",
-            "airport_ident": "LFPQ",
-            "type": "A/A",
-            "description": "Fontenay Tresigny",
-            "frequency_mhz": "120.225"
-        }
-    ],
     "country": {
         "id": "302687",
         "code": "FR",

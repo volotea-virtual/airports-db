@@ -63,24 +63,6 @@
             "he_displaced_threshold_ft": "197"
         }
     ],
-    "freqs": [
-        {
-            "id": "55684",
-            "airport_ref": "27141",
-            "airport_ident": "YSNF",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "118.1"
-        },
-        {
-            "id": "55685",
-            "airport_ref": "27141",
-            "airport_ident": "YSNF",
-            "type": "FSS",
-            "description": "AUCKLAND RDO",
-            "frequency_mhz": "346.7"
-        }
-    ],
     "country": {
         "id": "302773",
         "code": "NF",

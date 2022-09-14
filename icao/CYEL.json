@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "50468",
-            "airport_ref": "1719",
-            "airport_ident": "CYEL",
-            "type": "CNTR",
-            "description": "TORONTO CNTR",
-            "frequency_mhz": "135.4"
-        },
-        {
-            "id": "50469",
-            "airport_ref": "1719",
-            "airport_ident": "CYEL",
-            "type": "UNIC",
-            "description": "ATF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

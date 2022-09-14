@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "53125",
-            "airport_ref": "2258",
-            "airport_ident": "EDOP",
-            "type": "AFIS",
-            "description": "BERLIN INFO",
-            "frequency_mhz": "132.65"
-        },
-        {
-            "id": "53126",
-            "airport_ref": "2258",
-            "airport_ident": "EDOP",
-            "type": "INFO",
-            "description": "PARCHIM INFO",
-            "frequency_mhz": "128.9"
-        },
-        {
-            "id": "53127",
-            "airport_ref": "2258",
-            "airport_ident": "EDOP",
-            "type": "RDR",
-            "description": "BERLIN RADAR",
-            "frequency_mhz": "126.175"
-        },
-        {
-            "id": "53128",
-            "airport_ref": "2258",
-            "airport_ident": "EDOP",
-            "type": "TWR",
-            "description": "PARCHIM TWR",
-            "frequency_mhz": "128.9"
-        }
-    ],
     "country": {
         "id": "302681",
         "code": "DE",

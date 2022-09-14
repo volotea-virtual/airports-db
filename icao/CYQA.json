@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "298489",
-            "airport_ref": "1863",
-            "airport_ident": "CYQA",
-            "type": "AWOS",
-            "description": "",
-            "frequency_mhz": "124.575"
-        },
-        {
-            "id": "50289",
-            "airport_ref": "1863",
-            "airport_ident": "CYQA",
-            "type": "MF",
-            "description": "Timmins Radio",
-            "frequency_mhz": "122.3"
-        },
-        {
-            "id": "50290",
-            "airport_ref": "1863",
-            "airport_ident": "CYQA",
-            "type": "RCO",
-            "description": "LONDON RDO",
-            "frequency_mhz": "123.475"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

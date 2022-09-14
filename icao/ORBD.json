@@ -63,56 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "54390",
-            "airport_ref": "5288",
-            "airport_ident": "ORBD",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "126.425"
-        },
-        {
-            "id": "54391",
-            "airport_ref": "5288",
-            "airport_ident": "ORBD",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "128.75"
-        },
-        {
-            "id": "54392",
-            "airport_ref": "5288",
-            "airport_ident": "ORBD",
-            "type": "MISC",
-            "description": "SOF",
-            "frequency_mhz": "126.75"
-        },
-        {
-            "id": "54393",
-            "airport_ref": "5288",
-            "airport_ident": "ORBD",
-            "type": "PMSV",
-            "description": "METRO",
-            "frequency_mhz": "33.6"
-        },
-        {
-            "id": "54394",
-            "airport_ref": "5288",
-            "airport_ident": "ORBD",
-            "type": "POST",
-            "description": "COMD POST",
-            "frequency_mhz": "33.19"
-        },
-        {
-            "id": "54395",
-            "airport_ref": "5288",
-            "airport_ident": "ORBD",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "119.875"
-        }
-    ],
     "country": {
         "id": "302636",
         "code": "IQ",

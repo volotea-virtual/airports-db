@@ -17,24 +17,6 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
-    "freqs": [
-        {
-            "id": "74841",
-            "airport_ref": "28024",
-            "airport_ident": "YVRS",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "126.7"
-        },
-        {
-            "id": "74842",
-            "airport_ref": "28024",
-            "airport_ident": "YVRS",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "118.6"
-        }
-    ],
     "country": {
         "id": "302764",
         "code": "AU",

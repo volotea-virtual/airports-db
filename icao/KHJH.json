@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "71381",
-            "airport_ref": "20055",
-            "airport_ident": "KHJH",
-            "type": "AWOS",
-            "description": "AWOS3",
-            "frequency_mhz": "118.525"
-        },
-        {
-            "id": "71382",
-            "airport_ref": "20055",
-            "airport_ident": "KHJH",
-            "type": "CNTR",
-            "description": "MINNEAPOLIS CNTR",
-            "frequency_mhz": "126.4"
-        },
-        {
-            "id": "71383",
-            "airport_ref": "20055",
-            "airport_ident": "KHJH",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.9"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

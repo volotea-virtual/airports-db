@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "56258",
-            "airport_ref": "4790",
-            "airport_ident": "MPEJ",
-            "type": "APP",
-            "description": "PANAMA APP",
-            "frequency_mhz": "119.7"
-        },
-        {
-            "id": "56259",
-            "airport_ref": "4790",
-            "airport_ident": "MPEJ",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.7"
-        },
-        {
-            "id": "56260",
-            "airport_ref": "4790",
-            "airport_ident": "MPEJ",
-            "type": "TWR",
-            "description": "JIMENEZ TWR",
-            "frequency_mhz": "118.5"
-        },
-        {
-            "id": "56261",
-            "airport_ref": "4790",
-            "airport_ident": "MPEJ",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302749",
         "code": "PA",

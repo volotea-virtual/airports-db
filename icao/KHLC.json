@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "67717",
-            "airport_ref": "20060",
-            "airport_ident": "KHLC",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "118.425"
-        },
-        {
-            "id": "67718",
-            "airport_ref": "20060",
-            "airport_ident": "KHLC",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.8"
-        },
-        {
-            "id": "67719",
-            "airport_ref": "20060",
-            "airport_ident": "KHLC",
-            "type": "FSS",
-            "description": "WICHITA RDO",
-            "frequency_mhz": "122.65"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

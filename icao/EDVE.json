@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "52867",
-            "airport_ref": "2284",
-            "airport_ident": "EDVE",
-            "type": "ACC",
-            "description": "BREMEN RADAR",
-            "frequency_mhz": "131.325"
-        },
-        {
-            "id": "52868",
-            "airport_ref": "2284",
-            "airport_ident": "EDVE",
-            "type": "AFIS",
-            "description": "BREMEN INFO",
-            "frequency_mhz": "119.825"
-        },
-        {
-            "id": "52869",
-            "airport_ref": "2284",
-            "airport_ident": "EDVE",
-            "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "120.05"
-        },
-        {
-            "id": "52870",
-            "airport_ref": "2284",
-            "airport_ident": "EDVE",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "120.05"
-        }
-    ],
     "country": {
         "id": "302681",
         "code": "DE",

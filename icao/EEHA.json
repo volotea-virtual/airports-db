@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "352885",
-            "airport_ref": "308836",
-            "airport_ident": "EEHA",
-            "type": "RADAR",
-            "description": "Tallinn Radar",
-            "frequency_mhz": "127.905"
-        }
-    ],
     "country": {
         "id": "302683",
         "code": "EE",

@@ -41,48 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55023",
-            "airport_ref": "5636",
-            "airport_ident": "RKNN",
-            "type": "A/D",
-            "description": "APP/DEP",
-            "frequency_mhz": "124.6"
-        },
-        {
-            "id": "55024",
-            "airport_ref": "5636",
-            "airport_ident": "RKNN",
-            "type": "ACP",
-            "description": "BRICKWALL",
-            "frequency_mhz": "120"
-        },
-        {
-            "id": "55025",
-            "airport_ref": "5636",
-            "airport_ident": "RKNN",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "132.05"
-        },
-        {
-            "id": "55026",
-            "airport_ref": "5636",
-            "airport_ident": "RKNN",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "27.58"
-        },
-        {
-            "id": "55027",
-            "airport_ref": "5636",
-            "airport_ident": "RKNN",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "126.2"
-        }
-    ],
     "country": {
         "id": "302643",
         "code": "KR",

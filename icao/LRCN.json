@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "316321",
-            "airport_ref": "300163",
-            "airport_ident": "LRCN",
-            "type": "Info",
-            "description": "",
-            "frequency_mhz": "128.3"
-        }
-    ],
     "country": {
         "id": "302712",
         "code": "RO",

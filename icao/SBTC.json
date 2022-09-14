@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "49575",
-            "airport_ref": "5980",
-            "airport_ident": "SBTC",
-            "type": "AFIS",
-            "description": "COMANDATUBA RDO",
-            "frequency_mhz": "130.25"
-        }
-    ],
     "country": {
         "id": "302791",
         "code": "BR",

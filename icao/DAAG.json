@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "48275",
-            "airport_ref": "2050",
-            "airport_ident": "DAAG",
-            "type": "APP",
-            "description": "ALGIERS APP",
-            "frequency_mhz": "121.4"
-        },
-        {
-            "id": "348255",
-            "airport_ref": "2050",
-            "airport_ident": "DAAG",
-            "type": "CCR",
-            "description": "ALGIERS CCR",
-            "frequency_mhz": "127.3"
-        },
-        {
-            "id": "48276",
-            "airport_ref": "2050",
-            "airport_ident": "DAAG",
-            "type": "GND",
-            "description": "ALGIERS GND",
-            "frequency_mhz": "121.8"
-        },
-        {
-            "id": "48277",
-            "airport_ref": "2050",
-            "airport_ident": "DAAG",
-            "type": "TWR",
-            "description": "ALGIERS TWR",
-            "frequency_mhz": "118.7"
-        }
-    ],
     "country": {
         "id": "302568",
         "code": "DZ",

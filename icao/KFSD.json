@@ -85,64 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "61514",
-            "airport_ref": "3541",
-            "airport_ident": "KFSD",
-            "type": "A/D",
-            "description": "SIOUX FALLS APP/DEP",
-            "frequency_mhz": "125.8"
-        },
-        {
-            "id": "61515",
-            "airport_ref": "3541",
-            "airport_ident": "KFSD",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "126.6"
-        },
-        {
-            "id": "61516",
-            "airport_ref": "3541",
-            "airport_ident": "KFSD",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "118.3"
-        },
-        {
-            "id": "61517",
-            "airport_ref": "3541",
-            "airport_ident": "KFSD",
-            "type": "GND",
-            "description": "SIOUX FALLS GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "61518",
-            "airport_ref": "3541",
-            "airport_ident": "KFSD",
-            "type": "RDO",
-            "description": "HURON RDO",
-            "frequency_mhz": "122.2"
-        },
-        {
-            "id": "61519",
-            "airport_ref": "3541",
-            "airport_ident": "KFSD",
-            "type": "TWR",
-            "description": "SIOUX FALLS TWR",
-            "frequency_mhz": "118.3"
-        },
-        {
-            "id": "61520",
-            "airport_ref": "3541",
-            "airport_ident": "KFSD",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.95"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

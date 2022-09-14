@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "57386",
-            "airport_ref": "3243",
-            "airport_ident": "HSLI",
-            "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "120.7"
-        }
-    ],
     "country": {
         "id": "302597",
         "code": "SD",

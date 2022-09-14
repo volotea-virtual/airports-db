@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "60633",
-            "airport_ref": "21363",
-            "airport_ident": "KW91",
-            "type": "A/D",
-            "description": "ROANOKE APP/DEP",
-            "frequency_mhz": "135"
-        },
-        {
-            "id": "60634",
-            "airport_ref": "21363",
-            "airport_ident": "KW91",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

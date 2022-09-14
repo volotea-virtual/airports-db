@@ -17,16 +17,6 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "Shirpur, Dhule",
-    "freqs": [
-        {
-            "id": "75514",
-            "airport_ref": "46625",
-            "airport_ident": "IN-0062",
-            "type": "TWR",
-            "description": "Shirpur",
-            "frequency_mhz": "122.75"
-        }
-    ],
     "country": {
         "id": "302634",
         "code": "IN",

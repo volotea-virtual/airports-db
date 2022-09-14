@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "75512",
-            "airport_ref": "723",
-            "airport_ident": "CBU2",
-            "type": "CTAF",
-            "description": "",
-            "frequency_mhz": "123.2"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

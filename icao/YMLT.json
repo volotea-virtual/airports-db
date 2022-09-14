@@ -85,40 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "48946",
-            "airport_ref": "27063",
-            "airport_ident": "YMLT",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "112.6"
-        },
-        {
-            "id": "48947",
-            "airport_ref": "27063",
-            "airport_ident": "YMLT",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "118.7"
-        },
-        {
-            "id": "48948",
-            "airport_ref": "27063",
-            "airport_ident": "YMLT",
-            "type": "FSS",
-            "description": "MELBOURNE CNTR",
-            "frequency_mhz": "126.5"
-        },
-        {
-            "id": "48949",
-            "airport_ref": "27063",
-            "airport_ident": "YMLT",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.7"
-        }
-    ],
     "country": {
         "id": "302764",
         "code": "AU",

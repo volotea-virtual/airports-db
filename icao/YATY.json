@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "72132",
-            "airport_ref": "38234",
-            "airport_ident": "YATY",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "124.8"
-        },
-        {
-            "id": "72133",
-            "airport_ref": "38234",
-            "airport_ident": "YATY",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "113.9"
-        },
-        {
-            "id": "72134",
-            "airport_ref": "38234",
-            "airport_ident": "YATY",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "122.4"
-        }
-    ],
     "country": {
         "id": "302764",
         "code": "AU",

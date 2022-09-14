@@ -28,27 +28,17 @@
             "lighted": "1",
             "closed": "0",
             "le_ident": "12",
-            "le_latitude_deg": "",
-            "le_longitude_deg": "",
-            "le_elevation_ft": "",
+            "le_latitude_deg": "-28.281116",
+            "le_longitude_deg": "-54.17775",
+            "le_elevation_ft": "1031",
             "le_heading_degT": "",
             "le_displaced_threshold_ft": "",
             "he_ident": "30",
-            "he_latitude_deg": "",
-            "he_longitude_deg": "",
-            "he_elevation_ft": "",
+            "he_latitude_deg": "-28.283873",
+            "he_longitude_deg": "-54.161484",
+            "he_elevation_ft": "1031",
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
-        }
-    ],
-    "freqs": [
-        {
-            "id": "49597",
-            "airport_ref": "5948",
-            "airport_ident": "SBNM",
-            "type": "AFIS",
-            "description": "RDO",
-            "frequency_mhz": "131.65"
         }
     ],
     "country": {

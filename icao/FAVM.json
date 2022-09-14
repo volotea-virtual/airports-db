@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "57049",
-            "airport_ref": "2851",
-            "airport_ident": "FAVM",
-            "type": "CTAF",
-            "description": "RDO",
-            "frequency_mhz": "124.8"
-        },
-        {
-            "id": "57050",
-            "airport_ref": "2851",
-            "airport_ident": "FAVM",
-            "type": "MISC",
-            "description": "VENETIA MINE",
-            "frequency_mhz": "130.4"
-        }
-    ],
     "country": {
         "id": "302610",
         "code": "ZA",

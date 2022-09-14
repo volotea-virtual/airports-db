@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55534",
-            "airport_ref": "4763",
-            "airport_ident": "MMVA",
-            "type": "APP",
-            "description": "VILLAHERMOSA APP",
-            "frequency_mhz": "120.7"
-        },
-        {
-            "id": "55535",
-            "airport_ref": "4763",
-            "airport_ident": "MMVA",
-            "type": "TWR",
-            "description": "VILLAHERMOSA TWR",
-            "frequency_mhz": "118.7"
-        }
-    ],
     "country": {
         "id": "302747",
         "code": "MX",

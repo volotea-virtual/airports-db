@@ -3,8 +3,8 @@
     "ident": "TH-0003",
     "type": "small_airport",
     "name": "Klong 15 Airfield",
-    "latitude_deg": "14.113873150100002",
-    "longitude_deg": "100.947768688",
+    "latitude_deg": "14.114705",
+    "longitude_deg": "100.949485",
     "elevation_ft": "15",
     "continent": "AS",
     "iso_country": "TH",
@@ -39,16 +39,6 @@
             "he_elevation_ft": "",
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
-        }
-    ],
-    "freqs": [
-        {
-            "id": "354705",
-            "airport_ref": "308758",
-            "airport_ident": "TH-0003",
-            "type": "TWR",
-            "description": "BAC Tower",
-            "frequency_mhz": "131"
         }
     ],
     "country": {

@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "54360",
-            "airport_ref": "2099",
-            "airport_ident": "DIKO",
-            "type": "A/G",
-            "description": "A/G",
-            "frequency_mhz": "667.3"
-        },
-        {
-            "id": "54361",
-            "airport_ref": "2099",
-            "airport_ident": "DIKO",
-            "type": "AFIS",
-            "description": "AFIS",
-            "frequency_mhz": "118.6"
-        }
-    ],
     "country": {
         "id": "302564",
         "code": "CI",

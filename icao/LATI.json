@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "48311",
-            "airport_ref": "3972",
-            "airport_ident": "LATI",
-            "type": "ACC",
-            "description": "ACC",
-            "frequency_mhz": "127.5"
-        },
-        {
-            "id": "48312",
-            "airport_ref": "3972",
-            "airport_ident": "LATI",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "133.15"
-        },
-        {
-            "id": "48313",
-            "airport_ref": "3972",
-            "airport_ident": "LATI",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "122.5"
-        }
-    ],
     "country": {
         "id": "302673",
         "code": "AL",

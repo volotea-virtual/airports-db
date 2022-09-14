@@ -63,24 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "66823",
-            "airport_ref": "19455",
-            "airport_ident": "KC81",
-            "type": "A/D",
-            "description": "CHICAGO APP/DEP",
-            "frequency_mhz": "120.55"
-        },
-        {
-            "id": "66824",
-            "airport_ref": "19455",
-            "airport_ident": "KC81",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.7"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

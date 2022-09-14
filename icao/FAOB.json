@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "57117",
-            "airport_ref": "2818",
-            "airport_ident": "FAOB",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "119.8"
-        },
-        {
-            "id": "57118",
-            "airport_ref": "2818",
-            "airport_ident": "FAOB",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "119.8"
-        },
-        {
-            "id": "57119",
-            "airport_ref": "2818",
-            "airport_ident": "FAOB",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "119.8"
-        }
-    ],
     "country": {
         "id": "302610",
         "code": "ZA",

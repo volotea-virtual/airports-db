@@ -3,8 +3,8 @@
     "ident": "BGSF",
     "type": "medium_airport",
     "name": "Kangerlussuaq Airport",
-    "latitude_deg": "67.012222",
-    "longitude_deg": "-50.711603",
+    "latitude_deg": "67.010446",
+    "longitude_deg": "-50.715294",
     "elevation_ft": "165",
     "continent": "NA",
     "iso_country": "GL",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Kangerlussuaq_Airport",
-    "keywords": "Sondre Stromfjord",
+    "keywords": "Bluie West 8, Sondrestrom, Sondrestromfjord",
     "runways": [
         {
             "id": "236105",
@@ -39,32 +39,6 @@
             "he_elevation_ft": "165",
             "he_heading_degT": "241.6",
             "he_displaced_threshold_ft": ""
-        }
-    ],
-    "freqs": [
-        {
-            "id": "52699",
-            "airport_ref": "115",
-            "airport_ident": "BGSF",
-            "type": "A/D",
-            "description": "APP/DEP",
-            "frequency_mhz": "126.2"
-        },
-        {
-            "id": "52700",
-            "airport_ref": "115",
-            "airport_ident": "BGSF",
-            "type": "RDO",
-            "description": "RDO",
-            "frequency_mhz": "121.3"
-        },
-        {
-            "id": "52701",
-            "airport_ref": "115",
-            "airport_ident": "BGSF",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.3"
         }
     ],
     "country": {

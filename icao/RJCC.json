@@ -63,64 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "54608",
-            "airport_ref": "5544",
-            "airport_ident": "RJCC",
-            "type": "APP",
-            "description": "CHITOSE APP",
-            "frequency_mhz": "120.1"
-        },
-        {
-            "id": "54609",
-            "airport_ref": "5544",
-            "airport_ident": "RJCC",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "128.6"
-        },
-        {
-            "id": "54610",
-            "airport_ref": "5544",
-            "airport_ident": "RJCC",
-            "type": "CLD",
-            "description": "CHITOSE CLNC DEL",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "54611",
-            "airport_ref": "5544",
-            "airport_ident": "RJCC",
-            "type": "DEP",
-            "description": "CHITOSE DEP",
-            "frequency_mhz": "124.7"
-        },
-        {
-            "id": "54612",
-            "airport_ref": "5544",
-            "airport_ident": "RJCC",
-            "type": "GND",
-            "description": "CHITOSE GND",
-            "frequency_mhz": "121.6"
-        },
-        {
-            "id": "54613",
-            "airport_ref": "5544",
-            "airport_ident": "RJCC",
-            "type": "TCA",
-            "description": "TCA",
-            "frequency_mhz": "127.7"
-        },
-        {
-            "id": "54614",
-            "airport_ref": "5544",
-            "airport_ident": "RJCC",
-            "type": "TWR",
-            "description": "CHITOSE TWR",
-            "frequency_mhz": "118.8"
-        }
-    ],
     "country": {
         "id": "302639",
         "code": "JP",

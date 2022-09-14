@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51960",
-            "airport_ref": "2302",
-            "airport_ident": "EETU",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "133.9"
-        }
-    ],
     "country": {
         "id": "302683",
         "code": "EE",

@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": "227"
         }
     ],
-    "freqs": [
-        {
-            "id": "53331",
-            "airport_ref": "4255",
-            "airport_ident": "LGHI",
-            "type": "A/G",
-            "description": "RDO",
-            "frequency_mhz": "563.7"
-        },
-        {
-            "id": "53332",
-            "airport_ref": "4255",
-            "airport_ident": "LGHI",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "124"
-        },
-        {
-            "id": "53333",
-            "airport_ref": "4255",
-            "airport_ident": "LGHI",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "122.7"
-        }
-    ],
     "country": {
         "id": "302691",
         "code": "GR",

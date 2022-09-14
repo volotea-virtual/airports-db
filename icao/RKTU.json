@@ -63,64 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "54907",
-            "airport_ref": "5663",
-            "airport_ident": "RKTU",
-            "type": "ACP",
-            "description": "BRICKWALL",
-            "frequency_mhz": "120"
-        },
-        {
-            "id": "54908",
-            "airport_ref": "5663",
-            "airport_ident": "RKTU",
-            "type": "APP",
-            "description": "JUNGWON APP",
-            "frequency_mhz": "134"
-        },
-        {
-            "id": "54909",
-            "airport_ref": "5663",
-            "airport_ident": "RKTU",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "128.85"
-        },
-        {
-            "id": "54910",
-            "airport_ref": "5663",
-            "airport_ident": "RKTU",
-            "type": "DEP",
-            "description": "JUNGWON DEP",
-            "frequency_mhz": "134"
-        },
-        {
-            "id": "323201",
-            "airport_ref": "5663",
-            "airport_ident": "RKTU",
-            "type": "RKTU_APP",
-            "description": "Cheongju Intl Approach",
-            "frequency_mhz": "134"
-        },
-        {
-            "id": "54911",
-            "airport_ref": "5663",
-            "airport_ident": "RKTU",
-            "type": "RKTU_GND",
-            "description": "Cheongju Intl Ground",
-            "frequency_mhz": "120.65"
-        },
-        {
-            "id": "54912",
-            "airport_ref": "5663",
-            "airport_ident": "RKTU",
-            "type": "RKTU_TWR",
-            "description": "Cheongju Intl Tower",
-            "frequency_mhz": "118.7"
-        }
-    ],
     "country": {
         "id": "302643",
         "code": "KR",

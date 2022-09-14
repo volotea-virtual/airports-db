@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "48331",
-            "airport_ref": "2947",
-            "airport_ident": "FNNG",
-            "type": "AFIS",
-            "description": "AFIS",
-            "frequency_mhz": "118.7"
-        }
-    ],
     "country": {
         "id": "302556",
         "code": "AO",

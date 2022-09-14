@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "62628",
-            "airport_ref": "21328",
-            "airport_ident": "KVLA",
-            "type": "CNTR",
-            "description": "KANSAS CITY CNTR",
-            "frequency_mhz": "124.3"
-        },
-        {
-            "id": "62629",
-            "airport_ref": "21328",
-            "airport_ident": "KVLA",
-            "type": "RDO",
-            "description": "ST LOUIS RDO",
-            "frequency_mhz": "114.3"
-        },
-        {
-            "id": "62630",
-            "airport_ref": "21328",
-            "airport_ident": "KVLA",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

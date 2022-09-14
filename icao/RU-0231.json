@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "307662",
-            "airport_ref": "44926",
-            "airport_ident": "RU-0231",
-            "type": "CTAF",
-            "description": "Vatulino start",
-            "frequency_mhz": "125.55"
-        }
-    ],
     "country": {
         "id": "302714",
         "code": "RU",

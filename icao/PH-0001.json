@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "320956",
-            "airport_ref": "308633",
-            "airport_ident": "PH-0001",
-            "type": "APPR",
-            "description": "",
-            "frequency_mhz": "124.27"
-        },
-        {
-            "id": "308879",
-            "airport_ref": "308633",
-            "airport_ident": "PH-0001",
-            "type": "FSS",
-            "description": "Laguindingan Radio",
-            "frequency_mhz": "126.7"
-        },
-        {
-            "id": "320955",
-            "airport_ref": "308633",
-            "airport_ident": "PH-0001",
-            "type": "TWR",
-            "description": "",
-            "frequency_mhz": "116.1"
-        }
-    ],
     "country": {
         "id": "302656",
         "code": "PH",

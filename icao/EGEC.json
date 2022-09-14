@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": "1400"
         }
     ],
-    "freqs": [
-        {
-            "id": "58187",
-            "airport_ref": "2411",
-            "airport_ident": "EGEC",
-            "type": "AFIS",
-            "description": "Cambeltown Information",
-            "frequency_mhz": "125.905"
-        }
-    ],
     "country": {
         "id": "302688",
         "code": "GB",

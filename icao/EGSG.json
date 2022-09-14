@@ -85,16 +85,6 @@
             "he_displaced_threshold_ft": "705"
         }
     ],
-    "freqs": [
-        {
-            "id": "71987",
-            "airport_ref": "29182",
-            "airport_ident": "EGSG",
-            "type": "A/G",
-            "description": "Stapleford A/G",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302688",
         "code": "GB",

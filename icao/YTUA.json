@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "74776",
-            "airport_ref": "28007",
-            "airport_ident": "YTUA",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "125.55"
-        },
-        {
-            "id": "74777",
-            "airport_ref": "28007",
-            "airport_ident": "YTUA",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "114.1"
-        },
-        {
-            "id": "74778",
-            "airport_ref": "28007",
-            "airport_ident": "YTUA",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "123.4"
-        },
-        {
-            "id": "74779",
-            "airport_ref": "28007",
-            "airport_ident": "YTUA",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "128.85"
-        }
-    ],
     "country": {
         "id": "302764",
         "code": "AU",

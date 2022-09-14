@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51200",
-            "airport_ref": "27226",
-            "airport_ident": "ZSWH",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "127.05"
-        },
-        {
-            "id": "51201",
-            "airport_ref": "27226",
-            "airport_ident": "ZSWH",
-            "type": "TWR",
-            "description": "WEIHAI TWR",
-            "frequency_mhz": "130"
-        }
-    ],
     "country": {
         "id": "302627",
         "code": "CN",

@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "316526",
-            "airport_ref": "316525",
-            "airport_ident": "CZ-0074",
-            "type": "Info",
-            "description": "Aircon Radio",
-            "frequency_mhz": "120.675"
-        }
-    ],
     "country": {
         "id": "302680",
         "code": "CZ",

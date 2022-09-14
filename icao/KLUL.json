@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "71558",
-            "airport_ref": "20381",
-            "airport_ident": "KLUL",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "119.275"
-        },
-        {
-            "id": "71559",
-            "airport_ref": "20381",
-            "airport_ident": "KLUL",
-            "type": "CNTR",
-            "description": "HOUSTON CNTR",
-            "frequency_mhz": "123.5"
-        },
-        {
-            "id": "71560",
-            "airport_ref": "20381",
-            "airport_ident": "KLUL",
-            "type": "RDO",
-            "description": "GREENWOOD RDO",
-            "frequency_mhz": "122.3"
-        },
-        {
-            "id": "71561",
-            "airport_ref": "20381",
-            "airport_ident": "KLUL",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123.05"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

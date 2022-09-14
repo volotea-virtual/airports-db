@@ -41,64 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "56273",
-            "airport_ref": "4451",
-            "airport_ident": "LPLA",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "135"
-        },
-        {
-            "id": "56274",
-            "airport_ref": "4451",
-            "airport_ident": "LPLA",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "120.3"
-        },
-        {
-            "id": "56275",
-            "airport_ref": "4451",
-            "airport_ident": "LPLA",
-            "type": "GCCD",
-            "description": "GND",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "56276",
-            "airport_ref": "4451",
-            "airport_ident": "LPLA",
-            "type": "MISC",
-            "description": "AMC COMD POST",
-            "frequency_mhz": "130.65"
-        },
-        {
-            "id": "56277",
-            "airport_ref": "4451",
-            "airport_ident": "LPLA",
-            "type": "PMSV",
-            "description": "PMSV METRO",
-            "frequency_mhz": "28.442"
-        },
-        {
-            "id": "56278",
-            "airport_ref": "4451",
-            "airport_ident": "LPLA",
-            "type": "PTD",
-            "description": "PTD",
-            "frequency_mhz": "30.877"
-        },
-        {
-            "id": "56279",
-            "airport_ref": "4451",
-            "airport_ident": "LPLA",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "122.1"
-        }
-    ],
     "country": {
         "id": "302711",
         "code": "PT",

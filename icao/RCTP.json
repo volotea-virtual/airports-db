@@ -9,7 +9,7 @@
     "continent": "AS",
     "iso_country": "TW",
     "iso_region": "TW-TAO",
-    "municipality": "Taipei",
+    "municipality": "Taoyuan (Dayuan)",
     "scheduled_service": "yes",
     "gps_code": "RCTP",
     "iata_code": "TPE",
@@ -61,72 +61,6 @@
             "he_elevation_ft": "95",
             "he_heading_degT": "229.3",
             "he_displaced_threshold_ft": "1167"
-        }
-    ],
-    "freqs": [
-        {
-            "id": "58029",
-            "airport_ref": "5528",
-            "airport_ident": "RCTP",
-            "type": "APP",
-            "description": "TAIPEI APP",
-            "frequency_mhz": "119.6"
-        },
-        {
-            "id": "58030",
-            "airport_ref": "5528",
-            "airport_ident": "RCTP",
-            "type": "APP",
-            "description": "TAIPEI APP",
-            "frequency_mhz": "123.5"
-        },
-        {
-            "id": "319475",
-            "airport_ref": "5528",
-            "airport_ident": "RCTP",
-            "type": "APP",
-            "description": "",
-            "frequency_mhz": "125.1"
-        },
-        {
-            "id": "58031",
-            "airport_ref": "5528",
-            "airport_ident": "RCTP",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "127.6"
-        },
-        {
-            "id": "58032",
-            "airport_ref": "5528",
-            "airport_ident": "RCTP",
-            "type": "CLD",
-            "description": "CLNC DEL",
-            "frequency_mhz": "121.8"
-        },
-        {
-            "id": "319476",
-            "airport_ref": "5528",
-            "airport_ident": "RCTP",
-            "type": "DEP",
-            "description": "",
-            "frequency_mhz": "128.5"
-        },
-        {
-            "id": "58033",
-            "airport_ref": "5528",
-            "airport_ident": "RCTP",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.7"
-        },
-        {
-            "id": "58034",
-            "airport_ref": "5528",
-            "airport_ident": "RCTP",
-            "type": "TWR",
-            "description": "TAIPEI TWR",
-            "frequency_mhz": "118.7"
         }
     ],
     "country": {

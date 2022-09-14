@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": "197"
         }
     ],
-    "freqs": [
-        {
-            "id": "55804",
-            "airport_ref": "2579",
-            "airport_ident": "ENHD",
-            "type": "ATIS",
-            "description": "Karmøy ATIS",
-            "frequency_mhz": "118.175"
-        },
-        {
-            "id": "55805",
-            "airport_ref": "2579",
-            "airport_ident": "ENHD",
-            "type": "TWR",
-            "description": "Karmøy Tower",
-            "frequency_mhz": "120.5"
-        }
-    ],
     "country": {
         "id": "302709",
         "code": "NO",

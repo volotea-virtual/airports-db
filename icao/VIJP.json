@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "53871",
-            "airport_ref": "26563",
-            "airport_ident": "VIJP",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "126.6"
-        },
-        {
-            "id": "53870",
-            "airport_ref": "26563",
-            "airport_ident": "VIJP",
-            "type": "TWR(HO)",
-            "description": "",
-            "frequency_mhz": "124.3"
-        },
-        {
-            "id": "53872",
-            "airport_ref": "26563",
-            "airport_ident": "VIJP",
-            "type": "TWR/APP",
-            "description": "TWR",
-            "frequency_mhz": "125.25"
-        }
-    ],
     "country": {
         "id": "302634",
         "code": "IN",

@@ -107,40 +107,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "57042",
-            "airport_ref": "2805",
-            "airport_ident": "FALW",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "122.5"
-        },
-        {
-            "id": "57043",
-            "airport_ref": "2805",
-            "airport_ident": "FALW",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "117"
-        },
-        {
-            "id": "57044",
-            "airport_ref": "2805",
-            "airport_ident": "FALW",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.75"
-        },
-        {
-            "id": "57045",
-            "airport_ref": "2805",
-            "airport_ident": "FALW",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "128.8"
-        }
-    ],
     "country": {
         "id": "302610",
         "code": "ZA",

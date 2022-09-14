@@ -85,32 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55686",
-            "airport_ref": "2125",
-            "airport_ident": "DRRN",
-            "type": "ACC",
-            "description": "NIAMEY CON",
-            "frequency_mhz": "131.3"
-        },
-        {
-            "id": "55687",
-            "airport_ref": "2125",
-            "airport_ident": "DRRN",
-            "type": "INFO",
-            "description": "NIAMEY INFO",
-            "frequency_mhz": "565.2"
-        },
-        {
-            "id": "55688",
-            "airport_ref": "2125",
-            "airport_ident": "DRRN",
-            "type": "TWR",
-            "description": "NIAMEY TWR",
-            "frequency_mhz": "119.7"
-        }
-    ],
     "country": {
         "id": "302592",
         "code": "NE",

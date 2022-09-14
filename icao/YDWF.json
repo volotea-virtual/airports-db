@@ -17,32 +17,6 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
-    "freqs": [
-        {
-            "id": "72851",
-            "airport_ref": "27536",
-            "airport_ident": "YDWF",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "120.7"
-        },
-        {
-            "id": "72852",
-            "airport_ref": "27536",
-            "airport_ident": "YDWF",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "114.3"
-        },
-        {
-            "id": "72853",
-            "airport_ref": "27536",
-            "airport_ident": "YDWF",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "122.1"
-        }
-    ],
     "country": {
         "id": "302764",
         "code": "AU",

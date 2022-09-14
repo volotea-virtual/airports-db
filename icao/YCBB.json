@@ -3,8 +3,8 @@
     "ident": "YCBB",
     "type": "medium_airport",
     "name": "Coonabarabran Airport",
-    "latitude_deg": "-31.332500457763672",
-    "longitude_deg": "149.26699829101562",
+    "latitude_deg": "-31.3325",
+    "longitude_deg": "149.266998",
     "elevation_ft": "2117",
     "continent": "OC",
     "iso_country": "AU",
@@ -15,7 +15,7 @@
     "iata_code": "COJ",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Coonabarabran_Airport",
     "keywords": "",
     "runways": [
         {
@@ -61,24 +61,6 @@
             "he_elevation_ft": "2117",
             "he_heading_degT": "303",
             "he_displaced_threshold_ft": ""
-        }
-    ],
-    "freqs": [
-        {
-            "id": "48699",
-            "airport_ref": "26944",
-            "airport_ident": "YCBB",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "126.7"
-        },
-        {
-            "id": "48700",
-            "airport_ref": "26944",
-            "airport_ident": "YCBB",
-            "type": "FSS",
-            "description": "BRISBANE CNTR",
-            "frequency_mhz": "127.1"
         }
     ],
     "country": {

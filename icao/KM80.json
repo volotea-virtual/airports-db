@@ -63,16 +63,6 @@
             "he_displaced_threshold_ft": "250"
         }
     ],
-    "freqs": [
-        {
-            "id": "65665",
-            "airport_ref": "20457",
-            "airport_ident": "KM80",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.9"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "49956",
-            "airport_ref": "1517",
-            "airport_ident": "CSG3",
-            "type": "UNIC",
-            "description": "ATF/UNICOM",
-            "frequency_mhz": "123.5"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "57158",
-            "airport_ref": "3129",
-            "airport_ident": "GOTT",
-            "type": "A/G",
-            "description": "RDO",
-            "frequency_mhz": "568"
-        },
-        {
-            "id": "57159",
-            "airport_ref": "3129",
-            "airport_ident": "GOTT",
-            "type": "AFIS",
-            "description": "AFIS INFO",
-            "frequency_mhz": "118.7"
-        }
-    ],
     "country": {
         "id": "302600",
         "code": "SN",

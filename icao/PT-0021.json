@@ -63,16 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "298562",
-            "airport_ref": "298559",
-            "airport_ident": "PT-0021",
-            "type": "AFIS",
-            "description": "Benavente Internacional",
-            "frequency_mhz": "122.675"
-        }
-    ],
     "country": {
         "id": "302711",
         "code": "PT",

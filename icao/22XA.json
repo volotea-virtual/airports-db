@@ -1,7 +1,7 @@
 {
     "id": "45822",
     "ident": "22XA",
-    "type": "heliport",
+    "type": "closed",
     "name": "General Plumbing Contractors Heliport",
     "latitude_deg": "29.897",
     "longitude_deg": "-95.395167",
@@ -11,12 +11,12 @@
     "iso_region": "US-TX",
     "municipality": "Houston",
     "scheduled_service": "no",
-    "gps_code": "22XA",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "22XA",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "22XA",
     "runways": [
         {
             "id": "264634",

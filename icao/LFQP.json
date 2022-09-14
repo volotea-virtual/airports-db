@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "52365",
-            "airport_ref": "4201",
-            "airport_ident": "LFQP",
-            "type": "APP",
-            "description": "PHALSBOURG APP",
-            "frequency_mhz": "128.75"
-        },
-        {
-            "id": "52366",
-            "airport_ref": "4201",
-            "airport_ident": "LFQP",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "141.05"
-        },
-        {
-            "id": "52367",
-            "airport_ref": "4201",
-            "airport_ident": "LFQP",
-            "type": "GND",
-            "description": "PHALSBOURG GND",
-            "frequency_mhz": "139.6"
-        },
-        {
-            "id": "52368",
-            "airport_ref": "4201",
-            "airport_ident": "LFQP",
-            "type": "TWR",
-            "description": "PHALSBOURG TWR",
-            "frequency_mhz": "129.8"
-        }
-    ],
     "country": {
         "id": "302687",
         "code": "FR",

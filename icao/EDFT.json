@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "328901",
-            "airport_ref": "28635",
-            "airport_ident": "EDFT",
-            "type": "INFO",
-            "description": "Lauterbach Info",
-            "frequency_mhz": "122.175"
-        }
-    ],
     "country": {
         "id": "302681",
         "code": "DE",

@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "333782",
-            "airport_ref": "5259",
-            "airport_ident": "OPMA",
-            "type": "Mangla Tower",
-            "description": "",
-            "frequency_mhz": "118.4"
-        }
-    ],
     "country": {
         "id": "302657",
         "code": "PK",

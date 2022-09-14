@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "332962",
-            "airport_ref": "29174",
-            "airport_ident": "EGPS",
-            "type": "A/G",
-            "description": "Longside Radio",
-            "frequency_mhz": "118.28"
-        },
-        {
-            "id": "317946",
-            "airport_ref": "29174",
-            "airport_ident": "EGPS",
-            "type": "Info",
-            "description": "Lomgside radio",
-            "frequency_mhz": "130.575"
-        }
-    ],
     "country": {
         "id": "302688",
         "code": "GB",

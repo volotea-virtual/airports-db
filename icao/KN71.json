@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "68340",
-            "airport_ref": "20620",
-            "airport_ident": "KN71",
-            "type": "A/D",
-            "description": "HARRISBURG APP/DEP",
-            "frequency_mhz": "126.45"
-        },
-        {
-            "id": "68341",
-            "airport_ref": "20620",
-            "airport_ident": "KN71",
-            "type": "CLD",
-            "description": "HARRISBURG CLNC DEL",
-            "frequency_mhz": "127.05"
-        },
-        {
-            "id": "68342",
-            "airport_ref": "20620",
-            "airport_ident": "KN71",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -41,48 +41,6 @@
             "he_displaced_threshold_ft": "1000"
         }
     ],
-    "freqs": [
-        {
-            "id": "66868",
-            "airport_ref": "5372",
-            "airport_ident": "PAHN",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "135.75"
-        },
-        {
-            "id": "66869",
-            "airport_ref": "5372",
-            "airport_ident": "PAHN",
-            "type": "CNTR",
-            "description": "ANCHORAGE CNTR",
-            "frequency_mhz": "132.3"
-        },
-        {
-            "id": "66870",
-            "airport_ref": "5372",
-            "airport_ident": "PAHN",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "122.9"
-        },
-        {
-            "id": "66871",
-            "airport_ref": "5372",
-            "airport_ident": "PAHN",
-            "type": "FSS",
-            "description": "JUNEAU RDO",
-            "frequency_mhz": "122.6"
-        },
-        {
-            "id": "66872",
-            "airport_ref": "5372",
-            "airport_ident": "PAHN",
-            "type": "MISC",
-            "description": "TWEB",
-            "frequency_mhz": "24.5"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

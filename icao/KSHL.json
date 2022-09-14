@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "68932",
-            "airport_ref": "21067",
-            "airport_ident": "KSHL",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "119.775"
-        },
-        {
-            "id": "68933",
-            "airport_ref": "21067",
-            "airport_ident": "KSHL",
-            "type": "RDO",
-            "description": "FORT DODGE RDO",
-            "frequency_mhz": "122.15"
-        },
-        {
-            "id": "68934",
-            "airport_ref": "21067",
-            "airport_ident": "KSHL",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

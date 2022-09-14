@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "350130",
-            "airport_ref": "1425",
-            "airport_ident": "CPK7",
-            "type": "RCO",
-            "description": "Quebec Radio",
-            "frequency_mhz": "123.15"
-        },
-        {
-            "id": "350131",
-            "airport_ref": "1425",
-            "airport_ident": "CPK7",
-            "type": "TWR",
-            "description": "Ottawa Tower",
-            "frequency_mhz": "118.8"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

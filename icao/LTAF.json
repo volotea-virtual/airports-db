@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "57874",
-            "airport_ref": "4512",
-            "airport_ident": "LTAF",
-            "type": "APP",
-            "description": "INCIRLIK APP",
-            "frequency_mhz": "126.5"
-        },
-        {
-            "id": "75483",
-            "airport_ref": "4512",
-            "airport_ident": "LTAF",
-            "type": "ATIS",
-            "description": "",
-            "frequency_mhz": "119.225"
-        },
-        {
-            "id": "75482",
-            "airport_ref": "4512",
-            "airport_ident": "LTAF",
-            "type": "GND",
-            "description": "",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "57875",
-            "airport_ref": "4512",
-            "airport_ident": "LTAF",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "121.1"
-        }
-    ],
     "country": {
         "id": "302667",
         "code": "TR",

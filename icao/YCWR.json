@@ -14,8 +14,8 @@
     "gps_code": "YCWR",
     "iata_code": "CWT",
     "local_code": "",
-    "home_link": "",
-    "wikipedia_link": "",
+    "home_link": "https://www.cowracouncil.com.au/Facilities/Airport",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cowra_Airport",
     "keywords": "",
     "runways": [
         {
@@ -61,24 +61,6 @@
             "he_elevation_ft": "973",
             "he_heading_degT": "342",
             "he_displaced_threshold_ft": ""
-        }
-    ],
-    "freqs": [
-        {
-            "id": "48600",
-            "airport_ref": "26968",
-            "airport_ident": "YCWR",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "126.7"
-        },
-        {
-            "id": "48601",
-            "airport_ref": "26968",
-            "airport_ident": "YCWR",
-            "type": "FSS",
-            "description": "MELBOURNE CNTR",
-            "frequency_mhz": "135.25"
         }
     ],
     "country": {

@@ -41,64 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "53981",
-            "airport_ref": "2880",
-            "airport_ident": "FJDG",
-            "type": "A/G",
-            "description": "A/G VOICE",
-            "frequency_mhz": "1325.4"
-        },
-        {
-            "id": "53982",
-            "airport_ref": "2880",
-            "airport_ident": "FJDG",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "134.1"
-        },
-        {
-            "id": "53983",
-            "airport_ref": "2880",
-            "airport_ident": "FJDG",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "28.2"
-        },
-        {
-            "id": "53984",
-            "airport_ref": "2880",
-            "airport_ident": "FJDG",
-            "type": "GCA",
-            "description": "GND",
-            "frequency_mhz": "118.4"
-        },
-        {
-            "id": "53985",
-            "airport_ref": "2880",
-            "airport_ident": "FJDG",
-            "type": "OPS",
-            "description": "AMC OPS",
-            "frequency_mhz": "128"
-        },
-        {
-            "id": "53986",
-            "airport_ref": "2880",
-            "airport_ident": "FJDG",
-            "type": "PMSV",
-            "description": "PMSV METRO",
-            "frequency_mhz": "34.46"
-        },
-        {
-            "id": "53987",
-            "airport_ref": "2880",
-            "airport_ident": "FJDG",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "34.02"
-        }
-    ],
     "country": {
         "id": "302635",
         "code": "IO",

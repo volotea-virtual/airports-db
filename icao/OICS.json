@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "54087",
-            "airport_ref": "5152",
-            "airport_ident": "OICS",
-            "type": "ATIS",
-            "description": "INFO",
-            "frequency_mhz": "128.45"
-        },
-        {
-            "id": "54088",
-            "airport_ref": "5152",
-            "airport_ident": "OICS",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "122.9"
-        }
-    ],
     "country": {
         "id": "302637",
         "code": "IR",

@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "52035",
-            "airport_ref": "4403",
-            "airport_ident": "LKNA",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "118.155"
-        },
-        {
-            "id": "52036",
-            "airport_ref": "4403",
-            "airport_ident": "LKNA",
-            "type": "GCA",
-            "description": "PRECISION",
-            "frequency_mhz": "123.3"
-        },
-        {
-            "id": "52037",
-            "airport_ref": "4403",
-            "airport_ident": "LKNA",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "126.505"
-        }
-    ],
     "country": {
         "id": "302680",
         "code": "CZ",

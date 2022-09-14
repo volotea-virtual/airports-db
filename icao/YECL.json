@@ -5,7 +5,7 @@
     "name": "Eucla Airport",
     "latitude_deg": "-31.707084",
     "longitude_deg": "128.877243",
-    "elevation_ft": "",
+    "elevation_ft": "22",
     "continent": "OC",
     "iso_country": "AU",
     "iso_region": "AU-WA",
@@ -15,7 +15,7 @@
     "iata_code": "EUC",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Eucla_Airport",
     "keywords": "",
     "runways": [
         {
@@ -61,40 +61,6 @@
             "he_elevation_ft": "",
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
-        }
-    ],
-    "freqs": [
-        {
-            "id": "72862",
-            "airport_ref": "27539",
-            "airport_ident": "YECL",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "134.2"
-        },
-        {
-            "id": "72863",
-            "airport_ref": "27539",
-            "airport_ident": "YECL",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "114.2"
-        },
-        {
-            "id": "72865",
-            "airport_ref": "27539",
-            "airport_ident": "YECL",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "119.8"
-        },
-        {
-            "id": "72864",
-            "airport_ref": "27539",
-            "airport_ident": "YECL",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "121.3"
         }
     ],
     "country": {

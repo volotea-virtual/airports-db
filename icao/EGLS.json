@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "71965",
-            "airport_ref": "29160",
-            "airport_ident": "EGLS",
-            "type": "A/G",
-            "description": "Old Sarum A/G",
-            "frequency_mhz": "123.205"
-        }
-    ],
     "country": {
         "id": "302688",
         "code": "GB",

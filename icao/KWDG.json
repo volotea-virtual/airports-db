@@ -63,64 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "59530",
-            "airport_ref": "21371",
-            "airport_ident": "KWDG",
-            "type": "A/D",
-            "description": "VANCE APP/DEP",
-            "frequency_mhz": "119.775"
-        },
-        {
-            "id": "59531",
-            "airport_ref": "21371",
-            "airport_ident": "KWDG",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "120.625"
-        },
-        {
-            "id": "59532",
-            "airport_ref": "21371",
-            "airport_ident": "KWDG",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "118.9"
-        },
-        {
-            "id": "59533",
-            "airport_ref": "21371",
-            "airport_ident": "KWDG",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.925"
-        },
-        {
-            "id": "59534",
-            "airport_ref": "21371",
-            "airport_ident": "KWDG",
-            "type": "RDO",
-            "description": "MC ALESTER RDO",
-            "frequency_mhz": "122.6"
-        },
-        {
-            "id": "59535",
-            "airport_ref": "21371",
-            "airport_ident": "KWDG",
-            "type": "TWR",
-            "description": "WOODRING TWR",
-            "frequency_mhz": "118.9"
-        },
-        {
-            "id": "59536",
-            "airport_ref": "21371",
-            "airport_ident": "KWDG",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "122.95"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -41,56 +41,6 @@
             "he_displaced_threshold_ft": "491"
         }
     ],
-    "freqs": [
-        {
-            "id": "52861",
-            "airport_ref": "2736",
-            "airport_ident": "ETNG",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "27.82"
-        },
-        {
-            "id": "52862",
-            "airport_ref": "2736",
-            "airport_ident": "ETNG",
-            "type": "POST",
-            "description": "MAGIC COMD POST",
-            "frequency_mhz": "139.875"
-        },
-        {
-            "id": "52864",
-            "airport_ref": "2736",
-            "airport_ident": "ETNG",
-            "type": "RDR",
-            "description": "FRISBEE RADAR",
-            "frequency_mhz": "38.54"
-        },
-        {
-            "id": "52863",
-            "airport_ref": "2736",
-            "airport_ident": "ETNG",
-            "type": "RDR",
-            "description": "FRISBEE RADAR",
-            "frequency_mhz": "123.3"
-        },
-        {
-            "id": "52865",
-            "airport_ref": "2736",
-            "airport_ident": "ETNG",
-            "type": "RDR",
-            "description": "LANGEN CON",
-            "frequency_mhz": "128.5"
-        },
-        {
-            "id": "52866",
-            "airport_ref": "2736",
-            "airport_ident": "ETNG",
-            "type": "TWR",
-            "description": "FRISBEE TWR",
-            "frequency_mhz": "122.1"
-        }
-    ],
     "country": {
         "id": "302681",
         "code": "DE",

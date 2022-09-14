@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "67407",
-            "airport_ref": "18857",
-            "airport_ident": "K4V0",
-            "type": "FCC",
-            "description": "FLT TRNG",
-            "frequency_mhz": "123.5"
-        },
-        {
-            "id": "67408",
-            "airport_ref": "18857",
-            "airport_ident": "K4V0",
-            "type": "RCO",
-            "description": "DENVER RDO",
-            "frequency_mhz": "122.65"
-        },
-        {
-            "id": "67409",
-            "airport_ref": "18857",
-            "airport_ident": "K4V0",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

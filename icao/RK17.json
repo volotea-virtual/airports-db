@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55063",
-            "airport_ref": "3802",
-            "airport_ident": "RK17",
-            "type": "FCC",
-            "description": "LEE CON",
-            "frequency_mhz": "32.3"
-        },
-        {
-            "id": "55064",
-            "airport_ref": "3802",
-            "airport_ident": "RK17",
-            "type": "TWR",
-            "description": "BAEK DU SAN TWR",
-            "frequency_mhz": "23.38"
-        }
-    ],
     "country": {
         "id": "302643",
         "code": "KR",

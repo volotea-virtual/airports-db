@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55467",
-            "airport_ref": "4736",
-            "airport_ident": "MMOX",
-            "type": "APP",
-            "description": "OAXACA APP",
-            "frequency_mhz": "121.1"
-        },
-        {
-            "id": "55468",
-            "airport_ref": "4736",
-            "airport_ident": "MMOX",
-            "type": "TWR",
-            "description": "OAXACA TWR",
-            "frequency_mhz": "118.3"
-        }
-    ],
     "country": {
         "id": "302747",
         "code": "MX",

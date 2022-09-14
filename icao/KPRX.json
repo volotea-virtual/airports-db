@@ -85,40 +85,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "62500",
-            "airport_ref": "3790",
-            "airport_ident": "KPRX",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "119.675"
-        },
-        {
-            "id": "62501",
-            "airport_ref": "3790",
-            "airport_ident": "KPRX",
-            "type": "CNTR",
-            "description": "FORT WORTH CNTR",
-            "frequency_mhz": "123.925"
-        },
-        {
-            "id": "62502",
-            "airport_ref": "3790",
-            "airport_ident": "KPRX",
-            "type": "RDO",
-            "description": "FORT WORTH RDO",
-            "frequency_mhz": "122.25"
-        },
-        {
-            "id": "62503",
-            "airport_ref": "3790",
-            "airport_ident": "KPRX",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.975"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

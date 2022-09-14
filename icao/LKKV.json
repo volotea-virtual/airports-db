@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "52008",
-            "airport_ref": "4399",
-            "airport_ident": "LKKV",
-            "type": "AFIS",
-            "description": "INFO",
-            "frequency_mhz": "121.225"
-        },
-        {
-            "id": "52009",
-            "airport_ref": "4399",
-            "airport_ident": "LKKV",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "118.955"
-        },
-        {
-            "id": "52010",
-            "airport_ref": "4399",
-            "airport_ident": "LKKV",
-            "type": "RDR",
-            "description": "RADAR",
-            "frequency_mhz": "119.955"
-        },
-        {
-            "id": "52011",
-            "airport_ref": "4399",
-            "airport_ident": "LKKV",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "121.23"
-        }
-    ],
     "country": {
         "id": "302680",
         "code": "CZ",

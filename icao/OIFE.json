@@ -63,16 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "54029",
-            "airport_ref": "5153",
-            "airport_ident": "OIFE",
-            "type": "AFIS",
-            "description": "INFO",
-            "frequency_mhz": "118.5"
-        }
-    ],
     "country": {
         "id": "302637",
         "code": "IR",

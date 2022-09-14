@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "54418",
-            "airport_ref": "5291",
-            "airport_ident": "ORBR",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "131.27"
-        }
-    ],
     "country": {
         "id": "302636",
         "code": "IQ",

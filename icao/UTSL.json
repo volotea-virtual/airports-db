@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "71619",
-            "airport_ref": "26389",
-            "airport_ident": "UTSL",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "131.6"
-        },
-        {
-            "id": "71620",
-            "airport_ref": "26389",
-            "airport_ident": "UTSL",
-            "type": "PMSV",
-            "description": "METRO",
-            "frequency_mhz": "34.46"
-        },
-        {
-            "id": "71621",
-            "airport_ref": "26389",
-            "airport_ident": "UTSL",
-            "type": "POST",
-            "description": "COMMAND POST",
-            "frequency_mhz": "24.515"
-        },
-        {
-            "id": "71622",
-            "airport_ref": "26389",
-            "airport_ident": "UTSL",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "125.175"
-        }
-    ],
     "country": {
         "id": "302669",
         "code": "UZ",

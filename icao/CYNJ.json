@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": "337"
         }
     ],
-    "freqs": [
-        {
-            "id": "75258",
-            "airport_ref": "1827",
-            "airport_ident": "CYNJ",
-            "type": "ATIS",
-            "description": "",
-            "frequency_mhz": "124.5"
-        },
-        {
-            "id": "75259",
-            "airport_ref": "1827",
-            "airport_ident": "CYNJ",
-            "type": "GND",
-            "description": "Langley Ground",
-            "frequency_mhz": "121.9"
-        },
-        {
-            "id": "75260",
-            "airport_ref": "1827",
-            "airport_ident": "CYNJ",
-            "type": "TWR",
-            "description": "Langley Tower",
-            "frequency_mhz": "119"
-        }
-    ],
     "country": {
         "id": "302730",
         "code": "CA",

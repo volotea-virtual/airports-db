@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "48229",
-            "airport_ref": "5233",
-            "airport_ident": "OMAS",
-            "type": "OPS",
-            "description": "OPS",
-            "frequency_mhz": "120.2"
-        }
-    ],
     "country": {
         "id": "302618",
         "code": "AE",

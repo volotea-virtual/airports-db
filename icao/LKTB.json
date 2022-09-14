@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "52024",
-            "airport_ref": "4409",
-            "airport_ident": "LKTB",
-            "type": "APP",
-            "description": "Brno Radar",
-            "frequency_mhz": "127.35"
-        },
-        {
-            "id": "52025",
-            "airport_ref": "4409",
-            "airport_ident": "LKTB",
-            "type": "ATIS",
-            "description": "Turany ATIS",
-            "frequency_mhz": "131.105"
-        },
-        {
-            "id": "309737",
-            "airport_ref": "4409",
-            "airport_ident": "LKTB",
-            "type": "GND",
-            "description": "Turany Ground",
-            "frequency_mhz": "125.43"
-        },
-        {
-            "id": "52026",
-            "airport_ref": "4409",
-            "airport_ident": "LKTB",
-            "type": "TWR",
-            "description": "Turany Tower",
-            "frequency_mhz": "119.605"
-        }
-    ],
     "country": {
         "id": "302680",
         "code": "CZ",

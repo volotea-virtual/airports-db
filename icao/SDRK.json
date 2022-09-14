@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "313678",
-            "airport_ref": "30338",
-            "airport_ident": "SDRK",
-            "type": "CTAF",
-            "description": "",
-            "frequency_mhz": "123.45"
-        }
-    ],
     "country": {
         "id": "302791",
         "code": "BR",

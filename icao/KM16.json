@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "69736",
-            "airport_ref": "20412",
-            "airport_ident": "KM16",
-            "type": "A/D",
-            "description": "JACKSON APP/DEP",
-            "frequency_mhz": "123.9"
-        },
-        {
-            "id": "69737",
-            "airport_ref": "20412",
-            "airport_ident": "KM16",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

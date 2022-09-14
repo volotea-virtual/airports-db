@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "59941",
-            "airport_ref": "20036",
-            "airport_ident": "KHDE",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "121.325"
-        },
-        {
-            "id": "59942",
-            "airport_ref": "20036",
-            "airport_ident": "KHDE",
-            "type": "CNTR",
-            "description": "DENVER CNTR",
-            "frequency_mhz": "132.7"
-        },
-        {
-            "id": "59943",
-            "airport_ref": "20036",
-            "airport_ident": "KHDE",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

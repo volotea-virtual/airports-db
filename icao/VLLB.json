@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55145",
-            "airport_ref": "26583",
-            "airport_ident": "VLLB",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "118.5"
-        },
-        {
-            "id": "55146",
-            "airport_ref": "26583",
-            "airport_ident": "VLLB",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.5"
-        }
-    ],
     "country": {
         "id": "302646",
         "code": "LA",

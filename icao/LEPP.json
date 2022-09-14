@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": "984"
         }
     ],
-    "freqs": [
-        {
-            "id": "57348",
-            "airport_ref": "4025",
-            "airport_ident": "LEPP",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "118.2"
-        },
-        {
-            "id": "57349",
-            "airport_ref": "4025",
-            "airport_ident": "LEPP",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.7"
-        },
-        {
-            "id": "57350",
-            "airport_ref": "4025",
-            "airport_ident": "LEPP",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.2"
-        }
-    ],
     "country": {
         "id": "302684",
         "code": "ES",

@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "322984",
-            "airport_ref": "29522",
-            "airport_ident": "LSZK",
-            "type": "AFIS",
-            "description": "Speck-Fehraltdorf Aerodrome",
-            "frequency_mhz": "120.35"
-        }
-    ],
     "country": {
         "id": "302679",
         "code": "CH",

@@ -63,56 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "64233",
-            "airport_ref": "5393",
-            "airport_ident": "PAOM",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "119.925"
-        },
-        {
-            "id": "64234",
-            "airport_ref": "5393",
-            "airport_ident": "PAOM",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "119.925"
-        },
-        {
-            "id": "64235",
-            "airport_ref": "5393",
-            "airport_ident": "PAOM",
-            "type": "CNTR",
-            "description": "ANCHORAGE CNTR",
-            "frequency_mhz": "133.3"
-        },
-        {
-            "id": "64236",
-            "airport_ref": "5393",
-            "airport_ident": "PAOM",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "123.6"
-        },
-        {
-            "id": "64237",
-            "airport_ref": "5393",
-            "airport_ident": "PAOM",
-            "type": "FSS",
-            "description": "RDO",
-            "frequency_mhz": "122.45"
-        },
-        {
-            "id": "64238",
-            "airport_ref": "5393",
-            "airport_ident": "PAOM",
-            "type": "MISC",
-            "description": "TWEB",
-            "frequency_mhz": "115"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

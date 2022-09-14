@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "53265",
-            "airport_ref": "2723",
-            "airport_ident": "ETHE",
-            "type": "A/G",
-            "description": "A/G",
-            "frequency_mhz": "42.4"
-        },
-        {
-            "id": "53266",
-            "airport_ref": "2723",
-            "airport_ident": "ETHE",
-            "type": "ACC",
-            "description": "BREMEN CON",
-            "frequency_mhz": "124.65"
-        },
-        {
-            "id": "53267",
-            "airport_ref": "2723",
-            "airport_ident": "ETHE",
-            "type": "DIR",
-            "description": "BENTLAGE RADAR",
-            "frequency_mhz": "123.3"
-        },
-        {
-            "id": "53268",
-            "airport_ref": "2723",
-            "airport_ident": "ETHE",
-            "type": "TWR",
-            "description": "BENTLAGE TWR",
-            "frequency_mhz": "122.1"
-        }
-    ],
     "country": {
         "id": "302681",
         "code": "DE",

@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "71953",
-            "airport_ref": "29138",
-            "airport_ident": "EGHB",
-            "type": "A/G",
-            "description": "Maypole A/G",
-            "frequency_mhz": "119.2"
-        }
-    ],
     "country": {
         "id": "302688",
         "code": "GB",

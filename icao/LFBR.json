@@ -41,40 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "52397",
-            "airport_ref": "4072",
-            "airport_ident": "LFBR",
-            "type": "APP",
-            "description": "TOULOUSE APP",
-            "frequency_mhz": "125.175"
-        },
-        {
-            "id": "52398",
-            "airport_ref": "4072",
-            "airport_ident": "LFBR",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "124.575"
-        },
-        {
-            "id": "52399",
-            "airport_ref": "4072",
-            "airport_ident": "LFBR",
-            "type": "GND",
-            "description": "MURET GND",
-            "frequency_mhz": "121.75"
-        },
-        {
-            "id": "52400",
-            "airport_ref": "4072",
-            "airport_ident": "LFBR",
-            "type": "TWR",
-            "description": "MURET TWR",
-            "frequency_mhz": "123.2"
-        }
-    ],
     "country": {
         "id": "302687",
         "code": "FR",

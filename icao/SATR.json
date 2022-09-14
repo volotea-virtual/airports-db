@@ -63,16 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "48365",
-            "airport_ref": "5819",
-            "airport_ident": "SATR",
-            "type": "TWR",
-            "description": "TWR/APP",
-            "frequency_mhz": "119"
-        }
-    ],
     "country": {
         "id": "302789",
         "code": "AR",

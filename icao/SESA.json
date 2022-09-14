@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51802",
-            "airport_ref": "6076",
-            "airport_ident": "SESA",
-            "type": "ACC",
-            "description": "GUAYAQUIL CNTL",
-            "frequency_mhz": "128.3"
-        },
-        {
-            "id": "51803",
-            "airport_ref": "6076",
-            "airport_ident": "SESA",
-            "type": "APP",
-            "description": "SALINAS APP",
-            "frequency_mhz": "124.1"
-        },
-        {
-            "id": "51804",
-            "airport_ref": "6076",
-            "airport_ident": "SESA",
-            "type": "RDO",
-            "description": "SALINAS RDO",
-            "frequency_mhz": "126.9"
-        },
-        {
-            "id": "51805",
-            "airport_ref": "6076",
-            "airport_ident": "SESA",
-            "type": "TWR",
-            "description": "SALINAS TWR",
-            "frequency_mhz": "122.4"
-        }
-    ],
     "country": {
         "id": "302794",
         "code": "EC",

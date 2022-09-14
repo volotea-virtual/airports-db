@@ -85,40 +85,6 @@
             "he_displaced_threshold_ft": "245"
         }
     ],
-    "freqs": [
-        {
-            "id": "67212",
-            "airport_ref": "21287",
-            "airport_ident": "KUDG",
-            "type": "A/D",
-            "description": "FLORENCE APP/DEP",
-            "frequency_mhz": "118.6"
-        },
-        {
-            "id": "67213",
-            "airport_ref": "21287",
-            "airport_ident": "KUDG",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "119.925"
-        },
-        {
-            "id": "67214",
-            "airport_ref": "21287",
-            "airport_ident": "KUDG",
-            "type": "CLD",
-            "description": "FLORENCE CLNC DEL",
-            "frequency_mhz": "118.55"
-        },
-        {
-            "id": "67215",
-            "airport_ref": "21287",
-            "airport_ident": "KUDG",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

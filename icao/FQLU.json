@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "55637",
-            "airport_ref": "2974",
-            "airport_ident": "FQLU",
-            "type": "INFO",
-            "description": "NAMPULA APP",
-            "frequency_mhz": "121.3"
-        }
-    ],
     "country": {
         "id": "302590",
         "code": "MZ",

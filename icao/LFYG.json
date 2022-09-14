@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "75280",
-            "airport_ref": "29021",
-            "airport_ident": "LFYG",
-            "type": "A/A",
-            "description": "",
-            "frequency_mhz": "122.925"
-        },
-        {
-            "id": "75281",
-            "airport_ref": "29021",
-            "airport_ident": "LFYG",
-            "type": "APP",
-            "description": "Cambray Approach",
-            "frequency_mhz": "119.7"
-        },
-        {
-            "id": "75279",
-            "airport_ref": "29021",
-            "airport_ident": "LFYG",
-            "type": "TWR",
-            "description": "",
-            "frequency_mhz": "118.525"
-        }
-    ],
     "country": {
         "id": "302687",
         "code": "FR",

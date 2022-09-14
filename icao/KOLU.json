@@ -63,40 +63,6 @@
             "he_displaced_threshold_ft": "950"
         }
     ],
-    "freqs": [
-        {
-            "id": "58943",
-            "airport_ref": "3750",
-            "airport_ident": "KOLU",
-            "type": "AWOS",
-            "description": "AWOS 3",
-            "frequency_mhz": "125.525"
-        },
-        {
-            "id": "58944",
-            "airport_ref": "3750",
-            "airport_ident": "KOLU",
-            "type": "CNTR",
-            "description": "MINNEAPOLIS CNTR",
-            "frequency_mhz": "128.75"
-        },
-        {
-            "id": "58945",
-            "airport_ref": "3750",
-            "airport_ident": "KOLU",
-            "type": "CTAF",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123.05"
-        },
-        {
-            "id": "58946",
-            "airport_ref": "3750",
-            "airport_ident": "KOLU",
-            "type": "RDO",
-            "description": "RDO",
-            "frequency_mhz": "122.2"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "298619",
-            "airport_ref": "26621",
-            "airport_ident": "VOPC",
-            "type": "Tower",
-            "description": "",
-            "frequency_mhz": "122.9"
-        }
-    ],
     "country": {
         "id": "302634",
         "code": "IN",

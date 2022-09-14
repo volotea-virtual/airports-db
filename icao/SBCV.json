@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "49756",
-            "airport_ref": "5892",
-            "airport_ident": "SBCV",
-            "type": "AFIS",
-            "description": "RDO",
-            "frequency_mhz": "125.9"
-        }
-    ],
     "country": {
         "id": "302791",
         "code": "BR",

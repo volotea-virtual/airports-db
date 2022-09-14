@@ -17,16 +17,6 @@
     "home_link": "http://www.flysilverstone.co.uk//",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Silverstone_Heliport",
     "keywords": "RAF Silverstone, British Grand Prix",
-    "freqs": [
-        {
-            "id": "71985",
-            "airport_ref": "29113",
-            "airport_ident": "EGBV",
-            "type": "A/G",
-            "description": "Silverstone A/G",
-            "frequency_mhz": "121.075"
-        }
-    ],
     "country": {
         "id": "302688",
         "code": "GB",

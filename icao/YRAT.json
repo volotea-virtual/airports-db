@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "311842",
-            "airport_ref": "45165",
-            "airport_ident": "YRAT",
-            "type": "ctaf",
-            "description": "Abrolhos traffic",
-            "frequency_mhz": "127.1"
-        }
-    ],
     "country": {
         "id": "302764",
         "code": "AU",

@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "67753",
-            "airport_ref": "20990",
-            "airport_ident": "KS12",
-            "type": "A/D",
-            "description": "CASCADE APP/DEP",
-            "frequency_mhz": "127.5"
-        },
-        {
-            "id": "67754",
-            "airport_ref": "20990",
-            "airport_ident": "KS12",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

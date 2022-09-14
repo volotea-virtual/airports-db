@@ -41,64 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "65720",
-            "airport_ref": "5373",
-            "airport_ident": "PAHO",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "135.65"
-        },
-        {
-            "id": "65721",
-            "airport_ref": "5373",
-            "airport_ident": "PAHO",
-            "type": "CNTR",
-            "description": "ANCHORAGE CNTR",
-            "frequency_mhz": "125.9"
-        },
-        {
-            "id": "65722",
-            "airport_ref": "5373",
-            "airport_ident": "PAHO",
-            "type": "CTAF",
-            "description": "CTAF",
-            "frequency_mhz": "123.6"
-        },
-        {
-            "id": "65723",
-            "airport_ref": "5373",
-            "airport_ident": "PAHO",
-            "type": "FSS",
-            "description": "RDO",
-            "frequency_mhz": "123.6"
-        },
-        {
-            "id": "65724",
-            "airport_ref": "5373",
-            "airport_ident": "PAHO",
-            "type": "MISC",
-            "description": "TWEB",
-            "frequency_mhz": "114.6"
-        },
-        {
-            "id": "65725",
-            "airport_ref": "5373",
-            "airport_ident": "PAHO",
-            "type": "RFSS",
-            "description": "KENAI RDO",
-            "frequency_mhz": "123.6"
-        },
-        {
-            "id": "65726",
-            "airport_ref": "5373",
-            "airport_ident": "PAHO",
-            "type": "UNIC",
-            "description": "UNICOM",
-            "frequency_mhz": "123.05"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

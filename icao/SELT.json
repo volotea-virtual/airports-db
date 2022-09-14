@@ -41,24 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51826",
-            "airport_ref": "6061",
-            "airport_ident": "SELT",
-            "type": "APP",
-            "description": "LATACUNGA APP/TWR",
-            "frequency_mhz": "118.5"
-        },
-        {
-            "id": "51827",
-            "airport_ref": "6061",
-            "airport_ident": "SELT",
-            "type": "GND",
-            "description": "LATACUNGA GND",
-            "frequency_mhz": "121.9"
-        }
-    ],
     "country": {
         "id": "302794",
         "code": "EC",

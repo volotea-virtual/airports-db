@@ -41,32 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "66963",
-            "airport_ref": "21188",
-            "airport_ident": "KTEX",
-            "type": "CNTR",
-            "description": "DENVER CNTR",
-            "frequency_mhz": "125.35"
-        },
-        {
-            "id": "66964",
-            "airport_ref": "21188",
-            "airport_ident": "KTEX",
-            "type": "FSS",
-            "description": "DENVER RDO",
-            "frequency_mhz": "122.15"
-        },
-        {
-            "id": "66965",
-            "airport_ref": "21188",
-            "airport_ident": "KTEX",
-            "type": "UNIC",
-            "description": "CTAF/UNICOM",
-            "frequency_mhz": "123"
-        }
-    ],
     "country": {
         "id": "302755",
         "code": "US",

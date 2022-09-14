@@ -63,32 +63,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "57274",
-            "airport_ref": "4031",
-            "airport_ident": "LERS",
-            "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "118.15"
-        },
-        {
-            "id": "57275",
-            "airport_ref": "4031",
-            "airport_ident": "LERS",
-            "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.7"
-        },
-        {
-            "id": "57276",
-            "airport_ref": "4031",
-            "airport_ident": "LERS",
-            "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "118.15"
-        }
-    ],
     "country": {
         "id": "302684",
         "code": "ES",

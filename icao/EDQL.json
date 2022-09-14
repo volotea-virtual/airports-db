@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "302172",
-            "airport_ref": "28638",
-            "airport_ident": "EDQL",
-            "type": "INFO",
-            "description": "Lichtenfels Info",
-            "frequency_mhz": "118.19"
-        }
-    ],
     "country": {
         "id": "302681",
         "code": "DE",

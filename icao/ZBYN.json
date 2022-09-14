@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "51253",
-            "airport_ref": "27193",
-            "airport_ident": "ZBYN",
-            "type": "TWR",
-            "description": "TAIYUAN TWR",
-            "frequency_mhz": "118.25"
-        }
-    ],
     "country": {
         "id": "302627",
         "code": "CN",

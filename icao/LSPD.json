@@ -41,16 +41,6 @@
             "he_displaced_threshold_ft": ""
         }
     ],
-    "freqs": [
-        {
-            "id": "354057",
-            "airport_ref": "29505",
-            "airport_ident": "LSPD",
-            "type": "GLD",
-            "description": "",
-            "frequency_mhz": "118.18"
-        }
-    ],
     "country": {
         "id": "302679",
         "code": "CH",
