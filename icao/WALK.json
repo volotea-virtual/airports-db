@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": "620"
         }
     ],
+    "freqs": [
+        {
+            "id": "53779",
+            "airport_ref": "26759",
+            "airport_ident": "WALK",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "808.25"
+        }
+    ],
     "country": {
         "id": "302632",
         "code": "ID",

@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "70070",
+            "airport_ref": "20051",
+            "airport_ident": "KHIE",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "118.525"
+        },
+        {
+            "id": "70071",
+            "airport_ref": "20051",
+            "airport_ident": "KHIE",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "122.4"
+        },
+        {
+            "id": "70072",
+            "airport_ref": "20051",
+            "airport_ident": "KHIE",
+            "type": "CNTR",
+            "description": "BOSTON CNTR",
+            "frequency_mhz": "135.7"
+        },
+        {
+            "id": "70073",
+            "airport_ref": "20051",
+            "airport_ident": "KHIE",
+            "type": "RDO",
+            "description": "BANGOR RDO",
+            "frequency_mhz": "122.4"
+        },
+        {
+            "id": "70074",
+            "airport_ref": "20051",
+            "airport_ident": "KHIE",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

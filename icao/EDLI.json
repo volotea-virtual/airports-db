@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": "709"
         }
     ],
+    "freqs": [
+        {
+            "id": "53278",
+            "airport_ref": "2242",
+            "airport_ident": "EDLI",
+            "type": "AFIS",
+            "description": "LANGEN INFO",
+            "frequency_mhz": "129.875"
+        },
+        {
+            "id": "53279",
+            "airport_ref": "2242",
+            "airport_ident": "EDLI",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "118.35"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

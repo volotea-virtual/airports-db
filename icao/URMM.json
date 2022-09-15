@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56744",
+            "airport_ref": "6514",
+            "airport_ident": "URMM",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.3"
+        },
+        {
+            "id": "56745",
+            "airport_ref": "6514",
+            "airport_ident": "URMM",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.4"
+        },
+        {
+            "id": "56746",
+            "airport_ref": "6514",
+            "airport_ident": "URMM",
+            "type": "GND",
+            "description": "TAXIING",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "56747",
+            "airport_ref": "6514",
+            "airport_ident": "URMM",
+            "type": "RDR",
+            "description": "KRUG",
+            "frequency_mhz": "120.7"
+        },
+        {
+            "id": "56748",
+            "airport_ref": "6514",
+            "airport_ident": "URMM",
+            "type": "TWR",
+            "description": "START",
+            "frequency_mhz": "128"
+        }
+    ],
     "country": {
         "id": "302714",
         "code": "RU",

@@ -17,6 +17,16 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/RAF_Rufforth",
     "keywords": "UK11, RAF Rufforth",
+    "freqs": [
+        {
+            "id": "316822",
+            "airport_ref": "28473",
+            "airport_ident": "EG64",
+            "type": "Info",
+            "description": "",
+            "frequency_mhz": "129.975"
+        }
+    ],
     "country": {
         "id": "302688",
         "code": "GB",

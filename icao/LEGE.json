@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57238",
+            "airport_ref": "4010",
+            "airport_ident": "LEGE",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "120.9"
+        },
+        {
+            "id": "57239",
+            "airport_ref": "4010",
+            "airport_ident": "LEGE",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "57240",
+            "airport_ref": "4010",
+            "airport_ident": "LEGE",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.5"
+        }
+    ],
     "country": {
         "id": "302684",
         "code": "ES",

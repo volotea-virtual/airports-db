@@ -63,6 +63,80 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "55028",
+            "airport_ref": "5642",
+            "airport_ident": "RKPK",
+            "type": "ACP",
+            "description": "BRICKWALL",
+            "frequency_mhz": "120"
+        },
+        {
+            "id": "55029",
+            "airport_ref": "5642",
+            "airport_ident": "RKPK",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "135.7"
+        },
+        {
+            "id": "55030",
+            "airport_ref": "5642",
+            "airport_ident": "RKPK",
+            "type": "ARR",
+            "description": "ARR",
+            "frequency_mhz": "119.2"
+        },
+        {
+            "id": "55031",
+            "airport_ref": "5642",
+            "airport_ident": "RKPK",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.6"
+        },
+        {
+            "id": "55032",
+            "airport_ref": "5642",
+            "airport_ident": "RKPK",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "55033",
+            "airport_ref": "5642",
+            "airport_ident": "RKPK",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "125.5"
+        },
+        {
+            "id": "55034",
+            "airport_ref": "5642",
+            "airport_ident": "RKPK",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "55035",
+            "airport_ref": "5642",
+            "airport_ident": "RKPK",
+            "type": "OPS",
+            "description": "COWBOY OPS",
+            "frequency_mhz": "133.825"
+        },
+        {
+            "id": "55036",
+            "airport_ref": "5642",
+            "airport_ident": "RKPK",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
     "country": {
         "id": "302643",
         "code": "KR",

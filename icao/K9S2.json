@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "63276",
+            "airport_ref": "19199",
+            "airport_ident": "K9S2",
+            "type": "A/D",
+            "description": "SALT LAKE CITY CNTR",
+            "frequency_mhz": "126.85"
+        },
+        {
+            "id": "63277",
+            "airport_ref": "19199",
+            "airport_ident": "K9S2",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

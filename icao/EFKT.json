@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52087",
+            "airport_ref": "2325",
+            "airport_ident": "EFKT",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "118.95"
+        },
+        {
+            "id": "52088",
+            "airport_ref": "2325",
+            "airport_ident": "EFKT",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "133.85"
+        }
+    ],
     "country": {
         "id": "302685",
         "code": "FI",

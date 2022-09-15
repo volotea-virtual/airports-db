@@ -63,6 +63,64 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "50358",
+            "airport_ref": "1842",
+            "airport_ident": "CYPA",
+            "type": "ARR",
+            "description": "Winnipag Control",
+            "frequency_mhz": "133.9"
+        },
+        {
+            "id": "311307",
+            "airport_ref": "1842",
+            "airport_ident": "CYPA",
+            "type": "DEP",
+            "description": "Winnipeg Control",
+            "frequency_mhz": "133.9"
+        },
+        {
+            "id": "50359",
+            "airport_ref": "1842",
+            "airport_ident": "CYPA",
+            "type": "INFO",
+            "description": "ATHABASKA AWYS",
+            "frequency_mhz": "129.45"
+        },
+        {
+            "id": "50362",
+            "airport_ref": "1842",
+            "airport_ident": "CYPA",
+            "type": "MF",
+            "description": "Prince Albert Radio, 5nm below 4400ASL",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "50357",
+            "airport_ref": "1842",
+            "airport_ident": "CYPA",
+            "type": "RADIO",
+            "description": "Prince Albert Radio",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "50361",
+            "airport_ref": "1842",
+            "airport_ident": "CYPA",
+            "type": "RCO",
+            "description": "Winnipeg Radio",
+            "frequency_mhz": "123.475"
+        },
+        {
+            "id": "50360",
+            "airport_ref": "1842",
+            "airport_ident": "CYPA",
+            "type": "VDF",
+            "description": "",
+            "frequency_mhz": "122.3"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

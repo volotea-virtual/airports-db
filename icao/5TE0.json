@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "69291",
+            "airport_ref": "12665",
+            "airport_ident": "5TE0",
+            "type": "MISC",
+            "description": "RWY LGT",
+            "frequency_mhz": "123.3"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

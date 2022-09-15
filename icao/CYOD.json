@@ -85,6 +85,88 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "50456",
+            "airport_ref": "1834",
+            "airport_ident": "CYOD",
+            "type": "A/G",
+            "description": "TRAN SVCG",
+            "frequency_mhz": "30.87"
+        },
+        {
+            "id": "50457",
+            "airport_ref": "1834",
+            "airport_ident": "CYOD",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "124.5"
+        },
+        {
+            "id": "50458",
+            "airport_ref": "1834",
+            "airport_ident": "CYOD",
+            "type": "ARR",
+            "description": "ARR",
+            "frequency_mhz": "124.5"
+        },
+        {
+            "id": "50459",
+            "airport_ref": "1834",
+            "airport_ident": "CYOD",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "26"
+        },
+        {
+            "id": "50460",
+            "airport_ref": "1834",
+            "airport_ident": "CYOD",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "120.6"
+        },
+        {
+            "id": "50461",
+            "airport_ref": "1834",
+            "airport_ident": "CYOD",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "124.5"
+        },
+        {
+            "id": "50462",
+            "airport_ref": "1834",
+            "airport_ident": "CYOD",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "50463",
+            "airport_ref": "1834",
+            "airport_ident": "CYOD",
+            "type": "OPS",
+            "description": "WING OPS",
+            "frequency_mhz": "34.02"
+        },
+        {
+            "id": "50464",
+            "airport_ref": "1834",
+            "airport_ident": "CYOD",
+            "type": "PMSV",
+            "description": "PMSV",
+            "frequency_mhz": "34.46"
+        },
+        {
+            "id": "50465",
+            "airport_ref": "1834",
+            "airport_ident": "CYOD",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "126.2"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

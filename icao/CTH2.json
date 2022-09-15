@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "300235",
+            "airport_ref": "300234",
+            "airport_ident": "CTH2",
+            "type": "ATF",
+            "description": "Thor Lake Unicom/Traffic, lighted hrs, 5nm3800ASL",
+            "frequency_mhz": "122.725"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

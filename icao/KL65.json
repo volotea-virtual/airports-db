@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": "144"
         }
     ],
+    "freqs": [
+        {
+            "id": "62117",
+            "airport_ref": "20304",
+            "airport_ident": "KL65",
+            "type": "A/D",
+            "description": "MARCH APP/DEP",
+            "frequency_mhz": "199.25"
+        },
+        {
+            "id": "62118",
+            "airport_ref": "20304",
+            "airport_ident": "KL65",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

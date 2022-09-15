@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "68449",
+            "airport_ref": "20633",
+            "airport_ident": "KNDY",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "120.15"
+        },
+        {
+            "id": "68450",
+            "airport_ref": "20633",
+            "airport_ident": "KNDY",
+            "type": "OPS",
+            "description": "NAVY DAHLGREN OPS",
+            "frequency_mhz": "120.15"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

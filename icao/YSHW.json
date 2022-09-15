@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "74521",
+            "airport_ref": "27954",
+            "airport_ident": "YSHW",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "124.55"
+        },
+        {
+            "id": "74522",
+            "airport_ref": "27954",
+            "airport_ident": "YSHW",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "119.5"
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",

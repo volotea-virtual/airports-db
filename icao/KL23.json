@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "65534",
+            "airport_ref": "20290",
+            "airport_ident": "KL23",
+            "type": "APP",
+            "description": "DREAMLAND APP",
+            "frequency_mhz": "118.7"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

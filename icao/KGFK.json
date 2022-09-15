@@ -107,6 +107,64 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "59317",
+            "airport_ref": "3553",
+            "airport_ident": "KGFK",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "59318",
+            "airport_ref": "3553",
+            "airport_ident": "KGFK",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "119.4"
+        },
+        {
+            "id": "59319",
+            "airport_ref": "3553",
+            "airport_ident": "KGFK",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.4"
+        },
+        {
+            "id": "59320",
+            "airport_ref": "3553",
+            "airport_ident": "KGFK",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "124.575"
+        },
+        {
+            "id": "59321",
+            "airport_ref": "3553",
+            "airport_ident": "KGFK",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "59322",
+            "airport_ref": "3553",
+            "airport_ident": "KGFK",
+            "type": "TWR",
+            "description": "Grand Forks Tower",
+            "frequency_mhz": "118.4"
+        },
+        {
+            "id": "59323",
+            "airport_ref": "3553",
+            "airport_ident": "KGFK",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

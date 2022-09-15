@@ -85,6 +85,64 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "48209",
+            "airport_ref": "5231",
+            "airport_ident": "OMAM",
+            "type": "A/D",
+            "description": "AL DHAFRA ARR/DEP",
+            "frequency_mhz": "124.5"
+        },
+        {
+            "id": "48210",
+            "airport_ref": "5231",
+            "airport_ident": "OMAM",
+            "type": "ACP",
+            "description": "DRACO OPS",
+            "frequency_mhz": "123.45"
+        },
+        {
+            "id": "48211",
+            "airport_ref": "5231",
+            "airport_ident": "OMAM",
+            "type": "APP",
+            "description": "ABU DHABI APP",
+            "frequency_mhz": "124.4"
+        },
+        {
+            "id": "48212",
+            "airport_ref": "5231",
+            "airport_ident": "OMAM",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "119.6"
+        },
+        {
+            "id": "48213",
+            "airport_ref": "5231",
+            "airport_ident": "OMAM",
+            "type": "OPS",
+            "description": "BASS OPS",
+            "frequency_mhz": "26.45"
+        },
+        {
+            "id": "48214",
+            "airport_ref": "5231",
+            "airport_ident": "OMAM",
+            "type": "PMSV",
+            "description": "PMSV/CP",
+            "frequency_mhz": "30.835"
+        },
+        {
+            "id": "48215",
+            "airport_ref": "5231",
+            "airport_ident": "OMAM",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302618",
         "code": "AE",

@@ -63,6 +63,56 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52148",
+            "airport_ref": "4959",
+            "airport_ident": "NFFN",
+            "type": "A/G",
+            "description": "RDO",
+            "frequency_mhz": "346.7"
+        },
+        {
+            "id": "52149",
+            "airport_ref": "4959",
+            "airport_ident": "NFFN",
+            "type": "ACC",
+            "description": "FIS",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "52150",
+            "airport_ref": "4959",
+            "airport_ident": "NFFN",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "52151",
+            "airport_ref": "4959",
+            "airport_ident": "NFFN",
+            "type": "ATIS",
+            "description": "TRML INFO",
+            "frequency_mhz": "127.9"
+        },
+        {
+            "id": "52152",
+            "airport_ref": "4959",
+            "airport_ident": "NFFN",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "52153",
+            "airport_ref": "4959",
+            "airport_ident": "NFFN",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
     "country": {
         "id": "302766",
         "code": "FJ",

@@ -63,6 +63,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "49761",
+            "airport_ref": "5901",
+            "airport_ident": "SBFL",
+            "type": "APP",
+            "description": "FLORIANOPOLIS APP",
+            "frequency_mhz": "119.65"
+        },
+        {
+            "id": "49762",
+            "airport_ref": "5901",
+            "airport_ident": "SBFL",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.45"
+        },
+        {
+            "id": "49763",
+            "airport_ref": "5901",
+            "airport_ident": "SBFL",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "49764",
+            "airport_ref": "5901",
+            "airport_ident": "SBFL",
+            "type": "OPS",
+            "description": "FLORIANOPOLIS OPS",
+            "frequency_mhz": "122.5"
+        },
+        {
+            "id": "49765",
+            "airport_ref": "5901",
+            "airport_ident": "SBFL",
+            "type": "TWR",
+            "description": "FLORIANOPOLIS TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
     "country": {
         "id": "302791",
         "code": "BR",

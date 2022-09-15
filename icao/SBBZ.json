@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "49601",
+            "airport_ref": "5877",
+            "airport_ident": "SBBZ",
+            "type": "AFIS",
+            "description": "BUZIOS RDO",
+            "frequency_mhz": "131.75"
+        },
+        {
+            "id": "49602",
+            "airport_ref": "5877",
+            "airport_ident": "SBBZ",
+            "type": "APP",
+            "description": "ALDEIA APP",
+            "frequency_mhz": "119.45"
+        }
+    ],
     "country": {
         "id": "302791",
         "code": "BR",

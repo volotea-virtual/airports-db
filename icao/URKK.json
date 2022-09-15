@@ -63,6 +63,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56723",
+            "airport_ref": "6512",
+            "airport_ident": "URKK",
+            "type": "APP",
+            "description": "KRASNODAR APP",
+            "frequency_mhz": "129.6"
+        },
+        {
+            "id": "56724",
+            "airport_ref": "6512",
+            "airport_ident": "URKK",
+            "type": "ATIS",
+            "description": "KRASNODRA ATIS",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "56725",
+            "airport_ref": "6512",
+            "airport_ident": "URKK",
+            "type": "GND",
+            "description": "KRASNODAR TAXIING",
+            "frequency_mhz": "119"
+        },
+        {
+            "id": "56726",
+            "airport_ref": "6512",
+            "airport_ident": "URKK",
+            "type": "RDR",
+            "description": "KRASNODAR KRUG",
+            "frequency_mhz": "121.3"
+        },
+        {
+            "id": "56727",
+            "airport_ref": "6512",
+            "airport_ident": "URKK",
+            "type": "TWR",
+            "description": "KRASNODAR TWR",
+            "frequency_mhz": "118.2"
+        }
+    ],
     "country": {
         "id": "302714",
         "code": "RU",

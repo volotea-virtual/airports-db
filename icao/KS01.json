@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "71198",
+            "airport_ref": "20986",
+            "airport_ident": "KS01",
+            "type": "CNTR",
+            "description": "SALT LAKE CITY CNTR",
+            "frequency_mhz": "133.4"
+        },
+        {
+            "id": "71199",
+            "airport_ref": "20986",
+            "airport_ident": "KS01",
+            "type": "RDO",
+            "description": "GREAT FALLS RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "71200",
+            "airport_ref": "20986",
+            "airport_ident": "KS01",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

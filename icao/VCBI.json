@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51092",
+            "airport_ref": "26463",
+            "airport_ident": "VCBI",
+            "type": "APP",
+            "description": "COLOMBO APP",
+            "frequency_mhz": "120.9"
+        },
+        {
+            "id": "51093",
+            "airport_ref": "26463",
+            "airport_ident": "VCBI",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.2"
+        },
+        {
+            "id": "51094",
+            "airport_ref": "26463",
+            "airport_ident": "VCBI",
+            "type": "GND",
+            "description": "COLOMBO GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "51095",
+            "airport_ref": "26463",
+            "airport_ident": "VCBI",
+            "type": "TWR",
+            "description": "COLOMBO TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
     "country": {
         "id": "302648",
         "code": "LK",

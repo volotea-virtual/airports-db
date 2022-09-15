@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57324",
+            "airport_ref": "4046",
+            "airport_ident": "LEVX",
+            "type": "APP",
+            "description": "SANTIAGO APP",
+            "frequency_mhz": "120.2"
+        },
+        {
+            "id": "57325",
+            "airport_ref": "4046",
+            "airport_ident": "LEVX",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "57326",
+            "airport_ref": "4046",
+            "airport_ident": "LEVX",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.45"
+        }
+    ],
     "country": {
         "id": "302684",
         "code": "ES",

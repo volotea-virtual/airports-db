@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "312226",
+            "airport_ref": "620",
+            "airport_ident": "CAH3",
+            "type": "ATF",
+            "description": "",
+            "frequency_mhz": "123.35"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

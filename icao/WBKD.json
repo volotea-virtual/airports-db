@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "55587",
+            "airport_ref": "26813",
+            "airport_ident": "WBKD",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.3"
+        }
+    ],
     "country": {
         "id": "302653",
         "code": "MY",

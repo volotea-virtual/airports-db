@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": "500"
         }
     ],
+    "freqs": [
+        {
+            "id": "70821",
+            "airport_ref": "8082",
+            "airport_ident": "18AZ",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.975"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

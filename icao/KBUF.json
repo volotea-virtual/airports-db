@@ -63,6 +63,56 @@
             "he_displaced_threshold_ft": "720"
         }
     ],
+    "freqs": [
+        {
+            "id": "69857",
+            "airport_ref": "3431",
+            "airport_ident": "KBUF",
+            "type": "A/D",
+            "description": "Buffalo APP/DEP",
+            "frequency_mhz": "126.15"
+        },
+        {
+            "id": "69858",
+            "airport_ref": "3431",
+            "airport_ident": "KBUF",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "135.35"
+        },
+        {
+            "id": "69859",
+            "airport_ref": "3431",
+            "airport_ident": "KBUF",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "124.7"
+        },
+        {
+            "id": "69860",
+            "airport_ref": "3431",
+            "airport_ident": "KBUF",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "133.2"
+        },
+        {
+            "id": "69861",
+            "airport_ref": "3431",
+            "airport_ident": "KBUF",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "122.6"
+        },
+        {
+            "id": "69862",
+            "airport_ref": "3431",
+            "airport_ident": "KBUF",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.5"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

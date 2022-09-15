@@ -63,6 +63,88 @@
             "he_displaced_threshold_ft": "540"
         }
     ],
+    "freqs": [
+        {
+            "id": "50235",
+            "airport_ref": "1956",
+            "airport_ident": "CYXD",
+            "type": "A/D",
+            "description": "ARR/DEP",
+            "frequency_mhz": "119.5"
+        },
+        {
+            "id": "50236",
+            "airport_ref": "1956",
+            "airport_ident": "CYXD",
+            "type": "A/G",
+            "description": "MF RED DEER RDO",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "50237",
+            "airport_ref": "1956",
+            "airport_ident": "CYXD",
+            "type": "AAS",
+            "description": "VFR ADVSY",
+            "frequency_mhz": "118.8"
+        },
+        {
+            "id": "50238",
+            "airport_ref": "1956",
+            "airport_ident": "CYXD",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "114.9"
+        },
+        {
+            "id": "50239",
+            "airport_ref": "1956",
+            "airport_ident": "CYXD",
+            "type": "AWOS",
+            "description": "AWOS",
+            "frequency_mhz": "128.625"
+        },
+        {
+            "id": "50240",
+            "airport_ref": "1956",
+            "airport_ident": "CYXD",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.3"
+        },
+        {
+            "id": "50241",
+            "airport_ref": "1956",
+            "airport_ident": "CYXD",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "50242",
+            "airport_ref": "1956",
+            "airport_ident": "CYXD",
+            "type": "INFO",
+            "description": "AIR AMBULANCE",
+            "frequency_mhz": "122.45"
+        },
+        {
+            "id": "50243",
+            "airport_ref": "1956",
+            "airport_ident": "CYXD",
+            "type": "RCO",
+            "description": "RED DEER RDO",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "50244",
+            "airport_ref": "1956",
+            "airport_ident": "CYXD",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.1"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

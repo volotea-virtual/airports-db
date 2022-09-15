@@ -3,20 +3,20 @@
     "ident": "DAON",
     "type": "medium_airport",
     "name": "Zenata – Messali El Hadj Airport",
-    "latitude_deg": "35.0167007446",
-    "longitude_deg": "-1.45000004768",
+    "latitude_deg": "35.013426",
+    "longitude_deg": "-1.457191",
     "elevation_ft": "814",
     "continent": "AF",
     "iso_country": "DZ",
     "iso_region": "DZ-13",
-    "municipality": "Tlemcen",
+    "municipality": "Zenata",
     "scheduled_service": "yes",
     "gps_code": "DAON",
     "iata_code": "TLM",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "https://en.wikipedia.org/wiki/Zenata_Airport",
-    "keywords": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Zenata_%E2%80%93_Messali_El_Hadj_Airport",
+    "keywords": "Tlemcen",
     "runways": [
         {
             "id": "232793",
@@ -39,6 +39,16 @@
             "he_elevation_ft": "804",
             "he_heading_degT": "250",
             "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48261",
+            "airport_ref": "2070",
+            "airport_ident": "DAON",
+            "type": "TWR",
+            "description": "TLEMCEN TWR",
+            "frequency_mhz": "119.7"
         }
     ],
     "country": {

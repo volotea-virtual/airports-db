@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "65169",
+            "airport_ref": "12929",
+            "airport_ident": "63XS",
+            "type": "CNTR",
+            "description": "HOUSTON CNTR",
+            "frequency_mhz": "126.625"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

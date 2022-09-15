@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": "394"
         }
     ],
+    "freqs": [
+        {
+            "id": "55891",
+            "airport_ref": "6406",
+            "airport_ident": "TNCM",
+            "type": "APP",
+            "description": "JULIANA APP",
+            "frequency_mhz": "128.95"
+        },
+        {
+            "id": "55892",
+            "airport_ref": "6406",
+            "airport_ident": "TNCM",
+            "type": "TWR",
+            "description": "JULIANA TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
     "country": {
         "id": "302761",
         "code": "SX",

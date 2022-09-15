@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": "522"
         }
     ],
+    "freqs": [
+        {
+            "id": "54341",
+            "airport_ref": "4374",
+            "airport_ident": "LIRI",
+            "type": "AFIS",
+            "description": "SALERNO INFO",
+            "frequency_mhz": "119.175"
+        }
+    ],
     "country": {
         "id": "302697",
         "code": "IT",

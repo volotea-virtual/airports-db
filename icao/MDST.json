@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51760",
+            "airport_ref": "4640",
+            "airport_ident": "MDST",
+            "type": "APP",
+            "description": "SANTIAGO APP",
+            "frequency_mhz": "119"
+        },
+        {
+            "id": "51761",
+            "airport_ref": "4640",
+            "airport_ident": "MDST",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "51762",
+            "airport_ref": "4640",
+            "airport_ident": "MDST",
+            "type": "TWR",
+            "description": "SANTIAGO TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302734",
         "code": "DO",

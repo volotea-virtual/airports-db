@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "55304",
+            "airport_ref": "4573",
+            "airport_ident": "LWSK",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "120.3"
+        },
+        {
+            "id": "55305",
+            "airport_ref": "4573",
+            "airport_ident": "LWSK",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "130.125"
+        },
+        {
+            "id": "55306",
+            "airport_ref": "4573",
+            "airport_ident": "LWSK",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.5"
+        }
+    ],
     "country": {
         "id": "302706",
         "code": "MK",

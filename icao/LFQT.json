@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52565",
+            "airport_ref": "4203",
+            "airport_ident": "LFQT",
+            "type": "APP",
+            "description": "LILLE APP",
+            "frequency_mhz": "120.275"
+        },
+        {
+            "id": "52566",
+            "airport_ref": "4203",
+            "airport_ident": "LFQT",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.9"
+        },
+        {
+            "id": "52567",
+            "airport_ref": "4203",
+            "airport_ident": "LFQT",
+            "type": "GND",
+            "description": "MERVILLE GND",
+            "frequency_mhz": "121.675"
+        },
+        {
+            "id": "52568",
+            "airport_ref": "4203",
+            "airport_ident": "LFQT",
+            "type": "TWR",
+            "description": "MERVILLE TWR",
+            "frequency_mhz": "119.075"
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

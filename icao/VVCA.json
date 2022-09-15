@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "71762",
+            "airport_ref": "26691",
+            "airport_ident": "VVCA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.25"
+        }
+    ],
     "country": {
         "id": "302670",
         "code": "VN",

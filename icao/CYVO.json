@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "50594",
+            "airport_ref": "1938",
+            "airport_ident": "CYVO",
+            "type": "MF",
+            "description": "Val-d'Or Radio",
+            "frequency_mhz": "118.5"
+        },
+        {
+            "id": "50595",
+            "airport_ref": "1938",
+            "airport_ident": "CYVO",
+            "type": "PAL",
+            "description": "Montreal Centre",
+            "frequency_mhz": "125.9"
+        },
+        {
+            "id": "50597",
+            "airport_ref": "1938",
+            "airport_ident": "CYVO",
+            "type": "RADIO",
+            "description": "Val-d'Or Radio/Traffic",
+            "frequency_mhz": "118.5"
+        },
+        {
+            "id": "50596",
+            "airport_ref": "1938",
+            "airport_ident": "CYVO",
+            "type": "RCO",
+            "description": "Quebec Radio",
+            "frequency_mhz": "126.7"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

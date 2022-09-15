@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56634",
+            "airport_ref": "26393",
+            "airport_ident": "UUBP",
+            "type": "RDR",
+            "description": "KRUG",
+            "frequency_mhz": "119.2"
+        },
+        {
+            "id": "56635",
+            "airport_ref": "26393",
+            "airport_ident": "UUBP",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "129.8"
+        }
+    ],
     "country": {
         "id": "302714",
         "code": "RU",

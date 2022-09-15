@@ -107,6 +107,104 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "70957",
+            "airport_ref": "3709",
+            "airport_ident": "KMSP",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "118.72"
+        },
+        {
+            "id": "70958",
+            "airport_ref": "3709",
+            "airport_ident": "KMSP",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "120.8"
+        },
+        {
+            "id": "70959",
+            "airport_ref": "3709",
+            "airport_ident": "KMSP",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "133.2"
+        },
+        {
+            "id": "70960",
+            "airport_ref": "3709",
+            "airport_ident": "KMSP",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "132.975"
+        },
+        {
+            "id": "70961",
+            "airport_ref": "3709",
+            "airport_ident": "KMSP",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "70962",
+            "airport_ref": "3709",
+            "airport_ident": "KMSP",
+            "type": "MISC",
+            "description": "934 AW BASE OPS",
+            "frequency_mhz": "28.267"
+        },
+        {
+            "id": "70963",
+            "airport_ref": "3709",
+            "airport_ident": "KMSP",
+            "type": "OPS",
+            "description": "133 AW COMD POST",
+            "frequency_mhz": "31.12"
+        },
+        {
+            "id": "70964",
+            "airport_ref": "3709",
+            "airport_ident": "KMSP",
+            "type": "POST",
+            "description": "934 AW COMD POST",
+            "frequency_mhz": "25.21"
+        },
+        {
+            "id": "70965",
+            "airport_ref": "3709",
+            "airport_ident": "KMSP",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "28.267"
+        },
+        {
+            "id": "70966",
+            "airport_ref": "3709",
+            "airport_ident": "KMSP",
+            "type": "RDO",
+            "description": "PRINCETON RDO",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "70967",
+            "airport_ref": "3709",
+            "airport_ident": "KMSP",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "123.675"
+        },
+        {
+            "id": "70968",
+            "airport_ref": "3709",
+            "airport_ident": "KMSP",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

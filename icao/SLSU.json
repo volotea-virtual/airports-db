@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": "1690"
         }
     ],
+    "freqs": [
+        {
+            "id": "49454",
+            "airport_ref": "6189",
+            "airport_ident": "SLSU",
+            "type": "APP",
+            "description": "SUCRE APP",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "49455",
+            "airport_ref": "6189",
+            "airport_ident": "SLSU",
+            "type": "RDO",
+            "description": "SUCRE RDO",
+            "frequency_mhz": "662.2"
+        },
+        {
+            "id": "49456",
+            "airport_ref": "6189",
+            "airport_ident": "SLSU",
+            "type": "TWR",
+            "description": "SUCRE TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
     "country": {
         "id": "302790",
         "code": "BO",

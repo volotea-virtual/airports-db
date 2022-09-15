@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51756",
+            "airport_ref": "6362",
+            "airport_ident": "TDPD",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.9"
+        }
+    ],
     "country": {
         "id": "302733",
         "code": "DM",

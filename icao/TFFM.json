@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53284",
+            "airport_ref": "6365",
+            "airport_ident": "TFFM",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "119.3"
+        },
+        {
+            "id": "53285",
+            "airport_ref": "6365",
+            "airport_ident": "TFFM",
+            "type": "APP",
+            "description": "RAIZET APP",
+            "frequency_mhz": "121.3"
+        }
+    ],
     "country": {
         "id": "302737",
         "code": "GP",

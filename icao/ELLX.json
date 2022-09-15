@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "55203",
+            "airport_ref": "2563",
+            "airport_ident": "ELLX",
+            "type": "APP",
+            "description": "Luxembourg Approach",
+            "frequency_mhz": "120.885"
+        },
+        {
+            "id": "55204",
+            "airport_ref": "2563",
+            "airport_ident": "ELLX",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "134.755"
+        },
+        {
+            "id": "55205",
+            "airport_ref": "2563",
+            "airport_ident": "ELLX",
+            "type": "TWR",
+            "description": "Luxembourg Tower",
+            "frequency_mhz": "118.105"
+        },
+        {
+            "id": "352867",
+            "airport_ref": "2563",
+            "airport_ident": "ELLX",
+            "type": "VDF",
+            "description": "Homer",
+            "frequency_mhz": "118.105"
+        }
+    ],
     "country": {
         "id": "302701",
         "code": "LU",

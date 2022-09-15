@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "346229",
+            "airport_ref": "44487",
+            "airport_ident": "LTFG",
+            "type": "TOWER",
+            "description": "",
+            "frequency_mhz": "119.25"
+        }
+    ],
     "country": {
         "id": "302667",
         "code": "TR",

@@ -63,6 +63,80 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "69630",
+            "airport_ref": "3406",
+            "airport_ident": "KBHM",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "123.8"
+        },
+        {
+            "id": "69631",
+            "airport_ref": "3406",
+            "airport_ident": "KBHM",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "119.4"
+        },
+        {
+            "id": "69632",
+            "airport_ref": "3406",
+            "airport_ident": "KBHM",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "125.675"
+        },
+        {
+            "id": "69633",
+            "airport_ref": "3406",
+            "airport_ident": "KBHM",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "69634",
+            "airport_ref": "3406",
+            "airport_ident": "KBHM",
+            "type": "OPS",
+            "description": "ARNG OPS",
+            "frequency_mhz": "38.7"
+        },
+        {
+            "id": "69635",
+            "airport_ref": "3406",
+            "airport_ident": "KBHM",
+            "type": "POST",
+            "description": "ANG COMD POST",
+            "frequency_mhz": "28.73"
+        },
+        {
+            "id": "69636",
+            "airport_ref": "3406",
+            "airport_ident": "KBHM",
+            "type": "RDO",
+            "description": "ANNISTON RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "69637",
+            "airport_ref": "3406",
+            "airport_ident": "KBHM",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.9"
+        },
+        {
+            "id": "69638",
+            "airport_ref": "3406",
+            "airport_ident": "KBHM",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

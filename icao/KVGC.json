@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "62208",
+            "airport_ref": "20008",
+            "airport_ident": "KVGC",
+            "type": "A/D",
+            "description": "SYRACUSE APP/DEP",
+            "frequency_mhz": "126.125"
+        },
+        {
+            "id": "62209",
+            "airport_ref": "20008",
+            "airport_ident": "KVGC",
+            "type": "FSS",
+            "description": "BUFFALO RDO",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "62210",
+            "airport_ref": "20008",
+            "airport_ident": "KVGC",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "75341",
+            "airport_ref": "45097",
+            "airport_ident": "US-0058",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "122.9"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

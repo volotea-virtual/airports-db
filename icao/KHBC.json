@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "63786",
+            "airport_ref": "20026",
+            "airport_ident": "KHBC",
+            "type": "APP",
+            "description": "MINOT APP",
+            "frequency_mhz": "119.6"
+        },
+        {
+            "id": "63787",
+            "airport_ref": "20026",
+            "airport_ident": "KHBC",
+            "type": "DEP",
+            "description": "MINOT DEP",
+            "frequency_mhz": "119.6"
+        },
+        {
+            "id": "63788",
+            "airport_ref": "20026",
+            "airport_ident": "KHBC",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

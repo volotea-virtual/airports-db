@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "50368",
+            "airport_ref": "639",
+            "airport_ident": "CYLI",
+            "type": "ATF",
+            "description": "ATF",
+            "frequency_mhz": "123.2"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

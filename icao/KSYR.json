@@ -85,6 +85,64 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "68023",
+            "airport_ref": "3913",
+            "airport_ident": "KSYR",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "126.125"
+        },
+        {
+            "id": "68024",
+            "airport_ref": "3913",
+            "airport_ident": "KSYR",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "132.05"
+        },
+        {
+            "id": "68025",
+            "airport_ref": "3913",
+            "airport_ident": "KSYR",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "125.05"
+        },
+        {
+            "id": "68026",
+            "airport_ref": "3913",
+            "airport_ident": "KSYR",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "68027",
+            "airport_ref": "3913",
+            "airport_ident": "KSYR",
+            "type": "OPS",
+            "description": "ANG OPS",
+            "frequency_mhz": "139.625"
+        },
+        {
+            "id": "68028",
+            "airport_ref": "3913",
+            "airport_ident": "KSYR",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.3"
+        },
+        {
+            "id": "68029",
+            "airport_ref": "3913",
+            "airport_ident": "KSYR",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

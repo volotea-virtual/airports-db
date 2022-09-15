@@ -63,6 +63,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "64270",
+            "airport_ref": "3624",
+            "airport_ident": "KJMS",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "118.425"
+        },
+        {
+            "id": "64271",
+            "airport_ref": "3624",
+            "airport_ident": "KJMS",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "124.2"
+        },
+        {
+            "id": "64272",
+            "airport_ref": "3624",
+            "airport_ident": "KJMS",
+            "type": "RDO",
+            "description": "GRAND FORKS RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "64273",
+            "airport_ref": "3624",
+            "airport_ident": "KJMS",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

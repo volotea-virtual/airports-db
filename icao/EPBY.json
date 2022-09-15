@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56196",
+            "airport_ref": "2604",
+            "airport_ident": "EPBY",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "128.5"
+        },
+        {
+            "id": "56197",
+            "airport_ref": "2604",
+            "airport_ident": "EPBY",
+            "type": "TWR",
+            "description": "BYDGOSZCZ TWR",
+            "frequency_mhz": "131"
+        }
+    ],
     "country": {
         "id": "302710",
         "code": "PL",

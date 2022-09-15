@@ -63,6 +63,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "60209",
+            "airport_ref": "3379",
+            "airport_ident": "KAND",
+            "type": "A/D",
+            "description": "GREER APP/DEP",
+            "frequency_mhz": "118.8"
+        },
+        {
+            "id": "60210",
+            "airport_ref": "3379",
+            "airport_ident": "KAND",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "120.675"
+        },
+        {
+            "id": "60211",
+            "airport_ref": "3379",
+            "airport_ident": "KAND",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "123.6"
+        },
+        {
+            "id": "60212",
+            "airport_ref": "3379",
+            "airport_ident": "KAND",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "60213",
+            "airport_ref": "3379",
+            "airport_ident": "KAND",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": "912"
         }
     ],
+    "freqs": [
+        {
+            "id": "53373",
+            "airport_ref": "4261",
+            "airport_ident": "LGKF",
+            "type": "A/G",
+            "description": "RDO",
+            "frequency_mhz": "563.7"
+        },
+        {
+            "id": "53374",
+            "airport_ref": "4261",
+            "airport_ident": "LGKF",
+            "type": "AFIS",
+            "description": "AFIS INFO",
+            "frequency_mhz": "122.25"
+        }
+    ],
     "country": {
         "id": "302691",
         "code": "GR",

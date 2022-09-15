@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "60058",
+            "airport_ref": "21432",
+            "airport_ident": "KY94",
+            "type": "FSS",
+            "description": "LANSING RDO",
+            "frequency_mhz": "122.55"
+        },
+        {
+            "id": "60059",
+            "airport_ref": "21432",
+            "airport_ident": "KY94",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

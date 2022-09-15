@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "299261",
+            "airport_ref": "40039",
+            "airport_ident": "CA-0393",
+            "type": "CTAF",
+            "description": "Upper Kent Traffic",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

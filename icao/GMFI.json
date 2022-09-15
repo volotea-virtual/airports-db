@@ -2,14 +2,14 @@
     "id": "3104",
     "ident": "GMFI",
     "type": "small_airport",
-    "name": "Ifrane Airport",
-    "latitude_deg": "33.50529861450195",
-    "longitude_deg": "-5.152900218963623",
+    "name": "Ifran Airport",
+    "latitude_deg": "33.505299",
+    "longitude_deg": "-5.1529",
     "elevation_ft": "5459",
     "continent": "AF",
     "iso_country": "MA",
     "iso_region": "MA-IFR",
-    "municipality": "",
+    "municipality": "Ifran",
     "scheduled_service": "no",
     "gps_code": "GMFI",
     "iata_code": "",
@@ -39,6 +39,16 @@
             "he_elevation_ft": "",
             "he_heading_degT": "205",
             "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55319",
+            "airport_ref": "3104",
+            "airport_ident": "GMFI",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "131"
         }
     ],
     "country": {

@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "313904",
+            "airport_ref": "5327",
+            "airport_ident": "MP18",
+            "type": "FSS",
+            "description": "Penonome Radio",
+            "frequency_mhz": "123"
+        }
+    ],
     "country": {
         "id": "302749",
         "code": "PA",

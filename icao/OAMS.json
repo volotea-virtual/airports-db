@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "75467",
+            "airport_ref": "5075",
+            "airport_ident": "OAMS",
+            "type": "CONTROL",
+            "description": "MAZAR CONTROL",
+            "frequency_mhz": "121.25"
+        },
+        {
+            "id": "48238",
+            "airport_ref": "5075",
+            "airport_ident": "OAMS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "132"
+        }
+    ],
     "country": {
         "id": "302619",
         "code": "AF",

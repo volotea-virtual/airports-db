@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53164",
+            "airport_ref": "2739",
+            "airport_ident": "ETNL",
+            "type": "ACC",
+            "description": "BERLIN RADAR",
+            "frequency_mhz": "126.175"
+        },
+        {
+            "id": "53165",
+            "airport_ref": "2739",
+            "airport_ident": "ETNL",
+            "type": "INFO",
+            "description": "BERLIN INFO",
+            "frequency_mhz": "132.65"
+        },
+        {
+            "id": "53167",
+            "airport_ref": "2739",
+            "airport_ident": "ETNL",
+            "type": "RDR",
+            "description": "RADAR",
+            "frequency_mhz": "34.4"
+        },
+        {
+            "id": "53166",
+            "airport_ref": "2739",
+            "airport_ident": "ETNL",
+            "type": "RDR",
+            "description": "RADAR",
+            "frequency_mhz": "123.3"
+        },
+        {
+            "id": "53168",
+            "airport_ref": "2739",
+            "airport_ident": "ETNL",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.425"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

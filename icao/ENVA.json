@@ -85,6 +85,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "55796",
+            "airport_ref": "2601",
+            "airport_ident": "ENVA",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "118.6"
+        },
+        {
+            "id": "55797",
+            "airport_ref": "2601",
+            "airport_ident": "ENVA",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.55"
+        },
+        {
+            "id": "312267",
+            "airport_ref": "2601",
+            "airport_ident": "ENVA",
+            "type": "GND",
+            "description": "Værnes ground",
+            "frequency_mhz": "121.6"
+        },
+        {
+            "id": "55798",
+            "airport_ref": "2601",
+            "airport_ident": "ENVA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.4"
+        }
+    ],
     "country": {
         "id": "302709",
         "code": "NO",

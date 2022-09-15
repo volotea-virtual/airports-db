@@ -85,6 +85,80 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "64858",
+            "airport_ref": "3897",
+            "airport_ident": "KSPI",
+            "type": "A/D",
+            "description": "SPRINGFIELD APP/DEP",
+            "frequency_mhz": "118.6"
+        },
+        {
+            "id": "64859",
+            "airport_ref": "3897",
+            "airport_ident": "KSPI",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.65"
+        },
+        {
+            "id": "64860",
+            "airport_ref": "3897",
+            "airport_ident": "KSPI",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "64861",
+            "airport_ref": "3897",
+            "airport_ident": "KSPI",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "121.3"
+        },
+        {
+            "id": "64862",
+            "airport_ref": "3897",
+            "airport_ident": "KSPI",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "64863",
+            "airport_ref": "3897",
+            "airport_ident": "KSPI",
+            "type": "OPS",
+            "description": "ANG OPS",
+            "frequency_mhz": "27.217"
+        },
+        {
+            "id": "64864",
+            "airport_ref": "3897",
+            "airport_ident": "KSPI",
+            "type": "RDO",
+            "description": "ST LOUIS RDO",
+            "frequency_mhz": "122.25"
+        },
+        {
+            "id": "64865",
+            "airport_ref": "3897",
+            "airport_ident": "KSPI",
+            "type": "TWR",
+            "description": "SPRINGFIELD TWR",
+            "frequency_mhz": "121.3"
+        },
+        {
+            "id": "64866",
+            "airport_ref": "3897",
+            "airport_ident": "KSPI",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "131.42"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

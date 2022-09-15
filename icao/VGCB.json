@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "49421",
+            "airport_ref": "26526",
+            "airport_ident": "VGCB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.9"
+        }
+    ],
     "country": {
         "id": "302622",
         "code": "BD",

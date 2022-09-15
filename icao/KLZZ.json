@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "68042",
+            "airport_ref": "20402",
+            "airport_ident": "KLZZ",
+            "type": "A/D",
+            "description": "GRAY APP/DEP",
+            "frequency_mhz": "120.075"
+        },
+        {
+            "id": "68043",
+            "airport_ref": "20402",
+            "airport_ident": "KLZZ",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.075"
+        },
+        {
+            "id": "68044",
+            "airport_ref": "20402",
+            "airport_ident": "KLZZ",
+            "type": "RDO",
+            "description": "SAN ANGELO RDO",
+            "frequency_mhz": "122.55"
+        },
+        {
+            "id": "68045",
+            "airport_ref": "20402",
+            "airport_ident": "KLZZ",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

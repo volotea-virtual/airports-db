@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57010",
+            "airport_ref": "6386",
+            "airport_ident": "TKPK",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.6"
+        },
+        {
+            "id": "57011",
+            "airport_ref": "6386",
+            "airport_ident": "TKPK",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "57012",
+            "airport_ref": "6386",
+            "airport_ident": "TKPK",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302742",
         "code": "KN",

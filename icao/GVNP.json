@@ -85,6 +85,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51679",
+            "airport_ref": "3153",
+            "airport_ident": "GVNP",
+            "type": "APP",
+            "description": "PRAIA APP",
+            "frequency_mhz": "118.2"
+        },
+        {
+            "id": "51680",
+            "airport_ref": "3153",
+            "airport_ident": "GVNP",
+            "type": "TWR",
+            "description": "PRAIA TWR",
+            "frequency_mhz": "118.2"
+        }
+    ],
     "country": {
         "id": "302566",
         "code": "CV",

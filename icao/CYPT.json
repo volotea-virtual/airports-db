@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": "300"
         }
     ],
+    "freqs": [
+        {
+            "id": "50261",
+            "airport_ref": "1857",
+            "airport_ident": "CYPT",
+            "type": "CNTR",
+            "description": "CLEVELAND CNTR",
+            "frequency_mhz": "126.35"
+        },
+        {
+            "id": "50262",
+            "airport_ref": "1857",
+            "airport_ident": "CYPT",
+            "type": "UNIC",
+            "description": "ATF/UNICOM",
+            "frequency_mhz": "123.2"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

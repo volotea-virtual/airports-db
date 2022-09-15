@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "55513",
+            "airport_ref": "4721",
+            "airport_ident": "MMLM",
+            "type": "TWR",
+            "description": "MOCHIS TWR",
+            "frequency_mhz": "118.8"
+        }
+    ],
     "country": {
         "id": "302747",
         "code": "MX",

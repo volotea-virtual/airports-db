@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "298334",
+            "airport_ref": "29078",
+            "airport_ident": "EDNX",
+            "type": "AFIS",
+            "description": "Muenchen Information",
+            "frequency_mhz": "126.95"
+        },
+        {
+            "id": "298333",
+            "airport_ref": "29078",
+            "airport_ident": "EDNX",
+            "type": "INFO",
+            "description": "Schleissheim Info",
+            "frequency_mhz": "131.13"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

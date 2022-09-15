@@ -63,6 +63,16 @@
             "he_displaced_threshold_ft": "292"
         }
     ],
+    "freqs": [
+        {
+            "id": "58171",
+            "airport_ref": "2400",
+            "airport_ident": "EGCK",
+            "type": "A/G",
+            "description": "RDO",
+            "frequency_mhz": "122.25"
+        }
+    ],
     "country": {
         "id": "302688",
         "code": "GB",

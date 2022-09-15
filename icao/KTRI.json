@@ -63,6 +63,72 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "61395",
+            "airport_ref": "3928",
+            "airport_ident": "KTRI",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.25"
+        },
+        {
+            "id": "61396",
+            "airport_ref": "3928",
+            "airport_ident": "KTRI",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "118.25"
+        },
+        {
+            "id": "61397",
+            "airport_ref": "3928",
+            "airport_ident": "KTRI",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "119.5"
+        },
+        {
+            "id": "61398",
+            "airport_ref": "3928",
+            "airport_ident": "KTRI",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "125.5"
+        },
+        {
+            "id": "61399",
+            "airport_ref": "3928",
+            "airport_ident": "KTRI",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "61400",
+            "airport_ref": "3928",
+            "airport_ident": "KTRI",
+            "type": "RDO",
+            "description": "NASHVILLE RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "61401",
+            "airport_ref": "3928",
+            "airport_ident": "KTRI",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.5"
+        },
+        {
+            "id": "61402",
+            "airport_ref": "3928",
+            "airport_ident": "KTRI",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

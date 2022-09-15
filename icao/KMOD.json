@@ -63,6 +63,80 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "69773",
+            "airport_ref": "3701",
+            "airport_ident": "KMOD",
+            "type": "A/D",
+            "description": "NORCAL APP/DEP",
+            "frequency_mhz": "36.32"
+        },
+        {
+            "id": "69772",
+            "airport_ref": "3701",
+            "airport_ident": "KMOD",
+            "type": "A/D",
+            "description": "NORCAL APP/DEP",
+            "frequency_mhz": "120.95"
+        },
+        {
+            "id": "69774",
+            "airport_ref": "3701",
+            "airport_ident": "KMOD",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "127.7"
+        },
+        {
+            "id": "69775",
+            "airport_ref": "3701",
+            "airport_ident": "KMOD",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.7"
+        },
+        {
+            "id": "69776",
+            "airport_ref": "3701",
+            "airport_ident": "KMOD",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "125.3"
+        },
+        {
+            "id": "69777",
+            "airport_ref": "3701",
+            "airport_ident": "KMOD",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "69778",
+            "airport_ref": "3701",
+            "airport_ident": "KMOD",
+            "type": "RDO",
+            "description": "RANCHO RDO",
+            "frequency_mhz": "114.6"
+        },
+        {
+            "id": "69779",
+            "airport_ref": "3701",
+            "airport_ident": "KMOD",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "125.3"
+        },
+        {
+            "id": "69780",
+            "airport_ref": "3701",
+            "airport_ident": "KMOD",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

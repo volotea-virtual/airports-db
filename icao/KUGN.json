@@ -63,6 +63,64 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "69824",
+            "airport_ref": "21289",
+            "airport_ident": "KUGN",
+            "type": "A/D",
+            "description": "CHICAGO APP/DEP",
+            "frequency_mhz": "120.55"
+        },
+        {
+            "id": "69825",
+            "airport_ref": "21289",
+            "airport_ident": "KUGN",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "132.4"
+        },
+        {
+            "id": "69826",
+            "airport_ref": "21289",
+            "airport_ident": "KUGN",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "120.05"
+        },
+        {
+            "id": "69827",
+            "airport_ref": "21289",
+            "airport_ident": "KUGN",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.65"
+        },
+        {
+            "id": "69828",
+            "airport_ref": "21289",
+            "airport_ident": "KUGN",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "122.55"
+        },
+        {
+            "id": "69829",
+            "airport_ref": "21289",
+            "airport_ident": "KUGN",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.05"
+        },
+        {
+            "id": "69830",
+            "airport_ref": "21289",
+            "airport_ident": "KUGN",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

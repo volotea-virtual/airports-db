@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": "430"
         }
     ],
+    "freqs": [
+        {
+            "id": "54237",
+            "airport_ref": "4371",
+            "airport_ident": "LIRE",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.6"
+        },
+        {
+            "id": "54238",
+            "airport_ref": "4371",
+            "airport_ident": "LIRE",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.1"
+        }
+    ],
     "country": {
         "id": "302697",
         "code": "IT",

@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "71595",
+            "airport_ref": "2089",
+            "airport_ident": "DFOO",
+            "type": "A/G",
+            "description": "AG VOICE RDO",
+            "frequency_mhz": "667.3"
+        },
+        {
+            "id": "71596",
+            "airport_ref": "2089",
+            "airport_ident": "DFOO",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.7"
+        }
+    ],
     "country": {
         "id": "302557",
         "code": "BF",

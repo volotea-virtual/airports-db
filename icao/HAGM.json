@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51990",
+            "airport_ref": "3163",
+            "airport_ident": "HAGM",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "51991",
+            "airport_ref": "3163",
+            "airport_ident": "HAGM",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
     "country": {
         "id": "302572",
         "code": "ET",

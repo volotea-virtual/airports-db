@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "67951",
+            "airport_ref": "19964",
+            "airport_ident": "KGNB",
+            "type": "AWOS",
+            "description": "AWOS 1",
+            "frequency_mhz": "119.925"
+        },
+        {
+            "id": "67952",
+            "airport_ref": "19964",
+            "airport_ident": "KGNB",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

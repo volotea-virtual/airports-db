@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "354836",
+            "airport_ref": "308327",
+            "airport_ident": "LYSM",
+            "type": "CTAF",
+            "description": "Belgrade FIR",
+            "frequency_mhz": "119.1"
+        }
+    ],
     "country": {
         "id": "302713",
         "code": "RS",

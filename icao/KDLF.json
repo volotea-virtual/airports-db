@@ -85,6 +85,72 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "60754",
+            "airport_ref": "3490",
+            "airport_ident": "KDLF",
+            "type": "APP",
+            "description": "DEL RIO APP",
+            "frequency_mhz": "119.6"
+        },
+        {
+            "id": "60755",
+            "airport_ref": "3490",
+            "airport_ident": "KDLF",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "114.4"
+        },
+        {
+            "id": "60756",
+            "airport_ref": "3490",
+            "airport_ident": "KDLF",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "120.5"
+        },
+        {
+            "id": "60757",
+            "airport_ref": "3490",
+            "airport_ident": "KDLF",
+            "type": "DEP",
+            "description": "DEL RIO DEP",
+            "frequency_mhz": "119.6"
+        },
+        {
+            "id": "60758",
+            "airport_ref": "3490",
+            "airport_ident": "KDLF",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "138.75"
+        },
+        {
+            "id": "60759",
+            "airport_ref": "3490",
+            "airport_ident": "KDLF",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "35.46"
+        },
+        {
+            "id": "60760",
+            "airport_ref": "3490",
+            "airport_ident": "KDLF",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "37.22"
+        },
+        {
+            "id": "60761",
+            "airport_ref": "3490",
+            "airport_ident": "KDLF",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "125.2"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

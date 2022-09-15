@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": "1017"
         }
     ],
+    "freqs": [
+        {
+            "id": "52526",
+            "airport_ref": "4163",
+            "airport_ident": "LFMV",
+            "type": "APP",
+            "description": "AVIGNON APP",
+            "frequency_mhz": "120.875"
+        },
+        {
+            "id": "52527",
+            "airport_ref": "4163",
+            "airport_ident": "LFMV",
+            "type": "ATIS",
+            "description": "AVIGNON ATIS",
+            "frequency_mhz": "120.825"
+        },
+        {
+            "id": "52528",
+            "airport_ref": "4163",
+            "airport_ident": "LFMV",
+            "type": "TWR",
+            "description": "AVIGNON TWR",
+            "frequency_mhz": "122.6"
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

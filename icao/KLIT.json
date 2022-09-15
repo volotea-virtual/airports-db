@@ -85,6 +85,64 @@
             "he_displaced_threshold_ft": "164"
         }
     ],
+    "freqs": [
+        {
+            "id": "65606",
+            "airport_ref": "3645",
+            "airport_ident": "KLIT",
+            "type": "A/D",
+            "description": "LITTLE ROCK APP/DEP",
+            "frequency_mhz": "119.5"
+        },
+        {
+            "id": "65607",
+            "airport_ref": "3645",
+            "airport_ident": "KLIT",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "125.65"
+        },
+        {
+            "id": "65608",
+            "airport_ref": "3645",
+            "airport_ident": "KLIT",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "118.95"
+        },
+        {
+            "id": "65609",
+            "airport_ref": "3645",
+            "airport_ident": "KLIT",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "65610",
+            "airport_ref": "3645",
+            "airport_ident": "KLIT",
+            "type": "RDO",
+            "description": "JONESBORO RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "65611",
+            "airport_ref": "3645",
+            "airport_ident": "KLIT",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.7"
+        },
+        {
+            "id": "65612",
+            "airport_ref": "3645",
+            "airport_ident": "KLIT",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

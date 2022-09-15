@@ -63,6 +63,80 @@
             "he_displaced_threshold_ft": "1147"
         }
     ],
+    "freqs": [
+        {
+            "id": "67298",
+            "airport_ref": "3899",
+            "airport_ident": "KSRQ",
+            "type": "A/D",
+            "description": "TAMPA APP/DEP",
+            "frequency_mhz": "119.65"
+        },
+        {
+            "id": "67299",
+            "airport_ref": "3899",
+            "airport_ident": "KSRQ",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "134.15"
+        },
+        {
+            "id": "67300",
+            "airport_ref": "3899",
+            "airport_ident": "KSRQ",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "134.15"
+        },
+        {
+            "id": "67301",
+            "airport_ref": "3899",
+            "airport_ident": "KSRQ",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "118.25"
+        },
+        {
+            "id": "67302",
+            "airport_ref": "3899",
+            "airport_ident": "KSRQ",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "120.1"
+        },
+        {
+            "id": "67303",
+            "airport_ref": "3899",
+            "airport_ident": "KSRQ",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "67304",
+            "airport_ref": "3899",
+            "airport_ident": "KSRQ",
+            "type": "RDO",
+            "description": "ST PETERSBURG RDO",
+            "frequency_mhz": "115.2"
+        },
+        {
+            "id": "67305",
+            "airport_ref": "3899",
+            "airport_ident": "KSRQ",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.1"
+        },
+        {
+            "id": "67306",
+            "airport_ref": "3899",
+            "airport_ident": "KSRQ",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

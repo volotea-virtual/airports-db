@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": "111"
         }
     ],
+    "freqs": [
+        {
+            "id": "53595",
+            "airport_ref": "26803",
+            "airport_ident": "WAFM",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "534"
+        }
+    ],
     "country": {
         "id": "302632",
         "code": "ID",

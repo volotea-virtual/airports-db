@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53572",
+            "airport_ref": "122",
+            "airport_ident": "BIIS",
+            "type": "ACC",
+            "description": "REYKJAVIK ACC",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "53573",
+            "airport_ref": "122",
+            "airport_ident": "BIIS",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "118.8"
+        }
+    ],
     "country": {
         "id": "302696",
         "code": "IS",

@@ -85,6 +85,24 @@
             "he_displaced_threshold_ft": "394"
         }
     ],
+    "freqs": [
+        {
+            "id": "58433",
+            "airport_ref": "2456",
+            "airport_ident": "EGPA",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "118.305"
+        },
+        {
+            "id": "58434",
+            "airport_ref": "2456",
+            "airport_ident": "EGPA",
+            "type": "TWR",
+            "description": "Kirkwall Tower",
+            "frequency_mhz": "118.305"
+        }
+    ],
     "country": {
         "id": "302688",
         "code": "GB",

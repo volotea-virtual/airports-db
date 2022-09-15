@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52209",
+            "airport_ref": "4162",
+            "airport_ident": "LFMU",
+            "type": "APP",
+            "description": "MONTPELLIER APP",
+            "frequency_mhz": "130.85"
+        },
+        {
+            "id": "52210",
+            "airport_ref": "4162",
+            "airport_ident": "LFMU",
+            "type": "ATIS",
+            "description": "BEZIERS ATIS",
+            "frequency_mhz": "127.525"
+        },
+        {
+            "id": "52211",
+            "airport_ref": "4162",
+            "airport_ident": "LFMU",
+            "type": "TWR",
+            "description": "BEZIERS TWR",
+            "frequency_mhz": "120.175"
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

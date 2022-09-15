@@ -63,6 +63,56 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "50787",
+            "airport_ref": "1993",
+            "airport_ident": "CYZF",
+            "type": "A/G",
+            "description": "MF",
+            "frequency_mhz": "118.5"
+        },
+        {
+            "id": "50788",
+            "airport_ref": "1993",
+            "airport_ident": "CYZF",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.4"
+        },
+        {
+            "id": "50789",
+            "airport_ref": "1993",
+            "airport_ident": "CYZF",
+            "type": "CNTR",
+            "description": "EDMONTON CNTR",
+            "frequency_mhz": "135.8"
+        },
+        {
+            "id": "50790",
+            "airport_ref": "1993",
+            "airport_ident": "CYZF",
+            "type": "FSS",
+            "description": "RDO",
+            "frequency_mhz": "122.5"
+        },
+        {
+            "id": "50791",
+            "airport_ref": "1993",
+            "airport_ident": "CYZF",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "50792",
+            "airport_ref": "1993",
+            "airport_ident": "CYZF",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.5"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

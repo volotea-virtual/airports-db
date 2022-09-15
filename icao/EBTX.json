@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "75273",
+            "airport_ref": "29052",
+            "airport_ident": "EBTX",
+            "type": "INFO",
+            "description": "Verviers-Theux Radio",
+            "frequency_mhz": "119"
+        }
+    ],
     "country": {
         "id": "302676",
         "code": "BE",

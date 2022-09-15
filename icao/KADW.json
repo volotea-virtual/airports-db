@@ -63,6 +63,88 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "62668",
+            "airport_ref": "3364",
+            "airport_ident": "KADW",
+            "type": "APP",
+            "description": "POTOMAC APP",
+            "frequency_mhz": "119.3"
+        },
+        {
+            "id": "62669",
+            "airport_ref": "3364",
+            "airport_ident": "KADW",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "113.1"
+        },
+        {
+            "id": "62670",
+            "airport_ref": "3364",
+            "airport_ident": "KADW",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "127.55"
+        },
+        {
+            "id": "62671",
+            "airport_ref": "3364",
+            "airport_ident": "KADW",
+            "type": "DEP",
+            "description": "POTOMAC DEP",
+            "frequency_mhz": "125.65"
+        },
+        {
+            "id": "62672",
+            "airport_ref": "3364",
+            "airport_ident": "KADW",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "62673",
+            "airport_ref": "3364",
+            "airport_ident": "KADW",
+            "type": "OPS",
+            "description": "AFRC OPS",
+            "frequency_mhz": "143.8"
+        },
+        {
+            "id": "62674",
+            "airport_ref": "3364",
+            "airport_ident": "KADW",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "34.46"
+        },
+        {
+            "id": "62675",
+            "airport_ref": "3364",
+            "airport_ident": "KADW",
+            "type": "POST",
+            "description": "COMD POST",
+            "frequency_mhz": "141.55"
+        },
+        {
+            "id": "62676",
+            "airport_ref": "3364",
+            "airport_ident": "KADW",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "139.3"
+        },
+        {
+            "id": "62677",
+            "airport_ref": "3364",
+            "airport_ident": "KADW",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.4"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

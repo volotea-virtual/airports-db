@@ -85,6 +85,96 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "49353",
+            "airport_ref": "2155",
+            "airport_ident": "EBBR",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "118.255"
+        },
+        {
+            "id": "49355",
+            "airport_ref": "2155",
+            "airport_ident": "EBBR",
+            "type": "ATIS",
+            "description": "ATIS DEP",
+            "frequency_mhz": "121.755"
+        },
+        {
+            "id": "49354",
+            "airport_ref": "2155",
+            "airport_ident": "EBBR",
+            "type": "ATIS",
+            "description": "ATIS ARR",
+            "frequency_mhz": "132.475"
+        },
+        {
+            "id": "49356",
+            "airport_ref": "2155",
+            "airport_ident": "EBBR",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.95"
+        },
+        {
+            "id": "49357",
+            "airport_ref": "2155",
+            "airport_ident": "EBBR",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "126.63"
+        },
+        {
+            "id": "299389",
+            "airport_ref": "2155",
+            "airport_ident": "EBBR",
+            "type": "GND",
+            "description": "GND North",
+            "frequency_mhz": "118.055"
+        },
+        {
+            "id": "49358",
+            "airport_ref": "2155",
+            "airport_ident": "EBBR",
+            "type": "GND",
+            "description": "GND South",
+            "frequency_mhz": "121.88"
+        },
+        {
+            "id": "49359",
+            "airport_ref": "2155",
+            "airport_ident": "EBBR",
+            "type": "OPS",
+            "description": "MELSBROEK OPS",
+            "frequency_mhz": "140.575"
+        },
+        {
+            "id": "49360",
+            "airport_ref": "2155",
+            "airport_ident": "EBBR",
+            "type": "TWR",
+            "description": "TWR (RWY 07R/25L and 01)",
+            "frequency_mhz": "118.605"
+        },
+        {
+            "id": "299390",
+            "airport_ref": "2155",
+            "airport_ident": "EBBR",
+            "type": "TWR",
+            "description": "TWR (RWY 07L/25R or 19)",
+            "frequency_mhz": "120.78"
+        },
+        {
+            "id": "49361",
+            "airport_ref": "2155",
+            "airport_ident": "EBBR",
+            "type": "UNIC",
+            "description": "ABELAG UNICOM",
+            "frequency_mhz": "130.55"
+        }
+    ],
     "country": {
         "id": "302676",
         "code": "BE",

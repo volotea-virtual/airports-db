@@ -85,6 +85,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "54340",
+            "airport_ref": "4383",
+            "airport_ident": "LIRV",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.1"
+        }
+    ],
     "country": {
         "id": "302697",
         "code": "IT",

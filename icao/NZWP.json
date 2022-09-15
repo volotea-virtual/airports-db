@@ -85,6 +85,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "55973",
+            "airport_ref": "5065",
+            "airport_ident": "NZWP",
+            "type": "APP",
+            "description": "AUCKLAND APP",
+            "frequency_mhz": "124.3"
+        },
+        {
+            "id": "55974",
+            "airport_ref": "5065",
+            "airport_ident": "NZWP",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.3"
+        },
+        {
+            "id": "55975",
+            "airport_ref": "5065",
+            "airport_ident": "NZWP",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "134.5"
+        },
+        {
+            "id": "55976",
+            "airport_ref": "5065",
+            "airport_ident": "NZWP",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "134.5"
+        }
+    ],
     "country": {
         "id": "302776",
         "code": "NZ",

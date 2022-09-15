@@ -63,6 +63,40 @@
             "he_displaced_threshold_ft": "601"
         }
     ],
+    "freqs": [
+        {
+            "id": "51921",
+            "airport_ref": "2536",
+            "airport_ident": "EIME",
+            "type": "APP",
+            "description": "BALDONNEL APP",
+            "frequency_mhz": "122"
+        },
+        {
+            "id": "51922",
+            "airport_ref": "2536",
+            "airport_ident": "EIME",
+            "type": "ATIS",
+            "description": "AREA",
+            "frequency_mhz": "122.8"
+        },
+        {
+            "id": "51923",
+            "airport_ref": "2536",
+            "airport_ident": "EIME",
+            "type": "GND",
+            "description": "BALDONNEL GND",
+            "frequency_mhz": "123.1"
+        },
+        {
+            "id": "51924",
+            "airport_ref": "2536",
+            "airport_ident": "EIME",
+            "type": "TWR",
+            "description": "BALDONNEL TWR",
+            "frequency_mhz": "123.5"
+        }
+    ],
     "country": {
         "id": "302694",
         "code": "IE",

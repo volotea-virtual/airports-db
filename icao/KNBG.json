@@ -63,6 +63,64 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "68614",
+            "airport_ref": "3720",
+            "airport_ident": "KNBG",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "123.85"
+        },
+        {
+            "id": "68615",
+            "airport_ref": "3720",
+            "airport_ident": "KNBG",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "27.62"
+        },
+        {
+            "id": "68616",
+            "airport_ref": "3720",
+            "airport_ident": "KNBG",
+            "type": "GND",
+            "description": "NAVY NEW ORLEANS GND",
+            "frequency_mhz": "121.6"
+        },
+        {
+            "id": "68617",
+            "airport_ref": "3720",
+            "airport_ident": "KNBG",
+            "type": "MISC",
+            "description": "USCG NEW ORLEANS AIR",
+            "frequency_mhz": "38.18"
+        },
+        {
+            "id": "68618",
+            "airport_ref": "3720",
+            "airport_ident": "KNBG",
+            "type": "OPS",
+            "description": "BASE OPS",
+            "frequency_mhz": "37.915"
+        },
+        {
+            "id": "68619",
+            "airport_ref": "3720",
+            "airport_ident": "KNBG",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "26.58"
+        },
+        {
+            "id": "68620",
+            "airport_ref": "3720",
+            "airport_ident": "KNBG",
+            "type": "TWR",
+            "description": "NAVY NEW ORLEANS TWR",
+            "frequency_mhz": "123.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

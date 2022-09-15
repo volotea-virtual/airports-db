@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "75486",
+            "airport_ref": "30780",
+            "airport_ident": "FZNP",
+            "type": "TWR",
+            "description": "Beni Tower",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302561",
         "code": "CD",

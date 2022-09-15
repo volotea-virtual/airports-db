@@ -85,6 +85,80 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "64370",
+            "airport_ref": "3855",
+            "airport_ident": "KROC",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "119.55"
+        },
+        {
+            "id": "64371",
+            "airport_ref": "3855",
+            "airport_ident": "KROC",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "124.825"
+        },
+        {
+            "id": "64372",
+            "airport_ref": "3855",
+            "airport_ident": "KROC",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "354779",
+            "airport_ref": "3855",
+            "airport_ident": "KROC",
+            "type": "EMERG",
+            "description": "Rochester Emergency",
+            "frequency_mhz": "121.5"
+        },
+        {
+            "id": "64373",
+            "airport_ref": "3855",
+            "airport_ident": "KROC",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "64374",
+            "airport_ref": "3855",
+            "airport_ident": "KROC",
+            "type": "OPS",
+            "description": "ARNG OPS",
+            "frequency_mhz": "41"
+        },
+        {
+            "id": "64375",
+            "airport_ref": "3855",
+            "airport_ident": "KROC",
+            "type": "RDO",
+            "description": "BUFFALO RDO",
+            "frequency_mhz": "122.6"
+        },
+        {
+            "id": "64376",
+            "airport_ref": "3855",
+            "airport_ident": "KROC",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "64377",
+            "airport_ref": "3855",
+            "airport_ident": "KROC",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

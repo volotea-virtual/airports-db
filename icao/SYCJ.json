@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53467",
+            "airport_ref": "6356",
+            "airport_ident": "SYCJ",
+            "type": "APP",
+            "description": "TIMEHRI APP",
+            "frequency_mhz": "119.4"
+        },
+        {
+            "id": "53468",
+            "airport_ref": "6356",
+            "airport_ident": "SYCJ",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "53469",
+            "airport_ref": "6356",
+            "airport_ident": "SYCJ",
+            "type": "TWR",
+            "description": "TIMEHRI TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302797",
         "code": "GY",

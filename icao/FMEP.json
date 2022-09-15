@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56392",
+            "airport_ref": "2906",
+            "airport_ident": "FMEP",
+            "type": "INFO",
+            "description": "PIERREFONDS INFO",
+            "frequency_mhz": "122.4"
+        }
+    ],
     "country": {
         "id": "302594",
         "code": "RE",

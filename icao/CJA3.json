@@ -63,6 +63,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "50366",
+            "airport_ref": "1045",
+            "airport_ident": "CJA3",
+            "type": "UNIC",
+            "description": "ATF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

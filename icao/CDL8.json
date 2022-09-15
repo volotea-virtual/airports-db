@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "325215",
+            "airport_ref": "320210",
+            "airport_ident": "CDL8",
+            "type": "UNICOM",
+            "description": "",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56363",
+            "airport_ref": "68",
+            "airport_ident": "AYTK",
+            "type": "FSS",
+            "description": "LAE RDO",
+            "frequency_mhz": "127.1"
+        },
+        {
+            "id": "56364",
+            "airport_ref": "68",
+            "airport_ident": "AYTK",
+            "type": "MISC",
+            "description": "MTAF",
+            "frequency_mhz": "120.9"
+        },
+        {
+            "id": "56365",
+            "airport_ref": "68",
+            "airport_ident": "AYTK",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.2"
+        }
+    ],
     "country": {
         "id": "302778",
         "code": "PG",

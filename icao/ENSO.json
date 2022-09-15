@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "55806",
+            "airport_ref": "2595",
+            "airport_ident": "ENSO",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "120.2"
+        }
+    ],
     "country": {
         "id": "302709",
         "code": "NO",

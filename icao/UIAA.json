@@ -63,6 +63,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56719",
+            "airport_ref": "6463",
+            "airport_ident": "UIAA",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.4"
+        },
+        {
+            "id": "56720",
+            "airport_ref": "6463",
+            "airport_ident": "UIAA",
+            "type": "PMSV",
+            "description": "CHITA VOLMET",
+            "frequency_mhz": "128.3"
+        },
+        {
+            "id": "56721",
+            "airport_ref": "6463",
+            "airport_ident": "UIAA",
+            "type": "RDR",
+            "description": "CHITA RADAR",
+            "frequency_mhz": "122"
+        },
+        {
+            "id": "56722",
+            "airport_ref": "6463",
+            "airport_ident": "UIAA",
+            "type": "TWR",
+            "description": "CHITA TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
     "country": {
         "id": "302714",
         "code": "RU",

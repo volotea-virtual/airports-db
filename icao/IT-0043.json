@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "309164",
+            "airport_ref": "308679",
+            "airport_ident": "IT-0043",
+            "type": "UNICOM",
+            "description": "Boglietto Radio",
+            "frequency_mhz": "130"
+        }
+    ],
     "country": {
         "id": "302697",
         "code": "IT",

@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "59849",
+            "airport_ref": "21409",
+            "airport_ident": "KXBP",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.225"
+        },
+        {
+            "id": "59850",
+            "airport_ref": "21409",
+            "airport_ident": "KXBP",
+            "type": "CNTR",
+            "description": "FORT WORTH CNTR",
+            "frequency_mhz": "127"
+        },
+        {
+            "id": "59851",
+            "airport_ref": "21409",
+            "airport_ident": "KXBP",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

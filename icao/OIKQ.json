@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53998",
+            "airport_ref": "35276",
+            "airport_ident": "OIKQ",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "118.05"
+        }
+    ],
     "country": {
         "id": "302637",
         "code": "IR",

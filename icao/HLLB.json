@@ -3,20 +3,20 @@
     "ident": "HLLB",
     "type": "medium_airport",
     "name": "Benina International Airport",
-    "latitude_deg": "32.096801757799994",
-    "longitude_deg": "20.2695007324",
+    "latitude_deg": "32.096802",
+    "longitude_deg": "20.269501",
     "elevation_ft": "433",
     "continent": "AF",
     "iso_country": "LY",
     "iso_region": "LY-BA",
-    "municipality": "Benghazi",
+    "municipality": "Benina",
     "scheduled_service": "yes",
     "gps_code": "HLLB",
     "iata_code": "BEN",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Benina_International_Airport",
-    "keywords": "",
+    "keywords": "Benghazi, Soluch Airfield",
     "runways": [
         {
             "id": "237486",
@@ -61,6 +61,48 @@
             "he_elevation_ft": "429",
             "he_heading_degT": "330.5",
             "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55212",
+            "airport_ref": "3223",
+            "airport_ident": "HLLB",
+            "type": "APP",
+            "description": "BENGHAZI APP",
+            "frequency_mhz": "126.5"
+        },
+        {
+            "id": "55213",
+            "airport_ref": "3223",
+            "airport_ident": "HLLB",
+            "type": "ARR",
+            "description": "ARR",
+            "frequency_mhz": "127"
+        },
+        {
+            "id": "55214",
+            "airport_ref": "3223",
+            "airport_ident": "HLLB",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "127"
+        },
+        {
+            "id": "55215",
+            "airport_ref": "3223",
+            "airport_ident": "HLLB",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.3"
+        },
+        {
+            "id": "55216",
+            "airport_ref": "3223",
+            "airport_ident": "HLLB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.1"
         }
     ],
     "country": {

@@ -63,6 +63,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56544",
+            "airport_ref": "5687",
+            "airport_ident": "RPLC",
+            "type": "A/D",
+            "description": "APP",
+            "frequency_mhz": "119.2"
+        },
+        {
+            "id": "56545",
+            "airport_ref": "5687",
+            "airport_ident": "RPLC",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.2"
+        },
+        {
+            "id": "56546",
+            "airport_ref": "5687",
+            "airport_ident": "RPLC",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "125.2"
+        },
+        {
+            "id": "56547",
+            "airport_ref": "5687",
+            "airport_ident": "RPLC",
+            "type": "FSS",
+            "description": "RDO",
+            "frequency_mhz": "544.75"
+        },
+        {
+            "id": "56548",
+            "airport_ref": "5687",
+            "airport_ident": "RPLC",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
     "country": {
         "id": "302656",
         "code": "PH",

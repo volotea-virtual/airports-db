@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "50953",
+            "airport_ref": "1855",
+            "airport_ident": "CYPR",
+            "type": "A/G",
+            "description": "RUPERT RDO",
+            "frequency_mhz": "122.5"
+        },
+        {
+            "id": "50954",
+            "airport_ref": "1855",
+            "airport_ident": "CYPR",
+            "type": "CNTR",
+            "description": "VANCOUVER CNTR",
+            "frequency_mhz": "128"
+        },
+        {
+            "id": "50955",
+            "airport_ref": "1855",
+            "airport_ident": "CYPR",
+            "type": "RCO",
+            "description": "TERRACE RDO",
+            "frequency_mhz": "122.5"
+        },
+        {
+            "id": "50956",
+            "airport_ref": "1855",
+            "airport_ident": "CYPR",
+            "type": "RDO",
+            "description": "PACIFIC RDO",
+            "frequency_mhz": "126.7"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

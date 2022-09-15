@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "50503",
+            "airport_ref": "902",
+            "airport_ident": "CEU2",
+            "type": "ATF",
+            "description": "ATF",
+            "frequency_mhz": "123.2"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

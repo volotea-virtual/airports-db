@@ -85,6 +85,72 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "65591",
+            "airport_ref": "3419",
+            "airport_ident": "KBMI",
+            "type": "A/D",
+            "description": "PEORIA APP/DEP",
+            "frequency_mhz": "118.05"
+        },
+        {
+            "id": "65592",
+            "airport_ref": "3419",
+            "airport_ident": "KBMI",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "135.35"
+        },
+        {
+            "id": "65593",
+            "airport_ref": "3419",
+            "airport_ident": "KBMI",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "135.35"
+        },
+        {
+            "id": "65594",
+            "airport_ref": "3419",
+            "airport_ident": "KBMI",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "124.6"
+        },
+        {
+            "id": "65595",
+            "airport_ref": "3419",
+            "airport_ident": "KBMI",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.65"
+        },
+        {
+            "id": "65596",
+            "airport_ref": "3419",
+            "airport_ident": "KBMI",
+            "type": "RDO",
+            "description": "KANKAKEE RDO",
+            "frequency_mhz": "108.2"
+        },
+        {
+            "id": "65597",
+            "airport_ref": "3419",
+            "airport_ident": "KBMI",
+            "type": "TWR",
+            "description": "BLOOMINGTON TWR",
+            "frequency_mhz": "124.6"
+        },
+        {
+            "id": "65598",
+            "airport_ref": "3419",
+            "airport_ident": "KBMI",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

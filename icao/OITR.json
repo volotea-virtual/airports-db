@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "54033",
+            "airport_ref": "5203",
+            "airport_ident": "OITR",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.25"
+        },
+        {
+            "id": "54034",
+            "airport_ref": "5203",
+            "airport_ident": "OITR",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.25"
+        }
+    ],
     "country": {
         "id": "302637",
         "code": "IR",

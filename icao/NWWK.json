@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "55670",
+            "airport_ref": "5015",
+            "airport_ident": "NWWK",
+            "type": "ATIS",
+            "description": "TONTOUTA INFO",
+            "frequency_mhz": "128.2"
+        }
+    ],
     "country": {
         "id": "302772",
         "code": "NC",

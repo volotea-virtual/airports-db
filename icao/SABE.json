@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": "417"
         }
     ],
+    "freqs": [
+        {
+            "id": "48432",
+            "airport_ref": "5771",
+            "airport_ident": "SABE",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "120.6"
+        },
+        {
+            "id": "48433",
+            "airport_ref": "5771",
+            "airport_ident": "SABE",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.6"
+        },
+        {
+            "id": "48434",
+            "airport_ref": "5771",
+            "airport_ident": "SABE",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "129.3"
+        },
+        {
+            "id": "48435",
+            "airport_ref": "5771",
+            "airport_ident": "SABE",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "48436",
+            "airport_ref": "5771",
+            "airport_ident": "SABE",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.85"
+        }
+    ],
     "country": {
         "id": "302789",
         "code": "AR",

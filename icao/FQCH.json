@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "55655",
+            "airport_ref": "2971",
+            "airport_ident": "FQCH",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "118.4"
+        }
+    ],
     "country": {
         "id": "302590",
         "code": "MZ",

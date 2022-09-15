@@ -85,6 +85,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "60735",
+            "airport_ref": "20716",
+            "airport_ident": "KODO",
+            "type": "A/D",
+            "description": "MIDLAND APP/DEP",
+            "frequency_mhz": "124.6"
+        },
+        {
+            "id": "60736",
+            "airport_ref": "20716",
+            "airport_ident": "KODO",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "119.275"
+        },
+        {
+            "id": "60737",
+            "airport_ref": "20716",
+            "airport_ident": "KODO",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "60738",
+            "airport_ref": "20716",
+            "airport_ident": "KODO",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

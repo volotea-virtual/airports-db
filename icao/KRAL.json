@@ -63,6 +63,72 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "69357",
+            "airport_ref": "3837",
+            "airport_ident": "KRAL",
+            "type": "A/D",
+            "description": "SOCAL APP/DEP",
+            "frequency_mhz": "135.4"
+        },
+        {
+            "id": "69358",
+            "airport_ref": "3837",
+            "airport_ident": "KRAL",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.8"
+        },
+        {
+            "id": "69359",
+            "airport_ref": "3837",
+            "airport_ident": "KRAL",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "121"
+        },
+        {
+            "id": "69360",
+            "airport_ref": "3837",
+            "airport_ident": "KRAL",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "69362",
+            "airport_ref": "3837",
+            "airport_ident": "KRAL",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "25.54"
+        },
+        {
+            "id": "69361",
+            "airport_ref": "3837",
+            "airport_ident": "KRAL",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "122.05"
+        },
+        {
+            "id": "69363",
+            "airport_ref": "3837",
+            "airport_ident": "KRAL",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "121"
+        },
+        {
+            "id": "69364",
+            "airport_ref": "3837",
+            "airport_ident": "KRAL",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

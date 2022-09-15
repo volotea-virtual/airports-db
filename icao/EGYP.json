@@ -63,6 +63,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52157",
+            "airport_ref": "2512",
+            "airport_ident": "EGYP",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "118.5"
+        },
+        {
+            "id": "52158",
+            "airport_ref": "2512",
+            "airport_ident": "EGYP",
+            "type": "ARR",
+            "description": "ISLAND RDR",
+            "frequency_mhz": "131.5"
+        },
+        {
+            "id": "52159",
+            "airport_ref": "2512",
+            "airport_ident": "EGYP",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "130.3"
+        },
+        {
+            "id": "52160",
+            "airport_ref": "2512",
+            "airport_ident": "EGYP",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "133.35"
+        }
+    ],
     "country": {
         "id": "302795",
         "code": "FK",

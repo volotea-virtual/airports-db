@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "311686",
+            "airport_ref": "28478",
+            "airport_ident": "EBGB",
+            "type": "INFO",
+            "description": "Grimbergen Radio",
+            "frequency_mhz": "119.5"
+        }
+    ],
     "country": {
         "id": "302676",
         "code": "BE",

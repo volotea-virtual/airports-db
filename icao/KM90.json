@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": "777"
         }
     ],
+    "freqs": [
+        {
+            "id": "65304",
+            "airport_ref": "20462",
+            "airport_ident": "KM90",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -63,6 +63,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "69518",
+            "airport_ref": "5382",
+            "airport_ident": "PAKT",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "119.9"
+        },
+        {
+            "id": "69519",
+            "airport_ref": "5382",
+            "airport_ident": "PAKT",
+            "type": "CNTR",
+            "description": "ANCHORAGE CNTR",
+            "frequency_mhz": "118.5"
+        },
+        {
+            "id": "69520",
+            "airport_ref": "5382",
+            "airport_ident": "PAKT",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "123.6"
+        },
+        {
+            "id": "69521",
+            "airport_ref": "5382",
+            "airport_ident": "PAKT",
+            "type": "FSS",
+            "description": "RDO",
+            "frequency_mhz": "123.6"
+        },
+        {
+            "id": "69522",
+            "airport_ref": "5382",
+            "airport_ident": "PAKT",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

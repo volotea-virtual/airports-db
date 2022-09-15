@@ -41,6 +41,56 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "50191",
+            "airport_ref": "1726",
+            "airport_ident": "CYEV",
+            "type": "ATIS",
+            "description": "Lighted hrs",
+            "frequency_mhz": "128.5"
+        },
+        {
+            "id": "311298",
+            "airport_ref": "1726",
+            "airport_ident": "CYEV",
+            "type": "MF",
+            "description": "Inuvik Radio, 5nm below 3200",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "50192",
+            "airport_ref": "1726",
+            "airport_ident": "CYEV",
+            "type": "PAL",
+            "description": "Edmonton Control",
+            "frequency_mhz": "132.4"
+        },
+        {
+            "id": "50193",
+            "airport_ref": "1726",
+            "airport_ident": "CYEV",
+            "type": "RADIO",
+            "description": "",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "50195",
+            "airport_ref": "1726",
+            "airport_ident": "CYEV",
+            "type": "RCO",
+            "description": "Artic Radio (FISE)",
+            "frequency_mhz": "123.375"
+        },
+        {
+            "id": "50194",
+            "airport_ref": "1726",
+            "airport_ident": "CYEV",
+            "type": "VDF",
+            "description": "",
+            "frequency_mhz": "122.3"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

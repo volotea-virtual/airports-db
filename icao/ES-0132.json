@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "321373",
+            "airport_ref": "321166",
+            "airport_ident": "ES-0132",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "130.125"
+        }
+    ],
     "country": {
         "id": "302684",
         "code": "ES",

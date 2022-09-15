@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "312990",
+            "airport_ref": "26695",
+            "airport_ident": "VVCT",
+            "type": "TWR",
+            "description": "Can Tho",
+            "frequency_mhz": "118.8"
+        }
+    ],
     "country": {
         "id": "302670",
         "code": "VN",

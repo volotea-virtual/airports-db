@@ -63,6 +63,40 @@
             "he_displaced_threshold_ft": "367"
         }
     ],
+    "freqs": [
+        {
+            "id": "52269",
+            "airport_ref": "4063",
+            "airport_ident": "LFBG",
+            "type": "APP",
+            "description": "COGNAC APP",
+            "frequency_mhz": "29.372"
+        },
+        {
+            "id": "52268",
+            "airport_ref": "4063",
+            "airport_ident": "LFBG",
+            "type": "APP",
+            "description": "COGNAC APP",
+            "frequency_mhz": "122.55"
+        },
+        {
+            "id": "52270",
+            "airport_ref": "4063",
+            "airport_ident": "LFBG",
+            "type": "OPS",
+            "description": "COGNAC OPS",
+            "frequency_mhz": "139.925"
+        },
+        {
+            "id": "52271",
+            "airport_ref": "4063",
+            "airport_ident": "LFBG",
+            "type": "TWR",
+            "description": "COGNAC TWR",
+            "frequency_mhz": "120.075"
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

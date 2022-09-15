@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "49249",
+            "airport_ref": "4431",
+            "airport_ident": "LOWI",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.275"
+        },
+        {
+            "id": "49250",
+            "airport_ref": "4431",
+            "airport_ident": "LOWI",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.025"
+        },
+        {
+            "id": "311394",
+            "airport_ref": "4431",
+            "airport_ident": "LOWI",
+            "type": "GND Crew",
+            "description": "",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "311395",
+            "airport_ref": "4431",
+            "airport_ident": "LOWI",
+            "type": "GND Crew",
+            "description": "",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "49251",
+            "airport_ref": "4431",
+            "airport_ident": "LOWI",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.1"
+        }
+    ],
     "country": {
         "id": "302674",
         "code": "AT",

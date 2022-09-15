@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "307424",
+            "airport_ref": "307423",
+            "airport_ident": "GB-0051",
+            "type": "Safety Comm",
+            "description": "Colemore Common Traffic",
+            "frequency_mhz": "135.475"
+        }
+    ],
     "country": {
         "id": "302688",
         "code": "GB",

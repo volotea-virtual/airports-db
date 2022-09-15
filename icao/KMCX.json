@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "68630",
+            "airport_ref": "20483",
+            "airport_ident": "KMCX",
+            "type": "CNTR",
+            "description": "CHICAGO CNTR",
+            "frequency_mhz": "123.85"
+        },
+        {
+            "id": "68631",
+            "airport_ref": "20483",
+            "airport_ident": "KMCX",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

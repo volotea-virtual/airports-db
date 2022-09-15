@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": "846"
         }
     ],
+    "freqs": [
+        {
+            "id": "52304",
+            "airport_ref": "4230",
+            "airport_ident": "LFSG",
+            "type": "AFIS",
+            "description": "AFIS EPINAL INFO",
+            "frequency_mhz": "120.2"
+        },
+        {
+            "id": "52305",
+            "airport_ref": "4230",
+            "airport_ident": "LFSG",
+            "type": "APP",
+            "description": "LORRAINE APP",
+            "frequency_mhz": "127.25"
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

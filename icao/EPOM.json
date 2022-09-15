@@ -17,6 +17,16 @@
     "home_link": "http://michalkow.pl/pl/",
     "wikipedia_link": "",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "320990",
+            "airport_ref": "30224",
+            "airport_ident": "EPOM",
+            "type": "ATS",
+            "description": "Michałków Radio",
+            "frequency_mhz": "122.2"
+        }
+    ],
     "country": {
         "id": "302710",
         "code": "PL",

@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57345",
+            "airport_ref": "4007",
+            "airport_ident": "LECO",
+            "type": "APP",
+            "description": "SANTIAGO APP",
+            "frequency_mhz": "120.2"
+        },
+        {
+            "id": "57346",
+            "airport_ref": "4007",
+            "airport_ident": "LECO",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "57347",
+            "airport_ref": "4007",
+            "airport_ident": "LECO",
+            "type": "TWR",
+            "description": "A Coruña TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302684",
         "code": "ES",

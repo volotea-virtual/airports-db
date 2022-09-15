@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "60893",
+            "airport_ref": "20005",
+            "airport_ident": "KH17",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

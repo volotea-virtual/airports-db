@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "68651",
+            "airport_ref": "18986",
+            "airport_ident": "K6G1",
+            "type": "A/D",
+            "description": "YOUNGSTOWN APP/DEP",
+            "frequency_mhz": "133.95"
+        },
+        {
+            "id": "68652",
+            "airport_ref": "18986",
+            "airport_ident": "K6G1",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

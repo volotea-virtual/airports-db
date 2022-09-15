@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "64964",
+            "airport_ref": "20604",
+            "airport_ident": "KN27",
+            "type": "A/D",
+            "description": "BINGHAMTON APP/DEP",
+            "frequency_mhz": "118.6"
+        },
+        {
+            "id": "64965",
+            "airport_ref": "20604",
+            "airport_ident": "KN27",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

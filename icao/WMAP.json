@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "55628",
+            "airport_ref": "26863",
+            "airport_ident": "WMAP",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "122.4"
+        },
+        {
+            "id": "55629",
+            "airport_ref": "26863",
+            "airport_ident": "WMAP",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "128.3"
+        }
+    ],
     "country": {
         "id": "302653",
         "code": "MY",

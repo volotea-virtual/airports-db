@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51776",
+            "airport_ref": "4637",
+            "airport_ident": "MDPP",
+            "type": "APP",
+            "description": "PUERTO PLATA APP",
+            "frequency_mhz": "119"
+        },
+        {
+            "id": "51777",
+            "airport_ref": "4637",
+            "airport_ident": "MDPP",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "51778",
+            "airport_ref": "4637",
+            "airport_ident": "MDPP",
+            "type": "TWR",
+            "description": "PUERTO PLATA TWR",
+            "frequency_mhz": "118"
+        }
+    ],
     "country": {
         "id": "302734",
         "code": "DO",

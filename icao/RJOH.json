@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "54745",
+            "airport_ref": "5594",
+            "airport_ident": "RJOH",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "120.1"
+        },
+        {
+            "id": "54746",
+            "airport_ref": "5594",
+            "airport_ident": "RJOH",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "118"
+        },
+        {
+            "id": "54747",
+            "airport_ref": "5594",
+            "airport_ident": "RJOH",
+            "type": "PMSV",
+            "description": "METRO",
+            "frequency_mhz": "34.46"
+        },
+        {
+            "id": "54748",
+            "airport_ref": "5594",
+            "airport_ident": "RJOH",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "126.2"
+        }
+    ],
     "country": {
         "id": "302639",
         "code": "JP",

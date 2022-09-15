@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52111",
+            "airport_ref": "2347",
+            "airport_ident": "EFTP",
+            "type": "APP",
+            "description": "PIRKKALA APP",
+            "frequency_mhz": "126.2"
+        },
+        {
+            "id": "52112",
+            "airport_ref": "2347",
+            "airport_ident": "EFTP",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "133.55"
+        },
+        {
+            "id": "52113",
+            "airport_ref": "2347",
+            "airport_ident": "EFTP",
+            "type": "TWR",
+            "description": "PIRKKALA TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
     "country": {
         "id": "302685",
         "code": "FI",

@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "49810",
+            "airport_ref": "5940",
+            "airport_ident": "SBML",
+            "type": "AFIS",
+            "description": "RDO",
+            "frequency_mhz": "130.45"
+        }
+    ],
     "country": {
         "id": "302791",
         "code": "BR",

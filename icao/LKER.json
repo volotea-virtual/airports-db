@@ -63,6 +63,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "333129",
+            "airport_ref": "29855",
+            "airport_ident": "LKER",
+            "type": "RADIO",
+            "description": "",
+            "frequency_mhz": "123.49"
+        }
+    ],
     "country": {
         "id": "302680",
         "code": "CZ",

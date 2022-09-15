@@ -17,6 +17,32 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "74130",
+            "airport_ref": "38524",
+            "airport_ident": "YNUJ",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "124.2"
+        },
+        {
+            "id": "74131",
+            "airport_ref": "38524",
+            "airport_ident": "YNUJ",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "119.6"
+        },
+        {
+            "id": "74132",
+            "airport_ref": "38524",
+            "airport_ident": "YNUJ",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "128.1"
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",

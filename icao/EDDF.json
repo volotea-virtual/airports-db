@@ -107,6 +107,96 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52761",
+            "airport_ref": "2212",
+            "airport_ident": "EDDF",
+            "type": "A/D",
+            "description": "LANGEN RADAR",
+            "frequency_mhz": "118.45"
+        },
+        {
+            "id": "52762",
+            "airport_ref": "2212",
+            "airport_ident": "EDDF",
+            "type": "A/D",
+            "description": "LANGEN RADAR",
+            "frequency_mhz": "127.275"
+        },
+        {
+            "id": "52763",
+            "airport_ref": "2212",
+            "airport_ident": "EDDF",
+            "type": "AFIS",
+            "description": "LANGEN INFO",
+            "frequency_mhz": "119.15"
+        },
+        {
+            "id": "52764",
+            "airport_ref": "2212",
+            "airport_ident": "EDDF",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "118.03"
+        },
+        {
+            "id": "334375",
+            "airport_ref": "2212",
+            "airport_ident": "EDDF",
+            "type": "ATIS",
+            "description": "",
+            "frequency_mhz": "118.73"
+        },
+        {
+            "id": "52765",
+            "airport_ref": "2212",
+            "airport_ident": "EDDF",
+            "type": "CLD",
+            "description": "DELIVERY",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "52766",
+            "airport_ref": "2212",
+            "airport_ident": "EDDF",
+            "type": "DIR",
+            "description": "DIR",
+            "frequency_mhz": "124.2"
+        },
+        {
+            "id": "52767",
+            "airport_ref": "2212",
+            "airport_ident": "EDDF",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "52768",
+            "airport_ref": "2212",
+            "airport_ident": "EDDF",
+            "type": "RMP",
+            "description": "APN",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "52769",
+            "airport_ref": "2212",
+            "airport_ident": "EDDF",
+            "type": "TWR",
+            "description": "FRANKFURT TOWER (SOUTH)",
+            "frequency_mhz": "119.9"
+        },
+        {
+            "id": "328967",
+            "airport_ref": "2212",
+            "airport_ident": "EDDF",
+            "type": "TWR",
+            "description": "FRANKFURT TOWER (NORTH)",
+            "frequency_mhz": "136.5"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

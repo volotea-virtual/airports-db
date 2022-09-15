@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "62649",
+            "airport_ref": "19888",
+            "airport_ident": "KFOM",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "133.775"
+        },
+        {
+            "id": "62650",
+            "airport_ref": "19888",
+            "airport_ident": "KFOM",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

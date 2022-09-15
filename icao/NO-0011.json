@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "312266",
+            "airport_ref": "44875",
+            "airport_ident": "NO-0011",
+            "type": "NLF",
+            "description": "General NLF Frequency",
+            "frequency_mhz": "123.5"
+        }
+    ],
     "country": {
         "id": "302709",
         "code": "NO",

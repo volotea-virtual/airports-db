@@ -63,6 +63,56 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "49730",
+            "airport_ref": "5977",
+            "airport_ident": "SBSV",
+            "type": "APP",
+            "description": "SALVADOR CON",
+            "frequency_mhz": "120.8"
+        },
+        {
+            "id": "49731",
+            "airport_ref": "5977",
+            "airport_ident": "SBSV",
+            "type": "ATIS",
+            "description": "SALVADOR ATIS",
+            "frequency_mhz": "127.75"
+        },
+        {
+            "id": "49732",
+            "airport_ref": "5977",
+            "airport_ident": "SBSV",
+            "type": "CLD",
+            "description": "SALVADOR TRAFFIC",
+            "frequency_mhz": "121.1"
+        },
+        {
+            "id": "49733",
+            "airport_ref": "5977",
+            "airport_ident": "SBSV",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "49734",
+            "airport_ref": "5977",
+            "airport_ident": "SBSV",
+            "type": "OPS",
+            "description": "SALVADOR OPS",
+            "frequency_mhz": "122.5"
+        },
+        {
+            "id": "49735",
+            "airport_ref": "5977",
+            "airport_ident": "SBSV",
+            "type": "TWR",
+            "description": "SALVADOR TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302791",
         "code": "BR",

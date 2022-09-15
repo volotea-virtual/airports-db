@@ -151,6 +151,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "67481",
+            "airport_ref": "20470",
+            "airport_ident": "KMAI",
+            "type": "A/D",
+            "description": "CAIRNS APP/DEP",
+            "frequency_mhz": "133.75"
+        },
+        {
+            "id": "67482",
+            "airport_ref": "20470",
+            "airport_ident": "KMAI",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "133.525"
+        },
+        {
+            "id": "67483",
+            "airport_ref": "20470",
+            "airport_ident": "KMAI",
+            "type": "RDO",
+            "description": "GAINESVILLE RDO",
+            "frequency_mhz": "114"
+        },
+        {
+            "id": "67484",
+            "airport_ref": "20470",
+            "airport_ident": "KMAI",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

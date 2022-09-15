@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "54460",
+            "airport_ref": "5681",
+            "airport_ident": "RORT",
+            "type": "A/G",
+            "description": "REMOTE",
+            "frequency_mhz": "118.6"
+        }
+    ],
     "country": {
         "id": "302639",
         "code": "JP",

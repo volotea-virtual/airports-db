@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "58600",
+            "airport_ref": "6480",
+            "airport_ident": "UKLI",
+            "type": "APP",
+            "description": "FRANKO APP",
+            "frequency_mhz": "127.3"
+        },
+        {
+            "id": "58601",
+            "airport_ref": "6480",
+            "airport_ident": "UKLI",
+            "type": "APP",
+            "description": "FRANKO START",
+            "frequency_mhz": "128.5"
+        },
+        {
+            "id": "58602",
+            "airport_ref": "6480",
+            "airport_ident": "UKLI",
+            "type": "PMSV",
+            "description": "FRANKO METEO",
+            "frequency_mhz": "126.4"
+        },
+        {
+            "id": "58603",
+            "airport_ref": "6480",
+            "airport_ident": "UKLI",
+            "type": "TWR",
+            "description": "FRANKO TWR",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "58604",
+            "airport_ref": "6480",
+            "airport_ident": "UKLI",
+            "type": "TWR",
+            "description": "FRANKO START",
+            "frequency_mhz": "124"
+        }
+    ],
     "country": {
         "id": "302719",
         "code": "UA",

@@ -41,6 +41,56 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "64798",
+            "airport_ref": "3387",
+            "airport_ident": "KAVL",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "124.65"
+        },
+        {
+            "id": "64799",
+            "airport_ref": "3387",
+            "airport_ident": "KAVL",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "120.2"
+        },
+        {
+            "id": "64800",
+            "airport_ref": "3387",
+            "airport_ident": "KAVL",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "121.1"
+        },
+        {
+            "id": "64801",
+            "airport_ref": "3387",
+            "airport_ident": "KAVL",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "64802",
+            "airport_ref": "3387",
+            "airport_ident": "KAVL",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "121.1"
+        },
+        {
+            "id": "64803",
+            "airport_ref": "3387",
+            "airport_ident": "KAVL",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

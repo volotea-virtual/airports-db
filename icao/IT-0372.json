@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "319927",
+            "airport_ref": "319926",
+            "airport_ident": "IT-0372",
+            "type": "Info",
+            "description": "San Mauro",
+            "frequency_mhz": "121.9"
+        }
+    ],
     "country": {
         "id": "302697",
         "code": "IT",

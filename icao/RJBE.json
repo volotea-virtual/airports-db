@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "54461",
+            "airport_ref": "5538",
+            "airport_ident": "RJBE",
+            "type": "APP",
+            "description": "KANSAI RADAR",
+            "frequency_mhz": "121.15"
+        },
+        {
+            "id": "54462",
+            "airport_ref": "5538",
+            "airport_ident": "RJBE",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.075"
+        },
+        {
+            "id": "54463",
+            "airport_ref": "5538",
+            "airport_ident": "RJBE",
+            "type": "TCA",
+            "description": "KANSAI TCA",
+            "frequency_mhz": "121.1"
+        },
+        {
+            "id": "54464",
+            "airport_ref": "5538",
+            "airport_ident": "RJBE",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.5"
+        }
+    ],
     "country": {
         "id": "302639",
         "code": "JP",

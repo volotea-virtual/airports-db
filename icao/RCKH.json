@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": "1477"
         }
     ],
+    "freqs": [
+        {
+            "id": "57999",
+            "airport_ref": "5516",
+            "airport_ident": "RCKH",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "121.1"
+        },
+        {
+            "id": "58000",
+            "airport_ref": "5516",
+            "airport_ident": "RCKH",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.8"
+        },
+        {
+            "id": "58001",
+            "airport_ref": "5516",
+            "airport_ident": "RCKH",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "58002",
+            "airport_ref": "5516",
+            "airport_ident": "RCKH",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "58003",
+            "airport_ref": "5516",
+            "airport_ident": "RCKH",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
     "country": {
         "id": "302668",
         "code": "TW",

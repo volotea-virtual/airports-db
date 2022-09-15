@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "55337",
+            "airport_ref": "3102",
+            "airport_ident": "GMAT",
+            "type": "TWR",
+            "description": "TAN TAN TWR",
+            "frequency_mhz": "129.7"
+        }
+    ],
     "country": {
         "id": "302584",
         "code": "MA",

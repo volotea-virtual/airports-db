@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51929",
+            "airport_ref": "2535",
+            "airport_ident": "EIKY",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.6"
+        },
+        {
+            "id": "51930",
+            "airport_ref": "2535",
+            "airport_ident": "EIKY",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "123.325"
+        }
+    ],
     "country": {
         "id": "302694",
         "code": "IE",

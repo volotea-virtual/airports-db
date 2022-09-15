@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "73583",
+            "airport_ref": "31800",
+            "airport_ident": "YLIN",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "73584",
+            "airport_ref": "31800",
+            "airport_ident": "YLIN",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "122.4"
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",

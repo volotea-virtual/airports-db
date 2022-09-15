@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53276",
+            "airport_ref": "2204",
+            "airport_ident": "EDCD",
+            "type": "AFIS",
+            "description": "BERLIN INFO",
+            "frequency_mhz": "132.65"
+        },
+        {
+            "id": "53277",
+            "airport_ref": "2204",
+            "airport_ident": "EDCD",
+            "type": "INFO",
+            "description": "DREWITZ INFO",
+            "frequency_mhz": "118.125"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

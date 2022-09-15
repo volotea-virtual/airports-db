@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "50423",
+            "airport_ref": "1783",
+            "airport_ident": "CYJT",
+            "type": "CNTR",
+            "description": "GANDER CNTR",
+            "frequency_mhz": "132.3"
+        },
+        {
+            "id": "50424",
+            "airport_ref": "1783",
+            "airport_ident": "CYJT",
+            "type": "RCO",
+            "description": "HALIFAX RDO",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "50425",
+            "airport_ref": "1783",
+            "airport_ident": "CYJT",
+            "type": "RDO",
+            "description": "MF",
+            "frequency_mhz": "122.1"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

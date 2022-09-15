@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": "994"
         }
     ],
+    "freqs": [
+        {
+            "id": "62308",
+            "airport_ref": "3672",
+            "airport_ident": "KMDT",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "118.25"
+        },
+        {
+            "id": "62309",
+            "airport_ref": "3672",
+            "airport_ident": "KMDT",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "118.8"
+        },
+        {
+            "id": "62310",
+            "airport_ref": "3672",
+            "airport_ident": "KMDT",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "62311",
+            "airport_ref": "3672",
+            "airport_ident": "KMDT",
+            "type": "OPS",
+            "description": "ANG OPS",
+            "frequency_mhz": "39.51"
+        },
+        {
+            "id": "62312",
+            "airport_ref": "3672",
+            "airport_ident": "KMDT",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "124.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

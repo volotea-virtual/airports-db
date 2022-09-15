@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": "223"
         }
     ],
+    "freqs": [
+        {
+            "id": "50546",
+            "airport_ref": "999",
+            "airport_ident": "CFT9",
+            "type": "UNIC",
+            "description": "ATF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

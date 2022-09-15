@@ -17,6 +17,16 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "gr2",
+    "freqs": [
+        {
+            "id": "75501",
+            "airport_ref": "46612",
+            "airport_ident": "CGR2",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "123.2"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

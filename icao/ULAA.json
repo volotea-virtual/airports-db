@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56779",
+            "airport_ref": "6488",
+            "airport_ident": "ULAA",
+            "type": "APP",
+            "description": "ARKHANGELSK APP",
+            "frequency_mhz": "122"
+        },
+        {
+            "id": "56780",
+            "airport_ref": "6488",
+            "airport_ident": "ULAA",
+            "type": "ATIS",
+            "description": "ARKHANGELSK ATIS",
+            "frequency_mhz": "126.675"
+        },
+        {
+            "id": "56781",
+            "airport_ref": "6488",
+            "airport_ident": "ULAA",
+            "type": "TWR",
+            "description": "ARKHANGELSK TWR",
+            "frequency_mhz": "121.8"
+        }
+    ],
     "country": {
         "id": "302714",
         "code": "RU",

@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "54000",
+            "airport_ref": "5211",
+            "airport_ident": "OIZS",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "126.775"
+        }
+    ],
     "country": {
         "id": "302637",
         "code": "IR",

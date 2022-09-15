@@ -41,6 +41,104 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "54751",
+            "airport_ref": "5629",
+            "airport_ident": "RJTY",
+            "type": "A/G",
+            "description": "AG",
+            "frequency_mhz": "29.21"
+        },
+        {
+            "id": "54752",
+            "airport_ref": "5629",
+            "airport_ident": "RJTY",
+            "type": "AAS",
+            "description": "RADAR ADVSY SVC",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "54753",
+            "airport_ref": "5629",
+            "airport_ident": "RJTY",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "54754",
+            "airport_ref": "5629",
+            "airport_ident": "RJTY",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.4"
+        },
+        {
+            "id": "54755",
+            "airport_ref": "5629",
+            "airport_ident": "RJTY",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "131.4"
+        },
+        {
+            "id": "54756",
+            "airport_ref": "5629",
+            "airport_ident": "RJTY",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "54757",
+            "airport_ref": "5629",
+            "airport_ident": "RJTY",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "133.2"
+        },
+        {
+            "id": "54758",
+            "airport_ref": "5629",
+            "airport_ident": "RJTY",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "34.46"
+        },
+        {
+            "id": "54759",
+            "airport_ref": "5629",
+            "airport_ident": "RJTY",
+            "type": "POST",
+            "description": "AMC COMD POST",
+            "frequency_mhz": "128"
+        },
+        {
+            "id": "54760",
+            "airport_ref": "5629",
+            "airport_ident": "RJTY",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "119"
+        },
+        {
+            "id": "54761",
+            "airport_ref": "5629",
+            "airport_ident": "RJTY",
+            "type": "RDO",
+            "description": "374 AW COM CNTR",
+            "frequency_mhz": "128"
+        },
+        {
+            "id": "54762",
+            "airport_ref": "5629",
+            "airport_ident": "RJTY",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "134.3"
+        }
+    ],
     "country": {
         "id": "302639",
         "code": "JP",

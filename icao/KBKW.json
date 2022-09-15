@@ -63,6 +63,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "65119",
+            "airport_ref": "3415",
+            "airport_ident": "KBKW",
+            "type": "A/D",
+            "description": "CHARLESTON APP/DEP",
+            "frequency_mhz": "118.95"
+        },
+        {
+            "id": "65120",
+            "airport_ref": "3415",
+            "airport_ident": "KBKW",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "121.55"
+        },
+        {
+            "id": "65121",
+            "airport_ref": "3415",
+            "airport_ident": "KBKW",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "124.65"
+        },
+        {
+            "id": "65122",
+            "airport_ref": "3415",
+            "airport_ident": "KBKW",
+            "type": "RDO",
+            "description": "ELKINS RDO",
+            "frequency_mhz": "117.7"
+        },
+        {
+            "id": "65123",
+            "airport_ref": "3415",
+            "airport_ident": "KBKW",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

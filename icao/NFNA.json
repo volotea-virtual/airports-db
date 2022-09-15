@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52145",
+            "airport_ref": "4960",
+            "airport_ident": "NFNA",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "52146",
+            "airport_ref": "4960",
+            "airport_ident": "NFNA",
+            "type": "ATIS",
+            "description": "TRML INFO",
+            "frequency_mhz": "128.5"
+        },
+        {
+            "id": "52147",
+            "airport_ref": "4960",
+            "airport_ident": "NFNA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.7"
+        }
+    ],
     "country": {
         "id": "302766",
         "code": "FJ",

@@ -63,6 +63,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51203",
+            "airport_ref": "27218",
+            "airport_ident": "ZSHC",
+            "type": "APP",
+            "description": "HANGZHOU APP AREA 1",
+            "frequency_mhz": "125.55"
+        },
+        {
+            "id": "51202",
+            "airport_ref": "27218",
+            "airport_ident": "ZSHC",
+            "type": "APP",
+            "description": "HANGZHOU APP AREA 2",
+            "frequency_mhz": "126.05"
+        },
+        {
+            "id": "51204",
+            "airport_ref": "27218",
+            "airport_ident": "ZSHC",
+            "type": "ATIS",
+            "description": "HANGZHOU ATIS",
+            "frequency_mhz": "127.25"
+        },
+        {
+            "id": "51205",
+            "airport_ref": "27218",
+            "airport_ident": "ZSHC",
+            "type": "GND",
+            "description": "HANGZHOU GND",
+            "frequency_mhz": "121.75"
+        },
+        {
+            "id": "51206",
+            "airport_ref": "27218",
+            "airport_ident": "ZSHC",
+            "type": "TWR",
+            "description": "HANGZHOU TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302627",
         "code": "CN",

@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56973",
+            "airport_ref": "5091",
+            "airport_ident": "OEGS",
+            "type": "A/G",
+            "description": "SAUDIA RDO",
+            "frequency_mhz": "131.5"
+        },
+        {
+            "id": "56974",
+            "airport_ref": "5091",
+            "airport_ident": "OEGS",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "56975",
+            "airport_ref": "5091",
+            "airport_ident": "OEGS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118"
+        }
+    ],
     "country": {
         "id": "302660",
         "code": "SA",

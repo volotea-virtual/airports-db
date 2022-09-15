@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52906",
+            "airport_ref": "2749",
+            "airport_ident": "ETSB",
+            "type": "A/D",
+            "description": "LANGEN CON",
+            "frequency_mhz": "125.6"
+        },
+        {
+            "id": "52907",
+            "airport_ref": "2749",
+            "airport_ident": "ETSB",
+            "type": "ACC",
+            "description": "RHEIN CON",
+            "frequency_mhz": "38.715"
+        },
+        {
+            "id": "52909",
+            "airport_ref": "2749",
+            "airport_ident": "ETSB",
+            "type": "RDR",
+            "description": "RADAR",
+            "frequency_mhz": "34.462"
+        },
+        {
+            "id": "52908",
+            "airport_ref": "2749",
+            "airport_ident": "ETSB",
+            "type": "RDR",
+            "description": "RADAR",
+            "frequency_mhz": "123.3"
+        },
+        {
+            "id": "52910",
+            "airport_ref": "2749",
+            "airport_ident": "ETSB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.1"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

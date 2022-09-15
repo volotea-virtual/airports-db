@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": "279"
         }
     ],
+    "freqs": [
+        {
+            "id": "54291",
+            "airport_ref": "4318",
+            "airport_ident": "LICC",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.25"
+        },
+        {
+            "id": "54292",
+            "airport_ref": "4318",
+            "airport_ident": "LICC",
+            "type": "DIR",
+            "description": "DIRECTOR",
+            "frequency_mhz": "120.8"
+        },
+        {
+            "id": "54293",
+            "airport_ref": "4318",
+            "airport_ident": "LICC",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "129.725"
+        },
+        {
+            "id": "54294",
+            "airport_ref": "4318",
+            "airport_ident": "LICC",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
     "country": {
         "id": "302697",
         "code": "IT",

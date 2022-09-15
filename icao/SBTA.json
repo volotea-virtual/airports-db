@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "49585",
+            "airport_ref": "5978",
+            "airport_ident": "SBTA",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "49586",
+            "airport_ref": "5978",
+            "airport_ident": "SBTA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.9"
+        }
+    ],
     "country": {
         "id": "302791",
         "code": "BR",

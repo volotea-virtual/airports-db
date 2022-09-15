@@ -85,6 +85,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56788",
+            "airport_ref": "6503",
+            "airport_ident": "UNAA",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "134.3"
+        },
+        {
+            "id": "56789",
+            "airport_ref": "6503",
+            "airport_ident": "UNAA",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.2"
+        },
+        {
+            "id": "333543",
+            "airport_ref": "6503",
+            "airport_ident": "UNAA",
+            "type": "GND",
+            "description": "ABAKAN GROUND",
+            "frequency_mhz": "119"
+        },
+        {
+            "id": "56790",
+            "airport_ref": "6503",
+            "airport_ident": "UNAA",
+            "type": "RDR",
+            "description": "ASR",
+            "frequency_mhz": "120.6"
+        },
+        {
+            "id": "56791",
+            "airport_ref": "6503",
+            "airport_ident": "UNAA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122"
+        }
+    ],
     "country": {
         "id": "302714",
         "code": "RU",

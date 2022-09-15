@@ -2,14 +2,14 @@
     "id": "2071",
     "ident": "DAOO",
     "type": "medium_airport",
-    "name": "Oran International Airport Ahmed Ben Bella",
+    "name": "Oran Es-Sénia (Ahmed Ben Bella) International Airport",
     "latitude_deg": "35.623901",
     "longitude_deg": "-0.621183",
     "elevation_ft": "295",
     "continent": "AF",
     "iso_country": "DZ",
     "iso_region": "DZ-31",
-    "municipality": "Oran",
+    "municipality": "Es-Sénia",
     "scheduled_service": "yes",
     "gps_code": "DAOO",
     "iata_code": "ORN",
@@ -61,6 +61,24 @@
             "he_elevation_ft": "297",
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48289",
+            "airport_ref": "2071",
+            "airport_ident": "DAOO",
+            "type": "APP",
+            "description": "ORAN APP",
+            "frequency_mhz": "128.2"
+        },
+        {
+            "id": "48290",
+            "airport_ref": "2071",
+            "airport_ident": "DAOO",
+            "type": "TWR",
+            "description": "ORAN TWR",
+            "frequency_mhz": "118.1"
         }
     ],
     "country": {

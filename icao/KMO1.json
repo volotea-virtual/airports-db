@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": "130"
         }
     ],
+    "freqs": [
+        {
+            "id": "70969",
+            "airport_ref": "20539",
+            "airport_ident": "KMO1",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

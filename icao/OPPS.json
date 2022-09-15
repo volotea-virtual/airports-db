@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56164",
+            "airport_ref": "5270",
+            "airport_ident": "OPPS",
+            "type": "APP",
+            "description": "CHERAT APP",
+            "frequency_mhz": "125.6"
+        },
+        {
+            "id": "56165",
+            "airport_ref": "5270",
+            "airport_ident": "OPPS",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "56166",
+            "airport_ref": "5270",
+            "airport_ident": "OPPS",
+            "type": "GCA",
+            "description": "GCA",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "56167",
+            "airport_ref": "5270",
+            "airport_ident": "OPPS",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "292.3"
+        },
+        {
+            "id": "56168",
+            "airport_ref": "5270",
+            "airport_ident": "OPPS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.9"
+        }
+    ],
     "country": {
         "id": "302657",
         "code": "PK",

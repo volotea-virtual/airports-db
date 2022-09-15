@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51393",
+            "airport_ref": "2881",
+            "airport_ident": "FKKC",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "118.9"
+        }
+    ],
     "country": {
         "id": "302565",
         "code": "CM",

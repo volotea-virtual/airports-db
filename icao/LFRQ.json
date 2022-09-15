@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52378",
+            "airport_ref": "4220",
+            "airport_ident": "LFRQ",
+            "type": "APP",
+            "description": "IROISE APP",
+            "frequency_mhz": "119.575"
+        },
+        {
+            "id": "52379",
+            "airport_ref": "4220",
+            "airport_ident": "LFRQ",
+            "type": "TWR",
+            "description": "QUIMPER TWR",
+            "frequency_mhz": "118.625"
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

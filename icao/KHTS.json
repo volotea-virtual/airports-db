@@ -63,6 +63,64 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "61507",
+            "airport_ref": "3595",
+            "airport_ident": "KHTS",
+            "type": "A/D",
+            "description": "HUNTINGTON APP/DEP",
+            "frequency_mhz": "119.75"
+        },
+        {
+            "id": "61508",
+            "airport_ref": "3595",
+            "airport_ident": "KHTS",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "125.2"
+        },
+        {
+            "id": "61509",
+            "airport_ref": "3595",
+            "airport_ident": "KHTS",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "118.05"
+        },
+        {
+            "id": "61510",
+            "airport_ref": "3595",
+            "airport_ident": "KHTS",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "61511",
+            "airport_ref": "3595",
+            "airport_ident": "KHTS",
+            "type": "RDO",
+            "description": "ELKINS RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "61512",
+            "airport_ref": "3595",
+            "airport_ident": "KHTS",
+            "type": "TWR",
+            "description": "HUNTINGTON TWR",
+            "frequency_mhz": "118.5"
+        },
+        {
+            "id": "61513",
+            "airport_ref": "3595",
+            "airport_ident": "KHTS",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

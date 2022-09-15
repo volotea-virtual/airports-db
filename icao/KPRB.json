@@ -63,6 +63,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "65453",
+            "airport_ref": "3788",
+            "airport_ident": "KPRB",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "132.175"
+        },
+        {
+            "id": "65454",
+            "airport_ref": "3788",
+            "airport_ident": "KPRB",
+            "type": "CNTR",
+            "description": "OAKLAND CNTR",
+            "frequency_mhz": "128.7"
+        },
+        {
+            "id": "65455",
+            "airport_ref": "3788",
+            "airport_ident": "KPRB",
+            "type": "RDO",
+            "description": "HAWTHORNE RDO",
+            "frequency_mhz": "122.4"
+        },
+        {
+            "id": "65456",
+            "airport_ref": "3788",
+            "airport_ident": "KPRB",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

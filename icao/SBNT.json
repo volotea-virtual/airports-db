@@ -85,6 +85,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "49812",
+            "airport_ref": "5949",
+            "airport_ident": "SBNT",
+            "type": "APP",
+            "description": "NATAL APP",
+            "frequency_mhz": "119.3"
+        },
+        {
+            "id": "49813",
+            "airport_ref": "5949",
+            "airport_ident": "SBNT",
+            "type": "ATIS",
+            "description": "NATAL ATIS",
+            "frequency_mhz": "132.65"
+        },
+        {
+            "id": "49814",
+            "airport_ref": "5949",
+            "airport_ident": "SBNT",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "49815",
+            "airport_ref": "5949",
+            "airport_ident": "SBNT",
+            "type": "OPS",
+            "description": "NATAL OPS",
+            "frequency_mhz": "122.5"
+        },
+        {
+            "id": "49816",
+            "airport_ref": "5949",
+            "airport_ident": "SBNT",
+            "type": "TWR",
+            "description": "NATAL TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
     "country": {
         "id": "302791",
         "code": "BR",

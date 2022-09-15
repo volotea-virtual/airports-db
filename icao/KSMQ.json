@@ -85,6 +85,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "59803",
+            "airport_ref": "21088",
+            "airport_ident": "KSMQ",
+            "type": "A/D",
+            "description": "NEW YORK APP/DEP",
+            "frequency_mhz": "132.8"
+        },
+        {
+            "id": "59804",
+            "airport_ref": "21088",
+            "airport_ident": "KSMQ",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "120.6"
+        },
+        {
+            "id": "59805",
+            "airport_ref": "21088",
+            "airport_ident": "KSMQ",
+            "type": "RDO",
+            "description": "MILLVILLE RDO",
+            "frequency_mhz": "112.9"
+        },
+        {
+            "id": "59806",
+            "airport_ref": "21088",
+            "airport_ident": "KSMQ",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

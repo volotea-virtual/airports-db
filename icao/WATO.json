@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53643",
+            "airport_ref": "26800",
+            "airport_ident": "WATO",
+            "type": "A/G",
+            "description": "LABUHAN BAJO RDO",
+            "frequency_mhz": "449.5"
+        },
+        {
+            "id": "53644",
+            "airport_ref": "26800",
+            "airport_ident": "WATO",
+            "type": "INFO",
+            "description": "LABUHAN BAJO INFO",
+            "frequency_mhz": "122.7"
+        }
+    ],
     "country": {
         "id": "302632",
         "code": "ID",

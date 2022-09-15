@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57951",
+            "airport_ref": "4516",
+            "airport_ident": "LTAJ",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "120.1"
+        },
+        {
+            "id": "75488",
+            "airport_ref": "4516",
+            "airport_ident": "LTAJ",
+            "type": "ATIS",
+            "description": "",
+            "frequency_mhz": "119.275"
+        },
+        {
+            "id": "57952",
+            "airport_ref": "4516",
+            "airport_ident": "LTAJ",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.1"
+        }
+    ],
     "country": {
         "id": "302667",
         "code": "TR",

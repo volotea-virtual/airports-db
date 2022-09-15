@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53923",
+            "airport_ref": "26519",
+            "airport_ident": "VERC",
+            "type": "TWR",
+            "description": "RANCHI TWR",
+            "frequency_mhz": "118.05"
+        }
+    ],
     "country": {
         "id": "302634",
         "code": "IN",

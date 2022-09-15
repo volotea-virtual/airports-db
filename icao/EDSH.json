@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "308108",
+            "airport_ref": "28506",
+            "airport_ident": "EDSH",
+            "type": "Info",
+            "description": "Backnang Info",
+            "frequency_mhz": "123.71"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

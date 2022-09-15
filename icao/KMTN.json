@@ -41,6 +41,88 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "70075",
+            "airport_ref": "3713",
+            "airport_ident": "KMTN",
+            "type": "A/D",
+            "description": "POTOMAC APP/DEP",
+            "frequency_mhz": "119"
+        },
+        {
+            "id": "70076",
+            "airport_ref": "3713",
+            "airport_ident": "KMTN",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "124.925"
+        },
+        {
+            "id": "70077",
+            "airport_ref": "3713",
+            "airport_ident": "KMTN",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "124.925"
+        },
+        {
+            "id": "70078",
+            "airport_ref": "3713",
+            "airport_ident": "KMTN",
+            "type": "CLD",
+            "description": "POTOMAC CLNC DEL",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "70079",
+            "airport_ref": "3713",
+            "airport_ident": "KMTN",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "121.3"
+        },
+        {
+            "id": "70080",
+            "airport_ref": "3713",
+            "airport_ident": "KMTN",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "70081",
+            "airport_ref": "3713",
+            "airport_ident": "KMTN",
+            "type": "OPS",
+            "description": "135 AG COMD POST",
+            "frequency_mhz": "38.59"
+        },
+        {
+            "id": "70082",
+            "airport_ref": "3713",
+            "airport_ident": "KMTN",
+            "type": "POST",
+            "description": "175 FG COMD POST",
+            "frequency_mhz": "34.72"
+        },
+        {
+            "id": "70083",
+            "airport_ref": "3713",
+            "airport_ident": "KMTN",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "121.3"
+        },
+        {
+            "id": "70084",
+            "airport_ref": "3713",
+            "airport_ident": "KMTN",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

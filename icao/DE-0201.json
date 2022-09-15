@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "315402",
+            "airport_ref": "315401",
+            "airport_ident": "DE-0201",
+            "type": "TWR",
+            "description": "Nörvenich Tower",
+            "frequency_mhz": "122.1"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

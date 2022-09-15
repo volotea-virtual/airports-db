@@ -63,6 +63,72 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "70110",
+            "airport_ref": "3678",
+            "airport_ident": "KMFE",
+            "type": "A/D",
+            "description": "VALLEY APP/DEP",
+            "frequency_mhz": "121"
+        },
+        {
+            "id": "70111",
+            "airport_ref": "3678",
+            "airport_ident": "KMFE",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "128.5"
+        },
+        {
+            "id": "70112",
+            "airport_ref": "3678",
+            "airport_ident": "KMFE",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.5"
+        },
+        {
+            "id": "70113",
+            "airport_ref": "3678",
+            "airport_ident": "KMFE",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.5"
+        },
+        {
+            "id": "70114",
+            "airport_ref": "3678",
+            "airport_ident": "KMFE",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "70115",
+            "airport_ref": "3678",
+            "airport_ident": "KMFE",
+            "type": "RDO",
+            "description": "SAN ANGELO RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "70116",
+            "airport_ref": "3678",
+            "airport_ident": "KMFE",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.5"
+        },
+        {
+            "id": "70117",
+            "airport_ref": "3678",
+            "airport_ident": "KMFE",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

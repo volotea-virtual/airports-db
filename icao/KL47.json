@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "70764",
+            "airport_ref": "20301",
+            "airport_ident": "KL47",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        },
+        {
+            "id": "70765",
+            "airport_ref": "20301",
+            "airport_ident": "KL47",
+            "type": "FSS",
+            "description": "DE RIDDER RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "70766",
+            "airport_ref": "20301",
+            "airport_ident": "KL47",
+            "type": "MISC",
+            "description": "MONROE RCO",
+            "frequency_mhz": "122.25"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

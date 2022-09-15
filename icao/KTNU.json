@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "64450",
+            "airport_ref": "21207",
+            "airport_ident": "KTNU",
+            "type": "A/D",
+            "description": "DES MOINES APP/DEP",
+            "frequency_mhz": "123.9"
+        },
+        {
+            "id": "64451",
+            "airport_ref": "21207",
+            "airport_ident": "KTNU",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "132.275"
+        },
+        {
+            "id": "64452",
+            "airport_ref": "21207",
+            "airport_ident": "KTNU",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "126.3"
+        },
+        {
+            "id": "64453",
+            "airport_ref": "21207",
+            "airport_ident": "KTNU",
+            "type": "RDO",
+            "description": "FORT DODGE RDO",
+            "frequency_mhz": "112.5"
+        },
+        {
+            "id": "64454",
+            "airport_ref": "21207",
+            "airport_ident": "KTNU",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

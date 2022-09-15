@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "67177",
+            "airport_ref": "20781",
+            "airport_ident": "KOXB",
+            "type": "A/D",
+            "description": "PATUXENT APP/DEP",
+            "frequency_mhz": "127.95"
+        },
+        {
+            "id": "67178",
+            "airport_ref": "20781",
+            "airport_ident": "KOXB",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "119.025"
+        },
+        {
+            "id": "67179",
+            "airport_ref": "20781",
+            "airport_ident": "KOXB",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

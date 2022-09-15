@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53229",
+            "airport_ref": "2745",
+            "airport_ident": "ETOI",
+            "type": "MISC",
+            "description": "RNG",
+            "frequency_mhz": "60"
+        },
+        {
+            "id": "53230",
+            "airport_ref": "2745",
+            "airport_ident": "ETOI",
+            "type": "RDO",
+            "description": "GRAF RDO",
+            "frequency_mhz": "30.4"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

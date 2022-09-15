@@ -63,6 +63,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56609",
+            "airport_ref": "6520",
+            "airport_ident": "URWA",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "126"
+        },
+        {
+            "id": "56610",
+            "airport_ref": "6520",
+            "airport_ident": "URWA",
+            "type": "ARSA",
+            "description": "KRUG",
+            "frequency_mhz": "118.6"
+        },
+        {
+            "id": "56611",
+            "airport_ref": "6520",
+            "airport_ident": "URWA",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "131.5"
+        },
+        {
+            "id": "56612",
+            "airport_ref": "6520",
+            "airport_ident": "URWA",
+            "type": "GND",
+            "description": "TWR",
+            "frequency_mhz": "123.4"
+        }
+    ],
     "country": {
         "id": "302714",
         "code": "RU",

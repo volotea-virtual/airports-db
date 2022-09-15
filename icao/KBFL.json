@@ -63,6 +63,72 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "62826",
+            "airport_ref": "3402",
+            "airport_ident": "KBFL",
+            "type": "APP",
+            "description": "BAKERSFIELD APP",
+            "frequency_mhz": "118.8"
+        },
+        {
+            "id": "62827",
+            "airport_ref": "3402",
+            "airport_ident": "KBFL",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "118.6"
+        },
+        {
+            "id": "62828",
+            "airport_ref": "3402",
+            "airport_ident": "KBFL",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "62829",
+            "airport_ref": "3402",
+            "airport_ident": "KBFL",
+            "type": "DEP",
+            "description": "BAKERSFIELD DEP",
+            "frequency_mhz": "126.45"
+        },
+        {
+            "id": "62830",
+            "airport_ref": "3402",
+            "airport_ident": "KBFL",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "62831",
+            "airport_ref": "3402",
+            "airport_ident": "KBFL",
+            "type": "RDO",
+            "description": "RANCHO RDO",
+            "frequency_mhz": "122.45"
+        },
+        {
+            "id": "62832",
+            "airport_ref": "3402",
+            "airport_ident": "KBFL",
+            "type": "TWR",
+            "description": "BAKERSFIELD TWR",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "62833",
+            "airport_ref": "3402",
+            "airport_ident": "KBFL",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

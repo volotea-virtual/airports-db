@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": "492"
         }
     ],
+    "freqs": [
+        {
+            "id": "56286",
+            "airport_ref": "4459",
+            "airport_ident": "LPPR",
+            "type": "APP",
+            "description": "Porto Approach",
+            "frequency_mhz": "121.105"
+        },
+        {
+            "id": "56287",
+            "airport_ref": "4459",
+            "airport_ident": "LPPR",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "124.305"
+        },
+        {
+            "id": "331395",
+            "airport_ref": "4459",
+            "airport_ident": "LPPR",
+            "type": "CLR DLVR",
+            "description": "Porto Delivery",
+            "frequency_mhz": "118.93"
+        },
+        {
+            "id": "56288",
+            "airport_ref": "4459",
+            "airport_ident": "LPPR",
+            "type": "TWR",
+            "description": "Porto Tower",
+            "frequency_mhz": "118.005"
+        }
+    ],
     "country": {
         "id": "302711",
         "code": "PT",

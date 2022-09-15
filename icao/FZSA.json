@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51122",
+            "airport_ref": "3062",
+            "airport_ident": "FZSA",
+            "type": "A/G",
+            "description": "A/G VOICE RDO",
+            "frequency_mhz": "549.8"
+        },
+        {
+            "id": "51123",
+            "airport_ref": "3062",
+            "airport_ident": "FZSA",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "51124",
+            "airport_ref": "3062",
+            "airport_ident": "FZSA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302561",
         "code": "CD",

@@ -85,6 +85,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "75175",
+            "airport_ref": "1391",
+            "airport_ident": "CPD8",
+            "type": "ATF",
+            "description": "",
+            "frequency_mhz": "123.3"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

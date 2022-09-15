@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "49829",
+            "airport_ref": "5922",
+            "airport_ident": "SBJF",
+            "type": "AFIS",
+            "description": "JUIZ DE FORA RDO",
+            "frequency_mhz": "128.1"
+        }
+    ],
     "country": {
         "id": "302791",
         "code": "BR",

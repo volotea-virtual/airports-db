@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "72093",
+            "airport_ref": "38230",
+            "airport_ident": "YANJ",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "72094",
+            "airport_ref": "38230",
+            "airport_ident": "YANJ",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "122"
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",

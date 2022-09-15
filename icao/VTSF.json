@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57624",
+            "airport_ref": "26668",
+            "airport_ident": "VTSF",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.75"
+        },
+        {
+            "id": "57625",
+            "airport_ref": "26668",
+            "airport_ident": "VTSF",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.55"
+        }
+    ],
     "country": {
         "id": "302663",
         "code": "TH",

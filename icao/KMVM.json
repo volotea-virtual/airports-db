@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "59484",
+            "airport_ref": "20576",
+            "airport_ident": "KMVM",
+            "type": "CNTR",
+            "description": "BOSTON CNTR",
+            "frequency_mhz": "124.25"
+        },
+        {
+            "id": "59485",
+            "airport_ref": "20576",
+            "airport_ident": "KMVM",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

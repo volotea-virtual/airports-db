@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "55238",
+            "airport_ref": "2932",
+            "airport_ident": "FMSR",
+            "type": "A/G",
+            "description": "A/G VOICE RDO",
+            "frequency_mhz": "548.4"
+        }
+    ],
     "country": {
         "id": "302585",
         "code": "MG",

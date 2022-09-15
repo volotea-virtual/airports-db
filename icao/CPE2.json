@@ -17,6 +17,16 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "PE2",
+    "freqs": [
+        {
+            "id": "75421",
+            "airport_ref": "1393",
+            "airport_ident": "CPE2",
+            "type": "Ambulance Dispat",
+            "description": "",
+            "frequency_mhz": "129.275"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

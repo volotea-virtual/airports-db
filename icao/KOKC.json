@@ -107,6 +107,56 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "71109",
+            "airport_ref": "3747",
+            "airport_ident": "KOKC",
+            "type": "A/D",
+            "description": "OKE CITY APP/DEP",
+            "frequency_mhz": "120.45"
+        },
+        {
+            "id": "71110",
+            "airport_ref": "3747",
+            "airport_ident": "KOKC",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "125.85"
+        },
+        {
+            "id": "71111",
+            "airport_ref": "3747",
+            "airport_ident": "KOKC",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "124.35"
+        },
+        {
+            "id": "71112",
+            "airport_ref": "3747",
+            "airport_ident": "KOKC",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "71113",
+            "airport_ref": "3747",
+            "airport_ident": "KOKC",
+            "type": "OPS",
+            "description": "ANG OPS COMD POST",
+            "frequency_mhz": "22.56"
+        },
+        {
+            "id": "71114",
+            "airport_ref": "3747",
+            "airport_ident": "KOKC",
+            "type": "TWR",
+            "description": "ROGERS TWR",
+            "frequency_mhz": "119.35"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

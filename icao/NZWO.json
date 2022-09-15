@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "55965",
+            "airport_ref": "5064",
+            "airport_ident": "NZWO",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "55966",
+            "airport_ref": "5064",
+            "airport_ident": "NZWO",
+            "type": "TWR",
+            "description": "NAPIER TWR",
+            "frequency_mhz": "125.6"
+        }
+    ],
     "country": {
         "id": "302776",
         "code": "NZ",

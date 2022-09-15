@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52042",
+            "airport_ref": "4407",
+            "airport_ident": "LKPO",
+            "type": "GCA",
+            "description": "PRECISION",
+            "frequency_mhz": "123.3"
+        },
+        {
+            "id": "333264",
+            "airport_ref": "4407",
+            "airport_ident": "LKPO",
+            "type": "RADIO",
+            "description": "",
+            "frequency_mhz": "127.78"
+        },
+        {
+            "id": "52043",
+            "airport_ref": "4407",
+            "airport_ident": "LKPO",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.75"
+        }
+    ],
     "country": {
         "id": "302680",
         "code": "CZ",

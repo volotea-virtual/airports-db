@@ -129,6 +129,32 @@
             "he_displaced_threshold_ft": "686"
         }
     ],
+    "freqs": [
+        {
+            "id": "55910",
+            "airport_ref": "5050",
+            "airport_ident": "NZPP",
+            "type": "APP",
+            "description": "WELLINGTON APP",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "55911",
+            "airport_ref": "5050",
+            "airport_ident": "NZPP",
+            "type": "AWIB",
+            "description": "AWIB",
+            "frequency_mhz": "128.4"
+        },
+        {
+            "id": "55912",
+            "airport_ref": "5050",
+            "airport_ident": "NZPP",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302776",
         "code": "NZ",

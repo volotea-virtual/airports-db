@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52187",
+            "airport_ref": "5004",
+            "airport_ident": "NTTG",
+            "type": "A/G",
+            "description": "RDO",
+            "frequency_mhz": "568"
+        },
+        {
+            "id": "52188",
+            "airport_ref": "5004",
+            "airport_ident": "NTTG",
+            "type": "APP",
+            "description": "TAHITI CTL",
+            "frequency_mhz": "134.7"
+        },
+        {
+            "id": "52189",
+            "airport_ref": "5004",
+            "airport_ident": "NTTG",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "52190",
+            "airport_ref": "5004",
+            "airport_ident": "NTTG",
+            "type": "MISC",
+            "description": "VDF",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "52191",
+            "airport_ref": "5004",
+            "airport_ident": "NTTG",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302777",
         "code": "PF",

@@ -63,6 +63,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "50960",
+            "airport_ref": "1837",
+            "airport_ident": "CYOO",
+            "type": "A/G",
+            "description": "MF",
+            "frequency_mhz": "120.1"
+        },
+        {
+            "id": "50961",
+            "airport_ref": "1837",
+            "airport_ident": "CYOO",
+            "type": "APP",
+            "description": "TORONTO TRML",
+            "frequency_mhz": "133.4"
+        },
+        {
+            "id": "50962",
+            "airport_ref": "1837",
+            "airport_ident": "CYOO",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "125.675"
+        },
+        {
+            "id": "50963",
+            "airport_ref": "1837",
+            "airport_ident": "CYOO",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "118.4"
+        },
+        {
+            "id": "50964",
+            "airport_ref": "1837",
+            "airport_ident": "CYOO",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.1"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": "492"
         }
     ],
+    "freqs": [
+        {
+            "id": "51071",
+            "airport_ref": "26475",
+            "airport_ident": "VDPP",
+            "type": "ACC",
+            "description": "ACC",
+            "frequency_mhz": "127.5"
+        },
+        {
+            "id": "51072",
+            "airport_ref": "26475",
+            "airport_ident": "VDPP",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "123.8"
+        },
+        {
+            "id": "51073",
+            "airport_ref": "26475",
+            "airport_ident": "VDPP",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.25"
+        },
+        {
+            "id": "51074",
+            "airport_ref": "26475",
+            "airport_ident": "VDPP",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118"
+        }
+    ],
     "country": {
         "id": "302641",
         "code": "KH",

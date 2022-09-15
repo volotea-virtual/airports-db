@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56042",
+            "airport_ref": "6092",
+            "airport_ident": "SGIB",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "118.5"
+        },
+        {
+            "id": "56043",
+            "airport_ref": "6092",
+            "airport_ident": "SGIB",
+            "type": "TWR",
+            "description": "GUARANI APP",
+            "frequency_mhz": "119.3"
+        }
+    ],
     "country": {
         "id": "302799",
         "code": "PY",

@@ -63,6 +63,72 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "59950",
+            "airport_ref": "5455",
+            "airport_ident": "PHOG",
+            "type": "A/D",
+            "description": "MAUI APP/DEP",
+            "frequency_mhz": "119.5"
+        },
+        {
+            "id": "59951",
+            "airport_ref": "5455",
+            "airport_ident": "PHOG",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.6"
+        },
+        {
+            "id": "59952",
+            "airport_ref": "5455",
+            "airport_ident": "PHOG",
+            "type": "CLD",
+            "description": "MAUI CLNC DEL",
+            "frequency_mhz": "120.6"
+        },
+        {
+            "id": "59953",
+            "airport_ref": "5455",
+            "airport_ident": "PHOG",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.7"
+        },
+        {
+            "id": "59954",
+            "airport_ref": "5455",
+            "airport_ident": "PHOG",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "59955",
+            "airport_ref": "5455",
+            "airport_ident": "PHOG",
+            "type": "RDO",
+            "description": "MAUI RDO",
+            "frequency_mhz": "123.6"
+        },
+        {
+            "id": "59956",
+            "airport_ref": "5455",
+            "airport_ident": "PHOG",
+            "type": "TWR",
+            "description": "MAUI TWR",
+            "frequency_mhz": "118.7"
+        },
+        {
+            "id": "59957",
+            "airport_ref": "5455",
+            "airport_ident": "PHOG",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

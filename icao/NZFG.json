@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "75301",
+            "airport_ref": "44806",
+            "airport_ident": "NZFG",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "130.2"
+        }
+    ],
     "country": {
         "id": "302776",
         "code": "NZ",

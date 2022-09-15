@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "54175",
+            "airport_ref": "4308",
+            "airport_ident": "LIBA",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "118.85"
+        },
+        {
+            "id": "54176",
+            "airport_ref": "4308",
+            "airport_ident": "LIBA",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "38.91"
+        },
+        {
+            "id": "54177",
+            "airport_ref": "4308",
+            "airport_ident": "LIBA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.2"
+        }
+    ],
     "country": {
         "id": "302697",
         "code": "IT",

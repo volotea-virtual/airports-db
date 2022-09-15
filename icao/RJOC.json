@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "54561",
+            "airport_ref": "5592",
+            "airport_ident": "RJOC",
+            "type": "APP",
+            "description": "MIHO APP",
+            "frequency_mhz": "120.1"
+        },
+        {
+            "id": "54562",
+            "airport_ref": "5592",
+            "airport_ident": "RJOC",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "122.7"
+        }
+    ],
     "country": {
         "id": "302639",
         "code": "JP",

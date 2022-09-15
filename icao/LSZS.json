@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": "360"
         }
     ],
+    "freqs": [
+        {
+            "id": "57589",
+            "airport_ref": "4507",
+            "airport_ident": "LSZS",
+            "type": "A/G",
+            "description": "GLIDER",
+            "frequency_mhz": "123.67"
+        },
+        {
+            "id": "57590",
+            "airport_ref": "4507",
+            "airport_ident": "LSZS",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "136.6"
+        },
+        {
+            "id": "57591",
+            "airport_ref": "4507",
+            "airport_ident": "LSZS",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.6"
+        },
+        {
+            "id": "57592",
+            "airport_ref": "4507",
+            "airport_ident": "LSZS",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "138.05"
+        },
+        {
+            "id": "57593",
+            "airport_ref": "4507",
+            "airport_ident": "LSZS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "135.325"
+        }
+    ],
     "country": {
         "id": "302679",
         "code": "CH",

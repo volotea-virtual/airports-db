@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "49581",
+            "airport_ref": "5896",
+            "airport_ident": "SBDN",
+            "type": "AFIS",
+            "description": "PRUDENTE RDO",
+            "frequency_mhz": "118.45"
+        },
+        {
+            "id": "49582",
+            "airport_ref": "5896",
+            "airport_ident": "SBDN",
+            "type": "APP",
+            "description": "PRUDENTE APP",
+            "frequency_mhz": "118.45"
+        },
+        {
+            "id": "49583",
+            "airport_ref": "5896",
+            "airport_ident": "SBDN",
+            "type": "TWR",
+            "description": "PRUDENTE TWR",
+            "frequency_mhz": "118.45"
+        }
+    ],
     "country": {
         "id": "302791",
         "code": "BR",

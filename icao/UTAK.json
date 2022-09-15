@@ -63,6 +63,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "58057",
+            "airport_ref": "26381",
+            "airport_ident": "UTAK",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "120"
+        },
+        {
+            "id": "58058",
+            "airport_ref": "26381",
+            "airport_ident": "UTAK",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "58059",
+            "airport_ref": "26381",
+            "airport_ident": "UTAK",
+            "type": "MISC",
+            "description": "TRANSIT",
+            "frequency_mhz": "131.9"
+        },
+        {
+            "id": "58060",
+            "airport_ref": "26381",
+            "airport_ident": "UTAK",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "124"
+        }
+    ],
     "country": {
         "id": "302666",
         "code": "TM",

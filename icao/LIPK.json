@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "54262",
+            "airport_ref": "4357",
+            "airport_ident": "LIPK",
+            "type": "APP",
+            "description": "ROMAGNA APP",
+            "frequency_mhz": "37.975"
+        },
+        {
+            "id": "54261",
+            "airport_ref": "4357",
+            "airport_ident": "LIPK",
+            "type": "APP",
+            "description": "ROMAGNA APP",
+            "frequency_mhz": "118.15"
+        },
+        {
+            "id": "54263",
+            "airport_ref": "4357",
+            "airport_ident": "LIPK",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.95"
+        }
+    ],
     "country": {
         "id": "302697",
         "code": "IT",

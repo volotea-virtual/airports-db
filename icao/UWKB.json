@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "75426",
+            "airport_ref": "35174",
+            "airport_ident": "UWKB",
+            "type": "APP",
+            "description": "Bugulma Approach / russian only",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "75425",
+            "airport_ref": "35174",
+            "airport_ident": "UWKB",
+            "type": "TWR",
+            "description": "Bugulma TWR / russian only",
+            "frequency_mhz": "118"
+        }
+    ],
     "country": {
         "id": "302714",
         "code": "RU",

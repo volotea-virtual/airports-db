@@ -63,6 +63,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "335618",
+            "airport_ref": "29691",
+            "airport_ident": "LHBC",
+            "type": "AFIS",
+            "description": "Békéscsaba INFO",
+            "frequency_mhz": "123.26"
+        }
+    ],
     "country": {
         "id": "302693",
         "code": "HU",

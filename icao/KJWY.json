@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "70944",
+            "airport_ref": "20227",
+            "airport_ident": "KJWY",
+            "type": "A/D",
+            "description": "REGIONAL APP/DEP",
+            "frequency_mhz": "125.2"
+        },
+        {
+            "id": "70945",
+            "airport_ref": "20227",
+            "airport_ident": "KJWY",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.575"
+        },
+        {
+            "id": "70946",
+            "airport_ref": "20227",
+            "airport_ident": "KJWY",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.975"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

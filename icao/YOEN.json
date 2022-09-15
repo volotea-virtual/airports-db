@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "49166",
+            "airport_ref": "27092",
+            "airport_ident": "YOEN",
+            "type": "CTAF",
+            "description": "KAKADU AREA",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "49167",
+            "airport_ref": "27092",
+            "airport_ident": "YOEN",
+            "type": "FSS",
+            "description": "BRISBANE CNTR",
+            "frequency_mhz": "124.1"
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",

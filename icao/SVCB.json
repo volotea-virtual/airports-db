@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "71665",
+            "airport_ref": "6262",
+            "airport_ident": "SVCB",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "115.1"
+        },
+        {
+            "id": "71666",
+            "airport_ref": "6262",
+            "airport_ident": "SVCB",
+            "type": "RDO",
+            "description": "BOLIVAR RDO",
+            "frequency_mhz": "130.6"
+        },
+        {
+            "id": "71667",
+            "airport_ref": "6262",
+            "airport_ident": "SVCB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "121.9"
+        }
+    ],
     "country": {
         "id": "302802",
         "code": "VE",

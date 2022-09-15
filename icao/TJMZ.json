@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56570",
+            "airport_ref": "6382",
+            "airport_ident": "TJMZ",
+            "type": "A/D",
+            "description": "SAN JUAN CNTR",
+            "frequency_mhz": "118.75"
+        },
+        {
+            "id": "56571",
+            "airport_ref": "6382",
+            "airport_ident": "TJMZ",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "56572",
+            "airport_ref": "6382",
+            "airport_ident": "TJMZ",
+            "type": "RDO",
+            "description": "SAN JUAN RDO",
+            "frequency_mhz": "110.6"
+        },
+        {
+            "id": "56573",
+            "airport_ref": "6382",
+            "airport_ident": "TJMZ",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302751",
         "code": "PR",

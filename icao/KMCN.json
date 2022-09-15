@@ -63,6 +63,72 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "68201",
+            "airport_ref": "3669",
+            "airport_ident": "KMCN",
+            "type": "A/D",
+            "description": "ATLANTA APP/DEP",
+            "frequency_mhz": "118.95"
+        },
+        {
+            "id": "68202",
+            "airport_ref": "3669",
+            "airport_ident": "KMCN",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "120.775"
+        },
+        {
+            "id": "68203",
+            "airport_ref": "3669",
+            "airport_ident": "KMCN",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "120.775"
+        },
+        {
+            "id": "68204",
+            "airport_ref": "3669",
+            "airport_ident": "KMCN",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "128.2"
+        },
+        {
+            "id": "68205",
+            "airport_ref": "3669",
+            "airport_ident": "KMCN",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.65"
+        },
+        {
+            "id": "68206",
+            "airport_ref": "3669",
+            "airport_ident": "KMCN",
+            "type": "RDO",
+            "description": "MACON RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "68207",
+            "airport_ref": "3669",
+            "airport_ident": "KMCN",
+            "type": "TWR",
+            "description": "MACON TWR",
+            "frequency_mhz": "128.2"
+        },
+        {
+            "id": "68208",
+            "airport_ref": "3669",
+            "airport_ident": "KMCN",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

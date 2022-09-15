@@ -63,6 +63,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "55110",
+            "airport_ref": "5219",
+            "airport_ident": "OKAS",
+            "type": "APP",
+            "description": "MOHALAB APP",
+            "frequency_mhz": "128.3"
+        },
+        {
+            "id": "55111",
+            "airport_ref": "5219",
+            "airport_ident": "OKAS",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "25.01"
+        },
+        {
+            "id": "55112",
+            "airport_ref": "5219",
+            "airport_ident": "OKAS",
+            "type": "PMSV",
+            "description": "METRO",
+            "frequency_mhz": "37.272"
+        },
+        {
+            "id": "55113",
+            "airport_ref": "5219",
+            "airport_ident": "OKAS",
+            "type": "POST",
+            "description": "COMD POST",
+            "frequency_mhz": "25.3"
+        },
+        {
+            "id": "55114",
+            "airport_ref": "5219",
+            "airport_ident": "OKAS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118"
+        }
+    ],
     "country": {
         "id": "302644",
         "code": "KW",

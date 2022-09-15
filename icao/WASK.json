@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53783",
+            "airport_ref": "26792",
+            "airport_ident": "WASK",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "131.45"
+        },
+        {
+            "id": "53784",
+            "airport_ref": "26792",
+            "airport_ident": "WASK",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "681.12"
+        }
+    ],
     "country": {
         "id": "302632",
         "code": "ID",

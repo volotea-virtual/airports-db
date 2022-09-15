@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57831",
+            "airport_ref": "4538",
+            "airport_ident": "LTBO",
+            "type": "APP",
+            "description": "MENDERES APP",
+            "frequency_mhz": "132.05"
+        },
+        {
+            "id": "57832",
+            "airport_ref": "4538",
+            "airport_ident": "LTBO",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "121.425"
+        }
+    ],
     "country": {
         "id": "302667",
         "code": "TR",

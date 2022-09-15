@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "49939",
+            "airport_ref": "1448",
+            "airport_ident": "CPR7",
+            "type": "ATF",
+            "description": "ATF",
+            "frequency_mhz": "123"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

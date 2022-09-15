@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "67068",
+            "airport_ref": "21270",
+            "airport_ident": "KU69",
+            "type": "RDO",
+            "description": "CEDAR CITY RDO",
+            "frequency_mhz": "112.7"
+        },
+        {
+            "id": "67069",
+            "airport_ref": "21270",
+            "airport_ident": "KU69",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51609",
+            "airport_ref": "4797",
+            "airport_ident": "MRBC",
+            "type": "RDO",
+            "description": "COCO RDO",
+            "frequency_mhz": "126.8"
+        }
+    ],
     "country": {
         "id": "302731",
         "code": "CR",

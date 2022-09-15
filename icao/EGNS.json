@@ -85,6 +85,56 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53786",
+            "airport_ref": "2447",
+            "airport_ident": "EGNS",
+            "type": "APP",
+            "description": "Ronaldsway Approach",
+            "frequency_mhz": "135.9"
+        },
+        {
+            "id": "53787",
+            "airport_ref": "2447",
+            "airport_ident": "EGNS",
+            "type": "ATIS",
+            "description": "Ronaldsway Information",
+            "frequency_mhz": "123.875"
+        },
+        {
+            "id": "316906",
+            "airport_ref": "2447",
+            "airport_ident": "EGNS",
+            "type": "RAD",
+            "description": "Ronaldsway Radar",
+            "frequency_mhz": "120.85"
+        },
+        {
+            "id": "316907",
+            "airport_ref": "2447",
+            "airport_ident": "EGNS",
+            "type": "RAD",
+            "description": "Ronaldsway Radar",
+            "frequency_mhz": "125.3"
+        },
+        {
+            "id": "316905",
+            "airport_ref": "2447",
+            "airport_ident": "EGNS",
+            "type": "RAD",
+            "description": "Ronaldsway Radar",
+            "frequency_mhz": "135.9"
+        },
+        {
+            "id": "53788",
+            "airport_ref": "2447",
+            "airport_ident": "EGNS",
+            "type": "TWR",
+            "description": "Ronaldsway Tower",
+            "frequency_mhz": "119"
+        }
+    ],
     "country": {
         "id": "302695",
         "code": "IM",

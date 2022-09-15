@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": "384"
         }
     ],
+    "freqs": [
+        {
+            "id": "69305",
+            "airport_ref": "20817",
+            "airport_ident": "KPEO",
+            "type": "A/D",
+            "description": "ELIMIRA APP/DEP",
+            "frequency_mhz": "124.3"
+        },
+        {
+            "id": "69306",
+            "airport_ref": "20817",
+            "airport_ident": "KPEO",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "121.175"
+        },
+        {
+            "id": "69307",
+            "airport_ref": "20817",
+            "airport_ident": "KPEO",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

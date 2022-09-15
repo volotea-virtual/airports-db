@@ -85,6 +85,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "61544",
+            "airport_ref": "5390",
+            "airport_ident": "PANN",
+            "type": "A/D",
+            "description": "FAIRBANKS APP/DEP",
+            "frequency_mhz": "125.35"
+        },
+        {
+            "id": "61545",
+            "airport_ref": "5390",
+            "airport_ident": "PANN",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "125.2"
+        },
+        {
+            "id": "61546",
+            "airport_ref": "5390",
+            "airport_ident": "PANN",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "61547",
+            "airport_ref": "5390",
+            "airport_ident": "PANN",
+            "type": "FSS",
+            "description": "FAIRBANKS RDO",
+            "frequency_mhz": "122.5"
+        },
+        {
+            "id": "61548",
+            "airport_ref": "5390",
+            "airport_ident": "PANN",
+            "type": "MISC",
+            "description": "TWEB",
+            "frequency_mhz": "115.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

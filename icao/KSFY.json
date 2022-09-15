@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "59605",
+            "airport_ref": "21059",
+            "airport_ident": "KSFY",
+            "type": "A/D",
+            "description": "QUAD CITY APP/DEP",
+            "frequency_mhz": "125.95"
+        },
+        {
+            "id": "59606",
+            "airport_ref": "21059",
+            "airport_ident": "KSFY",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.65"
+        },
+        {
+            "id": "59607",
+            "airport_ref": "21059",
+            "airport_ident": "KSFY",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -85,6 +85,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57277",
+            "airport_ref": "4017",
+            "airport_ident": "LELC",
+            "type": "APP",
+            "description": "SAN JAVIER APP",
+            "frequency_mhz": "130.3"
+        },
+        {
+            "id": "57278",
+            "airport_ref": "4017",
+            "airport_ident": "LELC",
+            "type": "GND",
+            "description": "SAN JAVIER GND",
+            "frequency_mhz": "121.6"
+        },
+        {
+            "id": "57279",
+            "airport_ref": "4017",
+            "airport_ident": "LELC",
+            "type": "TWR",
+            "description": "SAN JAVIER TWR",
+            "frequency_mhz": "130.3"
+        }
+    ],
     "country": {
         "id": "302684",
         "code": "ES",

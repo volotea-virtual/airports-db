@@ -1,0 +1,38 @@
+{
+    "id": "356645",
+    "ident": "LY-0013",
+    "type": "small_airport",
+    "name": "Gharyan International Airport",
+    "latitude_deg": "31.943495",
+    "longitude_deg": "13.159046",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "LY",
+    "iso_region": "LY-JG",
+    "municipality": "Abo-Maade",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302583",
+        "code": "LY",
+        "name": "Libya",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Libya",
+        "keywords": "مطارات في ليبيا"
+    },
+    "region": {
+        "id": "306767",
+        "code": "LY-JG",
+        "local_code": "JG",
+        "name": "Al Jabal al Gharbi District",
+        "continent": "AF",
+        "iso_country": "LY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Al_Jabal_al_Gharbi_District",
+        "keywords": "Airports in Al Jabal al Gharbi District"
+    }
+}

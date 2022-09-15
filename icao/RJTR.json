@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": "865"
         }
     ],
+    "freqs": [
+        {
+            "id": "54802",
+            "airport_ref": "5626",
+            "airport_ident": "RJTR",
+            "type": "OPS",
+            "description": "OPS",
+            "frequency_mhz": "36.8"
+        },
+        {
+            "id": "54803",
+            "airport_ref": "5626",
+            "airport_ident": "RJTR",
+            "type": "PMSV",
+            "description": "YOKOTA METRO",
+            "frequency_mhz": "34.46"
+        },
+        {
+            "id": "54804",
+            "airport_ref": "5626",
+            "airport_ident": "RJTR",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.5"
+        }
+    ],
     "country": {
         "id": "302639",
         "code": "JP",

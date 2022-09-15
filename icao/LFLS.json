@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52511",
+            "airport_ref": "4142",
+            "airport_ident": "LFLS",
+            "type": "APP",
+            "description": "GRENOBLE APP",
+            "frequency_mhz": "119.3"
+        },
+        {
+            "id": "52512",
+            "airport_ref": "4142",
+            "airport_ident": "LFLS",
+            "type": "ATIS",
+            "description": "GRENOBLE ATIS",
+            "frequency_mhz": "133.85"
+        },
+        {
+            "id": "52513",
+            "airport_ref": "4142",
+            "airport_ident": "LFLS",
+            "type": "GND",
+            "description": "GRENOBLE GND",
+            "frequency_mhz": "121.925"
+        },
+        {
+            "id": "52514",
+            "airport_ref": "4142",
+            "airport_ident": "LFLS",
+            "type": "TWR",
+            "description": "GRENOBLE TWR",
+            "frequency_mhz": "119.3"
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

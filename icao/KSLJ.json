@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "68901",
+            "airport_ref": "21081",
+            "airport_ident": "KSLJ",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "126.2"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -63,6 +63,56 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "68491",
+            "airport_ref": "5365",
+            "airport_ident": "PAGA",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "132.525"
+        },
+        {
+            "id": "68492",
+            "airport_ref": "5365",
+            "airport_ident": "PAGA",
+            "type": "CNTR",
+            "description": "ANCHORAGE CNTR",
+            "frequency_mhz": "127"
+        },
+        {
+            "id": "68493",
+            "airport_ref": "5365",
+            "airport_ident": "PAGA",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "123"
+        },
+        {
+            "id": "68494",
+            "airport_ref": "5365",
+            "airport_ident": "PAGA",
+            "type": "FSS",
+            "description": "FAIRBANKS RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "68495",
+            "airport_ref": "5365",
+            "airport_ident": "PAGA",
+            "type": "OPS",
+            "description": "GALENA OPS",
+            "frequency_mhz": "39.12"
+        },
+        {
+            "id": "68496",
+            "airport_ref": "5365",
+            "airport_ident": "PAGA",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "134.5"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

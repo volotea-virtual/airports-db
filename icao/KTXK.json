@@ -63,6 +63,56 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "68634",
+            "airport_ref": "3936",
+            "airport_ident": "KTXK",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "120.2"
+        },
+        {
+            "id": "68635",
+            "airport_ref": "3936",
+            "airport_ident": "KTXK",
+            "type": "CNTR",
+            "description": "FORT WORTH CNTR",
+            "frequency_mhz": "123.925"
+        },
+        {
+            "id": "68636",
+            "airport_ref": "3936",
+            "airport_ident": "KTXK",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "125.7"
+        },
+        {
+            "id": "68637",
+            "airport_ref": "3936",
+            "airport_ident": "KTXK",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "68638",
+            "airport_ref": "3936",
+            "airport_ident": "KTXK",
+            "type": "RDO",
+            "description": "JONESBORO RDO",
+            "frequency_mhz": "122.45"
+        },
+        {
+            "id": "68639",
+            "airport_ref": "3936",
+            "airport_ident": "KTXK",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "125.7"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

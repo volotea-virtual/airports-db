@@ -63,6 +63,72 @@
             "he_displaced_threshold_ft": "1201"
         }
     ],
+    "freqs": [
+        {
+            "id": "71117",
+            "airport_ref": "3371",
+            "airport_ident": "KALB",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "118.05"
+        },
+        {
+            "id": "71118",
+            "airport_ref": "3371",
+            "airport_ident": "KALB",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "120.45"
+        },
+        {
+            "id": "71119",
+            "airport_ref": "3371",
+            "airport_ident": "KALB",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "127.5"
+        },
+        {
+            "id": "71120",
+            "airport_ref": "3371",
+            "airport_ident": "KALB",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "71121",
+            "airport_ref": "3371",
+            "airport_ident": "KALB",
+            "type": "OPS",
+            "description": "ARNG OPS",
+            "frequency_mhz": "41"
+        },
+        {
+            "id": "71122",
+            "airport_ref": "3371",
+            "airport_ident": "KALB",
+            "type": "RDO",
+            "description": "BURLINGTON RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "71123",
+            "airport_ref": "3371",
+            "airport_ident": "KALB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.5"
+        },
+        {
+            "id": "71124",
+            "airport_ref": "3371",
+            "airport_ident": "KALB",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

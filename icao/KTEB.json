@@ -63,6 +63,96 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "64470",
+            "airport_ref": "3920",
+            "airport_ident": "KTEB",
+            "type": "APP",
+            "description": "New York Approach",
+            "frequency_mhz": "127.6"
+        },
+        {
+            "id": "64471",
+            "airport_ref": "3920",
+            "airport_ident": "KTEB",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "132.025"
+        },
+        {
+            "id": "64472",
+            "airport_ref": "3920",
+            "airport_ident": "KTEB",
+            "type": "CLD",
+            "description": "Teterboro Clearance",
+            "frequency_mhz": "128.05"
+        },
+        {
+            "id": "64473",
+            "airport_ref": "3920",
+            "airport_ident": "KTEB",
+            "type": "DEP",
+            "description": "New York Departures, alternate frequency",
+            "frequency_mhz": "119.2"
+        },
+        {
+            "id": "75208",
+            "airport_ref": "3920",
+            "airport_ident": "KTEB",
+            "type": "DEP",
+            "description": "New York Departures",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "64474",
+            "airport_ref": "3920",
+            "airport_ident": "KTEB",
+            "type": "GND",
+            "description": "Teterboro Ground",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "64475",
+            "airport_ref": "3920",
+            "airport_ident": "KTEB",
+            "type": "OPS",
+            "description": "ARPT OPS",
+            "frequency_mhz": "130.575"
+        },
+        {
+            "id": "64476",
+            "airport_ref": "3920",
+            "airport_ident": "KTEB",
+            "type": "RDO",
+            "description": "Millville Radio, alternate frequency",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "75207",
+            "airport_ref": "3920",
+            "airport_ident": "KTEB",
+            "type": "RDO",
+            "description": "Millville Radio",
+            "frequency_mhz": "122.65"
+        },
+        {
+            "id": "64477",
+            "airport_ref": "3920",
+            "airport_ident": "KTEB",
+            "type": "TWR",
+            "description": "Teterboro Tower",
+            "frequency_mhz": "119.5"
+        },
+        {
+            "id": "75209",
+            "airport_ref": "3920",
+            "airport_ident": "KTEB",
+            "type": "TWR",
+            "description": "Teterboro Tower, alternate frequency",
+            "frequency_mhz": "125.1"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

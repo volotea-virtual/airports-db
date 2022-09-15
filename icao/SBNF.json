@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "49681",
+            "airport_ref": "5947",
+            "airport_ident": "SBNF",
+            "type": "APP",
+            "description": "NAVEGANTES APP",
+            "frequency_mhz": "119.5"
+        },
+        {
+            "id": "49682",
+            "airport_ref": "5947",
+            "airport_ident": "SBNF",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.625"
+        },
+        {
+            "id": "49683",
+            "airport_ref": "5947",
+            "airport_ident": "SBNF",
+            "type": "TWR",
+            "description": "NAVEGANTES TWR",
+            "frequency_mhz": "118.2"
+        }
+    ],
     "country": {
         "id": "302791",
         "code": "BR",

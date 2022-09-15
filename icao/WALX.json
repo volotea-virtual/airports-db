@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": "148"
         }
     ],
+    "freqs": [
+        {
+            "id": "53599",
+            "airport_ref": "26766",
+            "airport_ident": "WALX",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "122.3"
+        }
+    ],
     "country": {
         "id": "302632",
         "code": "ID",

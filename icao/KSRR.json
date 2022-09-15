@@ -63,6 +63,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "65884",
+            "airport_ref": "3900",
+            "airport_ident": "KSRR",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "126.475"
+        },
+        {
+            "id": "65885",
+            "airport_ref": "3900",
+            "airport_ident": "KSRR",
+            "type": "CNTR",
+            "description": "ALBUQUERQUE CNTR",
+            "frequency_mhz": "132.65"
+        },
+        {
+            "id": "65886",
+            "airport_ref": "3900",
+            "airport_ident": "KSRR",
+            "type": "FSS",
+            "description": "ALBUQUERQUE RDO",
+            "frequency_mhz": "122.25"
+        },
+        {
+            "id": "65887",
+            "airport_ref": "3900",
+            "airport_ident": "KSRR",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

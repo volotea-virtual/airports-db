@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "55540",
+            "airport_ref": "4748",
+            "airport_ident": "MMRX",
+            "type": "APP",
+            "description": "REYNOSA APP/TWR",
+            "frequency_mhz": "118.8"
+        }
+    ],
     "country": {
         "id": "302747",
         "code": "MX",

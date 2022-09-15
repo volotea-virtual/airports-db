@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57819",
+            "airport_ref": "4565",
+            "airport_ident": "LTFC",
+            "type": "GND",
+            "description": "ISPARTA GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "57820",
+            "airport_ref": "4565",
+            "airport_ident": "LTFC",
+            "type": "TWR",
+            "description": "ISPARTA TWR",
+            "frequency_mhz": "118.65"
+        }
+    ],
     "country": {
         "id": "302667",
         "code": "TR",

@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "58559",
+            "airport_ref": "6476",
+            "airport_ident": "UKHH",
+            "type": "APP",
+            "description": "KHARKIV RADAR",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "58560",
+            "airport_ref": "6476",
+            "airport_ident": "UKHH",
+            "type": "GND",
+            "description": "KHARKIV GND",
+            "frequency_mhz": "119"
+        },
+        {
+            "id": "58561",
+            "airport_ref": "6476",
+            "airport_ident": "UKHH",
+            "type": "PMSV",
+            "description": "KHARKIV METEO",
+            "frequency_mhz": "127.6"
+        },
+        {
+            "id": "58562",
+            "airport_ref": "6476",
+            "airport_ident": "UKHH",
+            "type": "TWR",
+            "description": "KHARKIV TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
     "country": {
         "id": "302719",
         "code": "UA",

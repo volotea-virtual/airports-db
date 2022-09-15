@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52490",
+            "airport_ref": "4208",
+            "airport_ident": "LFRD",
+            "type": "ATIS",
+            "description": "DINARD ATIS",
+            "frequency_mhz": "124.575"
+        },
+        {
+            "id": "52491",
+            "airport_ref": "4208",
+            "airport_ident": "LFRD",
+            "type": "TWR",
+            "description": "DINARD TWR",
+            "frequency_mhz": "120.15"
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

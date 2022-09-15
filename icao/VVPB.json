@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "71758",
+            "airport_ref": "26702",
+            "airport_ident": "VVPB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.8"
+        }
+    ],
     "country": {
         "id": "302670",
         "code": "VN",

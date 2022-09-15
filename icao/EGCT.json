@@ -17,6 +17,16 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Tilstock_Airfield",
     "keywords": "RAF Whitchurch Heath, RAF Tilstock",
+    "freqs": [
+        {
+            "id": "71991",
+            "airport_ref": "29121",
+            "airport_ident": "EGCT",
+            "type": "A/G",
+            "description": "Tilstock A/G",
+            "frequency_mhz": "122.075"
+        }
+    ],
     "country": {
         "id": "302688",
         "code": "GB",

@@ -63,6 +63,80 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56561",
+            "airport_ref": "6384",
+            "airport_ident": "TJSJ",
+            "type": "APP",
+            "description": "SAN JUAN APP",
+            "frequency_mhz": "119.4"
+        },
+        {
+            "id": "56562",
+            "airport_ref": "6384",
+            "airport_ident": "TJSJ",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "56563",
+            "airport_ref": "6384",
+            "airport_ident": "TJSJ",
+            "type": "CLD",
+            "description": "SAN JUAN CLNC DEL",
+            "frequency_mhz": "126.4"
+        },
+        {
+            "id": "56564",
+            "airport_ref": "6384",
+            "airport_ident": "TJSJ",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "56565",
+            "airport_ref": "6384",
+            "airport_ident": "TJSJ",
+            "type": "OPS",
+            "description": "CORONET OAK OPS",
+            "frequency_mhz": "25.28"
+        },
+        {
+            "id": "56566",
+            "airport_ref": "6384",
+            "airport_ident": "TJSJ",
+            "type": "POST",
+            "description": "PRANG COMD POST",
+            "frequency_mhz": "139.9"
+        },
+        {
+            "id": "56567",
+            "airport_ref": "6384",
+            "airport_ident": "TJSJ",
+            "type": "RDO",
+            "description": "SAN JUAN RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "56568",
+            "airport_ref": "6384",
+            "airport_ident": "TJSJ",
+            "type": "TWR",
+            "description": "SAN JUAN TWR",
+            "frequency_mhz": "132.05"
+        },
+        {
+            "id": "56569",
+            "airport_ref": "6384",
+            "airport_ident": "TJSJ",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
     "country": {
         "id": "302751",
         "code": "PR",

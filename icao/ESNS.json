@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57498",
+            "airport_ref": "2687",
+            "airport_ident": "ESNS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.05"
+        }
+    ],
     "country": {
         "id": "302715",
         "code": "SE",

@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "72197",
+            "airport_ref": "27367",
+            "airport_ident": "YBEE",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "134.4"
+        },
+        {
+            "id": "72198",
+            "airport_ref": "27367",
+            "airport_ident": "YBEE",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "132.1"
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",

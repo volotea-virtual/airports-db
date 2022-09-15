@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53781",
+            "airport_ref": "26772",
+            "airport_ident": "WAEW",
+            "type": "A/G",
+            "description": "INFO",
+            "frequency_mhz": "122.2"
+        }
+    ],
     "country": {
         "id": "302632",
         "code": "ID",

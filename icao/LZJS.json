@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "317757",
+            "airport_ref": "317756",
+            "airport_ident": "LZJS",
+            "type": "Info",
+            "description": "Jasná Prevadzka",
+            "frequency_mhz": "123.4"
+        }
+    ],
     "country": {
         "id": "302717",
         "code": "SK",

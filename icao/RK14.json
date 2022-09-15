@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "55056",
+            "airport_ref": "3799",
+            "airport_ident": "RK14",
+            "type": "FCC",
+            "description": "FCC NORTH",
+            "frequency_mhz": "35"
+        },
+        {
+            "id": "55057",
+            "airport_ref": "3799",
+            "airport_ident": "RK14",
+            "type": "TWR",
+            "description": "SEUNG JIN TWR",
+            "frequency_mhz": "38"
+        }
+    ],
     "country": {
         "id": "302643",
         "code": "KR",

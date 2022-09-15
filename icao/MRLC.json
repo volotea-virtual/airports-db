@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51583",
+            "airport_ref": "4807",
+            "airport_ident": "MRLC",
+            "type": "RDO",
+            "description": "COCO RDO",
+            "frequency_mhz": "126.8"
+        }
+    ],
     "country": {
         "id": "302731",
         "code": "CR",

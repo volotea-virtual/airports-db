@@ -41,6 +41,56 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "341318",
+            "airport_ref": "27243",
+            "airport_ident": "ZYTX",
+            "type": "APPR",
+            "description": "taoxian approach low fan",
+            "frequency_mhz": "119.825"
+        },
+        {
+            "id": "51243",
+            "airport_ref": "27243",
+            "airport_ident": "ZYTX",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.45"
+        },
+        {
+            "id": "354818",
+            "airport_ref": "27243",
+            "airport_ident": "ZYTX",
+            "type": "DEL",
+            "description": "Taoxian Delivery",
+            "frequency_mhz": "121.675"
+        },
+        {
+            "id": "354820",
+            "airport_ref": "27243",
+            "airport_ident": "ZYTX",
+            "type": "GND",
+            "description": "Taoxian Ground",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "354819",
+            "airport_ref": "27243",
+            "airport_ident": "ZYTX",
+            "type": "GND",
+            "description": "Taoxian Apron",
+            "frequency_mhz": "121.95"
+        },
+        {
+            "id": "51244",
+            "airport_ref": "27243",
+            "airport_ident": "ZYTX",
+            "type": "TWR",
+            "description": "SHENYANG TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
     "country": {
         "id": "302627",
         "code": "CN",

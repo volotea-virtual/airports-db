@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "73209",
+            "airport_ref": "38390",
+            "airport_ident": "YHSB",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "119.8"
+        },
+        {
+            "id": "73210",
+            "airport_ref": "38390",
+            "airport_ident": "YHSB",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "134.2"
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",

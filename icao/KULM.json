@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "60233",
+            "airport_ref": "21294",
+            "airport_ident": "KULM",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.325"
+        },
+        {
+            "id": "60234",
+            "airport_ref": "21294",
+            "airport_ident": "KULM",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "127.1"
+        },
+        {
+            "id": "60235",
+            "airport_ref": "21294",
+            "airport_ident": "KULM",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

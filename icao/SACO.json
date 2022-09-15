@@ -63,6 +63,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "48378",
+            "airport_ref": "5773",
+            "airport_ident": "SACO",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "114.5"
+        },
+        {
+            "id": "48379",
+            "airport_ref": "5773",
+            "airport_ident": "SACO",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.75"
+        },
+        {
+            "id": "48380",
+            "airport_ref": "5773",
+            "airport_ident": "SACO",
+            "type": "MISC",
+            "description": "METAR NOTAM",
+            "frequency_mhz": "342.55"
+        },
+        {
+            "id": "48381",
+            "airport_ref": "5773",
+            "airport_ident": "SACO",
+            "type": "TWR",
+            "description": "CORDOBA TWR/APP",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302789",
         "code": "AR",

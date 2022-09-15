@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53892",
+            "airport_ref": "26627",
+            "airport_ident": "VOTP",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119"
+        }
+    ],
     "country": {
         "id": "302634",
         "code": "IN",

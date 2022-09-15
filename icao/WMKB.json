@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "55594",
+            "airport_ref": "26867",
+            "airport_ident": "WMKB",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "55595",
+            "airport_ref": "26867",
+            "airport_ident": "WMKB",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "23.01"
+        },
+        {
+            "id": "55596",
+            "airport_ref": "26867",
+            "airport_ident": "WMKB",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "128.5"
+        },
+        {
+            "id": "55597",
+            "airport_ref": "26867",
+            "airport_ident": "WMKB",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "134.6"
+        },
+        {
+            "id": "55598",
+            "airport_ref": "26867",
+            "airport_ident": "WMKB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302653",
         "code": "MY",

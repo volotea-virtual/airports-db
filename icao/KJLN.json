@@ -85,6 +85,64 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "64727",
+            "airport_ref": "3623",
+            "airport_ident": "KJLN",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "120.85"
+        },
+        {
+            "id": "64728",
+            "airport_ref": "3623",
+            "airport_ident": "KJLN",
+            "type": "CNTR",
+            "description": "KANSAS CITY CNTR",
+            "frequency_mhz": "128.6"
+        },
+        {
+            "id": "64729",
+            "airport_ref": "3623",
+            "airport_ident": "KJLN",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "119.8"
+        },
+        {
+            "id": "64730",
+            "airport_ref": "3623",
+            "airport_ident": "KJLN",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.6"
+        },
+        {
+            "id": "64731",
+            "airport_ref": "3623",
+            "airport_ident": "KJLN",
+            "type": "RDO",
+            "description": "COLUMBIA RDO",
+            "frequency_mhz": "122.6"
+        },
+        {
+            "id": "64732",
+            "airport_ref": "3623",
+            "airport_ident": "KJLN",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.8"
+        },
+        {
+            "id": "64733",
+            "airport_ref": "3623",
+            "airport_ident": "KJLN",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

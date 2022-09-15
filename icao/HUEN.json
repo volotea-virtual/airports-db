@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "58087",
+            "airport_ref": "3263",
+            "airport_ident": "HUEN",
+            "type": "APP",
+            "description": "ENTEBBE RADAR CONTROL",
+            "frequency_mhz": "126.6"
+        },
+        {
+            "id": "300802",
+            "airport_ref": "3263",
+            "airport_ident": "HUEN",
+            "type": "EBB",
+            "description": "EBB AREA CONTROL",
+            "frequency_mhz": "128.5"
+        },
+        {
+            "id": "58088",
+            "airport_ref": "3263",
+            "airport_ident": "HUEN",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
     "country": {
         "id": "302608",
         "code": "UG",

@@ -63,6 +63,72 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "317966",
+            "airport_ref": "4518",
+            "airport_ident": "LTAN",
+            "type": "APP",
+            "description": "Emergency",
+            "frequency_mhz": "121.5"
+        },
+        {
+            "id": "57870",
+            "airport_ref": "4518",
+            "airport_ident": "LTAN",
+            "type": "APP",
+            "description": "Main APP",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "317967",
+            "airport_ref": "4518",
+            "airport_ident": "LTAN",
+            "type": "APP",
+            "description": "Emergency",
+            "frequency_mhz": "243"
+        },
+        {
+            "id": "57871",
+            "airport_ref": "4518",
+            "airport_ident": "LTAN",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "233.4"
+        },
+        {
+            "id": "57872",
+            "airport_ref": "4518",
+            "airport_ident": "LTAN",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "317527",
+            "airport_ref": "4518",
+            "airport_ident": "LTAN",
+            "type": "HAVAS",
+            "description": "Handling Services",
+            "frequency_mhz": "131.425"
+        },
+        {
+            "id": "57873",
+            "airport_ref": "4518",
+            "airport_ident": "LTAN",
+            "type": "TWR",
+            "description": "Main TWR",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "317968",
+            "airport_ref": "4518",
+            "airport_ident": "LTAN",
+            "type": "TWR",
+            "description": "Sub-Tower",
+            "frequency_mhz": "257.8"
+        }
+    ],
     "country": {
         "id": "302667",
         "code": "TR",

@@ -63,6 +63,64 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "54364",
+            "airport_ref": "5293",
+            "airport_ident": "ORKK",
+            "type": "ACC",
+            "description": "ACC",
+            "frequency_mhz": "125.3"
+        },
+        {
+            "id": "54365",
+            "airport_ref": "5293",
+            "airport_ident": "ORKK",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "129.75"
+        },
+        {
+            "id": "54366",
+            "airport_ref": "5293",
+            "airport_ident": "ORKK",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "127.375"
+        },
+        {
+            "id": "54367",
+            "airport_ref": "5293",
+            "airport_ident": "ORKK",
+            "type": "PMSV",
+            "description": "METRO",
+            "frequency_mhz": "29.83"
+        },
+        {
+            "id": "54368",
+            "airport_ref": "5293",
+            "airport_ident": "ORKK",
+            "type": "POST",
+            "description": "COMD POST",
+            "frequency_mhz": "128.1"
+        },
+        {
+            "id": "54369",
+            "airport_ref": "5293",
+            "airport_ident": "ORKK",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "119.25"
+        },
+        {
+            "id": "54370",
+            "airport_ref": "5293",
+            "airport_ident": "ORKK",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "125.55"
+        }
+    ],
     "country": {
         "id": "302636",
         "code": "IQ",

@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "50322",
+            "airport_ref": "1654",
+            "airport_ident": "CYAG",
+            "type": "AWOS",
+            "description": "AWOS",
+            "frequency_mhz": "120"
+        },
+        {
+            "id": "50323",
+            "airport_ref": "1654",
+            "airport_ident": "CYAG",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "120.9"
+        },
+        {
+            "id": "50324",
+            "airport_ref": "1654",
+            "airport_ident": "CYAG",
+            "type": "UNIC",
+            "description": "ATF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

@@ -41,6 +41,104 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "64193",
+            "airport_ref": "3580",
+            "airport_ident": "KHIF",
+            "type": "APP",
+            "description": "SALT LAKE CITY APP",
+            "frequency_mhz": "25.787"
+        },
+        {
+            "id": "64194",
+            "airport_ref": "3580",
+            "airport_ident": "KHIF",
+            "type": "APP",
+            "description": "SALT LAKE CITY APP",
+            "frequency_mhz": "31.925"
+        },
+        {
+            "id": "64192",
+            "airport_ref": "3580",
+            "airport_ident": "KHIF",
+            "type": "APP",
+            "description": "SALT LAKE CITY APP",
+            "frequency_mhz": "121.1"
+        },
+        {
+            "id": "64195",
+            "airport_ref": "3580",
+            "airport_ident": "KHIF",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "134.925"
+        },
+        {
+            "id": "64196",
+            "airport_ref": "3580",
+            "airport_ident": "KHIF",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "124.1"
+        },
+        {
+            "id": "64197",
+            "airport_ref": "3580",
+            "airport_ident": "KHIF",
+            "type": "DEP",
+            "description": "SALT LAKE CITY DEP",
+            "frequency_mhz": "121.1"
+        },
+        {
+            "id": "64198",
+            "airport_ref": "3580",
+            "airport_ident": "KHIF",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.6"
+        },
+        {
+            "id": "64199",
+            "airport_ref": "3580",
+            "airport_ident": "KHIF",
+            "type": "OPS",
+            "description": "419 OPS",
+            "frequency_mhz": "25.21"
+        },
+        {
+            "id": "64200",
+            "airport_ref": "3580",
+            "airport_ident": "KHIF",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "34.23"
+        },
+        {
+            "id": "64201",
+            "airport_ref": "3580",
+            "airport_ident": "KHIF",
+            "type": "POST",
+            "description": "COMD POST",
+            "frequency_mhz": "38.13"
+        },
+        {
+            "id": "64202",
+            "airport_ref": "3580",
+            "airport_ident": "KHIF",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "139.3"
+        },
+        {
+            "id": "64203",
+            "airport_ref": "3580",
+            "airport_ident": "KHIF",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "127.15"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

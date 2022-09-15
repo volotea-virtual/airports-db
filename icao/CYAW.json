@@ -85,6 +85,64 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "50198",
+            "airport_ref": "1663",
+            "airport_ident": "CYAW",
+            "type": "A/D",
+            "description": "HALIFAX APP/DEP",
+            "frequency_mhz": "119.2"
+        },
+        {
+            "id": "50200",
+            "airport_ref": "1663",
+            "airport_ident": "CYAW",
+            "type": "ATF",
+            "description": "ATF",
+            "frequency_mhz": "126.2"
+        },
+        {
+            "id": "50199",
+            "airport_ref": "1663",
+            "airport_ident": "CYAW",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "129.175"
+        },
+        {
+            "id": "50201",
+            "airport_ref": "1663",
+            "airport_ident": "CYAW",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "50202",
+            "airport_ref": "1663",
+            "airport_ident": "CYAW",
+            "type": "OPS",
+            "description": "OPS",
+            "frequency_mhz": "30.88"
+        },
+        {
+            "id": "50203",
+            "airport_ref": "1663",
+            "airport_ident": "CYAW",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "34.46"
+        },
+        {
+            "id": "50204",
+            "airport_ref": "1663",
+            "airport_ident": "CYAW",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

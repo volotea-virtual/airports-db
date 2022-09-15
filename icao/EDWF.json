@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53269",
+            "airport_ref": "2289",
+            "airport_ident": "EDWF",
+            "type": "AFIS",
+            "description": "BREMEN INFO",
+            "frequency_mhz": "125.1"
+        },
+        {
+            "id": "53270",
+            "airport_ref": "2289",
+            "airport_ident": "EDWF",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "130.775"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

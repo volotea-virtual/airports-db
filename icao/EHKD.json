@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": "804"
         }
     ],
+    "freqs": [
+        {
+            "id": "55749",
+            "airport_ref": "2521",
+            "airport_ident": "EHKD",
+            "type": "APP",
+            "description": "APP/ARR",
+            "frequency_mhz": "124.23"
+        },
+        {
+            "id": "352517",
+            "airport_ref": "2521",
+            "airport_ident": "EHKD",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "133.01"
+        },
+        {
+            "id": "55750",
+            "airport_ref": "2521",
+            "airport_ident": "EHKD",
+            "type": "FIS",
+            "description": "Dutch MIL Info",
+            "frequency_mhz": "132.35"
+        },
+        {
+            "id": "55751",
+            "airport_ref": "2521",
+            "airport_ident": "EHKD",
+            "type": "GND",
+            "description": "De Kooy Ground",
+            "frequency_mhz": "121.73"
+        },
+        {
+            "id": "55752",
+            "airport_ref": "2521",
+            "airport_ident": "EHKD",
+            "type": "TWR",
+            "description": "De Kooy Tower",
+            "frequency_mhz": "120.13"
+        }
+    ],
     "country": {
         "id": "302708",
         "code": "NL",

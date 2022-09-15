@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53782",
+            "airport_ref": "26837",
+            "airport_ident": "WIME",
+            "type": "A/G",
+            "description": "INFO",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302632",
         "code": "ID",

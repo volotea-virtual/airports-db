@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51157",
+            "airport_ref": "27219",
+            "airport_ident": "ZSJN",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.05"
+        },
+        {
+            "id": "51158",
+            "airport_ref": "27219",
+            "airport_ident": "ZSJN",
+            "type": "TWR",
+            "description": "JINAN TWR",
+            "frequency_mhz": "118.55"
+        }
+    ],
     "country": {
         "id": "302627",
         "code": "CN",

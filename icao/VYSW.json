@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "49496",
+            "airport_ref": "26740",
+            "airport_ident": "VYSW",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "49497",
+            "airport_ref": "26740",
+            "airport_ident": "VYSW",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
     "country": {
         "id": "302649",
         "code": "MM",

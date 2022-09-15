@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "64315",
+            "airport_ref": "20737",
+            "airport_ident": "KOKZ",
+            "type": "A/D",
+            "description": "ATLANTA APP/DEP",
+            "frequency_mhz": "119.6"
+        },
+        {
+            "id": "64316",
+            "airport_ref": "20737",
+            "airport_ident": "KOKZ",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "120.575"
+        },
+        {
+            "id": "64317",
+            "airport_ref": "20737",
+            "airport_ident": "KOKZ",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

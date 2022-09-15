@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "48273",
+            "airport_ref": "2086",
+            "airport_ident": "DAUZ",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "889.4"
+        },
+        {
+            "id": "48274",
+            "airport_ref": "2086",
+            "airport_ident": "DAUZ",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.7"
+        }
+    ],
     "country": {
         "id": "302568",
         "code": "DZ",

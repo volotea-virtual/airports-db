@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57271",
+            "airport_ref": "3998",
+            "airport_ident": "LEAM",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "118.35"
+        },
+        {
+            "id": "57272",
+            "airport_ref": "3998",
+            "airport_ident": "LEAM",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "57273",
+            "airport_ref": "3998",
+            "airport_ident": "LEAM",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.35"
+        }
+    ],
     "country": {
         "id": "302684",
         "code": "ES",

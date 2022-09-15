@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56749",
+            "airport_ref": "6515",
+            "airport_ident": "URMN",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "126.9"
+        },
+        {
+            "id": "56750",
+            "airport_ref": "6515",
+            "airport_ident": "URMN",
+            "type": "RDR",
+            "description": "ASR",
+            "frequency_mhz": "126.9"
+        },
+        {
+            "id": "56751",
+            "airport_ref": "6515",
+            "airport_ident": "URMN",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302714",
         "code": "RU",

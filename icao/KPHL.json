@@ -107,6 +107,72 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "68158",
+            "airport_ref": "3771",
+            "airport_ident": "KPHL",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "123.8"
+        },
+        {
+            "id": "68159",
+            "airport_ref": "3771",
+            "airport_ident": "KPHL",
+            "type": "ARR",
+            "description": "PRM",
+            "frequency_mhz": "120.425"
+        },
+        {
+            "id": "68160",
+            "airport_ref": "3771",
+            "airport_ident": "KPHL",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "133.4"
+        },
+        {
+            "id": "68161",
+            "airport_ref": "3771",
+            "airport_ident": "KPHL",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "118.85"
+        },
+        {
+            "id": "68162",
+            "airport_ref": "3771",
+            "airport_ident": "KPHL",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "119.75"
+        },
+        {
+            "id": "68163",
+            "airport_ref": "3771",
+            "airport_ident": "KPHL",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "68164",
+            "airport_ref": "3771",
+            "airport_ident": "KPHL",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.5"
+        },
+        {
+            "id": "68165",
+            "airport_ref": "3771",
+            "airport_ident": "KPHL",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

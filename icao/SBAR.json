@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "49654",
+            "airport_ref": "5862",
+            "airport_ident": "SBAR",
+            "type": "APP",
+            "description": "ARACAJU APP",
+            "frequency_mhz": "120.3"
+        }
+    ],
     "country": {
         "id": "302791",
         "code": "BR",

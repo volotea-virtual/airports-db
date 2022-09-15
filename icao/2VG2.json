@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "69995",
+            "airport_ref": "9835",
+            "airport_ident": "2VG2",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.725"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

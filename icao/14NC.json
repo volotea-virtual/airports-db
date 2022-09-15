@@ -63,6 +63,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "70367",
+            "airport_ref": "7898",
+            "airport_ident": "14NC",
+            "type": "A/D",
+            "description": "CHERRY POINT APP",
+            "frequency_mhz": "119.35"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

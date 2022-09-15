@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "63296",
+            "airport_ref": "20768",
+            "airport_ident": "KOSX",
+            "type": "CNTR",
+            "description": "MEMPHIS CNTR",
+            "frequency_mhz": "135.75"
+        },
+        {
+            "id": "63297",
+            "airport_ref": "20768",
+            "airport_ident": "KOSX",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

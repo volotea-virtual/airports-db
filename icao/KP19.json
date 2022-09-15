@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": "208"
         }
     ],
+    "freqs": [
+        {
+            "id": "69970",
+            "airport_ref": "20798",
+            "airport_ident": "KP19",
+            "type": "A/D",
+            "description": "PHOENIX APP/DEP",
+            "frequency_mhz": "123.7"
+        },
+        {
+            "id": "69971",
+            "airport_ref": "20798",
+            "airport_ident": "KP19",
+            "type": "UNIC",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

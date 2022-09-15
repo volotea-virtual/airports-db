@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51852",
+            "airport_ref": "3182",
+            "airport_ident": "HEBS",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "127.1"
+        },
+        {
+            "id": "51853",
+            "airport_ref": "3182",
+            "airport_ident": "HEBS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "127.1"
+        }
+    ],
     "country": {
         "id": "302569",
         "code": "EG",

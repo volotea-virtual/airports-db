@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "71233",
+            "airport_ref": "20834",
+            "airport_ident": "KPIM",
+            "type": "A/D",
+            "description": "ATLANTA APP/DEP",
+            "frequency_mhz": "125.5"
+        },
+        {
+            "id": "71234",
+            "airport_ref": "20834",
+            "airport_ident": "KPIM",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "120.45"
+        },
+        {
+            "id": "71235",
+            "airport_ref": "20834",
+            "airport_ident": "KPIM",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

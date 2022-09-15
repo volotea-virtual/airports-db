@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "54070",
+            "airport_ref": "5149",
+            "airport_ident": "OICC",
+            "type": "ATIS",
+            "description": "KERMANSHAH INFO",
+            "frequency_mhz": "126.8"
+        },
+        {
+            "id": "54071",
+            "airport_ref": "5149",
+            "airport_ident": "OICC",
+            "type": "TWR",
+            "description": "KERMANSHAH TWR",
+            "frequency_mhz": "122.45"
+        }
+    ],
     "country": {
         "id": "302637",
         "code": "IR",

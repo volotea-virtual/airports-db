@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "50671",
+            "airport_ref": "1839",
+            "airport_ident": "CYOS",
+            "type": "CNTR",
+            "description": "TORONTO CNTR",
+            "frequency_mhz": "132.575"
+        },
+        {
+            "id": "50672",
+            "airport_ref": "1839",
+            "airport_ident": "CYOS",
+            "type": "UNIC",
+            "description": "ATF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

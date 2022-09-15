@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "58972",
+            "airport_ref": "16593",
+            "airport_ident": "CA62",
+            "type": "AAS",
+            "description": "ROBERTS ADVSY SVC",
+            "frequency_mhz": "41.5"
+        },
+        {
+            "id": "58973",
+            "airport_ref": "16593",
+            "airport_ident": "CA62",
+            "type": "MISC",
+            "description": "RANGE CON/MEDEVAC",
+            "frequency_mhz": "38.9"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

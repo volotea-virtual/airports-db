@@ -17,6 +17,32 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "75204",
+            "airport_ref": "44673",
+            "airport_ident": "NZJI",
+            "type": "ATF",
+            "description": "",
+            "frequency_mhz": "119.4"
+        },
+        {
+            "id": "75206",
+            "airport_ref": "44673",
+            "airport_ident": "NZJI",
+            "type": "MISC",
+            "description": "Christchurch Information",
+            "frequency_mhz": "118.5"
+        },
+        {
+            "id": "75205",
+            "airport_ref": "44673",
+            "airport_ident": "NZJI",
+            "type": "MISC",
+            "description": "Christchurch Information",
+            "frequency_mhz": "124.1"
+        }
+    ],
     "country": {
         "id": "302776",
         "code": "NZ",

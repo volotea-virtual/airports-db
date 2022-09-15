@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": "250"
         }
     ],
+    "freqs": [
+        {
+            "id": "55149",
+            "airport_ref": "5223",
+            "airport_ident": "OLKA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.5"
+        }
+    ],
     "country": {
         "id": "302647",
         "code": "LB",

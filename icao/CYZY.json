@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "50957",
+            "airport_ref": "2004",
+            "airport_ident": "CYZY",
+            "type": "RCO",
+            "description": "PACIFIC RDO",
+            "frequency_mhz": "126.7"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

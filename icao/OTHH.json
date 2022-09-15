@@ -63,6 +63,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "313911",
+            "airport_ref": "44686",
+            "airport_ident": "OTHH",
+            "type": "ATIS",
+            "description": "",
+            "frequency_mhz": "128.85"
+        },
+        {
+            "id": "313912",
+            "airport_ref": "44686",
+            "airport_ident": "OTHH",
+            "type": "D-ATIS",
+            "description": "",
+            "frequency_mhz": "126.85"
+        },
+        {
+            "id": "312713",
+            "airport_ref": "44686",
+            "airport_ident": "OTHH",
+            "type": "DOHA APP RADAR",
+            "description": "",
+            "frequency_mhz": "121.1"
+        },
+        {
+            "id": "312714",
+            "airport_ref": "44686",
+            "airport_ident": "OTHH",
+            "type": "HAMAD TERM INFO",
+            "description": "",
+            "frequency_mhz": "126.85"
+        },
+        {
+            "id": "312715",
+            "airport_ref": "44686",
+            "airport_ident": "OTHH",
+            "type": "HAMAD Tower",
+            "description": "",
+            "frequency_mhz": "118.525"
+        }
+    ],
     "country": {
         "id": "302659",
         "code": "QA",

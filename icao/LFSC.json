@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52636",
+            "airport_ref": "4227",
+            "airport_ident": "LFSC",
+            "type": "APP",
+            "description": "COLMAR APP",
+            "frequency_mhz": "36.23"
+        },
+        {
+            "id": "52635",
+            "airport_ref": "4227",
+            "airport_ident": "LFSC",
+            "type": "APP",
+            "description": "COLMAR APP",
+            "frequency_mhz": "118.95"
+        },
+        {
+            "id": "52637",
+            "airport_ref": "4227",
+            "airport_ident": "LFSC",
+            "type": "TWR",
+            "description": "COLMAR TWR",
+            "frequency_mhz": "122.1"
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "69540",
+            "airport_ref": "20474",
+            "airport_ident": "KMBG",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "121.425"
+        },
+        {
+            "id": "69541",
+            "airport_ref": "20474",
+            "airport_ident": "KMBG",
+            "type": "RDO",
+            "description": "HURON RDO",
+            "frequency_mhz": "122.35"
+        },
+        {
+            "id": "69542",
+            "airport_ref": "20474",
+            "airport_ident": "KMBG",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

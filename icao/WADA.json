@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53767",
+            "airport_ref": "26749",
+            "airport_ident": "WADA",
+            "type": "APP",
+            "description": "BALI APP",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "53768",
+            "airport_ref": "26749",
+            "airport_ident": "WADA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.2"
+        }
+    ],
     "country": {
         "id": "302632",
         "code": "ID",

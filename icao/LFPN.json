@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52224",
+            "airport_ref": "4188",
+            "airport_ident": "LFPN",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.475"
+        },
+        {
+            "id": "52225",
+            "airport_ref": "4188",
+            "airport_ident": "LFPN",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.85"
+        },
+        {
+            "id": "52226",
+            "airport_ref": "4188",
+            "airport_ident": "LFPN",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.3"
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

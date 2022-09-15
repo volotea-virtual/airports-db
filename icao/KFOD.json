@@ -63,6 +63,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "70479",
+            "airport_ref": "3536",
+            "airport_ident": "KFOD",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.775"
+        },
+        {
+            "id": "70480",
+            "airport_ref": "3536",
+            "airport_ident": "KFOD",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "134"
+        },
+        {
+            "id": "70481",
+            "airport_ref": "3536",
+            "airport_ident": "KFOD",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "70482",
+            "airport_ref": "3536",
+            "airport_ident": "KFOD",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

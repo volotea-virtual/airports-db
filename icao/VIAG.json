@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53920",
+            "airport_ref": "26537",
+            "airport_ident": "VIAG",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "53921",
+            "airport_ref": "26537",
+            "airport_ident": "VIAG",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "131.4"
+        }
+    ],
     "country": {
         "id": "302634",
         "code": "IN",

@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "55349",
+            "airport_ref": "5494",
+            "airport_ident": "PMDY",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.325"
+        },
+        {
+            "id": "55350",
+            "airport_ref": "5494",
+            "airport_ident": "PMDY",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        },
+        {
+            "id": "55351",
+            "airport_ref": "5494",
+            "airport_ident": "PMDY",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "126.2"
+        }
+    ],
     "country": {
         "id": "302785",
         "code": "UM",

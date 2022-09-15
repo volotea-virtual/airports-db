@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": "362"
         }
     ],
+    "freqs": [
+        {
+            "id": "55871",
+            "airport_ref": "2580",
+            "airport_ident": "ENHK",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "119.9"
+        }
+    ],
     "country": {
         "id": "302709",
         "code": "NO",

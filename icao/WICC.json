@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53677",
+            "airport_ref": "26824",
+            "airport_ident": "WICC",
+            "type": "APP",
+            "description": "BANDUNG APP",
+            "frequency_mhz": "121"
+        },
+        {
+            "id": "53678",
+            "airport_ref": "26824",
+            "airport_ident": "WICC",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.65"
+        }
+    ],
     "country": {
         "id": "302632",
         "code": "ID",

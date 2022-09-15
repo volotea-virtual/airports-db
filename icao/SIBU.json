@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "317463",
+            "airport_ref": "223",
+            "airport_ident": "SIBU",
+            "type": "Free",
+            "description": "",
+            "frequency_mhz": "123.45"
+        }
+    ],
     "country": {
         "id": "302791",
         "code": "BR",

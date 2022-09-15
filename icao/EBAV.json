@@ -17,6 +17,16 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Avernas-le-Bauduin_Airfield",
     "keywords": "Aéroclub de Hesbaye",
+    "freqs": [
+        {
+            "id": "322464",
+            "airport_ref": "30963",
+            "airport_ident": "EBAV",
+            "type": "Info",
+            "description": "Avernas Radio",
+            "frequency_mhz": "129.975"
+        }
+    ],
     "country": {
         "id": "302676",
         "code": "BE",

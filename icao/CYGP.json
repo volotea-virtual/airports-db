@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "50029",
+            "airport_ref": "1747",
+            "airport_ident": "CYGP",
+            "type": "RCO",
+            "description": "QUEBEC RDO",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "50030",
+            "airport_ref": "1747",
+            "airport_ident": "CYGP",
+            "type": "RDO",
+            "description": "MF QUEBEC RDO",
+            "frequency_mhz": "122.3"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

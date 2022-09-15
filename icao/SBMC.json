@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "49724",
+            "airport_ref": "5935",
+            "airport_ident": "SBMC",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "130.3"
+        }
+    ],
     "country": {
         "id": "302791",
         "code": "BR",

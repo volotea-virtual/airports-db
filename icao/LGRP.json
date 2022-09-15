@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53346",
+            "airport_ref": "4279",
+            "airport_ident": "LGRP",
+            "type": "A/G",
+            "description": "RDO",
+            "frequency_mhz": "563.7"
+        },
+        {
+            "id": "53347",
+            "airport_ref": "4279",
+            "airport_ident": "LGRP",
+            "type": "APP",
+            "description": "RODOS APP",
+            "frequency_mhz": "118.25"
+        },
+        {
+            "id": "53348",
+            "airport_ref": "4279",
+            "airport_ident": "LGRP",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.35"
+        },
+        {
+            "id": "53349",
+            "airport_ref": "4279",
+            "airport_ident": "LGRP",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "53350",
+            "airport_ref": "4279",
+            "airport_ident": "LGRP",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.2"
+        }
+    ],
     "country": {
         "id": "302691",
         "code": "GR",

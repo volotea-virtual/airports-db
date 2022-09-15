@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57203",
+            "airport_ref": "3093",
+            "airport_ident": "GEML",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "57204",
+            "airport_ref": "3093",
+            "airport_ident": "GEML",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.5"
+        }
+    ],
     "country": {
         "id": "302684",
         "code": "ES",

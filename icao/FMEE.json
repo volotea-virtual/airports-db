@@ -63,6 +63,48 @@
             "he_displaced_threshold_ft": "1165"
         }
     ],
+    "freqs": [
+        {
+            "id": "56387",
+            "airport_ref": "2905",
+            "airport_ident": "FMEE",
+            "type": "A/G",
+            "description": "GILLOT RDO",
+            "frequency_mhz": "347.6"
+        },
+        {
+            "id": "56388",
+            "airport_ref": "2905",
+            "airport_ident": "FMEE",
+            "type": "APP",
+            "description": "GILLOT APP",
+            "frequency_mhz": "119.4"
+        },
+        {
+            "id": "56389",
+            "airport_ref": "2905",
+            "airport_ident": "FMEE",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.8"
+        },
+        {
+            "id": "56390",
+            "airport_ref": "2905",
+            "airport_ident": "FMEE",
+            "type": "GND",
+            "description": "GILLOT GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "56391",
+            "airport_ref": "2905",
+            "airport_ident": "FMEE",
+            "type": "TWR",
+            "description": "GILLOT TWR",
+            "frequency_mhz": "118.4"
+        }
+    ],
     "country": {
         "id": "302594",
         "code": "RE",

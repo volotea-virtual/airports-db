@@ -63,6 +63,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57087",
+            "airport_ref": "2796",
+            "airport_ident": "FAKR",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "122"
+        }
+    ],
     "country": {
         "id": "302610",
         "code": "ZA",

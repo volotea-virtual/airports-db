@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52392",
+            "airport_ref": "4073",
+            "airport_ident": "LFBT",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "120.3"
+        },
+        {
+            "id": "52393",
+            "airport_ref": "4073",
+            "airport_ident": "LFBT",
+            "type": "APP",
+            "description": "PYRENEES APP",
+            "frequency_mhz": "121.175"
+        },
+        {
+            "id": "52394",
+            "airport_ref": "4073",
+            "airport_ident": "LFBT",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "125.95"
+        },
+        {
+            "id": "52395",
+            "airport_ref": "4073",
+            "airport_ident": "LFBT",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "52396",
+            "airport_ref": "4073",
+            "airport_ident": "LFBT",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.05"
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

@@ -63,6 +63,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "68324",
+            "airport_ref": "3731",
+            "airport_ident": "KNJK",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "26.927"
+        },
+        {
+            "id": "68325",
+            "airport_ref": "3731",
+            "airport_ident": "KNJK",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "34.02"
+        },
+        {
+            "id": "68326",
+            "airport_ref": "3731",
+            "airport_ident": "KNJK",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "68327",
+            "airport_ref": "3731",
+            "airport_ident": "KNJK",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "34.83"
+        },
+        {
+            "id": "68328",
+            "airport_ref": "3731",
+            "airport_ident": "KNJK",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.1"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

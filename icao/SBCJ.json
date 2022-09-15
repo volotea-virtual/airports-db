@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "49655",
+            "airport_ref": "5886",
+            "airport_ident": "SBCJ",
+            "type": "AFIS",
+            "description": "RDO",
+            "frequency_mhz": "131.7"
+        }
+    ],
     "country": {
         "id": "302791",
         "code": "BR",

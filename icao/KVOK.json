@@ -41,6 +41,64 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "60130",
+            "airport_ref": "3947",
+            "airport_ident": "KVOK",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "135.25"
+        },
+        {
+            "id": "60131",
+            "airport_ref": "3947",
+            "airport_ident": "KVOK",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "127.5"
+        },
+        {
+            "id": "60132",
+            "airport_ref": "3947",
+            "airport_ident": "KVOK",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "60133",
+            "airport_ref": "3947",
+            "airport_ident": "KVOK",
+            "type": "MISC",
+            "description": "HARDWOOD RANGE",
+            "frequency_mhz": "132.025"
+        },
+        {
+            "id": "60134",
+            "airport_ref": "3947",
+            "airport_ident": "KVOK",
+            "type": "OPS",
+            "description": "SHEBOYGAN RANGE",
+            "frequency_mhz": "26.04"
+        },
+        {
+            "id": "60135",
+            "airport_ref": "3947",
+            "airport_ident": "KVOK",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "37.22"
+        },
+        {
+            "id": "60136",
+            "airport_ref": "3947",
+            "airport_ident": "KVOK",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "127.5"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

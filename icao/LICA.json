@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": "351"
         }
     ],
+    "freqs": [
+        {
+            "id": "54247",
+            "airport_ref": "4317",
+            "airport_ident": "LICA",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "118.8"
+        },
+        {
+            "id": "54248",
+            "airport_ref": "4317",
+            "airport_ident": "LICA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.7"
+        }
+    ],
     "country": {
         "id": "302697",
         "code": "IT",

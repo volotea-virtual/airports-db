@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "59448",
+            "airport_ref": "20293",
+            "airport_ident": "KL31",
+            "type": "A/D",
+            "description": "NEW ORLEANS APP/DEP",
+            "frequency_mhz": "133.15"
+        },
+        {
+            "id": "59449",
+            "airport_ref": "20293",
+            "airport_ident": "KL31",
+            "type": "FSS",
+            "description": "DE RIDDER",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "59450",
+            "airport_ref": "20293",
+            "airport_ident": "KL31",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

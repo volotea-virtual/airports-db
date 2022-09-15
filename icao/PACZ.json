@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "58775",
+            "airport_ref": "5349",
+            "airport_ident": "PACZ",
+            "type": "ARTC",
+            "description": "ANCHORAGE ARTCC",
+            "frequency_mhz": "124.5"
+        },
+        {
+            "id": "58776",
+            "airport_ref": "5349",
+            "airport_ident": "PACZ",
+            "type": "CNTR",
+            "description": "ANCHORAGE CNTR",
+            "frequency_mhz": "132.5"
+        },
+        {
+            "id": "58777",
+            "airport_ref": "5349",
+            "airport_ident": "PACZ",
+            "type": "FSS",
+            "description": "KENAI RDO",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "58778",
+            "airport_ref": "5349",
+            "airport_ident": "PACZ",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "126.2"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

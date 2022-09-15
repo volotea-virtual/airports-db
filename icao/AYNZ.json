@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56340",
+            "airport_ref": "66",
+            "airport_ident": "AYNZ",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "118.6"
+        },
+        {
+            "id": "56341",
+            "airport_ref": "66",
+            "airport_ident": "AYNZ",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.6"
+        },
+        {
+            "id": "56342",
+            "airport_ref": "66",
+            "airport_ident": "AYNZ",
+            "type": "RDO",
+            "description": "LAE RDO",
+            "frequency_mhz": "120.7"
+        },
+        {
+            "id": "56343",
+            "airport_ref": "66",
+            "airport_ident": "AYNZ",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "121.7"
+        }
+    ],
     "country": {
         "id": "302778",
         "code": "PG",

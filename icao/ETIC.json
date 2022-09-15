@@ -41,6 +41,56 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53073",
+            "airport_ref": "2730",
+            "airport_ident": "ETIC",
+            "type": "AAS",
+            "description": "GRAF RDO",
+            "frequency_mhz": "30.4"
+        },
+        {
+            "id": "53074",
+            "airport_ref": "2730",
+            "airport_ident": "ETIC",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "138.25"
+        },
+        {
+            "id": "53075",
+            "airport_ref": "2730",
+            "airport_ident": "ETIC",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "141.3"
+        },
+        {
+            "id": "53076",
+            "airport_ref": "2730",
+            "airport_ident": "ETIC",
+            "type": "OPS",
+            "description": "GRAF OPS",
+            "frequency_mhz": "44.55"
+        },
+        {
+            "id": "53077",
+            "airport_ref": "2730",
+            "airport_ident": "ETIC",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "140.3"
+        },
+        {
+            "id": "53078",
+            "airport_ref": "2730",
+            "airport_ident": "ETIC",
+            "type": "TWR",
+            "description": "GRAF TWR",
+            "frequency_mhz": "31.8"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

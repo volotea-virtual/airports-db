@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53825",
+            "airport_ref": "26447",
+            "airport_ident": "VAJB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.3"
+        }
+    ],
     "country": {
         "id": "302634",
         "code": "IN",

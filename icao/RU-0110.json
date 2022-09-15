@@ -63,6 +63,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "354746",
+            "airport_ref": "44346",
+            "airport_ident": "RU-0110",
+            "type": "Start",
+            "description": "Palma",
+            "frequency_mhz": "118"
+        }
+    ],
     "country": {
         "id": "302714",
         "code": "RU",

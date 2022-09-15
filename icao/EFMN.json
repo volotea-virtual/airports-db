@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "310796",
+            "airport_ref": "27263",
+            "airport_ident": "EFMN",
+            "type": "ACC",
+            "description": "Tampere radar",
+            "frequency_mhz": "132.325"
+        },
+        {
+            "id": "310795",
+            "airport_ref": "27263",
+            "airport_ident": "EFMN",
+            "type": "RDO",
+            "description": "Mäntsälä traffic",
+            "frequency_mhz": "123.5"
+        }
+    ],
     "country": {
         "id": "302685",
         "code": "FI",

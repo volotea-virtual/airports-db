@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "325238",
+            "airport_ref": "3178",
+            "airport_ident": "HEAX",
+            "type": "HF/S.S.B.  Altn.",
+            "description": "Alex Radio.",
+            "frequency_mhz": "5.603"
+        },
+        {
+            "id": "51879",
+            "airport_ref": "3178",
+            "airport_ident": "HEAX",
+            "type": "RDO  HF/S.S.B",
+            "description": "ALEX RADIO",
+            "frequency_mhz": "5.708"
+        },
+        {
+            "id": "51880",
+            "airport_ref": "3178",
+            "airport_ident": "HEAX",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.3"
+        }
+    ],
     "country": {
         "id": "302569",
         "code": "EG",

@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57002",
+            "airport_ref": "4244",
+            "airport_ident": "LFVM",
+            "type": "A/D",
+            "description": "ST PIERRE TRML",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "57003",
+            "airport_ref": "4244",
+            "airport_ident": "LFVM",
+            "type": "CNTR",
+            "description": "GANDER CNTR",
+            "frequency_mhz": "134.9"
+        },
+        {
+            "id": "57004",
+            "airport_ref": "4244",
+            "airport_ident": "LFVM",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "57005",
+            "airport_ref": "4244",
+            "airport_ident": "LFVM",
+            "type": "TWR",
+            "description": "MIQUELON TWR",
+            "frequency_mhz": "119.1"
+        }
+    ],
     "country": {
         "id": "302750",
         "code": "PM",

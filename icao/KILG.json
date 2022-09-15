@@ -85,6 +85,88 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "70986",
+            "airport_ref": "3608",
+            "airport_ident": "KILG",
+            "type": "A/D",
+            "description": "PHILADELPHIA APP/DEP",
+            "frequency_mhz": "118.35"
+        },
+        {
+            "id": "70987",
+            "airport_ref": "3608",
+            "airport_ident": "KILG",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "123.95"
+        },
+        {
+            "id": "70988",
+            "airport_ref": "3608",
+            "airport_ident": "KILG",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "119.95"
+        },
+        {
+            "id": "70989",
+            "airport_ref": "3608",
+            "airport_ident": "KILG",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126"
+        },
+        {
+            "id": "70990",
+            "airport_ref": "3608",
+            "airport_ident": "KILG",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "70991",
+            "airport_ref": "3608",
+            "airport_ident": "KILG",
+            "type": "OPS",
+            "description": "ARNG OPS",
+            "frequency_mhz": "46.9"
+        },
+        {
+            "id": "70992",
+            "airport_ref": "3608",
+            "airport_ident": "KILG",
+            "type": "POST",
+            "description": "WILMINGTON COMD POST",
+            "frequency_mhz": "34.3"
+        },
+        {
+            "id": "70993",
+            "airport_ref": "3608",
+            "airport_ident": "KILG",
+            "type": "RDO",
+            "description": "MILLVILLE RDO",
+            "frequency_mhz": "114"
+        },
+        {
+            "id": "70994",
+            "airport_ref": "3608",
+            "airport_ident": "KILG",
+            "type": "TWR",
+            "description": "WILMINGTON TWR",
+            "frequency_mhz": "126"
+        },
+        {
+            "id": "70995",
+            "airport_ref": "3608",
+            "airport_ident": "KILG",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

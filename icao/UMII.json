@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "49541",
+            "airport_ref": "6497",
+            "airport_ident": "UMII",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "120.4"
+        }
+    ],
     "country": {
         "id": "302678",
         "code": "BY",

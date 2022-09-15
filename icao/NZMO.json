@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56038",
+            "airport_ref": "5040",
+            "airport_ident": "NZMO",
+            "type": "AFIS",
+            "description": "QUEENSTOWN FIS",
+            "frequency_mhz": "128"
+        },
+        {
+            "id": "56039",
+            "airport_ref": "5040",
+            "airport_ident": "NZMO",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "119.1"
+        }
+    ],
     "country": {
         "id": "302776",
         "code": "NZ",

@@ -41,6 +41,72 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "70279",
+            "airport_ref": "5452",
+            "airport_ident": "PHNG",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "125"
+        },
+        {
+            "id": "70280",
+            "airport_ref": "5452",
+            "airport_ident": "PHNG",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "28.45"
+        },
+        {
+            "id": "70281",
+            "airport_ref": "5452",
+            "airport_ident": "PHNG",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "29.47"
+        },
+        {
+            "id": "70282",
+            "airport_ref": "5452",
+            "airport_ident": "PHNG",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "120.7"
+        },
+        {
+            "id": "70283",
+            "airport_ref": "5452",
+            "airport_ident": "PHNG",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "38.28"
+        },
+        {
+            "id": "70284",
+            "airport_ref": "5452",
+            "airport_ident": "PHNG",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "34.46"
+        },
+        {
+            "id": "70285",
+            "airport_ref": "5452",
+            "airport_ident": "PHNG",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "30.72"
+        },
+        {
+            "id": "70286",
+            "airport_ref": "5452",
+            "airport_ident": "PHNG",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.7"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

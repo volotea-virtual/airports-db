@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57333",
+            "airport_ref": "4049",
+            "airport_ident": "LEZL",
+            "type": "APP",
+            "description": "Sevilla Aproximacion",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "57331",
+            "airport_ref": "4049",
+            "airport_ident": "LEZL",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "118.175"
+        },
+        {
+            "id": "57332",
+            "airport_ref": "4049",
+            "airport_ident": "LEZL",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        }
+    ],
     "country": {
         "id": "302684",
         "code": "ES",

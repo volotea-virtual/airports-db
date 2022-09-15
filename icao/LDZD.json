@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53516",
+            "airport_ref": "3994",
+            "airport_ident": "LDZD",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "118.6"
+        },
+        {
+            "id": "53517",
+            "airport_ref": "3994",
+            "airport_ident": "LDZD",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "123.7"
+        }
+    ],
     "country": {
         "id": "302692",
         "code": "HR",

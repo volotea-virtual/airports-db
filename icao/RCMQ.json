@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "58016",
+            "airport_ref": "5520",
+            "airport_ident": "RCMQ",
+            "type": "APP",
+            "description": "TAICHUNG APP",
+            "frequency_mhz": "120.4"
+        },
+        {
+            "id": "325040",
+            "airport_ref": "5520",
+            "airport_ident": "RCMQ",
+            "type": "ATIS",
+            "description": "CINGCYUANGANG AIRPORT",
+            "frequency_mhz": "127.75"
+        },
+        {
+            "id": "325041",
+            "airport_ref": "5520",
+            "airport_ident": "RCMQ",
+            "type": "Tower",
+            "description": "CCK Tower",
+            "frequency_mhz": "120.25"
+        },
+        {
+            "id": "58017",
+            "airport_ref": "5520",
+            "airport_ident": "RCMQ",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.75"
+        }
+    ],
     "country": {
         "id": "302668",
         "code": "TW",

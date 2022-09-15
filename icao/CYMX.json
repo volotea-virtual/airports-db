@@ -63,6 +63,80 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "50169",
+            "airport_ref": "1820",
+            "airport_ident": "CYMX",
+            "type": "ARR",
+            "description": "Montreal Arrival",
+            "frequency_mhz": "124.65"
+        },
+        {
+            "id": "298386",
+            "airport_ref": "1820",
+            "airport_ident": "CYMX",
+            "type": "ARR",
+            "description": "Montreal Arrival",
+            "frequency_mhz": "132.85"
+        },
+        {
+            "id": "298387",
+            "airport_ref": "1820",
+            "airport_ident": "CYMX",
+            "type": "ARR",
+            "description": "Montreal Arrival",
+            "frequency_mhz": "268.3"
+        },
+        {
+            "id": "50170",
+            "airport_ref": "1820",
+            "airport_ident": "CYMX",
+            "type": "ATIS",
+            "description": "ATIS (English) 450-476-3031",
+            "frequency_mhz": "125.7"
+        },
+        {
+            "id": "298388",
+            "airport_ref": "1820",
+            "airport_ident": "CYMX",
+            "type": "ATIS",
+            "description": "ATIS (French) 450-476-3095",
+            "frequency_mhz": "126.1"
+        },
+        {
+            "id": "50172",
+            "airport_ref": "1820",
+            "airport_ident": "CYMX",
+            "type": "DEP",
+            "description": "Montreal Departure",
+            "frequency_mhz": "132.85"
+        },
+        {
+            "id": "50176",
+            "airport_ref": "1820",
+            "airport_ident": "CYMX",
+            "type": "MF",
+            "description": "Mirabel Radio",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "50174",
+            "airport_ref": "1820",
+            "airport_ident": "CYMX",
+            "type": "RDR",
+            "description": "VFR ADVSY",
+            "frequency_mhz": "134.15"
+        },
+        {
+            "id": "50175",
+            "airport_ref": "1820",
+            "airport_ident": "CYMX",
+            "type": "RMP",
+            "description": "APRON ADVSY",
+            "frequency_mhz": "122.4"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

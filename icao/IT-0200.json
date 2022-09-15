@@ -17,6 +17,16 @@
     "home_link": "http://www.aeroclubsassuolo.it",
     "wikipedia_link": "",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "317628",
+            "airport_ref": "317627",
+            "airport_ident": "IT-0200",
+            "type": "Info",
+            "description": "Sassuolo Radio",
+            "frequency_mhz": "124"
+        }
+    ],
     "country": {
         "id": "302697",
         "code": "IT",

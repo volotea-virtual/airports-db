@@ -107,6 +107,96 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57257",
+            "airport_ref": "4019",
+            "airport_ident": "LEMD",
+            "type": "APP",
+            "description": "MADRID APP",
+            "frequency_mhz": "127.5"
+        },
+        {
+            "id": "57258",
+            "airport_ref": "4019",
+            "airport_ident": "LEMD",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "118.25"
+        },
+        {
+            "id": "312400",
+            "airport_ref": "4019",
+            "airport_ident": "LEMD",
+            "type": "ATIS DEP",
+            "description": "ATIS Departure",
+            "frequency_mhz": "130.85"
+        },
+        {
+            "id": "57259",
+            "airport_ref": "4019",
+            "airport_ident": "LEMD",
+            "type": "CLD",
+            "description": "Delivery East",
+            "frequency_mhz": "130.075"
+        },
+        {
+            "id": "312401",
+            "airport_ref": "4019",
+            "airport_ident": "LEMD",
+            "type": "CLD",
+            "description": "Delivery West",
+            "frequency_mhz": "130.35"
+        },
+        {
+            "id": "57260",
+            "airport_ref": "4019",
+            "airport_ident": "LEMD",
+            "type": "EMR",
+            "description": "FIRE",
+            "frequency_mhz": "122.975"
+        },
+        {
+            "id": "57261",
+            "airport_ref": "4019",
+            "airport_ident": "LEMD",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.85"
+        },
+        {
+            "id": "309478",
+            "airport_ref": "4019",
+            "airport_ident": "LEMD",
+            "type": "TWR",
+            "description": "TWR 36L",
+            "frequency_mhz": "118.07"
+        },
+        {
+            "id": "57262",
+            "airport_ref": "4019",
+            "airport_ident": "LEMD",
+            "type": "TWR",
+            "description": "TWR 14R",
+            "frequency_mhz": "118.15"
+        },
+        {
+            "id": "309479",
+            "airport_ref": "4019",
+            "airport_ident": "LEMD",
+            "type": "TWR",
+            "description": "TWR 36R",
+            "frequency_mhz": "118.67"
+        },
+        {
+            "id": "57263",
+            "airport_ref": "4019",
+            "airport_ident": "LEMD",
+            "type": "TWR",
+            "description": "TWR 14L",
+            "frequency_mhz": "118.975"
+        }
+    ],
     "country": {
         "id": "302684",
         "code": "ES",

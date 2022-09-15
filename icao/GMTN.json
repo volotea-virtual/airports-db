@@ -2,9 +2,9 @@
     "id": "3120",
     "ident": "GMTN",
     "type": "medium_airport",
-    "name": "Saniat R'mel Airport",
-    "latitude_deg": "35.594299316406",
-    "longitude_deg": "-5.320020198822",
+    "name": "Sania Ramel Airport",
+    "latitude_deg": "35.594299",
+    "longitude_deg": "-5.32002",
     "elevation_ft": "10",
     "continent": "AF",
     "iso_country": "MA",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Sania_Ramel_Airport",
-    "keywords": "Sania Ramel, Saniet R'mel",
+    "keywords": "Saniat R'mel, Saniet R'mel",
     "runways": [
         {
             "id": "237591",
@@ -39,6 +39,16 @@
             "he_elevation_ft": "10",
             "he_heading_degT": "234.4",
             "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55318",
+            "airport_ref": "3120",
+            "airport_ident": "GMTN",
+            "type": "TWR",
+            "description": "TETOUAN TWR",
+            "frequency_mhz": "119"
         }
     ],
     "country": {

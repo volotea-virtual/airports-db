@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53005",
+            "airport_ref": "2721",
+            "airport_ident": "ETHB",
+            "type": "DIR",
+            "description": "BREMEN RADAR",
+            "frequency_mhz": "131.325"
+        },
+        {
+            "id": "53006",
+            "airport_ref": "2721",
+            "airport_ident": "ETHB",
+            "type": "GCA",
+            "description": "RADAR",
+            "frequency_mhz": "123.3"
+        },
+        {
+            "id": "53008",
+            "airport_ref": "2721",
+            "airport_ident": "ETHB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "38.775"
+        },
+        {
+            "id": "53007",
+            "airport_ref": "2721",
+            "airport_ident": "ETHB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "42.4"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

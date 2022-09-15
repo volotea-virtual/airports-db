@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": "492"
         }
     ],
+    "freqs": [
+        {
+            "id": "49265",
+            "airport_ref": "6407",
+            "airport_ident": "TQPF",
+            "type": "APP",
+            "description": "JULIANA APP",
+            "frequency_mhz": "128.95"
+        },
+        {
+            "id": "49266",
+            "airport_ref": "6407",
+            "airport_ident": "TQPF",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.5"
+        }
+    ],
     "country": {
         "id": "302723",
         "code": "AI",

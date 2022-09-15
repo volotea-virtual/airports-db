@@ -41,6 +41,80 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "64950",
+            "airport_ref": "3686",
+            "airport_ident": "KMIB",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.6"
+        },
+        {
+            "id": "64951",
+            "airport_ref": "3686",
+            "airport_ident": "KMIB",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "27.88"
+        },
+        {
+            "id": "64952",
+            "airport_ref": "3686",
+            "airport_ident": "KMIB",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "32.62"
+        },
+        {
+            "id": "64953",
+            "airport_ref": "3686",
+            "airport_ident": "KMIB",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "119.6"
+        },
+        {
+            "id": "64954",
+            "airport_ref": "3686",
+            "airport_ident": "KMIB",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "134"
+        },
+        {
+            "id": "64955",
+            "airport_ref": "3686",
+            "airport_ident": "KMIB",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "34.25"
+        },
+        {
+            "id": "64956",
+            "airport_ref": "3686",
+            "airport_ident": "KMIB",
+            "type": "POST",
+            "description": "COMD POST",
+            "frequency_mhz": "32.1"
+        },
+        {
+            "id": "64957",
+            "airport_ref": "3686",
+            "airport_ident": "KMIB",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "37.22"
+        },
+        {
+            "id": "64958",
+            "airport_ref": "3686",
+            "airport_ident": "KMIB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.65"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

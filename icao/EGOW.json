@@ -85,6 +85,48 @@
             "he_displaced_threshold_ft": "500"
         }
     ],
+    "freqs": [
+        {
+            "id": "58451",
+            "airport_ref": "2455",
+            "airport_ident": "EGOW",
+            "type": "A/G",
+            "description": "RDO",
+            "frequency_mhz": "121"
+        },
+        {
+            "id": "58452",
+            "airport_ref": "2455",
+            "airport_ident": "EGOW",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "121"
+        },
+        {
+            "id": "307886",
+            "airport_ref": "2455",
+            "airport_ident": "EGOW",
+            "type": "APP",
+            "description": "",
+            "frequency_mhz": "282.57"
+        },
+        {
+            "id": "58453",
+            "airport_ref": "2455",
+            "airport_ident": "EGOW",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.75"
+        },
+        {
+            "id": "307887",
+            "airport_ref": "2455",
+            "airport_ident": "EGOW",
+            "type": "TWR",
+            "description": "",
+            "frequency_mhz": "278.2"
+        }
+    ],
     "country": {
         "id": "302688",
         "code": "GB",

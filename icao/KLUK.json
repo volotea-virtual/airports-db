@@ -85,6 +85,72 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "66236",
+            "airport_ref": "3659",
+            "airport_ident": "KLUK",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "121"
+        },
+        {
+            "id": "66237",
+            "airport_ref": "3659",
+            "airport_ident": "KLUK",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "120.25"
+        },
+        {
+            "id": "66238",
+            "airport_ref": "3659",
+            "airport_ident": "KLUK",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "66239",
+            "airport_ref": "3659",
+            "airport_ident": "KLUK",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.7"
+        },
+        {
+            "id": "66240",
+            "airport_ref": "3659",
+            "airport_ident": "KLUK",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "66241",
+            "airport_ref": "3659",
+            "airport_ident": "KLUK",
+            "type": "RDO",
+            "description": "DAYTON RDO",
+            "frequency_mhz": "122.4"
+        },
+        {
+            "id": "66242",
+            "airport_ref": "3659",
+            "airport_ident": "KLUK",
+            "type": "TWR",
+            "description": "LUNKEN TWR",
+            "frequency_mhz": "118.7"
+        },
+        {
+            "id": "66243",
+            "airport_ref": "3659",
+            "airport_ident": "KLUK",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": "869"
         }
     ],
+    "freqs": [
+        {
+            "id": "55419",
+            "airport_ref": "4698",
+            "airport_ident": "MMCM",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.8"
+        }
+    ],
     "country": {
         "id": "302747",
         "code": "MX",

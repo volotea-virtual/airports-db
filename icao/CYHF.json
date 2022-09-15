@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "50826",
+            "airport_ref": "1759",
+            "airport_ident": "CYHF",
+            "type": "UNIC",
+            "description": "ATF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

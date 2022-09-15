@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57421",
+            "airport_ref": "2646",
+            "airport_ident": "ESDF",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "57422",
+            "airport_ref": "2646",
+            "airport_ident": "ESDF",
+            "type": "TCA",
+            "description": "CON",
+            "frequency_mhz": "128.45"
+        },
+        {
+            "id": "57423",
+            "airport_ref": "2646",
+            "airport_ident": "ESDF",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.2"
+        }
+    ],
     "country": {
         "id": "302715",
         "code": "SE",

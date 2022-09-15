@@ -63,6 +63,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51262",
+            "airport_ref": "27230",
+            "airport_ident": "ZUUU",
+            "type": "APP",
+            "description": "CHENGDU APP AREA 2",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "51261",
+            "airport_ref": "27230",
+            "airport_ident": "ZUUU",
+            "type": "APP",
+            "description": "CHENGDU APP AREA 1",
+            "frequency_mhz": "125.6"
+        },
+        {
+            "id": "51263",
+            "airport_ref": "27230",
+            "airport_ident": "ZUUU",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.6"
+        },
+        {
+            "id": "51264",
+            "airport_ref": "27230",
+            "airport_ident": "ZUUU",
+            "type": "GND",
+            "description": "CHENGDU GND",
+            "frequency_mhz": "121.85"
+        },
+        {
+            "id": "51265",
+            "airport_ref": "27230",
+            "airport_ident": "ZUUU",
+            "type": "TWR",
+            "description": "CHENGDU TWR",
+            "frequency_mhz": "123"
+        }
+    ],
     "country": {
         "id": "302627",
         "code": "CN",

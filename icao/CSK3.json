@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "50903",
+            "airport_ref": "1528",
+            "airport_ident": "CSK3",
+            "type": "RDO",
+            "description": "MF",
+            "frequency_mhz": "122.35"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

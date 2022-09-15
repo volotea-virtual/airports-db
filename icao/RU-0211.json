@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "315262",
+            "airport_ref": "44866",
+            "airport_ident": "RU-0211",
+            "type": "APP",
+            "description": "KVARTET",
+            "frequency_mhz": "124"
+        },
+        {
+            "id": "315261",
+            "airport_ref": "44866",
+            "airport_ident": "RU-0211",
+            "type": "START",
+            "description": "KVARTET",
+            "frequency_mhz": "124"
+        }
+    ],
     "country": {
         "id": "302714",
         "code": "RU",

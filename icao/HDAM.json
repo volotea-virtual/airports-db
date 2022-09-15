@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": "728"
         }
     ],
+    "freqs": [
+        {
+            "id": "51752",
+            "airport_ref": "3174",
+            "airport_ident": "HDAM",
+            "type": "A/G",
+            "description": "A/G VOICE RDO",
+            "frequency_mhz": "759.5"
+        },
+        {
+            "id": "51753",
+            "airport_ref": "3174",
+            "airport_ident": "HDAM",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "121.1"
+        },
+        {
+            "id": "51754",
+            "airport_ref": "3174",
+            "airport_ident": "HDAM",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "51755",
+            "airport_ref": "3174",
+            "airport_ident": "HDAM",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.1"
+        }
+    ],
     "country": {
         "id": "302567",
         "code": "DJ",

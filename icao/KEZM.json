@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "61014",
+            "airport_ref": "19791",
+            "airport_ident": "KEZM",
+            "type": "A/D",
+            "description": "ATLANTA APP/DEP",
+            "frequency_mhz": "119.6"
+        },
+        {
+            "id": "319472",
+            "airport_ref": "19791",
+            "airport_ident": "KEZM",
+            "type": "ATIS",
+            "description": "",
+            "frequency_mhz": "119.425"
+        },
+        {
+            "id": "319471",
+            "airport_ref": "19791",
+            "airport_ident": "KEZM",
+            "type": "GROUND",
+            "description": "",
+            "frequency_mhz": "121.175"
+        },
+        {
+            "id": "319473",
+            "airport_ref": "19791",
+            "airport_ident": "KEZM",
+            "type": "TOWER/CTAF",
+            "description": "",
+            "frequency_mhz": "124.55"
+        },
+        {
+            "id": "61016",
+            "airport_ref": "19791",
+            "airport_ident": "KEZM",
+            "type": "UNIC",
+            "description": "",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -63,6 +63,40 @@
             "he_displaced_threshold_ft": "1509"
         }
     ],
+    "freqs": [
+        {
+            "id": "57264",
+            "airport_ref": "4001",
+            "airport_ident": "LEBB",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "120.7"
+        },
+        {
+            "id": "57265",
+            "airport_ref": "4001",
+            "airport_ident": "LEBB",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "118.825"
+        },
+        {
+            "id": "57266",
+            "airport_ref": "4001",
+            "airport_ident": "LEBB",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "57267",
+            "airport_ref": "4001",
+            "airport_ident": "LEBB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.5"
+        }
+    ],
     "country": {
         "id": "302684",
         "code": "ES",

@@ -63,6 +63,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "318084",
+            "airport_ref": "29001",
+            "airport_ident": "LFSL",
+            "type": "AFIS",
+            "description": "",
+            "frequency_mhz": "121.125"
+        },
+        {
+            "id": "332279",
+            "airport_ref": "29001",
+            "airport_ident": "LFSL",
+            "type": "approach",
+            "description": "LIMOGES APPROACH",
+            "frequency_mhz": "118.08"
+        },
+        {
+            "id": "318083",
+            "airport_ref": "29001",
+            "airport_ident": "LFSL",
+            "type": "TWR",
+            "description": "",
+            "frequency_mhz": "121.125"
+        },
+        {
+            "id": "332280",
+            "airport_ref": "29001",
+            "airport_ident": "LFSL",
+            "type": "TWR/AFIS",
+            "description": "BRIVE TOWER/INFO",
+            "frequency_mhz": "121.125"
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

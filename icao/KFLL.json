@@ -85,6 +85,64 @@
             "he_displaced_threshold_ft": "70"
         }
     ],
+    "freqs": [
+        {
+            "id": "62004",
+            "airport_ref": "3531",
+            "airport_ident": "KFLL",
+            "type": "APP",
+            "description": "MIAMI APP",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "62005",
+            "airport_ref": "3531",
+            "airport_ident": "KFLL",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "135"
+        },
+        {
+            "id": "62006",
+            "airport_ref": "3531",
+            "airport_ident": "KFLL",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "128.4"
+        },
+        {
+            "id": "62007",
+            "airport_ref": "3531",
+            "airport_ident": "KFLL",
+            "type": "DEP",
+            "description": "MIAMI DEP",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "62008",
+            "airport_ref": "3531",
+            "airport_ident": "KFLL",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.4"
+        },
+        {
+            "id": "62009",
+            "airport_ref": "3531",
+            "airport_ident": "KFLL",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.3"
+        },
+        {
+            "id": "62010",
+            "airport_ref": "3531",
+            "airport_ident": "KFLL",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

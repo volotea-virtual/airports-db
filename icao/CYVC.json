@@ -63,6 +63,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "50725",
+            "airport_ref": "1933",
+            "airport_ident": "CYVC",
+            "type": "MF",
+            "description": "Barber Field traffic, 5nm below 4200ASL",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "50726",
+            "airport_ref": "1933",
+            "airport_ident": "CYVC",
+            "type": "PAL",
+            "description": "Winnipeg Control",
+            "frequency_mhz": "126.4"
+        },
+        {
+            "id": "50724",
+            "airport_ref": "1933",
+            "airport_ident": "CYVC",
+            "type": "RADIO",
+            "description": "Barbar Field Radio, (V)",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "50728",
+            "airport_ref": "1933",
+            "airport_ident": "CYVC",
+            "type": "RCO",
+            "description": "Winnipeg Radio (FISE)",
+            "frequency_mhz": "123.55"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

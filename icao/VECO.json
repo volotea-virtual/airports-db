@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53800",
+            "airport_ref": "26497",
+            "airport_ident": "VECO",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.3"
+        }
+    ],
     "country": {
         "id": "302634",
         "code": "IN",

@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51808",
+            "airport_ref": "6083",
+            "airport_ident": "SETM",
+            "type": "ACC",
+            "description": "GUAYAQUIL CON",
+            "frequency_mhz": "128.3"
+        },
+        {
+            "id": "51809",
+            "airport_ref": "6083",
+            "airport_ident": "SETM",
+            "type": "RDO",
+            "description": "GUAYAQUIL  RDO",
+            "frequency_mhz": "126.9"
+        },
+        {
+            "id": "51810",
+            "airport_ref": "6083",
+            "airport_ident": "SETM",
+            "type": "TWR",
+            "description": "LA TOMA TWR",
+            "frequency_mhz": "122.2"
+        }
+    ],
     "country": {
         "id": "302794",
         "code": "EC",

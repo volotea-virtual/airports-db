@@ -85,6 +85,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "71921",
+            "airport_ref": "29108",
+            "airport_ident": "EGBD",
+            "type": "A/G",
+            "description": "Derby A/G",
+            "frequency_mhz": "118.35"
+        }
+    ],
     "country": {
         "id": "302688",
         "code": "GB",

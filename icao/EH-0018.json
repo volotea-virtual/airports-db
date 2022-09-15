@@ -1,0 +1,38 @@
+{
+    "id": "356658",
+    "ident": "EH-0018",
+    "type": "heliport",
+    "name": "El Argoub Heliport",
+    "latitude_deg": "23.60283",
+    "longitude_deg": "-15.87001",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "EH",
+    "iso_region": "EH-U-A",
+    "municipality": "El Argoub",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302570",
+        "code": "EH",
+        "name": "Western Sahara",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Sahara",
+        "keywords": "Sahrawian, مطارات الصحراء الغربية"
+    },
+    "region": {
+        "id": "303718",
+        "code": "EH-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "AF",
+        "iso_country": "EH",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}

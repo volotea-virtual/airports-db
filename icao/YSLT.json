@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "74535",
+            "airport_ref": "38583",
+            "airport_ident": "YSLT",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.5"
+        },
+        {
+            "id": "74536",
+            "airport_ref": "38583",
+            "airport_ident": "YSLT",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "125.8"
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",

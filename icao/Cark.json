@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "314751",
+            "airport_ref": "314749",
+            "airport_ident": "Cark",
+            "type": "CTAF(R)",
+            "description": "Cark Radio",
+            "frequency_mhz": "129.9"
+        }
+    ],
     "country": {
         "id": "302688",
         "code": "GB",

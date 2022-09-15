@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "58830",
+            "airport_ref": "5396",
+            "airport_ident": "PAPB",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "135.45"
+        },
+        {
+            "id": "58831",
+            "airport_ref": "5396",
+            "airport_ident": "PAPB",
+            "type": "CNTR",
+            "description": "ANCHORAGE CNTR",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "58832",
+            "airport_ref": "5396",
+            "airport_ident": "PAPB",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.8"
+        },
+        {
+            "id": "58833",
+            "airport_ref": "5396",
+            "airport_ident": "PAPB",
+            "type": "FSS",
+            "description": "KENAI RDO",
+            "frequency_mhz": "122.5"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

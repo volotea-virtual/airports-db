@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "71925",
+            "airport_ref": "29201",
+            "airport_ident": "EGTR",
+            "type": "A/G",
+            "description": "Elstree A/G",
+            "frequency_mhz": "122.4"
+        },
+        {
+            "id": "71926",
+            "airport_ref": "29201",
+            "airport_ident": "EGTR",
+            "type": "AFIS",
+            "description": "Elstree AFIS",
+            "frequency_mhz": "122.4"
+        }
+    ],
     "country": {
         "id": "302688",
         "code": "GB",

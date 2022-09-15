@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "300153",
+            "airport_ref": "38710",
+            "airport_ident": "AR-0035",
+            "type": "COM",
+            "description": "Allen Traffic",
+            "frequency_mhz": "123.5"
+        }
+    ],
     "country": {
         "id": "302789",
         "code": "AR",

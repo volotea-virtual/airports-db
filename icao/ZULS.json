@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "311880",
+            "airport_ref": "31867",
+            "airport_ident": "ZULS",
+            "type": "GND",
+            "description": "Ground Control",
+            "frequency_mhz": "121.65"
+        },
+        {
+            "id": "311881",
+            "airport_ref": "31867",
+            "airport_ident": "ZULS",
+            "type": "TWR",
+            "description": "Tower",
+            "frequency_mhz": "118.25"
+        }
+    ],
     "country": {
         "id": "302627",
         "code": "CN",

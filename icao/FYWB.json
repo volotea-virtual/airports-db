@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "71779",
+            "airport_ref": "3037",
+            "airport_ident": "FYWB",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "122.5"
+        },
+        {
+            "id": "71780",
+            "airport_ref": "3037",
+            "airport_ident": "FYWB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.5"
+        }
+    ],
     "country": {
         "id": "302591",
         "code": "NA",

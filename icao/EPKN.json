@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56214",
+            "airport_ref": "2611",
+            "airport_ident": "EPKN",
+            "type": "AFIS",
+            "description": "RDO",
+            "frequency_mhz": "120.3"
+        }
+    ],
     "country": {
         "id": "302710",
         "code": "PL",

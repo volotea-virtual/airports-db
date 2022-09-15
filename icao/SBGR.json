@@ -27,15 +27,15 @@
             "surface": "ASP",
             "lighted": "1",
             "closed": "0",
-            "le_ident": "09L",
-            "le_latitude_deg": "-23.434059143066406",
-            "le_longitude_deg": "-46.482547760009766",
+            "le_ident": "10L",
+            "le_latitude_deg": "-23.434059",
+            "le_longitude_deg": "-46.482548",
             "le_elevation_ft": "2445",
             "le_heading_degT": "74",
             "le_displaced_threshold_ft": "",
-            "he_ident": "27R",
-            "he_latitude_deg": "-23.4250431060791",
-            "he_longitude_deg": "-46.44920349121094",
+            "he_ident": "28R",
+            "he_latitude_deg": "-23.425043",
+            "he_longitude_deg": "-46.449203",
             "he_elevation_ft": "2440",
             "he_heading_degT": "254",
             "he_displaced_threshold_ft": ""
@@ -49,18 +49,76 @@
             "surface": "ASP",
             "lighted": "1",
             "closed": "0",
-            "le_ident": "09R",
-            "le_latitude_deg": "-23.438800811767578",
-            "le_longitude_deg": "-46.48699951171875",
+            "le_ident": "10R",
+            "le_latitude_deg": "-23.438801",
+            "le_longitude_deg": "-46.487",
             "le_elevation_ft": "2450",
             "le_heading_degT": "74",
             "le_displaced_threshold_ft": "",
-            "he_ident": "27L",
-            "he_latitude_deg": "-23.43120002746582",
-            "he_longitude_deg": "-46.458900451660156",
+            "he_ident": "28L",
+            "he_latitude_deg": "-23.4312",
+            "he_longitude_deg": "-46.4589",
             "he_elevation_ft": "2445",
             "he_heading_degT": "254",
             "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "49687",
+            "airport_ref": "5910",
+            "airport_ident": "SBGR",
+            "type": "APP",
+            "description": "SAO PAULO APP",
+            "frequency_mhz": "119.8"
+        },
+        {
+            "id": "49688",
+            "airport_ref": "5910",
+            "airport_ident": "SBGR",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.75"
+        },
+        {
+            "id": "49689",
+            "airport_ref": "5910",
+            "airport_ident": "SBGR",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121"
+        },
+        {
+            "id": "49690",
+            "airport_ref": "5910",
+            "airport_ident": "SBGR",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "75553",
+            "airport_ref": "5910",
+            "airport_ident": "SBGR",
+            "type": "ILS:",
+            "description": "RWY 27L",
+            "frequency_mhz": "111.1"
+        },
+        {
+            "id": "49691",
+            "airport_ref": "5910",
+            "airport_ident": "SBGR",
+            "type": "OPS",
+            "description": "SAO PAULO OPS",
+            "frequency_mhz": "122.5"
+        },
+        {
+            "id": "49692",
+            "airport_ref": "5910",
+            "airport_ident": "SBGR",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.4"
         }
     ],
     "country": {

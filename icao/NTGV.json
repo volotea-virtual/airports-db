@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52196",
+            "airport_ref": "4995",
+            "airport_ident": "NTGV",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "119.9"
+        }
+    ],
     "country": {
         "id": "302777",
         "code": "PF",

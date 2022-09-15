@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "74654",
+            "airport_ref": "38601",
+            "airport_ident": "YTEN",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "123.9"
+        },
+        {
+            "id": "74655",
+            "airport_ref": "38601",
+            "airport_ident": "YTEN",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "112.9"
+        },
+        {
+            "id": "74656",
+            "airport_ref": "38601",
+            "airport_ident": "YTEN",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "120.6"
+        },
+        {
+            "id": "74657",
+            "airport_ref": "38601",
+            "airport_ident": "YTEN",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "122.1"
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",

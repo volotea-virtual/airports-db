@@ -63,6 +63,72 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "66777",
+            "airport_ref": "3692",
+            "airport_ident": "KMKL",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "119.325"
+        },
+        {
+            "id": "66778",
+            "airport_ref": "3692",
+            "airport_ident": "KMKL",
+            "type": "CNTR",
+            "description": "MEMPHIS CNTR",
+            "frequency_mhz": "134.65"
+        },
+        {
+            "id": "66779",
+            "airport_ref": "3692",
+            "airport_ident": "KMKL",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "127.15"
+        },
+        {
+            "id": "66780",
+            "airport_ref": "3692",
+            "airport_ident": "KMKL",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "120.9"
+        },
+        {
+            "id": "66781",
+            "airport_ref": "3692",
+            "airport_ident": "KMKL",
+            "type": "OPS",
+            "description": "ARNG OPS",
+            "frequency_mhz": "41.5"
+        },
+        {
+            "id": "66782",
+            "airport_ref": "3692",
+            "airport_ident": "KMKL",
+            "type": "RDO",
+            "description": "JACKSON RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "66783",
+            "airport_ref": "3692",
+            "airport_ident": "KMKL",
+            "type": "TWR",
+            "description": "JACKSON TWR",
+            "frequency_mhz": "127.15"
+        },
+        {
+            "id": "66784",
+            "airport_ref": "3692",
+            "airport_ident": "KMKL",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -63,6 +63,40 @@
             "he_displaced_threshold_ft": "349"
         }
     ],
+    "freqs": [
+        {
+            "id": "67629",
+            "airport_ref": "3434",
+            "airport_ident": "KBWG",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "127.825"
+        },
+        {
+            "id": "67630",
+            "airport_ref": "3434",
+            "airport_ident": "KBWG",
+            "type": "CNTR",
+            "description": "MEMPHIS CNTR",
+            "frequency_mhz": "133.85"
+        },
+        {
+            "id": "67631",
+            "airport_ref": "3434",
+            "airport_ident": "KBWG",
+            "type": "RDO",
+            "description": "LOUISVILLE RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "67632",
+            "airport_ref": "3434",
+            "airport_ident": "KBWG",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

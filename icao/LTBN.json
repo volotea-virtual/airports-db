@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57887",
+            "airport_ref": "4537",
+            "airport_ident": "LTBN",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "25.125"
+        },
+        {
+            "id": "57888",
+            "airport_ref": "4537",
+            "airport_ident": "LTBN",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.1"
+        }
+    ],
     "country": {
         "id": "302667",
         "code": "TR",

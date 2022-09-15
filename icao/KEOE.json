@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "59669",
+            "airport_ref": "18557",
+            "airport_ident": "KEOE",
+            "type": "A/D",
+            "description": "COLUMBIA APP/DEP",
+            "frequency_mhz": "133.4"
+        },
+        {
+            "id": "59670",
+            "airport_ref": "18557",
+            "airport_ident": "KEOE",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

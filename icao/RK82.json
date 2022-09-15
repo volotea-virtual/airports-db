@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "55093",
+            "airport_ref": "3835",
+            "airport_ident": "RK82",
+            "type": "ACC",
+            "description": "FCC LEE",
+            "frequency_mhz": "30.4"
+        },
+        {
+            "id": "55094",
+            "airport_ref": "3835",
+            "airport_ident": "RK82",
+            "type": "TWR",
+            "description": "NODO TWR",
+            "frequency_mhz": "36.7"
+        }
+    ],
     "country": {
         "id": "302643",
         "code": "KR",

@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51779",
+            "airport_ref": "4632",
+            "airport_ident": "MDBH",
+            "type": "APP",
+            "description": "BARAHONA APP",
+            "frequency_mhz": "119.5"
+        },
+        {
+            "id": "51780",
+            "airport_ref": "4632",
+            "airport_ident": "MDBH",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "51781",
+            "airport_ref": "4632",
+            "airport_ident": "MDBH",
+            "type": "TWR",
+            "description": "BARAHONA TWR",
+            "frequency_mhz": "118.5"
+        }
+    ],
     "country": {
         "id": "302734",
         "code": "DO",

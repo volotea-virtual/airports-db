@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51424",
+            "airport_ref": "6102",
+            "airport_ident": "SKBG",
+            "type": "A/G",
+            "description": "BUCARAMANGA RDO",
+            "frequency_mhz": "348.8"
+        },
+        {
+            "id": "51425",
+            "airport_ref": "6102",
+            "airport_ident": "SKBG",
+            "type": "APP",
+            "description": "BUCARAMANGA APP",
+            "frequency_mhz": "119"
+        },
+        {
+            "id": "51426",
+            "airport_ref": "6102",
+            "airport_ident": "SKBG",
+            "type": "RDO",
+            "description": "FIS",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "51427",
+            "airport_ref": "6102",
+            "airport_ident": "SKBG",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302793",
         "code": "CO",

@@ -63,6 +63,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "58595",
+            "airport_ref": "6474",
+            "airport_ident": "UKFF",
+            "type": "APP",
+            "description": "RADAR",
+            "frequency_mhz": "124.7"
+        },
+        {
+            "id": "58596",
+            "airport_ref": "6474",
+            "airport_ident": "UKFF",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.2"
+        },
+        {
+            "id": "58597",
+            "airport_ref": "6474",
+            "airport_ident": "UKFF",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "119"
+        },
+        {
+            "id": "58598",
+            "airport_ref": "6474",
+            "airport_ident": "UKFF",
+            "type": "OPS",
+            "description": "OPS",
+            "frequency_mhz": "131.625"
+        },
+        {
+            "id": "58599",
+            "airport_ref": "6474",
+            "airport_ident": "UKFF",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.8"
+        }
+    ],
     "country": {
         "id": "302719",
         "code": "UA",

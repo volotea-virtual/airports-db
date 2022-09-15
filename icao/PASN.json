@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "58822",
+            "airport_ref": "5410",
+            "airport_ident": "PASN",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "135.75"
+        },
+        {
+            "id": "58823",
+            "airport_ref": "5410",
+            "airport_ident": "PASN",
+            "type": "CNTR",
+            "description": "ANCHORAGE CNTR",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "58824",
+            "airport_ref": "5410",
+            "airport_ident": "PASN",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "58825",
+            "airport_ref": "5410",
+            "airport_ident": "PASN",
+            "type": "FSS",
+            "description": "COLD BAY RDO",
+            "frequency_mhz": "122.45"
+        },
+        {
+            "id": "58826",
+            "airport_ref": "5410",
+            "airport_ident": "PASN",
+            "type": "MISC",
+            "description": "NWS OBSVR",
+            "frequency_mhz": "122"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

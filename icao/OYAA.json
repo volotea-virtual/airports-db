@@ -41,6 +41,56 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "71849",
+            "airport_ref": "5311",
+            "airport_ident": "OYAA",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "71850",
+            "airport_ref": "5311",
+            "airport_ident": "OYAA",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "122.6"
+        },
+        {
+            "id": "71851",
+            "airport_ref": "5311",
+            "airport_ident": "OYAA",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "71852",
+            "airport_ref": "5311",
+            "airport_ident": "OYAA",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "565.8"
+        },
+        {
+            "id": "71853",
+            "airport_ref": "5311",
+            "airport_ident": "OYAA",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "891.8"
+        },
+        {
+            "id": "71854",
+            "airport_ref": "5311",
+            "airport_ident": "OYAA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
     "country": {
         "id": "302671",
         "code": "YE",

@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53819",
+            "airport_ref": "26564",
+            "airport_ident": "VIJR",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "123.5"
+        }
+    ],
     "country": {
         "id": "302634",
         "code": "IN",

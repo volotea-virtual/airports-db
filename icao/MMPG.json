@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "55441",
+            "airport_ref": "4741",
+            "airport_ident": "MMPG",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "122.25"
+        }
+    ],
     "country": {
         "id": "302747",
         "code": "MX",

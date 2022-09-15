@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57966",
+            "airport_ref": "4544",
+            "airport_ident": "LTBU",
+            "type": "APP",
+            "description": "YESILKOY APP",
+            "frequency_mhz": "120.5"
+        },
+        {
+            "id": "315535",
+            "airport_ref": "4544",
+            "airport_ident": "LTBU",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "119.925"
+        },
+        {
+            "id": "57967",
+            "airport_ref": "4544",
+            "airport_ident": "LTBU",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "57968",
+            "airport_ref": "4544",
+            "airport_ident": "LTBU",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.375"
+        }
+    ],
     "country": {
         "id": "302667",
         "code": "TR",

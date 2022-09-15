@@ -85,6 +85,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56691",
+            "airport_ref": "6466",
+            "airport_ident": "UIUU",
+            "type": "APP",
+            "description": "ULAN UDE APP",
+            "frequency_mhz": "129.3"
+        },
+        {
+            "id": "56692",
+            "airport_ref": "6466",
+            "airport_ident": "UIUU",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.6"
+        },
+        {
+            "id": "56693",
+            "airport_ref": "6466",
+            "airport_ident": "UIUU",
+            "type": "TWR",
+            "description": "ULAN UDE TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
     "country": {
         "id": "302714",
         "code": "RU",

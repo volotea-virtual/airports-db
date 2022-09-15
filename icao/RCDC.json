@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57997",
+            "airport_ref": "5511",
+            "airport_ident": "RCDC",
+            "type": "APP",
+            "description": "KAOHSIUNG APP",
+            "frequency_mhz": "121.1"
+        },
+        {
+            "id": "57998",
+            "airport_ref": "5511",
+            "airport_ident": "RCDC",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "126.18"
+        }
+    ],
     "country": {
         "id": "302668",
         "code": "TW",

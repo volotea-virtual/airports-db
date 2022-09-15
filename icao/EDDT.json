@@ -63,6 +63,80 @@
             "he_displaced_threshold_ft": "722"
         }
     ],
+    "freqs": [
+        {
+            "id": "52871",
+            "airport_ref": "2223",
+            "airport_ident": "EDDT",
+            "type": "AFIS",
+            "description": "BERLIN INFO",
+            "frequency_mhz": "132.65"
+        },
+        {
+            "id": "52872",
+            "airport_ref": "2223",
+            "airport_ident": "EDDT",
+            "type": "APP",
+            "description": "BERLIN ARR",
+            "frequency_mhz": "119.625"
+        },
+        {
+            "id": "334408",
+            "airport_ref": "2223",
+            "airport_ident": "EDDT",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "112.3"
+        },
+        {
+            "id": "52873",
+            "airport_ref": "2223",
+            "airport_ident": "EDDT",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "125.9"
+        },
+        {
+            "id": "52874",
+            "airport_ref": "2223",
+            "airport_ident": "EDDT",
+            "type": "DEP",
+            "description": "BERLIN DEP",
+            "frequency_mhz": "120.625"
+        },
+        {
+            "id": "52875",
+            "airport_ref": "2223",
+            "airport_ident": "EDDT",
+            "type": "DIR",
+            "description": "BERLIN DIRECTOR",
+            "frequency_mhz": "136.1"
+        },
+        {
+            "id": "52876",
+            "airport_ref": "2223",
+            "airport_ident": "EDDT",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.925"
+        },
+        {
+            "id": "52877",
+            "airport_ref": "2223",
+            "airport_ident": "EDDT",
+            "type": "RMP",
+            "description": "BERLIN MIL",
+            "frequency_mhz": "136"
+        },
+        {
+            "id": "52878",
+            "airport_ref": "2223",
+            "airport_ident": "EDDT",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "124.525"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

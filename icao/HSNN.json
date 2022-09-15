@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57385",
+            "airport_ref": "3244",
+            "airport_ident": "HSNN",
+            "type": "TWR",
+            "description": "TWR/APP",
+            "frequency_mhz": "118.1"
+        }
+    ],
     "country": {
         "id": "302597",
         "code": "SD",

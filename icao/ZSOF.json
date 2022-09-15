@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51255",
+            "airport_ref": "27222",
+            "airport_ident": "ZSOF",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.85"
+        },
+        {
+            "id": "51256",
+            "airport_ref": "27222",
+            "airport_ident": "ZSOF",
+            "type": "TWR",
+            "description": "HEFEI TWR",
+            "frequency_mhz": "118.75"
+        }
+    ],
     "country": {
         "id": "302627",
         "code": "CN",

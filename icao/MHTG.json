@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53504",
+            "airport_ref": "4666",
+            "airport_ident": "MHTG",
+            "type": "APP",
+            "description": "TONCONTIN APP",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "53505",
+            "airport_ref": "4666",
+            "airport_ident": "MHTG",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "112.3"
+        },
+        {
+            "id": "53506",
+            "airport_ref": "4666",
+            "airport_ident": "MHTG",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "53507",
+            "airport_ref": "4666",
+            "airport_ident": "MHTG",
+            "type": "RDO",
+            "description": "TEGUCIGALPA RDO",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "53508",
+            "airport_ref": "4666",
+            "airport_ident": "MHTG",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
     "country": {
         "id": "302739",
         "code": "HN",

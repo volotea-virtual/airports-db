@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "75527",
+            "airport_ref": "1481",
+            "airport_ident": "CRB2",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "122.9"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

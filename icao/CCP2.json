@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "50224",
+            "airport_ref": "769",
+            "airport_ident": "CCP2",
+            "type": "A/D",
+            "description": "GANDER CNTR",
+            "frequency_mhz": "132.1"
+        },
+        {
+            "id": "50225",
+            "airport_ref": "769",
+            "airport_ident": "CCP2",
+            "type": "ATF",
+            "description": "ATF",
+            "frequency_mhz": "123.2"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

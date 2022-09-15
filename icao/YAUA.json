@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "72135",
+            "airport_ref": "38235",
+            "airport_ident": "YAUA",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "124.8"
+        },
+        {
+            "id": "72136",
+            "airport_ref": "38235",
+            "airport_ident": "YAUA",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "120.15"
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",

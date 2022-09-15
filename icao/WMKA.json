@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "55614",
+            "airport_ref": "26866",
+            "airport_ident": "WMKA",
+            "type": "APP",
+            "description": "ALOR STAR APP",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "55615",
+            "airport_ref": "26866",
+            "airport_ident": "WMKA",
+            "type": "GND",
+            "description": "ALOR STAR GND",
+            "frequency_mhz": "121.6"
+        },
+        {
+            "id": "55616",
+            "airport_ref": "26866",
+            "airport_ident": "WMKA",
+            "type": "TWR",
+            "description": "ALOR STAR TWR",
+            "frequency_mhz": "122.3"
+        }
+    ],
     "country": {
         "id": "302653",
         "code": "MY",

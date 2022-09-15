@@ -107,6 +107,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "71939",
+            "airport_ref": "29206",
+            "airport_ident": "EGWE",
+            "type": "A/G",
+            "description": "Henlow A/G",
+            "frequency_mhz": "121.1"
+        }
+    ],
     "country": {
         "id": "302688",
         "code": "GB",

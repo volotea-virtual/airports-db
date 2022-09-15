@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "63543",
+            "airport_ref": "20879",
+            "airport_ident": "KPTT",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.725"
+        },
+        {
+            "id": "63544",
+            "airport_ref": "20879",
+            "airport_ident": "KPTT",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

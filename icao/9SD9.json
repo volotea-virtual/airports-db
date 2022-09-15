@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "65957",
+            "airport_ref": "15956",
+            "airport_ident": "9SD9",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

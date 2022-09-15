@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "319569",
+            "airport_ref": "37428",
+            "airport_ident": "SSCY",
+            "type": "COM",
+            "description": "Coordination",
+            "frequency_mhz": "130.4"
+        },
+        {
+            "id": "319570",
+            "airport_ref": "37428",
+            "airport_ident": "SSCY",
+            "type": "Company",
+            "description": "Sikorski",
+            "frequency_mhz": "125.55"
+        }
+    ],
     "country": {
         "id": "302791",
         "code": "BR",

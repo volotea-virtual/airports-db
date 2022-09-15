@@ -41,6 +41,96 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53490",
+            "airport_ref": "4664",
+            "airport_ident": "MHSC",
+            "type": "AAS",
+            "description": "VFR ADVSY SVC",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "53491",
+            "airport_ref": "4664",
+            "airport_ident": "MHSC",
+            "type": "ACC",
+            "description": "CENAMER ACC",
+            "frequency_mhz": "89.1"
+        },
+        {
+            "id": "53492",
+            "airport_ref": "4664",
+            "airport_ident": "MHSC",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "53493",
+            "airport_ref": "4664",
+            "airport_ident": "MHSC",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "53494",
+            "airport_ref": "4664",
+            "airport_ident": "MHSC",
+            "type": "MISC",
+            "description": "SKYWATCH AFFS",
+            "frequency_mhz": "42.5"
+        },
+        {
+            "id": "53495",
+            "airport_ref": "4664",
+            "airport_ident": "MHSC",
+            "type": "OPS",
+            "description": "WARRIOR OPS",
+            "frequency_mhz": "51.5"
+        },
+        {
+            "id": "53496",
+            "airport_ref": "4664",
+            "airport_ident": "MHSC",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "34.06"
+        },
+        {
+            "id": "53497",
+            "airport_ref": "4664",
+            "airport_ident": "MHSC",
+            "type": "POST",
+            "description": "COMD POST",
+            "frequency_mhz": "33.13"
+        },
+        {
+            "id": "53498",
+            "airport_ref": "4664",
+            "airport_ident": "MHSC",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "135.5"
+        },
+        {
+            "id": "53499",
+            "airport_ref": "4664",
+            "airport_ident": "MHSC",
+            "type": "RDO",
+            "description": "TEGUCIGALPA RDO",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "53500",
+            "airport_ref": "4664",
+            "airport_ident": "MHSC",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.9"
+        }
+    ],
     "country": {
         "id": "302739",
         "code": "HN",

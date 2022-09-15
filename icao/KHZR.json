@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "71292",
+            "airport_ref": "20115",
+            "airport_ident": "KHZR",
+            "type": "A/D",
+            "description": "BATON ROUGE APP/DEP",
+            "frequency_mhz": "120.3"
+        },
+        {
+            "id": "71293",
+            "airport_ref": "20115",
+            "airport_ident": "KHZR",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

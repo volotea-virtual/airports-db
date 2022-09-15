@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "62206",
+            "airport_ref": "21264",
+            "airport_ident": "KU55",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "133.125"
+        },
+        {
+            "id": "62207",
+            "airport_ref": "21264",
+            "airport_ident": "KU55",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

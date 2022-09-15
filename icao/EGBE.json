@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": "420"
         }
     ],
+    "freqs": [
+        {
+            "id": "333690",
+            "airport_ref": "2390",
+            "airport_ident": "EGBE",
+            "type": "AFIS",
+            "description": "Coventry Infromation",
+            "frequency_mhz": "123.83"
+        },
+        {
+            "id": "333691",
+            "airport_ref": "2390",
+            "airport_ident": "EGBE",
+            "type": "FIRE",
+            "description": "Coventry Fire",
+            "frequency_mhz": "121.6"
+        }
+    ],
     "country": {
         "id": "302688",
         "code": "GB",

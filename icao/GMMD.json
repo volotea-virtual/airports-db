@@ -9,7 +9,7 @@
     "continent": "AF",
     "iso_country": "MA",
     "iso_region": "MA-BEM",
-    "municipality": "Beni Mellal",
+    "municipality": "Oulad Yaich",
     "scheduled_service": "yes",
     "gps_code": "GMMD",
     "iata_code": "BEM",
@@ -39,6 +39,16 @@
             "he_elevation_ft": "1673",
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "329852",
+            "airport_ref": "29694",
+            "airport_ident": "GMMD",
+            "type": "GMMD",
+            "description": "AERODROME",
+            "frequency_mhz": "119"
         }
     ],
     "country": {

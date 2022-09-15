@@ -85,6 +85,72 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52014",
+            "airport_ref": "4408",
+            "airport_ident": "LKPR",
+            "type": "APP",
+            "description": "Praha Approach",
+            "frequency_mhz": "120.53"
+        },
+        {
+            "id": "332700",
+            "airport_ref": "4408",
+            "airport_ident": "LKPR",
+            "type": "APP",
+            "description": "Praha Approach",
+            "frequency_mhz": "127.58"
+        },
+        {
+            "id": "52015",
+            "airport_ref": "4408",
+            "airport_ident": "LKPR",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "122.16"
+        },
+        {
+            "id": "52016",
+            "airport_ref": "4408",
+            "airport_ident": "LKPR",
+            "type": "CLD",
+            "description": "Ruzyně Delivery",
+            "frequency_mhz": "120.06"
+        },
+        {
+            "id": "52017",
+            "airport_ref": "4408",
+            "airport_ident": "LKPR",
+            "type": "GND",
+            "description": "Ruzyně Ground",
+            "frequency_mhz": "121.91"
+        },
+        {
+            "id": "52018",
+            "airport_ref": "4408",
+            "airport_ident": "LKPR",
+            "type": "INFO",
+            "description": "Ruzyně Information",
+            "frequency_mhz": "118.31"
+        },
+        {
+            "id": "52019",
+            "airport_ref": "4408",
+            "airport_ident": "LKPR",
+            "type": "RDR",
+            "description": "Ruzyně Radar",
+            "frequency_mhz": "119.01"
+        },
+        {
+            "id": "52020",
+            "airport_ref": "4408",
+            "airport_ident": "LKPR",
+            "type": "TWR",
+            "description": "Ruzyně Tower",
+            "frequency_mhz": "134.56"
+        }
+    ],
     "country": {
         "id": "302680",
         "code": "CZ",

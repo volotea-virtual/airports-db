@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": "320"
         }
     ],
+    "freqs": [
+        {
+            "id": "51246",
+            "airport_ref": "27242",
+            "airport_ident": "ZYTL",
+            "type": "APP",
+            "description": "DALIAN APP",
+            "frequency_mhz": "123.85"
+        },
+        {
+            "id": "51247",
+            "airport_ref": "27242",
+            "airport_ident": "ZYTL",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.65"
+        },
+        {
+            "id": "51248",
+            "airport_ref": "27242",
+            "airport_ident": "ZYTL",
+            "type": "TWR",
+            "description": "DALIAN TWR",
+            "frequency_mhz": "118.25"
+        }
+    ],
     "country": {
         "id": "302627",
         "code": "CN",

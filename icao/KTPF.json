@@ -63,6 +63,40 @@
             "he_displaced_threshold_ft": "200"
         }
     ],
+    "freqs": [
+        {
+            "id": "66166",
+            "airport_ref": "21215",
+            "airport_ident": "KTPF",
+            "type": "A/D",
+            "description": "TAMPA APP/DEP",
+            "frequency_mhz": "119.9"
+        },
+        {
+            "id": "66167",
+            "airport_ref": "21215",
+            "airport_ident": "KTPF",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.925"
+        },
+        {
+            "id": "66168",
+            "airport_ref": "21215",
+            "airport_ident": "KTPF",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "119.8"
+        },
+        {
+            "id": "66169",
+            "airport_ref": "21215",
+            "airport_ident": "KTPF",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.72"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

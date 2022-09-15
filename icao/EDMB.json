@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52732",
+            "airport_ref": "2249",
+            "airport_ident": "EDMB",
+            "type": "AFIS",
+            "description": "MUNCHEN INFO",
+            "frequency_mhz": "126.95"
+        },
+        {
+            "id": "52733",
+            "airport_ref": "2249",
+            "airport_ident": "EDMB",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "122.75"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

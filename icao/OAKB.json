@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": "2325"
         }
     ],
+    "freqs": [
+        {
+            "id": "48252",
+            "airport_ref": "5072",
+            "airport_ident": "OAKB",
+            "type": "APP",
+            "description": "APP/DEP",
+            "frequency_mhz": "131.6"
+        },
+        {
+            "id": "48253",
+            "airport_ref": "5072",
+            "airport_ident": "OAKB",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "120.3"
+        },
+        {
+            "id": "48254",
+            "airport_ref": "5072",
+            "airport_ident": "OAKB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "129.4"
+        }
+    ],
     "country": {
         "id": "302619",
         "code": "AF",

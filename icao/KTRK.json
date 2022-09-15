@@ -63,6 +63,56 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "60743",
+            "airport_ref": "21220",
+            "airport_ident": "KTRK",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118"
+        },
+        {
+            "id": "60744",
+            "airport_ref": "21220",
+            "airport_ident": "KTRK",
+            "type": "CNTR",
+            "description": "OAKLAND CNTR",
+            "frequency_mhz": "127.95"
+        },
+        {
+            "id": "325666",
+            "airport_ref": "21220",
+            "airport_ident": "KTRK",
+            "type": "CTAF",
+            "description": "Truckee Traffic",
+            "frequency_mhz": "120.575"
+        },
+        {
+            "id": "325668",
+            "airport_ref": "21220",
+            "airport_ident": "KTRK",
+            "type": "GND",
+            "description": "Ground (seasonal)",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "325667",
+            "airport_ref": "21220",
+            "airport_ident": "KTRK",
+            "type": "TWR",
+            "description": "Tower (seasonal)",
+            "frequency_mhz": "120.575"
+        },
+        {
+            "id": "60745",
+            "airport_ref": "21220",
+            "airport_ident": "KTRK",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

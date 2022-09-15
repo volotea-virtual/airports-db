@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": "197"
         }
     ],
+    "freqs": [
+        {
+            "id": "49712",
+            "airport_ref": "5900",
+            "airport_ident": "SBFI",
+            "type": "APP",
+            "description": "FOZ APP",
+            "frequency_mhz": "119.15"
+        },
+        {
+            "id": "49713",
+            "airport_ref": "5900",
+            "airport_ident": "SBFI",
+            "type": "TWR",
+            "description": "FOZ TWR",
+            "frequency_mhz": "118.8"
+        }
+    ],
     "country": {
         "id": "302791",
         "code": "BR",

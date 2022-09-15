@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "299124",
+            "airport_ref": "742",
+            "airport_ident": "CCA3",
+            "type": "CTAF",
+            "description": "Cable Head Traffic, 5nm below 3100",
+            "frequency_mhz": "123.2"
+        },
+        {
+            "id": "299125",
+            "airport_ref": "742",
+            "airport_ident": "CCA3",
+            "type": "Departures",
+            "description": "Moncton Centre",
+            "frequency_mhz": "135.65"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

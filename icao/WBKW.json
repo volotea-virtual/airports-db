@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "55542",
+            "airport_ref": "26817",
+            "airport_ident": "WBKW",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "123.55"
+        },
+        {
+            "id": "55543",
+            "airport_ref": "26817",
+            "airport_ident": "WBKW",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "55544",
+            "airport_ref": "26817",
+            "airport_ident": "WBKW",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.5"
+        }
+    ],
     "country": {
         "id": "302653",
         "code": "MY",

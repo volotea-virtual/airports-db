@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "332482",
+            "airport_ref": "1312",
+            "airport_ident": "CNJ4",
+            "type": "ATF",
+            "description": "Orillia Traffic",
+            "frequency_mhz": "122.8"
+        },
+        {
+            "id": "332483",
+            "airport_ref": "1312",
+            "airport_ident": "CNJ4",
+            "type": "UNICOM",
+            "description": "Orillia UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

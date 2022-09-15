@@ -85,6 +85,56 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57188",
+            "airport_ref": "26887",
+            "airport_ident": "WSSS",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "120.3"
+        },
+        {
+            "id": "57189",
+            "airport_ref": "26887",
+            "airport_ident": "WSSS",
+            "type": "ARR",
+            "description": "ARR",
+            "frequency_mhz": "119.3"
+        },
+        {
+            "id": "57190",
+            "airport_ref": "26887",
+            "airport_ident": "WSSS",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.6"
+        },
+        {
+            "id": "57191",
+            "airport_ref": "26887",
+            "airport_ident": "WSSS",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.65"
+        },
+        {
+            "id": "57192",
+            "airport_ref": "26887",
+            "airport_ident": "WSSS",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "124.3"
+        },
+        {
+            "id": "57193",
+            "airport_ref": "26887",
+            "airport_ident": "WSSS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.6"
+        }
+    ],
     "country": {
         "id": "302661",
         "code": "SG",

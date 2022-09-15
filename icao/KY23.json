@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "65417",
+            "airport_ref": "21416",
+            "airport_ident": "KY23",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "125.3"
+        },
+        {
+            "id": "65418",
+            "airport_ref": "21416",
+            "airport_ident": "KY23",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        },
+        {
+            "id": "65419",
+            "airport_ref": "21416",
+            "airport_ident": "KY23",
+            "type": "RDO",
+            "description": "GREEN BAY RDO",
+            "frequency_mhz": "122.3"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

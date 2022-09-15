@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "59476",
+            "airport_ref": "5444",
+            "airport_ident": "PHHN",
+            "type": "A/D",
+            "description": "HONOLULU CNTR",
+            "frequency_mhz": "126"
+        },
+        {
+            "id": "59477",
+            "airport_ref": "5444",
+            "airport_ident": "PHHN",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        },
+        {
+            "id": "59478",
+            "airport_ref": "5444",
+            "airport_ident": "PHHN",
+            "type": "FSS",
+            "description": "HANA",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "59479",
+            "airport_ref": "5444",
+            "airport_ident": "PHHN",
+            "type": "RCO",
+            "description": "HANA",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "59480",
+            "airport_ref": "5444",
+            "airport_ident": "PHHN",
+            "type": "RDO",
+            "description": "HONOLULU RDO",
+            "frequency_mhz": "122.3"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

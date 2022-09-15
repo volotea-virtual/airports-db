@@ -63,6 +63,72 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "65645",
+            "airport_ref": "3911",
+            "airport_ident": "KSWF",
+            "type": "ACP",
+            "description": "105 AW COMD POST",
+            "frequency_mhz": "37.94"
+        },
+        {
+            "id": "65646",
+            "airport_ref": "3911",
+            "airport_ident": "KSWF",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "124.575"
+        },
+        {
+            "id": "65647",
+            "airport_ref": "3911",
+            "airport_ident": "KSWF",
+            "type": "CNTR",
+            "description": "NEW YORK CNTR",
+            "frequency_mhz": "132.75"
+        },
+        {
+            "id": "65648",
+            "airport_ref": "3911",
+            "airport_ident": "KSWF",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "65649",
+            "airport_ref": "3911",
+            "airport_ident": "KSWF",
+            "type": "MISC",
+            "description": "AR OPS",
+            "frequency_mhz": "38.5"
+        },
+        {
+            "id": "65650",
+            "airport_ref": "3911",
+            "airport_ident": "KSWF",
+            "type": "OPS",
+            "description": "ARMY OPS",
+            "frequency_mhz": "49.75"
+        },
+        {
+            "id": "65651",
+            "airport_ref": "3911",
+            "airport_ident": "KSWF",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "121"
+        },
+        {
+            "id": "65652",
+            "airport_ref": "3911",
+            "airport_ident": "KSWF",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "50978",
+            "airport_ref": "1977",
+            "airport_ident": "CYYG",
+            "type": "A/G",
+            "description": "MF",
+            "frequency_mhz": "118"
+        },
+        {
+            "id": "50979",
+            "airport_ref": "1977",
+            "airport_ident": "CYYG",
+            "type": "CNTR",
+            "description": "MONCTON CNTR",
+            "frequency_mhz": "135.65"
+        },
+        {
+            "id": "50980",
+            "airport_ref": "1977",
+            "airport_ident": "CYYG",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "118"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

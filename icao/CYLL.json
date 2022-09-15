@@ -63,6 +63,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "50159",
+            "airport_ref": "1803",
+            "airport_ident": "CYLL",
+            "type": "A/G",
+            "description": "MF LLOYDMINSTER RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "50160",
+            "airport_ref": "1803",
+            "airport_ident": "CYLL",
+            "type": "CNTR",
+            "description": "EDMONTON CNTR",
+            "frequency_mhz": "133.45"
+        },
+        {
+            "id": "50161",
+            "airport_ref": "1803",
+            "airport_ident": "CYLL",
+            "type": "RCO",
+            "description": "EDMONTON RDO",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "50162",
+            "airport_ref": "1803",
+            "airport_ident": "CYLL",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "122.2"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

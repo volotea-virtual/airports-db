@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "73546",
+            "airport_ref": "38428",
+            "airport_ident": "YLET",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "124"
+        },
+        {
+            "id": "73547",
+            "airport_ref": "38428",
+            "airport_ident": "YLET",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "126"
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",

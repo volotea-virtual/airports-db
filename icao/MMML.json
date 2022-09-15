@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "55420",
+            "airport_ref": "4727",
+            "airport_ident": "MMML",
+            "type": "AFIS",
+            "description": "MEXICALI INFO",
+            "frequency_mhz": "123.9"
+        },
+        {
+            "id": "55421",
+            "airport_ref": "4727",
+            "airport_ident": "MMML",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.6"
+        },
+        {
+            "id": "55422",
+            "airport_ref": "4727",
+            "airport_ident": "MMML",
+            "type": "TWR",
+            "description": "MEXICALI TWR",
+            "frequency_mhz": "118.2"
+        }
+    ],
     "country": {
         "id": "302747",
         "code": "MX",

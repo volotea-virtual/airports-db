@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "74175",
+            "airport_ref": "27863",
+            "airport_ident": "YOIT",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "74176",
+            "airport_ref": "27863",
+            "airport_ident": "YOIT",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "121.3"
+        },
+        {
+            "id": "74177",
+            "airport_ref": "27863",
+            "airport_ident": "YOIT",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "124"
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",

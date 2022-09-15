@@ -63,6 +63,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57082",
+            "airport_ref": "2853",
+            "airport_ident": "FAVV",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.1"
+        }
+    ],
     "country": {
         "id": "302610",
         "code": "ZA",

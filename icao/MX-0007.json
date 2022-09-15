@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "325257",
+            "airport_ref": "46099",
+            "airport_ident": "MX-0007",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302747",
         "code": "MX",

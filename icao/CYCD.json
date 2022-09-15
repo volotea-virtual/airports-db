@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": "1002"
         }
     ],
+    "freqs": [
+        {
+            "id": "50125",
+            "airport_ref": "1687",
+            "airport_ident": "CYCD",
+            "type": "APP",
+            "description": "VICTORIA TRML",
+            "frequency_mhz": "133.95"
+        },
+        {
+            "id": "50126",
+            "airport_ref": "1687",
+            "airport_ident": "CYCD",
+            "type": "ATF",
+            "description": "ATF",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "309998",
+            "airport_ref": "1687",
+            "airport_ident": "CYCD",
+            "type": "ATIS",
+            "description": "Nanaimo ATIS",
+            "frequency_mhz": "128.425"
+        },
+        {
+            "id": "50127",
+            "airport_ref": "1687",
+            "airport_ident": "CYCD",
+            "type": "FSS",
+            "description": "RDO",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "50128",
+            "airport_ref": "1687",
+            "airport_ident": "CYCD",
+            "type": "RCO",
+            "description": "PACIFIC RDO",
+            "frequency_mhz": "126.7"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

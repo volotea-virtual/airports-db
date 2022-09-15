@@ -85,6 +85,72 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "64111",
+            "airport_ref": "3427",
+            "airport_ident": "KBTL",
+            "type": "A/D",
+            "description": "KALAMAZOO APP/DEP",
+            "frequency_mhz": "119.2"
+        },
+        {
+            "id": "64112",
+            "airport_ref": "3427",
+            "airport_ident": "KBTL",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.325"
+        },
+        {
+            "id": "64113",
+            "airport_ref": "3427",
+            "airport_ident": "KBTL",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.5"
+        },
+        {
+            "id": "64114",
+            "airport_ref": "3427",
+            "airport_ident": "KBTL",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "64115",
+            "airport_ref": "3427",
+            "airport_ident": "KBTL",
+            "type": "OPS",
+            "description": "ANG OPS",
+            "frequency_mhz": "32.35"
+        },
+        {
+            "id": "64116",
+            "airport_ref": "3427",
+            "airport_ident": "KBTL",
+            "type": "RDO",
+            "description": "LANSING RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "64117",
+            "airport_ref": "3427",
+            "airport_ident": "KBTL",
+            "type": "TWR",
+            "description": "BATTLE CREEK TWR",
+            "frequency_mhz": "126.825"
+        },
+        {
+            "id": "64118",
+            "airport_ref": "3427",
+            "airport_ident": "KBTL",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

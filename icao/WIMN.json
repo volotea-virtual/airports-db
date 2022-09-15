@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53614",
+            "airport_ref": "26840",
+            "airport_ident": "WIMN",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "658.9"
+        }
+    ],
     "country": {
         "id": "302632",
         "code": "ID",

@@ -63,6 +63,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "354366",
+            "airport_ref": "16498",
+            "airport_ident": "KBDU",
+            "type": "CTAF/UNICOM:",
+            "description": "Boulder traffic",
+            "frequency_mhz": "122.725"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

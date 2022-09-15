@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "352868",
+            "airport_ref": "30188",
+            "airport_ident": "ELNT",
+            "type": "AFIS",
+            "description": "Noertrange Info",
+            "frequency_mhz": "126.955"
+        }
+    ],
     "country": {
         "id": "302701",
         "code": "LU",

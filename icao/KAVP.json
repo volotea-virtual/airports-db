@@ -63,6 +63,56 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "65975",
+            "airport_ref": "3388",
+            "airport_ident": "KAVP",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "124.5"
+        },
+        {
+            "id": "65976",
+            "airport_ref": "3388",
+            "airport_ident": "KAVP",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "111.6"
+        },
+        {
+            "id": "65977",
+            "airport_ref": "3388",
+            "airport_ident": "KAVP",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "65978",
+            "airport_ref": "3388",
+            "airport_ident": "KAVP",
+            "type": "RDO",
+            "description": "WILLIAMSPORT RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "65979",
+            "airport_ref": "3388",
+            "airport_ident": "KAVP",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.1"
+        },
+        {
+            "id": "65980",
+            "airport_ref": "3388",
+            "airport_ident": "KAVP",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

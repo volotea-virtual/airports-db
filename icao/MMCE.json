@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "55406",
+            "airport_ref": "4694",
+            "airport_ident": "MMCE",
+            "type": "TWR",
+            "description": "CARMEN TWR",
+            "frequency_mhz": "118.4"
+        }
+    ],
     "country": {
         "id": "302747",
         "code": "MX",

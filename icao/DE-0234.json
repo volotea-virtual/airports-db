@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "315573",
+            "airport_ref": "315572",
+            "airport_ident": "DE-0234",
+            "type": "INFO",
+            "description": "Heiligenberg Segelflug",
+            "frequency_mhz": "123.5"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

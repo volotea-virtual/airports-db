@@ -63,6 +63,72 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "63357",
+            "airport_ref": "3756",
+            "airport_ident": "KORH",
+            "type": "A/D",
+            "description": "BRADLEY APP/DEP",
+            "frequency_mhz": "119"
+        },
+        {
+            "id": "63358",
+            "airport_ref": "3756",
+            "airport_ident": "KORH",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.55"
+        },
+        {
+            "id": "63359",
+            "airport_ref": "3756",
+            "airport_ident": "KORH",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "128.65"
+        },
+        {
+            "id": "63360",
+            "airport_ref": "3756",
+            "airport_ident": "KORH",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "120.5"
+        },
+        {
+            "id": "63361",
+            "airport_ref": "3756",
+            "airport_ident": "KORH",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "123.85"
+        },
+        {
+            "id": "63362",
+            "airport_ref": "3756",
+            "airport_ident": "KORH",
+            "type": "RDO",
+            "description": "BRIDGEPORT RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "63363",
+            "airport_ref": "3756",
+            "airport_ident": "KORH",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.5"
+        },
+        {
+            "id": "63364",
+            "airport_ref": "3756",
+            "airport_ident": "KORH",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

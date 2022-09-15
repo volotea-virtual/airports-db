@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53152",
+            "airport_ref": "2737",
+            "airport_ident": "ETNH",
+            "type": "ACC",
+            "description": "BREMEN CON",
+            "frequency_mhz": "136.225"
+        },
+        {
+            "id": "53154",
+            "airport_ref": "2737",
+            "airport_ident": "ETNH",
+            "type": "RDR",
+            "description": "RADAR",
+            "frequency_mhz": "38.54"
+        },
+        {
+            "id": "53153",
+            "airport_ref": "2737",
+            "airport_ident": "ETNH",
+            "type": "RDR",
+            "description": "RADAR",
+            "frequency_mhz": "123.3"
+        },
+        {
+            "id": "53155",
+            "airport_ref": "2737",
+            "airport_ident": "ETNH",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.1"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

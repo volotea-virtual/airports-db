@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "69819",
+            "airport_ref": "20544",
+            "airport_ident": "KMOR",
+            "type": "A/D",
+            "description": "KNOXVILLE APP/DEP",
+            "frequency_mhz": "132.8"
+        },
+        {
+            "id": "69820",
+            "airport_ref": "20544",
+            "airport_ident": "KMOR",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "126.725"
+        },
+        {
+            "id": "69821",
+            "airport_ref": "20544",
+            "airport_ident": "KMOR",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

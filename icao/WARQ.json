@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": "325"
         }
     ],
+    "freqs": [
+        {
+            "id": "53763",
+            "airport_ref": "26788",
+            "airport_ident": "WARQ",
+            "type": "APP",
+            "description": "YOGYA APP",
+            "frequency_mhz": "123.4"
+        },
+        {
+            "id": "53764",
+            "airport_ref": "26788",
+            "airport_ident": "WARQ",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.2"
+        },
+        {
+            "id": "53765",
+            "airport_ref": "26788",
+            "airport_ident": "WARQ",
+            "type": "TCA",
+            "description": "SEMARANG TCA",
+            "frequency_mhz": "120.3"
+        },
+        {
+            "id": "53766",
+            "airport_ref": "26788",
+            "airport_ident": "WARQ",
+            "type": "TWR",
+            "description": "MARMO TWR",
+            "frequency_mhz": "122.7"
+        }
+    ],
     "country": {
         "id": "302632",
         "code": "ID",

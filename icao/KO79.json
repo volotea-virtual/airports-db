@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": "193"
         }
     ],
+    "freqs": [
+        {
+            "id": "66303",
+            "airport_ref": "20704",
+            "airport_ident": "KO79",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

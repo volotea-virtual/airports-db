@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52590",
+            "airport_ref": "4179",
+            "airport_ident": "LFOT",
+            "type": "AFIS",
+            "description": "TOURS INFO",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "52592",
+            "airport_ref": "4179",
+            "airport_ident": "LFOT",
+            "type": "APP",
+            "description": "TOURS APP",
+            "frequency_mhz": "37.925"
+        },
+        {
+            "id": "52591",
+            "airport_ref": "4179",
+            "airport_ident": "LFOT",
+            "type": "APP",
+            "description": "TOURS APP",
+            "frequency_mhz": "121"
+        },
+        {
+            "id": "52593",
+            "airport_ref": "4179",
+            "airport_ident": "LFOT",
+            "type": "GND",
+            "description": "TOURS GND",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "52594",
+            "airport_ref": "4179",
+            "airport_ident": "LFOT",
+            "type": "TWR",
+            "description": "TOURS TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "71927",
+            "airport_ref": "29127",
+            "airport_ident": "EGEF",
+            "type": "A/G",
+            "description": "Fair Isle A/G",
+            "frequency_mhz": "118.025"
+        }
+    ],
     "country": {
         "id": "302688",
         "code": "GB",

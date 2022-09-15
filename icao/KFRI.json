@@ -63,6 +63,56 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "62294",
+            "airport_ref": "3540",
+            "airport_ident": "KFRI",
+            "type": "AAS",
+            "description": "VFR ADVSY SVC",
+            "frequency_mhz": "126.2"
+        },
+        {
+            "id": "62295",
+            "airport_ref": "3540",
+            "airport_ident": "KFRI",
+            "type": "ARTC",
+            "description": "KANSAS CITY CNTR",
+            "frequency_mhz": "127.35"
+        },
+        {
+            "id": "62296",
+            "airport_ref": "3540",
+            "airport_ident": "KFRI",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "118.375"
+        },
+        {
+            "id": "62297",
+            "airport_ref": "3540",
+            "airport_ident": "KFRI",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.2"
+        },
+        {
+            "id": "62298",
+            "airport_ref": "3540",
+            "airport_ident": "KFRI",
+            "type": "MISC",
+            "description": "RANGE CON",
+            "frequency_mhz": "40.8"
+        },
+        {
+            "id": "62299",
+            "airport_ref": "3540",
+            "airport_ident": "KFRI",
+            "type": "OPS",
+            "description": "OPS",
+            "frequency_mhz": "40.55"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

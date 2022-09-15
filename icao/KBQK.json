@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "62529",
+            "airport_ref": "3424",
+            "airport_ident": "KBQK",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "124.175"
+        },
+        {
+            "id": "62530",
+            "airport_ref": "3424",
+            "airport_ident": "KBQK",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "126.75"
+        },
+        {
+            "id": "62531",
+            "airport_ref": "3424",
+            "airport_ident": "KBQK",
+            "type": "CNTR",
+            "description": "JACKSONVILLE CNTR",
+            "frequency_mhz": "126.75"
+        },
+        {
+            "id": "62532",
+            "airport_ref": "3424",
+            "airport_ident": "KBQK",
+            "type": "RDO",
+            "description": "MACON RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "62533",
+            "airport_ref": "3424",
+            "airport_ident": "KBQK",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

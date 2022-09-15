@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "320709",
+            "airport_ref": "30243",
+            "airport_ident": "LGPA",
+            "type": "AFIS",
+            "description": "PAROS INFORMATION",
+            "frequency_mhz": "125.05"
+        }
+    ],
     "country": {
         "id": "302691",
         "code": "GR",

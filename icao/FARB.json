@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57104",
+            "airport_ref": "2831",
+            "airport_ident": "FARB",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "118.9"
+        },
+        {
+            "id": "57105",
+            "airport_ref": "2831",
+            "airport_ident": "FARB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.9"
+        }
+    ],
     "country": {
         "id": "302610",
         "code": "ZA",

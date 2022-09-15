@@ -41,6 +41,72 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53755",
+            "airport_ref": "26789",
+            "airport_ident": "WARR",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.2"
+        },
+        {
+            "id": "308944",
+            "airport_ref": "26789",
+            "airport_ident": "WARR",
+            "type": "DIR",
+            "description": "Surabaya Director Secondary",
+            "frequency_mhz": "123.2"
+        },
+        {
+            "id": "53756",
+            "airport_ref": "26789",
+            "airport_ident": "WARR",
+            "type": "DIR",
+            "description": "Surabaya Director (Primary)",
+            "frequency_mhz": "125.1"
+        },
+        {
+            "id": "53757",
+            "airport_ref": "26789",
+            "airport_ident": "WARR",
+            "type": "SMC",
+            "description": "Ground Control",
+            "frequency_mhz": "119.15"
+        },
+        {
+            "id": "53758",
+            "airport_ref": "26789",
+            "airport_ident": "WARR",
+            "type": "TCA",
+            "description": "Surabaya Control - Primary",
+            "frequency_mhz": "123.55"
+        },
+        {
+            "id": "53759",
+            "airport_ref": "26789",
+            "airport_ident": "WARR",
+            "type": "TCA",
+            "description": "Surabaya Control - Secondary",
+            "frequency_mhz": "124"
+        },
+        {
+            "id": "308945",
+            "airport_ref": "26789",
+            "airport_ident": "WARR",
+            "type": "TWR",
+            "description": "Tower - Secondary",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "53760",
+            "airport_ref": "26789",
+            "airport_ident": "WARR",
+            "type": "TWR",
+            "description": "Tower - Primary",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302632",
         "code": "ID",

@@ -63,6 +63,72 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "54969",
+            "airport_ref": "5661",
+            "airport_ident": "RKTN",
+            "type": "ACP",
+            "description": "BRICKWALL",
+            "frequency_mhz": "120"
+        },
+        {
+            "id": "54971",
+            "airport_ref": "5661",
+            "airport_ident": "RKTN",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.65"
+        },
+        {
+            "id": "54972",
+            "airport_ref": "5661",
+            "airport_ident": "RKTN",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "118.2"
+        },
+        {
+            "id": "54975",
+            "airport_ref": "5661",
+            "airport_ident": "RKTN",
+            "type": "PMSV",
+            "description": "KUNSAN METRO",
+            "frequency_mhz": "34.65"
+        },
+        {
+            "id": "54970",
+            "airport_ref": "5661",
+            "airport_ident": "RKTN",
+            "type": "RKTN_APP",
+            "description": "Daegu Intl Approach",
+            "frequency_mhz": "135.9"
+        },
+        {
+            "id": "54973",
+            "airport_ref": "5661",
+            "airport_ident": "RKTN",
+            "type": "RKTN_DEP",
+            "description": "Daegu Intl Departure",
+            "frequency_mhz": "135.9"
+        },
+        {
+            "id": "54974",
+            "airport_ref": "5661",
+            "airport_ident": "RKTN",
+            "type": "RKTN_GND",
+            "description": "Daegu Intl Ground",
+            "frequency_mhz": "118.2"
+        },
+        {
+            "id": "54976",
+            "airport_ref": "5661",
+            "airport_ident": "RKTN",
+            "type": "RKTN_TWR",
+            "description": "Daegu Intl Tower",
+            "frequency_mhz": "126.2"
+        }
+    ],
     "country": {
         "id": "302643",
         "code": "KR",

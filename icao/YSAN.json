@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "74486",
+            "airport_ref": "32018",
+            "airport_ident": "YSAN",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.6"
+        },
+        {
+            "id": "74487",
+            "airport_ref": "32018",
+            "airport_ident": "YSAN",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "122.4"
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",

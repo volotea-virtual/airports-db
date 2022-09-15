@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57635",
+            "airport_ref": "26645",
+            "airport_ident": "VTBU",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "57636",
+            "airport_ref": "26645",
+            "airport_ident": "VTBU",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "57637",
+            "airport_ref": "26645",
+            "airport_ident": "VTBU",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302663",
         "code": "TH",

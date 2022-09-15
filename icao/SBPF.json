@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "49625",
+            "airport_ref": "5954",
+            "airport_ident": "SBPF",
+            "type": "AFIS",
+            "description": "PASSO FUNDO RDO",
+            "frequency_mhz": "131.25"
+        }
+    ],
     "country": {
         "id": "302791",
         "code": "BR",

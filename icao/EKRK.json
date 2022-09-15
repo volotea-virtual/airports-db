@@ -63,6 +63,48 @@
             "he_displaced_threshold_ft": "193"
         }
     ],
+    "freqs": [
+        {
+            "id": "51712",
+            "airport_ref": "2551",
+            "airport_ident": "EKRK",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "125.525"
+        },
+        {
+            "id": "51713",
+            "airport_ref": "2551",
+            "airport_ident": "EKRK",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "123.8"
+        },
+        {
+            "id": "51714",
+            "airport_ref": "2551",
+            "airport_ident": "EKRK",
+            "type": "MISC",
+            "description": "HANDLING",
+            "frequency_mhz": "130.225"
+        },
+        {
+            "id": "51715",
+            "airport_ref": "2551",
+            "airport_ident": "EKRK",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.9"
+        },
+        {
+            "id": "75395",
+            "airport_ref": "2551",
+            "airport_ident": "EKRK",
+            "type": "TWR",
+            "description": "",
+            "frequency_mhz": "119.65"
+        }
+    ],
     "country": {
         "id": "302682",
         "code": "DK",

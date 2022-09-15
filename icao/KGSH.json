@@ -63,6 +63,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "66666",
+            "airport_ref": "19979",
+            "airport_ident": "KGSH",
+            "type": "A/D",
+            "description": "SOUTH BEND APP/DEP",
+            "frequency_mhz": "132.05"
+        },
+        {
+            "id": "66667",
+            "airport_ref": "19979",
+            "airport_ident": "KGSH",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "126.475"
+        },
+        {
+            "id": "66668",
+            "airport_ref": "19979",
+            "airport_ident": "KGSH",
+            "type": "CLD",
+            "description": "SOUTH BEND CLNC DEL",
+            "frequency_mhz": "125.25"
+        },
+        {
+            "id": "66669",
+            "airport_ref": "19979",
+            "airport_ident": "KGSH",
+            "type": "RDO",
+            "description": "TERRE HAUTE RDO",
+            "frequency_mhz": "113.7"
+        },
+        {
+            "id": "66670",
+            "airport_ref": "19979",
+            "airport_ident": "KGSH",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123.05"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

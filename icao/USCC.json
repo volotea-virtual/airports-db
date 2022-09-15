@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56795",
+            "airport_ref": "26370",
+            "airport_ident": "USCC",
+            "type": "APP",
+            "description": "CHELYABINSK APP",
+            "frequency_mhz": "124.7"
+        },
+        {
+            "id": "56796",
+            "airport_ref": "26370",
+            "airport_ident": "USCC",
+            "type": "PMSV",
+            "description": "CHELYABINSK METEO",
+            "frequency_mhz": "128.3"
+        },
+        {
+            "id": "56797",
+            "airport_ref": "26370",
+            "airport_ident": "USCC",
+            "type": "TWR",
+            "description": "CHELYABINSK START",
+            "frequency_mhz": "125.2"
+        }
+    ],
     "country": {
         "id": "302714",
         "code": "RU",

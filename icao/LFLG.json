@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "75324",
+            "airport_ref": "28927",
+            "airport_ident": "LFLG",
+            "type": "ATIS",
+            "description": "",
+            "frequency_mhz": "125.225"
+        },
+        {
+            "id": "75326",
+            "airport_ref": "28927",
+            "airport_ident": "LFLG",
+            "type": "GND",
+            "description": "",
+            "frequency_mhz": "121.65"
+        },
+        {
+            "id": "75325",
+            "airport_ref": "28927",
+            "airport_ident": "LFLG",
+            "type": "TWR",
+            "description": "",
+            "frequency_mhz": "121"
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

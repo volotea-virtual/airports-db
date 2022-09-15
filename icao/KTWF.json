@@ -63,6 +63,64 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "68459",
+            "airport_ref": "3935",
+            "airport_ident": "KTWF",
+            "type": "A/D",
+            "description": "TWIN FALLS APP/DEP",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "68460",
+            "airport_ref": "3935",
+            "airport_ident": "KTWF",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "135.025"
+        },
+        {
+            "id": "68461",
+            "airport_ref": "3935",
+            "airport_ident": "KTWF",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.2"
+        },
+        {
+            "id": "68462",
+            "airport_ref": "3935",
+            "airport_ident": "KTWF",
+            "type": "GND",
+            "description": "TWIN FALLS GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "68463",
+            "airport_ref": "3935",
+            "airport_ident": "KTWF",
+            "type": "RDO",
+            "description": "BOISE RDO",
+            "frequency_mhz": "122.25"
+        },
+        {
+            "id": "68464",
+            "airport_ref": "3935",
+            "airport_ident": "KTWF",
+            "type": "TWR",
+            "description": "TWIN FALLS TWR",
+            "frequency_mhz": "118.2"
+        },
+        {
+            "id": "68465",
+            "airport_ref": "3935",
+            "airport_ident": "KTWF",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

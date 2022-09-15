@@ -63,6 +63,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "71712",
+            "airport_ref": "6297",
+            "airport_ident": "SVMC",
+            "type": "APP",
+            "description": "MARACAIBO APP",
+            "frequency_mhz": "120.2"
+        },
+        {
+            "id": "71713",
+            "airport_ref": "6297",
+            "airport_ident": "SVMC",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "115.7"
+        },
+        {
+            "id": "71714",
+            "airport_ref": "6297",
+            "airport_ident": "SVMC",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "71715",
+            "airport_ref": "6297",
+            "airport_ident": "SVMC",
+            "type": "RDO",
+            "description": "MARACAIBO RDO",
+            "frequency_mhz": "132"
+        },
+        {
+            "id": "71716",
+            "airport_ref": "6297",
+            "airport_ident": "SVMC",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.9"
+        }
+    ],
     "country": {
         "id": "302802",
         "code": "VE",

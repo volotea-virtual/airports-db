@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "49806",
+            "airport_ref": "5960",
+            "airport_ident": "SBPR",
+            "type": "AFIS",
+            "description": "RDO",
+            "frequency_mhz": "125.85"
+        },
+        {
+            "id": "49807",
+            "airport_ref": "5960",
+            "airport_ident": "SBPR",
+            "type": "ATIS",
+            "description": "BELO HORIZONTE ATIS",
+            "frequency_mhz": "127.45"
+        }
+    ],
     "country": {
         "id": "302791",
         "code": "BR",

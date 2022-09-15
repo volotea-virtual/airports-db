@@ -85,6 +85,72 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57898",
+            "airport_ref": "4515",
+            "airport_ident": "LTAI",
+            "type": "APP",
+            "description": "upper",
+            "frequency_mhz": "122.05"
+        },
+        {
+            "id": "300511",
+            "airport_ref": "4515",
+            "airport_ident": "LTAI",
+            "type": "Approach",
+            "description": "arrival",
+            "frequency_mhz": "119.65"
+        },
+        {
+            "id": "57899",
+            "airport_ref": "4515",
+            "airport_ident": "LTAI",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "118.275"
+        },
+        {
+            "id": "57900",
+            "airport_ref": "4515",
+            "airport_ident": "LTAI",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "123.175"
+        },
+        {
+            "id": "57901",
+            "airport_ref": "4515",
+            "airport_ident": "LTAI",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "317764",
+            "airport_ref": "4515",
+            "airport_ident": "LTAI",
+            "type": "HAVAS",
+            "description": "Handling Services",
+            "frequency_mhz": "131.45"
+        },
+        {
+            "id": "57903",
+            "airport_ref": "4515",
+            "airport_ident": "LTAI",
+            "type": "TWR",
+            "description": "TWR east",
+            "frequency_mhz": "125"
+        },
+        {
+            "id": "57902",
+            "airport_ref": "4515",
+            "airport_ident": "LTAI",
+            "type": "TWR",
+            "description": "TWR west",
+            "frequency_mhz": "126.1"
+        }
+    ],
     "country": {
         "id": "302667",
         "code": "TR",

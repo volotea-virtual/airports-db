@@ -63,6 +63,64 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "50619",
+            "airport_ref": "1877",
+            "airport_ident": "CYQT",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "119.2"
+        },
+        {
+            "id": "50620",
+            "airport_ref": "1877",
+            "airport_ident": "CYQT",
+            "type": "A/G",
+            "description": "MF",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "50621",
+            "airport_ref": "1877",
+            "airport_ident": "CYQT",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.8"
+        },
+        {
+            "id": "50622",
+            "airport_ref": "1877",
+            "airport_ident": "CYQT",
+            "type": "CNTR",
+            "description": "WINNIPEG CNTR",
+            "frequency_mhz": "132.125"
+        },
+        {
+            "id": "50623",
+            "airport_ref": "1877",
+            "airport_ident": "CYQT",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "50624",
+            "airport_ref": "1877",
+            "airport_ident": "CYQT",
+            "type": "RCO",
+            "description": "WINNIPEG RDO",
+            "frequency_mhz": "122.5"
+        },
+        {
+            "id": "50625",
+            "airport_ref": "1877",
+            "airport_ident": "CYQT",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

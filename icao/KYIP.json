@@ -129,6 +129,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "69558",
+            "airport_ref": "3957",
+            "airport_ident": "KYIP",
+            "type": "A/D",
+            "description": "DETROIT APP/DEP",
+            "frequency_mhz": "118.95"
+        },
+        {
+            "id": "69559",
+            "airport_ref": "3957",
+            "airport_ident": "KYIP",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "132.35"
+        },
+        {
+            "id": "69560",
+            "airport_ref": "3957",
+            "airport_ident": "KYIP",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.425"
+        },
+        {
+            "id": "69561",
+            "airport_ref": "3957",
+            "airport_ident": "KYIP",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.75"
+        },
+        {
+            "id": "69562",
+            "airport_ref": "3957",
+            "airport_ident": "KYIP",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "125.275"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

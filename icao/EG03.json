@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "307717",
+            "airport_ref": "307538",
+            "airport_ident": "EG03",
+            "type": "A/G",
+            "description": "Badminton Radio",
+            "frequency_mhz": "123.175"
+        }
+    ],
     "country": {
         "id": "302688",
         "code": "GB",

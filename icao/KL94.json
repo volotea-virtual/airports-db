@@ -63,6 +63,16 @@
             "he_displaced_threshold_ft": "380"
         }
     ],
+    "freqs": [
+        {
+            "id": "58963",
+            "airport_ref": "20316",
+            "airport_ident": "KL94",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

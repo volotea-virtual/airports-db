@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "71668",
+            "airport_ref": "6298",
+            "airport_ident": "SVMD",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "71669",
+            "airport_ref": "6298",
+            "airport_ident": "SVMD",
+            "type": "TWR",
+            "description": "MERIDA TWR",
+            "frequency_mhz": "118.05"
+        }
+    ],
     "country": {
         "id": "302802",
         "code": "VE",

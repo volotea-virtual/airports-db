@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51428",
+            "airport_ref": "6126",
+            "airport_ident": "SKIP",
+            "type": "APP",
+            "description": "ANDES APP",
+            "frequency_mhz": "120.1"
+        },
+        {
+            "id": "51429",
+            "airport_ref": "6126",
+            "airport_ident": "SKIP",
+            "type": "RDO",
+            "description": "IPIALES RDO",
+            "frequency_mhz": "348.8"
+        },
+        {
+            "id": "51430",
+            "airport_ref": "6126",
+            "airport_ident": "SKIP",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302793",
         "code": "CO",

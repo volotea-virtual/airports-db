@@ -85,6 +85,56 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "64523",
+            "airport_ref": "3871",
+            "airport_ident": "KSCH",
+            "type": "A/D",
+            "description": "ALBANY APP/DEP",
+            "frequency_mhz": "118.05"
+        },
+        {
+            "id": "64524",
+            "airport_ref": "3871",
+            "airport_ident": "KSCH",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.275"
+        },
+        {
+            "id": "64525",
+            "airport_ref": "3871",
+            "airport_ident": "KSCH",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "121.3"
+        },
+        {
+            "id": "64526",
+            "airport_ref": "3871",
+            "airport_ident": "KSCH",
+            "type": "OPS",
+            "description": "ANG OPS COMD POST",
+            "frequency_mhz": "140.45"
+        },
+        {
+            "id": "64527",
+            "airport_ref": "3871",
+            "airport_ident": "KSCH",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "121.3"
+        },
+        {
+            "id": "64528",
+            "airport_ref": "3871",
+            "airport_ident": "KSCH",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

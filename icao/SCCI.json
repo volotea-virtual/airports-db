@@ -85,6 +85,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51352",
+            "airport_ref": "6009",
+            "airport_ident": "SCCI",
+            "type": "APP",
+            "description": "PUNTA ARENAS APP",
+            "frequency_mhz": "128.1"
+        },
+        {
+            "id": "51353",
+            "airport_ref": "6009",
+            "airport_ident": "SCCI",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "51354",
+            "airport_ref": "6009",
+            "airport_ident": "SCCI",
+            "type": "RDO",
+            "description": "PUNTA ARENAS RDO",
+            "frequency_mhz": "664.9"
+        },
+        {
+            "id": "51355",
+            "airport_ref": "6009",
+            "airport_ident": "SCCI",
+            "type": "TWR",
+            "description": "PUNTA ARENAS TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
     "country": {
         "id": "302792",
         "code": "CL",

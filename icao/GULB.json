@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53459",
+            "airport_ref": "3149",
+            "airport_ident": "GULB",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "658.9"
+        },
+        {
+            "id": "53460",
+            "airport_ref": "3149",
+            "airport_ident": "GULB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
     "country": {
         "id": "302576",
         "code": "GN",

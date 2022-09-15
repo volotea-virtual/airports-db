@@ -6,16 +6,16 @@
     "latitude_deg": "28.4527",
     "longitude_deg": "-13.8638",
     "elevation_ft": "85",
-    "continent": "EU",
+    "continent": "AF",
     "iso_country": "ES",
     "iso_region": "ES-CN",
-    "municipality": "Fuerteventura Island",
+    "municipality": "El Matorral",
     "scheduled_service": "yes",
     "gps_code": "GCFV",
     "iata_code": "FUE",
     "local_code": "",
     "home_link": "https://www.aena.es/en/fuerteventura.html",
-    "wikipedia_link": "https://en.wikipedia.org/wiki/El_Matorral_Airport",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Fuerteventura_Airport",
     "keywords": "",
     "runways": [
         {
@@ -39,6 +39,40 @@
             "he_elevation_ft": "75",
             "he_heading_degT": "182",
             "he_displaced_threshold_ft": "1719"
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57243",
+            "airport_ref": "3077",
+            "airport_ident": "GCFV",
+            "type": "APP",
+            "description": "CANARIAS APP",
+            "frequency_mhz": "129.3"
+        },
+        {
+            "id": "57244",
+            "airport_ref": "3077",
+            "airport_ident": "GCFV",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "118.65"
+        },
+        {
+            "id": "57245",
+            "airport_ref": "3077",
+            "airport_ident": "GCFV",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "57246",
+            "airport_ref": "3077",
+            "airport_ident": "GCFV",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.5"
         }
     ],
     "country": {

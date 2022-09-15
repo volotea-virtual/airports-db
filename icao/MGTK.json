@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53451",
+            "airport_ref": "4649",
+            "airport_ident": "MGTK",
+            "type": "APP",
+            "description": "TIKAL APP",
+            "frequency_mhz": "121.4"
+        },
+        {
+            "id": "53452",
+            "airport_ref": "4649",
+            "airport_ident": "MGTK",
+            "type": "CLD",
+            "description": "TIKAL CLNC",
+            "frequency_mhz": "120"
+        },
+        {
+            "id": "53453",
+            "airport_ref": "4649",
+            "airport_ident": "MGTK",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "53454",
+            "airport_ref": "4649",
+            "airport_ident": "MGTK",
+            "type": "RDO",
+            "description": "FLORES RDO",
+            "frequency_mhz": "120"
+        },
+        {
+            "id": "53455",
+            "airport_ref": "4649",
+            "airport_ident": "MGTK",
+            "type": "TWR",
+            "description": "TIKAL TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302738",
         "code": "GT",

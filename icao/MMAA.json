@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "55477",
+            "airport_ref": "4688",
+            "airport_ident": "MMAA",
+            "type": "APP",
+            "description": "ACAPULCO APP",
+            "frequency_mhz": "119.9"
+        },
+        {
+            "id": "55478",
+            "airport_ref": "4688",
+            "airport_ident": "MMAA",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "115.9"
+        },
+        {
+            "id": "55479",
+            "airport_ref": "4688",
+            "airport_ident": "MMAA",
+            "type": "TWR",
+            "description": "ACAPULCO TWR",
+            "frequency_mhz": "118.5"
+        }
+    ],
     "country": {
         "id": "302747",
         "code": "MX",

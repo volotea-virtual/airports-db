@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "60672",
+            "airport_ref": "25914",
+            "airport_ident": "WS20",
+            "type": "A/D",
+            "description": "MCCOY TWR APP/DEP",
+            "frequency_mhz": "124.6"
+        },
+        {
+            "id": "60673",
+            "airport_ref": "25914",
+            "airport_ident": "WS20",
+            "type": "OPS",
+            "description": "MCCOY RANGE",
+            "frequency_mhz": "24.74"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "65364",
+            "airport_ref": "20952",
+            "airport_ident": "KRPB",
+            "type": "RDO",
+            "description": "WICHITA RDO",
+            "frequency_mhz": "109.8"
+        },
+        {
+            "id": "65365",
+            "airport_ref": "20952",
+            "airport_ident": "KRPB",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "48364",
+            "airport_ref": "5812",
+            "airport_ident": "SASJ",
+            "type": "TWR",
+            "description": "TWR/APP",
+            "frequency_mhz": "118.7"
+        }
+    ],
     "country": {
         "id": "302789",
         "code": "AR",

@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": "935"
         }
     ],
+    "freqs": [
+        {
+            "id": "52476",
+            "airport_ref": "4149",
+            "airport_ident": "LFMA",
+            "type": "APP",
+            "description": "PROVENCE",
+            "frequency_mhz": "118.85"
+        },
+        {
+            "id": "52477",
+            "airport_ref": "4149",
+            "airport_ident": "LFMA",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "136.225"
+        },
+        {
+            "id": "52478",
+            "airport_ref": "4149",
+            "airport_ident": "LFMA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.75"
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

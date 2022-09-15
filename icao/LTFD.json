@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57827",
+            "airport_ref": "4566",
+            "airport_ident": "LTFD",
+            "type": "EMR",
+            "description": "SAR",
+            "frequency_mhz": "123.1"
+        },
+        {
+            "id": "57828",
+            "airport_ref": "4566",
+            "airport_ident": "LTFD",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "57829",
+            "airport_ref": "4566",
+            "airport_ident": "LTFD",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.7"
+        }
+    ],
     "country": {
         "id": "302667",
         "code": "TR",

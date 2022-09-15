@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "71883",
+            "airport_ref": "3000",
+            "airport_ident": "FVBU",
+            "type": "APP",
+            "description": "NKOMO APP",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "71884",
+            "airport_ref": "3000",
+            "airport_ident": "FVBU",
+            "type": "TWR",
+            "description": "NKOMO TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302612",
         "code": "ZW",

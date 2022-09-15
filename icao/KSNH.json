@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "64242",
+            "airport_ref": "21091",
+            "airport_ident": "KSNH",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "133.925"
+        },
+        {
+            "id": "64243",
+            "airport_ref": "21091",
+            "airport_ident": "KSNH",
+            "type": "CNTR",
+            "description": "MEMPHIS CNTR",
+            "frequency_mhz": "124.35"
+        },
+        {
+            "id": "64244",
+            "airport_ref": "21091",
+            "airport_ident": "KSNH",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "302418",
+            "airport_ref": "29508",
+            "airport_ident": "LSPH",
+            "type": "AFIS",
+            "description": "Winterthur Info (ge)",
+            "frequency_mhz": "134.975"
+        }
+    ],
     "country": {
         "id": "302679",
         "code": "CH",

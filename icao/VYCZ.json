@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "49528",
+            "airport_ref": "26715",
+            "airport_ident": "VYCZ",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "49529",
+            "airport_ref": "26715",
+            "airport_ident": "VYCZ",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "552.6"
+        },
+        {
+            "id": "49530",
+            "airport_ref": "26715",
+            "airport_ident": "VYCZ",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
     "country": {
         "id": "302649",
         "code": "MM",

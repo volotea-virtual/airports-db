@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": "394"
         }
     ],
+    "freqs": [
+        {
+            "id": "57995",
+            "airport_ref": "5513",
+            "airport_ident": "RCFG",
+            "type": "TCA",
+            "description": "TAIPEI CON",
+            "frequency_mhz": "125.5"
+        },
+        {
+            "id": "57996",
+            "airport_ref": "5513",
+            "airport_ident": "RCFG",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.55"
+        }
+    ],
     "country": {
         "id": "302668",
         "code": "TW",

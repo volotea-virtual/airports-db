@@ -63,6 +63,96 @@
             "he_displaced_threshold_ft": "1390"
         }
     ],
+    "freqs": [
+        {
+            "id": "53856",
+            "airport_ref": "26496",
+            "airport_ident": "VECC",
+            "type": "ACC",
+            "description": "KOLKATA CON",
+            "frequency_mhz": "119.3"
+        },
+        {
+            "id": "330530",
+            "airport_ref": "26496",
+            "airport_ident": "VECC",
+            "type": "ACC",
+            "description": "Kolkata Radar",
+            "frequency_mhz": "120.575"
+        },
+        {
+            "id": "330527",
+            "airport_ref": "26496",
+            "airport_ident": "VECC",
+            "type": "ACC",
+            "description": "Kolkata Radar",
+            "frequency_mhz": "132.35"
+        },
+        {
+            "id": "330529",
+            "airport_ref": "26496",
+            "airport_ident": "VECC",
+            "type": "ACC",
+            "description": "Kolkata Radar",
+            "frequency_mhz": "133.75"
+        },
+        {
+            "id": "53857",
+            "airport_ref": "26496",
+            "airport_ident": "VECC",
+            "type": "APP",
+            "description": "KOLKATA APP",
+            "frequency_mhz": "127.9"
+        },
+        {
+            "id": "312820",
+            "airport_ref": "26496",
+            "airport_ident": "VECC",
+            "type": "APP CONTROL",
+            "description": "KOLKATA CONTROL",
+            "frequency_mhz": "132.45"
+        },
+        {
+            "id": "53858",
+            "airport_ref": "26496",
+            "airport_ident": "VECC",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.4"
+        },
+        {
+            "id": "53859",
+            "airport_ref": "26496",
+            "airport_ident": "VECC",
+            "type": "GND",
+            "description": "KOLKATA GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "330528",
+            "airport_ref": "26496",
+            "airport_ident": "VECC",
+            "type": "Oceanic",
+            "description": "Kolkata Control",
+            "frequency_mhz": "132.45"
+        },
+        {
+            "id": "75567",
+            "airport_ref": "26496",
+            "airport_ident": "VECC",
+            "type": "RADAR",
+            "description": "Feeder AREA-APP",
+            "frequency_mhz": "127.3"
+        },
+        {
+            "id": "53860",
+            "airport_ref": "26496",
+            "airport_ident": "VECC",
+            "type": "TWR",
+            "description": "KOLKATA TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
     "country": {
         "id": "302634",
         "code": "IN",

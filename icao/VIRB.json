@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "298451",
+            "airport_ref": "26574",
+            "airport_ident": "VIRB",
+            "type": "App",
+            "description": "Approach",
+            "frequency_mhz": "122.65"
+        },
+        {
+            "id": "298452",
+            "airport_ref": "26574",
+            "airport_ident": "VIRB",
+            "type": "Cmp",
+            "description": "Company",
+            "frequency_mhz": "129.95"
+        },
+        {
+            "id": "53862",
+            "airport_ref": "26574",
+            "airport_ident": "VIRB",
+            "type": "TWR",
+            "description": "Tower",
+            "frequency_mhz": "122.5"
+        }
+    ],
     "country": {
         "id": "302634",
         "code": "IN",

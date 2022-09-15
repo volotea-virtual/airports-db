@@ -85,6 +85,72 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "71517",
+            "airport_ref": "3390",
+            "airport_ident": "KAZO",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "119.2"
+        },
+        {
+            "id": "71518",
+            "airport_ref": "3390",
+            "airport_ident": "KAZO",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.25"
+        },
+        {
+            "id": "71519",
+            "airport_ref": "3390",
+            "airport_ident": "KAZO",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.75"
+        },
+        {
+            "id": "71520",
+            "airport_ref": "3390",
+            "airport_ident": "KAZO",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "71521",
+            "airport_ref": "3390",
+            "airport_ident": "KAZO",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "71522",
+            "airport_ref": "3390",
+            "airport_ident": "KAZO",
+            "type": "RDO",
+            "description": "LANSING RDO",
+            "frequency_mhz": "109"
+        },
+        {
+            "id": "71523",
+            "airport_ref": "3390",
+            "airport_ident": "KAZO",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "71524",
+            "airport_ref": "3390",
+            "airport_ident": "KAZO",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

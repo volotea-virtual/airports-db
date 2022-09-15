@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "314445",
+            "airport_ref": "314444",
+            "airport_ident": "CPP3",
+            "type": "ATF",
+            "description": "",
+            "frequency_mhz": "123.2"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56190",
+            "airport_ref": "2606",
+            "airport_ident": "EPCH",
+            "type": "AFIS",
+            "description": "AERO",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302710",
         "code": "PL",

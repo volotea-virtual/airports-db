@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "333256",
+            "airport_ref": "4402",
+            "airport_ident": "LKMT",
+            "type": "APP",
+            "description": "",
+            "frequency_mhz": "118.375"
+        },
+        {
+            "id": "52005",
+            "airport_ref": "4402",
+            "airport_ident": "LKMT",
+            "type": "APP",
+            "description": "OSTRAVA APP",
+            "frequency_mhz": "119.375"
+        },
+        {
+            "id": "333257",
+            "airport_ref": "4402",
+            "airport_ident": "LKMT",
+            "type": "APP",
+            "description": "",
+            "frequency_mhz": "128.525"
+        },
+        {
+            "id": "52006",
+            "airport_ref": "4402",
+            "airport_ident": "LKMT",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "118.055"
+        },
+        {
+            "id": "52007",
+            "airport_ref": "4402",
+            "airport_ident": "LKMT",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.805"
+        }
+    ],
     "country": {
         "id": "302680",
         "code": "CZ",

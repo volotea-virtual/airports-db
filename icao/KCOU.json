@@ -63,6 +63,64 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "67270",
+            "airport_ref": "3464",
+            "airport_ident": "KCOU",
+            "type": "A/D",
+            "description": "MIZZU APP/DEP",
+            "frequency_mhz": "124.375"
+        },
+        {
+            "id": "67271",
+            "airport_ref": "3464",
+            "airport_ident": "KCOU",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.45"
+        },
+        {
+            "id": "67272",
+            "airport_ref": "3464",
+            "airport_ident": "KCOU",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "119.3"
+        },
+        {
+            "id": "67273",
+            "airport_ref": "3464",
+            "airport_ident": "KCOU",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.6"
+        },
+        {
+            "id": "67274",
+            "airport_ref": "3464",
+            "airport_ident": "KCOU",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "67275",
+            "airport_ref": "3464",
+            "airport_ident": "KCOU",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.3"
+        },
+        {
+            "id": "67276",
+            "airport_ref": "3464",
+            "airport_ident": "KCOU",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56476",
+            "airport_ref": "5741",
+            "airport_ident": "RPVK",
+            "type": "APCH",
+            "description": "Kalibo Approach",
+            "frequency_mhz": "123.1"
+        },
+        {
+            "id": "310073",
+            "airport_ref": "5741",
+            "airport_ident": "RPVK",
+            "type": "TWR",
+            "description": "Kalibo Tower",
+            "frequency_mhz": "124.2"
+        }
+    ],
     "country": {
         "id": "302656",
         "code": "PH",

@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "72294",
+            "airport_ref": "27401",
+            "airport_ident": "YBOC",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "123.4"
+        },
+        {
+            "id": "72295",
+            "airport_ref": "27401",
+            "airport_ident": "YBOC",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "132.1"
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",

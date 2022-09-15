@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53465",
+            "airport_ref": "3147",
+            "airport_ident": "GUFA",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "658.9"
+        },
+        {
+            "id": "53466",
+            "airport_ref": "3147",
+            "airport_ident": "GUFA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "121.9"
+        }
+    ],
     "country": {
         "id": "302576",
         "code": "GN",

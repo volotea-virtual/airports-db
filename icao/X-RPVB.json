@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": "200"
         }
     ],
+    "freqs": [
+        {
+            "id": "56529",
+            "airport_ref": "5733",
+            "airport_ident": "X-RPVB",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "121"
+        },
+        {
+            "id": "56530",
+            "airport_ref": "5733",
+            "airport_ident": "X-RPVB",
+            "type": "FSS",
+            "description": "RDO",
+            "frequency_mhz": "520.5"
+        },
+        {
+            "id": "56531",
+            "airport_ref": "5733",
+            "airport_ident": "X-RPVB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.8"
+        }
+    ],
     "country": {
         "id": "302656",
         "code": "PH",

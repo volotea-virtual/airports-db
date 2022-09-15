@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "55875",
+            "airport_ref": "26600",
+            "airport_ident": "VNVT",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "123.8"
+        }
+    ],
     "country": {
         "id": "302654",
         "code": "NP",

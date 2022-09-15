@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53689",
+            "airport_ref": "26838",
+            "airport_ident": "WIMG",
+            "type": "APP",
+            "description": "PADANG APP",
+            "frequency_mhz": "124"
+        },
+        {
+            "id": "53690",
+            "airport_ref": "26838",
+            "airport_ident": "WIMG",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.25"
+        },
+        {
+            "id": "53691",
+            "airport_ref": "26838",
+            "airport_ident": "WIMG",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.2"
+        }
+    ],
     "country": {
         "id": "302632",
         "code": "ID",

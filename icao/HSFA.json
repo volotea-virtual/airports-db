@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "312726",
+            "airport_ref": "300862",
+            "airport_ident": "HSFA",
+            "type": "App/TWR",
+            "description": "",
+            "frequency_mhz": "128.7"
+        },
+        {
+            "id": "312727",
+            "airport_ref": "300862",
+            "airport_ident": "HSFA",
+            "type": "HF",
+            "description": "",
+            "frequency_mhz": "11.3"
+        }
+    ],
     "country": {
         "id": "302614",
         "code": "SS",

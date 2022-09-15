@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "71656",
+            "airport_ref": "6268",
+            "airport_ident": "SVCN",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "131.2"
+        },
+        {
+            "id": "71657",
+            "airport_ref": "6268",
+            "airport_ident": "SVCN",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.5"
+        }
+    ],
     "country": {
         "id": "302802",
         "code": "VE",

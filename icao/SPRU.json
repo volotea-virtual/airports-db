@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56073",
+            "airport_ref": "6235",
+            "airport_ident": "SPRU",
+            "type": "APP",
+            "description": "TRUJILLO APP/TWR",
+            "frequency_mhz": "118.7"
+        },
+        {
+            "id": "56074",
+            "airport_ref": "6235",
+            "airport_ident": "SPRU",
+            "type": "RDO",
+            "description": "TRUJILLO RDO",
+            "frequency_mhz": "126.9"
+        }
+    ],
     "country": {
         "id": "302798",
         "code": "PE",

@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "48460",
+            "airport_ref": "5804",
+            "airport_ident": "SARE",
+            "type": "ACC",
+            "description": "RESISTENCIA",
+            "frequency_mhz": "119.5"
+        },
+        {
+            "id": "48461",
+            "airport_ref": "5804",
+            "airport_ident": "SARE",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "48462",
+            "airport_ref": "5804",
+            "airport_ident": "SARE",
+            "type": "TWR",
+            "description": "TWR/APP",
+            "frequency_mhz": "118.7"
+        }
+    ],
     "country": {
         "id": "302789",
         "code": "AR",

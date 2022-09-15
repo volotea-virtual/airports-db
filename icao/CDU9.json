@@ -63,6 +63,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "49926",
+            "airport_ref": "822",
+            "airport_ident": "CDU9",
+            "type": "ATF",
+            "description": "CATF",
+            "frequency_mhz": "123.2"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57403",
+            "airport_ref": "2694",
+            "airport_ident": "ESOH",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "122.225"
+        }
+    ],
     "country": {
         "id": "302715",
         "code": "SE",

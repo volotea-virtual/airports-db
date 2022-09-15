@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "311268",
+            "airport_ref": "934",
+            "airport_ident": "CFC6",
+            "type": "ATF",
+            "description": "Rockyford Traffic, 5nm below 5900ASL",
+            "frequency_mhz": "123.2"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

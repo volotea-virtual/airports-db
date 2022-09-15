@@ -17,6 +17,16 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "EW9",
+    "freqs": [
+        {
+            "id": "308002",
+            "airport_ref": "913",
+            "airport_ident": "CEW9",
+            "type": "ATF",
+            "description": "",
+            "frequency_mhz": "123.3"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

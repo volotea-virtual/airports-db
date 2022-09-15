@@ -41,6 +41,64 @@
             "he_displaced_threshold_ft": "810"
         }
     ],
+    "freqs": [
+        {
+            "id": "51813",
+            "airport_ref": "6056",
+            "airport_ident": "SEGU",
+            "type": "ACE",
+            "description": "Aero Club del Ecuador (Internal Freq)",
+            "frequency_mhz": "123.45"
+        },
+        {
+            "id": "51814",
+            "airport_ref": "6056",
+            "airport_ident": "SEGU",
+            "type": "APP",
+            "description": "GUAYAQUIL APP",
+            "frequency_mhz": "119.3"
+        },
+        {
+            "id": "51815",
+            "airport_ref": "6056",
+            "airport_ident": "SEGU",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "115.9"
+        },
+        {
+            "id": "51816",
+            "airport_ref": "6056",
+            "airport_ident": "SEGU",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "51817",
+            "airport_ref": "6056",
+            "airport_ident": "SEGU",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "126.9"
+        },
+        {
+            "id": "51818",
+            "airport_ref": "6056",
+            "airport_ident": "SEGU",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "1002.4"
+        },
+        {
+            "id": "51819",
+            "airport_ref": "6056",
+            "airport_ident": "SEGU",
+            "type": "TWR",
+            "description": "GUAYAQUIL TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302794",
         "code": "EC",

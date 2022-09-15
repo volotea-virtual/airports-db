@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "312873",
+            "airport_ref": "3247",
+            "airport_ident": "HJJJ",
+            "type": "HF",
+            "description": "",
+            "frequency_mhz": "11.3"
+        },
+        {
+            "id": "57373",
+            "airport_ref": "3247",
+            "airport_ident": "HJJJ",
+            "type": "TWR",
+            "description": "APP/TWR",
+            "frequency_mhz": "118.4"
+        }
+    ],
     "country": {
         "id": "302614",
         "code": "SS",

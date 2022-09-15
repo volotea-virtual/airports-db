@@ -63,6 +63,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "333721",
+            "airport_ref": "3113",
+            "airport_ident": "GMMN",
+            "type": "APP",
+            "description": "",
+            "frequency_mhz": "119.9"
+        },
+        {
+            "id": "55323",
+            "airport_ref": "3113",
+            "airport_ident": "GMMN",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "121.3"
+        },
+        {
+            "id": "55324",
+            "airport_ref": "3113",
+            "airport_ident": "GMMN",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.3"
+        },
+        {
+            "id": "55325",
+            "airport_ref": "3113",
+            "airport_ident": "GMMN",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.5"
+        }
+    ],
     "country": {
         "id": "302584",
         "code": "MA",

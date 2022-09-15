@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "50320",
+            "airport_ref": "1155",
+            "airport_ident": "CJZ3",
+            "type": "ATF",
+            "description": "ATF",
+            "frequency_mhz": "122.8"
+        },
+        {
+            "id": "50321",
+            "airport_ref": "1155",
+            "airport_ident": "CJZ3",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

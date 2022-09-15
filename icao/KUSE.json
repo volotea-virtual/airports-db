@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "58859",
+            "airport_ref": "21302",
+            "airport_ident": "KUSE",
+            "type": "A/D",
+            "description": "TOLEDO APP/DEP",
+            "frequency_mhz": "134.35"
+        },
+        {
+            "id": "58860",
+            "airport_ref": "21302",
+            "airport_ident": "KUSE",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

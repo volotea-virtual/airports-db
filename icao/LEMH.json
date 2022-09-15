@@ -85,6 +85,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57248",
+            "airport_ref": "4021",
+            "airport_ident": "LEMH",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.65"
+        },
+        {
+            "id": "57249",
+            "airport_ref": "4021",
+            "airport_ident": "LEMH",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "112.6"
+        },
+        {
+            "id": "57250",
+            "airport_ref": "4021",
+            "airport_ident": "LEMH",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.75"
+        },
+        {
+            "id": "57251",
+            "airport_ref": "4021",
+            "airport_ident": "LEMH",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.2"
+        }
+    ],
     "country": {
         "id": "302684",
         "code": "ES",

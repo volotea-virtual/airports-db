@@ -41,6 +41,96 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "54472",
+            "airport_ref": "5612",
+            "airport_ident": "RJSM",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "120.7"
+        },
+        {
+            "id": "54473",
+            "airport_ref": "5612",
+            "airport_ident": "RJSM",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.4"
+        },
+        {
+            "id": "54474",
+            "airport_ref": "5612",
+            "airport_ident": "RJSM",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "118.65"
+        },
+        {
+            "id": "54475",
+            "airport_ref": "5612",
+            "airport_ident": "RJSM",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "125.3"
+        },
+        {
+            "id": "54476",
+            "airport_ref": "5612",
+            "airport_ident": "RJSM",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "118.65"
+        },
+        {
+            "id": "54477",
+            "airport_ref": "5612",
+            "airport_ident": "RJSM",
+            "type": "MISC",
+            "description": "DRAUGHON RANGE CON",
+            "frequency_mhz": "36.54"
+        },
+        {
+            "id": "54478",
+            "airport_ref": "5612",
+            "airport_ident": "RJSM",
+            "type": "PMSV",
+            "description": "METRO",
+            "frequency_mhz": "34.46"
+        },
+        {
+            "id": "54479",
+            "airport_ref": "5612",
+            "airport_ident": "RJSM",
+            "type": "POST",
+            "description": "COMD POST",
+            "frequency_mhz": "141.6"
+        },
+        {
+            "id": "54480",
+            "airport_ref": "5612",
+            "airport_ident": "RJSM",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "131.45"
+        },
+        {
+            "id": "54481",
+            "airport_ref": "5612",
+            "airport_ident": "RJSM",
+            "type": "TCA",
+            "description": "TCA",
+            "frequency_mhz": "124.05"
+        },
+        {
+            "id": "54482",
+            "airport_ref": "5612",
+            "airport_ident": "RJSM",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "125.3"
+        }
+    ],
     "country": {
         "id": "302639",
         "code": "JP",

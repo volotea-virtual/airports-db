@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "54347",
+            "airport_ref": "2102",
+            "airport_ident": "DIYO",
+            "type": "A/G",
+            "description": "A/G VOICE RDO",
+            "frequency_mhz": "667.3"
+        },
+        {
+            "id": "54348",
+            "airport_ref": "2102",
+            "airport_ident": "DIYO",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.5"
+        }
+    ],
     "country": {
         "id": "302564",
         "code": "CI",

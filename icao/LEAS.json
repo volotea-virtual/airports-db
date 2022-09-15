@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57312",
+            "airport_ref": "3999",
+            "airport_ident": "LEAS",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "118.15"
+        },
+        {
+            "id": "57313",
+            "airport_ref": "3999",
+            "airport_ident": "LEAS",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "57314",
+            "airport_ref": "3999",
+            "airport_ident": "LEAS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.15"
+        }
+    ],
     "country": {
         "id": "302684",
         "code": "ES",

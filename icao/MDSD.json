@@ -41,6 +41,56 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51769",
+            "airport_ref": "4638",
+            "airport_ident": "MDSD",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.3"
+        },
+        {
+            "id": "51770",
+            "airport_ref": "4638",
+            "airport_ident": "MDSD",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.2"
+        },
+        {
+            "id": "51771",
+            "airport_ref": "4638",
+            "airport_ident": "MDSD",
+            "type": "FCC",
+            "description": "SANTO DOMINGO INFO",
+            "frequency_mhz": "126.9"
+        },
+        {
+            "id": "51772",
+            "airport_ref": "4638",
+            "airport_ident": "MDSD",
+            "type": "FSS",
+            "description": "FSS",
+            "frequency_mhz": "122"
+        },
+        {
+            "id": "51773",
+            "airport_ref": "4638",
+            "airport_ident": "MDSD",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "51774",
+            "airport_ref": "4638",
+            "airport_ident": "MDSD",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
     "country": {
         "id": "302734",
         "code": "DO",

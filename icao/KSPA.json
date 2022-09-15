@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "64148",
+            "airport_ref": "3896",
+            "airport_ident": "KSPA",
+            "type": "A/D",
+            "description": "GREER APP/DEP",
+            "frequency_mhz": "119.4"
+        },
+        {
+            "id": "64149",
+            "airport_ref": "3896",
+            "airport_ident": "KSPA",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "133.925"
+        },
+        {
+            "id": "64150",
+            "airport_ref": "3896",
+            "airport_ident": "KSPA",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "120.55"
+        },
+        {
+            "id": "64151",
+            "airport_ref": "3896",
+            "airport_ident": "KSPA",
+            "type": "RDO",
+            "description": "ANDERSON RDO",
+            "frequency_mhz": "115.7"
+        },
+        {
+            "id": "64152",
+            "airport_ref": "3896",
+            "airport_ident": "KSPA",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

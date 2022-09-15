@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52911",
+            "airport_ref": "2276",
+            "airport_ident": "EDTL",
+            "type": "AFIS",
+            "description": "LANGEN INFO",
+            "frequency_mhz": "128.95"
+        },
+        {
+            "id": "52912",
+            "airport_ref": "2276",
+            "airport_ident": "EDTL",
+            "type": "APP",
+            "description": "STRASSBOURG RADAR",
+            "frequency_mhz": "119.45"
+        },
+        {
+            "id": "52913",
+            "airport_ref": "2276",
+            "airport_ident": "EDTL",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "125.175"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

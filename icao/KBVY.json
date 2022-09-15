@@ -63,6 +63,56 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "61756",
+            "airport_ref": "3433",
+            "airport_ident": "KBVY",
+            "type": "A/D",
+            "description": "BOSTON APP/DEP",
+            "frequency_mhz": "124.4"
+        },
+        {
+            "id": "61757",
+            "airport_ref": "3433",
+            "airport_ident": "KBVY",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "119.2"
+        },
+        {
+            "id": "61758",
+            "airport_ref": "3433",
+            "airport_ident": "KBVY",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "125.2"
+        },
+        {
+            "id": "61759",
+            "airport_ref": "3433",
+            "airport_ident": "KBVY",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.6"
+        },
+        {
+            "id": "61760",
+            "airport_ref": "3433",
+            "airport_ident": "KBVY",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "125.2"
+        },
+        {
+            "id": "61761",
+            "airport_ref": "3433",
+            "airport_ident": "KBVY",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

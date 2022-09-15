@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "55600",
+            "airport_ref": "26870",
+            "airport_ident": "WMKE",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "55601",
+            "airport_ref": "26870",
+            "airport_ident": "WMKE",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "123.3"
+        }
+    ],
     "country": {
         "id": "302653",
         "code": "MY",

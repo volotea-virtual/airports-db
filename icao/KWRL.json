@@ -85,6 +85,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "65165",
+            "airport_ref": "3953",
+            "airport_ident": "KWRL",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "135.475"
+        },
+        {
+            "id": "65166",
+            "airport_ref": "3953",
+            "airport_ident": "KWRL",
+            "type": "CNTR",
+            "description": "SALT LAKE CITY CNTR",
+            "frequency_mhz": "133.25"
+        },
+        {
+            "id": "65167",
+            "airport_ref": "3953",
+            "airport_ident": "KWRL",
+            "type": "RDO",
+            "description": "CASPER RDO",
+            "frequency_mhz": "122.4"
+        },
+        {
+            "id": "65168",
+            "airport_ref": "3953",
+            "airport_ident": "KWRL",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123.05"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

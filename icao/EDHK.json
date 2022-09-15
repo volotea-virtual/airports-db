@@ -63,6 +63,56 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52791",
+            "airport_ref": "2235",
+            "airport_ident": "EDHK",
+            "type": "AFIS",
+            "description": "BREMEN INFO",
+            "frequency_mhz": "125.1"
+        },
+        {
+            "id": "52792",
+            "airport_ref": "2235",
+            "airport_ident": "EDHK",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "125.6"
+        },
+        {
+            "id": "52793",
+            "airport_ref": "2235",
+            "airport_ident": "EDHK",
+            "type": "OPS",
+            "description": "KIEL MIL",
+            "frequency_mhz": "33.832"
+        },
+        {
+            "id": "52794",
+            "airport_ref": "2235",
+            "airport_ident": "EDHK",
+            "type": "RDR",
+            "description": "BREMEN RADAR",
+            "frequency_mhz": "136.225"
+        },
+        {
+            "id": "52795",
+            "airport_ref": "2235",
+            "airport_ident": "EDHK",
+            "type": "RMP",
+            "description": "APRON",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "52796",
+            "airport_ref": "2235",
+            "airport_ident": "EDHK",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.975"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

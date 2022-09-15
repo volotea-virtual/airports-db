@@ -63,6 +63,64 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "69954",
+            "airport_ref": "3708",
+            "airport_ident": "KMSO",
+            "type": "A/D",
+            "description": "SPOKANE APP/DEP",
+            "frequency_mhz": "124.9"
+        },
+        {
+            "id": "69955",
+            "airport_ref": "3708",
+            "airport_ident": "KMSO",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.65"
+        },
+        {
+            "id": "69956",
+            "airport_ref": "3708",
+            "airport_ident": "KMSO",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.4"
+        },
+        {
+            "id": "69957",
+            "airport_ref": "3708",
+            "airport_ident": "KMSO",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "69958",
+            "airport_ref": "3708",
+            "airport_ident": "KMSO",
+            "type": "RDO",
+            "description": "GREAT FALLS RDO",
+            "frequency_mhz": "122.45"
+        },
+        {
+            "id": "69959",
+            "airport_ref": "3708",
+            "airport_ident": "KMSO",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.4"
+        },
+        {
+            "id": "69960",
+            "airport_ref": "3708",
+            "airport_ident": "KMSO",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

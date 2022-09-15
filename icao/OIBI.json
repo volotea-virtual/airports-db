@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53996",
+            "airport_ref": "5141",
+            "airport_ident": "OIBI",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.125"
+        }
+    ],
     "country": {
         "id": "302637",
         "code": "IR",

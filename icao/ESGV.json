@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "75359",
+            "airport_ref": "29330",
+            "airport_ident": "ESGV",
+            "type": "RDO",
+            "description": "Varberg Traffic",
+            "frequency_mhz": "123.15"
+        }
+    ],
     "country": {
         "id": "302715",
         "code": "SE",

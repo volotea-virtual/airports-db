@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "332364",
+            "airport_ref": "306929",
+            "airport_ident": "CAA2",
+            "type": "UNICOM",
+            "description": "",
+            "frequency_mhz": "122.75"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

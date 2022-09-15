@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51617",
+            "airport_ref": "4846",
+            "airport_ident": "MUMO",
+            "type": "A/G",
+            "description": "MOA RDO",
+            "frequency_mhz": "340.7"
+        },
+        {
+            "id": "51618",
+            "airport_ref": "4846",
+            "airport_ident": "MUMO",
+            "type": "TWR",
+            "description": "MOA TWR",
+            "frequency_mhz": "123.4"
+        }
+    ],
     "country": {
         "id": "302732",
         "code": "CU",

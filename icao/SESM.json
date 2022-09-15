@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51823",
+            "airport_ref": "6078",
+            "airport_ident": "SESM",
+            "type": "APP",
+            "description": "SHELL APP",
+            "frequency_mhz": "119.5"
+        },
+        {
+            "id": "51824",
+            "airport_ref": "6078",
+            "airport_ident": "SESM",
+            "type": "RDO",
+            "description": "GUAYAQUIL RDO",
+            "frequency_mhz": "126.9"
+        },
+        {
+            "id": "51825",
+            "airport_ref": "6078",
+            "airport_ident": "SESM",
+            "type": "TWR",
+            "description": "SHELL TWR",
+            "frequency_mhz": "122.6"
+        }
+    ],
     "country": {
         "id": "302794",
         "code": "EC",

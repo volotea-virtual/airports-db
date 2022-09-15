@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51642",
+            "airport_ref": "4833",
+            "airport_ident": "MUCL",
+            "type": "A/G",
+            "description": "CAYO LARGO RDO",
+            "frequency_mhz": "340.7"
+        },
+        {
+            "id": "51643",
+            "airport_ref": "4833",
+            "airport_ident": "MUCL",
+            "type": "APP",
+            "description": "CAYO LARGO APP",
+            "frequency_mhz": "120.1"
+        },
+        {
+            "id": "51644",
+            "airport_ref": "4833",
+            "airport_ident": "MUCL",
+            "type": "TWR",
+            "description": "CAYO LARGO TWR",
+            "frequency_mhz": "118.5"
+        }
+    ],
     "country": {
         "id": "302732",
         "code": "CU",

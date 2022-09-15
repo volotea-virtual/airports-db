@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "71629",
+            "airport_ref": "26391",
+            "airport_ident": "UTST",
+            "type": "ACC",
+            "description": "SAMARKAND CON",
+            "frequency_mhz": "134.3"
+        },
+        {
+            "id": "71630",
+            "airport_ref": "26391",
+            "airport_ident": "UTST",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "472.8"
+        },
+        {
+            "id": "71631",
+            "airport_ref": "26391",
+            "airport_ident": "UTST",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.6"
+        }
+    ],
     "country": {
         "id": "302669",
         "code": "UZ",

@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "66426",
+            "airport_ref": "20836",
+            "airport_ident": "KPKD",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "110.6"
+        },
+        {
+            "id": "66427",
+            "airport_ref": "20836",
+            "airport_ident": "KPKD",
+            "type": "RDO",
+            "description": "PRINCETON RDO",
+            "frequency_mhz": "110.6"
+        },
+        {
+            "id": "66428",
+            "airport_ref": "20836",
+            "airport_ident": "KPKD",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

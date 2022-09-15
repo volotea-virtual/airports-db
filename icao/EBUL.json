@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": "2750"
         }
     ],
+    "freqs": [
+        {
+            "id": "49318",
+            "airport_ref": "2167",
+            "airport_ident": "EBUL",
+            "type": "AFIS",
+            "description": "Usel Radio",
+            "frequency_mhz": "135.13"
+        }
+    ],
     "country": {
         "id": "302676",
         "code": "BE",

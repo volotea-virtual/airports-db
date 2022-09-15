@@ -85,6 +85,72 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "66034",
+            "airport_ref": "3638",
+            "airport_ident": "KLCK",
+            "type": "APP",
+            "description": "COLUMBUS APP",
+            "frequency_mhz": "119.15"
+        },
+        {
+            "id": "66035",
+            "airport_ref": "3638",
+            "airport_ident": "KLCK",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "132.75"
+        },
+        {
+            "id": "66036",
+            "airport_ref": "3638",
+            "airport_ident": "KLCK",
+            "type": "DEP",
+            "description": "COLUMBUS DEP",
+            "frequency_mhz": "123.8"
+        },
+        {
+            "id": "66037",
+            "airport_ref": "3638",
+            "airport_ident": "KLCK",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.85"
+        },
+        {
+            "id": "66038",
+            "airport_ref": "3638",
+            "airport_ident": "KLCK",
+            "type": "OPS",
+            "description": "ARNG OPS",
+            "frequency_mhz": "36.7"
+        },
+        {
+            "id": "66039",
+            "airport_ref": "3638",
+            "airport_ident": "KLCK",
+            "type": "POST",
+            "description": "COMD POST",
+            "frequency_mhz": "23.88"
+        },
+        {
+            "id": "66040",
+            "airport_ref": "3638",
+            "airport_ident": "KLCK",
+            "type": "TWR",
+            "description": "RICK TWR",
+            "frequency_mhz": "120.05"
+        },
+        {
+            "id": "66041",
+            "airport_ref": "3638",
+            "airport_ident": "KLCK",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

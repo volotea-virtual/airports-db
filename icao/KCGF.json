@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "60557",
+            "airport_ref": "3446",
+            "airport_ident": "KCGF",
+            "type": "A/D",
+            "description": "CLEVELAND APP/DEP",
+            "frequency_mhz": "125.35"
+        },
+        {
+            "id": "60558",
+            "airport_ref": "3446",
+            "airport_ident": "KCGF",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.5"
+        },
+        {
+            "id": "60559",
+            "airport_ref": "3446",
+            "airport_ident": "KCGF",
+            "type": "GCCD",
+            "description": "GND/CLNC DEL",
+            "frequency_mhz": "121.85"
+        },
+        {
+            "id": "60560",
+            "airport_ref": "3446",
+            "airport_ident": "KCGF",
+            "type": "TWR",
+            "description": "COUNTY TWR",
+            "frequency_mhz": "118.5"
+        },
+        {
+            "id": "60561",
+            "airport_ref": "3446",
+            "airport_ident": "KCGF",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

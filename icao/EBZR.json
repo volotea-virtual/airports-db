@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "49319",
+            "airport_ref": "2169",
+            "airport_ident": "EBZR",
+            "type": "INFO",
+            "description": "Zoersel RADIO",
+            "frequency_mhz": "123.805"
+        }
+    ],
     "country": {
         "id": "302676",
         "code": "BE",

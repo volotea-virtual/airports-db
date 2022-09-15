@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57168",
+            "airport_ref": "4386",
+            "airport_ident": "LJLJ",
+            "type": "A/D",
+            "description": "APP",
+            "frequency_mhz": "135.275"
+        },
+        {
+            "id": "75221",
+            "airport_ref": "4386",
+            "airport_ident": "LJLJ",
+            "type": "ATIS",
+            "description": "also on VOR DOL 112.700",
+            "frequency_mhz": "128.175"
+        },
+        {
+            "id": "75219",
+            "airport_ref": "4386",
+            "airport_ident": "LJLJ",
+            "type": "GND",
+            "description": "",
+            "frequency_mhz": "121.625"
+        },
+        {
+            "id": "75220",
+            "airport_ref": "4386",
+            "airport_ident": "LJLJ",
+            "type": "HANDLING & GA",
+            "description": "",
+            "frequency_mhz": "131.4"
+        },
+        {
+            "id": "57169",
+            "airport_ref": "4386",
+            "airport_ident": "LJLJ",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118"
+        }
+    ],
     "country": {
         "id": "302716",
         "code": "SI",

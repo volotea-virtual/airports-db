@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": "984"
         }
     ],
+    "freqs": [
+        {
+            "id": "51671",
+            "airport_ref": "4858",
+            "airport_ident": "MUTD",
+            "type": "A/G",
+            "description": "TRINIDAD RDO",
+            "frequency_mhz": "340.7"
+        },
+        {
+            "id": "51672",
+            "airport_ref": "4858",
+            "airport_ident": "MUTD",
+            "type": "TWR",
+            "description": "TRINIDAD TWR",
+            "frequency_mhz": "122.5"
+        }
+    ],
     "country": {
         "id": "302732",
         "code": "CU",

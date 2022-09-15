@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "50339",
+            "airport_ref": "657",
+            "airport_ident": "CAZ5",
+            "type": "ATF",
+            "description": "ATF",
+            "frequency_mhz": "123.2"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

@@ -85,6 +85,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "68914",
+            "airport_ref": "21346",
+            "airport_ident": "KW03",
+            "type": "CNTR",
+            "description": "WASHINGTON CNTR",
+            "frequency_mhz": "135.3"
+        },
+        {
+            "id": "68915",
+            "airport_ref": "21346",
+            "airport_ident": "KW03",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

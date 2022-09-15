@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52065",
+            "airport_ref": "2341",
+            "airport_ident": "EFRO",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "52066",
+            "airport_ref": "2341",
+            "airport_ident": "EFRO",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "117.7"
+        },
+        {
+            "id": "52067",
+            "airport_ref": "2341",
+            "airport_ident": "EFRO",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "118.525"
+        },
+        {
+            "id": "52068",
+            "airport_ref": "2341",
+            "airport_ident": "EFRO",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "125.1"
+        },
+        {
+            "id": "52069",
+            "airport_ref": "2341",
+            "airport_ident": "EFRO",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
     "country": {
         "id": "302685",
         "code": "FI",

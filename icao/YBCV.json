@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "48592",
+            "airport_ref": "26905",
+            "airport_ident": "YBCV",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "48593",
+            "airport_ref": "26905",
+            "airport_ident": "YBCV",
+            "type": "FSS",
+            "description": "BRISBANE CNTR",
+            "frequency_mhz": "124.8"
+        },
+        {
+            "id": "48594",
+            "airport_ref": "26905",
+            "airport_ident": "YBCV",
+            "type": "UNIC",
+            "description": "SOUTH WEST AIR BASE",
+            "frequency_mhz": "126.7"
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",

@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56804",
+            "airport_ref": "6458",
+            "airport_ident": "UHMM",
+            "type": "APP",
+            "description": "MAGADAN APP",
+            "frequency_mhz": "126.9"
+        },
+        {
+            "id": "56805",
+            "airport_ref": "6458",
+            "airport_ident": "UHMM",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.4"
+        },
+        {
+            "id": "56806",
+            "airport_ref": "6458",
+            "airport_ident": "UHMM",
+            "type": "PMSV",
+            "description": "MAGADAN VOLMET",
+            "frequency_mhz": "126.2"
+        },
+        {
+            "id": "56807",
+            "airport_ref": "6458",
+            "airport_ident": "UHMM",
+            "type": "TWR",
+            "description": "MAGADAN TWR",
+            "frequency_mhz": "120.8"
+        }
+    ],
     "country": {
         "id": "302714",
         "code": "RU",

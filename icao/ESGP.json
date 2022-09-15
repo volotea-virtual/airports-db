@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57480",
+            "airport_ref": "2652",
+            "airport_ident": "ESGP",
+            "type": "TCA",
+            "description": "GOTEBERG CON",
+            "frequency_mhz": "124.675"
+        },
+        {
+            "id": "57478",
+            "airport_ref": "2652",
+            "airport_ident": "ESGP",
+            "type": "TWR",
+            "description": "Säve Tower",
+            "frequency_mhz": "119.055"
+        }
+    ],
     "country": {
         "id": "302715",
         "code": "SE",

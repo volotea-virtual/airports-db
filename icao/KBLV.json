@@ -63,6 +63,88 @@
             "he_displaced_threshold_ft": "200"
         }
     ],
+    "freqs": [
+        {
+            "id": "69084",
+            "airport_ref": "3417",
+            "airport_ident": "KBLV",
+            "type": "A/D",
+            "description": "ST LOUIS APP/DEP",
+            "frequency_mhz": "125.2"
+        },
+        {
+            "id": "69085",
+            "airport_ref": "3417",
+            "airport_ident": "KBLV",
+            "type": "ACP",
+            "description": "126 ARW COMD POST",
+            "frequency_mhz": "138.55"
+        },
+        {
+            "id": "69086",
+            "airport_ref": "3417",
+            "airport_ident": "KBLV",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.7"
+        },
+        {
+            "id": "69087",
+            "airport_ref": "3417",
+            "airport_ident": "KBLV",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.75"
+        },
+        {
+            "id": "69088",
+            "airport_ref": "3417",
+            "airport_ident": "KBLV",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "119.2"
+        },
+        {
+            "id": "69089",
+            "airport_ref": "3417",
+            "airport_ident": "KBLV",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "23.98"
+        },
+        {
+            "id": "69090",
+            "airport_ref": "3417",
+            "airport_ident": "KBLV",
+            "type": "POST",
+            "description": "375 AW COMD POST",
+            "frequency_mhz": "130.65"
+        },
+        {
+            "id": "69091",
+            "airport_ref": "3417",
+            "airport_ident": "KBLV",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "139.85"
+        },
+        {
+            "id": "69092",
+            "airport_ref": "3417",
+            "airport_ident": "KBLV",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.65"
+        },
+        {
+            "id": "69093",
+            "airport_ref": "3417",
+            "airport_ident": "KBLV",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "63269",
+            "airport_ref": "12466",
+            "airport_ident": "5LS9",
+            "type": "FSS",
+            "description": "DE RIDDER RDO",
+            "frequency_mhz": "122.2"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

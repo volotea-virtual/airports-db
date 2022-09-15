@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "54458",
+            "airport_ref": "5588",
+            "airport_ident": "RJNW",
+            "type": "ACC",
+            "description": "TOKYO CON",
+            "frequency_mhz": "132.45"
+        },
+        {
+            "id": "54459",
+            "airport_ref": "5588",
+            "airport_ident": "RJNW",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "118.05"
+        }
+    ],
     "country": {
         "id": "302639",
         "code": "JP",

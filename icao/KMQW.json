@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "62212",
+            "airport_ref": "20556",
+            "airport_ident": "KMQW",
+            "type": "A/D",
+            "description": "JACKSONVILLE CNTR",
+            "frequency_mhz": "132.3"
+        },
+        {
+            "id": "62213",
+            "airport_ref": "20556",
+            "airport_ident": "KMQW",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

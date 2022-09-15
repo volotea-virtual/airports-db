@@ -63,6 +63,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "61649",
+            "airport_ref": "3501",
+            "airport_ident": "KEAU",
+            "type": "A/D",
+            "description": "MINNEAPOLIS APP/DEP",
+            "frequency_mhz": "125.3"
+        },
+        {
+            "id": "61650",
+            "airport_ref": "3501",
+            "airport_ident": "KEAU",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "119.675"
+        },
+        {
+            "id": "61651",
+            "airport_ref": "3501",
+            "airport_ident": "KEAU",
+            "type": "RDO",
+            "description": "GREEN BAY RDO",
+            "frequency_mhz": "122.65"
+        },
+        {
+            "id": "61652",
+            "airport_ref": "3501",
+            "airport_ident": "KEAU",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

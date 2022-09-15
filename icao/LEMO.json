@@ -41,6 +41,56 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57206",
+            "airport_ref": "4022",
+            "airport_ident": "LEMO",
+            "type": "APP",
+            "description": "SEVILLA APP",
+            "frequency_mhz": "120"
+        },
+        {
+            "id": "57207",
+            "airport_ref": "4022",
+            "airport_ident": "LEMO",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "25.89"
+        },
+        {
+            "id": "57208",
+            "airport_ref": "4022",
+            "airport_ident": "LEMO",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "28.442"
+        },
+        {
+            "id": "57209",
+            "airport_ref": "4022",
+            "airport_ident": "LEMO",
+            "type": "POST",
+            "description": "496 ABS COMD POST",
+            "frequency_mhz": "26.472"
+        },
+        {
+            "id": "57210",
+            "airport_ref": "4022",
+            "airport_ident": "LEMO",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "27.537"
+        },
+        {
+            "id": "57211",
+            "airport_ref": "4022",
+            "airport_ident": "LEMO",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.1"
+        }
+    ],
     "country": {
         "id": "302684",
         "code": "ES",

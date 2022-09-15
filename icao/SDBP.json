@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "49584",
+            "airport_ref": "152",
+            "airport_ident": "SDBP",
+            "type": "A/G",
+            "description": "RDO",
+            "frequency_mhz": "126.725"
+        }
+    ],
     "country": {
         "id": "302791",
         "code": "BR",

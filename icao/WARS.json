@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53719",
+            "airport_ref": "26790",
+            "airport_ident": "WARS",
+            "type": "APP",
+            "description": "SEMARANG APP",
+            "frequency_mhz": "120.3"
+        },
+        {
+            "id": "53720",
+            "airport_ref": "26790",
+            "airport_ident": "WARS",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126"
+        },
+        {
+            "id": "53721",
+            "airport_ref": "26790",
+            "airport_ident": "WARS",
+            "type": "TWR",
+            "description": "YANI TWR",
+            "frequency_mhz": "122.3"
+        }
+    ],
     "country": {
         "id": "302632",
         "code": "ID",

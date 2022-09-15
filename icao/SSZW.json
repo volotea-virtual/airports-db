@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "331172",
+            "airport_ref": "517",
+            "airport_ident": "SSZW",
+            "type": "AFIS",
+            "description": "",
+            "frequency_mhz": "128.1"
+        }
+    ],
     "country": {
         "id": "302791",
         "code": "BR",

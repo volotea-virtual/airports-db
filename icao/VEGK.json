@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53924",
+            "airport_ref": "26500",
+            "airport_ident": "VEGK",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "122.7"
+        },
+        {
+            "id": "53925",
+            "airport_ref": "26500",
+            "airport_ident": "VEGK",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.5"
+        }
+    ],
     "country": {
         "id": "302634",
         "code": "IN",

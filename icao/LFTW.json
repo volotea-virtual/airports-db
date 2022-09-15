@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52483",
+            "airport_ref": "4242",
+            "airport_ident": "LFTW",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "52484",
+            "airport_ref": "4242",
+            "airport_ident": "LFTW",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "129.35"
+        },
+        {
+            "id": "52485",
+            "airport_ref": "4242",
+            "airport_ident": "LFTW",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "52486",
+            "airport_ref": "4242",
+            "airport_ident": "LFTW",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "123.2"
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

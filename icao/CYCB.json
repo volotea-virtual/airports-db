@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51005",
+            "airport_ref": "1685",
+            "airport_ident": "CYCB",
+            "type": "ACC",
+            "description": "ARTIC RDO",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "51006",
+            "airport_ref": "1685",
+            "airport_ident": "CYCB",
+            "type": "ARTC",
+            "description": "ARTIC RDO",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "51007",
+            "airport_ref": "1685",
+            "airport_ident": "CYCB",
+            "type": "ATF",
+            "description": "MANDATORY FREQ",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "51008",
+            "airport_ref": "1685",
+            "airport_ident": "CYCB",
+            "type": "OPS",
+            "description": "OPS",
+            "frequency_mhz": "22.89"
+        },
+        {
+            "id": "51009",
+            "airport_ref": "1685",
+            "airport_ident": "CYCB",
+            "type": "RDO",
+            "description": "ARPT RDO",
+            "frequency_mhz": "122.1"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

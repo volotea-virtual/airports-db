@@ -63,6 +63,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "54112",
+            "airport_ref": "3279",
+            "airport_ident": "LL59",
+            "type": "APP",
+            "description": "TEL AVIV APP",
+            "frequency_mhz": "120.9"
+        }
+    ],
     "country": {
         "id": "302633",
         "code": "IL",

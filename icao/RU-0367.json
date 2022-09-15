@@ -17,6 +17,16 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "УУЦБ, Аэродром Белоомут",
+    "freqs": [
+        {
+            "id": "325057",
+            "airport_ref": "46237",
+            "airport_ident": "RU-0367",
+            "type": "TWR",
+            "description": "Kasimovskoye",
+            "frequency_mhz": "118.85"
+        }
+    ],
     "country": {
         "id": "302714",
         "code": "RU",

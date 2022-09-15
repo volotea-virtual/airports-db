@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51404",
+            "airport_ref": "6134",
+            "airport_ident": "SKMG",
+            "type": "RDO",
+            "description": "MAGANGUE RDO",
+            "frequency_mhz": "348.8"
+        },
+        {
+            "id": "51405",
+            "airport_ref": "6134",
+            "airport_ident": "SKMG",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
     "country": {
         "id": "302793",
         "code": "CO",

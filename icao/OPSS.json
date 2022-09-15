@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56156",
+            "airport_ref": "5280",
+            "airport_ident": "OPSS",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "56157",
+            "airport_ref": "5280",
+            "airport_ident": "OPSS",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "292.3"
+        },
+        {
+            "id": "56158",
+            "airport_ref": "5280",
+            "airport_ident": "OPSS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.7"
+        }
+    ],
     "country": {
         "id": "302657",
         "code": "PK",

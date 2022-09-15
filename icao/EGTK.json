@@ -107,6 +107,64 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "58411",
+            "airport_ref": "2483",
+            "airport_ident": "EGTK",
+            "type": "APP",
+            "description": "OXFORD APP",
+            "frequency_mhz": "125.325"
+        },
+        {
+            "id": "307866",
+            "airport_ref": "2483",
+            "airport_ident": "EGTK",
+            "type": "APP",
+            "description": "",
+            "frequency_mhz": "127.75"
+        },
+        {
+            "id": "58412",
+            "airport_ref": "2483",
+            "airport_ident": "EGTK",
+            "type": "ATIS",
+            "description": "OXFORD ATIS",
+            "frequency_mhz": "136.225"
+        },
+        {
+            "id": "58413",
+            "airport_ref": "2483",
+            "airport_ident": "EGTK",
+            "type": "GND",
+            "description": "OXFORD GND",
+            "frequency_mhz": "121.95"
+        },
+        {
+            "id": "75228",
+            "airport_ref": "2483",
+            "airport_ident": "EGTK",
+            "type": "LARS",
+            "description": "Brize Radar (normal working hrs only)",
+            "frequency_mhz": "124.27"
+        },
+        {
+            "id": "58414",
+            "airport_ref": "2483",
+            "airport_ident": "EGTK",
+            "type": "TWR",
+            "description": "OXFORD TWR",
+            "frequency_mhz": "133.425"
+        },
+        {
+            "id": "75229",
+            "airport_ref": "2483",
+            "airport_ident": "EGTK",
+            "type": "TWR",
+            "description": "TWR - Use at w/ends",
+            "frequency_mhz": "133.425"
+        }
+    ],
     "country": {
         "id": "302688",
         "code": "GB",

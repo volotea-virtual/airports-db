@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "354566",
+            "airport_ref": "302324",
+            "airport_ident": "TH-0001",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "354569",
+            "airport_ref": "302324",
+            "airport_ident": "TH-0001",
+            "type": "UTAPAO Approach",
+            "description": "",
+            "frequency_mhz": "119.7"
+        }
+    ],
     "country": {
         "id": "302663",
         "code": "TH",

@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57019",
+            "airport_ref": "2787",
+            "airport_ident": "FAGY",
+            "type": "APP",
+            "description": "DURBAN APP",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "57020",
+            "airport_ref": "2787",
+            "airport_ident": "FAGY",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "123.5"
+        }
+    ],
     "country": {
         "id": "302610",
         "code": "ZA",

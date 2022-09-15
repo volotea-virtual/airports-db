@@ -63,6 +63,40 @@
             "he_displaced_threshold_ft": "197"
         }
     ],
+    "freqs": [
+        {
+            "id": "69125",
+            "airport_ref": "20366",
+            "airport_ident": "KLOT",
+            "type": "A/D",
+            "description": "CHICAGO APP/DEP",
+            "frequency_mhz": "119.35"
+        },
+        {
+            "id": "69126",
+            "airport_ref": "20366",
+            "airport_ident": "KLOT",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.525"
+        },
+        {
+            "id": "69127",
+            "airport_ref": "20366",
+            "airport_ident": "KLOT",
+            "type": "FSS",
+            "description": "KANKAKEE RDO",
+            "frequency_mhz": "122.5"
+        },
+        {
+            "id": "69128",
+            "airport_ref": "20366",
+            "airport_ident": "KLOT",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

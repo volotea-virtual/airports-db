@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "50729",
+            "airport_ref": "1974",
+            "airport_ident": "CYYD",
+            "type": "A/G",
+            "description": "MANDATORY FREQ RDO",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "50730",
+            "airport_ref": "1974",
+            "airport_ident": "CYYD",
+            "type": "FSS",
+            "description": "RDO",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "50731",
+            "airport_ref": "1974",
+            "airport_ident": "CYYD",
+            "type": "RCO",
+            "description": "PACIFIC RDO",
+            "frequency_mhz": "126.7"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

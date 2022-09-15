@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": "300"
         }
     ],
+    "freqs": [
+        {
+            "id": "309336",
+            "airport_ref": "14055",
+            "airport_ident": "7B3",
+            "type": "CTAF",
+            "description": "Hampton Traffic",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

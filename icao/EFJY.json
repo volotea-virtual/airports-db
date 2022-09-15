@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52093",
+            "airport_ref": "2316",
+            "airport_ident": "EFJY",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "52094",
+            "airport_ref": "2316",
+            "airport_ident": "EFJY",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "134.15"
+        },
+        {
+            "id": "52095",
+            "airport_ref": "2316",
+            "airport_ident": "EFJY",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118"
+        }
+    ],
     "country": {
         "id": "302685",
         "code": "FI",

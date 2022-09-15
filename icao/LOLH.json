@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "345631",
+            "airport_ref": "29473",
+            "airport_ident": "LOLH",
+            "type": "Info",
+            "description": "HB Hofkirchen",
+            "frequency_mhz": "122.18"
+        }
+    ],
     "country": {
         "id": "302674",
         "code": "AT",

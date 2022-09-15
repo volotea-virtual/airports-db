@@ -63,6 +63,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53927",
+            "airport_ref": "26613",
+            "airport_ident": "VODG",
+            "type": "TWR",
+            "description": "ACADEMY TWR",
+            "frequency_mhz": "119.1"
+        }
+    ],
     "country": {
         "id": "302634",
         "code": "IN",

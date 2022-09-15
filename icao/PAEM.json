@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "58809",
+            "airport_ref": "5358",
+            "airport_ident": "PAEM",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "135.35"
+        },
+        {
+            "id": "58810",
+            "airport_ref": "5358",
+            "airport_ident": "PAEM",
+            "type": "CNTR",
+            "description": "ANCHORAGE CNTR",
+            "frequency_mhz": "132.5"
+        },
+        {
+            "id": "58811",
+            "airport_ref": "5358",
+            "airport_ident": "PAEM",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        },
+        {
+            "id": "58812",
+            "airport_ref": "5358",
+            "airport_ident": "PAEM",
+            "type": "FSS",
+            "description": "KENAI RDO",
+            "frequency_mhz": "122.55"
+        },
+        {
+            "id": "58813",
+            "airport_ref": "5358",
+            "airport_ident": "PAEM",
+            "type": "MISC",
+            "description": "TWEB",
+            "frequency_mhz": "177.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

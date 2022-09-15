@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "48299",
+            "airport_ref": "6441",
+            "airport_ident": "UBBG",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "124"
+        },
+        {
+            "id": "48300",
+            "airport_ref": "6441",
+            "airport_ident": "UBBG",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "119.25"
+        },
+        {
+            "id": "48301",
+            "airport_ref": "6441",
+            "airport_ident": "UBBG",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "124"
+        }
+    ],
     "country": {
         "id": "302621",
         "code": "AZ",

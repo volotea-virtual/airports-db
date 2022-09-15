@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "49634",
+            "airport_ref": "5937",
+            "airport_ident": "SBME",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.2"
+        },
+        {
+            "id": "49635",
+            "airport_ref": "5937",
+            "airport_ident": "SBME",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.775"
+        },
+        {
+            "id": "49636",
+            "airport_ref": "5937",
+            "airport_ident": "SBME",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "49637",
+            "airport_ref": "5937",
+            "airport_ident": "SBME",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.45"
+        }
+    ],
     "country": {
         "id": "302791",
         "code": "BR",

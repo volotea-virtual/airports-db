@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51611",
+            "airport_ref": "2873",
+            "airport_ident": "FEFF",
+            "type": "A/G",
+            "description": "RDO",
+            "frequency_mhz": "655.9"
+        },
+        {
+            "id": "51612",
+            "airport_ref": "2873",
+            "airport_ident": "FEFF",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.7"
+        }
+    ],
     "country": {
         "id": "302562",
         "code": "CF",

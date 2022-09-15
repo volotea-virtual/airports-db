@@ -85,6 +85,64 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "65703",
+            "airport_ref": "3861",
+            "airport_ident": "KSAC",
+            "type": "A/D",
+            "description": "NORCAL APP/DEP",
+            "frequency_mhz": "125.25"
+        },
+        {
+            "id": "65704",
+            "airport_ref": "3861",
+            "airport_ident": "KSAC",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "125.5"
+        },
+        {
+            "id": "65705",
+            "airport_ref": "3861",
+            "airport_ident": "KSAC",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "119.5"
+        },
+        {
+            "id": "65706",
+            "airport_ref": "3861",
+            "airport_ident": "KSAC",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "125"
+        },
+        {
+            "id": "65707",
+            "airport_ref": "3861",
+            "airport_ident": "KSAC",
+            "type": "RDO",
+            "description": "RANCHO RDO",
+            "frequency_mhz": "122.05"
+        },
+        {
+            "id": "65708",
+            "airport_ref": "3861",
+            "airport_ident": "KSAC",
+            "type": "TWR",
+            "description": "EXEC TWR",
+            "frequency_mhz": "119.5"
+        },
+        {
+            "id": "65709",
+            "airport_ref": "3861",
+            "airport_ident": "KSAC",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

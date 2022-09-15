@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "317837",
+            "airport_ref": "317836",
+            "airport_ident": "CZ-0101",
+            "type": "Info",
+            "description": "Dětřichov Radio",
+            "frequency_mhz": "125.825"
+        }
+    ],
     "country": {
         "id": "302680",
         "code": "CZ",

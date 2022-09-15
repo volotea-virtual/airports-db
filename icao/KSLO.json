@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "69591",
+            "airport_ref": "21082",
+            "airport_ident": "KSLO",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.525"
+        },
+        {
+            "id": "69592",
+            "airport_ref": "21082",
+            "airport_ident": "KSLO",
+            "type": "CNTR",
+            "description": "KANSAS CITY CNTR",
+            "frequency_mhz": "127.7"
+        },
+        {
+            "id": "69593",
+            "airport_ref": "21082",
+            "airport_ident": "KSLO",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

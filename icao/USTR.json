@@ -63,6 +63,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56835",
+            "airport_ref": "26379",
+            "airport_ident": "USTR",
+            "type": "APP",
+            "description": "TYUMEN APP",
+            "frequency_mhz": "126.1"
+        },
+        {
+            "id": "56836",
+            "airport_ref": "26379",
+            "airport_ident": "USTR",
+            "type": "ATIS",
+            "description": "TYUMEN ATIS",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "56837",
+            "airport_ref": "26379",
+            "airport_ident": "USTR",
+            "type": "GND",
+            "description": "TYUMEN TAXIING",
+            "frequency_mhz": "119"
+        },
+        {
+            "id": "56838",
+            "airport_ref": "26379",
+            "airport_ident": "USTR",
+            "type": "RDR",
+            "description": "TYUMEN KRUG",
+            "frequency_mhz": "120.4"
+        },
+        {
+            "id": "56839",
+            "airport_ref": "26379",
+            "airport_ident": "USTR",
+            "type": "TWR",
+            "description": "TYUMEN START",
+            "frequency_mhz": "118.2"
+        }
+    ],
     "country": {
         "id": "302714",
         "code": "RU",

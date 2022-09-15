@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "72001",
+            "airport_ref": "29167",
+            "airport_ident": "EGNW",
+            "type": "A/G",
+            "description": "Wickenby A/G",
+            "frequency_mhz": "122.45"
+        },
+        {
+            "id": "72002",
+            "airport_ref": "29167",
+            "airport_ident": "EGNW",
+            "type": "A/G",
+            "description": "Wickenby A/G",
+            "frequency_mhz": "122.45"
+        }
+    ],
     "country": {
         "id": "302688",
         "code": "GB",

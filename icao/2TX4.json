@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": "512"
         }
     ],
+    "freqs": [
+        {
+            "id": "60402",
+            "airport_ref": "9810",
+            "airport_ident": "2TX4",
+            "type": "CNTR",
+            "description": "HOUSTON CNTR",
+            "frequency_mhz": "126.625"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

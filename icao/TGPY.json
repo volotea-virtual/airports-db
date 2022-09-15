@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52687",
+            "airport_ref": "6367",
+            "airport_ident": "TGPY",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.4"
+        },
+        {
+            "id": "52688",
+            "airport_ref": "6367",
+            "airport_ident": "TGPY",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "52689",
+            "airport_ref": "6367",
+            "airport_ident": "TGPY",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.9"
+        }
+    ],
     "country": {
         "id": "302735",
         "code": "GD",

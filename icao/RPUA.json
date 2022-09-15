@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "326908",
+            "airport_ref": "313723",
+            "airport_ident": "RPUA",
+            "type": "RDO",
+            "description": "",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302656",
         "code": "PH",

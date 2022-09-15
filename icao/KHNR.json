@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "62188",
+            "airport_ref": "20069",
+            "airport_ident": "KHNR",
+            "type": "A/D",
+            "description": "OMAHA APP/DEP",
+            "frequency_mhz": "124.5"
+        },
+        {
+            "id": "62189",
+            "airport_ref": "20069",
+            "airport_ident": "KHNR",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.325"
+        },
+        {
+            "id": "62190",
+            "airport_ref": "20069",
+            "airport_ident": "KHNR",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

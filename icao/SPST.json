@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56111",
+            "airport_ref": "6237",
+            "airport_ident": "SPST",
+            "type": "APP",
+            "description": "TARAPOTO APP/TWR",
+            "frequency_mhz": "118.4"
+        },
+        {
+            "id": "56112",
+            "airport_ref": "6237",
+            "airport_ident": "SPST",
+            "type": "RDO",
+            "description": "TARAPOTO RDO",
+            "frequency_mhz": "126.9"
+        },
+        {
+            "id": "56113",
+            "airport_ref": "6237",
+            "airport_ident": "SPST",
+            "type": "TWR",
+            "description": "TARAPOTO TWR",
+            "frequency_mhz": "118.4"
+        }
+    ],
     "country": {
         "id": "302798",
         "code": "PE",

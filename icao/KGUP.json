@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "62515",
+            "airport_ref": "3572",
+            "airport_ident": "KGUP",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "118.375"
+        },
+        {
+            "id": "62516",
+            "airport_ref": "3572",
+            "airport_ident": "KGUP",
+            "type": "RDO",
+            "description": "ALBUQUERQUE RDO",
+            "frequency_mhz": "122.6"
+        },
+        {
+            "id": "62517",
+            "airport_ref": "3572",
+            "airport_ident": "KGUP",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

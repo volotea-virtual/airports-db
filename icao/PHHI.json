@@ -41,6 +41,96 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "61099",
+            "airport_ref": "5443",
+            "airport_ident": "PHHI",
+            "type": "A/G",
+            "description": "VFR ADVSY SVC",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "61100",
+            "airport_ref": "5443",
+            "airport_ident": "PHHI",
+            "type": "APP",
+            "description": "HONOLULU APP",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "61101",
+            "airport_ref": "5443",
+            "airport_ident": "PHHI",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "119.675"
+        },
+        {
+            "id": "61102",
+            "airport_ref": "5443",
+            "airport_ident": "PHHI",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.3"
+        },
+        {
+            "id": "61103",
+            "airport_ref": "5443",
+            "airport_ident": "PHHI",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "61104",
+            "airport_ref": "5443",
+            "airport_ident": "PHHI",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "41.5"
+        },
+        {
+            "id": "61105",
+            "airport_ref": "5443",
+            "airport_ident": "PHHI",
+            "type": "INFO",
+            "description": "LIGHTNING RDO",
+            "frequency_mhz": "139.2"
+        },
+        {
+            "id": "61106",
+            "airport_ref": "5443",
+            "airport_ident": "PHHI",
+            "type": "MISC",
+            "description": "PINEAPPLE",
+            "frequency_mhz": "125.1"
+        },
+        {
+            "id": "61107",
+            "airport_ref": "5443",
+            "airport_ident": "PHHI",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "125.1"
+        },
+        {
+            "id": "61108",
+            "airport_ref": "5443",
+            "airport_ident": "PHHI",
+            "type": "RDO",
+            "description": "HONOLULU RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "61109",
+            "airport_ref": "5443",
+            "airport_ident": "PHHI",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "126.3"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

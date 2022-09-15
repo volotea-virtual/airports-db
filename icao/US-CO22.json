@@ -85,6 +85,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "61896",
+            "airport_ref": "16876",
+            "airport_ident": "US-CO22",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

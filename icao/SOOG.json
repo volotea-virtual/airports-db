@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52045",
+            "airport_ref": "6199",
+            "airport_ident": "SOOG",
+            "type": "AFIS",
+            "description": "OIAPOQUE AFIS",
+            "frequency_mhz": "125.9"
+        }
+    ],
     "country": {
         "id": "302796",
         "code": "GF",

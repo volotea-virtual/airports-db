@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": "394"
         }
     ],
+    "freqs": [
+        {
+            "id": "325738",
+            "airport_ref": "325736",
+            "airport_ident": "GOBD",
+            "type": "ARR",
+            "description": "",
+            "frequency_mhz": "120.5"
+        },
+        {
+            "id": "325740",
+            "airport_ref": "325736",
+            "airport_ident": "GOBD",
+            "type": "ATIS",
+            "description": "ATIS EN",
+            "frequency_mhz": "126.2"
+        },
+        {
+            "id": "325741",
+            "airport_ref": "325736",
+            "airport_ident": "GOBD",
+            "type": "ATIS",
+            "description": "ATIS FR",
+            "frequency_mhz": "126.6"
+        },
+        {
+            "id": "325739",
+            "airport_ref": "325736",
+            "airport_ident": "GOBD",
+            "type": "TWR",
+            "description": "",
+            "frequency_mhz": "118.8"
+        }
+    ],
     "country": {
         "id": "302600",
         "code": "SN",

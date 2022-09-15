@@ -63,6 +63,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56775",
+            "airport_ref": "6491",
+            "airport_ident": "ULOO",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122"
+        }
+    ],
     "country": {
         "id": "302714",
         "code": "RU",

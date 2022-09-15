@@ -2,21 +2,21 @@
     "id": "3107",
     "ident": "GMFO",
     "type": "medium_airport",
-    "name": "Angads Airport",
-    "latitude_deg": "34.787200927734375",
-    "longitude_deg": "-1.92399001121521",
+    "name": "Oujda Angads Airport",
+    "latitude_deg": "34.789558",
+    "longitude_deg": "-1.926041",
     "elevation_ft": "1535",
     "continent": "AF",
     "iso_country": "MA",
     "iso_region": "MA-OUJ",
-    "municipality": "Oujda",
+    "municipality": "Ahl Angad",
     "scheduled_service": "yes",
     "gps_code": "GMFO",
     "iata_code": "OUD",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Angads_Airport",
-    "keywords": "",
+    "keywords": "Oujda Airfield",
     "runways": [
         {
             "id": "237597",
@@ -61,6 +61,32 @@
             "he_elevation_ft": "1493",
             "he_heading_degT": "312",
             "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55326",
+            "airport_ref": "3107",
+            "airport_ident": "GMFO",
+            "type": "APP",
+            "description": "OUJDA APP",
+            "frequency_mhz": "136.6"
+        },
+        {
+            "id": "55327",
+            "airport_ref": "3107",
+            "airport_ident": "GMFO",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "121.6"
+        },
+        {
+            "id": "55328",
+            "airport_ref": "3107",
+            "airport_ident": "GMFO",
+            "type": "TWR",
+            "description": "OUJDA TWR",
+            "frequency_mhz": "118.2"
         }
     ],
     "country": {

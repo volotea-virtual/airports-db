@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": "885"
         }
     ],
+    "freqs": [
+        {
+            "id": "56169",
+            "airport_ref": "5274",
+            "airport_ident": "OPRN",
+            "type": "APP",
+            "description": "ISLAMABAD APP",
+            "frequency_mhz": "124.9"
+        },
+        {
+            "id": "56170",
+            "airport_ref": "5274",
+            "airport_ident": "OPRN",
+            "type": "APP",
+            "description": "CHERAT APP",
+            "frequency_mhz": "125.6"
+        },
+        {
+            "id": "56171",
+            "airport_ref": "5274",
+            "airport_ident": "OPRN",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "129.6"
+        },
+        {
+            "id": "56172",
+            "airport_ref": "5274",
+            "airport_ident": "OPRN",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "123.7"
+        }
+    ],
     "country": {
         "id": "302657",
         "code": "PK",

@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": "700"
         }
     ],
+    "freqs": [
+        {
+            "id": "54061",
+            "airport_ref": "5151",
+            "airport_ident": "OICK",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "118.35"
+        }
+    ],
     "country": {
         "id": "302637",
         "code": "IR",

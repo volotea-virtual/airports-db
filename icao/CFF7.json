@@ -63,6 +63,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "49879",
+            "airport_ref": "945",
+            "airport_ident": "CFF7",
+            "type": "MIL",
+            "description": "Range Control",
+            "frequency_mhz": "49.9"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

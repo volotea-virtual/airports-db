@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": "200"
         }
     ],
+    "freqs": [
+        {
+            "id": "67219",
+            "airport_ref": "9772",
+            "airport_ident": "2TA6",
+            "type": "CNTR",
+            "description": "FORT WORTH CNTR",
+            "frequency_mhz": "127.45"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

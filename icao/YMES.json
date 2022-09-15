@@ -63,6 +63,64 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "48751",
+            "airport_ref": "27053",
+            "airport_ident": "YMES",
+            "type": "APP",
+            "description": "SALE APP",
+            "frequency_mhz": "123.3"
+        },
+        {
+            "id": "48752",
+            "airport_ref": "27053",
+            "airport_ident": "YMES",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "31.62"
+        },
+        {
+            "id": "48753",
+            "airport_ref": "27053",
+            "airport_ident": "YMES",
+            "type": "CLD",
+            "description": "SALE CLNC DEL",
+            "frequency_mhz": "133.6"
+        },
+        {
+            "id": "48754",
+            "airport_ref": "27053",
+            "airport_ident": "YMES",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "48755",
+            "airport_ref": "27053",
+            "airport_ident": "YMES",
+            "type": "FSS",
+            "description": "MELBOURNE CNTR",
+            "frequency_mhz": "124"
+        },
+        {
+            "id": "48756",
+            "airport_ref": "27053",
+            "airport_ident": "YMES",
+            "type": "GND",
+            "description": "SALE GND",
+            "frequency_mhz": "134.1"
+        },
+        {
+            "id": "48757",
+            "airport_ref": "27053",
+            "airport_ident": "YMES",
+            "type": "TWR",
+            "description": "SALE TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",

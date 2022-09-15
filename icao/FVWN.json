@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "71881",
+            "airport_ref": "3014",
+            "airport_ident": "FVWN",
+            "type": "APP",
+            "description": "PARK APP",
+            "frequency_mhz": "119.9"
+        },
+        {
+            "id": "71882",
+            "airport_ref": "3014",
+            "airport_ident": "FVWN",
+            "type": "TWR",
+            "description": "PARK TWR",
+            "frequency_mhz": "119.9"
+        }
+    ],
     "country": {
         "id": "302612",
         "code": "ZW",

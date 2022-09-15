@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "70822",
+            "airport_ref": "5362",
+            "airport_ident": "PAFE",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "135.25"
+        },
+        {
+            "id": "70823",
+            "airport_ref": "5362",
+            "airport_ident": "PAFE",
+            "type": "CNTR",
+            "description": "ANCHORAGE CNTR",
+            "frequency_mhz": "118"
+        },
+        {
+            "id": "70824",
+            "airport_ref": "5362",
+            "airport_ident": "PAFE",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        },
+        {
+            "id": "70825",
+            "airport_ref": "5362",
+            "airport_ident": "PAFE",
+            "type": "FSS",
+            "description": "SITKA RDO",
+            "frequency_mhz": "121.3"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

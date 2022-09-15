@@ -63,6 +63,72 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "70638",
+            "airport_ref": "3609",
+            "airport_ident": "KILM",
+            "type": "A/D",
+            "description": "WILMINGTON APP/DEP 164-343",
+            "frequency_mhz": "118.25"
+        },
+        {
+            "id": "312495",
+            "airport_ref": "3609",
+            "airport_ident": "KILM",
+            "type": "A/D",
+            "description": "WILMINGTON APP/DEP 344-163",
+            "frequency_mhz": "135.75"
+        },
+        {
+            "id": "70639",
+            "airport_ref": "3609",
+            "airport_ident": "KILM",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "124.975"
+        },
+        {
+            "id": "70640",
+            "airport_ref": "3609",
+            "airport_ident": "KILM",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "119.9"
+        },
+        {
+            "id": "70641",
+            "airport_ref": "3609",
+            "airport_ident": "KILM",
+            "type": "GCCD",
+            "description": "GND/CLNC DEL",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "70642",
+            "airport_ref": "3609",
+            "airport_ident": "KILM",
+            "type": "RDO",
+            "description": "RALEIGH RDO",
+            "frequency_mhz": "122.55"
+        },
+        {
+            "id": "70643",
+            "airport_ref": "3609",
+            "airport_ident": "KILM",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.9"
+        },
+        {
+            "id": "70644",
+            "airport_ref": "3609",
+            "airport_ident": "KILM",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

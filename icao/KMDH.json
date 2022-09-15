@@ -85,6 +85,56 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "66311",
+            "airport_ref": "3671",
+            "airport_ident": "KMDH",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "119.85"
+        },
+        {
+            "id": "66312",
+            "airport_ref": "3671",
+            "airport_ident": "KMDH",
+            "type": "CNTR",
+            "description": "KANSAS CITY CNTR",
+            "frequency_mhz": "125.3"
+        },
+        {
+            "id": "66313",
+            "airport_ref": "3671",
+            "airport_ident": "KMDH",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "125.35"
+        },
+        {
+            "id": "66314",
+            "airport_ref": "3671",
+            "airport_ident": "KMDH",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "66315",
+            "airport_ref": "3671",
+            "airport_ident": "KMDH",
+            "type": "TWR",
+            "description": "CARBONDALE TWR",
+            "frequency_mhz": "125.35"
+        },
+        {
+            "id": "66316",
+            "airport_ref": "3671",
+            "airport_ident": "KMDH",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

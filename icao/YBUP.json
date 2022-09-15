@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "72363",
+            "airport_ref": "27422",
+            "airport_ident": "YBUP",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "120"
+        },
+        {
+            "id": "72364",
+            "airport_ref": "27422",
+            "airport_ident": "YBUP",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "119.6"
+        },
+        {
+            "id": "72365",
+            "airport_ref": "27422",
+            "airport_ident": "YBUP",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "124.1"
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",

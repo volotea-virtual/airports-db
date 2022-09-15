@@ -63,6 +63,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "71990",
+            "airport_ref": "29146",
+            "airport_ident": "EGHO",
+            "type": "A/G",
+            "description": "Thruxton A/G",
+            "frequency_mhz": "130.45"
+        }
+    ],
     "country": {
         "id": "302688",
         "code": "GB",

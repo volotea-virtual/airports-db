@@ -63,6 +63,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52595",
+            "airport_ref": "4218",
+            "airport_ident": "LFRN",
+            "type": "APP",
+            "description": "RENNES APP",
+            "frequency_mhz": "124.9"
+        },
+        {
+            "id": "309851",
+            "airport_ref": "4218",
+            "airport_ident": "LFRN",
+            "type": "APP",
+            "description": "RENNES APP",
+            "frequency_mhz": "134"
+        },
+        {
+            "id": "52596",
+            "airport_ref": "4218",
+            "airport_ident": "LFRN",
+            "type": "ATIS",
+            "description": "RENNES ATIS",
+            "frequency_mhz": "136.4"
+        },
+        {
+            "id": "52597",
+            "airport_ref": "4218",
+            "airport_ident": "LFRN",
+            "type": "GND",
+            "description": "RENNES GND",
+            "frequency_mhz": "121.725"
+        },
+        {
+            "id": "52598",
+            "airport_ref": "4218",
+            "airport_ident": "LFRN",
+            "type": "TWR",
+            "description": "RENNES TWR",
+            "frequency_mhz": "120.5"
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

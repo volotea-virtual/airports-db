@@ -41,6 +41,72 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "62981",
+            "airport_ref": "3492",
+            "airport_ident": "KDMA",
+            "type": "A/D",
+            "description": "TUCSON APP/DEP",
+            "frequency_mhz": "119.4"
+        },
+        {
+            "id": "62982",
+            "airport_ref": "3492",
+            "airport_ident": "KDMA",
+            "type": "ACP",
+            "description": "COMD POST",
+            "frequency_mhz": "38.13"
+        },
+        {
+            "id": "62983",
+            "airport_ref": "3492",
+            "airport_ident": "KDMA",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "27.01"
+        },
+        {
+            "id": "62984",
+            "airport_ref": "3492",
+            "airport_ident": "KDMA",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "62985",
+            "airport_ref": "3492",
+            "airport_ident": "KDMA",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "62986",
+            "airport_ref": "3492",
+            "airport_ident": "KDMA",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "23.98"
+        },
+        {
+            "id": "62987",
+            "airport_ref": "3492",
+            "airport_ident": "KDMA",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "37.22"
+        },
+        {
+            "id": "62988",
+            "airport_ref": "3492",
+            "airport_ident": "KDMA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.85"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

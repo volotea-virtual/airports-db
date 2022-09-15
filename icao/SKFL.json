@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51458",
+            "airport_ref": "6118",
+            "airport_ident": "SKFL",
+            "type": "A/G",
+            "description": "FLORENCIA RDO",
+            "frequency_mhz": "348.8"
+        },
+        {
+            "id": "51459",
+            "airport_ref": "6118",
+            "airport_ident": "SKFL",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302793",
         "code": "CO",

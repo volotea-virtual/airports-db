@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": "197"
         }
     ],
+    "freqs": [
+        {
+            "id": "56338",
+            "airport_ref": "65",
+            "airport_ident": "AYMO",
+            "type": "AWOS",
+            "description": "AWIS",
+            "frequency_mhz": "129.35"
+        },
+        {
+            "id": "56339",
+            "airport_ref": "65",
+            "airport_ident": "AYMO",
+            "type": "FSS",
+            "description": "MADANG",
+            "frequency_mhz": "120.1"
+        }
+    ],
     "country": {
         "id": "302778",
         "code": "PG",

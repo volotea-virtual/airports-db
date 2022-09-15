@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "72063",
+            "airport_ref": "38226",
+            "airport_ident": "YALM",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "72064",
+            "airport_ref": "38226",
+            "airport_ident": "YALM",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "115.9"
+        },
+        {
+            "id": "72065",
+            "airport_ref": "38226",
+            "airport_ident": "YALM",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "119.8"
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",

@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "50482",
+            "airport_ref": "1713",
+            "airport_ident": "CYDQ",
+            "type": "A/G",
+            "description": "MF PEACE RIVER RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "50483",
+            "airport_ref": "1713",
+            "airport_ident": "CYDQ",
+            "type": "RDO",
+            "description": "RCO",
+            "frequency_mhz": "122.2"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

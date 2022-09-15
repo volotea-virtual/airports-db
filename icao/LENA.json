@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "326728",
+            "airport_ref": "43237",
+            "airport_ident": "LENA",
+            "type": "TWR",
+            "description": "Benabarre FREQ. - Non controlled aerodrom",
+            "frequency_mhz": "122.475"
+        }
+    ],
     "country": {
         "id": "302684",
         "code": "ES",

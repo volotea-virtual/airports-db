@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": "230"
         }
     ],
+    "freqs": [
+        {
+            "id": "51830",
+            "airport_ref": "6064",
+            "airport_ident": "SEMH",
+            "type": "RDO",
+            "description": "MACHALA RDO",
+            "frequency_mhz": "126.9"
+        },
+        {
+            "id": "51831",
+            "airport_ref": "6064",
+            "airport_ident": "SEMH",
+            "type": "TWR",
+            "description": "MACHALA TWR",
+            "frequency_mhz": "122.9"
+        }
+    ],
     "country": {
         "id": "302794",
         "code": "EC",

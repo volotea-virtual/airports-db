@@ -63,6 +63,80 @@
             "he_displaced_threshold_ft": "500"
         }
     ],
+    "freqs": [
+        {
+            "id": "66985",
+            "airport_ref": "3430",
+            "airport_ident": "KBTV",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "121.1"
+        },
+        {
+            "id": "66986",
+            "airport_ref": "3430",
+            "airport_ident": "KBTV",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "123.8"
+        },
+        {
+            "id": "66987",
+            "airport_ref": "3430",
+            "airport_ident": "KBTV",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "66988",
+            "airport_ref": "3430",
+            "airport_ident": "KBTV",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "66989",
+            "airport_ref": "3430",
+            "airport_ident": "KBTV",
+            "type": "MISC",
+            "description": "ANG OPS",
+            "frequency_mhz": "125.125"
+        },
+        {
+            "id": "66990",
+            "airport_ref": "3430",
+            "airport_ident": "KBTV",
+            "type": "OPS",
+            "description": "ARNG OPS",
+            "frequency_mhz": "41.2"
+        },
+        {
+            "id": "66991",
+            "airport_ref": "3430",
+            "airport_ident": "KBTV",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "66992",
+            "airport_ref": "3430",
+            "airport_ident": "KBTV",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "66993",
+            "airport_ref": "3430",
+            "airport_ident": "KBTV",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

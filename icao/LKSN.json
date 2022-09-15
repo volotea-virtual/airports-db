@@ -63,6 +63,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "333273",
+            "airport_ref": "30421",
+            "airport_ident": "LKSN",
+            "type": "RADIO",
+            "description": "",
+            "frequency_mhz": "122.405"
+        }
+    ],
     "country": {
         "id": "302680",
         "code": "CZ",

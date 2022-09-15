@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "72596",
+            "airport_ref": "38296",
+            "airport_ident": "YCOS",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "125.4"
+        },
+        {
+            "id": "72597",
+            "airport_ref": "38296",
+            "airport_ident": "YCOS",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "124.1"
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",

@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "69175",
+            "airport_ref": "3665",
+            "airport_ident": "KMCB",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "119.025"
+        },
+        {
+            "id": "69176",
+            "airport_ref": "3665",
+            "airport_ident": "KMCB",
+            "type": "CNTR",
+            "description": "HOUSTON CNTR",
+            "frequency_mhz": "133.5"
+        },
+        {
+            "id": "69177",
+            "airport_ref": "3665",
+            "airport_ident": "KMCB",
+            "type": "RDO",
+            "description": "GREENWOOD RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "69178",
+            "airport_ref": "3665",
+            "airport_ident": "KMCB",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123.05"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

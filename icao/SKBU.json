@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51564",
+            "airport_ref": "6107",
+            "airport_ident": "SKBU",
+            "type": "A/G",
+            "description": "BUENAVENTURA RDO",
+            "frequency_mhz": "348.8"
+        },
+        {
+            "id": "51565",
+            "airport_ref": "6107",
+            "airport_ident": "SKBU",
+            "type": "APP",
+            "description": "CALI APP",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "51566",
+            "airport_ref": "6107",
+            "airport_ident": "SKBU",
+            "type": "FSS",
+            "description": "BUENAVENTURA RDO",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "51567",
+            "airport_ref": "6107",
+            "airport_ident": "SKBU",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
     "country": {
         "id": "302793",
         "code": "CO",

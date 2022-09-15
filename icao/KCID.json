@@ -63,6 +63,80 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "64154",
+            "airport_ref": "3451",
+            "airport_ident": "KCID",
+            "type": "A/D",
+            "description": "APP/DEP (091-269)",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "330146",
+            "airport_ref": "3451",
+            "airport_ident": "KCID",
+            "type": "A/D",
+            "description": "APP/DEP  (270-090)",
+            "frequency_mhz": "134.05"
+        },
+        {
+            "id": "64155",
+            "airport_ref": "3451",
+            "airport_ident": "KCID",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "124.15"
+        },
+        {
+            "id": "64156",
+            "airport_ref": "3451",
+            "airport_ident": "KCID",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "125.45"
+        },
+        {
+            "id": "64157",
+            "airport_ref": "3451",
+            "airport_ident": "KCID",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.7"
+        },
+        {
+            "id": "64158",
+            "airport_ref": "3451",
+            "airport_ident": "KCID",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.6"
+        },
+        {
+            "id": "64159",
+            "airport_ref": "3451",
+            "airport_ident": "KCID",
+            "type": "RDO",
+            "description": "FORT DODGE RDO",
+            "frequency_mhz": "122.55"
+        },
+        {
+            "id": "64160",
+            "airport_ref": "3451",
+            "airport_ident": "KCID",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.7"
+        },
+        {
+            "id": "64161",
+            "airport_ref": "3451",
+            "airport_ident": "KCID",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

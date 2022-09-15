@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57973",
+            "airport_ref": "4520",
+            "airport_ident": "LTAP",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "57974",
+            "airport_ref": "4520",
+            "airport_ident": "LTAP",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "122.425"
+        },
+        {
+            "id": "57975",
+            "airport_ref": "4520",
+            "airport_ident": "LTAP",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.95"
+        },
+        {
+            "id": "57976",
+            "airport_ref": "4520",
+            "airport_ident": "LTAP",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.1"
+        }
+    ],
     "country": {
         "id": "302667",
         "code": "TR",

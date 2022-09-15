@@ -85,6 +85,72 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "66553",
+            "airport_ref": "3643",
+            "airport_ident": "KLGA",
+            "type": "APP",
+            "description": "NEW YORK APP",
+            "frequency_mhz": "118"
+        },
+        {
+            "id": "66554",
+            "airport_ref": "3643",
+            "airport_ident": "KLGA",
+            "type": "APP",
+            "description": "NEW YORK APP",
+            "frequency_mhz": "132.7"
+        },
+        {
+            "id": "66555",
+            "airport_ref": "3643",
+            "airport_ident": "KLGA",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "125.95"
+        },
+        {
+            "id": "66556",
+            "airport_ref": "3643",
+            "airport_ident": "KLGA",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.875"
+        },
+        {
+            "id": "66557",
+            "airport_ref": "3643",
+            "airport_ident": "KLGA",
+            "type": "DEP",
+            "description": "NEW YORK DEP",
+            "frequency_mhz": "120.4"
+        },
+        {
+            "id": "66558",
+            "airport_ref": "3643",
+            "airport_ident": "KLGA",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "66559",
+            "airport_ref": "3643",
+            "airport_ident": "KLGA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.7"
+        },
+        {
+            "id": "66560",
+            "airport_ref": "3643",
+            "airport_ident": "KLGA",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

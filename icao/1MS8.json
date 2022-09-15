@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "70225",
+            "airport_ref": "8486",
+            "airport_ident": "1MS8",
+            "type": "APP",
+            "description": "MERIDIAN APP",
+            "frequency_mhz": "31.48"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

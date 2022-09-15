@@ -85,6 +85,40 @@
             "he_displaced_threshold_ft": "2788"
         }
     ],
+    "freqs": [
+        {
+            "id": "55150",
+            "airport_ref": "5222",
+            "airport_ident": "OLBA",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "120.3"
+        },
+        {
+            "id": "55151",
+            "airport_ref": "5222",
+            "airport_ident": "OLBA",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "120.6"
+        },
+        {
+            "id": "55152",
+            "airport_ref": "5222",
+            "airport_ident": "OLBA",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "55153",
+            "airport_ref": "5222",
+            "airport_ident": "OLBA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.9"
+        }
+    ],
     "country": {
         "id": "302647",
         "code": "LB",

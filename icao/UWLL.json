@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "349966",
+            "airport_ref": "35104",
+            "airport_ident": "UWLL",
+            "type": "ATIS",
+            "description": "",
+            "frequency_mhz": "128.85"
+        },
+        {
+            "id": "349970",
+            "airport_ref": "35104",
+            "airport_ident": "UWLL",
+            "type": "CTR",
+            "description": "Ulyanovsk RADAR",
+            "frequency_mhz": "120.8"
+        },
+        {
+            "id": "349967",
+            "airport_ref": "35104",
+            "airport_ident": "UWLL",
+            "type": "GND",
+            "description": "",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "349968",
+            "airport_ref": "35104",
+            "airport_ident": "UWLL",
+            "type": "START",
+            "description": "",
+            "frequency_mhz": "120.4"
+        },
+        {
+            "id": "349969",
+            "airport_ref": "35104",
+            "airport_ident": "UWLL",
+            "type": "TWR",
+            "description": "",
+            "frequency_mhz": "131.3"
+        }
+    ],
     "country": {
         "id": "302714",
         "code": "RU",

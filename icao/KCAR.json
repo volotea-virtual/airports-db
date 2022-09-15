@@ -63,6 +63,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "60614",
+            "airport_ref": "3440",
+            "airport_ident": "KCAR",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "135.125"
+        },
+        {
+            "id": "60615",
+            "airport_ref": "3440",
+            "airport_ident": "KCAR",
+            "type": "CNTR",
+            "description": "BOSTON CNTR",
+            "frequency_mhz": "124.75"
+        },
+        {
+            "id": "60616",
+            "airport_ref": "3440",
+            "airport_ident": "KCAR",
+            "type": "RDO",
+            "description": "BANGOR RDO",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "60617",
+            "airport_ref": "3440",
+            "airport_ident": "KCAR",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

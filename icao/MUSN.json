@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51674",
+            "airport_ref": "4856",
+            "airport_ident": "MUSN",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302732",
         "code": "CU",

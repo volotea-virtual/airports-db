@@ -85,6 +85,80 @@
             "he_displaced_threshold_ft": "500"
         }
     ],
+    "freqs": [
+        {
+            "id": "311336",
+            "airport_ref": "1966",
+            "airport_ident": "CYXS",
+            "type": "ATIS",
+            "description": "Automatic Terminal Information Service , 14-07Z",
+            "frequency_mhz": "128.725"
+        },
+        {
+            "id": "50874",
+            "airport_ref": "1966",
+            "airport_ident": "CYXS",
+            "type": "AWOS",
+            "description": "Automatic Weather Observation Station, 07-14Z",
+            "frequency_mhz": "128.725"
+        },
+        {
+            "id": "50873",
+            "airport_ref": "1966",
+            "airport_ident": "CYXS",
+            "type": "GND",
+            "description": "Prince George Ground, 14-07Z",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "50871",
+            "airport_ref": "1966",
+            "airport_ident": "CYXS",
+            "type": "MF",
+            "description": "Prince George Radio, 07-14Z, 5nm below 5500ASL",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "50872",
+            "airport_ref": "1966",
+            "airport_ident": "CYXS",
+            "type": "PAL",
+            "description": "Vancouver Control",
+            "frequency_mhz": "133.8"
+        },
+        {
+            "id": "50875",
+            "airport_ref": "1966",
+            "airport_ident": "CYXS",
+            "type": "RCO",
+            "description": "Williams Lake Radio, 07-14Z",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "311337",
+            "airport_ref": "1966",
+            "airport_ident": "CYXS",
+            "type": "RCO",
+            "description": "Pacific Radio (FISE)",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "311338",
+            "airport_ref": "1966",
+            "airport_ident": "CYXS",
+            "type": "RCO",
+            "description": "Prince George Radio (FISE)",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "50876",
+            "airport_ref": "1966",
+            "airport_ident": "CYXS",
+            "type": "TWR",
+            "description": "Prince George Tower, 14-07Z, (V)",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

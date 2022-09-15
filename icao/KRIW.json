@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "63010",
+            "airport_ref": "20933",
+            "airport_ident": "KRIW",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "121.425"
+        },
+        {
+            "id": "63011",
+            "airport_ref": "20933",
+            "airport_ident": "KRIW",
+            "type": "RDO",
+            "description": "CASPER RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "63012",
+            "airport_ref": "20933",
+            "airport_ident": "KRIW",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

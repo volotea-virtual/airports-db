@@ -63,6 +63,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "58145",
+            "airport_ref": "2438",
+            "airport_ident": "EGNB",
+            "type": "A/G",
+            "description": "AIR GND",
+            "frequency_mhz": "130.55"
+        }
+    ],
     "country": {
         "id": "302688",
         "code": "GB",

@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51358",
+            "airport_ref": "6043",
+            "airport_ident": "SCTE",
+            "type": "APP",
+            "description": "PUERTO MONTT APP",
+            "frequency_mhz": "123.7"
+        },
+        {
+            "id": "51359",
+            "airport_ref": "6043",
+            "airport_ident": "SCTE",
+            "type": "CNTR",
+            "description": "PUERTO MONTT CNTR",
+            "frequency_mhz": "128.3"
+        },
+        {
+            "id": "51360",
+            "airport_ref": "6043",
+            "airport_ident": "SCTE",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "51361",
+            "airport_ref": "6043",
+            "airport_ident": "SCTE",
+            "type": "RDO",
+            "description": "PUERTO MONTT RDO",
+            "frequency_mhz": "126.9"
+        },
+        {
+            "id": "51362",
+            "airport_ref": "6043",
+            "airport_ident": "SCTE",
+            "type": "TWR",
+            "description": "PUERTO MONTT TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
     "country": {
         "id": "302792",
         "code": "CL",

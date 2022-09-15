@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57790",
+            "airport_ref": "2143",
+            "airport_ident": "DXNG",
+            "type": "A/G",
+            "description": "A/G VOICE RDO",
+            "frequency_mhz": "122.6"
+        },
+        {
+            "id": "57791",
+            "airport_ref": "2143",
+            "airport_ident": "DXNG",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "658.6"
+        },
+        {
+            "id": "57792",
+            "airport_ref": "2143",
+            "airport_ident": "DXNG",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302605",
         "code": "TG",

@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52419",
+            "airport_ref": "4232",
+            "airport_ident": "LFSI",
+            "type": "APP",
+            "description": "ST DIZIER APP",
+            "frequency_mhz": "24.46"
+        },
+        {
+            "id": "52418",
+            "airport_ref": "4232",
+            "airport_ident": "LFSI",
+            "type": "APP",
+            "description": "ST DIZIER APP",
+            "frequency_mhz": "142.45"
+        },
+        {
+            "id": "52420",
+            "airport_ref": "4232",
+            "airport_ident": "LFSI",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "52421",
+            "airport_ref": "4232",
+            "airport_ident": "LFSI",
+            "type": "TWR",
+            "description": "ST DIZIER TWR",
+            "frequency_mhz": "138.925"
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

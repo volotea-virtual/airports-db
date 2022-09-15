@@ -17,6 +17,16 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "BG8",
+    "freqs": [
+        {
+            "id": "300071",
+            "airport_ref": "684",
+            "airport_ident": "CBG8",
+            "type": "TWR",
+            "description": "Prince George Tower",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

@@ -63,6 +63,56 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57306",
+            "airport_ref": "4035",
+            "airport_ident": "LEPA",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "118.95"
+        },
+        {
+            "id": "57307",
+            "airport_ref": "4035",
+            "airport_ident": "LEPA",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "119.25"
+        },
+        {
+            "id": "57308",
+            "airport_ref": "4035",
+            "airport_ident": "LEPA",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.6"
+        },
+        {
+            "id": "57309",
+            "airport_ref": "4035",
+            "airport_ident": "LEPA",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "57310",
+            "airport_ref": "4035",
+            "airport_ident": "LEPA",
+            "type": "OPS",
+            "description": "OPS",
+            "frequency_mhz": "130.25"
+        },
+        {
+            "id": "57311",
+            "airport_ref": "4035",
+            "airport_ident": "LEPA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302684",
         "code": "ES",

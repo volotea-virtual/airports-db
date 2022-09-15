@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "324360",
+            "airport_ref": "38812",
+            "airport_ident": "AR-0137",
+            "type": "COM",
+            "description": "El Pájaro Traffic",
+            "frequency_mhz": "123.2"
+        }
+    ],
     "country": {
         "id": "302789",
         "code": "AR",

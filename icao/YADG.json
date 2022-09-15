@@ -107,6 +107,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "313779",
+            "airport_ref": "27316",
+            "airport_ident": "YADG",
+            "type": "ATC",
+            "description": "Adelaide Radar",
+            "frequency_mhz": "130.45"
+        },
+        {
+            "id": "72029",
+            "airport_ref": "27316",
+            "airport_ident": "YADG",
+            "type": "CTAF",
+            "description": "Aldinga Traffic",
+            "frequency_mhz": "127.15"
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",

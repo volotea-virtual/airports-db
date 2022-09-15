@@ -63,6 +63,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "71988",
+            "airport_ref": "29120",
+            "airport_ident": "EGCS",
+            "type": "A/G",
+            "description": "Sturgate A/G",
+            "frequency_mhz": "130.3"
+        }
+    ],
     "country": {
         "id": "302688",
         "code": "GB",

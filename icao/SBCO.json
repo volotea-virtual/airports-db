@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "49670",
+            "airport_ref": "5888",
+            "airport_ident": "SBCO",
+            "type": "APP",
+            "description": "PALEGRE APP",
+            "frequency_mhz": "119"
+        },
+        {
+            "id": "49671",
+            "airport_ref": "5888",
+            "airport_ident": "SBCO",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.85"
+        },
+        {
+            "id": "49672",
+            "airport_ref": "5888",
+            "airport_ident": "SBCO",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "49673",
+            "airport_ref": "5888",
+            "airport_ident": "SBCO",
+            "type": "OPS",
+            "description": "OPS",
+            "frequency_mhz": "122.5"
+        },
+        {
+            "id": "49674",
+            "airport_ref": "5888",
+            "airport_ident": "SBCO",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.5"
+        }
+    ],
     "country": {
         "id": "302791",
         "code": "BR",

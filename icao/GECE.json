@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "75184",
+            "airport_ref": "35151",
+            "airport_ident": "GECE",
+            "type": "AWOS",
+            "description": "",
+            "frequency_mhz": "122.5"
+        },
+        {
+            "id": "75183",
+            "airport_ref": "35151",
+            "airport_ident": "GECE",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "123.235"
+        }
+    ],
     "country": {
         "id": "302684",
         "code": "ES",

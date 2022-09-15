@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "54062",
+            "airport_ref": "5146",
+            "airport_ident": "OIBQ",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "122.1"
+        }
+    ],
     "country": {
         "id": "302637",
         "code": "IR",

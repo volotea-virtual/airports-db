@@ -63,6 +63,72 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "58814",
+            "airport_ref": "3398",
+            "airport_ident": "KBED",
+            "type": "A/D",
+            "description": "BOSTON APP/DEP",
+            "frequency_mhz": "124.4"
+        },
+        {
+            "id": "58815",
+            "airport_ref": "3398",
+            "airport_ident": "KBED",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "124.6"
+        },
+        {
+            "id": "58816",
+            "airport_ref": "3398",
+            "airport_ident": "KBED",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.85"
+        },
+        {
+            "id": "58817",
+            "airport_ref": "3398",
+            "airport_ident": "KBED",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.5"
+        },
+        {
+            "id": "58818",
+            "airport_ref": "3398",
+            "airport_ident": "KBED",
+            "type": "GND",
+            "description": "HANSCOM GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "58819",
+            "airport_ref": "3398",
+            "airport_ident": "KBED",
+            "type": "MISC",
+            "description": "HANSCOM COMD POST",
+            "frequency_mhz": "39.71"
+        },
+        {
+            "id": "58820",
+            "airport_ref": "3398",
+            "airport_ident": "KBED",
+            "type": "TWR",
+            "description": "HANSCOM TWR",
+            "frequency_mhz": "118.5"
+        },
+        {
+            "id": "58821",
+            "airport_ref": "3398",
+            "airport_ident": "KBED",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

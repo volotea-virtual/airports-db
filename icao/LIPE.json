@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": "1188"
         }
     ],
+    "freqs": [
+        {
+            "id": "54286",
+            "airport_ref": "4354",
+            "airport_ident": "LIPE",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "120.1"
+        },
+        {
+            "id": "54287",
+            "airport_ref": "4354",
+            "airport_ident": "LIPE",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "134.875"
+        },
+        {
+            "id": "54288",
+            "airport_ref": "4354",
+            "airport_ident": "LIPE",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "129.925"
+        },
+        {
+            "id": "54289",
+            "airport_ref": "4354",
+            "airport_ident": "LIPE",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.8"
+        }
+    ],
     "country": {
         "id": "302697",
         "code": "IT",

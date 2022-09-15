@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57505",
+            "airport_ref": "2662",
+            "airport_ident": "ESMA",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "123.15"
+        }
+    ],
     "country": {
         "id": "302715",
         "code": "SE",

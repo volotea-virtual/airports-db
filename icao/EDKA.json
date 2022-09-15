@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "337299",
+            "airport_ref": "28490",
+            "airport_ident": "EDKA",
+            "type": "Info",
+            "description": "Aachen Info",
+            "frequency_mhz": "122.88"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

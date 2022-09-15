@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "74392",
+            "airport_ref": "27917",
+            "airport_ident": "YRDA",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "123.9"
+        },
+        {
+            "id": "74393",
+            "airport_ref": "27917",
+            "airport_ident": "YRDA",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "119.6"
+        },
+        {
+            "id": "74394",
+            "airport_ref": "27917",
+            "airport_ident": "YRDA",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "122.4"
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",

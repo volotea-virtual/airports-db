@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "59235",
+            "airport_ref": "8233",
+            "airport_ident": "1CD2",
+            "type": "APP",
+            "description": "DENVER APP",
+            "frequency_mhz": "119.3"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

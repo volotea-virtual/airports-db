@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53716",
+            "airport_ref": "26834",
+            "airport_ident": "WIHP",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "122.1"
+        }
+    ],
     "country": {
         "id": "302632",
         "code": "ID",

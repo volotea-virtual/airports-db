@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": "492"
         }
     ],
+    "freqs": [
+        {
+            "id": "52208",
+            "airport_ref": "4121",
+            "airport_ident": "LFJR",
+            "type": "AFIS",
+            "description": "ANGERS INFO",
+            "frequency_mhz": "119"
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

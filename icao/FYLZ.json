@@ -63,6 +63,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "71781",
+            "airport_ref": "3029",
+            "airport_ident": "FYLZ",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "124.8"
+        }
+    ],
     "country": {
         "id": "302591",
         "code": "NA",

@@ -85,6 +85,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "50104",
+            "airport_ref": "1972",
+            "airport_ident": "CYYB",
+            "type": "A/G",
+            "description": "MF",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "50105",
+            "airport_ref": "1972",
+            "airport_ident": "CYYB",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "124.9"
+        },
+        {
+            "id": "50106",
+            "airport_ref": "1972",
+            "airport_ident": "CYYB",
+            "type": "CNTR",
+            "description": "TORONTO CNTR",
+            "frequency_mhz": "121.225"
+        },
+        {
+            "id": "50107",
+            "airport_ref": "1972",
+            "airport_ident": "CYYB",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "34.46"
+        },
+        {
+            "id": "50108",
+            "airport_ref": "1972",
+            "airport_ident": "CYYB",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

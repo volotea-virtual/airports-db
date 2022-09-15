@@ -85,6 +85,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "60522",
+            "airport_ref": "20180",
+            "airport_ident": "KINW",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "118.875"
+        },
+        {
+            "id": "60523",
+            "airport_ref": "20180",
+            "airport_ident": "KINW",
+            "type": "CNTR",
+            "description": "ALBUQUERQUE CNTR",
+            "frequency_mhz": "124.5"
+        },
+        {
+            "id": "60524",
+            "airport_ref": "20180",
+            "airport_ident": "KINW",
+            "type": "RDO",
+            "description": "PRESCOTT RDO",
+            "frequency_mhz": "122.6"
+        },
+        {
+            "id": "60525",
+            "airport_ref": "20180",
+            "airport_ident": "KINW",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

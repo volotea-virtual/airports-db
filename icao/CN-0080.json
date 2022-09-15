@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "321592",
+            "airport_ref": "44158",
+            "airport_ident": "CN-0080",
+            "type": "TOWER",
+            "description": "",
+            "frequency_mhz": "130"
+        }
+    ],
     "country": {
         "id": "302627",
         "code": "CN",

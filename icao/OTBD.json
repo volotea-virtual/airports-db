@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56372",
+            "airport_ref": "5308",
+            "airport_ident": "OTBD",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "121.1"
+        },
+        {
+            "id": "56373",
+            "airport_ref": "5308",
+            "airport_ident": "OTBD",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.45"
+        },
+        {
+            "id": "56374",
+            "airport_ref": "5308",
+            "airport_ident": "OTBD",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "118.275"
+        },
+        {
+            "id": "56375",
+            "airport_ref": "5308",
+            "airport_ident": "OTBD",
+            "type": "OPS",
+            "description": "KINGFISH NOVEMBER",
+            "frequency_mhz": "139.5"
+        },
+        {
+            "id": "56376",
+            "airport_ref": "5308",
+            "airport_ident": "OTBD",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.9"
+        }
+    ],
     "country": {
         "id": "302659",
         "code": "QA",

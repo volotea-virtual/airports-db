@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56205",
+            "airport_ref": "2614",
+            "airport_ident": "EPLE",
+            "type": "INFO",
+            "description": "AERO",
+            "frequency_mhz": "125.55"
+        }
+    ],
     "country": {
         "id": "302710",
         "code": "PL",

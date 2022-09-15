@@ -85,6 +85,56 @@
             "he_displaced_threshold_ft": "1427"
         }
     ],
+    "freqs": [
+        {
+            "id": "52638",
+            "airport_ref": "4189",
+            "airport_ident": "LFPO",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "123.875"
+        },
+        {
+            "id": "52639",
+            "airport_ref": "4189",
+            "airport_ident": "LFPO",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "131.35"
+        },
+        {
+            "id": "52640",
+            "airport_ref": "4189",
+            "airport_ident": "LFPO",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "127.75"
+        },
+        {
+            "id": "52641",
+            "airport_ref": "4189",
+            "airport_ident": "LFPO",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "52642",
+            "airport_ref": "4189",
+            "airport_ident": "LFPO",
+            "type": "PFLT",
+            "description": "PREFLIGHT",
+            "frequency_mhz": "121.05"
+        },
+        {
+            "id": "52643",
+            "airport_ref": "4189",
+            "airport_ident": "LFPO",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

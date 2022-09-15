@@ -63,6 +63,56 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "48239",
+            "airport_ref": "5070",
+            "airport_ident": "OAIX",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "133.35"
+        },
+        {
+            "id": "48240",
+            "airport_ref": "5070",
+            "airport_ident": "OAIX",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "134.25"
+        },
+        {
+            "id": "48241",
+            "airport_ref": "5070",
+            "airport_ident": "OAIX",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "125.9"
+        },
+        {
+            "id": "48242",
+            "airport_ref": "5070",
+            "airport_ident": "OAIX",
+            "type": "MISC",
+            "description": "KINGFISH QUEBEC",
+            "frequency_mhz": "27.887"
+        },
+        {
+            "id": "48243",
+            "airport_ref": "5070",
+            "airport_ident": "OAIX",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "134.1"
+        },
+        {
+            "id": "48244",
+            "airport_ref": "5070",
+            "airport_ident": "OAIX",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.5"
+        }
+    ],
     "country": {
         "id": "302619",
         "code": "AF",

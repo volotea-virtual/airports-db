@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51318",
+            "airport_ref": "6046",
+            "airport_ident": "SCTO",
+            "type": "MULT",
+            "description": "VICTORIA MULTI",
+            "frequency_mhz": "118.2"
+        }
+    ],
     "country": {
         "id": "302792",
         "code": "CL",

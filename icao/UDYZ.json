@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "48318",
+            "airport_ref": "6446",
+            "airport_ident": "UDYZ",
+            "type": "APP",
+            "description": "YEREVAN APP",
+            "frequency_mhz": "126"
+        },
+        {
+            "id": "48319",
+            "airport_ref": "6446",
+            "airport_ident": "UDYZ",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "119.5"
+        },
+        {
+            "id": "48320",
+            "airport_ref": "6446",
+            "airport_ident": "UDYZ",
+            "type": "GND",
+            "description": "YEREVAN GND",
+            "frequency_mhz": "119"
+        },
+        {
+            "id": "48321",
+            "airport_ref": "6446",
+            "airport_ident": "UDYZ",
+            "type": "TWR",
+            "description": "YEREVAN TWR",
+            "frequency_mhz": "128"
+        }
+    ],
     "country": {
         "id": "302620",
         "code": "AM",

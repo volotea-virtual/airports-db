@@ -17,6 +17,16 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "331801",
+            "airport_ref": "44804",
+            "airport_ident": "NZDC",
+            "type": "ATC",
+            "description": "Dunedin Tower",
+            "frequency_mhz": "120.7"
+        }
+    ],
     "country": {
         "id": "302776",
         "code": "NZ",

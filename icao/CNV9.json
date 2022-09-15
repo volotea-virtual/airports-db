@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "306925",
+            "airport_ref": "306924",
+            "airport_ident": "CNV9",
+            "type": "CTAF",
+            "description": "Neuville Traffic",
+            "frequency_mhz": "123.35"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

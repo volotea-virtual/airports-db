@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "49562",
+            "airport_ref": "5995",
+            "airport_ident": "SBUR",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "120.8"
+        },
+        {
+            "id": "49563",
+            "airport_ref": "5995",
+            "airport_ident": "SBUR",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "120.8"
+        },
+        {
+            "id": "49564",
+            "airport_ref": "5995",
+            "airport_ident": "SBUR",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.5"
+        }
+    ],
     "country": {
         "id": "302791",
         "code": "BR",

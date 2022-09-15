@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "55314",
+            "airport_ref": "3066",
+            "airport_ident": "GABS",
+            "type": "A/G",
+            "description": "A/G",
+            "frequency_mhz": "667.3"
+        },
+        {
+            "id": "55315",
+            "airport_ref": "3066",
+            "airport_ident": "GABS",
+            "type": "ACC",
+            "description": "ACC",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "55316",
+            "airport_ref": "3066",
+            "airport_ident": "GABS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302586",
         "code": "ML",

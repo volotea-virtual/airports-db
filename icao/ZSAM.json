@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": "660"
         }
     ],
+    "freqs": [
+        {
+            "id": "51288",
+            "airport_ref": "27215",
+            "airport_ident": "ZSAM",
+            "type": "APP",
+            "description": "XIAMEN APP",
+            "frequency_mhz": "121.35"
+        },
+        {
+            "id": "51289",
+            "airport_ref": "27215",
+            "airport_ident": "ZSAM",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.25"
+        },
+        {
+            "id": "51290",
+            "airport_ref": "27215",
+            "airport_ident": "ZSAM",
+            "type": "GND",
+            "description": "XIAMEN GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "51291",
+            "airport_ref": "27215",
+            "airport_ident": "ZSAM",
+            "type": "TWR",
+            "description": "XIAMEN TWR",
+            "frequency_mhz": "118.25"
+        }
+    ],
     "country": {
         "id": "302627",
         "code": "CN",

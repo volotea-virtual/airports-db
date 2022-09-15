@@ -63,6 +63,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "309276",
+            "airport_ref": "1483",
+            "airport_ident": "CRB5",
+            "type": "UNICOM",
+            "description": "",
+            "frequency_mhz": "122.9"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

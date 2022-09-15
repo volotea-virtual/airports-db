@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "318098",
+            "airport_ref": "316761",
+            "airport_ident": "UESK",
+            "type": "TWR",
+            "description": "",
+            "frequency_mhz": "123.4"
+        }
+    ],
     "country": {
         "id": "302714",
         "code": "RU",

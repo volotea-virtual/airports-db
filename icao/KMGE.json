@@ -63,6 +63,80 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "65761",
+            "airport_ref": "3680",
+            "airport_ident": "KMGE",
+            "type": "A/D",
+            "description": "ATLANTA  APP/DEP",
+            "frequency_mhz": "121"
+        },
+        {
+            "id": "65762",
+            "airport_ref": "3680",
+            "airport_ident": "KMGE",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "26.95"
+        },
+        {
+            "id": "65763",
+            "airport_ref": "3680",
+            "airport_ident": "KMGE",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "125.3"
+        },
+        {
+            "id": "65764",
+            "airport_ref": "3680",
+            "airport_ident": "KMGE",
+            "type": "MISC",
+            "description": "NAVY OPS",
+            "frequency_mhz": "34.02"
+        },
+        {
+            "id": "65765",
+            "airport_ref": "3680",
+            "airport_ident": "KMGE",
+            "type": "OPS",
+            "description": "ARNG OPS",
+            "frequency_mhz": "47"
+        },
+        {
+            "id": "65766",
+            "airport_ref": "3680",
+            "airport_ident": "KMGE",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "27.475"
+        },
+        {
+            "id": "65767",
+            "airport_ref": "3680",
+            "airport_ident": "KMGE",
+            "type": "POST",
+            "description": "94AW COMD POST",
+            "frequency_mhz": "37.952"
+        },
+        {
+            "id": "65768",
+            "airport_ref": "3680",
+            "airport_ident": "KMGE",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "139.3"
+        },
+        {
+            "id": "65769",
+            "airport_ref": "3680",
+            "airport_ident": "KMGE",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.75"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

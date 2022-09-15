@@ -107,6 +107,80 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "59896",
+            "airport_ref": "3744",
+            "airport_ident": "KOAK",
+            "type": "APP",
+            "description": "NORCAL APP",
+            "frequency_mhz": "31.76"
+        },
+        {
+            "id": "59895",
+            "airport_ref": "3744",
+            "airport_ident": "KOAK",
+            "type": "APP",
+            "description": "NORCAL APP",
+            "frequency_mhz": "125.35"
+        },
+        {
+            "id": "59897",
+            "airport_ref": "3744",
+            "airport_ident": "KOAK",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "133.775"
+        },
+        {
+            "id": "59898",
+            "airport_ref": "3744",
+            "airport_ident": "KOAK",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.1"
+        },
+        {
+            "id": "59899",
+            "airport_ref": "3744",
+            "airport_ident": "KOAK",
+            "type": "DEP",
+            "description": "NORCAL DEP",
+            "frequency_mhz": "120.9"
+        },
+        {
+            "id": "59900",
+            "airport_ref": "3744",
+            "airport_ident": "KOAK",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.75"
+        },
+        {
+            "id": "59901",
+            "airport_ref": "3744",
+            "airport_ident": "KOAK",
+            "type": "RDO",
+            "description": "OAKLAND RDO",
+            "frequency_mhz": "122"
+        },
+        {
+            "id": "59902",
+            "airport_ref": "3744",
+            "airport_ident": "KOAK",
+            "type": "TWR",
+            "description": "OAKLAND TWR",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "59903",
+            "airport_ref": "3744",
+            "airport_ident": "KOAK",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

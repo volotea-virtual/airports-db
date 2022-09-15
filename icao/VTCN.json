@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57727",
+            "airport_ref": "26650",
+            "airport_ident": "VTCN",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "120.25"
+        },
+        {
+            "id": "57728",
+            "airport_ref": "26650",
+            "airport_ident": "VTCN",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "35.5"
+        },
+        {
+            "id": "57729",
+            "airport_ref": "26650",
+            "airport_ident": "VTCN",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.55"
+        }
+    ],
     "country": {
         "id": "302663",
         "code": "TH",

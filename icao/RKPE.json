@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "55037",
+            "airport_ref": "5641",
+            "airport_ident": "RKPE",
+            "type": "ACP",
+            "description": "BRICKWALL",
+            "frequency_mhz": "120"
+        },
+        {
+            "id": "55038",
+            "airport_ref": "5641",
+            "airport_ident": "RKPE",
+            "type": "APP",
+            "description": "GIMHAE APP",
+            "frequency_mhz": "135.7"
+        },
+        {
+            "id": "55039",
+            "airport_ref": "5641",
+            "airport_ident": "RKPE",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "126.2"
+        }
+    ],
     "country": {
         "id": "302643",
         "code": "KR",

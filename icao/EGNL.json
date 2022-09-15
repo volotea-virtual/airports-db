@@ -85,6 +85,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "58455",
+            "airport_ref": "2443",
+            "airport_ident": "EGNL",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "123.2"
+        }
+    ],
     "country": {
         "id": "302688",
         "code": "GB",

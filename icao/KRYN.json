@@ -85,6 +85,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "70731",
+            "airport_ref": "20979",
+            "airport_ident": "KRYN",
+            "type": "A/D",
+            "description": "TUCSON APP/DEP",
+            "frequency_mhz": "128.5"
+        },
+        {
+            "id": "70732",
+            "airport_ref": "20979",
+            "airport_ident": "KRYN",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "133.35"
+        },
+        {
+            "id": "70733",
+            "airport_ref": "20979",
+            "airport_ident": "KRYN",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "70734",
+            "airport_ref": "20979",
+            "airport_ident": "KRYN",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "118.2"
+        },
+        {
+            "id": "70735",
+            "airport_ref": "20979",
+            "airport_ident": "KRYN",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "125.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

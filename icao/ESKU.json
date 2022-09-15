@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "75370",
+            "airport_ref": "29340",
+            "airport_ident": "ESKU",
+            "type": "RDO",
+            "description": "Sunne Traffic",
+            "frequency_mhz": "123.2"
+        }
+    ],
     "country": {
         "id": "302715",
         "code": "SE",

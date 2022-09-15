@@ -107,6 +107,80 @@
             "he_displaced_threshold_ft": "1969"
         }
     ],
+    "freqs": [
+        {
+            "id": "52436",
+            "airport_ref": "4185",
+            "airport_ident": "LFPG",
+            "type": "APP",
+            "description": "DE GAULLE APP",
+            "frequency_mhz": "121.15"
+        },
+        {
+            "id": "52437",
+            "airport_ref": "4185",
+            "airport_ident": "LFPG",
+            "type": "APP",
+            "description": "DE GAULLE APP",
+            "frequency_mhz": "136.275"
+        },
+        {
+            "id": "52438",
+            "airport_ref": "4185",
+            "airport_ident": "LFPG",
+            "type": "ATIS",
+            "description": "DE GAULLE ATIS",
+            "frequency_mhz": "127.125"
+        },
+        {
+            "id": "52439",
+            "airport_ref": "4185",
+            "airport_ident": "LFPG",
+            "type": "DEP",
+            "description": "DE GAULLE DEP",
+            "frequency_mhz": "124.35"
+        },
+        {
+            "id": "52441",
+            "airport_ref": "4185",
+            "airport_ident": "LFPG",
+            "type": "GND",
+            "description": "DE GAULLE TRAFFIC",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "52440",
+            "airport_ref": "4185",
+            "airport_ident": "LFPG",
+            "type": "GND",
+            "description": "DE GAULLE GND",
+            "frequency_mhz": "121.6"
+        },
+        {
+            "id": "52442",
+            "airport_ref": "4185",
+            "airport_ident": "LFPG",
+            "type": "PFLT",
+            "description": "DE GAULLE PREFLIGHT",
+            "frequency_mhz": "126.65"
+        },
+        {
+            "id": "52443",
+            "airport_ref": "4185",
+            "airport_ident": "LFPG",
+            "type": "TWR",
+            "description": "DE GAULLE TWR",
+            "frequency_mhz": "119.25"
+        },
+        {
+            "id": "52444",
+            "airport_ref": "4185",
+            "airport_ident": "LFPG",
+            "type": "TWR",
+            "description": "DE GAULLE TWR",
+            "frequency_mhz": "120.65"
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

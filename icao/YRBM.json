@@ -17,6 +17,32 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "74383",
+            "airport_ref": "38562",
+            "airport_ident": "YRBM",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "123.4"
+        },
+        {
+            "id": "74384",
+            "airport_ref": "38562",
+            "airport_ident": "YRBM",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "119.6"
+        },
+        {
+            "id": "74385",
+            "airport_ref": "38562",
+            "airport_ident": "YRBM",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "123.9"
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",

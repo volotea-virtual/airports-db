@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "50705",
+            "airport_ref": "1323",
+            "airport_ident": "CYSA",
+            "type": "CNTR",
+            "description": "TORONTO CNTR",
+            "frequency_mhz": "135.3"
+        },
+        {
+            "id": "50706",
+            "airport_ref": "1323",
+            "airport_ident": "CYSA",
+            "type": "UNIC",
+            "description": "ATF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

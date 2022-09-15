@@ -107,6 +107,96 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "70250",
+            "airport_ref": "5360",
+            "airport_ident": "PAFA",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "118.6"
+        },
+        {
+            "id": "70251",
+            "airport_ref": "5360",
+            "airport_ident": "PAFA",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "119.025"
+        },
+        {
+            "id": "70252",
+            "airport_ref": "5360",
+            "airport_ident": "PAFA",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "124.4"
+        },
+        {
+            "id": "70253",
+            "airport_ref": "5360",
+            "airport_ident": "PAFA",
+            "type": "AWOS",
+            "description": "TWEB",
+            "frequency_mhz": "108.2"
+        },
+        {
+            "id": "70254",
+            "airport_ref": "5360",
+            "airport_ident": "PAFA",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "127.6"
+        },
+        {
+            "id": "70255",
+            "airport_ref": "5360",
+            "airport_ident": "PAFA",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "32.71"
+        },
+        {
+            "id": "70256",
+            "airport_ref": "5360",
+            "airport_ident": "PAFA",
+            "type": "FSS",
+            "description": "RDO",
+            "frequency_mhz": "122.6"
+        },
+        {
+            "id": "70257",
+            "airport_ref": "5360",
+            "airport_ident": "PAFA",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "70258",
+            "airport_ref": "5360",
+            "airport_ident": "PAFA",
+            "type": "MISC",
+            "description": "EIELSON RANGE CON",
+            "frequency_mhz": "125.3"
+        },
+        {
+            "id": "70259",
+            "airport_ref": "5360",
+            "airport_ident": "PAFA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "70260",
+            "airport_ref": "5360",
+            "airport_ident": "PAFA",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

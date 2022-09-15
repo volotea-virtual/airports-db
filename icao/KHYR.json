@@ -63,6 +63,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "64645",
+            "airport_ref": "20108",
+            "airport_ident": "KHYR",
+            "type": "A/D",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "126.45"
+        },
+        {
+            "id": "64646",
+            "airport_ref": "20108",
+            "airport_ident": "KHYR",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "113.4"
+        },
+        {
+            "id": "64647",
+            "airport_ref": "20108",
+            "airport_ident": "KHYR",
+            "type": "RDO",
+            "description": "GREEN BAY RDO",
+            "frequency_mhz": "113.4"
+        },
+        {
+            "id": "64648",
+            "airport_ref": "20108",
+            "airport_ident": "KHYR",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

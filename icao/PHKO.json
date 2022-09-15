@@ -41,6 +41,56 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "61488",
+            "airport_ref": "5448",
+            "airport_ident": "PHKO",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.4"
+        },
+        {
+            "id": "61489",
+            "airport_ref": "5448",
+            "airport_ident": "PHKO",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "61490",
+            "airport_ref": "5448",
+            "airport_ident": "PHKO",
+            "type": "CNTR",
+            "description": "HONOLULU CNTR",
+            "frequency_mhz": "126"
+        },
+        {
+            "id": "61491",
+            "airport_ref": "5448",
+            "airport_ident": "PHKO",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "120.3"
+        },
+        {
+            "id": "61492",
+            "airport_ref": "5448",
+            "airport_ident": "PHKO",
+            "type": "RCO",
+            "description": "HONOLULU",
+            "frequency_mhz": "123.6"
+        },
+        {
+            "id": "61493",
+            "airport_ref": "5448",
+            "airport_ident": "PHKO",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.3"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

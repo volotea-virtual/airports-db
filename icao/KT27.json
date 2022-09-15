@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "65526",
+            "airport_ref": "21144",
+            "airport_ident": "KT27",
+            "type": "A/D",
+            "description": "EL PASO APP/DEP",
+            "frequency_mhz": "119.15"
+        },
+        {
+            "id": "65527",
+            "airport_ref": "21144",
+            "airport_ident": "KT27",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

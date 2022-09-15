@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "354106",
+            "airport_ref": "319714",
+            "airport_ident": "HCMW",
+            "type": "TWR",
+            "description": "",
+            "frequency_mhz": "118.4"
+        }
+    ],
     "country": {
         "id": "302601",
         "code": "SO",

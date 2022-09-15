@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "71060",
+            "airport_ref": "20682",
+            "airport_ident": "KO27",
+            "type": "A/D",
+            "description": "NORCAL APP/DEP",
+            "frequency_mhz": "125.1"
+        },
+        {
+            "id": "71061",
+            "airport_ref": "20682",
+            "airport_ident": "KO27",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

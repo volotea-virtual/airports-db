@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "59174",
+            "airport_ref": "7928",
+            "airport_ident": "15AR",
+            "type": "UNIC",
+            "description": "RDO CTL",
+            "frequency_mhz": "122.725"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

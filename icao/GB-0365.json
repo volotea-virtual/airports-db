@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "319945",
+            "airport_ref": "319943",
+            "airport_ident": "GB-0365",
+            "type": "SafetyCom",
+            "description": "",
+            "frequency_mhz": "135.475"
+        }
+    ],
     "country": {
         "id": "302688",
         "code": "GB",

@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "64448",
+            "airport_ref": "21440",
+            "airport_ident": "KZEF",
+            "type": "CNTR",
+            "description": "ATLANTA  CNTR",
+            "frequency_mhz": "125.15"
+        },
+        {
+            "id": "64449",
+            "airport_ref": "21440",
+            "airport_ident": "KZEF",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123.05"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

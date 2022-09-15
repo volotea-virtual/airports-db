@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": "528"
         }
     ],
+    "freqs": [
+        {
+            "id": "54234",
+            "airport_ref": "4344",
+            "airport_ident": "LIMJ",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.6"
+        },
+        {
+            "id": "54235",
+            "airport_ref": "4344",
+            "airport_ident": "LIMJ",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "122.825"
+        },
+        {
+            "id": "54236",
+            "airport_ref": "4344",
+            "airport_ident": "LIMJ",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.6"
+        }
+    ],
     "country": {
         "id": "302697",
         "code": "IT",

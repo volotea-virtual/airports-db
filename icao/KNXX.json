@@ -41,6 +41,80 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "69443",
+            "airport_ref": "3742",
+            "airport_ident": "KNXX",
+            "type": "APP",
+            "description": "PHILADELPHIA APP",
+            "frequency_mhz": "123.8"
+        },
+        {
+            "id": "69444",
+            "airport_ref": "3742",
+            "airport_ident": "KNXX",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "27.56"
+        },
+        {
+            "id": "69445",
+            "airport_ref": "3742",
+            "airport_ident": "KNXX",
+            "type": "GCCD",
+            "description": "GND/CLNC DEL",
+            "frequency_mhz": "118.45"
+        },
+        {
+            "id": "69446",
+            "airport_ref": "3742",
+            "airport_ident": "KNXX",
+            "type": "INFO",
+            "description": "ANG OPS",
+            "frequency_mhz": "46.85"
+        },
+        {
+            "id": "69447",
+            "airport_ref": "3742",
+            "airport_ident": "KNXX",
+            "type": "MISC",
+            "description": "AR",
+            "frequency_mhz": "34.55"
+        },
+        {
+            "id": "69448",
+            "airport_ref": "3742",
+            "airport_ident": "KNXX",
+            "type": "OPS",
+            "description": "BASE OPS",
+            "frequency_mhz": "30.68"
+        },
+        {
+            "id": "69449",
+            "airport_ref": "3742",
+            "airport_ident": "KNXX",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "34.46"
+        },
+        {
+            "id": "69450",
+            "airport_ref": "3742",
+            "airport_ident": "KNXX",
+            "type": "POST",
+            "description": "AFRC OPS",
+            "frequency_mhz": "35.175"
+        },
+        {
+            "id": "69451",
+            "airport_ref": "3742",
+            "airport_ident": "KNXX",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.6"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "62375",
+            "airport_ref": "5451",
+            "airport_ident": "PHMU",
+            "type": "CNTR",
+            "description": "HONOLULU CNTR",
+            "frequency_mhz": "126"
+        },
+        {
+            "id": "62376",
+            "airport_ref": "5451",
+            "airport_ident": "PHMU",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        },
+        {
+            "id": "62377",
+            "airport_ref": "5451",
+            "airport_ident": "PHMU",
+            "type": "RDO",
+            "description": "HONOLULU",
+            "frequency_mhz": "122.1"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

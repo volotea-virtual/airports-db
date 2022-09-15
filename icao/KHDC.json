@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "69235",
+            "airport_ref": "20035",
+            "airport_ident": "KHDC",
+            "type": "A/D",
+            "description": "NEW ORLEANS APP/DEP",
+            "frequency_mhz": "119.3"
+        },
+        {
+            "id": "69236",
+            "airport_ref": "20035",
+            "airport_ident": "KHDC",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.325"
+        },
+        {
+            "id": "69237",
+            "airport_ref": "20035",
+            "airport_ident": "KHDC",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52771",
+            "airport_ref": "2752",
+            "airport_ident": "ETSH",
+            "type": "A/D",
+            "description": "RADAR",
+            "frequency_mhz": "38.54"
+        },
+        {
+            "id": "52770",
+            "airport_ref": "2752",
+            "airport_ident": "ETSH",
+            "type": "A/D",
+            "description": "RADAR",
+            "frequency_mhz": "123.3"
+        },
+        {
+            "id": "52772",
+            "airport_ref": "2752",
+            "airport_ident": "ETSH",
+            "type": "AFIS",
+            "description": "BERLIN INFO",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "52773",
+            "airport_ref": "2752",
+            "airport_ident": "ETSH",
+            "type": "ARR",
+            "description": "BERLIN ARR",
+            "frequency_mhz": "126.425"
+        },
+        {
+            "id": "52774",
+            "airport_ref": "2752",
+            "airport_ident": "ETSH",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.1"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

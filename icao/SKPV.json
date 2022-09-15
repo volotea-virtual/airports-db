@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51472",
+            "airport_ref": "6155",
+            "airport_ident": "SKPV",
+            "type": "APP",
+            "description": "SAN ANDRES APP",
+            "frequency_mhz": "119.3"
+        },
+        {
+            "id": "51473",
+            "airport_ref": "6155",
+            "airport_ident": "SKPV",
+            "type": "RDO",
+            "description": "PROVIDENCIA RDO",
+            "frequency_mhz": "672.8"
+        },
+        {
+            "id": "51474",
+            "airport_ref": "6155",
+            "airport_ident": "SKPV",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "121.9"
+        }
+    ],
     "country": {
         "id": "302793",
         "code": "CO",

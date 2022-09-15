@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "64633",
+            "airport_ref": "20341",
+            "airport_ident": "KLHV",
+            "type": "CNTR",
+            "description": "NEW YORK CNTR",
+            "frequency_mhz": "134.8"
+        },
+        {
+            "id": "64634",
+            "airport_ref": "20341",
+            "airport_ident": "KLHV",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

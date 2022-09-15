@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "55550",
+            "airport_ref": "26809",
+            "airport_ident": "WBGJ",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.95"
+        },
+        {
+            "id": "55551",
+            "airport_ref": "26809",
+            "airport_ident": "WBGJ",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "124.3"
+        }
+    ],
     "country": {
         "id": "302653",
         "code": "MY",

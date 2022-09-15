@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "50427",
+            "airport_ref": "1858",
+            "airport_ident": "CYPU",
+            "type": "ATF",
+            "description": "WILLIAMS LAKE RDO",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "50426",
+            "airport_ref": "1858",
+            "airport_ident": "CYPU",
+            "type": "CNTR",
+            "description": "VANCOUVER CNTR",
+            "frequency_mhz": "135.05"
+        },
+        {
+            "id": "50428",
+            "airport_ref": "1858",
+            "airport_ident": "CYPU",
+            "type": "RCO",
+            "description": "PACIFIC RDO",
+            "frequency_mhz": "126.7"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

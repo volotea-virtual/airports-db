@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "331222",
+            "airport_ref": "311010",
+            "airport_ident": "DE-0113",
+            "type": "INFO",
+            "description": "BLEXEN INFO",
+            "frequency_mhz": "120.605"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

@@ -41,6 +41,72 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "54993",
+            "airport_ref": "5655",
+            "airport_ident": "RKSO",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "127.9"
+        },
+        {
+            "id": "54994",
+            "airport_ref": "5655",
+            "airport_ident": "RKSO",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "132.125"
+        },
+        {
+            "id": "54995",
+            "airport_ref": "5655",
+            "airport_ident": "RKSO",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "127.3"
+        },
+        {
+            "id": "54996",
+            "airport_ref": "5655",
+            "airport_ident": "RKSO",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "127.9"
+        },
+        {
+            "id": "54997",
+            "airport_ref": "5655",
+            "airport_ident": "RKSO",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "132.45"
+        },
+        {
+            "id": "54998",
+            "airport_ref": "5655",
+            "airport_ident": "RKSO",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "34.65"
+        },
+        {
+            "id": "54999",
+            "airport_ref": "5655",
+            "airport_ident": "RKSO",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "120.7"
+        },
+        {
+            "id": "55000",
+            "airport_ref": "5655",
+            "airport_ident": "RKSO",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.1"
+        }
+    ],
     "country": {
         "id": "302643",
         "code": "KR",

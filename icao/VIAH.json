@@ -17,6 +17,16 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "300841",
+            "airport_ref": "298454",
+            "airport_ident": "VIAH",
+            "type": "TWR",
+            "description": "",
+            "frequency_mhz": "122.625"
+        }
+    ],
     "country": {
         "id": "302634",
         "code": "IN",

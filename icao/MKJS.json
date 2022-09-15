@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": "555"
         }
     ],
+    "freqs": [
+        {
+            "id": "54814",
+            "airport_ref": "4681",
+            "airport_ident": "MKJS",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "120.8"
+        },
+        {
+            "id": "54815",
+            "airport_ref": "4681",
+            "airport_ident": "MKJS",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.9"
+        },
+        {
+            "id": "54816",
+            "airport_ref": "4681",
+            "airport_ident": "MKJS",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "54817",
+            "airport_ref": "4681",
+            "airport_ident": "MKJS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.75"
+        },
+        {
+            "id": "75554",
+            "airport_ref": "4681",
+            "airport_ident": "MKJS",
+            "type": "VOR-DME",
+            "description": "Rwy 25",
+            "frequency_mhz": "115.7"
+        }
+    ],
     "country": {
         "id": "302741",
         "code": "JM",

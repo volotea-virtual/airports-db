@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53553",
+            "airport_ref": "4306",
+            "airport_ident": "LHSN",
+            "type": "TWR",
+            "description": "OPERA TWR",
+            "frequency_mhz": "129"
+        }
+    ],
     "country": {
         "id": "302693",
         "code": "HU",

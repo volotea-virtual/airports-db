@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": "200"
         }
     ],
+    "freqs": [
+        {
+            "id": "55399",
+            "airport_ref": "4749",
+            "airport_ident": "MMSC",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "132.1"
+        }
+    ],
     "country": {
         "id": "302747",
         "code": "MX",

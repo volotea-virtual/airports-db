@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": "200"
         }
     ],
+    "freqs": [
+        {
+            "id": "56352",
+            "airport_ref": "59",
+            "airport_ident": "AYHK",
+            "type": "FSS",
+            "description": "NADZAB CNTR",
+            "frequency_mhz": "127.1"
+        }
+    ],
     "country": {
         "id": "302778",
         "code": "PG",

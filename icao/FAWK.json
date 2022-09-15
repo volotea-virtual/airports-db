@@ -63,6 +63,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57036",
+            "airport_ref": "2856",
+            "airport_ident": "FAWK",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "134.4"
+        },
+        {
+            "id": "57037",
+            "airport_ref": "2856",
+            "airport_ident": "FAWK",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "116.9"
+        },
+        {
+            "id": "57038",
+            "airport_ref": "2856",
+            "airport_ident": "FAWK",
+            "type": "GCA",
+            "description": "GCA",
+            "frequency_mhz": "127.5"
+        },
+        {
+            "id": "57039",
+            "airport_ref": "2856",
+            "airport_ident": "FAWK",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.85"
+        },
+        {
+            "id": "57040",
+            "airport_ref": "2856",
+            "airport_ident": "FAWK",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "124.1"
+        }
+    ],
     "country": {
         "id": "302610",
         "code": "ZA",

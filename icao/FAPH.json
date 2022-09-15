@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57041",
+            "airport_ref": "2822",
+            "airport_ident": "FAPH",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "124.8"
+        }
+    ],
     "country": {
         "id": "302610",
         "code": "ZA",

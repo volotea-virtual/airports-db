@@ -63,6 +63,88 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "60799",
+            "airport_ref": "3494",
+            "airport_ident": "KDOV",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "132.425"
+        },
+        {
+            "id": "60800",
+            "airport_ref": "3494",
+            "airport_ident": "KDOV",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "135.05"
+        },
+        {
+            "id": "60801",
+            "airport_ref": "3494",
+            "airport_ident": "KDOV",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "125.55"
+        },
+        {
+            "id": "60802",
+            "airport_ref": "3494",
+            "airport_ident": "KDOV",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "32.3"
+        },
+        {
+            "id": "60803",
+            "airport_ref": "3494",
+            "airport_ident": "KDOV",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "118.875"
+        },
+        {
+            "id": "60804",
+            "airport_ref": "3494",
+            "airport_ident": "KDOV",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "34.2"
+        },
+        {
+            "id": "60805",
+            "airport_ref": "3494",
+            "airport_ident": "KDOV",
+            "type": "POST",
+            "description": "COMD POST",
+            "frequency_mhz": "134.1"
+        },
+        {
+            "id": "60806",
+            "airport_ref": "3494",
+            "airport_ident": "KDOV",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "134.1"
+        },
+        {
+            "id": "60807",
+            "airport_ref": "3494",
+            "airport_ident": "KDOV",
+            "type": "RDO",
+            "description": "MILLVILLE RDO",
+            "frequency_mhz": "111.4"
+        },
+        {
+            "id": "60808",
+            "airport_ref": "3494",
+            "airport_ident": "KDOV",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "126.35"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

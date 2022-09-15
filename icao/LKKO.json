@@ -63,6 +63,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "333239",
+            "airport_ref": "30035",
+            "airport_ident": "LKKO",
+            "type": "RADIO",
+            "description": "",
+            "frequency_mhz": "129.155"
+        }
+    ],
     "country": {
         "id": "302680",
         "code": "CZ",

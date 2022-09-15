@@ -63,6 +63,72 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "54635",
+            "airport_ref": "5598",
+            "airport_ident": "RJOO",
+            "type": "APP",
+            "description": "KANSAI APP",
+            "frequency_mhz": "120.45"
+        },
+        {
+            "id": "54636",
+            "airport_ref": "5598",
+            "airport_ident": "RJOO",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.6"
+        },
+        {
+            "id": "54637",
+            "airport_ref": "5598",
+            "airport_ident": "RJOO",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "118.8"
+        },
+        {
+            "id": "54638",
+            "airport_ref": "5598",
+            "airport_ident": "RJOO",
+            "type": "DEP",
+            "description": "KANSAI DEP",
+            "frequency_mhz": "119.5"
+        },
+        {
+            "id": "54639",
+            "airport_ref": "5598",
+            "airport_ident": "RJOO",
+            "type": "GCA",
+            "description": "GCA",
+            "frequency_mhz": "127.5"
+        },
+        {
+            "id": "54640",
+            "airport_ref": "5598",
+            "airport_ident": "RJOO",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "54641",
+            "airport_ref": "5598",
+            "airport_ident": "RJOO",
+            "type": "TCA",
+            "description": "TCA",
+            "frequency_mhz": "121.1"
+        },
+        {
+            "id": "54642",
+            "airport_ref": "5598",
+            "airport_ident": "RJOO",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
     "country": {
         "id": "302639",
         "code": "JP",

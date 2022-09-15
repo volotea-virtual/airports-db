@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "50632",
+            "airport_ref": "2011",
+            "airport_ident": "CZBM",
+            "type": "A/D",
+            "description": "MONTREAL CNTR",
+            "frequency_mhz": "132.55"
+        },
+        {
+            "id": "50633",
+            "airport_ref": "2011",
+            "airport_ident": "CZBM",
+            "type": "A/G",
+            "description": "MF",
+            "frequency_mhz": "122.15"
+        },
+        {
+            "id": "50634",
+            "airport_ref": "2011",
+            "airport_ident": "CZBM",
+            "type": "UNIC",
+            "description": "ATF/UNICOM",
+            "frequency_mhz": "122.15"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

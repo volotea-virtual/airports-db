@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "68254",
+            "airport_ref": "20346",
+            "airport_ident": "KLIU",
+            "type": "A/D",
+            "description": "LUBBOCK APP/DEP",
+            "frequency_mhz": "119.9"
+        },
+        {
+            "id": "68255",
+            "airport_ref": "20346",
+            "airport_ident": "KLIU",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

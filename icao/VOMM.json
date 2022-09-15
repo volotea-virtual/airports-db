@@ -63,6 +63,56 @@
             "he_displaced_threshold_ft": "787"
         }
     ],
+    "freqs": [
+        {
+            "id": "53811",
+            "airport_ref": "26618",
+            "airport_ident": "VOMM",
+            "type": "ACC",
+            "description": "CHENNAI CNTR",
+            "frequency_mhz": "118.9"
+        },
+        {
+            "id": "53812",
+            "airport_ref": "26618",
+            "airport_ident": "VOMM",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "127.9"
+        },
+        {
+            "id": "53813",
+            "airport_ref": "26618",
+            "airport_ident": "VOMM",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.45"
+        },
+        {
+            "id": "53814",
+            "airport_ref": "26618",
+            "airport_ident": "VOMM",
+            "type": "GCA",
+            "description": "SCHENNAI RADARS",
+            "frequency_mhz": "125.7"
+        },
+        {
+            "id": "53815",
+            "airport_ref": "26618",
+            "airport_ident": "VOMM",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "53816",
+            "airport_ref": "26618",
+            "airport_ident": "VOMM",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
     "country": {
         "id": "302634",
         "code": "IN",

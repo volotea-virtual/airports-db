@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "54896",
+            "airport_ref": "5635",
+            "airport_ident": "RKND",
+            "type": "ACP",
+            "description": "BRICKWALL",
+            "frequency_mhz": "120"
+        },
+        {
+            "id": "54897",
+            "airport_ref": "5635",
+            "airport_ident": "RKND",
+            "type": "APP",
+            "description": "GANGNEUNG APP",
+            "frequency_mhz": "124.6"
+        },
+        {
+            "id": "54898",
+            "airport_ref": "5635",
+            "airport_ident": "RKND",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "32.3"
+        }
+    ],
     "country": {
         "id": "302643",
         "code": "KR",

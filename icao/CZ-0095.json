@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "316808",
+            "airport_ref": "316807",
+            "airport_ident": "CZ-0095",
+            "type": "Info",
+            "description": "Doudleby Radio",
+            "frequency_mhz": "125.825"
+        }
+    ],
     "country": {
         "id": "302680",
         "code": "CZ",

@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "70787",
+            "airport_ref": "5454",
+            "airport_ident": "PHNY",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "118.375"
+        },
+        {
+            "id": "70788",
+            "airport_ref": "5454",
+            "airport_ident": "PHNY",
+            "type": "CNTR",
+            "description": "HONOLULU CNTR",
+            "frequency_mhz": "119.3"
+        },
+        {
+            "id": "70789",
+            "airport_ref": "5454",
+            "airport_ident": "PHNY",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        },
+        {
+            "id": "70790",
+            "airport_ref": "5454",
+            "airport_ident": "PHNY",
+            "type": "RCO",
+            "description": "RDO",
+            "frequency_mhz": "117.7"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

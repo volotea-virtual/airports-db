@@ -17,6 +17,32 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "75210",
+            "airport_ref": "44678",
+            "airport_ident": "NZBW",
+            "type": "ATIS",
+            "description": "Christchurch ATIS",
+            "frequency_mhz": "127.2"
+        },
+        {
+            "id": "75211",
+            "airport_ref": "44678",
+            "airport_ident": "NZBW",
+            "type": "TWR",
+            "description": "Christchurch Tower",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "75212",
+            "airport_ref": "44678",
+            "airport_ident": "NZBW",
+            "type": "TWR",
+            "description": "Christchurch Tower: alternative frequency",
+            "frequency_mhz": "125"
+        }
+    ],
     "country": {
         "id": "302776",
         "code": "NZ",

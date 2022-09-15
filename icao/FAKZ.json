@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57093",
+            "airport_ref": "2799",
+            "airport_ident": "FAKZ",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "123.5"
+        }
+    ],
     "country": {
         "id": "302610",
         "code": "ZA",

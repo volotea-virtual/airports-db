@@ -4,12 +4,12 @@
     "type": "medium_airport",
     "name": "Djerba Zarzis International Airport",
     "latitude_deg": "33.875",
-    "longitude_deg": "10.775500297546387",
+    "longitude_deg": "10.7755",
     "elevation_ft": "19",
     "continent": "AF",
     "iso_country": "TN",
     "iso_region": "TN-82",
-    "municipality": "Djerba",
+    "municipality": "Mellita",
     "scheduled_service": "yes",
     "gps_code": "DTTJ",
     "iata_code": "DJE",
@@ -39,6 +39,24 @@
             "he_elevation_ft": "18",
             "he_heading_degT": "268.3",
             "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57807",
+            "airport_ref": "2139",
+            "airport_ident": "DTTJ",
+            "type": "APP",
+            "description": "DJERBA APP",
+            "frequency_mhz": "120.3"
+        },
+        {
+            "id": "57808",
+            "airport_ref": "2139",
+            "airport_ident": "DTTJ",
+            "type": "TWR",
+            "description": "DJERBA TWR",
+            "frequency_mhz": "118.15"
         }
     ],
     "country": {

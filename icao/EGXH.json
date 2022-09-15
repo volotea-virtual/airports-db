@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "58092",
+            "airport_ref": "2501",
+            "airport_ident": "EGXH",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "123.3"
+        },
+        {
+            "id": "58093",
+            "airport_ref": "2501",
+            "airport_ident": "EGXH",
+            "type": "RDR",
+            "description": "LAKENHEATH RADAR",
+            "frequency_mhz": "128.9"
+        },
+        {
+            "id": "58094",
+            "airport_ref": "2501",
+            "airport_ident": "EGXH",
+            "type": "TWR",
+            "description": "TWR/Common Mil",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "307797",
+            "airport_ref": "2501",
+            "airport_ident": "EGXH",
+            "type": "TWR",
+            "description": "",
+            "frequency_mhz": "278.62"
+        }
+    ],
     "country": {
         "id": "302688",
         "code": "GB",

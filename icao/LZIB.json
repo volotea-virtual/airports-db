@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": "777"
         }
     ],
+    "freqs": [
+        {
+            "id": "55189",
+            "airport_ref": "4617",
+            "airport_ident": "LZIB",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "120.9"
+        },
+        {
+            "id": "55190",
+            "airport_ref": "4617",
+            "airport_ident": "LZIB",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.65"
+        },
+        {
+            "id": "55191",
+            "airport_ref": "4617",
+            "airport_ident": "LZIB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302717",
         "code": "SK",

@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "67504",
+            "airport_ref": "20949",
+            "airport_ident": "KROG",
+            "type": "A/D",
+            "description": "RAZORBACK APP/DEP",
+            "frequency_mhz": "128.15"
+        },
+        {
+            "id": "67505",
+            "airport_ref": "20949",
+            "airport_ident": "KROG",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "134.375"
+        },
+        {
+            "id": "67506",
+            "airport_ref": "20949",
+            "airport_ident": "KROG",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.75"
+        },
+        {
+            "id": "67507",
+            "airport_ref": "20949",
+            "airport_ident": "KROG",
+            "type": "TWR",
+            "description": "RAZORBACK TWR",
+            "frequency_mhz": "118"
+        },
+        {
+            "id": "67508",
+            "airport_ref": "20949",
+            "airport_ident": "KROG",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "119.375"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

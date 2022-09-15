@@ -41,6 +41,56 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "332367",
+            "airport_ref": "1824",
+            "airport_ident": "CYND",
+            "type": "ARR",
+            "description": "Ottawa Arrivals",
+            "frequency_mhz": "128.175"
+        },
+        {
+            "id": "50644",
+            "airport_ref": "1824",
+            "airport_ident": "CYND",
+            "type": "ATF",
+            "description": "Gatineau Traffic",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "332366",
+            "airport_ref": "1824",
+            "airport_ident": "CYND",
+            "type": "DEP",
+            "description": "Ottawa Departures",
+            "frequency_mhz": "128.175"
+        },
+        {
+            "id": "50643",
+            "airport_ref": "1824",
+            "airport_ident": "CYND",
+            "type": "MF",
+            "description": "Gatineau Radio, 0630-2115 local",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "50645",
+            "airport_ref": "1824",
+            "airport_ident": "CYND",
+            "type": "RCO",
+            "description": "Quebec Radio",
+            "frequency_mhz": "123.375"
+        },
+        {
+            "id": "50642",
+            "airport_ref": "1824",
+            "airport_ident": "CYND",
+            "type": "TML",
+            "description": "Ottawa Terminal",
+            "frequency_mhz": "127.7"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

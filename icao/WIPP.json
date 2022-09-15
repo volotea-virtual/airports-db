@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53746",
+            "airport_ref": "26855",
+            "airport_ident": "WIPP",
+            "type": "APP",
+            "description": "PALEMBANG APP",
+            "frequency_mhz": "119.2"
+        },
+        {
+            "id": "53747",
+            "airport_ref": "26855",
+            "airport_ident": "WIPP",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.2"
+        },
+        {
+            "id": "53748",
+            "airport_ref": "26855",
+            "airport_ident": "WIPP",
+            "type": "INFO",
+            "description": "PALEMBANG INFO",
+            "frequency_mhz": "341.6"
+        },
+        {
+            "id": "53749",
+            "airport_ref": "26855",
+            "airport_ident": "WIPP",
+            "type": "TWR",
+            "description": "MAHMUD TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
     "country": {
         "id": "302632",
         "code": "ID",

@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51574",
+            "airport_ref": "5431",
+            "airport_ident": "PGSN",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.2"
+        },
+        {
+            "id": "51575",
+            "airport_ref": "5431",
+            "airport_ident": "PGSN",
+            "type": "CNTR",
+            "description": "GUAM CNTR",
+            "frequency_mhz": "118.4"
+        },
+        {
+            "id": "51576",
+            "airport_ref": "5431",
+            "airport_ident": "PGSN",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "51577",
+            "airport_ref": "5431",
+            "airport_ident": "PGSN",
+            "type": "RDO",
+            "description": "SAIPAN RDO",
+            "frequency_mhz": "123.6"
+        },
+        {
+            "id": "51578",
+            "airport_ref": "5431",
+            "airport_ident": "PGSN",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "125.7"
+        }
+    ],
     "country": {
         "id": "302771",
         "code": "MP",

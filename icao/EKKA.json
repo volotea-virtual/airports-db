@@ -129,6 +129,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51709",
+            "airport_ref": "2546",
+            "airport_ident": "EKKA",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "120.425"
+        },
+        {
+            "id": "51710",
+            "airport_ref": "2546",
+            "airport_ident": "EKKA",
+            "type": "MISC",
+            "description": "HANDLING",
+            "frequency_mhz": "123.4"
+        },
+        {
+            "id": "51711",
+            "airport_ref": "2546",
+            "airport_ident": "EKKA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.575"
+        }
+    ],
     "country": {
         "id": "302682",
         "code": "DK",

@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53976",
+            "airport_ref": "26628",
+            "airport_ident": "VOTR",
+            "type": "APP",
+            "description": "TRICHY APP",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "53977",
+            "airport_ref": "26628",
+            "airport_ident": "VOTR",
+            "type": "TWR",
+            "description": "TRICHY TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302634",
         "code": "IN",

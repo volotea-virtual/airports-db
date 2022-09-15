@@ -1,0 +1,38 @@
+{
+    "id": "356661",
+    "ident": "EH-0021",
+    "type": "heliport",
+    "name": "Bir Gandouz Heliport",
+    "latitude_deg": "21.61217",
+    "longitude_deg": "-16.46674",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "EH",
+    "iso_region": "EH-U-A",
+    "municipality": "Bir Gandouz",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302570",
+        "code": "EH",
+        "name": "Western Sahara",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Sahara",
+        "keywords": "Sahrawian, مطارات الصحراء الغربية"
+    },
+    "region": {
+        "id": "303718",
+        "code": "EH-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "AF",
+        "iso_country": "EH",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}

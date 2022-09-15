@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51412",
+            "airport_ref": "6169",
+            "airport_ident": "SKTQ",
+            "type": "A/D",
+            "description": "CTL",
+            "frequency_mhz": "124.5"
+        },
+        {
+            "id": "51413",
+            "airport_ref": "6169",
+            "airport_ident": "SKTQ",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "51414",
+            "airport_ref": "6169",
+            "airport_ident": "SKTQ",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "126"
+        },
+        {
+            "id": "51415",
+            "airport_ref": "6169",
+            "airport_ident": "SKTQ",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "555.6"
+        },
+        {
+            "id": "51416",
+            "airport_ref": "6169",
+            "airport_ident": "SKTQ",
+            "type": "TWR",
+            "description": "ERNESTO ESGUERRA TWR",
+            "frequency_mhz": "117.3"
+        }
+    ],
     "country": {
         "id": "302793",
         "code": "CO",

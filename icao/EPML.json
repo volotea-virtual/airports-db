@@ -85,6 +85,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56226",
+            "airport_ref": "2620",
+            "airport_ident": "EPML",
+            "type": "AFIS",
+            "description": "TEST",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "56227",
+            "airport_ref": "2620",
+            "airport_ident": "EPML",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "123.35"
+        }
+    ],
     "country": {
         "id": "302710",
         "code": "PL",

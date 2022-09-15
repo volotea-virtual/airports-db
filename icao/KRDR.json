@@ -41,6 +41,80 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "63057",
+            "airport_ref": "20922",
+            "airport_ident": "KRDR",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "63058",
+            "airport_ref": "20922",
+            "airport_ident": "KRDR",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "27.345"
+        },
+        {
+            "id": "63059",
+            "airport_ref": "20922",
+            "airport_ident": "KRDR",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "119.15"
+        },
+        {
+            "id": "63060",
+            "airport_ref": "20922",
+            "airport_ident": "KRDR",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "119.15"
+        },
+        {
+            "id": "63061",
+            "airport_ref": "20922",
+            "airport_ident": "KRDR",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "34.35"
+        },
+        {
+            "id": "63062",
+            "airport_ref": "20922",
+            "airport_ident": "KRDR",
+            "type": "POST",
+            "description": "COMD POST",
+            "frequency_mhz": "31.1"
+        },
+        {
+            "id": "63063",
+            "airport_ref": "20922",
+            "airport_ident": "KRDR",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "37.22"
+        },
+        {
+            "id": "63064",
+            "airport_ref": "20922",
+            "airport_ident": "KRDR",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "63065",
+            "airport_ref": "20922",
+            "airport_ident": "KRDR",
+            "type": "TWR",
+            "description": "RED RIVER TWR",
+            "frequency_mhz": "124.9"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

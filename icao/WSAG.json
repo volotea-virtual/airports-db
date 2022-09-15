@@ -63,6 +63,40 @@
             "he_displaced_threshold_ft": "200"
         }
     ],
+    "freqs": [
+        {
+            "id": "57184",
+            "airport_ref": "26883",
+            "airport_ident": "WSAG",
+            "type": "A/D",
+            "description": "SINGAPORE APP/DEP",
+            "frequency_mhz": "120.3"
+        },
+        {
+            "id": "57185",
+            "airport_ref": "26883",
+            "airport_ident": "WSAG",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "149.25"
+        },
+        {
+            "id": "57186",
+            "airport_ref": "26883",
+            "airport_ident": "WSAG",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "28.39"
+        },
+        {
+            "id": "57187",
+            "airport_ref": "26883",
+            "airport_ident": "WSAG",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "129.7"
+        }
+    ],
     "country": {
         "id": "302661",
         "code": "SG",

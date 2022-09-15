@@ -63,6 +63,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "63678",
+            "airport_ref": "3621",
+            "airport_ident": "KJBR",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "118.525"
+        },
+        {
+            "id": "63679",
+            "airport_ref": "3621",
+            "airport_ident": "KJBR",
+            "type": "CNTR",
+            "description": "MEMPHIS CNTR",
+            "frequency_mhz": "120.075"
+        },
+        {
+            "id": "63680",
+            "airport_ref": "3621",
+            "airport_ident": "KJBR",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "123.6"
+        },
+        {
+            "id": "63681",
+            "airport_ref": "3621",
+            "airport_ident": "KJBR",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "63682",
+            "airport_ref": "3621",
+            "airport_ident": "KJBR",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

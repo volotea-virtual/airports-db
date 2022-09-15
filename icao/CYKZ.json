@@ -63,6 +63,64 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "50847",
+            "airport_ref": "1795",
+            "airport_ident": "CYKZ",
+            "type": "ARR",
+            "description": "Toronto Terminal Arrivals",
+            "frequency_mhz": "133.4"
+        },
+        {
+            "id": "50848",
+            "airport_ref": "1795",
+            "airport_ident": "CYKZ",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.1"
+        },
+        {
+            "id": "50849",
+            "airport_ref": "1795",
+            "airport_ident": "CYKZ",
+            "type": "DEP",
+            "description": "Toronto Terminal Departures",
+            "frequency_mhz": "133.4"
+        },
+        {
+            "id": "50850",
+            "airport_ref": "1795",
+            "airport_ident": "CYKZ",
+            "type": "GND",
+            "description": "Buttonville Ground",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "50846",
+            "airport_ref": "1795",
+            "airport_ident": "CYKZ",
+            "type": "MF",
+            "description": "Buttonville Traffic: when tower closed",
+            "frequency_mhz": "124.8"
+        },
+        {
+            "id": "50851",
+            "airport_ref": "1795",
+            "airport_ident": "CYKZ",
+            "type": "RCO",
+            "description": "London Radio",
+            "frequency_mhz": "123.15"
+        },
+        {
+            "id": "50852",
+            "airport_ref": "1795",
+            "airport_ident": "CYKZ",
+            "type": "TWR",
+            "description": "Buttonville Tower. (Backup: 119.9)",
+            "frequency_mhz": "124.8"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

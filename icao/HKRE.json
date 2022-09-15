@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "54842",
+            "airport_ref": "3216",
+            "airport_ident": "HKRE",
+            "type": "TWR",
+            "description": "EASTLEIGH TWR",
+            "frequency_mhz": "124.3"
+        }
+    ],
     "country": {
         "id": "302579",
         "code": "KE",

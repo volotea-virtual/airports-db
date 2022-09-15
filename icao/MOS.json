@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "340547",
+            "airport_ref": "22304",
+            "airport_ident": "MOS",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

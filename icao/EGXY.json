@@ -85,6 +85,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "58545",
+            "airport_ref": "2507",
+            "airport_ident": "EGXY",
+            "type": "A/G",
+            "description": "RDO",
+            "frequency_mhz": "125.425"
+        }
+    ],
     "country": {
         "id": "302688",
         "code": "GB",

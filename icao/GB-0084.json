@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "307909",
+            "airport_ref": "307908",
+            "airport_ident": "GB-0084",
+            "type": "ATIS",
+            "description": "Redlands DZ / Redlands trafic",
+            "frequency_mhz": "129.825"
+        }
+    ],
     "country": {
         "id": "302688",
         "code": "GB",

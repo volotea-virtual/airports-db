@@ -63,6 +63,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "69929",
+            "airport_ref": "3442",
+            "airport_ident": "KCDC",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "119.025"
+        },
+        {
+            "id": "69930",
+            "airport_ref": "3442",
+            "airport_ident": "KCDC",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "123.6"
+        },
+        {
+            "id": "69931",
+            "airport_ref": "3442",
+            "airport_ident": "KCDC",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "69932",
+            "airport_ref": "3442",
+            "airport_ident": "KCDC",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

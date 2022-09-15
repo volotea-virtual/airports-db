@@ -63,6 +63,16 @@
             "he_displaced_threshold_ft": "166"
         }
     ],
+    "freqs": [
+        {
+            "id": "64303",
+            "airport_ref": "20925",
+            "airport_ident": "KRFG",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

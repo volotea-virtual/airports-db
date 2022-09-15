@@ -17,6 +17,16 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/RAF_Bury_St_Edmunds",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "327823",
+            "airport_ref": "307977",
+            "airport_ident": "GB-0146",
+            "type": "A/G",
+            "description": "",
+            "frequency_mhz": "123.165"
+        }
+    ],
     "country": {
         "id": "302688",
         "code": "GB",

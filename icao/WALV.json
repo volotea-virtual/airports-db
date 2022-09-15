@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53717",
+            "airport_ref": "26765",
+            "airport_ident": "WALV",
+            "type": "A/G",
+            "description": "RDO",
+            "frequency_mhz": "534"
+        },
+        {
+            "id": "53718",
+            "airport_ref": "26765",
+            "airport_ident": "WALV",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.1"
+        }
+    ],
     "country": {
         "id": "302632",
         "code": "ID",

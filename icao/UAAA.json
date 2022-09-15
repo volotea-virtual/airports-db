@@ -63,6 +63,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "55136",
+            "airport_ref": "6421",
+            "airport_ident": "UAAA",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "131.6"
+        },
+        {
+            "id": "55137",
+            "airport_ref": "6421",
+            "airport_ident": "UAAA",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "129.8"
+        },
+        {
+            "id": "55138",
+            "airport_ref": "6421",
+            "airport_ident": "UAAA",
+            "type": "GCA",
+            "description": "RADAR",
+            "frequency_mhz": "120.8"
+        },
+        {
+            "id": "55139",
+            "airport_ref": "6421",
+            "airport_ident": "UAAA",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "55140",
+            "airport_ref": "6421",
+            "airport_ident": "UAAA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.4"
+        }
+    ],
     "country": {
         "id": "302645",
         "code": "KZ",

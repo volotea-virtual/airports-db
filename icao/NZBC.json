@@ -17,6 +17,40 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "75193",
+            "airport_ref": "44670",
+            "airport_ident": "NZBC",
+            "type": "AFIS",
+            "description": "Christchurch Information",
+            "frequency_mhz": "118.5"
+        },
+        {
+            "id": "75192",
+            "airport_ref": "44670",
+            "airport_ident": "NZBC",
+            "type": "ATF",
+            "description": "City Traffic",
+            "frequency_mhz": "120.4"
+        },
+        {
+            "id": "75191",
+            "airport_ref": "44670",
+            "airport_ident": "NZBC",
+            "type": "ATIS",
+            "description": "Aukland ATIS",
+            "frequency_mhz": "127.8"
+        },
+        {
+            "id": "75194",
+            "airport_ref": "44670",
+            "airport_ident": "NZBC",
+            "type": "ATIS",
+            "description": "Whenuapai ATIS",
+            "frequency_mhz": "128.3"
+        }
+    ],
     "country": {
         "id": "302776",
         "code": "NZ",

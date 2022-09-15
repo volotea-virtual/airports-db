@@ -107,6 +107,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "50890",
+            "airport_ref": "1480",
+            "airport_ident": "CPZ3",
+            "type": "ATF",
+            "description": "ATF",
+            "frequency_mhz": "123.3"
+        },
+        {
+            "id": "50891",
+            "airport_ref": "1480",
+            "airport_ident": "CPZ3",
+            "type": "OPS",
+            "description": "TRENTON MIL ADVSY",
+            "frequency_mhz": "122.35"
+        },
+        {
+            "id": "50892",
+            "airport_ref": "1480",
+            "airport_ident": "CPZ3",
+            "type": "TWR",
+            "description": "TRENTON TWR",
+            "frequency_mhz": "128.7"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

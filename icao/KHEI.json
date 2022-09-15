@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "66258",
+            "airport_ref": "20043",
+            "airport_ident": "KHEI",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "119.925"
+        },
+        {
+            "id": "66259",
+            "airport_ref": "20043",
+            "airport_ident": "KHEI",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "124.25"
+        },
+        {
+            "id": "66260",
+            "airport_ref": "20043",
+            "airport_ident": "KHEI",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

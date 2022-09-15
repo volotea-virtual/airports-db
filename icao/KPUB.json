@@ -107,6 +107,64 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "61828",
+            "airport_ref": "3794",
+            "airport_ident": "KPUB",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "120.1"
+        },
+        {
+            "id": "61829",
+            "airport_ref": "3794",
+            "airport_ident": "KPUB",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "125.25"
+        },
+        {
+            "id": "61830",
+            "airport_ref": "3794",
+            "airport_ident": "KPUB",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "61831",
+            "airport_ref": "3794",
+            "airport_ident": "KPUB",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "61832",
+            "airport_ref": "3794",
+            "airport_ident": "KPUB",
+            "type": "RDO",
+            "description": "DENVER RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "61833",
+            "airport_ref": "3794",
+            "airport_ident": "KPUB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "61834",
+            "airport_ref": "3794",
+            "airport_ident": "KPUB",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

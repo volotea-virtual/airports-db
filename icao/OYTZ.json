@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "71843",
+            "airport_ref": "5321",
+            "airport_ident": "OYTZ",
+            "type": "GND",
+            "description": "TAIZ GND",
+            "frequency_mhz": "121.6"
+        },
+        {
+            "id": "71844",
+            "airport_ref": "5321",
+            "airport_ident": "OYTZ",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "511.5"
+        },
+        {
+            "id": "71845",
+            "airport_ref": "5321",
+            "airport_ident": "OYTZ",
+            "type": "TWR",
+            "description": "TAIZ TWR",
+            "frequency_mhz": "118.5"
+        }
+    ],
     "country": {
         "id": "302671",
         "code": "YE",

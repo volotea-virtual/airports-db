@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": "953"
         }
     ],
+    "freqs": [
+        {
+            "id": "54189",
+            "airport_ref": "4363",
+            "airport_ident": "LIPS",
+            "type": "APP",
+            "description": "TREVISO APP",
+            "frequency_mhz": "36.23"
+        },
+        {
+            "id": "54188",
+            "airport_ref": "4363",
+            "airport_ident": "LIPS",
+            "type": "APP",
+            "description": "TREVISO APP",
+            "frequency_mhz": "120.4"
+        },
+        {
+            "id": "54190",
+            "airport_ref": "4363",
+            "airport_ident": "LIPS",
+            "type": "EMR",
+            "description": "EMERG",
+            "frequency_mhz": "24.34"
+        },
+        {
+            "id": "54191",
+            "airport_ref": "4363",
+            "airport_ident": "LIPS",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "27.95"
+        },
+        {
+            "id": "54192",
+            "airport_ref": "4363",
+            "airport_ident": "LIPS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.1"
+        }
+    ],
     "country": {
         "id": "302697",
         "code": "IT",

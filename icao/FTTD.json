@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51083",
+            "airport_ref": "2997",
+            "airport_ident": "FTTD",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.6"
+        }
+    ],
     "country": {
         "id": "302604",
         "code": "TD",

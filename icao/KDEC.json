@@ -85,6 +85,64 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "67020",
+            "airport_ref": "3485",
+            "airport_ident": "KDEC",
+            "type": "A/D",
+            "description": "CHAMPAIGN APP/DEP",
+            "frequency_mhz": "132.85"
+        },
+        {
+            "id": "67021",
+            "airport_ref": "3485",
+            "airport_ident": "KDEC",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.35"
+        },
+        {
+            "id": "67022",
+            "airport_ref": "3485",
+            "airport_ident": "KDEC",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.9"
+        },
+        {
+            "id": "67023",
+            "airport_ref": "3485",
+            "airport_ident": "KDEC",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.75"
+        },
+        {
+            "id": "67024",
+            "airport_ref": "3485",
+            "airport_ident": "KDEC",
+            "type": "RDO",
+            "description": "ST LOUIS RDO",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "67025",
+            "airport_ref": "3485",
+            "airport_ident": "KDEC",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.9"
+        },
+        {
+            "id": "67026",
+            "airport_ref": "3485",
+            "airport_ident": "KDEC",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -63,6 +63,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "75374",
+            "airport_ref": "46478",
+            "airport_ident": "CCE6",
+            "type": "ATF",
+            "description": "Camden East Traffic",
+            "frequency_mhz": "123.2"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

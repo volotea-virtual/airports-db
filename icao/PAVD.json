@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "71169",
+            "airport_ref": "5418",
+            "airport_ident": "PAVD",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.8"
+        },
+        {
+            "id": "71170",
+            "airport_ref": "5418",
+            "airport_ident": "PAVD",
+            "type": "CNTR",
+            "description": "ANCHORAGE CNTR",
+            "frequency_mhz": "119.3"
+        },
+        {
+            "id": "71171",
+            "airport_ref": "5418",
+            "airport_ident": "PAVD",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        },
+        {
+            "id": "71172",
+            "airport_ref": "5418",
+            "airport_ident": "PAVD",
+            "type": "FSS",
+            "description": "JUNEAU RDO",
+            "frequency_mhz": "122.2"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

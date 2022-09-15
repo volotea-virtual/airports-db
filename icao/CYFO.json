@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "50604",
+            "airport_ref": "1735",
+            "airport_ident": "CYFO",
+            "type": "A/G",
+            "description": "WINNIPEG RDO MF",
+            "frequency_mhz": "122"
+        },
+        {
+            "id": "50605",
+            "airport_ref": "1735",
+            "airport_ident": "CYFO",
+            "type": "RCO",
+            "description": "WINNIPEG RDO",
+            "frequency_mhz": "122"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

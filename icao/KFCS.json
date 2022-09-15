@@ -41,6 +41,56 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "61267",
+            "airport_ref": "19851",
+            "airport_ident": "KFCS",
+            "type": "A/D",
+            "description": "SPRINGS APP/DEP",
+            "frequency_mhz": "124"
+        },
+        {
+            "id": "61268",
+            "airport_ref": "19851",
+            "airport_ident": "KFCS",
+            "type": "A/G",
+            "description": "FLT FLW",
+            "frequency_mhz": "38.35"
+        },
+        {
+            "id": "61269",
+            "airport_ref": "19851",
+            "airport_ident": "KFCS",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "108.8"
+        },
+        {
+            "id": "61270",
+            "airport_ref": "19851",
+            "airport_ident": "KFCS",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "44.1"
+        },
+        {
+            "id": "61271",
+            "airport_ref": "19851",
+            "airport_ident": "KFCS",
+            "type": "PTD",
+            "description": "PTD/OPS",
+            "frequency_mhz": "141.15"
+        },
+        {
+            "id": "61272",
+            "airport_ref": "19851",
+            "airport_ident": "KFCS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "125.5"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

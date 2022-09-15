@@ -63,6 +63,56 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "48866",
+            "airport_ref": "27103",
+            "airport_ident": "YPED",
+            "type": "APP",
+            "description": "ADELAIDE APP",
+            "frequency_mhz": "128.6"
+        },
+        {
+            "id": "48867",
+            "airport_ref": "27103",
+            "airport_ident": "YPED",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "31.63"
+        },
+        {
+            "id": "48868",
+            "airport_ref": "27103",
+            "airport_ident": "YPED",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "48869",
+            "airport_ref": "27103",
+            "airport_ident": "YPED",
+            "type": "FSS",
+            "description": "FLIGHTWATCH",
+            "frequency_mhz": "128.6"
+        },
+        {
+            "id": "48870",
+            "airport_ref": "27103",
+            "airport_ident": "YPED",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "134.1"
+        },
+        {
+            "id": "48871",
+            "airport_ref": "27103",
+            "airport_ident": "YPED",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",

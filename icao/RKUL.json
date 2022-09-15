@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "55095",
+            "airport_ref": "5666",
+            "airport_ident": "RKUL",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "47"
+        },
+        {
+            "id": "55096",
+            "airport_ref": "5666",
+            "airport_ident": "RKUL",
+            "type": "OPS",
+            "description": "GYERYONG OPS",
+            "frequency_mhz": "30.3"
+        },
+        {
+            "id": "55097",
+            "airport_ref": "5666",
+            "airport_ident": "RKUL",
+            "type": "TWR",
+            "description": "NON SAN TWR",
+            "frequency_mhz": "38"
+        }
+    ],
     "country": {
         "id": "302643",
         "code": "KR",

@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": "298"
         }
     ],
+    "freqs": [
+        {
+            "id": "55398",
+            "airport_ref": "26633",
+            "airport_ident": "VRMG",
+            "type": "TWR",
+            "description": "GAN TWR",
+            "frequency_mhz": "119.1"
+        }
+    ],
     "country": {
         "id": "302652",
         "code": "MV",

@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": "98"
         }
     ],
+    "freqs": [
+        {
+            "id": "51953",
+            "airport_ref": "2538",
+            "airport_ident": "EISG",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "51954",
+            "airport_ref": "2538",
+            "airport_ident": "EISG",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "51955",
+            "airport_ref": "2538",
+            "airport_ident": "EISG",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.1"
+        }
+    ],
     "country": {
         "id": "302694",
         "code": "IE",

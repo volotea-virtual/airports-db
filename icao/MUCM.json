@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51652",
+            "airport_ref": "4834",
+            "airport_ident": "MUCM",
+            "type": "A/G",
+            "description": "CAMAGUEY RDO",
+            "frequency_mhz": "126.9"
+        },
+        {
+            "id": "51653",
+            "airport_ref": "4834",
+            "airport_ident": "MUCM",
+            "type": "A/G",
+            "description": "CAMAGUEY RDO",
+            "frequency_mhz": "1132.1"
+        },
+        {
+            "id": "51654",
+            "airport_ref": "4834",
+            "airport_ident": "MUCM",
+            "type": "APP",
+            "description": "CAMAGUEY APP",
+            "frequency_mhz": "121.3"
+        },
+        {
+            "id": "51655",
+            "airport_ref": "4834",
+            "airport_ident": "MUCM",
+            "type": "TWR",
+            "description": "AGRAMONTE TWR",
+            "frequency_mhz": "118.5"
+        }
+    ],
     "country": {
         "id": "302732",
         "code": "CU",

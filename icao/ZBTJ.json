@@ -63,6 +63,64 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51249",
+            "airport_ref": "27192",
+            "airport_ident": "ZBTJ",
+            "type": "APP",
+            "description": "TIANJIN APP",
+            "frequency_mhz": "118.2"
+        },
+        {
+            "id": "51250",
+            "airport_ref": "27192",
+            "airport_ident": "ZBTJ",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.4"
+        },
+        {
+            "id": "51251",
+            "airport_ref": "27192",
+            "airport_ident": "ZBTJ",
+            "type": "GND",
+            "description": "RAMP CON",
+            "frequency_mhz": "121.75"
+        },
+        {
+            "id": "321349",
+            "airport_ref": "27192",
+            "airport_ident": "ZBTJ",
+            "type": "TWR",
+            "description": "TIANJIN TWR",
+            "frequency_mhz": "118.2"
+        },
+        {
+            "id": "321348",
+            "airport_ref": "27192",
+            "airport_ident": "ZBTJ",
+            "type": "TWR",
+            "description": "TIANJIN TWR",
+            "frequency_mhz": "118.425"
+        },
+        {
+            "id": "321347",
+            "airport_ref": "27192",
+            "airport_ident": "ZBTJ",
+            "type": "TWR",
+            "description": "TIANJIN TWR",
+            "frequency_mhz": "118.875"
+        },
+        {
+            "id": "51252",
+            "airport_ref": "27192",
+            "airport_ident": "ZBTJ",
+            "type": "TWR",
+            "description": "TIANJIN TWR",
+            "frequency_mhz": "130"
+        }
+    ],
     "country": {
         "id": "302627",
         "code": "CN",

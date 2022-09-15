@@ -63,6 +63,40 @@
             "he_displaced_threshold_ft": "285"
         }
     ],
+    "freqs": [
+        {
+            "id": "64833",
+            "airport_ref": "20383",
+            "airport_ident": "KLVJ",
+            "type": "A/D",
+            "description": "HOUSTON APP/DEP",
+            "frequency_mhz": "134.45"
+        },
+        {
+            "id": "64834",
+            "airport_ref": "20383",
+            "airport_ident": "KLVJ",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "118.525"
+        },
+        {
+            "id": "64835",
+            "airport_ref": "20383",
+            "airport_ident": "KLVJ",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "124"
+        },
+        {
+            "id": "64836",
+            "airport_ref": "20383",
+            "airport_ident": "KLVJ",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

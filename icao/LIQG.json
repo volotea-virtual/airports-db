@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "318504",
+            "airport_ref": "316455",
+            "airport_ident": "LIQG",
+            "type": "RDO",
+            "description": "Cecina Radio",
+            "frequency_mhz": "130"
+        }
+    ],
     "country": {
         "id": "302697",
         "code": "IT",

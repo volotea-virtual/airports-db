@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "73876",
+            "airport_ref": "38484",
+            "airport_ident": "YMNA",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "124.8"
+        },
+        {
+            "id": "73877",
+            "airport_ref": "38484",
+            "airport_ident": "YMNA",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "124.8"
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",

@@ -63,6 +63,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "58300",
+            "airport_ref": "2460",
+            "airport_ident": "EGPE",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "122.605"
+        },
+        {
+            "id": "58301",
+            "airport_ref": "2460",
+            "airport_ident": "EGPE",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "109.2"
+        },
+        {
+            "id": "58302",
+            "airport_ref": "2460",
+            "airport_ident": "EGPE",
+            "type": "RDR",
+            "description": "RDR",
+            "frequency_mhz": "122.605"
+        },
+        {
+            "id": "316075",
+            "airport_ref": "2460",
+            "airport_ident": "EGPE",
+            "type": "TWR",
+            "description": "Inverness Tower",
+            "frequency_mhz": "118.405"
+        },
+        {
+            "id": "58303",
+            "airport_ref": "2460",
+            "airport_ident": "EGPE",
+            "type": "TWR",
+            "description": "TWR (when TWR/APP combined)",
+            "frequency_mhz": "122.605"
+        }
+    ],
     "country": {
         "id": "302688",
         "code": "GB",

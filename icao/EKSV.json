@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51734",
+            "airport_ref": "2556",
+            "airport_ident": "EKSV",
+            "type": "APP",
+            "description": "KARUP APP",
+            "frequency_mhz": "120.425"
+        },
+        {
+            "id": "51735",
+            "airport_ref": "2556",
+            "airport_ident": "EKSV",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "120"
+        }
+    ],
     "country": {
         "id": "302682",
         "code": "DK",

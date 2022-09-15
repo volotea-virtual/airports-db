@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "69378",
+            "airport_ref": "20025",
+            "airport_ident": "KHAO",
+            "type": "A/D",
+            "description": "CINCINNATI APP/DEP",
+            "frequency_mhz": "121"
+        },
+        {
+            "id": "69379",
+            "airport_ref": "20025",
+            "airport_ident": "KHAO",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "121.425"
+        },
+        {
+            "id": "69380",
+            "airport_ref": "20025",
+            "airport_ident": "KHAO",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "126.25"
+        },
+        {
+            "id": "69381",
+            "airport_ref": "20025",
+            "airport_ident": "KHAO",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123.05"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

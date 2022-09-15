@@ -63,6 +63,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "49664",
+            "airport_ref": "5860",
+            "airport_ident": "SBAN",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.15"
+        },
+        {
+            "id": "49665",
+            "airport_ref": "5860",
+            "airport_ident": "SBAN",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "49666",
+            "airport_ref": "5860",
+            "airport_ident": "SBAN",
+            "type": "OPS",
+            "description": "OPS",
+            "frequency_mhz": "122.5"
+        },
+        {
+            "id": "49667",
+            "airport_ref": "5860",
+            "airport_ident": "SBAN",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302791",
         "code": "BR",

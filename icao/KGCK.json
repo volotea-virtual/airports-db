@@ -63,6 +63,64 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "61041",
+            "airport_ref": "3550",
+            "airport_ident": "KGCK",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "121.325"
+        },
+        {
+            "id": "61042",
+            "airport_ref": "3550",
+            "airport_ident": "KGCK",
+            "type": "CNTR",
+            "description": "KANSAS CITY CNTR",
+            "frequency_mhz": "125.2"
+        },
+        {
+            "id": "61043",
+            "airport_ref": "3550",
+            "airport_ident": "KGCK",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.15"
+        },
+        {
+            "id": "61044",
+            "airport_ref": "3550",
+            "airport_ident": "KGCK",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "119"
+        },
+        {
+            "id": "61045",
+            "airport_ref": "3550",
+            "airport_ident": "KGCK",
+            "type": "RDO",
+            "description": "WICHITA RDO",
+            "frequency_mhz": "122.45"
+        },
+        {
+            "id": "61046",
+            "airport_ref": "3550",
+            "airport_ident": "KGCK",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.15"
+        },
+        {
+            "id": "61047",
+            "airport_ref": "3550",
+            "airport_ident": "KGCK",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

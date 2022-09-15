@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51245",
+            "airport_ref": "27235",
+            "airport_ident": "ZWTN",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.65"
+        }
+    ],
     "country": {
         "id": "302627",
         "code": "CN",

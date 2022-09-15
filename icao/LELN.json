@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57363",
+            "airport_ref": "4018",
+            "airport_ident": "LELN",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "57364",
+            "airport_ref": "4018",
+            "airport_ident": "LELN",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.1"
+        }
+    ],
     "country": {
         "id": "302684",
         "code": "ES",

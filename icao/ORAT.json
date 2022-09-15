@@ -63,6 +63,48 @@
             "he_displaced_threshold_ft": "3403"
         }
     ],
+    "freqs": [
+        {
+            "id": "54431",
+            "airport_ref": "5287",
+            "airport_ident": "ORAT",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "125.25"
+        },
+        {
+            "id": "54432",
+            "airport_ref": "5287",
+            "airport_ident": "ORAT",
+            "type": "ATIS",
+            "description": "INFO",
+            "frequency_mhz": "22.627"
+        },
+        {
+            "id": "54433",
+            "airport_ref": "5287",
+            "airport_ident": "ORAT",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "29.085"
+        },
+        {
+            "id": "54434",
+            "airport_ref": "5287",
+            "airport_ident": "ORAT",
+            "type": "POST",
+            "description": "A/DACG",
+            "frequency_mhz": "129.375"
+        },
+        {
+            "id": "54435",
+            "airport_ref": "5287",
+            "airport_ident": "ORAT",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "135.775"
+        }
+    ],
     "country": {
         "id": "302636",
         "code": "IQ",

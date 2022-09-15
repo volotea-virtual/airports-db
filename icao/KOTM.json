@@ -63,6 +63,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "67281",
+            "airport_ref": "3760",
+            "airport_ident": "KOTM",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "124.175"
+        },
+        {
+            "id": "67282",
+            "airport_ref": "3760",
+            "airport_ident": "KOTM",
+            "type": "CNTR",
+            "description": "CHICAGO CNTR",
+            "frequency_mhz": "118.15"
+        },
+        {
+            "id": "67283",
+            "airport_ref": "3760",
+            "airport_ident": "KOTM",
+            "type": "RDO",
+            "description": "FORT DODGE RDO",
+            "frequency_mhz": "122.4"
+        },
+        {
+            "id": "67284",
+            "airport_ref": "3760",
+            "airport_ident": "KOTM",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

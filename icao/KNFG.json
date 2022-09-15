@@ -41,6 +41,80 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "70830",
+            "airport_ref": "3724",
+            "airport_ident": "KNFG",
+            "type": "A/D",
+            "description": "SOCAL APP/DEP",
+            "frequency_mhz": "127.3"
+        },
+        {
+            "id": "70831",
+            "airport_ref": "3724",
+            "airport_ident": "KNFG",
+            "type": "APP",
+            "description": "APP/DEP",
+            "frequency_mhz": "128.45"
+        },
+        {
+            "id": "70832",
+            "airport_ref": "3724",
+            "airport_ident": "KNFG",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "26.76"
+        },
+        {
+            "id": "70833",
+            "airport_ref": "3724",
+            "airport_ident": "KNFG",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "126.2"
+        },
+        {
+            "id": "70834",
+            "airport_ref": "3724",
+            "airport_ident": "KNFG",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "128.775"
+        },
+        {
+            "id": "70835",
+            "airport_ref": "3724",
+            "airport_ident": "KNFG",
+            "type": "MISC",
+            "description": "MCB RANGE CON",
+            "frequency_mhz": "123.2"
+        },
+        {
+            "id": "70836",
+            "airport_ref": "3724",
+            "airport_ident": "KNFG",
+            "type": "OPS",
+            "description": "BASE OPS",
+            "frequency_mhz": "26.5"
+        },
+        {
+            "id": "70837",
+            "airport_ref": "3724",
+            "airport_ident": "KNFG",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "34.24"
+        },
+        {
+            "id": "70838",
+            "airport_ref": "3724",
+            "airport_ident": "KNFG",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "128.775"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

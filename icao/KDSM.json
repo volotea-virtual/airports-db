@@ -63,6 +63,72 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "67517",
+            "airport_ref": "3496",
+            "airport_ident": "KDSM",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "118.6"
+        },
+        {
+            "id": "67518",
+            "airport_ref": "3496",
+            "airport_ident": "KDSM",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "119.55"
+        },
+        {
+            "id": "67519",
+            "airport_ref": "3496",
+            "airport_ident": "KDSM",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "134.15"
+        },
+        {
+            "id": "67520",
+            "airport_ref": "3496",
+            "airport_ident": "KDSM",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "67521",
+            "airport_ref": "3496",
+            "airport_ident": "KDSM",
+            "type": "OPS",
+            "description": "ANG OPS MAINT",
+            "frequency_mhz": "138.15"
+        },
+        {
+            "id": "67522",
+            "airport_ref": "3496",
+            "airport_ident": "KDSM",
+            "type": "RDO",
+            "description": "FORT DODGE RDO",
+            "frequency_mhz": "122.65"
+        },
+        {
+            "id": "67523",
+            "airport_ref": "3496",
+            "airport_ident": "KDSM",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "67524",
+            "airport_ref": "3496",
+            "airport_ident": "KDSM",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

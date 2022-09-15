@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": "574"
         }
     ],
+    "freqs": [
+        {
+            "id": "51872",
+            "airport_ref": "3179",
+            "airport_ident": "HEAZ",
+            "type": "APP",
+            "description": "CAIRO APP",
+            "frequency_mhz": "119.05"
+        },
+        {
+            "id": "51873",
+            "airport_ref": "3179",
+            "airport_ident": "HEAZ",
+            "type": "TWR",
+            "description": "CAIRO TWR",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "51874",
+            "airport_ref": "3179",
+            "airport_ident": "HEAZ",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "132.9"
+        }
+    ],
     "country": {
         "id": "302569",
         "code": "EG",

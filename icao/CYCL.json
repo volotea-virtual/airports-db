@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "50771",
+            "airport_ref": "1691",
+            "airport_ident": "CYCL",
+            "type": "A/G",
+            "description": "MF",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "50773",
+            "airport_ref": "1691",
+            "airport_ident": "CYCL",
+            "type": "ATF",
+            "description": "ATF",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "50772",
+            "airport_ref": "1691",
+            "airport_ident": "CYCL",
+            "type": "CNTR",
+            "description": "MONCTON CNTR",
+            "frequency_mhz": "134.25"
+        },
+        {
+            "id": "50774",
+            "airport_ref": "1691",
+            "airport_ident": "CYCL",
+            "type": "RCO",
+            "description": "QUEBEC RDO",
+            "frequency_mhz": "126.7"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

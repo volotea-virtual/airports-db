@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51192",
+            "airport_ref": "27199",
+            "airport_ident": "ZHCC",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.45"
+        },
+        {
+            "id": "51193",
+            "airport_ref": "27199",
+            "airport_ident": "ZHCC",
+            "type": "GND",
+            "description": "ZHENGZHOU GND",
+            "frequency_mhz": "121.75"
+        },
+        {
+            "id": "51194",
+            "airport_ref": "27199",
+            "airport_ident": "ZHCC",
+            "type": "TWR",
+            "description": "ZHENGZHOU TWR",
+            "frequency_mhz": "130"
+        }
+    ],
     "country": {
         "id": "302627",
         "code": "CN",

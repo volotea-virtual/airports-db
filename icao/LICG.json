@@ -63,6 +63,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "54314",
+            "airport_ref": "4320",
+            "airport_ident": "LICG",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.45"
+        }
+    ],
     "country": {
         "id": "302697",
         "code": "IT",

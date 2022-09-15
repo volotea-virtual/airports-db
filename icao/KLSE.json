@@ -85,6 +85,64 @@
             "he_displaced_threshold_ft": "924"
         }
     ],
+    "freqs": [
+        {
+            "id": "62317",
+            "airport_ref": "3654",
+            "airport_ident": "KLSE",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "124.95"
+        },
+        {
+            "id": "62318",
+            "airport_ref": "3654",
+            "airport_ident": "KLSE",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "128.6"
+        },
+        {
+            "id": "62319",
+            "airport_ref": "3654",
+            "airport_ident": "KLSE",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.45"
+        },
+        {
+            "id": "62320",
+            "airport_ref": "3654",
+            "airport_ident": "KLSE",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "62321",
+            "airport_ref": "3654",
+            "airport_ident": "KLSE",
+            "type": "RDO",
+            "description": "GREEN BAY RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "62322",
+            "airport_ref": "3654",
+            "airport_ident": "KLSE",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.45"
+        },
+        {
+            "id": "62323",
+            "airport_ref": "3654",
+            "airport_ident": "KLSE",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

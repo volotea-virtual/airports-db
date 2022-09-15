@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "302351",
+            "airport_ref": "301307",
+            "airport_ident": "YOI",
+            "type": "tfc",
+            "description": "",
+            "frequency_mhz": "128.9"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

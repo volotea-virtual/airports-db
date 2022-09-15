@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "50972",
+            "airport_ref": "1552",
+            "airport_ident": "CSR3",
+            "type": "A/D",
+            "description": "MONTREAL CNTR",
+            "frequency_mhz": "132.35"
+        },
+        {
+            "id": "50973",
+            "airport_ref": "1552",
+            "airport_ident": "CSR3",
+            "type": "UNIC",
+            "description": "ATF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

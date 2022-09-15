@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "323058",
+            "airport_ref": "323056",
+            "airport_ident": "DNBC",
+            "type": "TWR",
+            "description": "",
+            "frequency_mhz": "124.5"
+        }
+    ],
     "country": {
         "id": "302593",
         "code": "NG",

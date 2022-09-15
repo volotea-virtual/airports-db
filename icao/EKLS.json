@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51749",
+            "airport_ref": "2547",
+            "airport_ident": "EKLS",
+            "type": "AFIS",
+            "description": "COPPENHAGEN INFO",
+            "frequency_mhz": "124.975"
+        },
+        {
+            "id": "51750",
+            "airport_ref": "2547",
+            "airport_ident": "EKLS",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "123.5"
+        }
+    ],
     "country": {
         "id": "302682",
         "code": "DK",

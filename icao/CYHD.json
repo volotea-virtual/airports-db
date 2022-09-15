@@ -63,6 +63,40 @@
             "he_displaced_threshold_ft": "200"
         }
     ],
+    "freqs": [
+        {
+            "id": "50400",
+            "airport_ref": "1757",
+            "airport_ident": "CYHD",
+            "type": "A/G",
+            "description": "MIN NATL RESOURCES",
+            "frequency_mhz": "122.9"
+        },
+        {
+            "id": "50401",
+            "airport_ref": "1757",
+            "airport_ident": "CYHD",
+            "type": "CNTR",
+            "description": "WINNIPEG CNTR",
+            "frequency_mhz": "132.2"
+        },
+        {
+            "id": "50402",
+            "airport_ref": "1757",
+            "airport_ident": "CYHD",
+            "type": "RCO",
+            "description": "WINNIPEG RDO",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "50403",
+            "airport_ref": "1757",
+            "airport_ident": "CYHD",
+            "type": "RDO",
+            "description": "MF",
+            "frequency_mhz": "122.1"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57615",
+            "airport_ref": "26667",
+            "airport_ident": "VTSE",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.75"
+        },
+        {
+            "id": "57616",
+            "airport_ref": "26667",
+            "airport_ident": "VTSE",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.15"
+        }
+    ],
     "country": {
         "id": "302663",
         "code": "TH",

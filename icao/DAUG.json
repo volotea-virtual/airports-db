@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "48291",
+            "airport_ref": "2078",
+            "airport_ident": "DAUG",
+            "type": "RDO",
+            "description": "GHARDAIA RDO",
+            "frequency_mhz": "889.4"
+        },
+        {
+            "id": "48292",
+            "airport_ref": "2078",
+            "airport_ident": "DAUG",
+            "type": "TWR",
+            "description": "GHARDAIA TWR",
+            "frequency_mhz": "118.9"
+        }
+    ],
     "country": {
         "id": "302568",
         "code": "DZ",

@@ -63,6 +63,72 @@
             "he_displaced_threshold_ft": "205"
         }
     ],
+    "freqs": [
+        {
+            "id": "61059",
+            "airport_ref": "3560",
+            "airport_ident": "KGON",
+            "type": "A/D",
+            "description": "PROVIDENCE APP/DEP",
+            "frequency_mhz": "125.75"
+        },
+        {
+            "id": "61060",
+            "airport_ref": "3560",
+            "airport_ident": "KGON",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127"
+        },
+        {
+            "id": "61061",
+            "airport_ref": "3560",
+            "airport_ident": "KGON",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "119.85"
+        },
+        {
+            "id": "61062",
+            "airport_ref": "3560",
+            "airport_ident": "KGON",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "125.6"
+        },
+        {
+            "id": "61063",
+            "airport_ref": "3560",
+            "airport_ident": "KGON",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.65"
+        },
+        {
+            "id": "61064",
+            "airport_ref": "3560",
+            "airport_ident": "KGON",
+            "type": "OPS",
+            "description": "ARNG OPS",
+            "frequency_mhz": "126.2"
+        },
+        {
+            "id": "61065",
+            "airport_ref": "3560",
+            "airport_ident": "KGON",
+            "type": "RDO",
+            "description": "BRIDGEPORT RDO",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "61066",
+            "airport_ref": "3560",
+            "airport_ident": "KGON",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "125.6"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

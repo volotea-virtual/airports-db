@@ -63,6 +63,64 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "61092",
+            "airport_ref": "3702",
+            "airport_ident": "KMOT",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.6"
+        },
+        {
+            "id": "61093",
+            "airport_ref": "3702",
+            "airport_ident": "KMOT",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.2"
+        },
+        {
+            "id": "61094",
+            "airport_ref": "3702",
+            "airport_ident": "KMOT",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "119.6"
+        },
+        {
+            "id": "61095",
+            "airport_ref": "3702",
+            "airport_ident": "KMOT",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "61096",
+            "airport_ref": "3702",
+            "airport_ident": "KMOT",
+            "type": "RDO",
+            "description": "GRAND FORKS RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "61097",
+            "airport_ref": "3702",
+            "airport_ident": "KMOT",
+            "type": "TWR",
+            "description": "MAGIC CITY TWR",
+            "frequency_mhz": "118.2"
+        },
+        {
+            "id": "61098",
+            "airport_ref": "3702",
+            "airport_ident": "KMOT",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "48527",
+            "airport_ref": "27187",
+            "airport_ident": "YYWG",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "48528",
+            "airport_ref": "27187",
+            "airport_ident": "YYWG",
+            "type": "FSS",
+            "description": "MELBOURNE CNTR",
+            "frequency_mhz": "125.2"
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",

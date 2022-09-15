@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "66460",
+            "airport_ref": "20218",
+            "airport_ident": "KJNX",
+            "type": "A/D",
+            "description": "RALEIGH APP/DEP",
+            "frequency_mhz": "125.3"
+        },
+        {
+            "id": "66461",
+            "airport_ref": "20218",
+            "airport_ident": "KJNX",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -63,6 +63,64 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "54949",
+            "airport_ref": "5643",
+            "airport_ident": "RKPS",
+            "type": "ACP",
+            "description": "BRICKWALL",
+            "frequency_mhz": "120"
+        },
+        {
+            "id": "54950",
+            "airport_ref": "5643",
+            "airport_ident": "RKPS",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.725"
+        },
+        {
+            "id": "54951",
+            "airport_ref": "5643",
+            "airport_ident": "RKPS",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "132.35"
+        },
+        {
+            "id": "54952",
+            "airport_ref": "5643",
+            "airport_ident": "RKPS",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "119.725"
+        },
+        {
+            "id": "54953",
+            "airport_ref": "5643",
+            "airport_ident": "RKPS",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "27.58"
+        },
+        {
+            "id": "54954",
+            "airport_ref": "5643",
+            "airport_ident": "RKPS",
+            "type": "RDR",
+            "description": "RAPCON",
+            "frequency_mhz": "119.725"
+        },
+        {
+            "id": "54955",
+            "airport_ref": "5643",
+            "airport_ident": "RKPS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "130.2"
+        }
+    ],
     "country": {
         "id": "302643",
         "code": "KR",

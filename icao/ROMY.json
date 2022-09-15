@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "54656",
+            "airport_ref": "5677",
+            "airport_ident": "ROMY",
+            "type": "APP",
+            "description": "SHIMOJI APP",
+            "frequency_mhz": "120.3"
+        },
+        {
+            "id": "54657",
+            "airport_ref": "5677",
+            "airport_ident": "ROMY",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.2"
+        }
+    ],
     "country": {
         "id": "302639",
         "code": "JP",

@@ -63,6 +63,72 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "68768",
+            "airport_ref": "3627",
+            "airport_ident": "KLAF",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "127.75"
+        },
+        {
+            "id": "68769",
+            "airport_ref": "3627",
+            "airport_ident": "KLAF",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.75"
+        },
+        {
+            "id": "68770",
+            "airport_ref": "3627",
+            "airport_ident": "KLAF",
+            "type": "CNTR",
+            "description": "CHICAGO CNTR",
+            "frequency_mhz": "123.85"
+        },
+        {
+            "id": "68771",
+            "airport_ref": "3627",
+            "airport_ident": "KLAF",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "119.6"
+        },
+        {
+            "id": "68772",
+            "airport_ref": "3627",
+            "airport_ident": "KLAF",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "68773",
+            "airport_ref": "3627",
+            "airport_ident": "KLAF",
+            "type": "RDO",
+            "description": "TERRE HAUTE RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "68774",
+            "airport_ref": "3627",
+            "airport_ident": "KLAF",
+            "type": "TWR",
+            "description": "LAFAYETTE TWR",
+            "frequency_mhz": "119.6"
+        },
+        {
+            "id": "68775",
+            "airport_ref": "3627",
+            "airport_ident": "KLAF",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

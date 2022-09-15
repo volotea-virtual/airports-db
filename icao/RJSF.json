@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "54687",
+            "airport_ref": "5608",
+            "airport_ident": "RJSF",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "118.05"
+        }
+    ],
     "country": {
         "id": "302639",
         "code": "JP",

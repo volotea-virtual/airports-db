@@ -63,6 +63,72 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "58224",
+            "airport_ref": "2472",
+            "airport_ident": "EGQS",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "123.3"
+        },
+        {
+            "id": "58225",
+            "airport_ref": "2472",
+            "airport_ident": "EGQS",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "26.477"
+        },
+        {
+            "id": "58226",
+            "airport_ref": "2472",
+            "airport_ident": "EGQS",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "119.35"
+        },
+        {
+            "id": "58227",
+            "airport_ref": "2472",
+            "airport_ident": "EGQS",
+            "type": "DIR",
+            "description": "DIRECTOR",
+            "frequency_mhz": "123.3"
+        },
+        {
+            "id": "58228",
+            "airport_ref": "2472",
+            "airport_ident": "EGQS",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "118.2"
+        },
+        {
+            "id": "58229",
+            "airport_ref": "2472",
+            "airport_ident": "EGQS",
+            "type": "OPS",
+            "description": "OPERATIONS",
+            "frequency_mhz": "36.93"
+        },
+        {
+            "id": "58230",
+            "airport_ref": "2472",
+            "airport_ident": "EGQS",
+            "type": "RDR",
+            "description": "RDR",
+            "frequency_mhz": "118.9"
+        },
+        {
+            "id": "58231",
+            "airport_ref": "2472",
+            "airport_ident": "EGQS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.2"
+        }
+    ],
     "country": {
         "id": "302688",
         "code": "GB",

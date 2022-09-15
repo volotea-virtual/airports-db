@@ -6,10 +6,10 @@
     "latitude_deg": "28.945499",
     "longitude_deg": "-13.6052",
     "elevation_ft": "46",
-    "continent": "EU",
+    "continent": "AF",
     "iso_country": "ES",
     "iso_region": "ES-CN",
-    "municipality": "Lanzarote Island",
+    "municipality": "San Bartolomé",
     "scheduled_service": "yes",
     "gps_code": "GCRR",
     "iata_code": "ACE",
@@ -39,6 +39,40 @@
             "he_elevation_ft": "47",
             "he_heading_degT": "207",
             "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "57302",
+            "airport_ref": "3082",
+            "airport_ident": "GCRR",
+            "type": "APP",
+            "description": "CANARIAS APP",
+            "frequency_mhz": "129.3"
+        },
+        {
+            "id": "57303",
+            "airport_ref": "3082",
+            "airport_ident": "GCRR",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "118.625"
+        },
+        {
+            "id": "57304",
+            "airport_ref": "3082",
+            "airport_ident": "GCRR",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "57305",
+            "airport_ref": "3082",
+            "airport_ident": "GCRR",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.7"
         }
     ],
     "country": {

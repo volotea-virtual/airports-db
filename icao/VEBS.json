@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53828",
+            "airport_ref": "26494",
+            "airport_ident": "VEBS",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "123.5"
+        },
+        {
+            "id": "53829",
+            "airport_ref": "26494",
+            "airport_ident": "VEBS",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.8"
+        },
+        {
+            "id": "53830",
+            "airport_ref": "26494",
+            "airport_ident": "VEBS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "125.15"
+        }
+    ],
     "country": {
         "id": "302634",
         "code": "IN",

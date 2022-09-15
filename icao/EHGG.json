@@ -63,6 +63,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "55762",
+            "airport_ref": "2519",
+            "airport_ident": "EHGG",
+            "type": "APP",
+            "description": "Eelde Approach",
+            "frequency_mhz": "120.305"
+        },
+        {
+            "id": "55763",
+            "airport_ref": "2519",
+            "airport_ident": "EHGG",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "133.555"
+        },
+        {
+            "id": "55764",
+            "airport_ref": "2519",
+            "airport_ident": "EHGG",
+            "type": "GCD",
+            "description": "Eelde GND/CLNC DEL",
+            "frequency_mhz": "121.705"
+        },
+        {
+            "id": "55765",
+            "airport_ref": "2519",
+            "airport_ident": "EHGG",
+            "type": "TWR",
+            "description": "Eelde Tower",
+            "frequency_mhz": "118.705"
+        }
+    ],
     "country": {
         "id": "302708",
         "code": "NL",

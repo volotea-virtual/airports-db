@@ -63,6 +63,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "64435",
+            "airport_ref": "3759",
+            "airport_ident": "KOTH",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "135.075"
+        },
+        {
+            "id": "64436",
+            "airport_ref": "3759",
+            "airport_ident": "KOTH",
+            "type": "CNTR",
+            "description": "SEATTLE CNTR",
+            "frequency_mhz": "121.4"
+        },
+        {
+            "id": "64437",
+            "airport_ref": "3759",
+            "airport_ident": "KOTH",
+            "type": "MISC",
+            "description": "AIR",
+            "frequency_mhz": "34.5"
+        },
+        {
+            "id": "64438",
+            "airport_ref": "3759",
+            "airport_ident": "KOTH",
+            "type": "RDO",
+            "description": "MC MINNVILLE RDO",
+            "frequency_mhz": "122.4"
+        },
+        {
+            "id": "64439",
+            "airport_ref": "3759",
+            "airport_ident": "KOTH",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

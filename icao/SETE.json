@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51832",
+            "airport_ref": "6082",
+            "airport_ident": "SETE",
+            "type": "TWR",
+            "description": "TENA TWR",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302794",
         "code": "EC",

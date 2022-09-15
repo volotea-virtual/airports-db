@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "318139",
+            "airport_ref": "318138",
+            "airport_ident": "LHUH",
+            "type": "Info",
+            "description": "",
+            "frequency_mhz": "135.7"
+        }
+    ],
     "country": {
         "id": "302693",
         "code": "HU",

@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53618",
+            "airport_ref": "26779",
+            "airport_ident": "WAOO",
+            "type": "APP",
+            "description": "BANJARMASIN APP",
+            "frequency_mhz": "126.5"
+        },
+        {
+            "id": "53619",
+            "airport_ref": "26779",
+            "airport_ident": "WAOO",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.05"
+        },
+        {
+            "id": "53620",
+            "airport_ref": "26779",
+            "airport_ident": "WAOO",
+            "type": "INFO",
+            "description": "BANJARMASIN INFO",
+            "frequency_mhz": "819.8"
+        },
+        {
+            "id": "53621",
+            "airport_ref": "26779",
+            "airport_ident": "WAOO",
+            "type": "TWR",
+            "description": "ULIN TWR",
+            "frequency_mhz": "118.4"
+        }
+    ],
     "country": {
         "id": "302632",
         "code": "ID",

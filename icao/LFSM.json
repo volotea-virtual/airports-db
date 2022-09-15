@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": "1313"
         }
     ],
+    "freqs": [
+        {
+            "id": "52585",
+            "airport_ref": "4233",
+            "airport_ident": "LFSM",
+            "type": "AFIS",
+            "description": "MONTBELIARD INFO",
+            "frequency_mhz": "132.025"
+        },
+        {
+            "id": "52586",
+            "airport_ref": "4233",
+            "airport_ident": "LFSM",
+            "type": "APP",
+            "description": "BALE APP",
+            "frequency_mhz": "121.25"
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

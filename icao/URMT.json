@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56700",
+            "airport_ref": "6517",
+            "airport_ident": "URMT",
+            "type": "APP",
+            "description": "STAVROPOL APP",
+            "frequency_mhz": "120.3"
+        },
+        {
+            "id": "56701",
+            "airport_ref": "6517",
+            "airport_ident": "URMT",
+            "type": "TWR",
+            "description": "STAVROPOL TWR",
+            "frequency_mhz": "120.9"
+        }
+    ],
     "country": {
         "id": "302714",
         "code": "RU",

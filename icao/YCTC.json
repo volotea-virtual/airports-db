@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "72637",
+            "airport_ref": "38305",
+            "airport_ident": "YCTC",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "125.4"
+        },
+        {
+            "id": "72638",
+            "airport_ref": "38305",
+            "airport_ident": "YCTC",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "124.1"
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",

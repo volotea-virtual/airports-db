@@ -63,6 +63,40 @@
             "he_displaced_threshold_ft": "200"
         }
     ],
+    "freqs": [
+        {
+            "id": "64587",
+            "airport_ref": "20860",
+            "airport_ident": "KPPO",
+            "type": "A/D",
+            "description": "SOUTH BEND APP/DEP",
+            "frequency_mhz": "132.05"
+        },
+        {
+            "id": "64588",
+            "airport_ref": "20860",
+            "airport_ident": "KPPO",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.825"
+        },
+        {
+            "id": "64589",
+            "airport_ref": "20860",
+            "airport_ident": "KPPO",
+            "type": "RDO",
+            "description": "TERRE HAUTE RDO",
+            "frequency_mhz": "115.6"
+        },
+        {
+            "id": "64590",
+            "airport_ref": "20860",
+            "airport_ident": "KPPO",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

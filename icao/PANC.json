@@ -85,6 +85,104 @@
             "he_displaced_threshold_ft": "893"
         }
     ],
+    "freqs": [
+        {
+            "id": "68686",
+            "airport_ref": "5388",
+            "airport_ident": "PANC",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "68687",
+            "airport_ref": "5388",
+            "airport_ident": "PANC",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "123.8"
+        },
+        {
+            "id": "68688",
+            "airport_ref": "5388",
+            "airport_ident": "PANC",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "118.4"
+        },
+        {
+            "id": "68689",
+            "airport_ref": "5388",
+            "airport_ident": "PANC",
+            "type": "AWOS",
+            "description": "TWEB",
+            "frequency_mhz": "114.3"
+        },
+        {
+            "id": "68690",
+            "airport_ref": "5388",
+            "airport_ident": "PANC",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "119.4"
+        },
+        {
+            "id": "68691",
+            "airport_ref": "5388",
+            "airport_ident": "PANC",
+            "type": "FSS",
+            "description": "KENAI RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "68692",
+            "airport_ref": "5388",
+            "airport_ident": "PANC",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "68693",
+            "airport_ref": "5388",
+            "airport_ident": "PANC",
+            "type": "MISC",
+            "description": "SAN FRANCISCO ARINC",
+            "frequency_mhz": "1133"
+        },
+        {
+            "id": "68694",
+            "airport_ref": "5388",
+            "airport_ident": "PANC",
+            "type": "POST",
+            "description": "CAMPER",
+            "frequency_mhz": "140.15"
+        },
+        {
+            "id": "68695",
+            "airport_ref": "5388",
+            "airport_ident": "PANC",
+            "type": "RFSS",
+            "description": "KENAI RDO",
+            "frequency_mhz": "122.55"
+        },
+        {
+            "id": "68696",
+            "airport_ref": "5388",
+            "airport_ident": "PANC",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "68697",
+            "airport_ref": "5388",
+            "airport_ident": "PANC",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

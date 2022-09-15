@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "347711",
+            "airport_ref": "321578",
+            "airport_ident": "DE-0408",
+            "type": "8.33",
+            "description": "Stetten Info",
+            "frequency_mhz": "123.425"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

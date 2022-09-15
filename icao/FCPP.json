@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51108",
+            "airport_ref": "2871",
+            "airport_ident": "FCPP",
+            "type": "A/G",
+            "description": "A/G",
+            "frequency_mhz": "549.3"
+        },
+        {
+            "id": "51109",
+            "airport_ref": "2871",
+            "airport_ident": "FCPP",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "51110",
+            "airport_ref": "2871",
+            "airport_ident": "FCPP",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "124.3"
+        }
+    ],
     "country": {
         "id": "302563",
         "code": "CG",

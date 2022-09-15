@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "49303",
+            "airport_ref": "2863",
+            "airport_ident": "FBMN",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "118.7"
+        },
+        {
+            "id": "49304",
+            "airport_ref": "2863",
+            "airport_ident": "FBMN",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "126"
+        },
+        {
+            "id": "49305",
+            "airport_ref": "2863",
+            "airport_ident": "FBMN",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "49306",
+            "airport_ref": "2863",
+            "airport_ident": "FBMN",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
     "country": {
         "id": "302560",
         "code": "BW",

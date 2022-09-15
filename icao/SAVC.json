@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "48470",
+            "airport_ref": "5822",
+            "airport_ident": "SAVC",
+            "type": "ARR",
+            "description": "COMODORO CON",
+            "frequency_mhz": "124.3"
+        },
+        {
+            "id": "48471",
+            "airport_ref": "5822",
+            "airport_ident": "SAVC",
+            "type": "TWR",
+            "description": "COMODORO TWR",
+            "frequency_mhz": "119.9"
+        }
+    ],
     "country": {
         "id": "302789",
         "code": "AR",

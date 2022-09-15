@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "315752",
+            "airport_ref": "315495",
+            "airport_ident": "CZ-0050",
+            "type": "info",
+            "description": "Pěnčín Radio",
+            "frequency_mhz": "125.825"
+        }
+    ],
     "country": {
         "id": "302680",
         "code": "CZ",

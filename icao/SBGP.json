@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "49579",
+            "airport_ref": "5909",
+            "airport_ident": "SBGP",
+            "type": "AFIS",
+            "description": "RDO",
+            "frequency_mhz": "118.15"
+        },
+        {
+            "id": "49580",
+            "airport_ref": "5909",
+            "airport_ident": "SBGP",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        }
+    ],
     "country": {
         "id": "302791",
         "code": "BR",

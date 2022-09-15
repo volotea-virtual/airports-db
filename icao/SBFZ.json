@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "49819",
+            "airport_ref": "5905",
+            "airport_ident": "SBFZ",
+            "type": "APP",
+            "description": "FORTALEZA APP",
+            "frequency_mhz": "133"
+        },
+        {
+            "id": "49820",
+            "airport_ref": "5905",
+            "airport_ident": "SBFZ",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.7"
+        },
+        {
+            "id": "49821",
+            "airport_ref": "5905",
+            "airport_ident": "SBFZ",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.95"
+        },
+        {
+            "id": "49822",
+            "airport_ref": "5905",
+            "airport_ident": "SBFZ",
+            "type": "OPS",
+            "description": "FORTALEZA OPS",
+            "frequency_mhz": "122.5"
+        },
+        {
+            "id": "49823",
+            "airport_ref": "5905",
+            "airport_ident": "SBFZ",
+            "type": "TWR",
+            "description": "FORTALEZA TWR",
+            "frequency_mhz": "129"
+        }
+    ],
     "country": {
         "id": "302791",
         "code": "BR",

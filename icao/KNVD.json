@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "70997",
+            "airport_ref": "20662",
+            "airport_ident": "KNVD",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.175"
+        },
+        {
+            "id": "70998",
+            "airport_ref": "20662",
+            "airport_ident": "KNVD",
+            "type": "CNTR",
+            "description": "KANSAS CITY CNTR",
+            "frequency_mhz": "125.55"
+        },
+        {
+            "id": "70999",
+            "airport_ref": "20662",
+            "airport_ident": "KNVD",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "307435",
+            "airport_ref": "30180",
+            "airport_ident": "VAND",
+            "type": "NDD",
+            "description": "",
+            "frequency_mhz": "113"
+        },
+        {
+            "id": "307434",
+            "airport_ref": "30180",
+            "airport_ident": "VAND",
+            "type": "TWR",
+            "description": "",
+            "frequency_mhz": "118.75"
+        }
+    ],
     "country": {
         "id": "302634",
         "code": "IN",

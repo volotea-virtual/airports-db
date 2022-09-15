@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "49560",
+            "airport_ref": "5898",
+            "airport_ident": "SBEK",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "125.9"
+        }
+    ],
     "country": {
         "id": "302791",
         "code": "BR",

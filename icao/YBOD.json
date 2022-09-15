@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "72296",
+            "airport_ref": "27402",
+            "airport_ident": "YBOD",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.8"
+        },
+        {
+            "id": "72297",
+            "airport_ref": "27402",
+            "airport_ident": "YBOD",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "120.6"
+        },
+        {
+            "id": "72298",
+            "airport_ref": "27402",
+            "airport_ident": "YBOD",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "122.1"
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",

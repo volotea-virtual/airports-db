@@ -17,6 +17,16 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "316585",
+            "airport_ref": "316584",
+            "airport_ident": "LLSM",
+            "type": "Tower",
+            "description": "Ben Gurion Tower",
+            "frequency_mhz": "134.6"
+        }
+    ],
     "country": {
         "id": "302633",
         "code": "IL",

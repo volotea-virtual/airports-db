@@ -63,6 +63,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "54414",
+            "airport_ref": "5295",
+            "airport_ident": "ORQW",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122"
+        },
+        {
+            "id": "54415",
+            "airport_ref": "5295",
+            "airport_ident": "ORQW",
+            "type": "PMSV",
+            "description": "METRO",
+            "frequency_mhz": "33.6"
+        },
+        {
+            "id": "54416",
+            "airport_ref": "5295",
+            "airport_ident": "ORQW",
+            "type": "POST",
+            "description": "COMD POST",
+            "frequency_mhz": "122"
+        },
+        {
+            "id": "54417",
+            "airport_ref": "5295",
+            "airport_ident": "ORQW",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.2"
+        }
+    ],
     "country": {
         "id": "302636",
         "code": "IQ",

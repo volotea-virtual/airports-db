@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "58064",
+            "airport_ref": "26383",
+            "airport_ident": "UTAT",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "130.4"
+        },
+        {
+            "id": "58065",
+            "airport_ref": "26383",
+            "airport_ident": "UTAT",
+            "type": "TCA",
+            "description": "TRANSIT",
+            "frequency_mhz": "131.7"
+        }
+    ],
     "country": {
         "id": "302666",
         "code": "TM",

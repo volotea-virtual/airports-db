@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53991",
+            "airport_ref": "5155",
+            "airport_ident": "OIFK",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.175"
+        }
+    ],
     "country": {
         "id": "302637",
         "code": "IR",

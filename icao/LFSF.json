@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52214",
+            "airport_ref": "4229",
+            "airport_ident": "LFSF",
+            "type": "APP",
+            "description": "METZ APP",
+            "frequency_mhz": "37.85"
+        },
+        {
+            "id": "52212",
+            "airport_ref": "4229",
+            "airport_ident": "LFSF",
+            "type": "APP",
+            "description": "METZ APP",
+            "frequency_mhz": "119.125"
+        },
+        {
+            "id": "52213",
+            "airport_ref": "4229",
+            "airport_ident": "LFSF",
+            "type": "APP",
+            "description": "METZ APP",
+            "frequency_mhz": "123.3"
+        },
+        {
+            "id": "52215",
+            "airport_ref": "4229",
+            "airport_ident": "LFSF",
+            "type": "GND",
+            "description": "METZ GND",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "52216",
+            "airport_ref": "4229",
+            "airport_ident": "LFSF",
+            "type": "TWR",
+            "description": "METZ TWR",
+            "frequency_mhz": "131.275"
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

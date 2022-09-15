@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53372",
+            "airport_ref": "4288",
+            "airport_ident": "LGSV",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "123.5"
+        }
+    ],
     "country": {
         "id": "302691",
         "code": "GR",

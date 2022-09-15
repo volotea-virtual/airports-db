@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56360",
+            "airport_ref": "63",
+            "airport_ident": "AYMH",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.4"
+        },
+        {
+            "id": "56361",
+            "airport_ref": "63",
+            "airport_ident": "AYMH",
+            "type": "TWR",
+            "description": "HAGEN TWR",
+            "frequency_mhz": "120.5"
+        }
+    ],
     "country": {
         "id": "302778",
         "code": "PG",

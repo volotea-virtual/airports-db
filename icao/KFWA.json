@@ -85,6 +85,72 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "61121",
+            "airport_ref": "3547",
+            "airport_ident": "KFWA",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "127.2"
+        },
+        {
+            "id": "61122",
+            "airport_ref": "3547",
+            "airport_ident": "KFWA",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "121.25"
+        },
+        {
+            "id": "61123",
+            "airport_ref": "3547",
+            "airport_ident": "KFWA",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "124.75"
+        },
+        {
+            "id": "61124",
+            "airport_ref": "3547",
+            "airport_ident": "KFWA",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "61125",
+            "airport_ref": "3547",
+            "airport_ident": "KFWA",
+            "type": "OPS",
+            "description": "122FW COMD POST OPS",
+            "frequency_mhz": "138.4"
+        },
+        {
+            "id": "61126",
+            "airport_ref": "3547",
+            "airport_ident": "KFWA",
+            "type": "RDO",
+            "description": "TERRE HAUTE RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "61127",
+            "airport_ref": "3547",
+            "airport_ident": "KFWA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "61128",
+            "airport_ref": "3547",
+            "airport_ident": "KFWA",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

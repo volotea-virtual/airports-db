@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "66802",
+            "airport_ref": "21274",
+            "airport_ident": "KU78",
+            "type": "ARTC",
+            "description": "SALT LAKE CITY",
+            "frequency_mhz": "126.75"
+        },
+        {
+            "id": "66803",
+            "airport_ref": "21274",
+            "airport_ident": "KU78",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

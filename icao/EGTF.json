@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": "43"
         }
     ],
+    "freqs": [
+        {
+            "id": "71928",
+            "airport_ref": "29198",
+            "airport_ident": "EGTF",
+            "type": "A/G",
+            "description": "Fairoaks Radio",
+            "frequency_mhz": "123.43"
+        },
+        {
+            "id": "71929",
+            "airport_ref": "29198",
+            "airport_ident": "EGTF",
+            "type": "AFIS",
+            "description": "Fairoaks AFIS",
+            "frequency_mhz": "123.43"
+        }
+    ],
     "country": {
         "id": "302688",
         "code": "GB",

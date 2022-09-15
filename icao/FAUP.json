@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57106",
+            "airport_ref": "2847",
+            "airport_ident": "FAUP",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "121.3"
+        },
+        {
+            "id": "57107",
+            "airport_ref": "2847",
+            "airport_ident": "FAUP",
+            "type": "MISC",
+            "description": "APRON OFFICE",
+            "frequency_mhz": "122.65"
+        },
+        {
+            "id": "57108",
+            "airport_ref": "2847",
+            "airport_ident": "FAUP",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "121.3"
+        }
+    ],
     "country": {
         "id": "302610",
         "code": "ZA",

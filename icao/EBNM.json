@@ -85,6 +85,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "75272",
+            "airport_ref": "29043",
+            "airport_ident": "EBNM",
+            "type": "INFO",
+            "description": "Namur Radio",
+            "frequency_mhz": "118.005"
+        }
+    ],
     "country": {
         "id": "302676",
         "code": "BE",

@@ -41,6 +41,80 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "71809",
+            "airport_ref": "4976",
+            "airport_ident": "NSFA",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "71810",
+            "airport_ref": "4976",
+            "airport_ident": "NSFA",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "655.3"
+        },
+        {
+            "id": "71811",
+            "airport_ref": "4976",
+            "airport_ident": "NSFA",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "1790.4"
+        },
+        {
+            "id": "71812",
+            "airport_ref": "4976",
+            "airport_ident": "NSFA",
+            "type": "INFO",
+            "description": "RDO",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "71813",
+            "airport_ref": "4976",
+            "airport_ident": "NSFA",
+            "type": "INFO",
+            "description": "RDO",
+            "frequency_mhz": "655.3"
+        },
+        {
+            "id": "71814",
+            "airport_ref": "4976",
+            "airport_ident": "NSFA",
+            "type": "INFO",
+            "description": "RDO",
+            "frequency_mhz": "1790.4"
+        },
+        {
+            "id": "71815",
+            "airport_ref": "4976",
+            "airport_ident": "NSFA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "71816",
+            "airport_ref": "4976",
+            "airport_ident": "NSFA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "655.3"
+        },
+        {
+            "id": "71817",
+            "airport_ref": "4976",
+            "airport_ident": "NSFA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "1790.4"
+        }
+    ],
     "country": {
         "id": "302788",
         "code": "WS",

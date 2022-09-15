@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": "952"
         }
     ],
+    "freqs": [
+        {
+            "id": "55395",
+            "airport_ref": "26636",
+            "airport_ident": "VRMM",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "55396",
+            "airport_ref": "26636",
+            "airport_ident": "VRMM",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.6"
+        },
+        {
+            "id": "55397",
+            "airport_ref": "26636",
+            "airport_ident": "VRMM",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
     "country": {
         "id": "302652",
         "code": "MV",

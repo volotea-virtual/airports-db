@@ -85,6 +85,72 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "54382",
+            "airport_ref": "5286",
+            "airport_ident": "ORAA",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "118.6"
+        },
+        {
+            "id": "54383",
+            "airport_ref": "5286",
+            "airport_ident": "ORAA",
+            "type": "ATIS",
+            "description": "INFO",
+            "frequency_mhz": "25.092"
+        },
+        {
+            "id": "54384",
+            "airport_ref": "5286",
+            "airport_ident": "ORAA",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.175"
+        },
+        {
+            "id": "54385",
+            "airport_ref": "5286",
+            "airport_ident": "ORAA",
+            "type": "MISC",
+            "description": "MEDEVAC",
+            "frequency_mhz": "33.55"
+        },
+        {
+            "id": "54386",
+            "airport_ref": "5286",
+            "airport_ident": "ORAA",
+            "type": "OPS",
+            "description": "OPS",
+            "frequency_mhz": "116.15"
+        },
+        {
+            "id": "54387",
+            "airport_ref": "5286",
+            "airport_ident": "ORAA",
+            "type": "PMSV",
+            "description": "METRO",
+            "frequency_mhz": "24.432"
+        },
+        {
+            "id": "54388",
+            "airport_ref": "5286",
+            "airport_ident": "ORAA",
+            "type": "POST",
+            "description": "ADACG",
+            "frequency_mhz": "29.867"
+        },
+        {
+            "id": "54389",
+            "airport_ref": "5286",
+            "airport_ident": "ORAA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "131.225"
+        }
+    ],
     "country": {
         "id": "302636",
         "code": "IQ",

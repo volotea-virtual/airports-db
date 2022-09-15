@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "54810",
+            "airport_ref": "4680",
+            "airport_ident": "MKJP",
+            "type": "APP",
+            "description": "MANLEY APP",
+            "frequency_mhz": "120.6"
+        },
+        {
+            "id": "54811",
+            "airport_ref": "4680",
+            "airport_ident": "MKJP",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.7"
+        },
+        {
+            "id": "54812",
+            "airport_ref": "4680",
+            "airport_ident": "MKJP",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "54813",
+            "airport_ref": "4680",
+            "airport_ident": "MKJP",
+            "type": "TWR",
+            "description": "MANLEY TWR",
+            "frequency_mhz": "118.65"
+        }
+    ],
     "country": {
         "id": "302741",
         "code": "JM",

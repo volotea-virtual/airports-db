@@ -3,20 +3,20 @@
     "ident": "YDMN",
     "type": "small_airport",
     "name": "Daly River Airport",
-    "latitude_deg": "-13.74980640411377",
-    "longitude_deg": "130.69387817382812",
+    "latitude_deg": "-13.749806",
+    "longitude_deg": "130.693878",
     "elevation_ft": "",
     "continent": "OC",
     "iso_country": "AU",
     "iso_region": "AU-NT",
-    "municipality": "",
+    "municipality": "Nauiyu",
     "scheduled_service": "no",
     "gps_code": "YDMN",
     "iata_code": "DVR",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "TG Bae",
     "runways": [
         {
             "id": "258531",
@@ -39,6 +39,32 @@
             "he_elevation_ft": "",
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "72775",
+            "airport_ref": "27517",
+            "airport_ident": "YDMN",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.635"
+        },
+        {
+            "id": "72776",
+            "airport_ref": "27517",
+            "airport_ident": "YDMN",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "114.3"
+        },
+        {
+            "id": "72777",
+            "airport_ref": "27517",
+            "airport_ident": "YDMN",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "122.1"
         }
     ],
     "country": {

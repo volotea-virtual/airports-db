@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "71403",
+            "airport_ref": "20645",
+            "airport_ident": "KNJW",
+            "type": "A/D",
+            "description": "MERIDIAN APP/DEP",
+            "frequency_mhz": "27.64"
+        },
+        {
+            "id": "71404",
+            "airport_ref": "20645",
+            "airport_ident": "KNJW",
+            "type": "MISC",
+            "description": "NAVY MC CAIN TWR",
+            "frequency_mhz": "34.02"
+        },
+        {
+            "id": "71405",
+            "airport_ref": "20645",
+            "airport_ident": "KNJW",
+            "type": "TWR",
+            "description": "BRAVO TWR",
+            "frequency_mhz": "118.475"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

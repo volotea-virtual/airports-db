@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "71617",
+            "airport_ref": "26387",
+            "airport_ident": "UTNU",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "126"
+        },
+        {
+            "id": "71618",
+            "airport_ref": "26387",
+            "airport_ident": "UTNU",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302669",
         "code": "UZ",

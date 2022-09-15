@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "64363",
+            "airport_ref": "9080",
+            "airport_ident": "25TS",
+            "type": "CNTR",
+            "description": "ALBUQUERQUE CNTR",
+            "frequency_mhz": "132.65"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

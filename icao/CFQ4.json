@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "75479",
+            "airport_ref": "982",
+            "airport_ident": "CFQ4",
+            "type": "ATF",
+            "description": "",
+            "frequency_mhz": "123.2"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

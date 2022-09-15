@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": "175"
         }
     ],
+    "freqs": [
+        {
+            "id": "53790",
+            "airport_ref": "26445",
+            "airport_ident": "VAHB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.2"
+        }
+    ],
     "country": {
         "id": "302634",
         "code": "IN",

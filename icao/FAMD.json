@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57145",
+            "airport_ref": "2808",
+            "airport_ident": "FAMD",
+            "type": "CTAF",
+            "description": "RDO",
+            "frequency_mhz": "124.8"
+        }
+    ],
     "country": {
         "id": "302610",
         "code": "ZA",

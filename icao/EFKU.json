@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52096",
+            "airport_ref": "2326",
+            "airport_ident": "EFKU",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "130.6"
+        },
+        {
+            "id": "52097",
+            "airport_ref": "2326",
+            "airport_ident": "EFKU",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "113"
+        },
+        {
+            "id": "52098",
+            "airport_ref": "2326",
+            "airport_ident": "EFKU",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.15"
+        }
+    ],
     "country": {
         "id": "302685",
         "code": "FI",

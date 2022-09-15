@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57943",
+            "airport_ref": "4524",
+            "airport_ident": "LTAV",
+            "type": "APP",
+            "description": "ESKISEHIR APP",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "57944",
+            "airport_ref": "4524",
+            "airport_ident": "LTAV",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.95"
+        },
+        {
+            "id": "57945",
+            "airport_ref": "4524",
+            "airport_ident": "LTAV",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.1"
+        }
+    ],
     "country": {
         "id": "302667",
         "code": "TR",

@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "49918",
+            "airport_ref": "2044",
+            "airport_ident": "CZVL",
+            "type": "ATF",
+            "description": "ATF",
+            "frequency_mhz": "120"
+        },
+        {
+            "id": "49919",
+            "airport_ref": "2044",
+            "airport_ident": "CZVL",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "120.8"
+        },
+        {
+            "id": "49920",
+            "airport_ref": "2044",
+            "airport_ident": "CZVL",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

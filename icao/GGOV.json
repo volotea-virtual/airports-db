@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56368",
+            "airport_ref": "3097",
+            "airport_ident": "GGOV",
+            "type": "A/G",
+            "description": "A/G VOICE RDO",
+            "frequency_mhz": "343.2"
+        },
+        {
+            "id": "56369",
+            "airport_ref": "3097",
+            "airport_ident": "GGOV",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "123.9"
+        },
+        {
+            "id": "56370",
+            "airport_ref": "3097",
+            "airport_ident": "GGOV",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "124.3"
+        }
+    ],
     "country": {
         "id": "302578",
         "code": "GW",

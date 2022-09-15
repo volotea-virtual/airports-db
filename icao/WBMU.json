@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "55624",
+            "airport_ref": "26818",
+            "airport_ident": "WBMU",
+            "type": "APP",
+            "description": "TWR",
+            "frequency_mhz": "129.2"
+        }
+    ],
     "country": {
         "id": "302653",
         "code": "MY",

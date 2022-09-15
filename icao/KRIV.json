@@ -63,6 +63,80 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "69717",
+            "airport_ref": "3849",
+            "airport_ident": "KRIV",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "119.25"
+        },
+        {
+            "id": "69718",
+            "airport_ref": "3849",
+            "airport_ident": "KRIV",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "134.75"
+        },
+        {
+            "id": "69719",
+            "airport_ref": "3849",
+            "airport_ident": "KRIV",
+            "type": "GCCD",
+            "description": "GND/CLNC DEL",
+            "frequency_mhz": "121.75"
+        },
+        {
+            "id": "69720",
+            "airport_ref": "3849",
+            "airport_ident": "KRIV",
+            "type": "OPS",
+            "description": "ANG OPS",
+            "frequency_mhz": "29.37"
+        },
+        {
+            "id": "69721",
+            "airport_ref": "3849",
+            "airport_ident": "KRIV",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "23.98"
+        },
+        {
+            "id": "69722",
+            "airport_ref": "3849",
+            "airport_ident": "KRIV",
+            "type": "POST",
+            "description": "COMD POST",
+            "frequency_mhz": "31.1"
+        },
+        {
+            "id": "69723",
+            "airport_ref": "3849",
+            "airport_ident": "KRIV",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "37.22"
+        },
+        {
+            "id": "69724",
+            "airport_ref": "3849",
+            "airport_ident": "KRIV",
+            "type": "RDO",
+            "description": "RIVERSIDE RDO",
+            "frequency_mhz": "113.4"
+        },
+        {
+            "id": "69725",
+            "airport_ref": "3849",
+            "airport_ident": "KRIV",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "127.65"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

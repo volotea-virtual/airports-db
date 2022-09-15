@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "300929",
+            "airport_ref": "29247",
+            "airport_ident": "EKSS",
+            "type": "RDO",
+            "description": "",
+            "frequency_mhz": "123.5"
+        }
+    ],
     "country": {
         "id": "302682",
         "code": "DK",

@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": "606"
         }
     ],
+    "freqs": [
+        {
+            "id": "317752",
+            "airport_ref": "30549",
+            "airport_ident": "NZYP",
+            "type": "CTAF",
+            "description": "Waipukurau Traffic",
+            "frequency_mhz": "119.1"
+        }
+    ],
     "country": {
         "id": "302776",
         "code": "NZ",

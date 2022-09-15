@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": "2609"
         }
     ],
+    "freqs": [
+        {
+            "id": "56432",
+            "airport_ref": "4474",
+            "airport_ident": "LRBS",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "118.25"
+        },
+        {
+            "id": "56433",
+            "airport_ref": "4474",
+            "airport_ident": "LRBS",
+            "type": "GCA",
+            "description": "PRECISION",
+            "frequency_mhz": "125.2"
+        },
+        {
+            "id": "56434",
+            "airport_ref": "4474",
+            "airport_ident": "LRBS",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "129.95"
+        },
+        {
+            "id": "56435",
+            "airport_ref": "4474",
+            "airport_ident": "LRBS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.8"
+        }
+    ],
     "country": {
         "id": "302712",
         "code": "RO",

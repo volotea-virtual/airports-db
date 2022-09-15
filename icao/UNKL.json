@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56616",
+            "airport_ref": "6506",
+            "airport_ident": "UNKL",
+            "type": "APP",
+            "description": "KRASNOYARSK APP",
+            "frequency_mhz": "127.7"
+        },
+        {
+            "id": "56617",
+            "airport_ref": "6506",
+            "airport_ident": "UNKL",
+            "type": "TWR",
+            "description": "KRASNOYARSK TWR",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "56618",
+            "airport_ref": "6506",
+            "airport_ident": "UNKL",
+            "type": "TWR",
+            "description": "KRASNOYARSK TAXIING",
+            "frequency_mhz": "121.9"
+        }
+    ],
     "country": {
         "id": "302714",
         "code": "RU",

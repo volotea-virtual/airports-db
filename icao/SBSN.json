@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "49707",
+            "airport_ref": "5973",
+            "airport_ident": "SBSN",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.3"
+        },
+        {
+            "id": "49708",
+            "airport_ref": "5973",
+            "airport_ident": "SBSN",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
     "country": {
         "id": "302791",
         "code": "BR",

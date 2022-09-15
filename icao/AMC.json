@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "75264",
+            "airport_ref": "45229",
+            "airport_ident": "AMC",
+            "type": "CTAF",
+            "description": "Tower not yet operational",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302747",
         "code": "MX",

@@ -107,6 +107,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "50227",
+            "airport_ref": "1846",
+            "airport_ident": "CYPG",
+            "type": "ATF",
+            "description": "ATF",
+            "frequency_mhz": "126.2"
+        },
+        {
+            "id": "50226",
+            "airport_ref": "1846",
+            "airport_ident": "CYPG",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "120.85"
+        },
+        {
+            "id": "50228",
+            "airport_ref": "1846",
+            "airport_ident": "CYPG",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "50229",
+            "airport_ref": "1846",
+            "airport_ident": "CYPG",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "126.2"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

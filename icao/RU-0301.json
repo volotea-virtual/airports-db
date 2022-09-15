@@ -17,6 +17,16 @@
     "home_link": "http://www.aerosouz.ru/home/moscow/",
     "wikipedia_link": "",
     "keywords": "Вертодром Волен, УУЕЙ",
+    "freqs": [
+        {
+            "id": "308177",
+            "airport_ref": "46126",
+            "airport_ident": "RU-0301",
+            "type": "AFIS",
+            "description": "Volen Tower",
+            "frequency_mhz": "119.1"
+        }
+    ],
     "country": {
         "id": "302714",
         "code": "RU",

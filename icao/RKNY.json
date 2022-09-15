@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "54885",
+            "airport_ref": "5638",
+            "airport_ident": "RKNY",
+            "type": "APP",
+            "description": "GANGNEUNG APP",
+            "frequency_mhz": "124.6"
+        },
+        {
+            "id": "54886",
+            "airport_ref": "5638",
+            "airport_ident": "RKNY",
+            "type": "CLD",
+            "description": "CLD",
+            "frequency_mhz": "123.15"
+        },
+        {
+            "id": "54887",
+            "airport_ref": "5638",
+            "airport_ident": "RKNY",
+            "type": "DEP",
+            "description": "GANGNEUNG DEP",
+            "frequency_mhz": "124.6"
+        },
+        {
+            "id": "54888",
+            "airport_ref": "5638",
+            "airport_ident": "RKNY",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "123.15"
+        },
+        {
+            "id": "54889",
+            "airport_ref": "5638",
+            "airport_ident": "RKNY",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.85"
+        }
+    ],
     "country": {
         "id": "302643",
         "code": "KR",

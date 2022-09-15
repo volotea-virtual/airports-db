@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "316123",
+            "airport_ref": "316121",
+            "airport_ident": "DE-0336",
+            "type": "Info",
+            "description": "Altes Lager Start",
+            "frequency_mhz": "123.425"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

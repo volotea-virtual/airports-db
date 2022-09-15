@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57315",
+            "airport_ref": "4041",
+            "airport_ident": "LETO",
+            "type": "APP",
+            "description": "MADRID APP",
+            "frequency_mhz": "118.4"
+        },
+        {
+            "id": "57316",
+            "airport_ref": "4041",
+            "airport_ident": "LETO",
+            "type": "GCA",
+            "description": "GCA",
+            "frequency_mhz": "118.9"
+        },
+        {
+            "id": "57317",
+            "airport_ref": "4041",
+            "airport_ident": "LETO",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "57318",
+            "airport_ref": "4041",
+            "airport_ident": "LETO",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.1"
+        }
+    ],
     "country": {
         "id": "302684",
         "code": "ES",

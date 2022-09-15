@@ -1,0 +1,38 @@
+{
+    "id": "356666",
+    "ident": "LR-0004",
+    "type": "small_airport",
+    "name": "Gbarnga Airfield",
+    "latitude_deg": "7.04268",
+    "longitude_deg": "-9.48564",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "LR",
+    "iso_region": "LR-BG",
+    "municipality": "Gbarnga",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302581",
+        "code": "LR",
+        "name": "Liberia",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Liberia",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304469",
+        "code": "LR-BG",
+        "local_code": "BG",
+        "name": "Bong County",
+        "continent": "AF",
+        "iso_country": "LR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bong_County",
+        "keywords": "Airports in Bong County"
+    }
+}

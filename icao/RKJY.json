@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "54919",
+            "airport_ref": "5634",
+            "airport_ident": "RKJY",
+            "type": "APP",
+            "description": "SACHEON APP",
+            "frequency_mhz": "135.4"
+        },
+        {
+            "id": "54920",
+            "airport_ref": "5634",
+            "airport_ident": "RKJY",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "118.525"
+        },
+        {
+            "id": "54921",
+            "airport_ref": "5634",
+            "airport_ident": "RKJY",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.5"
+        }
+    ],
     "country": {
         "id": "302643",
         "code": "KR",

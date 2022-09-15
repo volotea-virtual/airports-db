@@ -63,6 +63,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "335068",
+            "airport_ref": "29026",
+            "airport_ident": "LFYR",
+            "type": "A/A",
+            "description": "",
+            "frequency_mhz": "119.075"
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

@@ -63,6 +63,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "55695",
+            "airport_ref": "5011",
+            "airport_ident": "NVVV",
+            "type": "AFIS",
+            "description": "FLT SVC",
+            "frequency_mhz": "120.7"
+        },
+        {
+            "id": "55696",
+            "airport_ref": "5011",
+            "airport_ident": "NVVV",
+            "type": "AFIS",
+            "description": "FLT SVC",
+            "frequency_mhz": "1133.9"
+        },
+        {
+            "id": "55697",
+            "airport_ref": "5011",
+            "airport_ident": "NVVV",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "120.7"
+        },
+        {
+            "id": "55698",
+            "airport_ref": "5011",
+            "airport_ident": "NVVV",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.7"
+        },
+        {
+            "id": "55699",
+            "airport_ref": "5011",
+            "airport_ident": "NVVV",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "1133.9"
+        }
+    ],
     "country": {
         "id": "302786",
         "code": "VU",

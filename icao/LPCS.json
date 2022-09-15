@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56336",
+            "airport_ref": "4444",
+            "airport_ident": "LPCS",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.83"
+        },
+        {
+            "id": "56337",
+            "airport_ref": "4444",
+            "airport_ident": "LPCS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.305"
+        }
+    ],
     "country": {
         "id": "302711",
         "code": "PT",

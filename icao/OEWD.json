@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56949",
+            "airport_ref": "5127",
+            "airport_ident": "OEWD",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.8"
+        },
+        {
+            "id": "56950",
+            "airport_ref": "5127",
+            "airport_ident": "OEWD",
+            "type": "MISC",
+            "description": "CRASH SVC",
+            "frequency_mhz": "133.5"
+        }
+    ],
     "country": {
         "id": "302660",
         "code": "SA",

@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "316318",
+            "airport_ref": "30083",
+            "airport_ident": "LELO",
+            "type": "twr",
+            "description": "",
+            "frequency_mhz": "118.575"
+        },
+        {
+            "id": "316319",
+            "airport_ref": "30083",
+            "airport_ident": "LELO",
+            "type": "twr",
+            "description": "base militar",
+            "frequency_mhz": "123.225"
+        }
+    ],
     "country": {
         "id": "302684",
         "code": "ES",

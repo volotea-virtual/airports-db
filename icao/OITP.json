@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "54074",
+            "airport_ref": "5202",
+            "airport_ident": "OITP",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302637",
         "code": "IR",

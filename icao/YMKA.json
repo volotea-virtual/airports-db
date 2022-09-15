@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "73839",
+            "airport_ref": "27780",
+            "airport_ident": "YMKA",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.6"
+        },
+        {
+            "id": "73840",
+            "airport_ref": "27780",
+            "airport_ident": "YMKA",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "121.2"
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",

@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "307628",
+            "airport_ref": "44712",
+            "airport_ident": "PL-0076",
+            "type": "ATIS",
+            "description": "",
+            "frequency_mhz": "128.725"
+        },
+        {
+            "id": "307627",
+            "airport_ref": "44712",
+            "airport_ident": "PL-0076",
+            "type": "TWR",
+            "description": "must contact Krzesiny TWR when conducting any flight",
+            "frequency_mhz": "121.025"
+        }
+    ],
     "country": {
         "id": "302710",
         "code": "PL",

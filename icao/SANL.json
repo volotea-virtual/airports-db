@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "48419",
+            "airport_ref": "5792",
+            "airport_ident": "SANL",
+            "type": "APP",
+            "description": "APP/TWR",
+            "frequency_mhz": "118.45"
+        }
+    ],
     "country": {
         "id": "302789",
         "code": "AR",

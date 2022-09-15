@@ -85,6 +85,64 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "62924",
+            "airport_ref": "3591",
+            "airport_ident": "KHRL",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "120.7"
+        },
+        {
+            "id": "62925",
+            "airport_ref": "3591",
+            "airport_ident": "KHRL",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "124.85"
+        },
+        {
+            "id": "62926",
+            "airport_ref": "3591",
+            "airport_ident": "KHRL",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "119.3"
+        },
+        {
+            "id": "62927",
+            "airport_ref": "3591",
+            "airport_ident": "KHRL",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "62928",
+            "airport_ref": "3591",
+            "airport_ident": "KHRL",
+            "type": "RDO",
+            "description": "SAN ANGELO RDO",
+            "frequency_mhz": "122.35"
+        },
+        {
+            "id": "62929",
+            "airport_ref": "3591",
+            "airport_ident": "KHRL",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.3"
+        },
+        {
+            "id": "62930",
+            "airport_ref": "3591",
+            "airport_ident": "KHRL",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

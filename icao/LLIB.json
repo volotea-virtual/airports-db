@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": "320"
         }
     ],
+    "freqs": [
+        {
+            "id": "75406",
+            "airport_ref": "4419",
+            "airport_ident": "LLIB",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "132.45"
+        },
+        {
+            "id": "54111",
+            "airport_ref": "4419",
+            "airport_ident": "LLIB",
+            "type": "Tower Primary",
+            "description": "Rosh Pina Tower",
+            "frequency_mhz": "118.45"
+        },
+        {
+            "id": "75405",
+            "airport_ref": "4419",
+            "airport_ident": "LLIB",
+            "type": "Tower Secondary",
+            "description": "Rosh Pina Tower",
+            "frequency_mhz": "128.45"
+        }
+    ],
     "country": {
         "id": "302633",
         "code": "IL",

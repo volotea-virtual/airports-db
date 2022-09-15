@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56438",
+            "airport_ref": "4471",
+            "airport_ident": "LRAR",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "130.2"
+        }
+    ],
     "country": {
         "id": "302712",
         "code": "RO",

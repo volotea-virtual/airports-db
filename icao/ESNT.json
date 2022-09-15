@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57474",
+            "airport_ref": "2688",
+            "airport_ident": "ESNT",
+            "type": "OPS",
+            "description": "MIF",
+            "frequency_mhz": "133.5"
+        },
+        {
+            "id": "57475",
+            "airport_ref": "2688",
+            "airport_ident": "ESNT",
+            "type": "TWR",
+            "description": "APP",
+            "frequency_mhz": "133.5"
+        }
+    ],
     "country": {
         "id": "302715",
         "code": "SE",

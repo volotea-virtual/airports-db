@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": "1250"
         }
     ],
+    "freqs": [
+        {
+            "id": "62957",
+            "airport_ref": "20348",
+            "airport_ident": "KLKP",
+            "type": "CNTR",
+            "description": "BOSTON CNTR",
+            "frequency_mhz": "120.35"
+        },
+        {
+            "id": "62958",
+            "airport_ref": "20348",
+            "airport_ident": "KLKP",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

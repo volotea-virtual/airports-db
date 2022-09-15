@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51064",
+            "airport_ref": "2014",
+            "airport_ident": "CZFA",
+            "type": "ATF",
+            "description": "MANDATORY FREQ",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "51065",
+            "airport_ref": "2014",
+            "airport_ident": "CZFA",
+            "type": "RCO",
+            "description": "WHITEHORSE RDO",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "51066",
+            "airport_ref": "2014",
+            "airport_ident": "CZFA",
+            "type": "RDO",
+            "description": "ARPT RDO",
+            "frequency_mhz": "122.1"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

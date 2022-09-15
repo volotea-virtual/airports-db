@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "61527",
+            "airport_ref": "20520",
+            "airport_ident": "KMKV",
+            "type": "A/D",
+            "description": "POLK APP/DEP",
+            "frequency_mhz": "132.05"
+        },
+        {
+            "id": "61528",
+            "airport_ref": "20520",
+            "airport_ident": "KMKV",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

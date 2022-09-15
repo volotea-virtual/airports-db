@@ -2,9 +2,9 @@
     "id": "2049",
     "ident": "DAAE",
     "type": "medium_airport",
-    "name": "Soummam – Abane Ramdane Airport",
-    "latitude_deg": "36.712793",
-    "longitude_deg": "5.07857",
+    "name": "Soummam–Abane Ramdane Airport",
+    "latitude_deg": "36.711952",
+    "longitude_deg": "5.069804",
     "elevation_ft": "20",
     "continent": "AF",
     "iso_country": "DZ",
@@ -15,8 +15,8 @@
     "iata_code": "BJA",
     "local_code": "BJ1",
     "home_link": "",
-    "wikipedia_link": "https://en.wikipedia.org/wiki/Soummam_Airport",
-    "keywords": "2004SB60,2004,SB60,2,0,4,S,B,6",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Abane_Ramdane_Airport",
+    "keywords": "Béjaïa, Soummam",
     "runways": [
         {
             "id": "232790",
@@ -39,6 +39,16 @@
             "he_elevation_ft": "10",
             "he_heading_degT": "260",
             "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48258",
+            "airport_ref": "2049",
+            "airport_ident": "DAAE",
+            "type": "TWR",
+            "description": "BEJAIA TWR",
+            "frequency_mhz": "118.9"
         }
     ],
     "country": {

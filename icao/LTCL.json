@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57934",
+            "airport_ref": "4558",
+            "airport_ident": "LTCL",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "132.05"
+        }
+    ],
     "country": {
         "id": "302667",
         "code": "TR",

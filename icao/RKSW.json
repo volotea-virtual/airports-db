@@ -85,6 +85,80 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "54981",
+            "airport_ref": "5657",
+            "airport_ident": "RKSW",
+            "type": "A/D",
+            "description": "OSAN APP/DEP",
+            "frequency_mhz": "127.9"
+        },
+        {
+            "id": "54982",
+            "airport_ref": "5657",
+            "airport_ident": "RKSW",
+            "type": "ACP",
+            "description": "BRICKWALL",
+            "frequency_mhz": "120"
+        },
+        {
+            "id": "54983",
+            "airport_ref": "5657",
+            "airport_ident": "RKSW",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.425"
+        },
+        {
+            "id": "54984",
+            "airport_ref": "5657",
+            "airport_ident": "RKSW",
+            "type": "GCA",
+            "description": "GCA",
+            "frequency_mhz": "34.655"
+        },
+        {
+            "id": "54985",
+            "airport_ref": "5657",
+            "airport_ident": "RKSW",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "27.58"
+        },
+        {
+            "id": "54986",
+            "airport_ref": "5657",
+            "airport_ident": "RKSW",
+            "type": "OPS",
+            "description": "25TH TFS",
+            "frequency_mhz": "22.9"
+        },
+        {
+            "id": "54987",
+            "airport_ref": "5657",
+            "airport_ident": "RKSW",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "34.65"
+        },
+        {
+            "id": "54988",
+            "airport_ref": "5657",
+            "airport_ident": "RKSW",
+            "type": "POST",
+            "description": "USAF SUWON COMD POST",
+            "frequency_mhz": "22.9"
+        },
+        {
+            "id": "54989",
+            "airport_ref": "5657",
+            "airport_ident": "RKSW",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "126.2"
+        }
+    ],
     "country": {
         "id": "302643",
         "code": "KR",

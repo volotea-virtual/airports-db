@@ -63,6 +63,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "74976",
+            "airport_ref": "28056",
+            "airport_ident": "YWMC",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "120.7"
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",

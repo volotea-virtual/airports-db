@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": "394"
         }
     ],
+    "freqs": [
+        {
+            "id": "52609",
+            "airport_ref": "4246",
+            "airport_ident": "LFXA",
+            "type": "APP",
+            "description": "LYON APP",
+            "frequency_mhz": "120.225"
+        },
+        {
+            "id": "52610",
+            "airport_ref": "4246",
+            "airport_ident": "LFXA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.1"
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

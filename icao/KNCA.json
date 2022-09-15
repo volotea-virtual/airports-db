@@ -63,6 +63,72 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "66918",
+            "airport_ref": "3721",
+            "airport_ident": "KNCA",
+            "type": "A/D",
+            "description": "CHERRY POINT APP/DEP",
+            "frequency_mhz": "119.35"
+        },
+        {
+            "id": "66919",
+            "airport_ref": "3721",
+            "airport_ident": "KNCA",
+            "type": "ARR",
+            "description": "ARRIVAL",
+            "frequency_mhz": "124.85"
+        },
+        {
+            "id": "66920",
+            "airport_ref": "3721",
+            "airport_ident": "KNCA",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "28.832"
+        },
+        {
+            "id": "66921",
+            "airport_ref": "3721",
+            "airport_ident": "KNCA",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "23.902"
+        },
+        {
+            "id": "66922",
+            "airport_ref": "3721",
+            "airport_ident": "KNCA",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "66923",
+            "airport_ref": "3721",
+            "airport_ident": "KNCA",
+            "type": "OPS",
+            "description": "OPS",
+            "frequency_mhz": "23.64"
+        },
+        {
+            "id": "66924",
+            "airport_ref": "3721",
+            "airport_ident": "KNCA",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "24.477"
+        },
+        {
+            "id": "66925",
+            "airport_ref": "3721",
+            "airport_ident": "KNCA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

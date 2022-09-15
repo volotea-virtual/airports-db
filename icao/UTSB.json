@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "71615",
+            "airport_ref": "26388",
+            "airport_ident": "UTSB",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "124.6"
+        },
+        {
+            "id": "71616",
+            "airport_ref": "26388",
+            "airport_ident": "UTSB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.1"
+        }
+    ],
     "country": {
         "id": "302669",
         "code": "UZ",

@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "335480",
+            "airport_ref": "335479",
+            "airport_ident": "GB-0882",
+            "type": "SafetyCom",
+            "description": "Crail Traffic",
+            "frequency_mhz": "135.48"
+        },
+        {
+            "id": "335481",
+            "airport_ref": "335479",
+            "airport_ident": "GB-0882",
+            "type": "SafetyCom",
+            "description": "Crail Traffic",
+            "frequency_mhz": "135.48"
+        }
+    ],
     "country": {
         "id": "302688",
         "code": "GB",

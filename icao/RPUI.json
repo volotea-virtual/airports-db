@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "75250",
+            "airport_ref": "32226",
+            "airport_ident": "RPUI",
+            "type": "Multicom",
+            "description": "",
+            "frequency_mhz": "121.9"
+        }
+    ],
     "country": {
         "id": "302656",
         "code": "PH",

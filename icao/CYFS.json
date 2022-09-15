@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "50372",
+            "airport_ref": "1737",
+            "airport_ident": "CYFS",
+            "type": "CNTR",
+            "description": "EDMONTON CNTR",
+            "frequency_mhz": "135.4"
+        },
+        {
+            "id": "50374",
+            "airport_ref": "1737",
+            "airport_ident": "CYFS",
+            "type": "MF",
+            "description": "FT SIMPSON RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "50373",
+            "airport_ref": "1737",
+            "airport_ident": "CYFS",
+            "type": "RCO",
+            "description": "YELLOWKNIFE RDO",
+            "frequency_mhz": "126.7"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

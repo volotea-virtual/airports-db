@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53736",
+            "airport_ref": "26760",
+            "airport_ident": "WALL",
+            "type": "APP",
+            "description": "BALIKPAPAN APP",
+            "frequency_mhz": "120.4"
+        },
+        {
+            "id": "53737",
+            "airport_ref": "26760",
+            "airport_ident": "WALL",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.6"
+        },
+        {
+            "id": "53738",
+            "airport_ref": "26760",
+            "airport_ident": "WALL",
+            "type": "INFO",
+            "description": "BALIKPAPAN INFO",
+            "frequency_mhz": "341.6"
+        },
+        {
+            "id": "53739",
+            "airport_ref": "26760",
+            "airport_ident": "WALL",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
     "country": {
         "id": "302632",
         "code": "ID",

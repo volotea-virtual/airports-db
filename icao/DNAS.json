@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "310644",
+            "airport_ref": "300781",
+            "airport_ident": "DNAS",
+            "type": "SAB - VOR",
+            "description": "",
+            "frequency_mhz": "112.6"
+        },
+        {
+            "id": "310643",
+            "airport_ref": "300781",
+            "airport_ident": "DNAS",
+            "type": "TWR",
+            "description": "",
+            "frequency_mhz": "118.5"
+        }
+    ],
     "country": {
         "id": "302593",
         "code": "NG",

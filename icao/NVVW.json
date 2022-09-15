@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "55693",
+            "airport_ref": "5012",
+            "airport_ident": "NVVW",
+            "type": "AFIS",
+            "description": "VILA FLT SVC",
+            "frequency_mhz": "655.3"
+        },
+        {
+            "id": "55694",
+            "airport_ref": "5012",
+            "airport_ident": "NVVW",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "120.7"
+        }
+    ],
     "country": {
         "id": "302786",
         "code": "VU",

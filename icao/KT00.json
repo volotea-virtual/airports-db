@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "63794",
+            "airport_ref": "21133",
+            "airport_ident": "KT00",
+            "type": "A/D",
+            "description": "HOUSTON APP/DEP",
+            "frequency_mhz": "134.45"
+        },
+        {
+            "id": "63795",
+            "airport_ref": "21133",
+            "airport_ident": "KT00",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

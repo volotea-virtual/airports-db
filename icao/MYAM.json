@@ -41,6 +41,56 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "49373",
+            "airport_ref": "4927",
+            "airport_ident": "MYAM",
+            "type": "APP",
+            "description": "FREEPORT APP",
+            "frequency_mhz": "126.5"
+        },
+        {
+            "id": "333719",
+            "airport_ref": "4927",
+            "airport_ident": "MYAM",
+            "type": "GND",
+            "description": "Ground",
+            "frequency_mhz": "124.6"
+        },
+        {
+            "id": "49374",
+            "airport_ref": "4927",
+            "airport_ident": "MYAM",
+            "type": "RDO",
+            "description": "Nassau Radio (Secondary)",
+            "frequency_mhz": "124.2"
+        },
+        {
+            "id": "333718",
+            "airport_ref": "4927",
+            "airport_ident": "MYAM",
+            "type": "RDO",
+            "description": "Nassau Radio",
+            "frequency_mhz": "128"
+        },
+        {
+            "id": "333720",
+            "airport_ref": "4927",
+            "airport_ident": "MYAM",
+            "type": "TWR",
+            "description": "Tower",
+            "frequency_mhz": "118.6"
+        },
+        {
+            "id": "49375",
+            "airport_ref": "4927",
+            "airport_ident": "MYAM",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302728",
         "code": "BS",

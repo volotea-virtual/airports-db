@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "333284",
+            "airport_ref": "30513",
+            "airport_ident": "LKUL",
+            "type": "RADIO",
+            "description": "",
+            "frequency_mhz": "123.405"
+        }
+    ],
     "country": {
         "id": "302680",
         "code": "CZ",

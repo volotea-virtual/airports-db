@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "74698",
+            "airport_ref": "27994",
+            "airport_ident": "YTKS",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "120"
+        },
+        {
+            "id": "74699",
+            "airport_ref": "27994",
+            "airport_ident": "YTKS",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "125.9"
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",

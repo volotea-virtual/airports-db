@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "335281",
+            "airport_ref": "26565",
+            "airport_ident": "VIJU",
+            "type": "TWR",
+            "description": "JAMMU",
+            "frequency_mhz": "122.85"
+        },
+        {
+            "id": "335282",
+            "airport_ref": "26565",
+            "airport_ident": "VIJU",
+            "type": "TWR STD BY",
+            "description": "",
+            "frequency_mhz": "122.65"
+        }
+    ],
     "country": {
         "id": "302634",
         "code": "IN",

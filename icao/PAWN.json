@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "58675",
+            "airport_ref": "5423",
+            "airport_ident": "PAWN",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "135.75"
+        },
+        {
+            "id": "58676",
+            "airport_ref": "5423",
+            "airport_ident": "PAWN",
+            "type": "CNTR",
+            "description": "ANCHORAGE CNTR",
+            "frequency_mhz": "119.2"
+        },
+        {
+            "id": "58677",
+            "airport_ref": "5423",
+            "airport_ident": "PAWN",
+            "type": "FSS",
+            "description": "KOTZEBUE RDO",
+            "frequency_mhz": "122.4"
+        },
+        {
+            "id": "58678",
+            "airport_ref": "5423",
+            "airport_ident": "PAWN",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

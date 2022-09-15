@@ -41,6 +41,112 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "58188",
+            "airport_ref": "2494",
+            "airport_ident": "EGVO",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "131.3"
+        },
+        {
+            "id": "307827",
+            "airport_ref": "2494",
+            "airport_ident": "EGVO",
+            "type": "APP",
+            "description": "",
+            "frequency_mhz": "234.35"
+        },
+        {
+            "id": "58189",
+            "airport_ref": "2494",
+            "airport_ident": "EGVO",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "379.37"
+        },
+        {
+            "id": "58190",
+            "airport_ref": "2494",
+            "airport_ident": "EGVO",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "24.102"
+        },
+        {
+            "id": "58191",
+            "airport_ref": "2494",
+            "airport_ident": "EGVO",
+            "type": "INFO",
+            "description": "FIS",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "58192",
+            "airport_ref": "2494",
+            "airport_ident": "EGVO",
+            "type": "MISC",
+            "description": "FARNBOROUGH LARS",
+            "frequency_mhz": "125.25"
+        },
+        {
+            "id": "307828",
+            "airport_ref": "2494",
+            "airport_ident": "EGVO",
+            "type": "RDR",
+            "description": "Talkdown",
+            "frequency_mhz": "123.3"
+        },
+        {
+            "id": "307829",
+            "airport_ref": "2494",
+            "airport_ident": "EGVO",
+            "type": "RDR",
+            "description": "Talkdown",
+            "frequency_mhz": "278.22"
+        },
+        {
+            "id": "307830",
+            "airport_ref": "2494",
+            "airport_ident": "EGVO",
+            "type": "RDR",
+            "description": "Talkdown",
+            "frequency_mhz": "385.4"
+        },
+        {
+            "id": "307831",
+            "airport_ref": "2494",
+            "airport_ident": "EGVO",
+            "type": "RDR",
+            "description": "",
+            "frequency_mhz": "386.77"
+        },
+        {
+            "id": "58193",
+            "airport_ref": "2494",
+            "airport_ident": "EGVO",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "307832",
+            "airport_ref": "2494",
+            "airport_ident": "EGVO",
+            "type": "TWR",
+            "description": "",
+            "frequency_mhz": "257.8"
+        },
+        {
+            "id": "307833",
+            "airport_ref": "2494",
+            "airport_ident": "EGVO",
+            "type": "TWR",
+            "description": "",
+            "frequency_mhz": "258.72"
+        }
+    ],
     "country": {
         "id": "302688",
         "code": "GB",

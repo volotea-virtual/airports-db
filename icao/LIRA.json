@@ -41,6 +41,56 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "54178",
+            "airport_ref": "4370",
+            "airport_ident": "LIRA",
+            "type": "ARR",
+            "description": "ROMA ARR",
+            "frequency_mhz": "119.2"
+        },
+        {
+            "id": "322329",
+            "airport_ref": "4370",
+            "airport_ident": "LIRA",
+            "type": "ATIS",
+            "description": "",
+            "frequency_mhz": "122.425"
+        },
+        {
+            "id": "54179",
+            "airport_ref": "4370",
+            "airport_ident": "LIRA",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "119.4"
+        },
+        {
+            "id": "54180",
+            "airport_ref": "4370",
+            "airport_ident": "LIRA",
+            "type": "DIR",
+            "description": "ROMA DIRECTOR",
+            "frequency_mhz": "119.2"
+        },
+        {
+            "id": "54181",
+            "airport_ref": "4370",
+            "airport_ident": "LIRA",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.75"
+        },
+        {
+            "id": "54182",
+            "airport_ref": "4370",
+            "airport_ident": "LIRA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.5"
+        }
+    ],
     "country": {
         "id": "302697",
         "code": "IT",

@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "48760",
+            "airport_ref": "27045",
+            "airport_ident": "YMBA",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "48761",
+            "airport_ref": "27045",
+            "airport_ident": "YMBA",
+            "type": "FSS",
+            "description": "CAIRNS APP",
+            "frequency_mhz": "126.1"
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",

@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "69708",
+            "airport_ref": "18522",
+            "airport_ident": "K1V6",
+            "type": "A/D",
+            "description": "PUEBLO APP/DEP",
+            "frequency_mhz": "120.1"
+        },
+        {
+            "id": "69709",
+            "airport_ref": "18522",
+            "airport_ident": "K1V6",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "120.025"
+        },
+        {
+            "id": "69710",
+            "airport_ref": "18522",
+            "airport_ident": "K1V6",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "55426",
+            "airport_ref": "4746",
+            "airport_ident": "MMPS",
+            "type": "TWR",
+            "description": "ESCONDIDO TWR",
+            "frequency_mhz": "118.9"
+        }
+    ],
     "country": {
         "id": "302747",
         "code": "MX",

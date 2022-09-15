@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": "740"
         }
     ],
+    "freqs": [
+        {
+            "id": "64752",
+            "airport_ref": "21194",
+            "airport_ident": "KTHV",
+            "type": "A/D",
+            "description": "HARRISBURG APP/DEP",
+            "frequency_mhz": "124.1"
+        },
+        {
+            "id": "64753",
+            "airport_ref": "21194",
+            "airport_ident": "KTHV",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "119.275"
+        },
+        {
+            "id": "64754",
+            "airport_ref": "21194",
+            "airport_ident": "KTHV",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.65"
+        },
+        {
+            "id": "64755",
+            "airport_ref": "21194",
+            "airport_ident": "KTHV",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

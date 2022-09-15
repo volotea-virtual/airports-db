@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "61254",
+            "airport_ref": "20294",
+            "airport_ident": "KL32",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        },
+        {
+            "id": "61255",
+            "airport_ref": "20294",
+            "airport_ident": "KL32",
+            "type": "FSS",
+            "description": "DE RIDDER RDO",
+            "frequency_mhz": "122.2"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

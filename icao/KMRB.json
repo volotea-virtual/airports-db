@@ -63,6 +63,80 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "71131",
+            "airport_ref": "3704",
+            "airport_ident": "KMRB",
+            "type": "A/D",
+            "description": "POTOMAC APP/DEP",
+            "frequency_mhz": "126.1"
+        },
+        {
+            "id": "71132",
+            "airport_ref": "3704",
+            "airport_ident": "KMRB",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "119.925"
+        },
+        {
+            "id": "71133",
+            "airport_ref": "3704",
+            "airport_ident": "KMRB",
+            "type": "CLD",
+            "description": "POTOMAC CLNC DEL",
+            "frequency_mhz": "132.075"
+        },
+        {
+            "id": "71134",
+            "airport_ref": "3704",
+            "airport_ident": "KMRB",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "124.3"
+        },
+        {
+            "id": "71135",
+            "airport_ref": "3704",
+            "airport_ident": "KMRB",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "71136",
+            "airport_ref": "3704",
+            "airport_ident": "KMRB",
+            "type": "POST",
+            "description": "PIKESIDE CON ANG",
+            "frequency_mhz": "29.7"
+        },
+        {
+            "id": "71137",
+            "airport_ref": "3704",
+            "airport_ident": "KMRB",
+            "type": "RDO",
+            "description": "ELKINS RDO",
+            "frequency_mhz": "122.45"
+        },
+        {
+            "id": "71138",
+            "airport_ref": "3704",
+            "airport_ident": "KMRB",
+            "type": "TWR",
+            "description": "MARTINSBURG TWR",
+            "frequency_mhz": "124.3"
+        },
+        {
+            "id": "71139",
+            "airport_ref": "3704",
+            "airport_ident": "KMRB",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

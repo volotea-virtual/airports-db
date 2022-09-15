@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "60238",
+            "airport_ref": "20365",
+            "airport_ident": "KLOM",
+            "type": "A/D",
+            "description": "PHILADELPHIA APP/DEP",
+            "frequency_mhz": "126.85"
+        },
+        {
+            "id": "60239",
+            "airport_ref": "20365",
+            "airport_ident": "KLOM",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.925"
+        },
+        {
+            "id": "60240",
+            "airport_ref": "20365",
+            "airport_ident": "KLOM",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "118.55"
+        },
+        {
+            "id": "60241",
+            "airport_ref": "20365",
+            "airport_ident": "KLOM",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

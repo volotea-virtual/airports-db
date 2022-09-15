@@ -63,6 +63,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "70152",
+            "airport_ref": "20733",
+            "airport_ident": "KOKK",
+            "type": "A/D",
+            "description": "GRISSOM APP/DEP",
+            "frequency_mhz": "121.05"
+        },
+        {
+            "id": "70153",
+            "airport_ref": "20733",
+            "airport_ident": "KOKK",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "113.5"
+        },
+        {
+            "id": "70154",
+            "airport_ref": "20733",
+            "airport_ident": "KOKK",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "120"
+        },
+        {
+            "id": "70155",
+            "airport_ref": "20733",
+            "airport_ident": "KOKK",
+            "type": "RDO",
+            "description": "TERRE HAUTE RDO",
+            "frequency_mhz": "113.5"
+        },
+        {
+            "id": "70156",
+            "airport_ref": "20733",
+            "airport_ident": "KOKK",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

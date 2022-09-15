@@ -85,6 +85,24 @@
             "he_displaced_threshold_ft": "260"
         }
     ],
+    "freqs": [
+        {
+            "id": "59346",
+            "airport_ref": "20718",
+            "airport_ident": "KOEA",
+            "type": "A/D",
+            "description": "EVANSVILLE APP/DEP",
+            "frequency_mhz": "125.6"
+        },
+        {
+            "id": "59347",
+            "airport_ref": "20718",
+            "airport_ident": "KOEA",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

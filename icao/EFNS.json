@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "310817",
+            "airport_ref": "27270",
+            "airport_ident": "EFNS",
+            "type": "ACC",
+            "description": "Tampere radar",
+            "frequency_mhz": "127.1"
+        },
+        {
+            "id": "310816",
+            "airport_ref": "27270",
+            "airport_ident": "EFNS",
+            "type": "RDO",
+            "description": "Savikko traffic",
+            "frequency_mhz": "123.15"
+        }
+    ],
     "country": {
         "id": "302685",
         "code": "FI",

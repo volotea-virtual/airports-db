@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": "984"
         }
     ],
+    "freqs": [
+        {
+            "id": "52997",
+            "airport_ref": "2193",
+            "airport_ident": "EDAX",
+            "type": "INFO",
+            "description": "LARZ INFO",
+            "frequency_mhz": "129.975"
+        },
+        {
+            "id": "52998",
+            "airport_ref": "2193",
+            "airport_ident": "EDAX",
+            "type": "INFO",
+            "description": "BERLIN INFO",
+            "frequency_mhz": "132.65"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

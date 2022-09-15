@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "298300",
+            "airport_ref": "30577",
+            "airport_ident": "EPZA",
+            "type": "TWR",
+            "description": "",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302710",
         "code": "PL",

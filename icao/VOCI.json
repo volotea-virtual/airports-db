@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53791",
+            "airport_ref": "26609",
+            "airport_ident": "VOCI",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.75"
+        },
+        {
+            "id": "53792",
+            "airport_ref": "26609",
+            "airport_ident": "VOCI",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.2"
+        },
+        {
+            "id": "53793",
+            "airport_ref": "26609",
+            "airport_ident": "VOCI",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.75"
+        },
+        {
+            "id": "53794",
+            "airport_ref": "26609",
+            "airport_ident": "VOCI",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.8"
+        }
+    ],
     "country": {
         "id": "302634",
         "code": "IN",

@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "346535",
+            "airport_ref": "29955",
+            "airport_ident": "ENHS",
+            "type": "CTAF",
+            "description": "Hokksund Traffic",
+            "frequency_mhz": "122.175"
+        }
+    ],
     "country": {
         "id": "302709",
         "code": "NO",

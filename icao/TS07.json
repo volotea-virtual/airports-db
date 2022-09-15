@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "334252",
+            "airport_ref": "25024",
+            "airport_ident": "TS07",
+            "type": "CTAF",
+            "description": "Dry Creek Traffic",
+            "frequency_mhz": "122.9"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

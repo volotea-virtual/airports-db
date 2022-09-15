@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "49416",
+            "airport_ref": "26528",
+            "airport_ident": "VGIS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.9"
+        }
+    ],
     "country": {
         "id": "302622",
         "code": "BD",

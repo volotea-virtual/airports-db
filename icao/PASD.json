@@ -41,6 +41,56 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "71008",
+            "airport_ref": "5406",
+            "airport_ident": "PASD",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "134.85"
+        },
+        {
+            "id": "71009",
+            "airport_ref": "5406",
+            "airport_ident": "PASD",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "71010",
+            "airport_ref": "5406",
+            "airport_ident": "PASD",
+            "type": "CNTR",
+            "description": "ANCHORAGE CNTR",
+            "frequency_mhz": "125.35"
+        },
+        {
+            "id": "71011",
+            "airport_ref": "5406",
+            "airport_ident": "PASD",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "71012",
+            "airport_ref": "5406",
+            "airport_ident": "PASD",
+            "type": "FSS",
+            "description": "COLD BAY RDO",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "71013",
+            "airport_ref": "5406",
+            "airport_ident": "PASD",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

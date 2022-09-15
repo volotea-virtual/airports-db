@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52916",
+            "airport_ref": "2748",
+            "airport_ident": "ETSA",
+            "type": "ACC",
+            "description": "MUNCHEN CON",
+            "frequency_mhz": "129.45"
+        },
+        {
+            "id": "52917",
+            "airport_ref": "2748",
+            "airport_ident": "ETSA",
+            "type": "OPS",
+            "description": "WING OPS",
+            "frequency_mhz": "142.85"
+        },
+        {
+            "id": "52919",
+            "airport_ref": "2748",
+            "airport_ident": "ETSA",
+            "type": "RDR",
+            "description": "RADAR",
+            "frequency_mhz": "34.4"
+        },
+        {
+            "id": "52918",
+            "airport_ref": "2748",
+            "airport_ident": "ETSA",
+            "type": "RDR",
+            "description": "RADAR",
+            "frequency_mhz": "123.3"
+        },
+        {
+            "id": "52920",
+            "airport_ref": "2748",
+            "airport_ident": "ETSA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.1"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

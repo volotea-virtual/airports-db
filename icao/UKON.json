@@ -63,6 +63,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "58605",
+            "airport_ref": "6486",
+            "airport_ident": "UKON",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.7"
+        }
+    ],
     "country": {
         "id": "302719",
         "code": "UA",

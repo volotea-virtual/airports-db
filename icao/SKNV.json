@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51479",
+            "airport_ref": "6141",
+            "airport_ident": "SKNV",
+            "type": "INFO",
+            "description": "NEIVA FIS",
+            "frequency_mhz": "127.1"
+        },
+        {
+            "id": "51480",
+            "airport_ref": "6141",
+            "airport_ident": "SKNV",
+            "type": "RDO",
+            "description": "NEIVA RDO",
+            "frequency_mhz": "348.8"
+        },
+        {
+            "id": "51481",
+            "airport_ref": "6141",
+            "airport_ident": "SKNV",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.25"
+        }
+    ],
     "country": {
         "id": "302793",
         "code": "CO",

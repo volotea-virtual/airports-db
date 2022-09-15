@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "70004",
+            "airport_ref": "21069",
+            "airport_ident": "KSIF",
+            "type": "A/D",
+            "description": "GREENSBORO APP/DEP",
+            "frequency_mhz": "26.922"
+        },
+        {
+            "id": "70005",
+            "airport_ref": "21069",
+            "airport_ident": "KSIF",
+            "type": "AWOS",
+            "description": "AWOS3",
+            "frequency_mhz": "119.775"
+        },
+        {
+            "id": "70006",
+            "airport_ref": "21069",
+            "airport_ident": "KSIF",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

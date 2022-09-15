@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "69895",
+            "airport_ref": "21102",
+            "airport_ident": "KSPH",
+            "type": "A/D",
+            "description": "SHREVEPORT APP/DEP",
+            "frequency_mhz": "118.6"
+        },
+        {
+            "id": "69896",
+            "airport_ref": "21102",
+            "airport_ident": "KSPH",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52282",
+            "airport_ref": "4095",
+            "airport_ident": "LFDJ",
+            "type": "AFIS",
+            "description": "PAMIERS INFO",
+            "frequency_mhz": "118.175"
+        },
+        {
+            "id": "52283",
+            "airport_ref": "4095",
+            "airport_ident": "LFDJ",
+            "type": "APP",
+            "description": "TOULOUSE APP",
+            "frequency_mhz": "125.175"
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

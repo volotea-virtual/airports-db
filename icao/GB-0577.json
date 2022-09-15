@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "329261",
+            "airport_ref": "329259",
+            "airport_ident": "GB-0577",
+            "type": "SafetyCom",
+            "description": "Kirriemuir Traffic",
+            "frequency_mhz": "132.475"
+        }
+    ],
     "country": {
         "id": "302688",
         "code": "GB",

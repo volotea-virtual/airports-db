@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57682",
+            "airport_ref": "26641",
+            "airport_ident": "VTBK",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "127.75"
+        },
+        {
+            "id": "57683",
+            "airport_ref": "26641",
+            "airport_ident": "VTBK",
+            "type": "CNTR",
+            "description": "BANGKOK CON",
+            "frequency_mhz": "128.1"
+        },
+        {
+            "id": "57684",
+            "airport_ref": "26641",
+            "airport_ident": "VTBK",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "23.7"
+        },
+        {
+            "id": "57685",
+            "airport_ref": "26641",
+            "airport_ident": "VTBK",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "25.78"
+        },
+        {
+            "id": "57686",
+            "airport_ref": "26641",
+            "airport_ident": "VTBK",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "23.75"
+        }
+    ],
     "country": {
         "id": "302663",
         "code": "TH",

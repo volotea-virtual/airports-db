@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": "440"
         }
     ],
+    "freqs": [
+        {
+            "id": "53962",
+            "airport_ref": "26517",
+            "airport_ident": "VEPT",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302634",
         "code": "IN",

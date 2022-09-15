@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "59236",
+            "airport_ref": "18497",
+            "airport_ident": "KOBI",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "124.6"
+        },
+        {
+            "id": "59237",
+            "airport_ref": "18497",
+            "airport_ident": "KOBI",
+            "type": "RDO",
+            "description": "MILLVILLE RDO",
+            "frequency_mhz": "115.2"
+        },
+        {
+            "id": "59238",
+            "airport_ref": "18497",
+            "airport_ident": "KOBI",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123.05"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "50123",
+            "airport_ref": "1810",
+            "airport_ident": "CYME",
+            "type": "CNTR",
+            "description": "MONTREAL CNTR",
+            "frequency_mhz": "134.65"
+        },
+        {
+            "id": "50124",
+            "airport_ref": "1810",
+            "airport_ident": "CYME",
+            "type": "UNIC",
+            "description": "ATF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

@@ -63,6 +63,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "75475",
+            "airport_ref": "1330",
+            "airport_ident": "CNP8",
+            "type": "ATF",
+            "description": "Greenbank Traffic",
+            "frequency_mhz": "122.725"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

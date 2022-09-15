@@ -63,6 +63,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "354179",
+            "airport_ref": "29510",
+            "airport_ident": "LSPL",
+            "type": "AFIS",
+            "description": "",
+            "frequency_mhz": "119.405"
+        }
+    ],
     "country": {
         "id": "302679",
         "code": "CH",

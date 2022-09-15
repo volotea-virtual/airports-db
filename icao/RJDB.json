@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": "197"
         }
     ],
+    "freqs": [
+        {
+            "id": "54535",
+            "airport_ref": "5554",
+            "airport_ident": "RJDB",
+            "type": "A/G",
+            "description": "IKI REMOTE",
+            "frequency_mhz": "118.2"
+        },
+        {
+            "id": "54536",
+            "airport_ref": "5554",
+            "airport_ident": "RJDB",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "118.2"
+        }
+    ],
     "country": {
         "id": "302639",
         "code": "JP",

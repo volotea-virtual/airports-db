@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51782",
+            "airport_ref": "6086",
+            "airport_ident": "SETU",
+            "type": "APP",
+            "description": "ANDES APP",
+            "frequency_mhz": "120.1"
+        },
+        {
+            "id": "51783",
+            "airport_ref": "6086",
+            "airport_ident": "SETU",
+            "type": "TWR",
+            "description": "TULCAN TWR",
+            "frequency_mhz": "122"
+        }
+    ],
     "country": {
         "id": "302794",
         "code": "EC",

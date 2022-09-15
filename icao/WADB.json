@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53654",
+            "airport_ref": "26750",
+            "airport_ident": "WADB",
+            "type": "RDO",
+            "description": "BIMA RDO",
+            "frequency_mhz": "782.5"
+        },
+        {
+            "id": "53655",
+            "airport_ref": "26750",
+            "airport_ident": "WADB",
+            "type": "TWR",
+            "description": "SALAHUDDIN TWR",
+            "frequency_mhz": "120.3"
+        }
+    ],
     "country": {
         "id": "302632",
         "code": "ID",

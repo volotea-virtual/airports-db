@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56439",
+            "airport_ref": "4488",
+            "airport_ident": "LRTR",
+            "type": "APP",
+            "description": "TIMISOARA APP",
+            "frequency_mhz": "120.1"
+        },
+        {
+            "id": "56440",
+            "airport_ref": "4488",
+            "airport_ident": "LRTR",
+            "type": "GND",
+            "description": "TIMISOARA GND",
+            "frequency_mhz": "121.6"
+        },
+        {
+            "id": "56441",
+            "airport_ref": "4488",
+            "airport_ident": "LRTR",
+            "type": "TWR",
+            "description": "TIMISOARA TWR",
+            "frequency_mhz": "120.1"
+        }
+    ],
     "country": {
         "id": "302712",
         "code": "RO",

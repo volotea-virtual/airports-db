@@ -63,6 +63,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "67051",
+            "airport_ref": "20869",
+            "airport_ident": "KPSB",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "127.525"
+        },
+        {
+            "id": "67052",
+            "airport_ref": "20869",
+            "airport_ident": "KPSB",
+            "type": "CNTR",
+            "description": "NEW YORK CNTR",
+            "frequency_mhz": "134.8"
+        },
+        {
+            "id": "67053",
+            "airport_ref": "20869",
+            "airport_ident": "KPSB",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        },
+        {
+            "id": "67054",
+            "airport_ref": "20869",
+            "airport_ident": "KPSB",
+            "type": "RDO",
+            "description": "ALTOONA RDO",
+            "frequency_mhz": "122.5"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

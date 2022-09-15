@@ -63,6 +63,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "66864",
+            "airport_ref": "20120",
+            "airport_ident": "KI12",
+            "type": "A/D",
+            "description": "DAYTON APP/DEP",
+            "frequency_mhz": "127.65"
+        },
+        {
+            "id": "66865",
+            "airport_ref": "20120",
+            "airport_ident": "KI12",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "120.425"
+        },
+        {
+            "id": "66866",
+            "airport_ref": "20120",
+            "airport_ident": "KI12",
+            "type": "RDO",
+            "description": "DAYTON RDO",
+            "frequency_mhz": "117.5"
+        },
+        {
+            "id": "66867",
+            "airport_ref": "20120",
+            "airport_ident": "KI12",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123.05"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

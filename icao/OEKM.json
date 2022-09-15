@@ -63,6 +63,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56913",
+            "airport_ref": "5099",
+            "airport_ident": "OEKM",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "130.5"
+        },
+        {
+            "id": "56914",
+            "airport_ref": "5099",
+            "airport_ident": "OEKM",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "56915",
+            "airport_ref": "5099",
+            "airport_ident": "OEKM",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "127.7"
+        },
+        {
+            "id": "56916",
+            "airport_ref": "5099",
+            "airport_ident": "OEKM",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.9"
+        }
+    ],
     "country": {
         "id": "302660",
         "code": "SA",

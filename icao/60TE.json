@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "66875",
+            "airport_ref": "12799",
+            "airport_ident": "60TE",
+            "type": "CNTR",
+            "description": "HOUSTON CNTR",
+            "frequency_mhz": "126.625"
+        },
+        {
+            "id": "66876",
+            "airport_ref": "12799",
+            "airport_ident": "60TE",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.75"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

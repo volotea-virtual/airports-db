@@ -41,6 +41,72 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "58523",
+            "airport_ref": "2504",
+            "airport_ident": "EGXT",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "130.2"
+        },
+        {
+            "id": "58524",
+            "airport_ref": "2504",
+            "airport_ident": "EGXT",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "242.47"
+        },
+        {
+            "id": "58525",
+            "airport_ref": "2504",
+            "airport_ident": "EGXT",
+            "type": "CAC",
+            "description": "LONDON MIL",
+            "frequency_mhz": "29.997"
+        },
+        {
+            "id": "58526",
+            "airport_ref": "2504",
+            "airport_ident": "EGXT",
+            "type": "DEP",
+            "description": "DEP/DIR",
+            "frequency_mhz": "278.45"
+        },
+        {
+            "id": "58527",
+            "airport_ref": "2504",
+            "airport_ident": "EGXT",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "369.22"
+        },
+        {
+            "id": "307783",
+            "airport_ref": "2504",
+            "airport_ident": "EGXT",
+            "type": "GRN",
+            "description": "",
+            "frequency_mhz": "125.525"
+        },
+        {
+            "id": "58528",
+            "airport_ref": "2504",
+            "airport_ident": "EGXT",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "125.525"
+        },
+        {
+            "id": "307784",
+            "airport_ref": "2504",
+            "airport_ident": "EGXT",
+            "type": "TWR",
+            "description": "",
+            "frequency_mhz": "372.22"
+        }
+    ],
     "country": {
         "id": "302688",
         "code": "GB",

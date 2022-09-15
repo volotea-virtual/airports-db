@@ -85,6 +85,32 @@
             "he_displaced_threshold_ft": "590"
         }
     ],
+    "freqs": [
+        {
+            "id": "65336",
+            "airport_ref": "20322",
+            "airport_ident": "KLBT",
+            "type": "A/D",
+            "description": "FAYETTEVILLE APP/DEP",
+            "frequency_mhz": "133"
+        },
+        {
+            "id": "65337",
+            "airport_ref": "20322",
+            "airport_ident": "KLBT",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "134.775"
+        },
+        {
+            "id": "65338",
+            "airport_ref": "20322",
+            "airport_ident": "KLBT",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

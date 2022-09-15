@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56657",
+            "airport_ref": "26371",
+            "airport_ident": "USCM",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.8"
+        }
+    ],
     "country": {
         "id": "302714",
         "code": "RU",

@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51303",
+            "airport_ref": "6012",
+            "airport_ident": "SCDA",
+            "type": "APP",
+            "description": "IQUIQUE APP",
+            "frequency_mhz": "122.7"
+        },
+        {
+            "id": "51304",
+            "airport_ref": "6012",
+            "airport_ident": "SCDA",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "51305",
+            "airport_ref": "6012",
+            "airport_ident": "SCDA",
+            "type": "RDO",
+            "description": "IQUIQUE RDO",
+            "frequency_mhz": "127.3"
+        },
+        {
+            "id": "51306",
+            "airport_ref": "6012",
+            "airport_ident": "SCDA",
+            "type": "TWR",
+            "description": "IQUIQUE TWR",
+            "frequency_mhz": "118.9"
+        }
+    ],
     "country": {
         "id": "302792",
         "code": "CL",

@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "48437",
+            "airport_ref": "5775",
+            "airport_ident": "SADF",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.65"
+        },
+        {
+            "id": "48438",
+            "airport_ref": "5775",
+            "airport_ident": "SADF",
+            "type": "TWR",
+            "description": "FERNANDO TWR",
+            "frequency_mhz": "120.7"
+        }
+    ],
     "country": {
         "id": "302789",
         "code": "AR",

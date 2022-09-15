@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "298310",
+            "airport_ref": "27413",
+            "airport_ident": "YBRS",
+            "type": "Avalon Approach",
+            "description": "Avalon Approach",
+            "frequency_mhz": "133.75"
+        },
+        {
+            "id": "298308",
+            "airport_ref": "27413",
+            "airport_ident": "YBRS",
+            "type": "CTAF",
+            "description": "Barwon Heads Traffic",
+            "frequency_mhz": "119"
+        },
+        {
+            "id": "298309",
+            "airport_ref": "27413",
+            "airport_ident": "YBRS",
+            "type": "Melbourne Centre",
+            "description": "Melbourne Centre",
+            "frequency_mhz": "120"
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",

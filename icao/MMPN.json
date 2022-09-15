@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "55494",
+            "airport_ref": "4742",
+            "airport_ident": "MMPN",
+            "type": "TWR",
+            "description": "URUAPAN TWR",
+            "frequency_mhz": "118.2"
+        }
+    ],
     "country": {
         "id": "302747",
         "code": "MX",

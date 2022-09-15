@@ -63,6 +63,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56348",
+            "airport_ref": "67",
+            "airport_ident": "AYPY",
+            "type": "APP",
+            "description": "JACKSONS APP",
+            "frequency_mhz": "125.8"
+        },
+        {
+            "id": "56349",
+            "airport_ref": "67",
+            "airport_ident": "AYPY",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "117"
+        },
+        {
+            "id": "56350",
+            "airport_ref": "67",
+            "airport_ident": "AYPY",
+            "type": "GND",
+            "description": "JACKSONS GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "56351",
+            "airport_ref": "67",
+            "airport_ident": "AYPY",
+            "type": "TWR",
+            "description": "JACKSONS TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
     "country": {
         "id": "302778",
         "code": "PG",

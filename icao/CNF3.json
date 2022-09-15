@@ -85,6 +85,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "75173",
+            "airport_ref": "1303",
+            "airport_ident": "CNF3",
+            "type": "ATF",
+            "description": "",
+            "frequency_mhz": "123.3"
+        },
+        {
+            "id": "75174",
+            "airport_ref": "1303",
+            "airport_ident": "CNF3",
+            "type": "UNICOM",
+            "description": "Pendleton Unicom, Saturday and Sunday only",
+            "frequency_mhz": "123.3"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

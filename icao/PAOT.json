@@ -63,6 +63,64 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "66462",
+            "airport_ref": "5395",
+            "airport_ident": "PAOT",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "135.45"
+        },
+        {
+            "id": "66463",
+            "airport_ref": "5395",
+            "airport_ident": "PAOT",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "135.45"
+        },
+        {
+            "id": "66464",
+            "airport_ref": "5395",
+            "airport_ident": "PAOT",
+            "type": "CNTR",
+            "description": "ANCHORAGE CNTR",
+            "frequency_mhz": "119.2"
+        },
+        {
+            "id": "66465",
+            "airport_ref": "5395",
+            "airport_ident": "PAOT",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "123.6"
+        },
+        {
+            "id": "66466",
+            "airport_ref": "5395",
+            "airport_ident": "PAOT",
+            "type": "FSS",
+            "description": "KOTZEBUE RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "66467",
+            "airport_ref": "5395",
+            "airport_ident": "PAOT",
+            "type": "MISC",
+            "description": "TWEB",
+            "frequency_mhz": "115.7"
+        },
+        {
+            "id": "66468",
+            "airport_ref": "5395",
+            "airport_ident": "PAOT",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

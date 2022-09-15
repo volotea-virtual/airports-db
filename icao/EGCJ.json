@@ -107,6 +107,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "71981",
+            "airport_ref": "29116",
+            "airport_ident": "EGCJ",
+            "type": "A/G",
+            "description": "Sherburn in Elmet A/G",
+            "frequency_mhz": "126.6"
+        },
+        {
+            "id": "71982",
+            "airport_ref": "29116",
+            "airport_ident": "EGCJ",
+            "type": "RAD/APP",
+            "description": "Sherburn in Elmet RAD/APP",
+            "frequency_mhz": "126.5"
+        }
+    ],
     "country": {
         "id": "302688",
         "code": "GB",

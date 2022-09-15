@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "331219",
+            "airport_ref": "308197",
+            "airport_ident": "DE-0047",
+            "type": "INFO",
+            "description": "WAECHTERSBERG INFO",
+            "frequency_mhz": "119.415"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

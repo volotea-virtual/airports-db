@@ -2,21 +2,21 @@
     "id": "3114",
     "ident": "GMMW",
     "type": "medium_airport",
-    "name": "Nador International Airport",
-    "latitude_deg": "34.988800048799995",
-    "longitude_deg": "-3.0282099247",
+    "name": "Nador Al Aaroui International Airport",
+    "latitude_deg": "34.9888",
+    "longitude_deg": "-3.02821",
     "elevation_ft": "574",
     "continent": "AF",
     "iso_country": "MA",
     "iso_region": "MA-NAD",
-    "municipality": "Nador",
+    "municipality": "Al Aaroui",
     "scheduled_service": "yes",
     "gps_code": "GMMW",
     "iata_code": "NDR",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Nador_International_Airport",
-    "keywords": "Al Aroui International Airport",
+    "keywords": "Al Aroui International Airport, Arwi",
     "runways": [
         {
             "id": "237590",
@@ -39,6 +39,24 @@
             "he_elevation_ft": "570",
             "he_heading_degT": "258",
             "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "55317",
+            "airport_ref": "3114",
+            "airport_ident": "GMMW",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.65"
+        },
+        {
+            "id": "331414",
+            "airport_ref": "3114",
+            "airport_ident": "GMMW",
+            "type": "TWR GRND",
+            "description": "Nador traffic",
+            "frequency_mhz": "126.55"
         }
     ],
     "country": {

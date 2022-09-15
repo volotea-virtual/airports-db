@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "60112",
+            "airport_ref": "20691",
+            "airport_ident": "KO47",
+            "type": "A/D",
+            "description": "FORT WORTH APP/DEP",
+            "frequency_mhz": "132.2"
+        },
+        {
+            "id": "60113",
+            "airport_ref": "20691",
+            "airport_ident": "KO47",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -85,6 +85,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "70478",
+            "airport_ref": "7838",
+            "airport_ident": "13NC",
+            "type": "APP",
+            "description": "CHERRY POINT APP",
+            "frequency_mhz": "119.35"
+        },
+        {
+            "id": "333203",
+            "airport_ref": "7838",
+            "airport_ident": "13NC",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "322.1"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

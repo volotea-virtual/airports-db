@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53576",
+            "airport_ref": "128",
+            "airport_ident": "BIVM",
+            "type": "ACC",
+            "description": "REYKJAVIK ACC",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "53577",
+            "airport_ref": "128",
+            "airport_ident": "BIVM",
+            "type": "DEP",
+            "description": "REYKJAVIK DEP",
+            "frequency_mhz": "119"
+        },
+        {
+            "id": "53578",
+            "airport_ref": "128",
+            "airport_ident": "BIVM",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.5"
+        }
+    ],
     "country": {
         "id": "302696",
         "code": "IS",

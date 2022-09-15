@@ -85,6 +85,72 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "63476",
+            "airport_ref": "3558",
+            "airport_ident": "KGLS",
+            "type": "A/D",
+            "description": "HOUSTON APP/DEP",
+            "frequency_mhz": "134.45"
+        },
+        {
+            "id": "63477",
+            "airport_ref": "3558",
+            "airport_ident": "KGLS",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "119.275"
+        },
+        {
+            "id": "63478",
+            "airport_ref": "3558",
+            "airport_ident": "KGLS",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "135.35"
+        },
+        {
+            "id": "63479",
+            "airport_ref": "3558",
+            "airport_ident": "KGLS",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "120.575"
+        },
+        {
+            "id": "63480",
+            "airport_ref": "3558",
+            "airport_ident": "KGLS",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "118.625"
+        },
+        {
+            "id": "63481",
+            "airport_ref": "3558",
+            "airport_ident": "KGLS",
+            "type": "RDO",
+            "description": "MONTGOMERY CO RDO",
+            "frequency_mhz": "122.15"
+        },
+        {
+            "id": "63482",
+            "airport_ref": "3558",
+            "airport_ident": "KGLS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.575"
+        },
+        {
+            "id": "63483",
+            "airport_ref": "3558",
+            "airport_ident": "KGLS",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "123.05"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "50569",
+            "airport_ref": "1769",
+            "airport_ident": "CYHY",
+            "type": "A/D",
+            "description": "YELLOWKNIFE RDO",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "50570",
+            "airport_ref": "1769",
+            "airport_ident": "CYHY",
+            "type": "CNTR",
+            "description": "EDMONTON CNTR",
+            "frequency_mhz": "133.85"
+        },
+        {
+            "id": "50571",
+            "airport_ref": "1769",
+            "airport_ident": "CYHY",
+            "type": "UNIC",
+            "description": "MANDATORY FREQ",
+            "frequency_mhz": "122.3"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

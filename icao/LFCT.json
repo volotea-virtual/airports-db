@@ -63,6 +63,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "333346",
+            "airport_ref": "28798",
+            "airport_ident": "LFCT",
+            "type": "A/A",
+            "description": "",
+            "frequency_mhz": "123.35"
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

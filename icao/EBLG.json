@@ -63,6 +63,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "49322",
+            "airport_ref": "2162",
+            "airport_ident": "EBLG",
+            "type": "A/D",
+            "description": "APP",
+            "frequency_mhz": "119.28"
+        },
+        {
+            "id": "49323",
+            "airport_ref": "2162",
+            "airport_ident": "EBLG",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.255"
+        },
+        {
+            "id": "49324",
+            "airport_ref": "2162",
+            "airport_ident": "EBLG",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "49325",
+            "airport_ref": "2162",
+            "airport_ident": "EBLG",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "118.13"
+        },
+        {
+            "id": "49326",
+            "airport_ref": "2162",
+            "airport_ident": "EBLG",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "129.25"
+        }
+    ],
     "country": {
         "id": "302676",
         "code": "BE",

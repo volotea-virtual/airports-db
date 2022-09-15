@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56997",
+            "airport_ref": "5109",
+            "airport_ident": "OEPS",
+            "type": "APP",
+            "description": "SULTAN APP",
+            "frequency_mhz": "123.425"
+        },
+        {
+            "id": "56998",
+            "airport_ref": "5109",
+            "airport_ident": "OEPS",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "136.975"
+        },
+        {
+            "id": "56999",
+            "airport_ref": "5109",
+            "airport_ident": "OEPS",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "119.9"
+        },
+        {
+            "id": "57000",
+            "airport_ref": "5109",
+            "airport_ident": "OEPS",
+            "type": "POST",
+            "description": "AMC COMD POST",
+            "frequency_mhz": "127.9"
+        },
+        {
+            "id": "57001",
+            "airport_ref": "5109",
+            "airport_ident": "OEPS",
+            "type": "TWR",
+            "description": "SULTAN TWR",
+            "frequency_mhz": "126.8"
+        }
+    ],
     "country": {
         "id": "302660",
         "code": "SA",

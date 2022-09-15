@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "319215",
+            "airport_ref": "319213",
+            "airport_ident": "IT-0255",
+            "type": "Info",
+            "description": "Molinella",
+            "frequency_mhz": "126.95"
+        }
+    ],
     "country": {
         "id": "302697",
         "code": "IT",

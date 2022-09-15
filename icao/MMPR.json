@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "55537",
+            "airport_ref": "4745",
+            "airport_ident": "MMPR",
+            "type": "APP",
+            "description": "VALLARTA APP",
+            "frequency_mhz": "121.3"
+        },
+        {
+            "id": "55538",
+            "airport_ref": "4745",
+            "airport_ident": "MMPR",
+            "type": "ATIS",
+            "description": "VALLARTA ATIS",
+            "frequency_mhz": "127.5"
+        },
+        {
+            "id": "55539",
+            "airport_ref": "4745",
+            "airport_ident": "MMPR",
+            "type": "TWR",
+            "description": "VALLARTA TWR",
+            "frequency_mhz": "118.5"
+        }
+    ],
     "country": {
         "id": "302747",
         "code": "MX",

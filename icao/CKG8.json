@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "300273",
+            "airport_ref": "1184",
+            "airport_ident": "CKG8",
+            "type": "ATF",
+            "description": "Kakabeka Traffic",
+            "frequency_mhz": "123"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

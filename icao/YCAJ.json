@@ -17,6 +17,32 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "72434",
+            "airport_ref": "38274",
+            "airport_ident": "YCAJ",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "72436",
+            "airport_ref": "38274",
+            "airport_ident": "YCAJ",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "120"
+        },
+        {
+            "id": "72435",
+            "airport_ref": "38274",
+            "airport_ident": "YCAJ",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "125.1"
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",

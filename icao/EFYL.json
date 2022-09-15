@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52049",
+            "airport_ref": "2353",
+            "airport_ident": "EFYL",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.5"
+        }
+    ],
     "country": {
         "id": "302685",
         "code": "FI",

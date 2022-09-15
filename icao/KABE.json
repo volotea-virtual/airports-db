@@ -63,6 +63,64 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "60281",
+            "airport_ref": "3356",
+            "airport_ident": "KABE",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "118.2"
+        },
+        {
+            "id": "60282",
+            "airport_ref": "3356",
+            "airport_ident": "KABE",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.975"
+        },
+        {
+            "id": "60283",
+            "airport_ref": "3356",
+            "airport_ident": "KABE",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "124.05"
+        },
+        {
+            "id": "60284",
+            "airport_ref": "3356",
+            "airport_ident": "KABE",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "60285",
+            "airport_ref": "3356",
+            "airport_ident": "KABE",
+            "type": "RDO",
+            "description": "WILLIAMSPORT RDO",
+            "frequency_mhz": "117.5"
+        },
+        {
+            "id": "60286",
+            "airport_ref": "3356",
+            "airport_ident": "KABE",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.5"
+        },
+        {
+            "id": "60287",
+            "airport_ref": "3356",
+            "airport_ident": "KABE",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

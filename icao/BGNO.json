@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "322985",
+            "airport_ref": "44072",
+            "airport_ident": "BGNO",
+            "type": "ATS",
+            "description": "Station Nord",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "322986",
+            "airport_ref": "44072",
+            "airport_ident": "BGNO",
+            "type": "ATS",
+            "description": "Station Nord",
+            "frequency_mhz": "267.3"
+        }
+    ],
     "country": {
         "id": "302736",
         "code": "GL",

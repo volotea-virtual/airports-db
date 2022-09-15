@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57503",
+            "airport_ref": "2680",
+            "airport_ident": "ESNL",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "122.225"
+        }
+    ],
     "country": {
         "id": "302715",
         "code": "SE",

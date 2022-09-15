@@ -63,6 +63,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "62101",
+            "airport_ref": "3612",
+            "airport_ident": "KINL",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "120"
+        },
+        {
+            "id": "62102",
+            "airport_ref": "3612",
+            "airport_ident": "KINL",
+            "type": "CNTR",
+            "description": "MINNEAPOLIS CNTR",
+            "frequency_mhz": "120.9"
+        },
+        {
+            "id": "62103",
+            "airport_ref": "3612",
+            "airport_ident": "KINL",
+            "type": "RDO",
+            "description": "PRINCETON RDO",
+            "frequency_mhz": "123.6"
+        },
+        {
+            "id": "62104",
+            "airport_ref": "3612",
+            "airport_ident": "KINL",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

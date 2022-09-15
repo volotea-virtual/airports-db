@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "49457",
+            "airport_ref": "6183",
+            "airport_ident": "SLET",
+            "type": "APP",
+            "description": "VIRU VIRU APP",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "49458",
+            "airport_ref": "6183",
+            "airport_ident": "SLET",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "49459",
+            "airport_ref": "6183",
+            "airport_ident": "SLET",
+            "type": "RDO",
+            "description": "SANTA CRUZ RDO",
+            "frequency_mhz": "127.1"
+        },
+        {
+            "id": "49460",
+            "airport_ref": "6183",
+            "airport_ident": "SLET",
+            "type": "TWR",
+            "description": "TROMPILLO TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302790",
         "code": "BO",

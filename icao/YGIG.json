@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "49112",
+            "airport_ref": "26993",
+            "airport_ident": "YGIG",
+            "type": "APP",
+            "description": "PEARCE APP",
+            "frequency_mhz": "130.2"
+        },
+        {
+            "id": "49113",
+            "airport_ref": "26993",
+            "airport_ident": "YGIG",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.5"
+        },
+        {
+            "id": "49114",
+            "airport_ref": "26993",
+            "airport_ident": "YGIG",
+            "type": "FSS",
+            "description": "PERTH RADAR",
+            "frequency_mhz": "135.25"
+        },
+        {
+            "id": "49115",
+            "airport_ref": "26993",
+            "airport_ident": "YGIG",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "26.7"
+        },
+        {
+            "id": "49116",
+            "airport_ref": "26993",
+            "airport_ident": "YGIG",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.5"
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",

@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "71249",
+            "airport_ref": "21169",
+            "airport_ident": "KT85",
+            "type": "CNTR",
+            "description": "HOUSTON CNTR",
+            "frequency_mhz": "132.8"
+        },
+        {
+            "id": "71250",
+            "airport_ref": "21169",
+            "airport_ident": "KT85",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

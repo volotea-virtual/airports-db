@@ -63,6 +63,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "71930",
+            "airport_ref": "29117",
+            "airport_ident": "EGCL",
+            "type": "A/G",
+            "description": "Fenland Radio",
+            "frequency_mhz": "122.93"
+        }
+    ],
     "country": {
         "id": "302688",
         "code": "GB",

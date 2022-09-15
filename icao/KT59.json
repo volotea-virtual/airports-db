@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": "57"
         }
     ],
+    "freqs": [
+        {
+            "id": "67866",
+            "airport_ref": "21159",
+            "airport_ident": "KT59",
+            "type": "CNTR",
+            "description": "ALBUQUERQUE CNTR",
+            "frequency_mhz": "127.85"
+        },
+        {
+            "id": "67867",
+            "airport_ref": "21159",
+            "airport_ident": "KT59",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

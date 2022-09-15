@@ -63,6 +63,72 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "70172",
+            "airport_ref": "3505",
+            "airport_ident": "KEGE",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "135.575"
+        },
+        {
+            "id": "70173",
+            "airport_ref": "3505",
+            "airport_ident": "KEGE",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "135.575"
+        },
+        {
+            "id": "70174",
+            "airport_ref": "3505",
+            "airport_ident": "KEGE",
+            "type": "CNTR",
+            "description": "DENVER CNTR",
+            "frequency_mhz": "128.65"
+        },
+        {
+            "id": "70175",
+            "airport_ref": "3505",
+            "airport_ident": "KEGE",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "119.8"
+        },
+        {
+            "id": "70176",
+            "airport_ref": "3505",
+            "airport_ident": "KEGE",
+            "type": "GCCD",
+            "description": "GND/CLNC DEL",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "70177",
+            "airport_ref": "3505",
+            "airport_ident": "KEGE",
+            "type": "MISC",
+            "description": "EAGLES NEST",
+            "frequency_mhz": "41.75"
+        },
+        {
+            "id": "70178",
+            "airport_ref": "3505",
+            "airport_ident": "KEGE",
+            "type": "RDO",
+            "description": "DENVER RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "70179",
+            "airport_ref": "3505",
+            "airport_ident": "KEGE",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

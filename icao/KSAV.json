@@ -63,6 +63,96 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "64181",
+            "airport_ref": "3864",
+            "airport_ident": "KSAV",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "118.4"
+        },
+        {
+            "id": "64182",
+            "airport_ref": "3864",
+            "airport_ident": "KSAV",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "123.75"
+        },
+        {
+            "id": "64183",
+            "airport_ref": "3864",
+            "airport_ident": "KSAV",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "119.55"
+        },
+        {
+            "id": "64184",
+            "airport_ref": "3864",
+            "airport_ident": "KSAV",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "64185",
+            "airport_ref": "3864",
+            "airport_ident": "KSAV",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "64186",
+            "airport_ref": "3864",
+            "airport_ident": "KSAV",
+            "type": "MISC",
+            "description": "ANDERSON RDO",
+            "frequency_mhz": "112.7"
+        },
+        {
+            "id": "64187",
+            "airport_ref": "3864",
+            "airport_ident": "KSAV",
+            "type": "OPS",
+            "description": "CRTC OPS",
+            "frequency_mhz": "23.7"
+        },
+        {
+            "id": "64188",
+            "airport_ref": "3864",
+            "airport_ident": "KSAV",
+            "type": "POST",
+            "description": "165 AW COMD POST",
+            "frequency_mhz": "22.575"
+        },
+        {
+            "id": "64189",
+            "airport_ref": "3864",
+            "airport_ident": "KSAV",
+            "type": "RDO",
+            "description": "MACON RDO",
+            "frequency_mhz": "123.65"
+        },
+        {
+            "id": "64190",
+            "airport_ref": "3864",
+            "airport_ident": "KSAV",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "64191",
+            "airport_ref": "3864",
+            "airport_ident": "KSAV",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

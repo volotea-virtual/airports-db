@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52342",
+            "airport_ref": "4110",
+            "airport_ident": "LFHO",
+            "type": "A/A",
+            "description": "réservé aux AFCT munis de radio",
+            "frequency_mhz": "119.85"
+        },
+        {
+            "id": "301598",
+            "airport_ref": "4110",
+            "airport_ident": "LFHO",
+            "type": "Orange French AF",
+            "description": "zone R 55",
+            "frequency_mhz": "118.92"
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "323052",
+            "airport_ref": "32428",
+            "airport_ident": "FOOT",
+            "type": "INFO",
+            "description": "",
+            "frequency_mhz": "124.9"
+        }
+    ],
     "country": {
         "id": "302573",
         "code": "GA",

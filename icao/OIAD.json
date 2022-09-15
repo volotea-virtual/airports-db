@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": "950"
         }
     ],
+    "freqs": [
+        {
+            "id": "54054",
+            "airport_ref": "5131",
+            "airport_ident": "OIAD",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "34.4"
+        },
+        {
+            "id": "54053",
+            "airport_ref": "5131",
+            "airport_ident": "OIAD",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "123.6"
+        },
+        {
+            "id": "54055",
+            "airport_ref": "5131",
+            "airport_ident": "OIAD",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.3"
+        }
+    ],
     "country": {
         "id": "302637",
         "code": "IR",

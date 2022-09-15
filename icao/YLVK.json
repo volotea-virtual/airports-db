@@ -17,6 +17,40 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "73670",
+            "airport_ref": "27744",
+            "airport_ident": "YLVK",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "128.85"
+        },
+        {
+            "id": "73671",
+            "airport_ref": "27744",
+            "airport_ident": "YLVK",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "112.6"
+        },
+        {
+            "id": "73672",
+            "airport_ref": "27744",
+            "airport_ident": "YLVK",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "120.6"
+        },
+        {
+            "id": "73673",
+            "airport_ref": "27744",
+            "airport_ident": "YLVK",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "126.5"
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",

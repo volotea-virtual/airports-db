@@ -63,6 +63,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "308977",
+            "airport_ref": "2807",
+            "airport_ident": "FAMB",
+            "type": "Radio",
+            "description": "Middelburg Radio",
+            "frequency_mhz": "127.95"
+        }
+    ],
     "country": {
         "id": "302610",
         "code": "ZA",

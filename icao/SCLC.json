@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "324010",
+            "airport_ref": "30379",
+            "airport_ident": "SCLC",
+            "type": "TIBA",
+            "description": "",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302792",
         "code": "CL",

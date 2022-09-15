@@ -85,6 +85,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "54021",
+            "airport_ref": "5162",
+            "airport_ident": "OIHS",
+            "type": "APP",
+            "description": "NOGEH APP",
+            "frequency_mhz": "36.11"
+        },
+        {
+            "id": "54020",
+            "airport_ref": "5162",
+            "airport_ident": "OIHS",
+            "type": "APP",
+            "description": "NOGEH APP",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "54022",
+            "airport_ref": "5162",
+            "airport_ident": "OIHS",
+            "type": "TWR",
+            "description": "NOGEH TWR",
+            "frequency_mhz": "123.3"
+        }
+    ],
     "country": {
         "id": "302637",
         "code": "IR",

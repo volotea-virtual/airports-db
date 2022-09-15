@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56559",
+            "airport_ref": "6378",
+            "airport_ident": "TJAB",
+            "type": "FSS",
+            "description": "SAN JUAN RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "56560",
+            "airport_ref": "6378",
+            "airport_ident": "TJAB",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302751",
         "code": "PR",

@@ -63,6 +63,56 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "58570",
+            "airport_ref": "6467",
+            "airport_ident": "UKBB",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "58571",
+            "airport_ref": "6467",
+            "airport_ident": "UKBB",
+            "type": "CLD",
+            "description": "DLV",
+            "frequency_mhz": "130.275"
+        },
+        {
+            "id": "58572",
+            "airport_ref": "6467",
+            "airport_ident": "UKBB",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "118.05"
+        },
+        {
+            "id": "58573",
+            "airport_ref": "6467",
+            "airport_ident": "UKBB",
+            "type": "OPS",
+            "description": "OPS",
+            "frequency_mhz": "131.775"
+        },
+        {
+            "id": "58574",
+            "airport_ref": "6467",
+            "airport_ident": "UKBB",
+            "type": "RDR",
+            "description": "KYIV RADAR",
+            "frequency_mhz": "124.675"
+        },
+        {
+            "id": "58575",
+            "airport_ref": "6467",
+            "airport_ident": "UKBB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.65"
+        }
+    ],
     "country": {
         "id": "302719",
         "code": "UA",

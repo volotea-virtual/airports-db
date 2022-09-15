@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "63162",
+            "airport_ref": "5342",
+            "airport_ident": "PABR",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "132.15"
+        },
+        {
+            "id": "63163",
+            "airport_ref": "5342",
+            "airport_ident": "PABR",
+            "type": "CNTR",
+            "description": "ANCHORAGE CNTR",
+            "frequency_mhz": "135.3"
+        },
+        {
+            "id": "63164",
+            "airport_ref": "5342",
+            "airport_ident": "PABR",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "123.6"
+        },
+        {
+            "id": "63165",
+            "airport_ref": "5342",
+            "airport_ident": "PABR",
+            "type": "FSS",
+            "description": "BARROW RDO",
+            "frequency_mhz": "122.2"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

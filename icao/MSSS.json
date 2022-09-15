@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51979",
+            "airport_ref": "4821",
+            "airport_ident": "MSSS",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.5"
+        },
+        {
+            "id": "51980",
+            "airport_ref": "4821",
+            "airport_ident": "MSSS",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "51981",
+            "airport_ref": "4821",
+            "airport_ident": "MSSS",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "127.05"
+        },
+        {
+            "id": "51982",
+            "airport_ref": "4821",
+            "airport_ident": "MSSS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302752",
         "code": "SV",

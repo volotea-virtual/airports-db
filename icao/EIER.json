@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "313595",
+            "airport_ref": "43999",
+            "airport_ident": "EIER",
+            "type": "Radio",
+            "description": "",
+            "frequency_mhz": "118.175"
+        }
+    ],
     "country": {
         "id": "302694",
         "code": "IE",

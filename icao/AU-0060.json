@@ -17,6 +17,40 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "73827",
+            "airport_ref": "27779",
+            "airport_ident": "AU-0060",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.6"
+        },
+        {
+            "id": "73828",
+            "airport_ref": "27779",
+            "airport_ident": "AU-0060",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "113.7"
+        },
+        {
+            "id": "73829",
+            "airport_ref": "27779",
+            "airport_ident": "AU-0060",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "119.6"
+        },
+        {
+            "id": "73830",
+            "airport_ref": "27779",
+            "airport_ident": "AU-0060",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "122.1"
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",

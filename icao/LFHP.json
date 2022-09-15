@@ -63,6 +63,16 @@
             "he_displaced_threshold_ft": "509"
         }
     ],
+    "freqs": [
+        {
+            "id": "52317",
+            "airport_ref": "4111",
+            "airport_ident": "LFHP",
+            "type": "INFO",
+            "description": "LE PUY INFO",
+            "frequency_mhz": "118"
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

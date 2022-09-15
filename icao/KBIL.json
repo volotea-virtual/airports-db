@@ -85,6 +85,64 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "59418",
+            "airport_ref": "3408",
+            "airport_ident": "KBIL",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "119.2"
+        },
+        {
+            "id": "59419",
+            "airport_ref": "3408",
+            "airport_ident": "KBIL",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.3"
+        },
+        {
+            "id": "59420",
+            "airport_ref": "3408",
+            "airport_ident": "KBIL",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "59421",
+            "airport_ref": "3408",
+            "airport_ident": "KBIL",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "59422",
+            "airport_ref": "3408",
+            "airport_ident": "KBIL",
+            "type": "RDO",
+            "description": "GREAT FALLS RDO",
+            "frequency_mhz": "122.55"
+        },
+        {
+            "id": "59423",
+            "airport_ref": "3408",
+            "airport_ident": "KBIL",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "124.2"
+        },
+        {
+            "id": "59424",
+            "airport_ref": "3408",
+            "airport_ident": "KBIL",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

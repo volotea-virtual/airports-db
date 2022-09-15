@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57814",
+            "airport_ref": "26882",
+            "airport_ident": "WPEC",
+            "type": "CTAF",
+            "description": "E TIMOR COMMON HIGH",
+            "frequency_mhz": "123.45"
+        },
+        {
+            "id": "57815",
+            "airport_ref": "26882",
+            "airport_ident": "WPEC",
+            "type": "INFO",
+            "description": "E TIMOR COMMON LOW",
+            "frequency_mhz": "127.1"
+        }
+    ],
     "country": {
         "id": "302665",
         "code": "TL",

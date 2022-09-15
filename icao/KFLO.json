@@ -63,6 +63,64 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "71440",
+            "airport_ref": "3532",
+            "airport_ident": "KFLO",
+            "type": "APP",
+            "description": "APP DEP",
+            "frequency_mhz": "118.6"
+        },
+        {
+            "id": "71441",
+            "airport_ref": "3532",
+            "airport_ident": "KFLO",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "123.625"
+        },
+        {
+            "id": "71442",
+            "airport_ref": "3532",
+            "airport_ident": "KFLO",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "125.1"
+        },
+        {
+            "id": "71443",
+            "airport_ref": "3532",
+            "airport_ident": "KFLO",
+            "type": "GCCD",
+            "description": "GND/CLNC DEL",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "71444",
+            "airport_ref": "3532",
+            "airport_ident": "KFLO",
+            "type": "RDO",
+            "description": "ANDERSON RDO",
+            "frequency_mhz": "122.6"
+        },
+        {
+            "id": "71445",
+            "airport_ref": "3532",
+            "airport_ident": "KFLO",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "125.1"
+        },
+        {
+            "id": "71446",
+            "airport_ref": "3532",
+            "airport_ident": "KFLO",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

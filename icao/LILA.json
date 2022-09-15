@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "301870",
+            "airport_ref": "29425",
+            "airport_ident": "LILA",
+            "type": "CTAF",
+            "description": "Alessandria Radio",
+            "frequency_mhz": "126.9"
+        }
+    ],
     "country": {
         "id": "302697",
         "code": "IT",

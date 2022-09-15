@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "55692",
+            "airport_ref": "2126",
+            "airport_ident": "DRRT",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "118.1"
+        }
+    ],
     "country": {
         "id": "302592",
         "code": "NE",

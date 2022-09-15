@@ -17,6 +17,16 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "354710",
+            "airport_ref": "354709",
+            "airport_ident": "TH-0026",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "122.3"
+        }
+    ],
     "country": {
         "id": "302663",
         "code": "TH",

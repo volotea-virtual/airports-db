@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51621",
+            "airport_ref": "4832",
+            "airport_ident": "MUCF",
+            "type": "A/G",
+            "description": "CIENFUEGOS RDO",
+            "frequency_mhz": "340.7"
+        },
+        {
+            "id": "51622",
+            "airport_ref": "4832",
+            "airport_ident": "MUCF",
+            "type": "TWR",
+            "description": "CIENFUEGOS TWR",
+            "frequency_mhz": "118.9"
+        }
+    ],
     "country": {
         "id": "302732",
         "code": "CU",

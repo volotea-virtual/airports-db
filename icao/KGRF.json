@@ -41,6 +41,88 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "61911",
+            "airport_ref": "3563",
+            "airport_ident": "KGRF",
+            "type": "A/D",
+            "description": "SEATTLE APP/DEP",
+            "frequency_mhz": "120.1"
+        },
+        {
+            "id": "61912",
+            "airport_ref": "3563",
+            "airport_ident": "KGRF",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "124.65"
+        },
+        {
+            "id": "61913",
+            "airport_ref": "3563",
+            "airport_ident": "KGRF",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "119.325"
+        },
+        {
+            "id": "61914",
+            "airport_ref": "3563",
+            "airport_ident": "KGRF",
+            "type": "GND",
+            "description": "GND/CLNC DEL",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "61915",
+            "airport_ref": "3563",
+            "airport_ident": "KGRF",
+            "type": "INFO",
+            "description": "AR OPS",
+            "frequency_mhz": "36.1"
+        },
+        {
+            "id": "61916",
+            "airport_ref": "3563",
+            "airport_ident": "KGRF",
+            "type": "MISC",
+            "description": "ARNG OPS",
+            "frequency_mhz": "36.55"
+        },
+        {
+            "id": "61917",
+            "airport_ref": "3563",
+            "airport_ident": "KGRF",
+            "type": "OPS",
+            "description": "OPS",
+            "frequency_mhz": "32.3"
+        },
+        {
+            "id": "61918",
+            "airport_ref": "3563",
+            "airport_ident": "KGRF",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "134.1"
+        },
+        {
+            "id": "61919",
+            "airport_ref": "3563",
+            "airport_ident": "KGRF",
+            "type": "RDO",
+            "description": "BULLSEYE RDO",
+            "frequency_mhz": "36.7"
+        },
+        {
+            "id": "61920",
+            "airport_ref": "3563",
+            "airport_ident": "KGRF",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.325"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

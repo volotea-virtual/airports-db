@@ -107,6 +107,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "60586",
+            "airport_ref": "19664",
+            "airport_ident": "KDUG",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "119.275"
+        },
+        {
+            "id": "60587",
+            "airport_ref": "19664",
+            "airport_ident": "KDUG",
+            "type": "RDO",
+            "description": "PRESCOTT RDO",
+            "frequency_mhz": "122.4"
+        },
+        {
+            "id": "60588",
+            "airport_ref": "19664",
+            "airport_ident": "KDUG",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

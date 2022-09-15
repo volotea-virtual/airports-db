@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "72973",
+            "airport_ref": "38353",
+            "airport_ident": "YFLO",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "125.9"
+        },
+        {
+            "id": "72974",
+            "airport_ref": "38353",
+            "airport_ident": "YFLO",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "124.8"
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",

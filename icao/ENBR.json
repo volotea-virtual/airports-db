@@ -41,6 +41,56 @@
             "he_displaced_threshold_ft": "889"
         }
     ],
+    "freqs": [
+        {
+            "id": "55860",
+            "airport_ref": "2570",
+            "airport_ident": "ENBR",
+            "type": "APP",
+            "description": "RADAR",
+            "frequency_mhz": "121"
+        },
+        {
+            "id": "55861",
+            "airport_ref": "2570",
+            "airport_ident": "ENBR",
+            "type": "ARR",
+            "description": "ARR",
+            "frequency_mhz": "125"
+        },
+        {
+            "id": "55862",
+            "airport_ref": "2570",
+            "airport_ident": "ENBR",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "125.25"
+        },
+        {
+            "id": "55863",
+            "airport_ref": "2570",
+            "airport_ident": "ENBR",
+            "type": "DIR",
+            "description": "DIRECTOR",
+            "frequency_mhz": "118.85"
+        },
+        {
+            "id": "55864",
+            "airport_ref": "2570",
+            "airport_ident": "ENBR",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "55865",
+            "airport_ref": "2570",
+            "airport_ident": "ENBR",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.1"
+        }
+    ],
     "country": {
         "id": "302709",
         "code": "NO",

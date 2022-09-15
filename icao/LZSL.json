@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "55192",
+            "airport_ref": "4621",
+            "airport_ident": "LZSL",
+            "type": "APP",
+            "description": "SLIAČ APPROACH",
+            "frequency_mhz": "119.15"
+        },
+        {
+            "id": "55193",
+            "airport_ref": "4621",
+            "airport_ident": "LZSL",
+            "type": "TWR",
+            "description": "SLIAČ TOWER",
+            "frequency_mhz": "122.9"
+        }
+    ],
     "country": {
         "id": "302717",
         "code": "SK",

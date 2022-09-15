@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "49868",
+            "airport_ref": "26819",
+            "airport_ident": "WBSB",
+            "type": "APP",
+            "description": "RADAR",
+            "frequency_mhz": "121.3"
+        },
+        {
+            "id": "49869",
+            "airport_ref": "26819",
+            "airport_ident": "WBSB",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.8"
+        },
+        {
+            "id": "49870",
+            "airport_ref": "26819",
+            "airport_ident": "WBSB",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "49871",
+            "airport_ref": "26819",
+            "airport_ident": "WBSB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
     "country": {
         "id": "302624",
         "code": "BN",

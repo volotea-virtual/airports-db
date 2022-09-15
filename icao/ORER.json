@@ -107,6 +107,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "54411",
+            "airport_ref": "5292",
+            "airport_ident": "ORER",
+            "type": "ACC",
+            "description": "KIRKUK ACC",
+            "frequency_mhz": "125.3"
+        },
+        {
+            "id": "54412",
+            "airport_ref": "5292",
+            "airport_ident": "ORER",
+            "type": "APP",
+            "description": "KIRKUK",
+            "frequency_mhz": "129.75"
+        },
+        {
+            "id": "54413",
+            "airport_ref": "5292",
+            "airport_ident": "ORER",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "128.8"
+        }
+    ],
     "country": {
         "id": "302636",
         "code": "IQ",

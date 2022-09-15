@@ -85,6 +85,64 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "71461",
+            "airport_ref": "3571",
+            "airport_ident": "KGTF",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "128.6"
+        },
+        {
+            "id": "71462",
+            "airport_ref": "3571",
+            "airport_ident": "KGTF",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.6"
+        },
+        {
+            "id": "71463",
+            "airport_ref": "3571",
+            "airport_ident": "KGTF",
+            "type": "GND",
+            "description": "GND/CLNC DEL",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "71464",
+            "airport_ref": "3571",
+            "airport_ident": "KGTF",
+            "type": "OPS",
+            "description": "ANG OPS MAINT",
+            "frequency_mhz": "28.89"
+        },
+        {
+            "id": "71465",
+            "airport_ref": "3571",
+            "airport_ident": "KGTF",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "122.6"
+        },
+        {
+            "id": "71466",
+            "airport_ref": "3571",
+            "airport_ident": "KGTF",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.7"
+        },
+        {
+            "id": "71467",
+            "airport_ref": "3571",
+            "airport_ident": "KGTF",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

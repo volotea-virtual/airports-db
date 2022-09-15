@@ -107,6 +107,72 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "60816",
+            "airport_ref": "3471",
+            "airport_ident": "KCVG",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "60817",
+            "airport_ref": "3471",
+            "airport_ident": "KCVG",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "134.375"
+        },
+        {
+            "id": "60818",
+            "airport_ref": "3471",
+            "airport_ident": "KCVG",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "127.175"
+        },
+        {
+            "id": "60819",
+            "airport_ref": "3471",
+            "airport_ident": "KCVG",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "126.65"
+        },
+        {
+            "id": "60820",
+            "airport_ref": "3471",
+            "airport_ident": "KCVG",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.3"
+        },
+        {
+            "id": "60821",
+            "airport_ref": "3471",
+            "airport_ident": "KCVG",
+            "type": "RDO",
+            "description": "LOUISVILLE RDO",
+            "frequency_mhz": "117.3"
+        },
+        {
+            "id": "60822",
+            "airport_ref": "3471",
+            "airport_ident": "KCVG",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "60823",
+            "airport_ref": "3471",
+            "airport_ident": "KCVG",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

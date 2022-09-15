@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": "495"
         }
     ],
+    "freqs": [
+        {
+            "id": "52301",
+            "airport_ref": "4154",
+            "airport_ident": "LFMK",
+            "type": "APP",
+            "description": "TOULOUSE APP",
+            "frequency_mhz": "123.85"
+        },
+        {
+            "id": "52302",
+            "airport_ref": "4154",
+            "airport_ident": "LFMK",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "120.025"
+        },
+        {
+            "id": "52303",
+            "airport_ref": "4154",
+            "airport_ident": "LFMK",
+            "type": "TWR",
+            "description": "CARCASSONNE TWR",
+            "frequency_mhz": "121"
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

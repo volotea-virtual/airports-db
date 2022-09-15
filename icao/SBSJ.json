@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "49771",
+            "airport_ref": "5970",
+            "airport_ident": "SBSJ",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.25"
+        },
+        {
+            "id": "49772",
+            "airport_ref": "5970",
+            "airport_ident": "SBSJ",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "49773",
+            "airport_ref": "5970",
+            "airport_ident": "SBSJ",
+            "type": "OPS",
+            "description": "OPS",
+            "frequency_mhz": "122.5"
+        },
+        {
+            "id": "49774",
+            "airport_ref": "5970",
+            "airport_ident": "SBSJ",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.5"
+        }
+    ],
     "country": {
         "id": "302791",
         "code": "BR",

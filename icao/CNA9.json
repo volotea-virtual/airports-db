@@ -63,6 +63,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "75381",
+            "airport_ref": "1290",
+            "airport_ident": "CNA9",
+            "type": "TFC",
+            "description": "Tomvale Traffic",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

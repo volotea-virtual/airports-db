@@ -41,6 +41,80 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "65196",
+            "airport_ref": "3785",
+            "airport_ident": "KPOE",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "123.7"
+        },
+        {
+            "id": "65197",
+            "airport_ref": "3785",
+            "airport_ident": "KPOE",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "134.85"
+        },
+        {
+            "id": "65198",
+            "airport_ref": "3785",
+            "airport_ident": "KPOE",
+            "type": "FCC",
+            "description": "FLT FOLLOWING",
+            "frequency_mhz": "123.7"
+        },
+        {
+            "id": "65199",
+            "airport_ref": "3785",
+            "airport_ident": "KPOE",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "65200",
+            "airport_ref": "3785",
+            "airport_ident": "KPOE",
+            "type": "INFO",
+            "description": "RANGE CON",
+            "frequency_mhz": "40.95"
+        },
+        {
+            "id": "65201",
+            "airport_ref": "3785",
+            "airport_ident": "KPOE",
+            "type": "MISC",
+            "description": "MEDEVAC OPS",
+            "frequency_mhz": "42.5"
+        },
+        {
+            "id": "65202",
+            "airport_ref": "3785",
+            "airport_ident": "KPOE",
+            "type": "OPS",
+            "description": "POE OPS",
+            "frequency_mhz": "36.05"
+        },
+        {
+            "id": "65203",
+            "airport_ref": "3785",
+            "airport_ident": "KPOE",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "135"
+        },
+        {
+            "id": "65204",
+            "airport_ref": "3785",
+            "airport_ident": "KPOE",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "41.5"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

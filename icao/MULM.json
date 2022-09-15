@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51637",
+            "airport_ref": "4843",
+            "airport_ident": "MULM",
+            "type": "AFIS",
+            "description": "INFORMACION",
+            "frequency_mhz": "125"
+        }
+    ],
     "country": {
         "id": "302732",
         "code": "CU",

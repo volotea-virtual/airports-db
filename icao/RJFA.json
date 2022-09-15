@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "54650",
+            "airport_ref": "5561",
+            "airport_ident": "RJFA",
+            "type": "ACC",
+            "description": "FUKUOKA CON",
+            "frequency_mhz": "119.65"
+        },
+        {
+            "id": "54651",
+            "airport_ref": "5561",
+            "airport_ident": "RJFA",
+            "type": "GCA",
+            "description": "GCA",
+            "frequency_mhz": "134.1"
+        },
+        {
+            "id": "54652",
+            "airport_ref": "5561",
+            "airport_ident": "RJFA",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "27.58"
+        },
+        {
+            "id": "54653",
+            "airport_ref": "5561",
+            "airport_ident": "RJFA",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "126.2"
+        }
+    ],
     "country": {
         "id": "302639",
         "code": "JP",

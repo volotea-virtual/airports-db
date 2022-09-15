@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52956",
+            "airport_ref": "2268",
+            "airport_ident": "EDRY",
+            "type": "AFIS",
+            "description": "LANGEN INFORMATION",
+            "frequency_mhz": "128.95"
+        },
+        {
+            "id": "52957",
+            "airport_ref": "2268",
+            "airport_ident": "EDRY",
+            "type": "INFO",
+            "description": "SPEYER INFO",
+            "frequency_mhz": "118.08"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

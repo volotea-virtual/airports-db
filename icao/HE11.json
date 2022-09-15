@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51846",
+            "airport_ref": "2354",
+            "airport_ident": "HE11",
+            "type": "A/G",
+            "description": "ADVISORY",
+            "frequency_mhz": "131.97"
+        },
+        {
+            "id": "51847",
+            "airport_ref": "2354",
+            "airport_ident": "HE11",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "543"
+        }
+    ],
     "country": {
         "id": "302569",
         "code": "EG",

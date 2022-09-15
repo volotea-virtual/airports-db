@@ -85,6 +85,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52021",
+            "airport_ref": "4398",
+            "airport_ident": "LKKU",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "120.105"
+        },
+        {
+            "id": "52023",
+            "airport_ref": "4398",
+            "airport_ident": "LKKU",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.105"
+        }
+    ],
     "country": {
         "id": "302680",
         "code": "CZ",

@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "71597",
+            "airport_ref": "2088",
+            "airport_ident": "DFFD",
+            "type": "A/G",
+            "description": "AG VOICE OUAGA RDO",
+            "frequency_mhz": "120.3"
+        },
+        {
+            "id": "71598",
+            "airport_ref": "2088",
+            "airport_ident": "DFFD",
+            "type": "APP",
+            "description": "OUAGA APP",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "71599",
+            "airport_ref": "2088",
+            "airport_ident": "DFFD",
+            "type": "TWR",
+            "description": "OUAGA TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
     "country": {
         "id": "302557",
         "code": "BF",

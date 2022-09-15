@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "48370",
+            "airport_ref": "5786",
+            "airport_ident": "SAME",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "114.9"
+        },
+        {
+            "id": "48371",
+            "airport_ref": "5786",
+            "airport_ident": "SAME",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.95"
+        },
+        {
+            "id": "48372",
+            "airport_ref": "5786",
+            "airport_ident": "SAME",
+            "type": "TCA",
+            "description": "MENDOZA CON",
+            "frequency_mhz": "124.2"
+        },
+        {
+            "id": "48373",
+            "airport_ref": "5786",
+            "airport_ident": "SAME",
+            "type": "TWR",
+            "description": "MENDOZA APP/TWR",
+            "frequency_mhz": "119.9"
+        }
+    ],
     "country": {
         "id": "302789",
         "code": "AR",

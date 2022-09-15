@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52752",
+            "airport_ref": "2275",
+            "airport_ident": "EDTG",
+            "type": "AFIS",
+            "description": "LANGEN INFO",
+            "frequency_mhz": "128.95"
+        },
+        {
+            "id": "52753",
+            "airport_ref": "2275",
+            "airport_ident": "EDTG",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "122"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": "250"
         }
     ],
+    "freqs": [
+        {
+            "id": "63007",
+            "airport_ref": "20631",
+            "airport_ident": "KOQN",
+            "type": "A/D",
+            "description": "PHILADELPHIA APP/DEP",
+            "frequency_mhz": "124.35"
+        },
+        {
+            "id": "63008",
+            "airport_ref": "20631",
+            "airport_ident": "KOQN",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "125.6"
+        },
+        {
+            "id": "63009",
+            "airport_ref": "20631",
+            "airport_ident": "KOQN",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123.075"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

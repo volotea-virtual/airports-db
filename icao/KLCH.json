@@ -63,6 +63,72 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "61455",
+            "airport_ref": "3637",
+            "airport_ident": "KLCH",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "119.35"
+        },
+        {
+            "id": "61456",
+            "airport_ref": "3637",
+            "airport_ident": "KLCH",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "118.75"
+        },
+        {
+            "id": "61457",
+            "airport_ref": "3637",
+            "airport_ident": "KLCH",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "126.25"
+        },
+        {
+            "id": "61458",
+            "airport_ref": "3637",
+            "airport_ident": "KLCH",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "120.7"
+        },
+        {
+            "id": "61459",
+            "airport_ref": "3637",
+            "airport_ident": "KLCH",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "61460",
+            "airport_ref": "3637",
+            "airport_ident": "KLCH",
+            "type": "RDO",
+            "description": "DE RIDDER RDO",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "61461",
+            "airport_ref": "3637",
+            "airport_ident": "KLCH",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.7"
+        },
+        {
+            "id": "61462",
+            "airport_ref": "3637",
+            "airport_ident": "KLCH",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

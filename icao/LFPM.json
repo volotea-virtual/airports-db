@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": "279"
         }
     ],
+    "freqs": [
+        {
+            "id": "52582",
+            "airport_ref": "4187",
+            "airport_ident": "LFPM",
+            "type": "APP",
+            "description": "SEINE APP",
+            "frequency_mhz": "118.05"
+        },
+        {
+            "id": "52583",
+            "airport_ref": "4187",
+            "airport_ident": "LFPM",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.175"
+        },
+        {
+            "id": "52584",
+            "airport_ref": "4187",
+            "airport_ident": "LFPM",
+            "type": "TWR",
+            "description": "MELUN TWR",
+            "frequency_mhz": "121.1"
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

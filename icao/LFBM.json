@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": "364"
         }
     ],
+    "freqs": [
+        {
+            "id": "52569",
+            "airport_ref": "4068",
+            "airport_ident": "LFBM",
+            "type": "APP",
+            "description": "MARSAN APP",
+            "frequency_mhz": "142.45"
+        },
+        {
+            "id": "52570",
+            "airport_ref": "4068",
+            "airport_ident": "LFBM",
+            "type": "TWR",
+            "description": "MARSAN TWR",
+            "frequency_mhz": "142.75"
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

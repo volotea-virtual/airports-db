@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52560",
+            "airport_ref": "4223",
+            "airport_ident": "LFRU",
+            "type": "APP",
+            "description": "LANDI APP",
+            "frequency_mhz": "122.4"
+        },
+        {
+            "id": "52561",
+            "airport_ref": "4223",
+            "airport_ident": "LFRU",
+            "type": "APP",
+            "description": "IROISE APP",
+            "frequency_mhz": "135.825"
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

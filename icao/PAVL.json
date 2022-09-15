@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "58684",
+            "airport_ref": "5419",
+            "airport_ident": "PAVL",
+            "type": "A/D",
+            "description": "ANCHORAGE CNTR",
+            "frequency_mhz": "119.2"
+        },
+        {
+            "id": "58685",
+            "airport_ref": "5419",
+            "airport_ident": "PAVL",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "135.8"
+        },
+        {
+            "id": "58686",
+            "airport_ref": "5419",
+            "airport_ident": "PAVL",
+            "type": "CTAF",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        },
+        {
+            "id": "58687",
+            "airport_ref": "5419",
+            "airport_ident": "PAVL",
+            "type": "FSS",
+            "description": "KOTZEBUE RDO",
+            "frequency_mhz": "122.55"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

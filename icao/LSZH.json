@@ -85,6 +85,72 @@
             "he_displaced_threshold_ft": "1541"
         }
     ],
+    "freqs": [
+        {
+            "id": "57570",
+            "airport_ref": "4505",
+            "airport_ident": "LSZH",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "118"
+        },
+        {
+            "id": "57571",
+            "airport_ref": "4505",
+            "airport_ident": "LSZH",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "125.725"
+        },
+        {
+            "id": "57572",
+            "airport_ref": "4505",
+            "airport_ident": "LSZH",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "57573",
+            "airport_ref": "4505",
+            "airport_ident": "LSZH",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "125.95"
+        },
+        {
+            "id": "57574",
+            "airport_ref": "4505",
+            "airport_ident": "LSZH",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "57575",
+            "airport_ref": "4505",
+            "airport_ident": "LSZH",
+            "type": "RMP",
+            "description": "APRON",
+            "frequency_mhz": "121.75"
+        },
+        {
+            "id": "57576",
+            "airport_ref": "4505",
+            "airport_ident": "LSZH",
+            "type": "TCA",
+            "description": "TERMINAL",
+            "frequency_mhz": "127.75"
+        },
+        {
+            "id": "57577",
+            "airport_ref": "4505",
+            "airport_ident": "LSZH",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
     "country": {
         "id": "302679",
         "code": "CH",

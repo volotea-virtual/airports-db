@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "60828",
+            "airport_ref": "3534",
+            "airport_ident": "KFME",
+            "type": "A/D",
+            "description": "POTOMAC APP DEP",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "60829",
+            "airport_ref": "3534",
+            "airport_ident": "KFME",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "123.925"
+        },
+        {
+            "id": "60830",
+            "airport_ref": "3534",
+            "airport_ident": "KFME",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123.05"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

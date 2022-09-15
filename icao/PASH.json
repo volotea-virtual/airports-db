@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "60639",
+            "airport_ref": "5407",
+            "airport_ident": "PASH",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "121.1"
+        },
+        {
+            "id": "60640",
+            "airport_ref": "5407",
+            "airport_ident": "PASH",
+            "type": "CNTR",
+            "description": "ANCHORAGE CNTR",
+            "frequency_mhz": "119.2"
+        },
+        {
+            "id": "60641",
+            "airport_ref": "5407",
+            "airport_ident": "PASH",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "123"
+        },
+        {
+            "id": "60642",
+            "airport_ref": "5407",
+            "airport_ident": "PASH",
+            "type": "FSS",
+            "description": "NOME RDO",
+            "frequency_mhz": "122.4"
+        },
+        {
+            "id": "60643",
+            "airport_ref": "5407",
+            "airport_ident": "PASH",
+            "type": "MISC",
+            "description": "TWEB",
+            "frequency_mhz": "36.5"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

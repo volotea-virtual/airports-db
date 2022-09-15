@@ -63,6 +63,56 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57584",
+            "airport_ref": "4494",
+            "airport_ident": "LSMD",
+            "type": "ARR",
+            "description": "ARR",
+            "frequency_mhz": "37.68"
+        },
+        {
+            "id": "57583",
+            "airport_ref": "4494",
+            "airport_ident": "LSMD",
+            "type": "ARR",
+            "description": "ARR",
+            "frequency_mhz": "134.925"
+        },
+        {
+            "id": "57585",
+            "airport_ref": "4494",
+            "airport_ident": "LSMD",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "139.5"
+        },
+        {
+            "id": "57586",
+            "airport_ref": "4494",
+            "airport_ident": "LSMD",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "138.05"
+        },
+        {
+            "id": "57587",
+            "airport_ref": "4494",
+            "airport_ident": "LSMD",
+            "type": "RDR",
+            "description": "RADAR",
+            "frequency_mhz": "139.5"
+        },
+        {
+            "id": "57588",
+            "airport_ref": "4494",
+            "airport_ident": "LSMD",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "128.475"
+        }
+    ],
     "country": {
         "id": "302679",
         "code": "CH",

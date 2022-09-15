@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51792",
+            "airport_ref": "6063",
+            "airport_ident": "SEMC",
+            "type": "APP",
+            "description": "SHELL  APP",
+            "frequency_mhz": "119.5"
+        },
+        {
+            "id": "51793",
+            "airport_ref": "6063",
+            "airport_ident": "SEMC",
+            "type": "TWR",
+            "description": "MACAS TWR",
+            "frequency_mhz": "123"
+        }
+    ],
     "country": {
         "id": "302794",
         "code": "EC",

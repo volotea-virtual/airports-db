@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "59714",
+            "airport_ref": "20355",
+            "airport_ident": "KLLU",
+            "type": "CNTR",
+            "description": "KANSAS CITY CNTR",
+            "frequency_mhz": "128.6"
+        },
+        {
+            "id": "59715",
+            "airport_ref": "20355",
+            "airport_ident": "KLLU",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

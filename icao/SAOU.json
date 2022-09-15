@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "48448",
+            "airport_ref": "5802",
+            "airport_ident": "SAOU",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.4"
+        }
+    ],
     "country": {
         "id": "302789",
         "code": "AR",

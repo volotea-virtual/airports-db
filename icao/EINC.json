@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "301076",
+            "airport_ref": "29228",
+            "airport_ident": "EINC",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "122.55"
+        }
+    ],
     "country": {
         "id": "302694",
         "code": "IE",

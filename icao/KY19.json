@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "64255",
+            "airport_ref": "21415",
+            "airport_ident": "KY19",
+            "type": "A/D",
+            "description": "BISMARCK APP/DEP",
+            "frequency_mhz": "124.2"
+        },
+        {
+            "id": "64256",
+            "airport_ref": "21415",
+            "airport_ident": "KY19",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

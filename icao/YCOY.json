@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "72598",
+            "airport_ref": "27481",
+            "airport_ident": "YCOY",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "125.9"
+        },
+        {
+            "id": "72599",
+            "airport_ref": "27481",
+            "airport_ident": "YCOY",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "124.1"
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",

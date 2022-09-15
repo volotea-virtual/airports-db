@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "55362",
+            "airport_ref": "3137",
+            "airport_ident": "GQPA",
+            "type": "A/G",
+            "description": "RDO",
+            "frequency_mhz": "568"
+        },
+        {
+            "id": "55363",
+            "airport_ref": "3137",
+            "airport_ident": "GQPA",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302587",
         "code": "MR",

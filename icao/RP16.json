@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": "300"
         }
     ],
+    "freqs": [
+        {
+            "id": "56537",
+            "airport_ref": "5439",
+            "airport_ident": "RP16",
+            "type": "A/G",
+            "description": "OPS",
+            "frequency_mhz": "38.57"
+        }
+    ],
     "country": {
         "id": "302656",
         "code": "PH",

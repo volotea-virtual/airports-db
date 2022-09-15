@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "71783",
+            "airport_ref": "3027",
+            "airport_ident": "FYKM",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "125.6"
+        }
+    ],
     "country": {
         "id": "302591",
         "code": "NA",

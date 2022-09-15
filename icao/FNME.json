@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "48326",
+            "airport_ref": "2945",
+            "airport_ident": "FNME",
+            "type": "AFIS",
+            "description": "AFIS",
+            "frequency_mhz": "118.9"
+        }
+    ],
     "country": {
         "id": "302556",
         "code": "AO",

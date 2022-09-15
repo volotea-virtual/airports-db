@@ -41,6 +41,104 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "58441",
+            "airport_ref": "2487",
+            "airport_ident": "EGUL",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "136.5"
+        },
+        {
+            "id": "307861",
+            "airport_ref": "2487",
+            "airport_ident": "EGUL",
+            "type": "APP",
+            "description": "",
+            "frequency_mhz": "142.82"
+        },
+        {
+            "id": "58442",
+            "airport_ref": "2487",
+            "airport_ident": "EGUL",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "35.672"
+        },
+        {
+            "id": "58443",
+            "airport_ref": "2487",
+            "airport_ident": "EGUL",
+            "type": "CAC",
+            "description": "CAC LONDON MIL",
+            "frequency_mhz": "27.777"
+        },
+        {
+            "id": "58444",
+            "airport_ref": "2487",
+            "airport_ident": "EGUL",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "25.03"
+        },
+        {
+            "id": "58445",
+            "airport_ref": "2487",
+            "airport_ident": "EGUL",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "375.45"
+        },
+        {
+            "id": "58446",
+            "airport_ref": "2487",
+            "airport_ident": "EGUL",
+            "type": "PMSV",
+            "description": "PMSV  METRO",
+            "frequency_mhz": "28.442"
+        },
+        {
+            "id": "58447",
+            "airport_ref": "2487",
+            "airport_ident": "EGUL",
+            "type": "POST",
+            "description": "COMD POST",
+            "frequency_mhz": "37.98"
+        },
+        {
+            "id": "58448",
+            "airport_ref": "2487",
+            "airport_ident": "EGUL",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "24.447"
+        },
+        {
+            "id": "58449",
+            "airport_ref": "2487",
+            "airport_ident": "EGUL",
+            "type": "RDR",
+            "description": "RADAR",
+            "frequency_mhz": "128.9"
+        },
+        {
+            "id": "58450",
+            "airport_ref": "2487",
+            "airport_ident": "EGUL",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "307862",
+            "airport_ref": "2487",
+            "airport_ident": "EGUL",
+            "type": "TWR",
+            "description": "",
+            "frequency_mhz": "338.92"
+        }
+    ],
     "country": {
         "id": "302688",
         "code": "GB",

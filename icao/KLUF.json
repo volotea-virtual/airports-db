@@ -63,6 +63,72 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "61325",
+            "airport_ref": "3658",
+            "airport_ident": "KLUF",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "120.7"
+        },
+        {
+            "id": "61326",
+            "airport_ref": "3658",
+            "airport_ident": "KLUF",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "134.925"
+        },
+        {
+            "id": "61327",
+            "airport_ref": "3658",
+            "airport_ident": "KLUF",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "126.25"
+        },
+        {
+            "id": "61328",
+            "airport_ref": "3658",
+            "airport_ident": "KLUF",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "133.175"
+        },
+        {
+            "id": "61329",
+            "airport_ref": "3658",
+            "airport_ident": "KLUF",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "26.74"
+        },
+        {
+            "id": "61330",
+            "airport_ref": "3658",
+            "airport_ident": "KLUF",
+            "type": "POST",
+            "description": "COMD POST",
+            "frequency_mhz": "34.94"
+        },
+        {
+            "id": "61331",
+            "airport_ref": "3658",
+            "airport_ident": "KLUF",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "37.22"
+        },
+        {
+            "id": "61332",
+            "airport_ref": "3658",
+            "airport_ident": "KLUF",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.1"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

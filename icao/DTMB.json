@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57800",
+            "airport_ref": "2132",
+            "airport_ident": "DTMB",
+            "type": "APP",
+            "description": "BOURGUIBA APP",
+            "frequency_mhz": "119.3"
+        },
+        {
+            "id": "57801",
+            "airport_ref": "2132",
+            "airport_ident": "DTMB",
+            "type": "ATIS",
+            "description": "MONASTIR ATIS",
+            "frequency_mhz": "113.1"
+        },
+        {
+            "id": "57802",
+            "airport_ref": "2132",
+            "airport_ident": "DTMB",
+            "type": "TWR",
+            "description": "BOURGUIBA TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302606",
         "code": "TN",

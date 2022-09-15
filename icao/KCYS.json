@@ -63,6 +63,80 @@
             "he_displaced_threshold_ft": "1160"
         }
     ],
+    "freqs": [
+        {
+            "id": "69457",
+            "airport_ref": "3476",
+            "airport_ident": "KCYS",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "124.55"
+        },
+        {
+            "id": "69458",
+            "airport_ref": "3476",
+            "airport_ident": "KCYS",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "134.425"
+        },
+        {
+            "id": "69459",
+            "airport_ref": "3476",
+            "airport_ident": "KCYS",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.7"
+        },
+        {
+            "id": "69460",
+            "airport_ref": "3476",
+            "airport_ident": "KCYS",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "69461",
+            "airport_ref": "3476",
+            "airport_ident": "KCYS",
+            "type": "MISC",
+            "description": "ARNG OPS",
+            "frequency_mhz": "126.2"
+        },
+        {
+            "id": "69462",
+            "airport_ref": "3476",
+            "airport_ident": "KCYS",
+            "type": "OPS",
+            "description": "ANG OPS/COMD POST",
+            "frequency_mhz": "22.552"
+        },
+        {
+            "id": "69463",
+            "airport_ref": "3476",
+            "airport_ident": "KCYS",
+            "type": "RDO",
+            "description": "CASPER RDO",
+            "frequency_mhz": "122.3"
+        },
+        {
+            "id": "69464",
+            "airport_ref": "3476",
+            "airport_ident": "KCYS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.7"
+        },
+        {
+            "id": "69465",
+            "airport_ref": "3476",
+            "airport_ident": "KCYS",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

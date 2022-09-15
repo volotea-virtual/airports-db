@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "71915",
+            "airport_ref": "29210",
+            "airport_ident": "EGYC",
+            "type": "RAD/APP",
+            "description": "Coltishall RAD/APP",
+            "frequency_mhz": "125.9"
+        },
+        {
+            "id": "71914",
+            "airport_ref": "29210",
+            "airport_ident": "EGYC",
+            "type": "TWR",
+            "description": "Coltishall TWR",
+            "frequency_mhz": "122.1"
+        }
+    ],
     "country": {
         "id": "302688",
         "code": "GB",

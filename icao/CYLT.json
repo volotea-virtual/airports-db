@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "50983",
+            "airport_ref": "1806",
+            "airport_ident": "CYLT",
+            "type": "OPS",
+            "description": "OPS",
+            "frequency_mhz": "568"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

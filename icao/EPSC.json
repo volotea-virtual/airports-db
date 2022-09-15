@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56219",
+            "airport_ref": "2630",
+            "airport_ident": "EPSC",
+            "type": "TWR",
+            "description": "SZCZECIN TWR",
+            "frequency_mhz": "121.255"
+        }
+    ],
     "country": {
         "id": "302710",
         "code": "PL",

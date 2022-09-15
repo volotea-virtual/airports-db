@@ -17,6 +17,16 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Nanortalik_Heliport",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "299102",
+            "airport_ref": "35294",
+            "airport_ident": "BGNN",
+            "type": "HIS",
+            "description": "NANORTALIK HIS",
+            "frequency_mhz": "118.1"
+        }
+    ],
     "country": {
         "id": "302736",
         "code": "GL",

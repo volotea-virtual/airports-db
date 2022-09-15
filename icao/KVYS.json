@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "68711",
+            "airport_ref": "21344",
+            "airport_ident": "KVYS",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "120.025"
+        },
+        {
+            "id": "68712",
+            "airport_ref": "21344",
+            "airport_ident": "KVYS",
+            "type": "CNTR",
+            "description": "CHICAGO CNTR",
+            "frequency_mhz": "123.75"
+        },
+        {
+            "id": "68713",
+            "airport_ref": "21344",
+            "airport_ident": "KVYS",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51508",
+            "airport_ref": "6120",
+            "airport_ident": "SKGI",
+            "type": "A/G",
+            "description": "GIRARDOT RDO",
+            "frequency_mhz": "348.8"
+        },
+        {
+            "id": "51509",
+            "airport_ref": "6120",
+            "airport_ident": "SKGI",
+            "type": "APP",
+            "description": "BOGOTA APP",
+            "frequency_mhz": "119.5"
+        },
+        {
+            "id": "51510",
+            "airport_ref": "6120",
+            "airport_ident": "SKGI",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.4"
+        }
+    ],
     "country": {
         "id": "302793",
         "code": "CO",

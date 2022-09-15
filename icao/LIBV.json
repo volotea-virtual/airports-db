@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": "285"
         }
     ],
+    "freqs": [
+        {
+            "id": "54270",
+            "airport_ref": "4316",
+            "airport_ident": "LIBV",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "54271",
+            "airport_ref": "4316",
+            "airport_ident": "LIBV",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "36.947"
+        },
+        {
+            "id": "54272",
+            "airport_ref": "4316",
+            "airport_ident": "LIBV",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.1"
+        }
+    ],
     "country": {
         "id": "302697",
         "code": "IT",

@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "71846",
+            "airport_ref": "5316",
+            "airport_ident": "OYHD",
+            "type": "A/G",
+            "description": "RDO",
+            "frequency_mhz": "511.5"
+        },
+        {
+            "id": "71847",
+            "airport_ref": "5316",
+            "airport_ident": "OYHD",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.6"
+        },
+        {
+            "id": "71848",
+            "airport_ref": "5316",
+            "airport_ident": "OYHD",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.2"
+        }
+    ],
     "country": {
         "id": "302671",
         "code": "YE",

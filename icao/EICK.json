@@ -63,6 +63,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51946",
+            "airport_ref": "2530",
+            "airport_ident": "EICK",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.9"
+        },
+        {
+            "id": "51947",
+            "airport_ref": "2530",
+            "airport_ident": "EICK",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "120.925"
+        },
+        {
+            "id": "51948",
+            "airport_ref": "2530",
+            "airport_ident": "EICK",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.85"
+        },
+        {
+            "id": "51949",
+            "airport_ref": "2530",
+            "airport_ident": "EICK",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.3"
+        }
+    ],
     "country": {
         "id": "302694",
         "code": "IE",

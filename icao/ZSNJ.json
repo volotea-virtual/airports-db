@@ -63,6 +63,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51163",
+            "airport_ref": "27221",
+            "airport_ident": "ZSNJ",
+            "type": "APP",
+            "description": "NANJING APP",
+            "frequency_mhz": "119.25"
+        },
+        {
+            "id": "51164",
+            "airport_ref": "27221",
+            "airport_ident": "ZSNJ",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "126.25"
+        },
+        {
+            "id": "51165",
+            "airport_ref": "27221",
+            "airport_ident": "ZSNJ",
+            "type": "GND",
+            "description": "NANJING GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "51166",
+            "airport_ref": "27221",
+            "airport_ident": "ZSNJ",
+            "type": "TWR",
+            "description": "NANJING TWR",
+            "frequency_mhz": "118.85"
+        }
+    ],
     "country": {
         "id": "302627",
         "code": "CN",

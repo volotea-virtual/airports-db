@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": "328"
         }
     ],
+    "freqs": [
+        {
+            "id": "54558",
+            "airport_ref": "5603",
+            "airport_ident": "RJOY",
+            "type": "APP",
+            "description": "KANSAI APP",
+            "frequency_mhz": "120.45"
+        },
+        {
+            "id": "54559",
+            "airport_ref": "5603",
+            "airport_ident": "RJOY",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "54560",
+            "airport_ref": "5603",
+            "airport_ident": "RJOY",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "124.35"
+        }
+    ],
     "country": {
         "id": "302639",
         "code": "JP",

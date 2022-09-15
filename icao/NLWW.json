@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "71801",
+            "airport_ref": "4975",
+            "airport_ident": "NLWW",
+            "type": "A/G",
+            "description": "RDO",
+            "frequency_mhz": "653.3"
+        },
+        {
+            "id": "71802",
+            "airport_ref": "4975",
+            "airport_ident": "NLWW",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "71803",
+            "airport_ref": "4975",
+            "airport_ident": "NLWW",
+            "type": "MISC",
+            "description": "VDF",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302787",
         "code": "WF",

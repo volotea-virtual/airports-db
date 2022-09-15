@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "59275",
+            "airport_ref": "14062",
+            "airport_ident": "7CA2",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

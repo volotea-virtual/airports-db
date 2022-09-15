@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": "820"
         }
     ],
+    "freqs": [
+        {
+            "id": "53280",
+            "airport_ref": "6366",
+            "airport_ident": "TFFR",
+            "type": "APP",
+            "description": "RAIZET APP",
+            "frequency_mhz": "121.3"
+        },
+        {
+            "id": "53281",
+            "airport_ref": "6366",
+            "airport_ident": "TFFR",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.6"
+        },
+        {
+            "id": "53282",
+            "airport_ref": "6366",
+            "airport_ident": "TFFR",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.85"
+        },
+        {
+            "id": "53283",
+            "airport_ref": "6366",
+            "airport_ident": "TFFR",
+            "type": "TWR",
+            "description": "RAIZET TWR",
+            "frequency_mhz": "118.4"
+        }
+    ],
     "country": {
         "id": "302737",
         "code": "GP",

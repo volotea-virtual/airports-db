@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "316201",
+            "airport_ref": "316200",
+            "airport_ident": "IT-0146",
+            "type": "Info",
+            "description": "",
+            "frequency_mhz": "130"
+        }
+    ],
     "country": {
         "id": "302697",
         "code": "IT",

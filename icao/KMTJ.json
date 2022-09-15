@@ -63,6 +63,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "68398",
+            "airport_ref": "20565",
+            "airport_ident": "KMTJ",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "135.225"
+        },
+        {
+            "id": "68399",
+            "airport_ref": "20565",
+            "airport_ident": "KMTJ",
+            "type": "CNTR",
+            "description": "DENVER CNTR",
+            "frequency_mhz": "125.35"
+        },
+        {
+            "id": "68400",
+            "airport_ref": "20565",
+            "airport_ident": "KMTJ",
+            "type": "RDO",
+            "description": "DENVER RDO",
+            "frequency_mhz": "122.65"
+        },
+        {
+            "id": "68401",
+            "airport_ref": "20565",
+            "airport_ident": "KMTJ",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

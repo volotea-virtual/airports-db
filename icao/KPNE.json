@@ -63,6 +63,72 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "68136",
+            "airport_ref": "20850",
+            "airport_ident": "KPNE",
+            "type": "A/D",
+            "description": "PHILADELPHIA APP/DEP",
+            "frequency_mhz": "123.8"
+        },
+        {
+            "id": "68137",
+            "airport_ref": "20850",
+            "airport_ident": "KPNE",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "121.15"
+        },
+        {
+            "id": "68138",
+            "airport_ref": "20850",
+            "airport_ident": "KPNE",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "127.25"
+        },
+        {
+            "id": "68139",
+            "airport_ref": "20850",
+            "airport_ident": "KPNE",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.9"
+        },
+        {
+            "id": "68140",
+            "airport_ref": "20850",
+            "airport_ident": "KPNE",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "68141",
+            "airport_ref": "20850",
+            "airport_ident": "KPNE",
+            "type": "RDO",
+            "description": "WILLIAMSPORT RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "68142",
+            "airport_ref": "20850",
+            "airport_ident": "KPNE",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "126.9"
+        },
+        {
+            "id": "68143",
+            "airport_ref": "20850",
+            "airport_ident": "KPNE",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

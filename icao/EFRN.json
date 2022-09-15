@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52143",
+            "airport_ref": "2340",
+            "airport_ident": "EFRN",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "123.2"
+        }
+    ],
     "country": {
         "id": "302685",
         "code": "FI",

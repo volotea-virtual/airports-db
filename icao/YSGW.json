@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "74515",
+            "airport_ref": "27952",
+            "airport_ident": "YSGW",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "126.7"
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",

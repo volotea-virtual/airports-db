@@ -107,6 +107,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "58099",
+            "airport_ref": "2395",
+            "airport_ident": "EGBP",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "118.9"
+        }
+    ],
     "country": {
         "id": "302688",
         "code": "GB",

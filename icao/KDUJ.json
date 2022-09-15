@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "60478",
+            "airport_ref": "3498",
+            "airport_ident": "KDUJ",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "119.025"
+        },
+        {
+            "id": "60479",
+            "airport_ref": "3498",
+            "airport_ident": "KDUJ",
+            "type": "CNTR",
+            "description": "CLEVELAND CNTR",
+            "frequency_mhz": "126.72"
+        },
+        {
+            "id": "60480",
+            "airport_ref": "3498",
+            "airport_ident": "KDUJ",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "123"
+        },
+        {
+            "id": "60481",
+            "airport_ref": "3498",
+            "airport_ident": "KDUJ",
+            "type": "RDO",
+            "description": "ALTOONA RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "60482",
+            "airport_ref": "3498",
+            "airport_ident": "KDUJ",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

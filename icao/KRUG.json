@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "70068",
+            "airport_ref": "20967",
+            "airport_ident": "KRUG",
+            "type": "RDO",
+            "description": "GRAND FORKS RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "70069",
+            "airport_ref": "20967",
+            "airport_ident": "KRUG",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

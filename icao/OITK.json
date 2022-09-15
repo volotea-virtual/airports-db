@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "54009",
+            "airport_ref": "5199",
+            "airport_ident": "OITK",
+            "type": "INFO",
+            "description": "INFO",
+            "frequency_mhz": "122.25"
+        }
+    ],
     "country": {
         "id": "302637",
         "code": "IR",

@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "321606",
+            "airport_ref": "307540",
+            "airport_ident": "EGBR",
+            "type": "Radio",
+            "description": "Breighton Radio",
+            "frequency_mhz": "129.8"
+        }
+    ],
     "country": {
         "id": "302688",
         "code": "GB",

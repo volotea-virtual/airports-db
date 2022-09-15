@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57713",
+            "airport_ref": "26673",
+            "airport_ident": "VTSN",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "657.7"
+        },
+        {
+            "id": "57714",
+            "airport_ref": "26673",
+            "airport_ident": "VTSN",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.7"
+        }
+    ],
     "country": {
         "id": "302663",
         "code": "TH",

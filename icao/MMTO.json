@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": "525"
         }
     ],
+    "freqs": [
+        {
+            "id": "55497",
+            "airport_ref": "4760",
+            "airport_ident": "MMTO",
+            "type": "APP",
+            "description": "TOLUCA APP",
+            "frequency_mhz": "128.9"
+        },
+        {
+            "id": "55498",
+            "airport_ref": "4760",
+            "airport_ident": "MMTO",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.8"
+        },
+        {
+            "id": "55499",
+            "airport_ref": "4760",
+            "airport_ident": "MMTO",
+            "type": "TWR",
+            "description": "TOLUCA TWR",
+            "frequency_mhz": "118"
+        }
+    ],
     "country": {
         "id": "302747",
         "code": "MX",

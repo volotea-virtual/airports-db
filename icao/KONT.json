@@ -63,6 +63,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "67636",
+            "airport_ref": "3752",
+            "airport_ident": "KONT",
+            "type": "A/D",
+            "description": "SOCAL APP/DEP",
+            "frequency_mhz": "119.65"
+        },
+        {
+            "id": "67637",
+            "airport_ref": "3752",
+            "airport_ident": "KONT",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "124.25"
+        },
+        {
+            "id": "67638",
+            "airport_ref": "3752",
+            "airport_ident": "KONT",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "67639",
+            "airport_ref": "3752",
+            "airport_ident": "KONT",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "67640",
+            "airport_ref": "3752",
+            "airport_ident": "KONT",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.6"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

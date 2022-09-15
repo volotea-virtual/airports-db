@@ -63,6 +63,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "67815",
+            "airport_ref": "3954",
+            "airport_ident": "KWWD",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "124.6"
+        },
+        {
+            "id": "67816",
+            "airport_ref": "3954",
+            "airport_ident": "KWWD",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.275"
+        },
+        {
+            "id": "67817",
+            "airport_ref": "3954",
+            "airport_ident": "KWWD",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "67818",
+            "airport_ref": "3954",
+            "airport_ident": "KWWD",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.7"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "59765",
+            "airport_ref": "20996",
+            "airport_ident": "KS24",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "126.1"
+        },
+        {
+            "id": "59766",
+            "airport_ref": "20996",
+            "airport_ident": "KS24",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.575"
+        },
+        {
+            "id": "59767",
+            "airport_ref": "20996",
+            "airport_ident": "KS24",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123.05"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

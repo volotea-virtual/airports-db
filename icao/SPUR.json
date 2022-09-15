@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56107",
+            "airport_ref": "6240",
+            "airport_ident": "SPUR",
+            "type": "APP",
+            "description": "PIURA APP/TWR",
+            "frequency_mhz": "118.4"
+        },
+        {
+            "id": "56108",
+            "airport_ref": "6240",
+            "airport_ident": "SPUR",
+            "type": "RDO",
+            "description": "PIURA RDO",
+            "frequency_mhz": "126.9"
+        }
+    ],
     "country": {
         "id": "302798",
         "code": "PE",

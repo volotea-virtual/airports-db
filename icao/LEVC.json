@@ -63,6 +63,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57212",
+            "airport_ref": "4042",
+            "airport_ident": "LEVC",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "120.1"
+        },
+        {
+            "id": "57213",
+            "airport_ref": "4042",
+            "airport_ident": "LEVC",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "121.075"
+        },
+        {
+            "id": "57214",
+            "airport_ref": "4042",
+            "airport_ident": "LEVC",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "57215",
+            "airport_ref": "4042",
+            "airport_ident": "LEVC",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.55"
+        }
+    ],
     "country": {
         "id": "302684",
         "code": "ES",

@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": "646"
         }
     ],
+    "freqs": [
+        {
+            "id": "75491",
+            "airport_ref": "41098",
+            "airport_ident": "CA-0159",
+            "type": "ATF",
+            "description": "Pontiac Traffic, 5nm below 3300 ASL",
+            "frequency_mhz": "123.2"
+        },
+        {
+            "id": "75492",
+            "airport_ref": "41098",
+            "airport_ident": "CA-0159",
+            "type": "VFR Advisory",
+            "description": "Ottawa Terminal",
+            "frequency_mhz": "127.7"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

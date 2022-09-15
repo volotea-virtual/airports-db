@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "50793",
+            "airport_ref": "1960",
+            "airport_ident": "CYXK",
+            "type": "RDO",
+            "description": "MF MONT JOLI RDO",
+            "frequency_mhz": "122.1"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

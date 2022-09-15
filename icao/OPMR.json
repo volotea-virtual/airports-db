@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56173",
+            "airport_ref": "5263",
+            "airport_ident": "OPMR",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "32.42"
+        },
+        {
+            "id": "56174",
+            "airport_ref": "5263",
+            "airport_ident": "OPMR",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "26.79"
+        }
+    ],
     "country": {
         "id": "302657",
         "code": "PK",

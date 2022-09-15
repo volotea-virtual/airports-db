@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52659",
+            "airport_ref": "2959",
+            "airport_ident": "FOGO",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "118.4"
+        }
+    ],
     "country": {
         "id": "302573",
         "code": "GA",

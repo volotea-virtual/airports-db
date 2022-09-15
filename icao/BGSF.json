@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52699",
+            "airport_ref": "115",
+            "airport_ident": "BGSF",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "126.2"
+        },
+        {
+            "id": "52700",
+            "airport_ref": "115",
+            "airport_ident": "BGSF",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "121.3"
+        },
+        {
+            "id": "52701",
+            "airport_ref": "115",
+            "airport_ident": "BGSF",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302736",
         "code": "GL",

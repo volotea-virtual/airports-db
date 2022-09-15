@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "66585",
+            "airport_ref": "20732",
+            "airport_ident": "KOKB",
+            "type": "A/D",
+            "description": "SOCAL APP/DEP",
+            "frequency_mhz": "127.3"
+        },
+        {
+            "id": "66586",
+            "airport_ref": "20732",
+            "airport_ident": "KOKB",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "127.8"
+        },
+        {
+            "id": "66587",
+            "airport_ref": "20732",
+            "airport_ident": "KOKB",
+            "type": "RDO",
+            "description": "SAN DIEGO RDO",
+            "frequency_mhz": "115.3"
+        },
+        {
+            "id": "66588",
+            "airport_ref": "20732",
+            "airport_ident": "KOKB",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

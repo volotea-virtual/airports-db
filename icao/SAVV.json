@@ -63,6 +63,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "48382",
+            "airport_ref": "5828",
+            "airport_ident": "SAVV",
+            "type": "TWR",
+            "description": "VIEDMA TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302789",
         "code": "AR",

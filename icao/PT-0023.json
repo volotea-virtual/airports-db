@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "314021",
+            "airport_ref": "314020",
+            "airport_ident": "PT-0023",
+            "type": "RDO",
+            "description": "",
+            "frequency_mhz": "122.5"
+        }
+    ],
     "country": {
         "id": "302711",
         "code": "PT",

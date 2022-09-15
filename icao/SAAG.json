@@ -63,6 +63,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "48450",
+            "airport_ref": "5765",
+            "airport_ident": "SAAG",
+            "type": "TWR",
+            "description": "TWR/APP",
+            "frequency_mhz": "118.4"
+        }
+    ],
     "country": {
         "id": "302789",
         "code": "AR",

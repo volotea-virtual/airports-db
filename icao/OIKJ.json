@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "54026",
+            "airport_ref": "5173",
+            "airport_ident": "OIKJ",
+            "type": "AAS",
+            "description": "INFO",
+            "frequency_mhz": "118.65"
+        }
+    ],
     "country": {
         "id": "302637",
         "code": "IR",

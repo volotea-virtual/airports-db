@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51297",
+            "airport_ref": "6038",
+            "airport_ident": "SCRG",
+            "type": "TWR",
+            "description": "RANCAGUA TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302792",
         "code": "CL",

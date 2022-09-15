@@ -63,6 +63,64 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "68484",
+            "airport_ref": "3528",
+            "airport_ident": "KFFO",
+            "type": "A/D",
+            "description": "DAYTON APP/DEP",
+            "frequency_mhz": "118.85"
+        },
+        {
+            "id": "68485",
+            "airport_ref": "3528",
+            "airport_ident": "KFFO",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "124.475"
+        },
+        {
+            "id": "68486",
+            "airport_ref": "3528",
+            "airport_ident": "KFFO",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "68487",
+            "airport_ref": "3528",
+            "airport_ident": "KFFO",
+            "type": "PMSV",
+            "description": "PMSV METRO",
+            "frequency_mhz": "34.46"
+        },
+        {
+            "id": "68488",
+            "airport_ref": "3528",
+            "airport_ident": "KFFO",
+            "type": "POST",
+            "description": "445AW AFRC COMD POST",
+            "frequency_mhz": "34.94"
+        },
+        {
+            "id": "68489",
+            "airport_ref": "3528",
+            "airport_ident": "KFFO",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "122.85"
+        },
+        {
+            "id": "68490",
+            "airport_ref": "3528",
+            "airport_ident": "KFFO",
+            "type": "TWR",
+            "description": "PATTERSON TWR",
+            "frequency_mhz": "126.9"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

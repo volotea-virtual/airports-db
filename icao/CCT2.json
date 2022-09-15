@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "332183",
+            "airport_ref": "783",
+            "airport_ident": "CCT2",
+            "type": "Ctaf",
+            "description": "COOKSTOWN TRAFFIC",
+            "frequency_mhz": "123.5"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

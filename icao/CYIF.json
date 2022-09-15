@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "49940",
+            "airport_ref": "1773",
+            "airport_ident": "CYIF",
+            "type": "RCO",
+            "description": "QUEBEC RDO",
+            "frequency_mhz": "126.7"
+        },
+        {
+            "id": "49941",
+            "airport_ref": "1773",
+            "airport_ident": "CYIF",
+            "type": "UNIC",
+            "description": "ATF/UNICOM",
+            "frequency_mhz": "123.5"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

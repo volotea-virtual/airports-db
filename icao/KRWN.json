@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": "560"
         }
     ],
+    "freqs": [
+        {
+            "id": "67454",
+            "airport_ref": "20975",
+            "airport_ident": "KRWN",
+            "type": "A/D",
+            "description": "SOUTH BEND APP/DEP",
+            "frequency_mhz": "132.05"
+        },
+        {
+            "id": "67455",
+            "airport_ref": "20975",
+            "airport_ident": "KRWN",
+            "type": "RDO",
+            "description": "TERRE HAUTE RDO",
+            "frequency_mhz": "115.6"
+        },
+        {
+            "id": "67456",
+            "airport_ref": "20975",
+            "airport_ident": "KRWN",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

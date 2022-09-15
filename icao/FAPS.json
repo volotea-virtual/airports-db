@@ -63,6 +63,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57081",
+            "airport_ref": "2828",
+            "airport_ident": "FAPS",
+            "type": "A/G",
+            "description": "RDO",
+            "frequency_mhz": "123"
+        }
+    ],
     "country": {
         "id": "302610",
         "code": "ZA",

@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "347938",
+            "airport_ref": "340305",
+            "airport_ident": "LY-0009",
+            "type": "TWR",
+            "description": "KAMBUT Tower",
+            "frequency_mhz": "118.5"
+        }
+    ],
     "country": {
         "id": "302583",
         "code": "LY",

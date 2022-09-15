@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "311683",
+            "airport_ref": "29056",
+            "airport_ident": "EBZH",
+            "type": "INFO",
+            "description": "Hasselt Radio",
+            "frequency_mhz": "118.33"
+        }
+    ],
     "country": {
         "id": "302676",
         "code": "BE",

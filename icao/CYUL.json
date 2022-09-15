@@ -85,6 +85,96 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "50932",
+            "airport_ref": "1928",
+            "airport_ident": "CYUL",
+            "type": "APRON",
+            "description": "Montreal Apron",
+            "frequency_mhz": "122.075"
+        },
+        {
+            "id": "50924",
+            "airport_ref": "1928",
+            "airport_ident": "CYUL",
+            "type": "ARR",
+            "description": "Montreal Terminal Arrivals",
+            "frequency_mhz": "118.9"
+        },
+        {
+            "id": "50929",
+            "airport_ref": "1928",
+            "airport_ident": "CYUL",
+            "type": "ARR",
+            "description": "Montreal Terminal",
+            "frequency_mhz": "126.9"
+        },
+        {
+            "id": "75188",
+            "airport_ref": "1928",
+            "airport_ident": "CYUL",
+            "type": "ATIS",
+            "description": "French ATIS",
+            "frequency_mhz": "127.5"
+        },
+        {
+            "id": "50925",
+            "airport_ref": "1928",
+            "airport_ident": "CYUL",
+            "type": "ATIS",
+            "description": "English ATIS",
+            "frequency_mhz": "133.7"
+        },
+        {
+            "id": "50926",
+            "airport_ref": "1928",
+            "airport_ident": "CYUL",
+            "type": "CLNC DEL",
+            "description": "Montreal Clearance",
+            "frequency_mhz": "125.6"
+        },
+        {
+            "id": "50927",
+            "airport_ref": "1928",
+            "airport_ident": "CYUL",
+            "type": "DEP",
+            "description": "Montreal Terminal Departures",
+            "frequency_mhz": "118.9"
+        },
+        {
+            "id": "50928",
+            "airport_ref": "1928",
+            "airport_ident": "CYUL",
+            "type": "GND",
+            "description": "Montreal Ground",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "50930",
+            "airport_ref": "1928",
+            "airport_ident": "CYUL",
+            "type": "RCO",
+            "description": "Quebec Radio",
+            "frequency_mhz": "123.55"
+        },
+        {
+            "id": "50933",
+            "airport_ref": "1928",
+            "airport_ident": "CYUL",
+            "type": "TWR",
+            "description": "Montreal Tower",
+            "frequency_mhz": "119.9"
+        },
+        {
+            "id": "50931",
+            "airport_ref": "1928",
+            "airport_ident": "CYUL",
+            "type": "VFR ADV",
+            "description": "Montreal Terminal",
+            "frequency_mhz": "134.15"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

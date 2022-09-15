@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": "170"
         }
     ],
+    "freqs": [
+        {
+            "id": "51526",
+            "airport_ref": "6154",
+            "airport_ident": "SKPS",
+            "type": "RDO",
+            "description": "PASTO RDO",
+            "frequency_mhz": "348.8"
+        },
+        {
+            "id": "51527",
+            "airport_ref": "6154",
+            "airport_ident": "SKPS",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118"
+        }
+    ],
     "country": {
         "id": "302793",
         "code": "CO",

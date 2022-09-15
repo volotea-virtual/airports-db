@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "301397",
+            "airport_ref": "26478",
+            "airport_ident": "VDSV",
+            "type": "KOS VOR-DME",
+            "description": "KOS vortac station (top of rwy 21)",
+            "frequency_mhz": "116"
+        },
+        {
+            "id": "301395",
+            "airport_ref": "26478",
+            "airport_ident": "VDSV",
+            "type": "TWR",
+            "description": "VDSV Tower",
+            "frequency_mhz": "124"
+        }
+    ],
     "country": {
         "id": "302641",
         "code": "KH",

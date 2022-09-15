@@ -3,8 +3,8 @@
     "ident": "DAAG",
     "type": "large_airport",
     "name": "Houari Boumediene Airport",
-    "latitude_deg": "36.691002",
-    "longitude_deg": "3.21541",
+    "latitude_deg": "36.693886",
+    "longitude_deg": "3.214531",
     "elevation_ft": "82",
     "continent": "AF",
     "iso_country": "DZ",
@@ -15,8 +15,8 @@
     "iata_code": "ALG",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "https://en.wikipedia.org/wiki/Houari_Boumedienne_Airport",
-    "keywords": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Houari_Boumediene_Airport",
+    "keywords": "Algiers, Maison Blanche",
     "runways": [
         {
             "id": "232826",
@@ -61,6 +61,40 @@
             "he_elevation_ft": "82",
             "he_heading_degT": "272",
             "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "48275",
+            "airport_ref": "2050",
+            "airport_ident": "DAAG",
+            "type": "APP",
+            "description": "ALGIERS APP",
+            "frequency_mhz": "121.4"
+        },
+        {
+            "id": "348255",
+            "airport_ref": "2050",
+            "airport_ident": "DAAG",
+            "type": "CCR",
+            "description": "ALGIERS CCR",
+            "frequency_mhz": "127.3"
+        },
+        {
+            "id": "48276",
+            "airport_ref": "2050",
+            "airport_ident": "DAAG",
+            "type": "GND",
+            "description": "ALGIERS GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "48277",
+            "airport_ref": "2050",
+            "airport_ident": "DAAG",
+            "type": "TWR",
+            "description": "ALGIERS TWR",
+            "frequency_mhz": "118.7"
         }
     ],
     "country": {

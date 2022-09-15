@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "67379",
+            "airport_ref": "18586",
+            "airport_ident": "K2G9",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "133.8"
+        },
+        {
+            "id": "67380",
+            "airport_ref": "18586",
+            "airport_ident": "K2G9",
+            "type": "CNTR",
+            "description": "CLEVELAND CNTR",
+            "frequency_mhz": "124.4"
+        },
+        {
+            "id": "67381",
+            "airport_ref": "18586",
+            "airport_ident": "K2G9",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "68500",
+            "airport_ref": "20228",
+            "airport_ident": "KJXI",
+            "type": "A/D",
+            "description": "LONGVIEW APP/DEP",
+            "frequency_mhz": "118.25"
+        },
+        {
+            "id": "68501",
+            "airport_ref": "20228",
+            "airport_ident": "KJXI",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.2"
+        },
+        {
+            "id": "68502",
+            "airport_ref": "20228",
+            "airport_ident": "KJXI",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

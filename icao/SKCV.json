@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": "190"
         }
     ],
+    "freqs": [
+        {
+            "id": "51556",
+            "airport_ref": "6114",
+            "airport_ident": "SKCV",
+            "type": "TWR",
+            "description": "BASE COVENAS TWR",
+            "frequency_mhz": "126.2"
+        }
+    ],
     "country": {
         "id": "302793",
         "code": "CO",

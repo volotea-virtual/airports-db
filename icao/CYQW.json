@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "50749",
+            "airport_ref": "1880",
+            "airport_ident": "CYQW",
+            "type": "A/G",
+            "description": "MF",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "50750",
+            "airport_ref": "1880",
+            "airport_ident": "CYQW",
+            "type": "RCO",
+            "description": "EDMONTON RDO",
+            "frequency_mhz": "123.375"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

@@ -63,6 +63,72 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "66504",
+            "airport_ref": "3394",
+            "airport_ident": "KBAK",
+            "type": "A/D",
+            "description": "INDIANAPOLIS APP/DEP",
+            "frequency_mhz": "134.85"
+        },
+        {
+            "id": "66505",
+            "airport_ref": "3394",
+            "airport_ident": "KBAK",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "119.75"
+        },
+        {
+            "id": "66506",
+            "airport_ref": "3394",
+            "airport_ident": "KBAK",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.6"
+        },
+        {
+            "id": "66507",
+            "airport_ref": "3394",
+            "airport_ident": "KBAK",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.6"
+        },
+        {
+            "id": "66508",
+            "airport_ref": "3394",
+            "airport_ident": "KBAK",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.6"
+        },
+        {
+            "id": "66509",
+            "airport_ref": "3394",
+            "airport_ident": "KBAK",
+            "type": "RDO",
+            "description": "TERRE HAUTE RDO",
+            "frequency_mhz": "112"
+        },
+        {
+            "id": "66510",
+            "airport_ref": "3394",
+            "airport_ident": "KBAK",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.6"
+        },
+        {
+            "id": "66511",
+            "airport_ref": "3394",
+            "airport_ident": "KBAK",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

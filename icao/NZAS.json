@@ -107,6 +107,24 @@
             "he_displaced_threshold_ft": "479"
         }
     ],
+    "freqs": [
+        {
+            "id": "75195",
+            "airport_ref": "29672",
+            "airport_ident": "NZAS",
+            "type": "ATF",
+            "description": "",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "75196",
+            "airport_ref": "29672",
+            "airport_ident": "NZAS",
+            "type": "TML",
+            "description": "Christchurch Control",
+            "frequency_mhz": "120.9"
+        }
+    ],
     "country": {
         "id": "302776",
         "code": "NZ",

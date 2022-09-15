@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "73056",
+            "airport_ref": "27591",
+            "airport_ident": "YGIB",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "128"
+        },
+        {
+            "id": "73057",
+            "airport_ref": "27591",
+            "airport_ident": "YGIB",
+            "type": "MISC",
+            "description": "MISC",
+            "frequency_mhz": "132.9"
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",

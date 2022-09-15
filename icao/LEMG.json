@@ -63,6 +63,72 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "331940",
+            "airport_ref": "4020",
+            "airport_ident": "LEMG",
+            "type": "APP",
+            "description": "APP Dep",
+            "frequency_mhz": "118.455"
+        },
+        {
+            "id": "57252",
+            "airport_ref": "4020",
+            "airport_ident": "LEMG",
+            "type": "APP",
+            "description": "APP Arr",
+            "frequency_mhz": "123.85"
+        },
+        {
+            "id": "57253",
+            "airport_ref": "4020",
+            "airport_ident": "LEMG",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "120.375"
+        },
+        {
+            "id": "57254",
+            "airport_ref": "4020",
+            "airport_ident": "LEMG",
+            "type": "CLD",
+            "description": "CLR DEL",
+            "frequency_mhz": "121.88"
+        },
+        {
+            "id": "57255",
+            "airport_ref": "4020",
+            "airport_ident": "LEMG",
+            "type": "GND",
+            "description": "GND-W",
+            "frequency_mhz": "121.705"
+        },
+        {
+            "id": "308185",
+            "airport_ref": "4020",
+            "airport_ident": "LEMG",
+            "type": "GND",
+            "description": "GND-E",
+            "frequency_mhz": "121.95"
+        },
+        {
+            "id": "57256",
+            "airport_ref": "4020",
+            "airport_ident": "LEMG",
+            "type": "TWR",
+            "description": "TWR-W (RWY 13-31)",
+            "frequency_mhz": "118.15"
+        },
+        {
+            "id": "308184",
+            "airport_ref": "4020",
+            "airport_ident": "LEMG",
+            "type": "TWR",
+            "description": "TWR-E (RWY 12-30)",
+            "frequency_mhz": "118.775"
+        }
+    ],
     "country": {
         "id": "302684",
         "code": "ES",

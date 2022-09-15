@@ -63,6 +63,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "48787",
+            "airport_ref": "26925",
+            "airport_ident": "YBRK",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "116.9"
+        },
+        {
+            "id": "48788",
+            "airport_ref": "26925",
+            "airport_ident": "YBRK",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.1"
+        },
+        {
+            "id": "48789",
+            "airport_ref": "26925",
+            "airport_ident": "YBRK",
+            "type": "FSS",
+            "description": "BRISBANE CNTR",
+            "frequency_mhz": "119.55"
+        },
+        {
+            "id": "48790",
+            "airport_ref": "26925",
+            "airport_ident": "YBRK",
+            "type": "GND",
+            "description": "ROCKY GND",
+            "frequency_mhz": "121.8"
+        },
+        {
+            "id": "48791",
+            "airport_ref": "26925",
+            "airport_ident": "YBRK",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.1"
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",

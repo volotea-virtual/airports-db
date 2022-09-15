@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57907",
+            "airport_ref": "4556",
+            "airport_ident": "LTCJ",
+            "type": "APP",
+            "description": "DIYARBAKIR APP",
+            "frequency_mhz": "122.1"
+        },
+        {
+            "id": "57908",
+            "airport_ref": "4556",
+            "airport_ident": "LTCJ",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.95"
+        },
+        {
+            "id": "57909",
+            "airport_ref": "4556",
+            "airport_ident": "LTCJ",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.1"
+        }
+    ],
     "country": {
         "id": "302667",
         "code": "TR",

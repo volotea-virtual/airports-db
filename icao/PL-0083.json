@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "316346",
+            "airport_ref": "316345",
+            "airport_ident": "PL-0083",
+            "type": "Info",
+            "description": "",
+            "frequency_mhz": "123.45"
+        }
+    ],
     "country": {
         "id": "302710",
         "code": "PL",

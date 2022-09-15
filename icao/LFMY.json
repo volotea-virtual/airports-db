@@ -107,6 +107,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52543",
+            "airport_ref": "4164",
+            "airport_ident": "LFMY",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "135.15"
+        },
+        {
+            "id": "52544",
+            "airport_ref": "4164",
+            "airport_ident": "LFMY",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "25.955"
+        },
+        {
+            "id": "52545",
+            "airport_ref": "4164",
+            "airport_ident": "LFMY",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "122.1"
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

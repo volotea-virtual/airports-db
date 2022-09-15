@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "55085",
+            "airport_ref": "5651",
+            "airport_ident": "RKRP",
+            "type": "FCC",
+            "description": "FCC EVENREACH",
+            "frequency_mhz": "36.9"
+        },
+        {
+            "id": "55086",
+            "airport_ref": "5651",
+            "airport_ident": "RKRP",
+            "type": "TWR",
+            "description": "PA JU TWR",
+            "frequency_mhz": "38"
+        }
+    ],
     "country": {
         "id": "302643",
         "code": "KR",

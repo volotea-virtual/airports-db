@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "50037",
+            "airport_ref": "2010",
+            "airport_ident": "CZBF",
+            "type": "RCO",
+            "description": "QUEBEC RDO",
+            "frequency_mhz": "123.45"
+        },
+        {
+            "id": "50038",
+            "airport_ref": "2010",
+            "airport_ident": "CZBF",
+            "type": "UNIC",
+            "description": "ATF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

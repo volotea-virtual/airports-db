@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51738",
+            "airport_ref": "2548",
+            "airport_ident": "EKMB",
+            "type": "AFIS",
+            "description": "MARIBO AFIS",
+            "frequency_mhz": "118.975"
+        },
+        {
+            "id": "51739",
+            "airport_ref": "2548",
+            "airport_ident": "EKMB",
+            "type": "INFO",
+            "description": "COPENHAGEN INFO",
+            "frequency_mhz": "127.075"
+        }
+    ],
     "country": {
         "id": "302682",
         "code": "DK",

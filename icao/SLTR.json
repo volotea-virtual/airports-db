@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "49463",
+            "airport_ref": "6191",
+            "airport_ident": "SLTR",
+            "type": "APP",
+            "description": "TRINIDAD APP",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "49464",
+            "airport_ref": "6191",
+            "airport_ident": "SLTR",
+            "type": "GND",
+            "description": "TRINIDAD GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "49465",
+            "airport_ref": "6191",
+            "airport_ident": "SLTR",
+            "type": "RDO",
+            "description": "TRINIDAD RDO",
+            "frequency_mhz": "662.2"
+        },
+        {
+            "id": "49466",
+            "airport_ref": "6191",
+            "airport_ident": "SLTR",
+            "type": "TWR",
+            "description": "TRINIDAD TWR",
+            "frequency_mhz": "118.5"
+        }
+    ],
     "country": {
         "id": "302790",
         "code": "BO",

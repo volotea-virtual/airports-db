@@ -41,6 +41,64 @@
             "he_displaced_threshold_ft": "983"
         }
     ],
+    "freqs": [
+        {
+            "id": "71763",
+            "airport_ref": "6370",
+            "airport_ident": "TISX",
+            "type": "A/D",
+            "description": "SAN JUAN CNTR",
+            "frequency_mhz": "128.65"
+        },
+        {
+            "id": "71764",
+            "airport_ref": "6370",
+            "airport_ident": "TISX",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "135.65"
+        },
+        {
+            "id": "71765",
+            "airport_ref": "6370",
+            "airport_ident": "TISX",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "118.6"
+        },
+        {
+            "id": "71766",
+            "airport_ref": "6370",
+            "airport_ident": "TISX",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "71767",
+            "airport_ref": "6370",
+            "airport_ident": "TISX",
+            "type": "RDO",
+            "description": "SAN JUAN RDO",
+            "frequency_mhz": "108.2"
+        },
+        {
+            "id": "71768",
+            "airport_ref": "6370",
+            "airport_ident": "TISX",
+            "type": "TWR",
+            "description": "ST CROIX TWR",
+            "frequency_mhz": "118.6"
+        },
+        {
+            "id": "71769",
+            "airport_ref": "6370",
+            "airport_ident": "TISX",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
     "country": {
         "id": "302758",
         "code": "VI",

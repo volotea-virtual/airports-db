@@ -107,6 +107,104 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "63150",
+            "airport_ref": "3778",
+            "airport_ident": "KPIT",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "36.08"
+        },
+        {
+            "id": "63149",
+            "airport_ref": "3778",
+            "airport_ident": "KPIT",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "120.875"
+        },
+        {
+            "id": "63151",
+            "airport_ref": "3778",
+            "airport_ident": "KPIT",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.25"
+        },
+        {
+            "id": "63152",
+            "airport_ref": "3778",
+            "airport_ident": "KPIT",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "126.75"
+        },
+        {
+            "id": "63153",
+            "airport_ref": "3778",
+            "airport_ident": "KPIT",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "118.65"
+        },
+        {
+            "id": "63154",
+            "airport_ref": "3778",
+            "airport_ident": "KPIT",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "63155",
+            "airport_ref": "3778",
+            "airport_ident": "KPIT",
+            "type": "OPS",
+            "description": "ANG OPS",
+            "frequency_mhz": "31.1"
+        },
+        {
+            "id": "63156",
+            "airport_ref": "3778",
+            "airport_ident": "KPIT",
+            "type": "POST",
+            "description": "PITT COMD POST",
+            "frequency_mhz": "25.21"
+        },
+        {
+            "id": "63157",
+            "airport_ref": "3778",
+            "airport_ident": "KPIT",
+            "type": "RDO",
+            "description": "ALTOONA RDO",
+            "frequency_mhz": "112"
+        },
+        {
+            "id": "63158",
+            "airport_ref": "3778",
+            "airport_ident": "KPIT",
+            "type": "RMP",
+            "description": "RAMP CON",
+            "frequency_mhz": "131.375"
+        },
+        {
+            "id": "63159",
+            "airport_ref": "3778",
+            "airport_ident": "KPIT",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "119.1"
+        },
+        {
+            "id": "63160",
+            "airport_ref": "3778",
+            "airport_ident": "KPIT",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

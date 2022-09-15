@@ -85,6 +85,72 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "62874",
+            "airport_ref": "3512",
+            "airport_ident": "KELP",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.15"
+        },
+        {
+            "id": "62875",
+            "airport_ref": "3512",
+            "airport_ident": "KELP",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "120"
+        },
+        {
+            "id": "62876",
+            "airport_ref": "3512",
+            "airport_ident": "KELP",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "125"
+        },
+        {
+            "id": "62877",
+            "airport_ref": "3512",
+            "airport_ident": "KELP",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "119.15"
+        },
+        {
+            "id": "62878",
+            "airport_ref": "3512",
+            "airport_ident": "KELP",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "62879",
+            "airport_ref": "3512",
+            "airport_ident": "KELP",
+            "type": "RDO",
+            "description": "ALBUQUERQUE RDO",
+            "frequency_mhz": "122.4"
+        },
+        {
+            "id": "62880",
+            "airport_ref": "3512",
+            "airport_ident": "KELP",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "62881",
+            "airport_ref": "3512",
+            "airport_ident": "KELP",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

@@ -41,6 +41,96 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "67899",
+            "airport_ref": "3712",
+            "airport_ident": "KMTC",
+            "type": "A/G",
+            "description": "927 ARW OPS",
+            "frequency_mhz": "31.42"
+        },
+        {
+            "id": "67900",
+            "airport_ref": "3712",
+            "airport_ident": "KMTC",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.6"
+        },
+        {
+            "id": "67901",
+            "airport_ref": "3712",
+            "airport_ident": "KMTC",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "125.325"
+        },
+        {
+            "id": "67902",
+            "airport_ref": "3712",
+            "airport_ident": "KMTC",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "119"
+        },
+        {
+            "id": "67903",
+            "airport_ref": "3712",
+            "airport_ident": "KMTC",
+            "type": "DEP",
+            "description": "DEP",
+            "frequency_mhz": "119.6"
+        },
+        {
+            "id": "67904",
+            "airport_ref": "3712",
+            "airport_ident": "KMTC",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "128.3"
+        },
+        {
+            "id": "67905",
+            "airport_ref": "3712",
+            "airport_ident": "KMTC",
+            "type": "MISC",
+            "description": "USCG DETROIT AIR",
+            "frequency_mhz": "38.18"
+        },
+        {
+            "id": "67906",
+            "airport_ref": "3712",
+            "airport_ident": "KMTC",
+            "type": "OPS",
+            "description": "WING COMD POST",
+            "frequency_mhz": "148.525"
+        },
+        {
+            "id": "67907",
+            "airport_ref": "3712",
+            "airport_ident": "KMTC",
+            "type": "PMSV",
+            "description": "PMSV/METRO",
+            "frequency_mhz": "34.25"
+        },
+        {
+            "id": "67908",
+            "airport_ref": "3712",
+            "airport_ident": "KMTC",
+            "type": "PTD",
+            "description": "PTD",
+            "frequency_mhz": "134.85"
+        },
+        {
+            "id": "67909",
+            "airport_ref": "3712",
+            "airport_ident": "KMTC",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "120.15"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

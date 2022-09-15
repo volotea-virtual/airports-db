@@ -85,6 +85,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "299975",
+            "airport_ref": "299971",
+            "airport_ident": "SE-0005",
+            "type": "CTAF",
+            "description": "Molanda Radio",
+            "frequency_mhz": "123.45"
+        }
+    ],
     "country": {
         "id": "302715",
         "code": "SE",

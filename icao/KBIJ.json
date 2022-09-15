@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "63503",
+            "airport_ref": "19378",
+            "airport_ident": "KBIJ",
+            "type": "A/D",
+            "description": "CAIRNS APP/DEP",
+            "frequency_mhz": "125.4"
+        },
+        {
+            "id": "63504",
+            "airport_ref": "19378",
+            "airport_ident": "KBIJ",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.475"
+        },
+        {
+            "id": "63505",
+            "airport_ref": "19378",
+            "airport_ident": "KBIJ",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.9"
+        },
+        {
+            "id": "63506",
+            "airport_ref": "19378",
+            "airport_ident": "KBIJ",
+            "type": "GCO",
+            "description": "MACON FSS",
+            "frequency_mhz": "121.725"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

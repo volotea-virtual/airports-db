@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51528",
+            "airport_ref": "6164",
+            "airport_ident": "SKSV",
+            "type": "RDO",
+            "description": "S VIC D CAGUAN RDO",
+            "frequency_mhz": "348.8"
+        },
+        {
+            "id": "51529",
+            "airport_ref": "6164",
+            "airport_ident": "SKSV",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.4"
+        }
+    ],
     "country": {
         "id": "302793",
         "code": "CO",

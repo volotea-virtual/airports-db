@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "71888",
+            "airport_ref": "3006",
+            "airport_ident": "FVKB",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "125.3"
+        },
+        {
+            "id": "71889",
+            "airport_ref": "3006",
+            "airport_ident": "FVKB",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "125.3"
+        }
+    ],
     "country": {
         "id": "302612",
         "code": "ZW",

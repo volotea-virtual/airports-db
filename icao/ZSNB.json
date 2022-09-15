@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51282",
+            "airport_ref": "27220",
+            "airport_ident": "ZSNB",
+            "type": "GND",
+            "description": "NINGBO GND",
+            "frequency_mhz": "121.85"
+        },
+        {
+            "id": "51283",
+            "airport_ref": "27220",
+            "airport_ident": "ZSNB",
+            "type": "TWR",
+            "description": "NINGBO TWR",
+            "frequency_mhz": "118.35"
+        }
+    ],
     "country": {
         "id": "302627",
         "code": "CN",

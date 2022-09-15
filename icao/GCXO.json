@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57234",
+            "airport_ref": "3084",
+            "airport_ident": "GCXO",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "57235",
+            "airport_ref": "3084",
+            "airport_ident": "GCXO",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "118.575"
+        },
+        {
+            "id": "57236",
+            "airport_ref": "3084",
+            "airport_ident": "GCXO",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.7"
+        },
+        {
+            "id": "57237",
+            "airport_ref": "3084",
+            "airport_ident": "GCXO",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
     "country": {
         "id": "302684",
         "code": "ES",

@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": "650"
         }
     ],
+    "freqs": [
+        {
+            "id": "59055",
+            "airport_ref": "17230",
+            "airport_ident": "FA40",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "123"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

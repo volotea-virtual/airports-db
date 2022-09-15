@@ -6,9 +6,9 @@
     "latitude_deg": "43.102502",
     "longitude_deg": "-8.7617",
     "elevation_ft": "1200",
-    "continent": "EU",
+    "continent": "AF",
     "iso_country": "ES",
-    "iso_region": "ES-U-A",
+    "iso_region": "ES-C",
     "municipality": "Santa Comba",
     "scheduled_service": "no",
     "gps_code": "",
@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "352756",
+            "airport_ref": "309929",
+            "airport_ident": "ES-0012",
+            "type": "RADIO",
+            "description": "",
+            "frequency_mhz": "130.125"
+        }
+    ],
     "country": {
         "id": "302684",
         "code": "ES",
@@ -50,13 +60,13 @@
         "keywords": "Aeropuertos de España"
     },
     "region": {
-        "id": "303781",
-        "code": "ES-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "303736",
+        "code": "ES-C",
+        "local_code": "C",
+        "name": "La Coruña",
         "continent": "EU",
         "iso_country": "ES",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/La_Coruña",
+        "keywords": "Airports in La Coruña"
     }
 }

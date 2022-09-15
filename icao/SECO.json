@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51789",
+            "airport_ref": "6053",
+            "airport_ident": "SECO",
+            "type": "APP",
+            "description": "QUITO APP",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "51790",
+            "airport_ref": "6053",
+            "airport_ident": "SECO",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "126.9"
+        },
+        {
+            "id": "51791",
+            "airport_ref": "6053",
+            "airport_ident": "SECO",
+            "type": "TWR",
+            "description": "COCA TWR",
+            "frequency_mhz": "123.5"
+        }
+    ],
     "country": {
         "id": "302794",
         "code": "EC",

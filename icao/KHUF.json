@@ -85,6 +85,72 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "63879",
+            "airport_ref": "3597",
+            "airport_ident": "KHUF",
+            "type": "A/D",
+            "description": "APP/DEP",
+            "frequency_mhz": "119.8"
+        },
+        {
+            "id": "63880",
+            "airport_ref": "3597",
+            "airport_ident": "KHUF",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "127.5"
+        },
+        {
+            "id": "63881",
+            "airport_ref": "3597",
+            "airport_ident": "KHUF",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.5"
+        },
+        {
+            "id": "63882",
+            "airport_ref": "3597",
+            "airport_ident": "KHUF",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.6"
+        },
+        {
+            "id": "63883",
+            "airport_ref": "3597",
+            "airport_ident": "KHUF",
+            "type": "OPS",
+            "description": "RACER OPS",
+            "frequency_mhz": "143.55"
+        },
+        {
+            "id": "63884",
+            "airport_ref": "3597",
+            "airport_ident": "KHUF",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "122.2"
+        },
+        {
+            "id": "63885",
+            "airport_ref": "3597",
+            "airport_ident": "KHUF",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.3"
+        },
+        {
+            "id": "63886",
+            "airport_ref": "3597",
+            "airport_ident": "KHUF",
+            "type": "UNIC",
+            "description": "UNICOM",
+            "frequency_mhz": "122.95"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

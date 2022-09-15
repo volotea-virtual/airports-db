@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53752",
+            "airport_ref": "26852",
+            "airport_ident": "WIKK",
+            "type": "APP",
+            "description": "PANGKALPINANG APP",
+            "frequency_mhz": "123.6"
+        },
+        {
+            "id": "53753",
+            "airport_ref": "26852",
+            "airport_ident": "WIKK",
+            "type": "TWR",
+            "description": "AMIR TWR",
+            "frequency_mhz": "118.3"
+        }
+    ],
     "country": {
         "id": "302632",
         "code": "ID",

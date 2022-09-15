@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53447",
+            "airport_ref": "4646",
+            "airport_ident": "MGRB",
+            "type": "RDO",
+            "description": "RDO",
+            "frequency_mhz": "122.9"
+        }
+    ],
     "country": {
         "id": "302738",
         "code": "GT",

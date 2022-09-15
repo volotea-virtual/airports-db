@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52172",
+            "airport_ref": "5002",
+            "airport_ident": "NTMN",
+            "type": "AFIS",
+            "description": "INFO",
+            "frequency_mhz": "119.5"
+        },
+        {
+            "id": "52173",
+            "airport_ref": "5002",
+            "airport_ident": "NTMN",
+            "type": "RDO",
+            "description": "TAHITI RDO",
+            "frequency_mhz": "568"
+        }
+    ],
     "country": {
         "id": "302777",
         "code": "PF",

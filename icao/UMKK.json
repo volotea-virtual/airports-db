@@ -41,6 +41,56 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56737",
+            "airport_ref": "6498",
+            "airport_ident": "UMKK",
+            "type": "GND",
+            "description": "KALININGRAD GND",
+            "frequency_mhz": "126"
+        },
+        {
+            "id": "56738",
+            "airport_ref": "6498",
+            "airport_ident": "UMKK",
+            "type": "MISC",
+            "description": "KALININGGRAD TRANSIT",
+            "frequency_mhz": "131.7"
+        },
+        {
+            "id": "56739",
+            "airport_ref": "6498",
+            "airport_ident": "UMKK",
+            "type": "PMSV",
+            "description": "KALININGRAD METEO",
+            "frequency_mhz": "122.05"
+        },
+        {
+            "id": "56740",
+            "airport_ref": "6498",
+            "airport_ident": "UMKK",
+            "type": "RDR",
+            "description": "KALININGRAD RADAR",
+            "frequency_mhz": "126"
+        },
+        {
+            "id": "56741",
+            "airport_ref": "6498",
+            "airport_ident": "UMKK",
+            "type": "TWR",
+            "description": "KALININGRAD TWR",
+            "frequency_mhz": "129.425"
+        },
+        {
+            "id": "310278",
+            "airport_ref": "6498",
+            "airport_ident": "UMKK",
+            "type": "VOR-DME",
+            "description": "KRD",
+            "frequency_mhz": "117.05"
+        }
+    ],
     "country": {
         "id": "302714",
         "code": "RU",

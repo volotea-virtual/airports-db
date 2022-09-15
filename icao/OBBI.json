@@ -63,6 +63,48 @@
             "he_displaced_threshold_ft": "395"
         }
     ],
+    "freqs": [
+        {
+            "id": "49286",
+            "airport_ref": "5079",
+            "airport_ident": "OBBI",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "127.85"
+        },
+        {
+            "id": "49287",
+            "airport_ref": "5079",
+            "airport_ident": "OBBI",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "127.2"
+        },
+        {
+            "id": "49288",
+            "airport_ref": "5079",
+            "airport_ident": "OBBI",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.675"
+        },
+        {
+            "id": "49289",
+            "airport_ref": "5079",
+            "airport_ident": "OBBI",
+            "type": "OPS",
+            "description": "ATOC",
+            "frequency_mhz": "32.175"
+        },
+        {
+            "id": "49290",
+            "airport_ref": "5079",
+            "airport_ident": "OBBI",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.5"
+        }
+    ],
     "country": {
         "id": "302623",
         "code": "BH",

@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "66960",
+            "airport_ref": "21161",
+            "airport_ident": "KT65",
+            "type": "A/D",
+            "description": "VALLEY APP/DEP",
+            "frequency_mhz": "125.95"
+        },
+        {
+            "id": "66961",
+            "airport_ref": "21161",
+            "airport_ident": "KT65",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.575"
+        },
+        {
+            "id": "66962",
+            "airport_ref": "21161",
+            "airport_ident": "KT65",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

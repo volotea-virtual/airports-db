@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "63485",
+            "airport_ref": "21127",
+            "airport_ident": "KSXL",
+            "type": "A/D",
+            "description": "CHARLESTON APP/DEP",
+            "frequency_mhz": "119.2"
+        },
+        {
+            "id": "63486",
+            "airport_ref": "21127",
+            "airport_ident": "KSXL",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

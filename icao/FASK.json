@@ -63,6 +63,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "57025",
+            "airport_ref": "2838",
+            "airport_ident": "FASK",
+            "type": "APP",
+            "description": "WATERKLOOF APP",
+            "frequency_mhz": "134.4"
+        },
+        {
+            "id": "57026",
+            "airport_ref": "2838",
+            "airport_ident": "FASK",
+            "type": "GND",
+            "description": "GND",
+            "frequency_mhz": "121.75"
+        },
+        {
+            "id": "57027",
+            "airport_ref": "2838",
+            "airport_ident": "FASK",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "123.2"
+        }
+    ],
     "country": {
         "id": "302610",
         "code": "ZA",

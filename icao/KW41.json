@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "59521",
+            "airport_ref": "21355",
+            "airport_ident": "KW41",
+            "type": "A/D",
+            "description": "PATUXENT APP/DEP",
+            "frequency_mhz": "127.95"
+        },
+        {
+            "id": "59522",
+            "airport_ref": "21355",
+            "airport_ident": "KW41",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

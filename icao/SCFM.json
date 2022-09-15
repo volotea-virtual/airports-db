@@ -63,6 +63,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "51310",
+            "airport_ref": "6019",
+            "airport_ident": "SCFM",
+            "type": "ARTC",
+            "description": "PUNTA ARENAS CNTR",
+            "frequency_mhz": "128.1"
+        },
+        {
+            "id": "51311",
+            "airport_ref": "6019",
+            "airport_ident": "SCFM",
+            "type": "INFO",
+            "description": "PORVENIR INFO",
+            "frequency_mhz": "126.7"
+        }
+    ],
     "country": {
         "id": "302792",
         "code": "CL",

@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53569",
+            "airport_ref": "117",
+            "airport_ident": "BIAR",
+            "type": "ACC",
+            "description": "REYKJAVIK ACC",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "53570",
+            "airport_ref": "117",
+            "airport_ident": "BIAR",
+            "type": "RDR",
+            "description": "RADAR",
+            "frequency_mhz": "118.7"
+        },
+        {
+            "id": "53571",
+            "airport_ref": "117",
+            "airport_ident": "BIAR",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.2"
+        }
+    ],
     "country": {
         "id": "302696",
         "code": "IS",

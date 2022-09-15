@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "52423",
+            "airport_ref": "4077",
+            "airport_ident": "LFBZ",
+            "type": "APP",
+            "description": "BIARRITZ APP",
+            "frequency_mhz": "125.6"
+        },
+        {
+            "id": "52424",
+            "airport_ref": "4077",
+            "airport_ident": "LFBZ",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "128.225"
+        },
+        {
+            "id": "52425",
+            "airport_ref": "4077",
+            "airport_ident": "LFBZ",
+            "type": "GND",
+            "description": "BIARRITZ GND",
+            "frequency_mhz": "121.95"
+        },
+        {
+            "id": "52426",
+            "airport_ref": "4077",
+            "airport_ident": "LFBZ",
+            "type": "TWR",
+            "description": "BIARRITZ TWR",
+            "frequency_mhz": "118.7"
+        }
+    ],
     "country": {
         "id": "302687",
         "code": "FR",

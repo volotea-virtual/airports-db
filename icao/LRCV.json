@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "56448",
+            "airport_ref": "4479",
+            "airport_ident": "LRCV",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "124.3"
+        },
+        {
+            "id": "56449",
+            "airport_ref": "4479",
+            "airport_ident": "LRCV",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "124.3"
+        }
+    ],
     "country": {
         "id": "302712",
         "code": "RO",

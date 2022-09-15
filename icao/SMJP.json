@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "55888",
+            "airport_ref": "6195",
+            "airport_ident": "SMJP",
+            "type": "APP",
+            "description": "PENGEL APP (USE PENGEL TOWER: 118.5)",
+            "frequency_mhz": "129.2"
+        },
+        {
+            "id": "300729",
+            "airport_ref": "6195",
+            "airport_ident": "SMJP",
+            "type": "AREA CTRL",
+            "description": "PARAMARIBO CTRL",
+            "frequency_mhz": "123.9"
+        },
+        {
+            "id": "300730",
+            "airport_ref": "6195",
+            "airport_ident": "SMJP",
+            "type": "AREA CTRL",
+            "description": "PARAMARIBO CTRL (BACKUP FREQ.)",
+            "frequency_mhz": "133.3"
+        },
+        {
+            "id": "55889",
+            "airport_ref": "6195",
+            "airport_ident": "SMJP",
+            "type": "GND",
+            "description": "GND - USE PENGEL TWR FREQ 118.5",
+            "frequency_mhz": "121.9"
+        },
+        {
+            "id": "55890",
+            "airport_ref": "6195",
+            "airport_ident": "SMJP",
+            "type": "TWR",
+            "description": "PENGEL TWR",
+            "frequency_mhz": "118.5"
+        }
+    ],
     "country": {
         "id": "302800",
         "code": "SR",

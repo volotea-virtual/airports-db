@@ -41,6 +41,40 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "53171",
+            "airport_ref": "2738",
+            "airport_ident": "ETNJ",
+            "type": "ACC",
+            "description": "BREMEN CON",
+            "frequency_mhz": "124.075"
+        },
+        {
+            "id": "53173",
+            "airport_ref": "2738",
+            "airport_ident": "ETNJ",
+            "type": "RDR",
+            "description": "WITTMUND RADAR",
+            "frequency_mhz": "38.54"
+        },
+        {
+            "id": "53172",
+            "airport_ref": "2738",
+            "airport_ident": "ETNJ",
+            "type": "RDR",
+            "description": "WITTMUND RADAR",
+            "frequency_mhz": "123.3"
+        },
+        {
+            "id": "53174",
+            "airport_ref": "2738",
+            "airport_ident": "ETNJ",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "118.725"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

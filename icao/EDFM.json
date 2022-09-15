@@ -63,6 +63,40 @@
             "he_displaced_threshold_ft": "82"
         }
     ],
+    "freqs": [
+        {
+            "id": "53238",
+            "airport_ref": "2228",
+            "airport_ident": "EDFM",
+            "type": "APP",
+            "description": "COLEMAN APP",
+            "frequency_mhz": "130.5"
+        },
+        {
+            "id": "53239",
+            "airport_ref": "2228",
+            "airport_ident": "EDFM",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "132.415"
+        },
+        {
+            "id": "53240",
+            "airport_ref": "2228",
+            "airport_ident": "EDFM",
+            "type": "CNTR",
+            "description": "LANGEN RADAR",
+            "frequency_mhz": "127.5"
+        },
+        {
+            "id": "324814",
+            "airport_ref": "2228",
+            "airport_ident": "EDFM",
+            "type": "TWR",
+            "description": "Mannheim Tower",
+            "frequency_mhz": "129.78"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

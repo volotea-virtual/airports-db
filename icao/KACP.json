@@ -41,6 +41,32 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "68552",
+            "airport_ref": "19230",
+            "airport_ident": "KACP",
+            "type": "A/D",
+            "description": "POLK APP/DEP",
+            "frequency_mhz": "123.7"
+        },
+        {
+            "id": "68553",
+            "airport_ref": "19230",
+            "airport_ident": "KACP",
+            "type": "AWOS",
+            "description": "AWOS 3",
+            "frequency_mhz": "118.275"
+        },
+        {
+            "id": "68554",
+            "airport_ref": "19230",
+            "airport_ident": "KACP",
+            "type": "UNIC",
+            "description": "CTAF/UNICOM",
+            "frequency_mhz": "122.8"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

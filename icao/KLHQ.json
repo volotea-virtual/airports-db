@@ -41,6 +41,48 @@
             "he_displaced_threshold_ft": "279"
         }
     ],
+    "freqs": [
+        {
+            "id": "59490",
+            "airport_ref": "20340",
+            "airport_ident": "KLHQ",
+            "type": "A/D",
+            "description": "COLUMBUS APP/DEP",
+            "frequency_mhz": "132.3"
+        },
+        {
+            "id": "59491",
+            "airport_ref": "20340",
+            "airport_ident": "KLHQ",
+            "type": "ASOS",
+            "description": "ASOS",
+            "frequency_mhz": "118.375"
+        },
+        {
+            "id": "59492",
+            "airport_ref": "20340",
+            "airport_ident": "KLHQ",
+            "type": "CLD",
+            "description": "CLNC DEL",
+            "frequency_mhz": "121.65"
+        },
+        {
+            "id": "59493",
+            "airport_ref": "20340",
+            "airport_ident": "KLHQ",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "122.725"
+        },
+        {
+            "id": "59494",
+            "airport_ref": "20340",
+            "airport_ident": "KLHQ",
+            "type": "RDO",
+            "description": "DAYTON RDO",
+            "frequency_mhz": "116.7"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

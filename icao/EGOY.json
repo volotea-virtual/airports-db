@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/RAF_West_Freugh",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "71997",
+            "airport_ref": "29170",
+            "airport_ident": "EGOY",
+            "type": "RAD/APP",
+            "description": "West Freugh RAD/APP",
+            "frequency_mhz": "130.05"
+        },
+        {
+            "id": "71996",
+            "airport_ref": "29170",
+            "airport_ident": "EGOY",
+            "type": "TWR",
+            "description": "West Freugh TWR",
+            "frequency_mhz": "122.55"
+        }
+    ],
     "country": {
         "id": "302688",
         "code": "GB",
