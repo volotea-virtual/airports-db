@@ -1,0 +1,38 @@
+{
+    "id": "356696",
+    "ident": "OIZC",
+    "type": "medium_airport",
+    "name": "Chabahar Konarak International Airport",
+    "latitude_deg": "25.44573",
+    "longitude_deg": "60.38246",
+    "elevation_ft": "13",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-11",
+    "municipality": "Konarak",
+    "scheduled_service": "yes",
+    "gps_code": "OIZC",
+    "iata_code": "",
+    "local_code": "ZBR",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302637",
+        "code": "IR",
+        "name": "Iran",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iran",
+        "keywords": "فرودگاه های ایران"
+    },
+    "region": {
+        "id": "304230",
+        "code": "IR-11",
+        "local_code": "11",
+        "name": "Sistan and Baluchestan Province",
+        "continent": "AS",
+        "iso_country": "IR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sistan_and_Baluchestan_Province",
+        "keywords": "Airports in Sistan and Baluchestan Province"
+    }
+}
