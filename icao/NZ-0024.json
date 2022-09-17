@@ -11,12 +11,12 @@
     "iso_region": "NZ-WKO",
     "municipality": "Taupo",
     "scheduled_service": "no",
-    "gps_code": "",
+    "gps_code": "NZHF",
     "iata_code": "",
     "local_code": "",
     "home_link": "http://www.helicoptertours.co.nz/",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Huka Falls",
     "freqs": [
         {
             "id": "321316",

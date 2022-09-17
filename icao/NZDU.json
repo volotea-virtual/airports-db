@@ -1,0 +1,38 @@
+{
+    "id": "356714",
+    "ident": "NZDU",
+    "type": "heliport",
+    "name": "Dunstan Hospital Heliport",
+    "latitude_deg": "-45.20092",
+    "longitude_deg": "169.331669",
+    "elevation_ft": "554",
+    "continent": "OC",
+    "iso_country": "NZ",
+    "iso_region": "NZ-OTA",
+    "municipality": "Clyde",
+    "scheduled_service": "no",
+    "gps_code": "NZDU",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302776",
+        "code": "NZ",
+        "name": "New Zealand",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Zealand",
+        "keywords": "Airports in New Zealand"
+    },
+    "region": {
+        "id": "304979",
+        "code": "NZ-OTA",
+        "local_code": "OTA",
+        "name": "Otago Region",
+        "continent": "OC",
+        "iso_country": "NZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Otago",
+        "keywords": "Airports in Otago Region"
+    }
+}
