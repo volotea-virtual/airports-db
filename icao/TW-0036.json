@@ -2,7 +2,7 @@
     "id": "337829",
     "ident": "TW-0036",
     "type": "small_airport",
-    "name": "Huadong Airstrip",
+    "name": "Gogofly Flight Training Airfield",
     "latitude_deg": "23.77948",
     "longitude_deg": "121.47453",
     "elevation_ft": "",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Huadong",
     "country": {
         "id": "302668",
         "code": "TW",

@@ -1,0 +1,38 @@
+{
+    "id": "429864",
+    "ident": "TW-0061",
+    "type": "small_airport",
+    "name": "Guanshan Airstrip",
+    "latitude_deg": "23.05556",
+    "longitude_deg": "121.17125",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "TW",
+    "iso_region": "TW-TTT",
+    "municipality": "Guanshan",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302668",
+        "code": "TW",
+        "name": "Taiwan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Taiwan",
+        "keywords": "Taiwanese airports"
+    },
+    "region": {
+        "id": "305950",
+        "code": "TW-TTT",
+        "local_code": "TTT",
+        "name": "Taitung County",
+        "continent": "AS",
+        "iso_country": "TW",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Taitung_County",
+        "keywords": "Airports in Taitung County"
+    }
+}

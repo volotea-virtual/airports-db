@@ -1,5 +1,5 @@
 {
-    "id": "356543",
+    "id": "429731",
     "ident": "SI9C",
     "type": "small_airport",
     "name": "Fazenda Eldorado do Rio Negro Airstrip",
@@ -17,30 +17,6 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
-    "runways": [
-        {
-            "id": "356544",
-            "airport_ref": "356543",
-            "airport_ident": "SI9C",
-            "length_ft": "3937",
-            "width_ft": "59",
-            "surface": "GVL",
-            "lighted": "0",
-            "closed": "0",
-            "le_ident": "01",
-            "le_latitude_deg": "",
-            "le_longitude_deg": "",
-            "le_elevation_ft": "",
-            "le_heading_degT": "",
-            "le_displaced_threshold_ft": "",
-            "he_ident": "19",
-            "he_latitude_deg": "",
-            "he_longitude_deg": "",
-            "he_elevation_ft": "",
-            "he_heading_degT": "",
-            "he_displaced_threshold_ft": ""
-        }
-    ],
     "country": {
         "id": "302791",
         "code": "BR",

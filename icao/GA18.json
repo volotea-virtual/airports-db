@@ -3,8 +3,8 @@
     "ident": "GA18",
     "type": "small_airport",
     "name": "Big Creek Flying Ranch Airport",
-    "latitude_deg": "34.83290100097656",
-    "longitude_deg": "-83.40959930419922",
+    "latitude_deg": "34.832381",
+    "longitude_deg": "-83.409226",
     "elevation_ft": "1650",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "GA18",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Rickman Airfield",
     "runways": [
         {
             "id": "246776",

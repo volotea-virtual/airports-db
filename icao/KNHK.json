@@ -141,6 +141,14 @@
             "type": "RDO",
             "description": "LEESBURG RDO",
             "frequency_mhz": "117.6"
+        },
+        {
+            "id": "61739",
+            "airport_ref": "3728",
+            "airport_ident": "KNHK",
+            "type": "TWR",
+            "description": "TWR",
+            "frequency_mhz": "123.7"
         }
     ],
     "country": {

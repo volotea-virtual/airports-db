@@ -1,10 +1,10 @@
 {
     "id": "17586",
     "ident": "GE23",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Winge Farms Airport",
-    "latitude_deg": "32.1935997009",
-    "longitude_deg": "-82.2906036377",
+    "latitude_deg": "32.192466",
+    "longitude_deg": "-82.288657",
     "elevation_ft": "195",
     "continent": "NA",
     "iso_country": "US",

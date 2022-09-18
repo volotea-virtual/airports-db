@@ -1,0 +1,38 @@
+{
+    "id": "429859",
+    "ident": "YXOO",
+    "type": "heliport",
+    "name": "Cootamundra Hospital Heliport",
+    "latitude_deg": "-34.633958",
+    "longitude_deg": "148.012673",
+    "elevation_ft": "1110",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "Cootamundra",
+    "scheduled_service": "no",
+    "gps_code": "YXOO",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": "Australian airports"
+    },
+    "region": {
+        "id": "302969",
+        "code": "AU-NSW",
+        "local_code": "NSW",
+        "name": "New South Wales",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
+        "keywords": "Airports in New South Wales"
+    }
+}
