@@ -1,0 +1,38 @@
+{
+    "id": "429884",
+    "ident": "YXYA",
+    "type": "heliport",
+    "name": "Yass Hospital Helicopter Landing Site",
+    "latitude_deg": "-34.854608",
+    "longitude_deg": "148.908316",
+    "elevation_ft": "1747",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NSW",
+    "municipality": "Yass",
+    "scheduled_service": "no",
+    "gps_code": "YXYA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Jim Beck",
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": "Australian airports"
+    },
+    "region": {
+        "id": "302969",
+        "code": "AU-NSW",
+        "local_code": "NSW",
+        "name": "New South Wales",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
+        "keywords": "Airports in New South Wales"
+    }
+}
