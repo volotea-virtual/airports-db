@@ -8,7 +8,7 @@
     "elevation_ft": "174",
     "continent": "OC",
     "iso_country": "AU",
-    "iso_region": "AU-U-A",
+    "iso_region": "AU-NSW",
     "municipality": "Macquarie Park",
     "scheduled_service": "no",
     "gps_code": "YXUH",
@@ -26,13 +26,13 @@
         "keywords": "Australian airports"
     },
     "region": {
-        "id": "302974",
-        "code": "AU-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "302969",
+        "code": "AU-NSW",
+        "local_code": "NSW",
+        "name": "New South Wales",
         "continent": "OC",
         "iso_country": "AU",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
+        "keywords": "Airports in New South Wales"
     }
 }

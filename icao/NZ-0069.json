@@ -1,0 +1,38 @@
+{
+    "id": "429941",
+    "ident": "NZ-0069",
+    "type": "small_airport",
+    "name": "Omapere Airstrip",
+    "latitude_deg": "-35.388037",
+    "longitude_deg": "173.785613",
+    "elevation_ft": "",
+    "continent": "OC",
+    "iso_country": "NZ",
+    "iso_region": "NZ-NTL",
+    "municipality": "Kaikohe",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302776",
+        "code": "NZ",
+        "name": "New Zealand",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Zealand",
+        "keywords": "Airports in New Zealand"
+    },
+    "region": {
+        "id": "304978",
+        "code": "NZ-NTL",
+        "local_code": "NTL",
+        "name": "Northland Region",
+        "continent": "OC",
+        "iso_country": "NZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Northland_Region",
+        "keywords": "Airports in Northland Region"
+    }
+}

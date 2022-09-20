@@ -3,8 +3,8 @@
     "ident": "NZKK",
     "type": "medium_airport",
     "name": "Kerikeri Airport",
-    "latitude_deg": "-35.26279830932617",
-    "longitude_deg": "173.91200256347656",
+    "latitude_deg": "-35.259148",
+    "longitude_deg": "173.913317",
     "elevation_ft": "492",
     "continent": "OC",
     "iso_country": "NZ",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "http://www.kerikeri-airport.co.nz/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Kerikeri_Airport",
-    "keywords": "",
+    "keywords": "Bay of Islands Airport",
     "runways": [
         {
             "id": "238083",
