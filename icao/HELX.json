@@ -8,7 +8,7 @@
     "elevation_ft": "276",
     "continent": "AF",
     "iso_country": "EG",
-    "iso_region": "EG-KN",
+    "iso_region": "EG-LX",
     "municipality": "Luxor",
     "scheduled_service": "yes",
     "gps_code": "HELX",
@@ -84,14 +84,14 @@
         "keywords": "مطارات مصر, Egyptian airports"
     },
     "region": {
-        "id": "303707",
-        "code": "EG-KN",
-        "local_code": "KN",
-        "name": "Qena Governorate",
+        "id": "429962",
+        "code": "EG-LX",
+        "local_code": "LX",
+        "name": "Luxor Governorate",
         "continent": "AF",
         "iso_country": "EG",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Qena_Governorate",
-        "keywords": "Airports in Qena Governorate"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Luxor_Governorate",
+        "keywords": "Airports in Luxor"
     },
     "navaids": [
         {

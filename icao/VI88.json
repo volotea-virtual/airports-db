@@ -2,21 +2,21 @@
     "id": "3336",
     "ident": "VI88",
     "type": "small_airport",
-    "name": "Jallowal Airport",
-    "latitude_deg": "31.559999465942383",
-    "longitude_deg": "75.34130096435547",
+    "name": "Beas Airport",
+    "latitude_deg": "31.559999",
+    "longitude_deg": "75.341301",
     "elevation_ft": "741",
     "continent": "AS",
     "iso_country": "IN",
     "iso_region": "IN-PB",
-    "municipality": "",
+    "municipality": "Bhaini",
     "scheduled_service": "no",
     "gps_code": "VI88",
     "iata_code": "",
     "local_code": "VI88",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Jallowal Airport",
     "runways": [
         {
             "id": "236607",
@@ -47,7 +47,7 @@
         "name": "India",
         "continent": "AS",
         "wikipedia_link": "https://en.wikipedia.org/wiki/India",
-        "keywords": ""
+        "keywords": "Airports in India, Indian airports"
     },
     "region": {
         "id": "304189",

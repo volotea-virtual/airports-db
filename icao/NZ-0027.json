@@ -8,7 +8,7 @@
     "elevation_ft": "",
     "continent": "OC",
     "iso_country": "NZ",
-    "iso_region": "NZ-U-A",
+    "iso_region": "NZ-XX",
     "municipality": "Kermadec Islands",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Airports in New Zealand"
     },
     "region": {
-        "id": "304983",
-        "code": "NZ-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "429965",
+        "code": "NZ-XX",
+        "local_code": "XX",
+        "name": "Area Outside Territorial Authority",
         "continent": "OC",
         "iso_country": "NZ",
         "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "keywords": ""
     }
 }

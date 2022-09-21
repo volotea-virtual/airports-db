@@ -8,8 +8,8 @@
     "elevation_ft": "10682",
     "continent": "AS",
     "iso_country": "IN",
-    "iso_region": "IN-JK",
-    "municipality": "Leh, Ladakh",
+    "iso_region": "IN-LA",
+    "municipality": "Leh",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
@@ -23,16 +23,16 @@
         "name": "India",
         "continent": "AS",
         "wikipedia_link": "https://en.wikipedia.org/wiki/India",
-        "keywords": ""
+        "keywords": "Airports in India, Indian airports"
     },
     "region": {
-        "id": "304178",
-        "code": "IN-JK",
-        "local_code": "JK",
-        "name": "Jammu and Kashmir",
+        "id": "429963",
+        "code": "IN-LA",
+        "local_code": "LA",
+        "name": "Ladakh",
         "continent": "AS",
         "iso_country": "IN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Jammu_and_Kashmir",
-        "keywords": "Airports in Jammu and Kashmir"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ladakh",
+        "keywords": "Airports in Ladakh"
     }
 }

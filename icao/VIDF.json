@@ -8,7 +8,7 @@
     "elevation_ft": "4910",
     "continent": "AS",
     "iso_country": "IN",
-    "iso_region": "IN-UL",
+    "iso_region": "IN-UT",
     "municipality": "Pithoragarh",
     "scheduled_service": "no",
     "gps_code": "VIDF",
@@ -47,16 +47,16 @@
         "name": "India",
         "continent": "AS",
         "wikipedia_link": "https://en.wikipedia.org/wiki/India",
-        "keywords": ""
+        "keywords": "Airports in India, Indian airports"
     },
     "region": {
         "id": "304196",
-        "code": "IN-UL",
-        "local_code": "UL",
-        "name": "Uttaranchal",
+        "code": "IN-UT",
+        "local_code": "UT",
+        "name": "Uttarakhand",
         "continent": "AS",
         "iso_country": "IN",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Uttaranchal",
-        "keywords": "Airports in Uttaranchal"
+        "keywords": "Airports in Uttarakhand, Uttaranchal"
     }
 }
