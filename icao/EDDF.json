@@ -2,9 +2,9 @@
     "id": "2212",
     "ident": "EDDF",
     "type": "large_airport",
-    "name": "Frankfurt am Main Airport",
-    "latitude_deg": "50.036249",
-    "longitude_deg": "8.559294",
+    "name": "Frankfurt Airport",
+    "latitude_deg": "50.036521",
+    "longitude_deg": "8.561268",
     "elevation_ft": "364",
     "continent": "EU",
     "iso_country": "DE",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "http://www.frankfurt-airport.de/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Frankfurt_Airport",
-    "keywords": "EDAF, Rhein-Main Air Base",
+    "keywords": "EDAF, Frankfurt am Main, Frankfurt Main, Rhein-Main Air Base, Zeppelinheim",
     "runways": [
         {
             "id": "236134",

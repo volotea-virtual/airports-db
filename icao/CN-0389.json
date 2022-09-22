@@ -1,0 +1,38 @@
+{
+    "id": "430028",
+    "ident": "CN-0389",
+    "type": "heliport",
+    "name": "Ruili Jingcheng Heliport",
+    "latitude_deg": "24.06732",
+    "longitude_deg": "97.81748",
+    "elevation_ft": "3806",
+    "continent": "AS",
+    "iso_country": "CN",
+    "iso_region": "CN-53",
+    "municipality": "Dehong (Ruili)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302627",
+        "code": "CN",
+        "name": "China",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/China",
+        "keywords": "中国的机场"
+    },
+    "region": {
+        "id": "303446",
+        "code": "CN-53",
+        "local_code": "53",
+        "name": "Yunnan Province",
+        "continent": "AS",
+        "iso_country": "CN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Yunnan",
+        "keywords": "Airports in Yunnan Province"
+    }
+}

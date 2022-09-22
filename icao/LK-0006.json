@@ -1,0 +1,38 @@
+{
+    "id": "430016",
+    "ident": "LK-0006",
+    "type": "balloonport",
+    "name": "Dambulla Balloonpoprt",
+    "latitude_deg": "7.85743",
+    "longitude_deg": "80.69005",
+    "elevation_ft": "607",
+    "continent": "AS",
+    "iso_country": "LK",
+    "iso_region": "LK-2",
+    "municipality": "Dambulla",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302648",
+        "code": "LK",
+        "name": "Sri Lanka",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sri_Lanka",
+        "keywords": "Sri Lankan airports"
+    },
+    "region": {
+        "id": "306759",
+        "code": "LK-2",
+        "local_code": "2",
+        "name": "Central Province",
+        "continent": "AS",
+        "iso_country": "LK",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Province,_Sri_Lanka",
+        "keywords": "Madhyama Palata"
+    }
+}

@@ -2,9 +2,9 @@
     "id": "45564",
     "ident": "SNHZ",
     "type": "heliport",
-    "name": "Palácio do Governo do Estado do Amazonas Heliport",
-    "latitude_deg": "-3.0925",
-    "longitude_deg": "-60.05",
+    "name": "Amazonas State Government Palace Heliport",
+    "latitude_deg": "-3.092774",
+    "longitude_deg": "-60.060239",
     "elevation_ft": "213",
     "continent": "SA",
     "iso_country": "BR",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Palácio do Governo do Estado do Amazonas Heliport",
     "runways": [
         {
             "id": "264443",

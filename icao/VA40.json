@@ -2,9 +2,9 @@
     "id": "45880",
     "ident": "VA40",
     "type": "heliport",
-    "name": "O'Gara Tech Training Facility Heliport",
-    "latitude_deg": "36.565222",
-    "longitude_deg": "-79.204444",
+    "name": "Virginia International Raceway Heliport",
+    "latitude_deg": "36.565541",
+    "longitude_deg": "-79.206797",
     "elevation_ft": "385",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "VA40",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "O'Gara Tech Training Facility",
     "runways": [
         {
             "id": "264722",

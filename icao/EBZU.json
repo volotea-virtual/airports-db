@@ -2,9 +2,9 @@
     "id": "29058",
     "ident": "EBZU",
     "type": "small_airport",
-    "name": "Zuienkerke ULM",
-    "latitude_deg": "51.2566986",
-    "longitude_deg": "3.14055991",
+    "name": "Zuienkerke Sport Aviation Airfield",
+    "latitude_deg": "51.25555",
+    "longitude_deg": "3.139858",
     "elevation_ft": "16",
     "continent": "EU",
     "iso_country": "BE",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Zuienkerke ULM",
     "runways": [
         {
             "id": "256690",

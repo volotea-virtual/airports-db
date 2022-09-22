@@ -3,8 +3,8 @@
     "ident": "EDNY",
     "type": "medium_airport",
     "name": "Friedrichshafen Airport",
-    "latitude_deg": "47.671298980699994",
-    "longitude_deg": "9.51148986816",
+    "latitude_deg": "47.671299",
+    "longitude_deg": "9.51149",
     "elevation_ft": "1367",
     "continent": "EU",
     "iso_country": "DE",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Friedrichshafen_Airport",
-    "keywords": "",
+    "keywords": "Bodensee Airport Friedrichshafen",
     "runways": [
         {
             "id": "236263",
