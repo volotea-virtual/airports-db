@@ -103,16 +103,16 @@
         "name": "Turkmenistan",
         "continent": "AS",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Turkmenistan",
-        "keywords": ""
+        "keywords": "Turkmenistani airports, Airports in Turkmenistan"
     },
     "region": {
         "id": "305805",
         "code": "TM-B",
         "local_code": "B",
-        "name": "Balkan",
+        "name": "Balkan Region",
         "continent": "AS",
         "iso_country": "TM",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Balkan",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Balkan_Region",
         "keywords": "Airports in Balkan"
     },
     "navaids": [

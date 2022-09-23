@@ -87,16 +87,16 @@
         "name": "Turkmenistan",
         "continent": "AS",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Turkmenistan",
-        "keywords": ""
+        "keywords": "Turkmenistani airports, Airports in Turkmenistan"
     },
     "region": {
         "id": "305806",
         "code": "TM-D",
         "local_code": "D",
-        "name": "Daşoguz",
+        "name": "Daşoguz Region",
         "continent": "AS",
         "iso_country": "TM",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Daşoguz",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Da%C5%9Foguz_Region",
         "keywords": "Tashauz, Dashkhovuz, Dashhowuz, Dashoguz, Dasoguz, Дашогуз"
     },
     "navaids": [

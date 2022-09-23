@@ -23,16 +23,16 @@
         "name": "Turkmenistan",
         "continent": "AS",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Turkmenistan",
-        "keywords": ""
+        "keywords": "Turkmenistani airports, Airports in Turkmenistan"
     },
     "region": {
         "id": "305808",
         "code": "TM-M",
         "local_code": "M",
-        "name": "Mary",
+        "name": "Mary Region",
         "continent": "AS",
         "iso_country": "TM",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mary",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mary_Region",
         "keywords": "Airports in Mary"
     }
 }

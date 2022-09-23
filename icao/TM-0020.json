@@ -23,16 +23,16 @@
         "name": "Turkmenistan",
         "continent": "AS",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Turkmenistan",
-        "keywords": ""
+        "keywords": "Turkmenistani airports, Airports in Turkmenistan"
     },
     "region": {
         "id": "305804",
         "code": "TM-A",
         "local_code": "A",
-        "name": "Ahal",
+        "name": "Ahal Region",
         "continent": "AS",
         "iso_country": "TM",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ahal",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ahal_Region",
         "keywords": "Airports in Ahal"
     }
 }

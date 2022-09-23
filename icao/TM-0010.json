@@ -8,7 +8,7 @@
     "elevation_ft": "",
     "continent": "AS",
     "iso_country": "TM",
-    "iso_region": "TM-A",
+    "iso_region": "TM-S",
     "municipality": "Ashgabat",
     "scheduled_service": "no",
     "gps_code": "",
@@ -23,16 +23,16 @@
         "name": "Turkmenistan",
         "continent": "AS",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Turkmenistan",
-        "keywords": ""
+        "keywords": "Turkmenistani airports, Airports in Turkmenistan"
     },
     "region": {
-        "id": "305804",
-        "code": "TM-A",
-        "local_code": "A",
-        "name": "Ahal",
+        "id": "430045",
+        "code": "TM-S",
+        "local_code": "S",
+        "name": "Ashgabat (city)",
         "continent": "AS",
         "iso_country": "TM",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ahal",
-        "keywords": "Airports in Ahal"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ashgabat",
+        "keywords": "Aşgabat"
     }
 }
