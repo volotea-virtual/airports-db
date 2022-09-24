@@ -3,8 +3,8 @@
     "ident": "YJAB",
     "type": "small_airport",
     "name": "Jabiru Airport",
-    "latitude_deg": "-12.658300399780273",
-    "longitude_deg": "132.89300537109375",
+    "latitude_deg": "-12.658056",
+    "longitude_deg": "132.894638",
     "elevation_ft": "85",
     "continent": "OC",
     "iso_country": "AU",
@@ -15,7 +15,7 @@
     "iata_code": "JAB",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Jabiru_Airport",
     "keywords": "",
     "runways": [
         {

@@ -3,8 +3,8 @@
     "ident": "YKBY",
     "type": "small_airport",
     "name": "Streaky Bay Airport",
-    "latitude_deg": "-32.83580017089844",
-    "longitude_deg": "134.29299926757812",
+    "latitude_deg": "-32.836621",
+    "longitude_deg": "134.292991",
     "elevation_ft": "69",
     "continent": "OC",
     "iso_country": "AU",
@@ -15,7 +15,7 @@
     "iata_code": "KBY",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Streaky_Bay_Airport",
     "keywords": "",
     "runways": [
         {

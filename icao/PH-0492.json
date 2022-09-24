@@ -1,0 +1,38 @@
+{
+    "id": "430071",
+    "ident": "PH-0492",
+    "type": "small_airport",
+    "name": "Three Thirty Airstrip",
+    "latitude_deg": "10.01095",
+    "longitude_deg": "123.42209",
+    "elevation_ft": "125",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-CEB",
+    "municipality": "Ronda",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302656",
+        "code": "PH",
+        "name": "Philippines",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
+        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
+    },
+    "region": {
+        "id": "305079",
+        "code": "PH-CEB",
+        "local_code": "CEB",
+        "name": "Cebu Province",
+        "continent": "AS",
+        "iso_country": "PH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cebu_Province",
+        "keywords": "Airports in Cebu Province"
+    }
+}

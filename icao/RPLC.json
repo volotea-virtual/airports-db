@@ -2,7 +2,7 @@
     "id": "5687",
     "ident": "RPLC",
     "type": "medium_airport",
-    "name": "Diosdado Macapagal International Airport",
+    "name": "Clark International Airport / Clark Air Base",
     "latitude_deg": "15.186",
     "longitude_deg": "120.559998",
     "elevation_ft": "484",
@@ -15,8 +15,8 @@
     "iata_code": "CRK",
     "local_code": "",
     "home_link": "http://www.clarkairport.com/",
-    "wikipedia_link": "https://en.wikipedia.org/wiki/Diosdado_Macapagal_International_Airport",
-    "keywords": "Clark International Airport, Paliparang Pandaigdig ng Diosdado Macapagal, Clark Air Base",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Clark_International_Airport",
+    "keywords": "Diosdado Macapagal International Airport, Paliparang Pandaigdig ng Diosdado Macapagal, Pangyatung Sulapawan ning Clark, Paliparang Pandaigdig ng Clark",
     "runways": [
         {
             "id": "238483",

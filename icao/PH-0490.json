@@ -1,0 +1,38 @@
+{
+    "id": "430069",
+    "ident": "PH-0490",
+    "type": "small_airport",
+    "name": "Camotes Airstrip",
+    "latitude_deg": "10.65955",
+    "longitude_deg": "124.37011",
+    "elevation_ft": "70",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-CEB",
+    "municipality": "San Francisco",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302656",
+        "code": "PH",
+        "name": "Philippines",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
+        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
+    },
+    "region": {
+        "id": "305079",
+        "code": "PH-CEB",
+        "local_code": "CEB",
+        "name": "Cebu Province",
+        "continent": "AS",
+        "iso_country": "PH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cebu_Province",
+        "keywords": "Airports in Cebu Province"
+    }
+}
