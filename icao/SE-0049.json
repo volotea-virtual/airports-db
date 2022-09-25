@@ -17,6 +17,40 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "430096",
+            "airport_ref": "327325",
+            "airport_ident": "SE-0049",
+            "length_ft": "1640",
+            "width_ft": "100",
+            "surface": "grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "590",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "590",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "430095",
+            "airport_ref": "327325",
+            "airport_ident": "SE-0049",
+            "type": "RDO",
+            "description": "Timmele Radio",
+            "frequency_mhz": "123.65"
+        }
+    ],
     "country": {
         "id": "302715",
         "code": "SE",

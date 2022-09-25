@@ -3,8 +3,8 @@
     "ident": "ZPJH",
     "type": "medium_airport",
     "name": "Xishuangbanna Gasa International Airport",
-    "latitude_deg": "21.9739",
-    "longitude_deg": "100.760002",
+    "latitude_deg": "21.974648",
+    "longitude_deg": "100.762224",
     "elevation_ft": "1815",
     "continent": "AS",
     "iso_country": "CN",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Xishuangbanna_Gasa_International_Airport",
-    "keywords": "",
+    "keywords": "Sipsong Panna",
     "runways": [
         {
             "id": "235168",

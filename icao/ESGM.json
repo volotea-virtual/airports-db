@@ -17,6 +17,40 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "Oreste Airport",
+    "runways": [
+        {
+            "id": "430094",
+            "airport_ref": "29327",
+            "airport_ident": "ESGM",
+            "length_ft": "2230",
+            "width_ft": "115",
+            "surface": "grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "378",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "378",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "430093",
+            "airport_ref": "29327",
+            "airport_ident": "ESGM",
+            "type": "RDO",
+            "description": "Öresten Radio",
+            "frequency_mhz": "123.2"
+        }
+    ],
     "country": {
         "id": "302715",
         "code": "SE",
