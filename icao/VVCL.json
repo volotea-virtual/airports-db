@@ -1,10 +1,10 @@
 {
     "id": "302311",
     "ident": "VVCL",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Cam Ly Airport",
-    "latitude_deg": "11.950284486500001",
-    "longitude_deg": "108.411004543",
+    "latitude_deg": "11.950284",
+    "longitude_deg": "108.411005",
     "elevation_ft": "4937",
     "continent": "AS",
     "iso_country": "VN",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Cam_Ly_Airport",
-    "keywords": "",
+    "keywords": "VVCL",
     "country": {
         "id": "302670",
         "code": "VN",

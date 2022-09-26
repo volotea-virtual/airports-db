@@ -1,0 +1,38 @@
+{
+    "id": "430099",
+    "ident": "VN-0039",
+    "type": "closed",
+    "name": "Phuoc Binh Airport",
+    "latitude_deg": "11.82115",
+    "longitude_deg": "106.96111",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "VN",
+    "iso_region": "VN-SE",
+    "municipality": "Phuoc Binh",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302670",
+        "code": "VN",
+        "name": "Vietnam",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Vietnam",
+        "keywords": "Các sân bay của Việt Nam"
+    },
+    "region": {
+        "id": "351368",
+        "code": "VN-SE",
+        "local_code": "SE",
+        "name": "Southeast Region",
+        "continent": "AS",
+        "iso_country": "VN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Southeast_(Vietnam)",
+        "keywords": "Airports in Southeast Region"
+    }
+}

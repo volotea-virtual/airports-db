@@ -11,12 +11,12 @@
     "iso_region": "US-NY",
     "municipality": "Hilton",
     "scheduled_service": "no",
-    "gps_code": "34NY",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "34NY",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "34NY",
     "runways": [
         {
             "id": "249876",
