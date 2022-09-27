@@ -11,12 +11,12 @@
     "iso_region": "PH-BOH",
     "municipality": "Tagbilaran City",
     "scheduled_service": "no",
-    "gps_code": "RPVT",
-    "iata_code": "TAG",
+    "gps_code": "",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Tagbilaran_Airport",
-    "keywords": "",
+    "keywords": "RPVT, TAG",
     "runways": [
         {
             "id": "238463",

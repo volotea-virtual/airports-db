@@ -8,7 +8,7 @@
     "elevation_ft": "",
     "continent": "EU",
     "iso_country": "GR",
-    "iso_region": "GR-83",
+    "iso_region": "GR-K",
     "municipality": "",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "αεροδρόμια στην Ελλάδα"
     },
     "region": {
-        "id": "303950",
-        "code": "GR-83",
-        "local_code": "83",
-        "name": "Lesbos",
+        "id": "430185",
+        "code": "GR-K",
+        "local_code": "K",
+        "name": "North Aegean",
         "continent": "EU",
         "iso_country": "GR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lesbos",
-        "keywords": "Lesbian"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Aegean",
+        "keywords": "Περιφέρεια Βορείου Αιγαίου"
     }
 }

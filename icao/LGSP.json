@@ -8,7 +8,7 @@
     "elevation_ft": "500",
     "continent": "EU",
     "iso_country": "GR",
-    "iso_region": "GR-16",
+    "iso_region": "GR-J",
     "municipality": "Sparti",
     "scheduled_service": "no",
     "gps_code": "LGSP",
@@ -50,13 +50,13 @@
         "keywords": "αεροδρόμια στην Ελλάδα"
     },
     "region": {
-        "id": "303918",
-        "code": "GR-16",
-        "local_code": "16",
-        "name": "Laconia",
+        "id": "430182",
+        "code": "GR-J",
+        "local_code": "J",
+        "name": "Peloponnese",
         "continent": "EU",
         "iso_country": "GR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Laconia",
-        "keywords": "Airports in Laconia"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Peloponnese_(region)",
+        "keywords": "Περιφέρεια Πελοποννήσου"
     }
 }

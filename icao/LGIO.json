@@ -8,7 +8,7 @@
     "elevation_ft": "1558",
     "continent": "EU",
     "iso_country": "GR",
-    "iso_region": "GR-33",
+    "iso_region": "GR-D",
     "municipality": "Ioannina",
     "scheduled_service": "yes",
     "gps_code": "LGIO",
@@ -84,14 +84,14 @@
         "keywords": "αεροδρόμια στην Ελλάδα"
     },
     "region": {
-        "id": "303926",
-        "code": "GR-33",
-        "local_code": "33",
-        "name": "Ioannina",
+        "id": "430178",
+        "code": "GR-D",
+        "local_code": "D",
+        "name": "Epirus",
         "continent": "EU",
         "iso_country": "GR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ioannina",
-        "keywords": "Airports in Ioannina"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Epirus_(region)",
+        "keywords": "Ήπειρος"
     },
     "navaids": [
         {

@@ -8,7 +8,7 @@
     "elevation_ft": "656",
     "continent": "EU",
     "iso_country": "GR",
-    "iso_region": "GR-85",
+    "iso_region": "GR-K",
     "municipality": "Chios Island",
     "scheduled_service": "no",
     "gps_code": "",
@@ -50,13 +50,13 @@
         "keywords": "αεροδρόμια στην Ελλάδα"
     },
     "region": {
-        "id": "303952",
-        "code": "GR-85",
-        "local_code": "85",
-        "name": "Chios",
+        "id": "430185",
+        "code": "GR-K",
+        "local_code": "K",
+        "name": "North Aegean",
         "continent": "EU",
         "iso_country": "GR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Chios",
-        "keywords": "Airports in Chios"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Aegean",
+        "keywords": "Περιφέρεια Βορείου Αιγαίου"
     }
 }

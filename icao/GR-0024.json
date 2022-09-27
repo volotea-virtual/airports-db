@@ -8,7 +8,7 @@
     "elevation_ft": "",
     "continent": "EU",
     "iso_country": "GR",
-    "iso_region": "GR-94",
+    "iso_region": "GR-M",
     "municipality": "",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "αεροδρόμια στην Ελλάδα"
     },
     "region": {
-        "id": "303956",
-        "code": "GR-94",
-        "local_code": "94",
-        "name": "Chania",
+        "id": "430180",
+        "code": "GR-M",
+        "local_code": "M",
+        "name": "Crete",
         "continent": "EU",
         "iso_country": "GR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Chania",
-        "keywords": "Crete, Κρήτη, Kriti"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Crete#Administration",
+        "keywords": "Κρήτη"
     }
 }

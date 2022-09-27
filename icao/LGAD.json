@@ -8,7 +8,7 @@
     "elevation_ft": "55",
     "continent": "EU",
     "iso_country": "GR",
-    "iso_region": "GR-14",
+    "iso_region": "GR-G",
     "municipality": "Andravida",
     "scheduled_service": "no",
     "gps_code": "LGAD",
@@ -68,14 +68,14 @@
         "keywords": "αεροδρόμια στην Ελλάδα"
     },
     "region": {
-        "id": "303916",
-        "code": "GR-14",
-        "local_code": "14",
-        "name": "Ilia",
+        "id": "353667",
+        "code": "GR-G",
+        "local_code": "G",
+        "name": "Western Greece",
         "continent": "EU",
         "iso_country": "GR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ilia",
-        "keywords": "Airports in Ilia"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Greece",
+        "keywords": "Airports in Western Greece"
     },
     "navaids": [
         {

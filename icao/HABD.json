@@ -3,8 +3,8 @@
     "ident": "HABD",
     "type": "medium_airport",
     "name": "Bahir Dar Airport",
-    "latitude_deg": "11.608099937438965",
-    "longitude_deg": "37.32160186767578",
+    "latitude_deg": "11.6081",
+    "longitude_deg": "37.321602",
     "elevation_ft": "5978",
     "continent": "AF",
     "iso_country": "ET",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Bahir_Dar_Airport",
-    "keywords": "",
+    "keywords": "Dejazmach Belay Zeleke",
     "runways": [
         {
             "id": "235669",

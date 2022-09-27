@@ -8,7 +8,7 @@
     "elevation_ft": "15",
     "continent": "EU",
     "iso_country": "GR",
-    "iso_region": "GR-21",
+    "iso_region": "GR-F",
     "municipality": "Zakynthos Island",
     "scheduled_service": "yes",
     "gps_code": "LGZA",
@@ -68,14 +68,14 @@
         "keywords": "αεροδρόμια στην Ελλάδα"
     },
     "region": {
-        "id": "303920",
-        "code": "GR-21",
-        "local_code": "21",
-        "name": "Zakynthos",
+        "id": "430177",
+        "code": "GR-F",
+        "local_code": "F",
+        "name": "Ionian Islands",
         "continent": "EU",
         "iso_country": "GR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Zakynthos",
-        "keywords": "Airports in Zakynthos"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ionian_Islands_(region)",
+        "keywords": "Περιφέρεια Ιονίων Νήσων"
     },
     "navaids": [
         {

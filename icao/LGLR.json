@@ -2,21 +2,21 @@
     "id": "4272",
     "ident": "LGLR",
     "type": "small_airport",
-    "name": "Larisa Air Base",
+    "name": "Larissa Air Base",
     "latitude_deg": "39.650253",
     "longitude_deg": "22.4655",
     "elevation_ft": "241",
     "continent": "EU",
     "iso_country": "GR",
-    "iso_region": "GR-42",
-    "municipality": "Larisa",
+    "iso_region": "GR-E",
+    "municipality": "Larissa",
     "scheduled_service": "no",
     "gps_code": "LGLR",
     "iata_code": "LRA",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Larissa_National_Airport",
-    "keywords": "",
+    "keywords": "Larissa State Airport Thessaly",
     "runways": [
         {
             "id": "236367",
@@ -90,14 +90,14 @@
         "keywords": "αεροδρόμια στην Ελλάδα"
     },
     "region": {
-        "id": "303929",
-        "code": "GR-42",
-        "local_code": "42",
-        "name": "Larissa",
+        "id": "430184",
+        "code": "GR-E",
+        "local_code": "E",
+        "name": "Thessaly",
         "continent": "EU",
         "iso_country": "GR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Larissa",
-        "keywords": "Airports in Larissa"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Thessaly",
+        "keywords": "Θεσσαλία"
     },
     "navaids": [
         {

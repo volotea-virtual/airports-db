@@ -8,7 +8,7 @@
     "elevation_ft": "",
     "continent": "EU",
     "iso_country": "GR",
-    "iso_region": "GR-03",
+    "iso_region": "GR-H",
     "municipality": "Kopaida",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "αεροδρόμια στην Ελλάδα"
     },
     "region": {
-        "id": "303908",
-        "code": "GR-03",
-        "local_code": "03",
-        "name": "Boeotia",
+        "id": "430183",
+        "code": "GR-H",
+        "local_code": "H",
+        "name": "Central Greece",
         "continent": "EU",
         "iso_country": "GR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Boeotia",
-        "keywords": "Airports in Boeotia"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Greece_(region)",
+        "keywords": "Περιφέρεια Στερεάς Ελλάδας"
     }
 }

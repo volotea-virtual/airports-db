@@ -8,7 +8,7 @@
     "elevation_ft": "2167",
     "continent": "EU",
     "iso_country": "GR",
-    "iso_region": "GR-56",
+    "iso_region": "GR-C",
     "municipality": "Argos Orestiko",
     "scheduled_service": "yes",
     "gps_code": "LGKA",
@@ -68,14 +68,14 @@
         "keywords": "αεροδρόμια στην Ελλάδα"
     },
     "region": {
-        "id": "303937",
-        "code": "GR-56",
-        "local_code": "56",
-        "name": "Kastoria",
+        "id": "430176",
+        "code": "GR-C",
+        "local_code": "C",
+        "name": "Western Macedonia",
         "continent": "EU",
         "iso_country": "GR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kastoria",
-        "keywords": "Airports in Kastoria"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Macedonia",
+        "keywords": "Δυτική Μακεδονία"
     },
     "navaids": [
         {

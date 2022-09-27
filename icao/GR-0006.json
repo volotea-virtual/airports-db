@@ -1,10 +1,10 @@
 {
     "id": "42461",
     "ident": "GR-0006",
-    "type": "closed",
+    "type": "small_airport",
     "name": "Komotini Airfield",
-    "latitude_deg": "41.109623",
-    "longitude_deg": "25.32207",
+    "latitude_deg": "41.112123",
+    "longitude_deg": "25.322385",
     "elevation_ft": "",
     "continent": "EU",
     "iso_country": "GR",

@@ -9,14 +9,14 @@
     "continent": "NA",
     "iso_country": "US",
     "iso_region": "US-TN",
-    "municipality": "Knoxville",
+    "municipality": "Alcoa",
     "scheduled_service": "yes",
     "gps_code": "KTYS",
     "iata_code": "TYS",
     "local_code": "TYS",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/McGhee_Tyson_Airport",
-    "keywords": "",
+    "keywords": "Knoxville",
     "runways": [
         {
             "id": "243473",

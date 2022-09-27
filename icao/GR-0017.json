@@ -3,13 +3,13 @@
     "ident": "GR-0017",
     "type": "small_airport",
     "name": "Kolhiko Airfield",
-    "latitude_deg": "40.7452408",
+    "latitude_deg": "40.745241",
     "longitude_deg": "23.122964",
     "elevation_ft": "",
     "continent": "EU",
     "iso_country": "GR",
-    "iso_region": "GR-U-A",
-    "municipality": "Greece",
+    "iso_region": "GR-B",
+    "municipality": "Langadas",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
@@ -26,13 +26,13 @@
         "keywords": "αεροδρόμια στην Ελλάδα"
     },
     "region": {
-        "id": "303958",
-        "code": "GR-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "430179",
+        "code": "GR-B",
+        "local_code": "B",
+        "name": "Central Macedonia",
         "continent": "EU",
         "iso_country": "GR",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Macedonia",
+        "keywords": "Κεντρική Μακεδονία"
     }
 }

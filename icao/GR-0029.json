@@ -8,7 +8,7 @@
     "elevation_ft": "",
     "continent": "EU",
     "iso_country": "GR",
-    "iso_region": "GR-58",
+    "iso_region": "GR-C",
     "municipality": "Ptolemaida",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "αεροδρόμια στην Ελλάδα"
     },
     "region": {
-        "id": "303939",
-        "code": "GR-58",
-        "local_code": "58",
-        "name": "Kozani",
+        "id": "430176",
+        "code": "GR-C",
+        "local_code": "C",
+        "name": "Western Macedonia",
         "continent": "EU",
         "iso_country": "GR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kozani",
-        "keywords": "Airports in Kozani"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Macedonia",
+        "keywords": "Δυτική Μακεδονία"
     }
 }

@@ -8,7 +8,7 @@
     "elevation_ft": "27",
     "continent": "EU",
     "iso_country": "GR",
-    "iso_region": "GR-53",
+    "iso_region": "GR-B",
     "municipality": "Alexandria",
     "scheduled_service": "no",
     "gps_code": "LGAX",
@@ -60,14 +60,14 @@
         "keywords": "αεροδρόμια στην Ελλάδα"
     },
     "region": {
-        "id": "303934",
-        "code": "GR-53",
-        "local_code": "53",
-        "name": "Imathia",
+        "id": "430179",
+        "code": "GR-B",
+        "local_code": "B",
+        "name": "Central Macedonia",
         "continent": "EU",
         "iso_country": "GR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Imathia",
-        "keywords": "Airports in Imathia"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Macedonia",
+        "keywords": "Κεντρική Μακεδονία"
     },
     "navaids": [
         {

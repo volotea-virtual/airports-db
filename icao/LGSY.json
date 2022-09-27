@@ -8,7 +8,7 @@
     "elevation_ft": "44",
     "continent": "EU",
     "iso_country": "GR",
-    "iso_region": "GR-04",
+    "iso_region": "GR-H",
     "municipality": "Skiros Island",
     "scheduled_service": "yes",
     "gps_code": "LGSY",
@@ -76,14 +76,14 @@
         "keywords": "αεροδρόμια στην Ελλάδα"
     },
     "region": {
-        "id": "303909",
-        "code": "GR-04",
-        "local_code": "04",
-        "name": "Euboea",
+        "id": "430183",
+        "code": "GR-H",
+        "local_code": "H",
+        "name": "Central Greece",
         "continent": "EU",
         "iso_country": "GR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Euboea",
-        "keywords": "Airports in Euboea"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Greece_(region)",
+        "keywords": "Περιφέρεια Στερεάς Ελλάδας"
     },
     "navaids": [
         {

@@ -8,7 +8,7 @@
     "elevation_ft": "146",
     "continent": "EU",
     "iso_country": "GR",
-    "iso_region": "GR-43",
+    "iso_region": "GR-E",
     "municipality": "Stefanovikion",
     "scheduled_service": "no",
     "gps_code": "LGSV",
@@ -60,14 +60,14 @@
         "keywords": "αεροδρόμια στην Ελλάδα"
     },
     "region": {
-        "id": "303930",
-        "code": "GR-43",
-        "local_code": "43",
-        "name": "Magnesia",
+        "id": "430184",
+        "code": "GR-E",
+        "local_code": "E",
+        "name": "Thessaly",
         "continent": "EU",
         "iso_country": "GR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Magnesia",
-        "keywords": "Airports in Magnesia"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Thessaly",
+        "keywords": "Θεσσαλία"
     },
     "navaids": [
         {

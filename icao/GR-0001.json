@@ -8,7 +8,7 @@
     "elevation_ft": "2071",
     "continent": "EU",
     "iso_country": "GR",
-    "iso_region": "GR-59",
+    "iso_region": "GR-B",
     "municipality": "Edessa",
     "scheduled_service": "no",
     "gps_code": "",
@@ -60,13 +60,13 @@
         "keywords": "αεροδρόμια στην Ελλάδα"
     },
     "region": {
-        "id": "303940",
-        "code": "GR-59",
-        "local_code": "59",
-        "name": "Pella",
+        "id": "430179",
+        "code": "GR-B",
+        "local_code": "B",
+        "name": "Central Macedonia",
         "continent": "EU",
         "iso_country": "GR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Pella",
-        "keywords": "Airports in Pella"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Macedonia",
+        "keywords": "Κεντρική Μακεδονία"
     }
 }

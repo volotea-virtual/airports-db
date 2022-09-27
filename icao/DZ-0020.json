@@ -1,0 +1,38 @@
+{
+    "id": "430147",
+    "ident": "DZ-0020",
+    "type": "small_airport",
+    "name": "Gassi Touil Airport",
+    "latitude_deg": "30.51446",
+    "longitude_deg": "6.45266",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "DZ",
+    "iso_region": "DZ-30",
+    "municipality": "Hassi Messaoud",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302568",
+        "code": "DZ",
+        "name": "Algeria",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Algeria",
+        "keywords": "مطارات الجزائر"
+    },
+    "region": {
+        "id": "303632",
+        "code": "DZ-30",
+        "local_code": "30",
+        "name": "Ouargla Province",
+        "continent": "AF",
+        "iso_country": "DZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ouargla_Province",
+        "keywords": "Airports in Ouargla Province"
+    }
+}

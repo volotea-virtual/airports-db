@@ -8,7 +8,7 @@
     "elevation_ft": "35",
     "continent": "EU",
     "iso_country": "GR",
-    "iso_region": "GR-81",
+    "iso_region": "GR-L",
     "municipality": "Kasos Island",
     "scheduled_service": "yes",
     "gps_code": "LGKS",
@@ -68,13 +68,13 @@
         "keywords": "αεροδρόμια στην Ελλάδα"
     },
     "region": {
-        "id": "303948",
-        "code": "GR-81",
-        "local_code": "81",
-        "name": "Dodecanese",
+        "id": "430181",
+        "code": "GR-L",
+        "local_code": "L",
+        "name": "South Aegean",
         "continent": "EU",
         "iso_country": "GR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Dodecanese",
-        "keywords": "Airports in Dodecanese"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Aegean",
+        "keywords": "Περιφέρεια Νοτίου Αιγαίου"
     }
 }

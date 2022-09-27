@@ -8,7 +8,7 @@
     "elevation_ft": "19",
     "continent": "EU",
     "iso_country": "GR",
-    "iso_region": "GR-84",
+    "iso_region": "GR-K",
     "municipality": "Samos Island",
     "scheduled_service": "yes",
     "gps_code": "LGSM",
@@ -76,14 +76,14 @@
         "keywords": "αεροδρόμια στην Ελλάδα"
     },
     "region": {
-        "id": "303951",
-        "code": "GR-84",
-        "local_code": "84",
-        "name": "Samos",
+        "id": "430185",
+        "code": "GR-K",
+        "local_code": "K",
+        "name": "North Aegean",
         "continent": "EU",
         "iso_country": "GR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Samos",
-        "keywords": "Airports in Samos"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Aegean",
+        "keywords": "Περιφέρεια Βορείου Αιγαίου"
     },
     "navaids": [
         {

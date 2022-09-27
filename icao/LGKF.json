@@ -8,7 +8,7 @@
     "elevation_ft": "59",
     "continent": "EU",
     "iso_country": "GR",
-    "iso_region": "GR-23",
+    "iso_region": "GR-F",
     "municipality": "Kefallinia Island",
     "scheduled_service": "yes",
     "gps_code": "LGKF",
@@ -68,14 +68,14 @@
         "keywords": "αεροδρόμια στην Ελλάδα"
     },
     "region": {
-        "id": "303922",
-        "code": "GR-23",
-        "local_code": "23",
-        "name": "Kefallinia",
+        "id": "430177",
+        "code": "GR-F",
+        "local_code": "F",
+        "name": "Ionian Islands",
         "continent": "EU",
         "iso_country": "GR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kefallinia",
-        "keywords": "Airports in Kefallinia"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ionian_Islands_(region)",
+        "keywords": "Περιφέρεια Ιονίων Νήσων"
     },
     "navaids": [
         {

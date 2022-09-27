@@ -8,7 +8,7 @@
     "elevation_ft": "",
     "continent": "EU",
     "iso_country": "GR",
-    "iso_region": "GR-82",
+    "iso_region": "GR-L",
     "municipality": "Anafi",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "αεροδρόμια στην Ελλάδα"
     },
     "region": {
-        "id": "303949",
-        "code": "GR-82",
-        "local_code": "82",
-        "name": "Cyclades",
+        "id": "430181",
+        "code": "GR-L",
+        "local_code": "L",
+        "name": "South Aegean",
         "continent": "EU",
         "iso_country": "GR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Cyclades",
-        "keywords": "Airports in Cyclades"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Aegean",
+        "keywords": "Περιφέρεια Νοτίου Αιγαίου"
     }
 }

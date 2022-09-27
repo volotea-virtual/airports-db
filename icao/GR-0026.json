@@ -8,7 +8,7 @@
     "elevation_ft": "425",
     "continent": "EU",
     "iso_country": "GR",
-    "iso_region": "GR-22",
+    "iso_region": "GR-F",
     "municipality": "Othoni",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "αεροδρόμια στην Ελλάδα"
     },
     "region": {
-        "id": "303921",
-        "code": "GR-22",
-        "local_code": "22",
-        "name": "Corfu",
+        "id": "430177",
+        "code": "GR-F",
+        "local_code": "F",
+        "name": "Ionian Islands",
         "continent": "EU",
         "iso_country": "GR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Corfu",
-        "keywords": "Kerkyra"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ionian_Islands_(region)",
+        "keywords": "Περιφέρεια Ιονίων Νήσων"
     }
 }
