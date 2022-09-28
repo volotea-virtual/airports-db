@@ -3,12 +3,12 @@
     "ident": "DAUI",
     "type": "medium_airport",
     "name": "In Salah Airport",
-    "latitude_deg": "27.250999450699997",
-    "longitude_deg": "2.51202011108",
+    "latitude_deg": "27.250999",
+    "longitude_deg": "2.51202",
     "elevation_ft": "896",
     "continent": "AF",
     "iso_country": "DZ",
-    "iso_region": "DZ-11",
+    "iso_region": "DZ-U-A",
     "municipality": "In Salah",
     "scheduled_service": "yes",
     "gps_code": "DAUI",
@@ -68,14 +68,14 @@
         "keywords": "مطارات الجزائر"
     },
     "region": {
-        "id": "303613",
-        "code": "DZ-11",
-        "local_code": "11",
-        "name": "Tamanghasset Province",
+        "id": "303651",
+        "code": "DZ-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
         "continent": "AF",
         "iso_country": "DZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tamanghasset_Province",
-        "keywords": "Airports in Tamanghasset Province"
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
     },
     "navaids": [
         {

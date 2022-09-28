@@ -1,10 +1,10 @@
 {
     "id": "41849",
     "ident": "JP-0001",
-    "type": "heliport",
+    "type": "seaplane_base",
     "name": "JMSDF Chichijima Airfield",
-    "latitude_deg": "27.089997",
-    "longitude_deg": "142.19163",
+    "latitude_deg": "27.090231",
+    "longitude_deg": "142.192032",
     "elevation_ft": "",
     "continent": "AS",
     "iso_country": "JP",

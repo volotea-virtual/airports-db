@@ -9,14 +9,14 @@
     "continent": "AS",
     "iso_country": "JP",
     "iso_region": "JP-12",
-    "municipality": "Tokyo",
+    "municipality": "Narita",
     "scheduled_service": "yes",
     "gps_code": "RJAA",
     "iata_code": "NRT",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Narita_International_Airport",
-    "keywords": "TYO, Tokyo Narita Airport, New Tokyo International Airport",
+    "keywords": "TYO, Tokyo, Tokyo Narita Airport, New Tokyo International Airport",
     "runways": [
         {
             "id": "237143",

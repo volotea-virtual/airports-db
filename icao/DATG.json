@@ -3,12 +3,12 @@
     "ident": "DATG",
     "type": "small_airport",
     "name": "In Guezzam Airport",
-    "latitude_deg": "19.566999435424805",
-    "longitude_deg": "5.75",
+    "latitude_deg": "19.560518",
+    "longitude_deg": "5.749326",
     "elevation_ft": "1312",
     "continent": "AF",
     "iso_country": "DZ",
-    "iso_region": "DZ-11",
+    "iso_region": "DZ-U-A",
     "municipality": "In Guezzam",
     "scheduled_service": "no",
     "gps_code": "DATG",
@@ -26,14 +26,14 @@
         "keywords": "مطارات الجزائر"
     },
     "region": {
-        "id": "303613",
-        "code": "DZ-11",
-        "local_code": "11",
-        "name": "Tamanghasset Province",
+        "id": "303651",
+        "code": "DZ-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
         "continent": "AF",
         "iso_country": "DZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tamanghasset_Province",
-        "keywords": "Airports in Tamanghasset Province"
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
     },
     "navaids": [
         {
