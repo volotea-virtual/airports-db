@@ -8,7 +8,7 @@
     "elevation_ft": "",
     "continent": "AF",
     "iso_country": "DZ",
-    "iso_region": "DZ-30",
+    "iso_region": "DZ-33",
     "municipality": "Hassi Bel Guebour",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "مطارات الجزائر"
     },
     "region": {
-        "id": "303632",
-        "code": "DZ-30",
-        "local_code": "30",
-        "name": "Ouargla Province",
+        "id": "303635",
+        "code": "DZ-33",
+        "local_code": "33",
+        "name": "Illizi Province",
         "continent": "AF",
         "iso_country": "DZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ouargla_Province",
-        "keywords": "Airports in Ouargla Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Illizi_Province",
+        "keywords": "Airports in Illizi Province"
     }
 }

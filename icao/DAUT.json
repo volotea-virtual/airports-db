@@ -8,7 +8,7 @@
     "elevation_ft": "1027",
     "continent": "AF",
     "iso_country": "DZ",
-    "iso_region": "DZ-U-A",
+    "iso_region": "DZ-54",
     "municipality": "Timimoun",
     "scheduled_service": "yes",
     "gps_code": "DAUT",
@@ -68,14 +68,14 @@
         "keywords": "مطارات الجزائر"
     },
     "region": {
-        "id": "303651",
-        "code": "DZ-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "430227",
+        "code": "DZ-54",
+        "local_code": "54",
+        "name": "Timimoun Province",
         "continent": "AF",
         "iso_country": "DZ",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Timimoun_Province",
+        "keywords": "ولاية تيميمون"
     },
     "navaids": [
         {

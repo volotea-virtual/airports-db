@@ -8,7 +8,7 @@
     "elevation_ft": "896",
     "continent": "AF",
     "iso_country": "DZ",
-    "iso_region": "DZ-U-A",
+    "iso_region": "DZ-57",
     "municipality": "In Salah",
     "scheduled_service": "yes",
     "gps_code": "DAUI",
@@ -68,14 +68,14 @@
         "keywords": "مطارات الجزائر"
     },
     "region": {
-        "id": "303651",
-        "code": "DZ-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "430230",
+        "code": "DZ-57",
+        "local_code": "57",
+        "name": "In Salah Province",
         "continent": "AF",
         "iso_country": "DZ",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/In_Salah_Province",
+        "keywords": "ولاية عين صالح"
     },
     "navaids": [
         {

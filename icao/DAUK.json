@@ -3,12 +3,12 @@
     "ident": "DAUK",
     "type": "medium_airport",
     "name": "Touggourt Sidi Madhi Airport",
-    "latitude_deg": "33.06779861450195",
-    "longitude_deg": "6.088669776916504",
+    "latitude_deg": "33.067799",
+    "longitude_deg": "6.08867",
     "elevation_ft": "279",
     "continent": "AF",
     "iso_country": "DZ",
-    "iso_region": "DZ-30",
+    "iso_region": "DZ-55",
     "municipality": "Touggourt",
     "scheduled_service": "yes",
     "gps_code": "DAUK",
@@ -68,14 +68,14 @@
         "keywords": "مطارات الجزائر"
     },
     "region": {
-        "id": "303632",
-        "code": "DZ-30",
-        "local_code": "30",
-        "name": "Ouargla Province",
+        "id": "430228",
+        "code": "DZ-55",
+        "local_code": "55",
+        "name": "Touggourt Province",
         "continent": "AF",
         "iso_country": "DZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ouargla_Province",
-        "keywords": "Airports in Ouargla Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Touggourt_Province",
+        "keywords": "ولاية تقرت"
     },
     "navaids": [
         {

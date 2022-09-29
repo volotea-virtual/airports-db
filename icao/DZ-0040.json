@@ -1,0 +1,38 @@
+{
+    "id": "430236",
+    "ident": "DZ-0040",
+    "type": "small_airport",
+    "name": "Ras el Miaad Airport",
+    "latitude_deg": "34.23833",
+    "longitude_deg": "4.46004",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "DZ",
+    "iso_region": "DZ-51",
+    "municipality": "Ras el Miaad",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302568",
+        "code": "DZ",
+        "name": "Algeria",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Algeria",
+        "keywords": "مطارات الجزائر"
+    },
+    "region": {
+        "id": "430224",
+        "code": "DZ-51",
+        "local_code": "51",
+        "name": "Ouled Djellal Province",
+        "continent": "AF",
+        "iso_country": "DZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ouled_Djellal_Province",
+        "keywords": "أولاد جلال"
+    }
+}

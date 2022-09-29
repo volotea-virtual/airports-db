@@ -8,7 +8,7 @@
     "elevation_ft": "",
     "continent": "AF",
     "iso_country": "DZ",
-    "iso_region": "DZ-U-A",
+    "iso_region": "DZ-56",
     "municipality": "Djanet",
     "scheduled_service": "no",
     "gps_code": "",
@@ -50,13 +50,13 @@
         "keywords": "مطارات الجزائر"
     },
     "region": {
-        "id": "303651",
-        "code": "DZ-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "430229",
+        "code": "DZ-56",
+        "local_code": "56",
+        "name": "Djanet Province",
         "continent": "AF",
         "iso_country": "DZ",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Djanet_Province",
+        "keywords": "ولاية جانت"
     }
 }

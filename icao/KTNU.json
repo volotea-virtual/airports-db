@@ -3,8 +3,8 @@
     "ident": "KTNU",
     "type": "small_airport",
     "name": "Newton Municipal Airport",
-    "latitude_deg": "41.67440032959",
-    "longitude_deg": "-93.021697998047",
+    "latitude_deg": "41.6744",
+    "longitude_deg": "-93.021698",
     "elevation_ft": "953",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "TNU",
     "home_link": "http://www.newtongov.org/index.aspx?nid=189",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Newton_Municipal_Airport_(Iowa)",
-    "keywords": "",
+    "keywords": "Earl Johnson Field",
     "runways": [
         {
             "id": "242697",
