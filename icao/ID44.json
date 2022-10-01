@@ -3,8 +3,8 @@
     "ident": "ID44",
     "type": "small_airport",
     "name": "Hidden Lakes Airport",
-    "latitude_deg": "44.22489929199219",
-    "longitude_deg": "-116.18000030517578",
+    "latitude_deg": "44.225297",
+    "longitude_deg": "-116.179508",
     "elevation_ft": "4845",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "ID44",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "High Valley Hills Airport",
     "runways": [
         {
             "id": "255321",
