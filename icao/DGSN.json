@@ -8,7 +8,7 @@
     "elevation_ft": "1014",
     "continent": "AF",
     "iso_country": "GH",
-    "iso_region": "GH-BA",
+    "iso_region": "GH-BO",
     "municipality": "Sunyani",
     "scheduled_service": "yes",
     "gps_code": "DGSN",
@@ -68,14 +68,14 @@
         "keywords": "Ghanan airports"
     },
     "region": {
-        "id": "303843",
-        "code": "GH-BA",
-        "local_code": "BA",
-        "name": "Brong-Ahafo Region",
+        "id": "430287",
+        "code": "GH-BO",
+        "local_code": "BO",
+        "name": "Bono Region",
         "continent": "AF",
         "iso_country": "GH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Brong-Ahafo_Region",
-        "keywords": "Airports in Brong-Ahafo Region"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bono_Region",
+        "keywords": ""
     },
     "navaids": [
         {

@@ -8,7 +8,7 @@
     "elevation_ft": "29",
     "continent": "AS",
     "iso_country": "TL",
-    "iso_region": "TL-DI",
+    "iso_region": "TL-AT",
     "municipality": "Atauro",
     "scheduled_service": "no",
     "gps_code": "WPAT",
@@ -26,13 +26,13 @@
         "keywords": "East Timor"
     },
     "region": {
-        "id": "305795",
-        "code": "TL-DI",
-        "local_code": "DI",
-        "name": "Dili",
+        "id": "430274",
+        "code": "TL-AT",
+        "local_code": "AT",
+        "name": "Atauro",
         "continent": "AS",
         "iso_country": "TL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Dili",
-        "keywords": "Airports in Dili"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Atauro",
+        "keywords": ""
     }
 }

@@ -8,7 +8,7 @@
     "elevation_ft": "1552",
     "continent": "AS",
     "iso_country": "KZ",
-    "iso_region": "KZ-ALM",
+    "iso_region": "KZ-JET",
     "municipality": "Kyzylagash",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Kazakh"
     },
     "region": {
-        "id": "304427",
-        "code": "KZ-ALM",
-        "local_code": "ALM",
-        "name": "Almaty Region",
+        "id": "430278",
+        "code": "KZ-JET",
+        "local_code": "JET",
+        "name": "Jetisu Region",
         "continent": "AS",
         "iso_country": "KZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Almaty_Region",
-        "keywords": "Алматы облысы"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Jetisu_Region",
+        "keywords": ""
     }
 }

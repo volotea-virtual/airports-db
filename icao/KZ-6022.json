@@ -4,11 +4,11 @@
     "type": "closed",
     "name": "Dolon Southwest Air Base",
     "latitude_deg": "50.25",
-    "longitude_deg": "79.08329772949219",
+    "longitude_deg": "79.083298",
     "elevation_ft": "830",
     "continent": "AS",
     "iso_country": "KZ",
-    "iso_region": "KZ-VOS",
+    "iso_region": "KZ-ABA",
     "municipality": "Semey",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Kazakh"
     },
     "region": {
-        "id": "304437",
-        "code": "KZ-VOS",
-        "local_code": "VOS",
-        "name": "East Kazakhstan Region",
+        "id": "430273",
+        "code": "KZ-ABA",
+        "local_code": "ABA",
+        "name": "Abai Region",
         "continent": "AS",
         "iso_country": "KZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/East_Kazakhstan_Region",
-        "keywords": "Шығыс Қазақстан облысы"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Abai_Region",
+        "keywords": ""
     }
 }

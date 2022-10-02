@@ -2,21 +2,21 @@
     "id": "6435",
     "ident": "UASS",
     "type": "medium_airport",
-    "name": "Semipalatinsk Airport",
+    "name": "Semey Airport",
     "latitude_deg": "50.351295",
     "longitude_deg": "80.234398",
     "elevation_ft": "761",
     "continent": "AS",
     "iso_country": "KZ",
-    "iso_region": "KZ-VOS",
+    "iso_region": "KZ-ABA",
     "municipality": "Semey",
     "scheduled_service": "yes",
     "gps_code": "UASS",
     "iata_code": "PLX",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "https://en.wikipedia.org/wiki/Semipalitinsk_Airport",
-    "keywords": "Semey Airport",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Semey_Airport",
+    "keywords": "Semipalatinsk Airport, Semey International Airport",
     "runways": [
         {
             "id": "237398",
@@ -82,14 +82,14 @@
         "keywords": "Kazakh"
     },
     "region": {
-        "id": "304437",
-        "code": "KZ-VOS",
-        "local_code": "VOS",
-        "name": "East Kazakhstan Region",
+        "id": "430273",
+        "code": "KZ-ABA",
+        "local_code": "ABA",
+        "name": "Abai Region",
         "continent": "AS",
         "iso_country": "KZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/East_Kazakhstan_Region",
-        "keywords": "Шығыс Қазақстан облысы"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Abai_Region",
+        "keywords": ""
     },
     "navaids": [
         {

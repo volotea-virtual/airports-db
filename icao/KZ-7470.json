@@ -3,12 +3,12 @@
     "ident": "KZ-7470",
     "type": "medium_airport",
     "name": "Dolon Air Base",
-    "latitude_deg": "50.540000915527344",
-    "longitude_deg": "79.19000244140625",
+    "latitude_deg": "50.536891",
+    "longitude_deg": "79.194689",
     "elevation_ft": "705",
     "continent": "AS",
     "iso_country": "KZ",
-    "iso_region": "KZ-VOS",
+    "iso_region": "KZ-ABA",
     "municipality": "Semey",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Kazakh"
     },
     "region": {
-        "id": "304437",
-        "code": "KZ-VOS",
-        "local_code": "VOS",
-        "name": "East Kazakhstan Region",
+        "id": "430273",
+        "code": "KZ-ABA",
+        "local_code": "ABA",
+        "name": "Abai Region",
         "continent": "AS",
         "iso_country": "KZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/East_Kazakhstan_Region",
-        "keywords": "Шығыс Қазақстан облысы"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Abai_Region",
+        "keywords": ""
     }
 }

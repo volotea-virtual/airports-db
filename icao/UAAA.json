@@ -3,12 +3,12 @@
     "ident": "UAAA",
     "type": "large_airport",
     "name": "Almaty International Airport",
-    "latitude_deg": "43.3521",
-    "longitude_deg": "77.040497",
+    "latitude_deg": "43.354267",
+    "longitude_deg": "77.042828",
     "elevation_ft": "2234",
     "continent": "AS",
     "iso_country": "KZ",
-    "iso_region": "KZ-ALM",
+    "iso_region": "KZ-ALA",
     "municipality": "Almaty",
     "scheduled_service": "yes",
     "gps_code": "UAAA",
@@ -114,14 +114,14 @@
         "keywords": "Kazakh"
     },
     "region": {
-        "id": "304427",
-        "code": "KZ-ALM",
-        "local_code": "ALM",
-        "name": "Almaty Region",
+        "id": "304426",
+        "code": "KZ-ALA",
+        "local_code": "ALA",
+        "name": "Almaty City",
         "continent": "AS",
         "iso_country": "KZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Almaty_Region",
-        "keywords": "Алматы облысы"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Almaty",
+        "keywords": "Алматы қаласы"
     },
     "navaids": [
         {

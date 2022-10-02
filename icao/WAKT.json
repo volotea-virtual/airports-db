@@ -3,13 +3,13 @@
     "ident": "WAKT",
     "type": "medium_airport",
     "name": "Tanah Merah Airport",
-    "latitude_deg": "-6.09922",
-    "longitude_deg": "140.298004",
+    "latitude_deg": "-6.09669",
+    "longitude_deg": "140.303521",
     "elevation_ft": "57",
     "continent": "AS",
     "iso_country": "ID",
-    "iso_region": "ID-PA",
-    "municipality": "Tanah Merah-Papua Island",
+    "iso_region": "ID-PS",
+    "municipality": "Tanah Merah",
     "scheduled_service": "yes",
     "gps_code": "WAKT",
     "iata_code": "TMH",
@@ -26,13 +26,13 @@
         "keywords": "Bandara di Indonesia"
     },
     "region": {
-        "id": "304118",
-        "code": "ID-PA",
-        "local_code": "PA",
-        "name": "Papua",
+        "id": "430277",
+        "code": "ID-PS",
+        "local_code": "PS",
+        "name": "Papua Selatan",
         "continent": "AS",
         "iso_country": "ID",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Papua",
-        "keywords": "Airports in Papua"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Papua",
+        "keywords": ""
     }
 }

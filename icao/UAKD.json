@@ -8,7 +8,7 @@
     "elevation_ft": "1250",
     "continent": "AS",
     "iso_country": "KZ",
-    "iso_region": "KZ-KAR",
+    "iso_region": "KZ-ULY",
     "municipality": "Zhezkazgan",
     "scheduled_service": "yes",
     "gps_code": "UAKD",
@@ -60,14 +60,14 @@
         "keywords": "Kazakh"
     },
     "region": {
-        "id": "304430",
-        "code": "KZ-KAR",
-        "local_code": "KAR",
-        "name": "Karaganda Region",
+        "id": "430281",
+        "code": "KZ-ULY",
+        "local_code": "ULY",
+        "name": "Ulytau",
         "continent": "AS",
         "iso_country": "KZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Karaganda_Region",
-        "keywords": "Қарағанды облысы"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ulytau_Region",
+        "keywords": ""
     },
     "navaids": [
         {

@@ -3,13 +3,13 @@
     "ident": "WABI",
     "type": "medium_airport",
     "name": "Nabire Airport",
-    "latitude_deg": "-3.36818",
-    "longitude_deg": "135.496002",
+    "latitude_deg": "-3.368586",
+    "longitude_deg": "135.496702",
     "elevation_ft": "20",
     "continent": "AS",
     "iso_country": "ID",
-    "iso_region": "ID-PA",
-    "municipality": "Nabire-Papua Island",
+    "iso_region": "ID-PT",
+    "municipality": "Nabire",
     "scheduled_service": "yes",
     "gps_code": "WABI",
     "iata_code": "NBX",
@@ -68,14 +68,14 @@
         "keywords": "Bandara di Indonesia"
     },
     "region": {
-        "id": "304118",
-        "code": "ID-PA",
-        "local_code": "PA",
-        "name": "Papua",
+        "id": "430276",
+        "code": "ID-PT",
+        "local_code": "PT",
+        "name": "Papua Tengah",
         "continent": "AS",
         "iso_country": "ID",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Papua",
-        "keywords": "Airports in Papua"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Papua",
+        "keywords": ""
     },
     "navaids": [
         {
