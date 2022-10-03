@@ -3,13 +3,13 @@
     "ident": "ID-ZGP",
     "type": "medium_airport",
     "name": "Bilogai-Sugapa Airport",
-    "latitude_deg": "-3.73956",
-    "longitude_deg": "137.031998",
+    "latitude_deg": "-3.739503",
+    "longitude_deg": "137.031183",
     "elevation_ft": "7348",
     "continent": "AS",
     "iso_country": "ID",
-    "iso_region": "ID-PA",
-    "municipality": "Sugapa-Papua Island",
+    "iso_region": "ID-PT",
+    "municipality": "Sugapa",
     "scheduled_service": "yes",
     "gps_code": "WABV",
     "iata_code": "UGU",
@@ -50,13 +50,13 @@
         "keywords": "Bandara di Indonesia"
     },
     "region": {
-        "id": "304118",
-        "code": "ID-PA",
-        "local_code": "PA",
-        "name": "Papua",
+        "id": "430276",
+        "code": "ID-PT",
+        "local_code": "PT",
+        "name": "Papua Tengah (Central Papua)",
         "continent": "AS",
         "iso_country": "ID",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Papua",
-        "keywords": "Airports in Papua"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Papua",
+        "keywords": ""
     }
 }

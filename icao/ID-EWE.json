@@ -2,14 +2,14 @@
     "id": "41370",
     "ident": "ID-EWE",
     "type": "small_airport",
-    "name": "Ewer Airport",
-    "latitude_deg": "-5.494",
-    "longitude_deg": "138.083",
+    "name": "Ewer Asmat Airport",
+    "latitude_deg": "-5.496185",
+    "longitude_deg": "138.078361",
     "elevation_ft": "27",
     "continent": "AS",
     "iso_country": "ID",
-    "iso_region": "ID-PA",
-    "municipality": "Asmat",
+    "iso_region": "ID-PS",
+    "municipality": "Agats",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "EWE",
@@ -50,13 +50,13 @@
         "keywords": "Bandara di Indonesia"
     },
     "region": {
-        "id": "304118",
-        "code": "ID-PA",
-        "local_code": "PA",
-        "name": "Papua",
+        "id": "430277",
+        "code": "ID-PS",
+        "local_code": "PS",
+        "name": "Papua Selatan (South Papua)",
         "continent": "AS",
         "iso_country": "ID",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Papua",
-        "keywords": "Airports in Papua"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Papua",
+        "keywords": ""
     }
 }

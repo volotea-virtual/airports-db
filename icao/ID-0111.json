@@ -3,12 +3,12 @@
     "ident": "ID-0111",
     "type": "small_airport",
     "name": "Okyap Airstrip",
-    "latitude_deg": "-4.7431",
-    "longitude_deg": "140.8487",
+    "latitude_deg": "-4.743448",
+    "longitude_deg": "140.848267",
     "elevation_ft": "4370",
     "continent": "AS",
     "iso_country": "ID",
-    "iso_region": "ID-PA",
+    "iso_region": "ID-PP",
     "municipality": "Okyap",
     "scheduled_service": "yes",
     "gps_code": "",
@@ -50,13 +50,13 @@
         "keywords": "Bandara di Indonesia"
     },
     "region": {
-        "id": "304118",
-        "code": "ID-PA",
-        "local_code": "PA",
-        "name": "Papua",
+        "id": "430275",
+        "code": "ID-PP",
+        "local_code": "PP",
+        "name": "Papua Pegunungan (Highland Papua)",
         "continent": "AS",
         "iso_country": "ID",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Papua",
-        "keywords": "Airports in Papua"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Highland_Papua",
+        "keywords": ""
     }
 }

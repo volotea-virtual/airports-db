@@ -9,14 +9,14 @@
     "continent": "AS",
     "iso_country": "ID",
     "iso_region": "ID-YO",
-    "municipality": "Yogyakarta-Java Island",
+    "municipality": "Yogyakarta",
     "scheduled_service": "yes",
     "gps_code": "WAHH",
     "iata_code": "JOG",
     "local_code": "",
     "home_link": "http://adisutjipto-airport.co.id/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Adisutjipto_International_Airport",
-    "keywords": "WIIJ,WARJ",
+    "keywords": "WIIJ, WARJ, Adisucupto",
     "runways": [
         {
             "id": "236540",

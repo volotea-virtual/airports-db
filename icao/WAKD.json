@@ -3,19 +3,19 @@
     "ident": "WAKD",
     "type": "small_airport",
     "name": "Mindiptana Airport",
-    "latitude_deg": "-5.75",
-    "longitude_deg": "140.36700439453125",
-    "elevation_ft": "157",
+    "latitude_deg": "-5.876929",
+    "longitude_deg": "140.70946",
+    "elevation_ft": "121",
     "continent": "AS",
     "iso_country": "ID",
-    "iso_region": "ID-PA",
+    "iso_region": "ID-PS",
     "municipality": "Mindiptana-Papua Island",
     "scheduled_service": "no",
     "gps_code": "WAKD",
     "iata_code": "MDP",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://id.wikipedia.org/wiki/Bandar_Udara_Mindiptana",
     "keywords": "",
     "country": {
         "id": "302632",
@@ -26,13 +26,13 @@
         "keywords": "Bandara di Indonesia"
     },
     "region": {
-        "id": "304118",
-        "code": "ID-PA",
-        "local_code": "PA",
-        "name": "Papua",
+        "id": "430277",
+        "code": "ID-PS",
+        "local_code": "PS",
+        "name": "Papua Selatan (South Papua)",
         "continent": "AS",
         "iso_country": "ID",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Papua",
-        "keywords": "Airports in Papua"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Papua",
+        "keywords": ""
     }
 }

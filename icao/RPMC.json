@@ -3,12 +3,12 @@
     "ident": "RPMC",
     "type": "medium_airport",
     "name": "Awang Airport",
-    "latitude_deg": "7.16524",
-    "longitude_deg": "124.209999",
+    "latitude_deg": "7.164753",
+    "longitude_deg": "124.209938",
     "elevation_ft": "189",
     "continent": "AS",
     "iso_country": "PH",
-    "iso_region": "PH-MAG",
+    "iso_region": "PH-MDN",
     "municipality": "Datu Odin Sinsuat",
     "scheduled_service": "yes",
     "gps_code": "RPMC",
@@ -68,14 +68,14 @@
         "keywords": "Mga alternatibong byahe mula sa Pilipinas"
     },
     "region": {
-        "id": "305098",
-        "code": "PH-MAG",
-        "local_code": "MAG",
-        "name": "Maguindanao Province",
+        "id": "430279",
+        "code": "PH-MDN",
+        "local_code": "MDN",
+        "name": "Maguindanao del Norte Province",
         "continent": "AS",
         "iso_country": "PH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Maguindanao_Province",
-        "keywords": "Airports in Maguindanao Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Maguindanao_del_Norte",
+        "keywords": ""
     },
     "navaids": [
         {

@@ -3,12 +3,12 @@
     "ident": "ID-0118",
     "type": "small_airport",
     "name": "Pass Valley Airstrip",
-    "latitude_deg": "-3.8598",
-    "longitude_deg": "139.0989",
+    "latitude_deg": "-3.85876",
+    "longitude_deg": "139.100268",
     "elevation_ft": "6500",
     "continent": "AS",
     "iso_country": "ID",
-    "iso_region": "ID-PA",
+    "iso_region": "ID-PP",
     "municipality": "Pass Valley",
     "scheduled_service": "no",
     "gps_code": "",
@@ -50,13 +50,13 @@
         "keywords": "Bandara di Indonesia"
     },
     "region": {
-        "id": "304118",
-        "code": "ID-PA",
-        "local_code": "PA",
-        "name": "Papua",
+        "id": "430275",
+        "code": "ID-PP",
+        "local_code": "PP",
+        "name": "Papua Pegunungan (Highland Papua)",
         "continent": "AS",
         "iso_country": "ID",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Papua",
-        "keywords": "Airports in Papua"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Highland_Papua",
+        "keywords": ""
     }
 }
