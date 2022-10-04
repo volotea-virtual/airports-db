@@ -2,13 +2,13 @@
     "id": "354547",
     "ident": "ID-0232",
     "type": "closed",
-    "name": "Yeimu Runway",
-    "latitude_deg": "-4.5511",
-    "longitude_deg": "139.33681",
-    "elevation_ft": "",
+    "name": "Yeimu Airstrip",
+    "latitude_deg": "-4.551057",
+    "longitude_deg": "139.336805",
+    "elevation_ft": "2400",
     "continent": "AS",
     "iso_country": "ID",
-    "iso_region": "ID-PA",
+    "iso_region": "ID-PP",
     "municipality": "Yeimu",
     "scheduled_service": "no",
     "gps_code": "",
@@ -17,6 +17,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "430311",
+            "airport_ref": "354547",
+            "airport_ident": "ID-0232",
+            "length_ft": "951",
+            "width_ft": "",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07A",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "25D",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302632",
         "code": "ID",
@@ -26,13 +50,13 @@
         "keywords": "Bandara di Indonesia"
     },
     "region": {
-        "id": "304118",
-        "code": "ID-PA",
-        "local_code": "PA",
-        "name": "Papua",
+        "id": "430275",
+        "code": "ID-PP",
+        "local_code": "PP",
+        "name": "Papua Pegunungan (Highland Papua)",
         "continent": "AS",
         "iso_country": "ID",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Papua",
-        "keywords": "Airports in Papua"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Highland_Papua",
+        "keywords": ""
     }
 }

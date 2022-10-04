@@ -2,13 +2,13 @@
     "id": "354035",
     "ident": "ID-0217",
     "type": "small_airport",
-    "name": "Tungdunbon",
-    "latitude_deg": "-5.178482",
-    "longitude_deg": "140.520473",
+    "name": "Tumdungbon Airstrip",
+    "latitude_deg": "-5.179406",
+    "longitude_deg": "140.520099",
     "elevation_ft": "",
     "continent": "AS",
     "iso_country": "ID",
-    "iso_region": "ID-PA",
+    "iso_region": "ID-PP",
     "municipality": "Pegunungan Bintang Regency",
     "scheduled_service": "no",
     "gps_code": "",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Tungdunbon",
     "country": {
         "id": "302632",
         "code": "ID",
@@ -26,13 +26,13 @@
         "keywords": "Bandara di Indonesia"
     },
     "region": {
-        "id": "304118",
-        "code": "ID-PA",
-        "local_code": "PA",
-        "name": "Papua",
+        "id": "430275",
+        "code": "ID-PP",
+        "local_code": "PP",
+        "name": "Papua Pegunungan (Highland Papua)",
         "continent": "AS",
         "iso_country": "ID",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Papua",
-        "keywords": "Airports in Papua"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Highland_Papua",
+        "keywords": ""
     }
 }

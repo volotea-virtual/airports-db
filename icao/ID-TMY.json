@@ -8,15 +8,15 @@
     "elevation_ft": "6931",
     "continent": "AS",
     "iso_country": "ID",
-    "iso_region": "ID-PA",
+    "iso_region": "ID-PP",
     "municipality": "Tiom-Papua Island",
     "scheduled_service": "no",
-    "gps_code": "",
+    "gps_code": "WABH",
     "iata_code": "TMY",
     "local_code": "TMI",
-    "home_link": "",
+    "home_link": "http://server-aplikasi.dephub.go.id/?id/bandara/detail/138",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "WAJH",
     "runways": [
         {
             "id": "311556",
@@ -72,13 +72,13 @@
         "keywords": "Bandara di Indonesia"
     },
     "region": {
-        "id": "304118",
-        "code": "ID-PA",
-        "local_code": "PA",
-        "name": "Papua",
+        "id": "430275",
+        "code": "ID-PP",
+        "local_code": "PP",
+        "name": "Papua Pegunungan (Highland Papua)",
         "continent": "AS",
         "iso_country": "ID",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Papua",
-        "keywords": "Airports in Papua"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Highland_Papua",
+        "keywords": ""
     }
 }
