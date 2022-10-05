@@ -8,7 +8,7 @@
     "elevation_ft": "358",
     "continent": "AS",
     "iso_country": "NP",
-    "iso_region": "NP-LU",
+    "iso_region": "NP-P5",
     "municipality": "Siddharthanagar (Bhairahawa)",
     "scheduled_service": "yes",
     "gps_code": "VNBW",
@@ -60,14 +60,14 @@
         "keywords": "नेपाल विमानस्थलको"
     },
     "region": {
-        "id": "306437",
-        "code": "NP-LU",
-        "local_code": "LU",
-        "name": "Lumbini",
+        "id": "430333",
+        "code": "NP-P5",
+        "local_code": "P5",
+        "name": "Lumbini Province",
         "continent": "AS",
         "iso_country": "NP",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lumbini",
-        "keywords": "Airports in Lumbini"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lumbini_Province",
+        "keywords": ""
     },
     "navaids": [
         {

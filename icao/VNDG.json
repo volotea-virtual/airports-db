@@ -8,7 +8,7 @@
     "elevation_ft": "2100",
     "continent": "AS",
     "iso_country": "NP",
-    "iso_region": "NP-RA",
+    "iso_region": "NP-P5",
     "municipality": "Dang",
     "scheduled_service": "no",
     "gps_code": "VNDG",
@@ -50,14 +50,14 @@
         "keywords": "नेपाल विमानस्थलको"
     },
     "region": {
-        "id": "306433",
-        "code": "NP-RA",
-        "local_code": "RA",
-        "name": "Rapti",
+        "id": "430333",
+        "code": "NP-P5",
+        "local_code": "P5",
+        "name": "Lumbini Province",
         "continent": "AS",
         "iso_country": "NP",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Rapti",
-        "keywords": "Airports in Rapti"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lumbini_Province",
+        "keywords": ""
     },
     "navaids": [
         {

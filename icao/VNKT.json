@@ -8,7 +8,7 @@
     "elevation_ft": "4390",
     "continent": "AS",
     "iso_country": "NP",
-    "iso_region": "NP-BA",
+    "iso_region": "NP-P3",
     "municipality": "Kathmandu",
     "scheduled_service": "yes",
     "gps_code": "VNKT",
@@ -93,12 +93,12 @@
     },
     "region": {
         "id": "306444",
-        "code": "NP-BA",
-        "local_code": "BA",
-        "name": "Bagmati",
+        "code": "NP-P3",
+        "local_code": "P3",
+        "name": "Bagmati Province",
         "continent": "AS",
         "iso_country": "NP",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bagmati",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bagmati_Province",
         "keywords": "Airports in Bagmati"
     },
     "navaids": [

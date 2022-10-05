@@ -3,12 +3,12 @@
     "ident": "VNJP",
     "type": "medium_airport",
     "name": "Janakpur Airport",
-    "latitude_deg": "26.708799362199997",
-    "longitude_deg": "85.9224014282",
+    "latitude_deg": "26.708799",
+    "longitude_deg": "85.922401",
     "elevation_ft": "256",
     "continent": "AS",
     "iso_country": "NP",
-    "iso_region": "NP-JA",
+    "iso_region": "NP-P2",
     "municipality": "Janakpur",
     "scheduled_service": "yes",
     "gps_code": "VNJP",
@@ -60,14 +60,14 @@
         "keywords": "नेपाल विमानस्थलको"
     },
     "region": {
-        "id": "306440",
-        "code": "NP-JA",
-        "local_code": "JA",
-        "name": "Janakpur",
+        "id": "430331",
+        "code": "NP-P2",
+        "local_code": "P2",
+        "name": "Madhesh Province",
         "continent": "AS",
         "iso_country": "NP",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Janakpur",
-        "keywords": "Airports in Janakpur"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Madhesh_Province",
+        "keywords": ""
     },
     "navaids": [
         {

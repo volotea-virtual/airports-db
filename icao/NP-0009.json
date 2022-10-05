@@ -8,7 +8,7 @@
     "elevation_ft": "17347",
     "continent": "AS",
     "iso_country": "NP",
-    "iso_region": "NP-SA",
+    "iso_region": "NP-P1",
     "municipality": "Khumjung",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "नेपाल विमानस्थलको"
     },
     "region": {
-        "id": "306432",
-        "code": "NP-SA",
-        "local_code": "SA",
-        "name": "Sagarmatha",
+        "id": "430330",
+        "code": "NP-P1",
+        "local_code": "P1",
+        "name": "Province No. 1",
         "continent": "AS",
         "iso_country": "NP",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Sagarmatha",
-        "keywords": "Airports in Sagarmatha"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Province_No._1",
+        "keywords": ""
     }
 }

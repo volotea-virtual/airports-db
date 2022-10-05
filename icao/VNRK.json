@@ -8,7 +8,7 @@
     "elevation_ft": "2500",
     "continent": "AS",
     "iso_country": "NP",
-    "iso_region": "NP-RA",
+    "iso_region": "NP-P6",
     "municipality": "Rukumkot",
     "scheduled_service": "yes",
     "gps_code": "VNCJ",
@@ -50,13 +50,13 @@
         "keywords": "नेपाल विमानस्थलको"
     },
     "region": {
-        "id": "306433",
-        "code": "NP-RA",
-        "local_code": "RA",
-        "name": "Rapti",
+        "id": "430334",
+        "code": "NP-P6",
+        "local_code": "P6",
+        "name": "Karnali Province",
         "continent": "AS",
         "iso_country": "NP",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Rapti",
-        "keywords": "Airports in Rapti"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Karnali_Province",
+        "keywords": ""
     }
 }

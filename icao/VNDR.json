@@ -8,7 +8,7 @@
     "elevation_ft": "8950",
     "continent": "AS",
     "iso_country": "NP",
-    "iso_region": "NP-DH",
+    "iso_region": "NP-P4",
     "municipality": "Dhorpatan",
     "scheduled_service": "no",
     "gps_code": "VNDR",
@@ -26,13 +26,13 @@
         "keywords": "नेपाल विमानस्थलको"
     },
     "region": {
-        "id": "306442",
-        "code": "NP-DH",
-        "local_code": "DH",
-        "name": "Dhawalagiri",
+        "id": "430332",
+        "code": "NP-P4",
+        "local_code": "P4",
+        "name": "Gandaki Province",
         "continent": "AS",
         "iso_country": "NP",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Dhawalagiri",
-        "keywords": "Airports in Dhawalagiri"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Gandaki_Province",
+        "keywords": ""
     }
 }

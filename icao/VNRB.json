@@ -8,7 +8,7 @@
     "elevation_ft": "250",
     "continent": "AS",
     "iso_country": "NP",
-    "iso_region": "NP-SA",
+    "iso_region": "NP-P2",
     "municipality": "Rajbiraj",
     "scheduled_service": "no",
     "gps_code": "VNRB",
@@ -26,14 +26,14 @@
         "keywords": "नेपाल विमानस्थलको"
     },
     "region": {
-        "id": "306432",
-        "code": "NP-SA",
-        "local_code": "SA",
-        "name": "Sagarmatha",
+        "id": "430331",
+        "code": "NP-P2",
+        "local_code": "P2",
+        "name": "Madhesh Province",
         "continent": "AS",
         "iso_country": "NP",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Sagarmatha",
-        "keywords": "Airports in Sagarmatha"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Madhesh_Province",
+        "keywords": ""
     },
     "navaids": [
         {

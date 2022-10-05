@@ -1,22 +1,22 @@
 {
     "id": "41376",
     "ident": "ID-KEA",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Keisah Airport",
-    "latitude_deg": "-7.666669845581055",
+    "latitude_deg": "-7.66667",
     "longitude_deg": "140.5",
     "elevation_ft": "81",
     "continent": "AS",
     "iso_country": "ID",
-    "iso_region": "ID-PA",
-    "municipality": "Keisah-Papua Island",
+    "iso_region": "ID-PS",
+    "municipality": "Keisah",
     "scheduled_service": "no",
     "gps_code": "",
-    "iata_code": "KEA",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "KEA",
     "country": {
         "id": "302632",
         "code": "ID",
@@ -26,13 +26,13 @@
         "keywords": "Bandara di Indonesia"
     },
     "region": {
-        "id": "304118",
-        "code": "ID-PA",
-        "local_code": "PA",
-        "name": "Papua",
+        "id": "430277",
+        "code": "ID-PS",
+        "local_code": "PS",
+        "name": "Papua Selatan (South Papua)",
         "continent": "AS",
         "iso_country": "ID",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Papua",
-        "keywords": "Airports in Papua"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Papua",
+        "keywords": ""
     }
 }

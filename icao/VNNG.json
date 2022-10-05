@@ -3,12 +3,12 @@
     "ident": "VNNG",
     "type": "medium_airport",
     "name": "Nepalgunj Airport",
-    "latitude_deg": "28.103599548339844",
-    "longitude_deg": "81.66699981689453",
+    "latitude_deg": "28.1036",
+    "longitude_deg": "81.667",
     "elevation_ft": "540",
     "continent": "AS",
     "iso_country": "NP",
-    "iso_region": "NP-BH",
+    "iso_region": "NP-P5",
     "municipality": "Nepalgunj",
     "scheduled_service": "yes",
     "gps_code": "VNNG",
@@ -60,14 +60,14 @@
         "keywords": "नेपाल विमानस्थलको"
     },
     "region": {
-        "id": "306443",
-        "code": "NP-BH",
-        "local_code": "BH",
-        "name": "Bheri",
+        "id": "430333",
+        "code": "NP-P5",
+        "local_code": "P5",
+        "name": "Lumbini Province",
         "continent": "AS",
         "iso_country": "NP",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bheri",
-        "keywords": "Airports in Bheri"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lumbini_Province",
+        "keywords": ""
     },
     "navaids": [
         {

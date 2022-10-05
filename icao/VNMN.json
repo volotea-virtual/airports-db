@@ -8,7 +8,7 @@
     "elevation_ft": "650",
     "continent": "AS",
     "iso_country": "NP",
-    "iso_region": "NP-MA",
+    "iso_region": "NP-P7",
     "municipality": "Mahendranagar",
     "scheduled_service": "no",
     "gps_code": "VNMN",
@@ -50,13 +50,13 @@
         "keywords": "नेपाल विमानस्थलको"
     },
     "region": {
-        "id": "306436",
-        "code": "NP-MA",
-        "local_code": "MA",
-        "name": "Mahakali",
+        "id": "430335",
+        "code": "NP-P7",
+        "local_code": "P7",
+        "name": "Sudurpashchim Province",
         "continent": "AS",
         "iso_country": "NP",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mahakali",
-        "keywords": "Airports in Mahakali"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sudurpashchim_Province",
+        "keywords": ""
     }
 }

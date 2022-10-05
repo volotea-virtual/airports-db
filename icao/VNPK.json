@@ -8,7 +8,7 @@
     "elevation_ft": "2712",
     "continent": "AS",
     "iso_country": "NP",
-    "iso_region": "NP-GA",
+    "iso_region": "NP-P4",
     "municipality": "Pokhara",
     "scheduled_service": "yes",
     "gps_code": "VNPK",
@@ -60,14 +60,14 @@
         "keywords": "नेपाल विमानस्थलको"
     },
     "region": {
-        "id": "306441",
-        "code": "NP-GA",
-        "local_code": "GA",
-        "name": "Gandaki",
+        "id": "430332",
+        "code": "NP-P4",
+        "local_code": "P4",
+        "name": "Gandaki Province",
         "continent": "AS",
         "iso_country": "NP",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Gandaki",
-        "keywords": "Airports in Gandaki"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Gandaki_Province",
+        "keywords": ""
     },
     "navaids": [
         {

@@ -3,12 +3,12 @@
     "ident": "ID-0194",
     "type": "small_airport",
     "name": "Korowai Batu Danowage Airport",
-    "latitude_deg": "-5.211157",
-    "longitude_deg": "140.017104",
+    "latitude_deg": "-5.2127",
+    "longitude_deg": "140.017582",
     "elevation_ft": "371",
     "continent": "AS",
     "iso_country": "ID",
-    "iso_region": "ID-PA",
+    "iso_region": "ID-PS",
     "municipality": "Danowage",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Bandara di Indonesia"
     },
     "region": {
-        "id": "304118",
-        "code": "ID-PA",
-        "local_code": "PA",
-        "name": "Papua",
+        "id": "430277",
+        "code": "ID-PS",
+        "local_code": "PS",
+        "name": "Papua Selatan (South Papua)",
         "continent": "AS",
         "iso_country": "ID",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Papua",
-        "keywords": "Airports in Papua"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Papua",
+        "keywords": ""
     }
 }

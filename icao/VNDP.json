@@ -8,7 +8,7 @@
     "elevation_ft": "8200",
     "continent": "AS",
     "iso_country": "NP",
-    "iso_region": "NP-KA",
+    "iso_region": "NP-P6",
     "municipality": "Dolpa",
     "scheduled_service": "yes",
     "gps_code": "VNDP",
@@ -26,13 +26,13 @@
         "keywords": "नेपाल विमानस्थलको"
     },
     "region": {
-        "id": "306439",
-        "code": "NP-KA",
-        "local_code": "KA",
-        "name": "Karnali",
+        "id": "430334",
+        "code": "NP-P6",
+        "local_code": "P6",
+        "name": "Karnali Province",
         "continent": "AS",
         "iso_country": "NP",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Karnali",
-        "keywords": "Airports in Karnali"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Karnali_Province",
+        "keywords": ""
     }
 }

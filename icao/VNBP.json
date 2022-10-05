@@ -8,7 +8,7 @@
     "elevation_ft": "600",
     "continent": "AS",
     "iso_country": "NP",
-    "iso_region": "NP-NA",
+    "iso_region": "NP-P3",
     "municipality": "Bharatpur",
     "scheduled_service": "yes",
     "gps_code": "VNBP",
@@ -50,14 +50,14 @@
         "keywords": "नेपाल विमानस्थलको"
     },
     "region": {
-        "id": "306434",
-        "code": "NP-NA",
-        "local_code": "NA",
-        "name": "Narayani",
+        "id": "306444",
+        "code": "NP-P3",
+        "local_code": "P3",
+        "name": "Bagmati Province",
         "continent": "AS",
         "iso_country": "NP",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Narayani",
-        "keywords": "Airports in Narayani"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bagmati_Province",
+        "keywords": "Airports in Bagmati"
     },
     "navaids": [
         {

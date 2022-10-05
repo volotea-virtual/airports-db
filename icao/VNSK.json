@@ -8,7 +8,7 @@
     "elevation_ft": "2400",
     "continent": "AS",
     "iso_country": "NP",
-    "iso_region": "NP-BH",
+    "iso_region": "NP-P6",
     "municipality": "Surkhet",
     "scheduled_service": "yes",
     "gps_code": "VNSK",
@@ -50,14 +50,14 @@
         "keywords": "नेपाल विमानस्थलको"
     },
     "region": {
-        "id": "306443",
-        "code": "NP-BH",
-        "local_code": "BH",
-        "name": "Bheri",
+        "id": "430334",
+        "code": "NP-P6",
+        "local_code": "P6",
+        "name": "Karnali Province",
         "continent": "AS",
         "iso_country": "NP",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bheri",
-        "keywords": "Airports in Bheri"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Karnali_Province",
+        "keywords": ""
     },
     "navaids": [
         {

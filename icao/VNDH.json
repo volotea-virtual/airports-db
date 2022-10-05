@@ -3,12 +3,12 @@
     "ident": "VNDH",
     "type": "small_airport",
     "name": "Dhangarhi Airport",
-    "latitude_deg": "28.753299713134766",
-    "longitude_deg": "80.58190155029297",
+    "latitude_deg": "28.7533",
+    "longitude_deg": "80.581902",
     "elevation_ft": "690",
     "continent": "AS",
     "iso_country": "NP",
-    "iso_region": "NP-BH",
+    "iso_region": "NP-P7",
     "municipality": "Dhangarhi",
     "scheduled_service": "no",
     "gps_code": "VNDH",
@@ -50,14 +50,14 @@
         "keywords": "नेपाल विमानस्थलको"
     },
     "region": {
-        "id": "306443",
-        "code": "NP-BH",
-        "local_code": "BH",
-        "name": "Bheri",
+        "id": "430335",
+        "code": "NP-P7",
+        "local_code": "P7",
+        "name": "Sudurpashchim Province",
         "continent": "AS",
         "iso_country": "NP",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bheri",
-        "keywords": "Airports in Bheri"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sudurpashchim_Province",
+        "keywords": ""
     },
     "navaids": [
         {

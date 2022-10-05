@@ -8,7 +8,7 @@
     "elevation_ft": "4100",
     "continent": "AS",
     "iso_country": "NP",
-    "iso_region": "NP-SE",
+    "iso_region": "NP-P7",
     "municipality": "Bajhang",
     "scheduled_service": "no",
     "gps_code": "VNBG",
@@ -26,13 +26,13 @@
         "keywords": "नेपाल विमानस्थलको"
     },
     "region": {
-        "id": "306431",
-        "code": "NP-SE",
-        "local_code": "SE",
-        "name": "Seti",
+        "id": "430335",
+        "code": "NP-P7",
+        "local_code": "P7",
+        "name": "Sudurpashchim Province",
         "continent": "AS",
         "iso_country": "NP",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Seti",
-        "keywords": "Airports in Seti"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sudurpashchim_Province",
+        "keywords": ""
     }
 }

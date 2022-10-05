@@ -11,12 +11,12 @@
     "iso_region": "ID-PT",
     "municipality": "Sugapa",
     "scheduled_service": "yes",
-    "gps_code": "WABV",
+    "gps_code": "WAYB",
     "iata_code": "UGU",
     "local_code": "ZGP",
-    "home_link": "",
+    "home_link": "https://flightaware.com/live/airport/WAYB",
     "wikipedia_link": "",
-    "keywords": "Zugapa, Bilorai, ZGP",
+    "keywords": "WABV, Zugapa",
     "runways": [
         {
             "id": "311676",

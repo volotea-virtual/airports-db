@@ -8,7 +8,7 @@
     "elevation_ft": "450",
     "continent": "AS",
     "iso_country": "NP",
-    "iso_region": "NP-NA",
+    "iso_region": "NP-P2",
     "municipality": "Simara",
     "scheduled_service": "yes",
     "gps_code": "VNSI",
@@ -60,14 +60,14 @@
         "keywords": "नेपाल विमानस्थलको"
     },
     "region": {
-        "id": "306434",
-        "code": "NP-NA",
-        "local_code": "NA",
-        "name": "Narayani",
+        "id": "430331",
+        "code": "NP-P2",
+        "local_code": "P2",
+        "name": "Madhesh Province",
         "continent": "AS",
         "iso_country": "NP",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Narayani",
-        "keywords": "Airports in Narayani"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Madhesh_Province",
+        "keywords": ""
     },
     "navaids": [
         {
