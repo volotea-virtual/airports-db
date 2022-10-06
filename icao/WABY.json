@@ -4,11 +4,11 @@
     "type": "small_airport",
     "name": "Kebo Airstrip",
     "latitude_deg": "-3.8248",
-    "longitude_deg": "136.3855",
+    "longitude_deg": "136.385844",
     "elevation_ft": "5845",
     "continent": "AS",
     "iso_country": "ID",
-    "iso_region": "ID-PA",
+    "iso_region": "ID-PT",
     "municipality": "Kebo",
     "scheduled_service": "no",
     "gps_code": "WABY",
@@ -50,13 +50,13 @@
         "keywords": "Bandara di Indonesia"
     },
     "region": {
-        "id": "304118",
-        "code": "ID-PA",
-        "local_code": "PA",
-        "name": "Papua",
+        "id": "430276",
+        "code": "ID-PT",
+        "local_code": "PT",
+        "name": "Papua Tengah (Central Papua)",
         "continent": "AS",
         "iso_country": "ID",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Papua",
-        "keywords": "Airports in Papua"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Papua",
+        "keywords": ""
     }
 }

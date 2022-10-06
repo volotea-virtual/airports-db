@@ -1,0 +1,62 @@
+{
+    "id": "340295",
+    "ident": "DNBY",
+    "type": "medium_airport",
+    "name": "Bayelsa International Airport",
+    "latitude_deg": "4.29802",
+    "longitude_deg": "6.27635",
+    "elevation_ft": "",
+    "continent": "AF",
+    "iso_country": "NG",
+    "iso_region": "NG-BY",
+    "municipality": "Yenagoa",
+    "scheduled_service": "yes",
+    "gps_code": "DNBY",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bayelsa_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "430353",
+            "airport_ref": "340295",
+            "airport_ident": "DNBY",
+            "length_ft": "12139",
+            "width_ft": "",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "06",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "24",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302593",
+        "code": "NG",
+        "name": "Nigeria",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nigeria",
+        "keywords": ""
+    },
+    "region": {
+        "id": "304883",
+        "code": "NG-BY",
+        "local_code": "BY",
+        "name": "Bayelsa State",
+        "continent": "AF",
+        "iso_country": "NG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bayelsa_State",
+        "keywords": "Airports in Bayelsa"
+    }
+}
