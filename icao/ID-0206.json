@@ -2,13 +2,13 @@
     "id": "350490",
     "ident": "ID-0206",
     "type": "small_airport",
-    "name": "Markum Airstrip",
-    "latitude_deg": "-4.633231",
-    "longitude_deg": "140.498845",
+    "name": "Maksum Airstrip",
+    "latitude_deg": "-4.632613",
+    "longitude_deg": "140.497466",
     "elevation_ft": "6900",
     "continent": "AS",
     "iso_country": "ID",
-    "iso_region": "ID-PA",
+    "iso_region": "ID-PP",
     "municipality": "Pegunungan Bintang Regency",
     "scheduled_service": "no",
     "gps_code": "",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Markum",
     "country": {
         "id": "302632",
         "code": "ID",
@@ -26,13 +26,13 @@
         "keywords": "Bandara di Indonesia"
     },
     "region": {
-        "id": "304118",
-        "code": "ID-PA",
-        "local_code": "PA",
-        "name": "Papua",
+        "id": "430275",
+        "code": "ID-PP",
+        "local_code": "PP",
+        "name": "Papua Pegunungan (Highland Papua)",
         "continent": "AS",
         "iso_country": "ID",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Papua",
-        "keywords": "Airports in Papua"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Highland_Papua",
+        "keywords": ""
     }
 }
