@@ -2,13 +2,13 @@
     "id": "2378",
     "ident": "HE38",
     "type": "small_airport",
-    "name": "Wadi Abu Rish Airport",
-    "latitude_deg": "28.97570037841797",
-    "longitude_deg": "31.69890022277832",
-    "elevation_ft": "1092",
+    "name": "Abu Rish Valley Airport",
+    "latitude_deg": "28.968086",
+    "longitude_deg": "31.701586",
+    "elevation_ft": "1050",
     "continent": "AF",
     "iso_country": "EG",
-    "iso_region": "EG-BA",
+    "iso_region": "EG-BNS",
     "municipality": "",
     "scheduled_service": "no",
     "gps_code": "",
@@ -72,13 +72,13 @@
         "keywords": "مطارات مصر, Egyptian airports"
     },
     "region": {
-        "id": "303694",
-        "code": "EG-BA",
-        "local_code": "BA",
-        "name": "Red Sea Governorate",
+        "id": "303696",
+        "code": "EG-BNS",
+        "local_code": "BNS",
+        "name": "Beni Suef Governorate",
         "continent": "AF",
         "iso_country": "EG",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Red_Sea_Governorate",
-        "keywords": "Airports in Red Sea Governorate"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Beni_Suef_Governorate",
+        "keywords": "Airports in Beni Suef Governorate"
     }
 }

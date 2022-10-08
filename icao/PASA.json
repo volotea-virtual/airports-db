@@ -3,8 +3,8 @@
     "ident": "PASA",
     "type": "medium_airport",
     "name": "Savoonga Airport",
-    "latitude_deg": "63.6864013671875",
-    "longitude_deg": "-170.4929962158203",
+    "latitude_deg": "63.686401",
+    "longitude_deg": "-170.492996",
     "elevation_ft": "53",
     "continent": "NA",
     "iso_country": "US",
@@ -15,7 +15,7 @@
     "iata_code": "SVA",
     "local_code": "SVA",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Savoonga_Airport",
     "keywords": "",
     "runways": [
         {
