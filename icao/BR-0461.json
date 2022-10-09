@@ -1,7 +1,7 @@
 {
     "id": "331826",
     "ident": "BR-0461",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Fazenda Nova Jerusalém Airport",
     "latitude_deg": "-12.594081",
     "longitude_deg": "-55.697992",
@@ -11,12 +11,12 @@
     "iso_region": "BR-MT",
     "municipality": "Sorriso",
     "scheduled_service": "no",
-    "gps_code": "SSAC",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "MT0279",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SSAC",
     "runways": [
         {
             "id": "331827",
