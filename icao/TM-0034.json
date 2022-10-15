@@ -1,0 +1,38 @@
+{
+    "id": "430486",
+    "ident": "TM-0034",
+    "type": "closed",
+    "name": "Former Kerki Airport",
+    "latitude_deg": "37.810331",
+    "longitude_deg": "65.212097",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "TM",
+    "iso_region": "TM-L",
+    "municipality": "Kerki",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "KEA, UTAE",
+    "country": {
+        "id": "302666",
+        "code": "TM",
+        "name": "Turkmenistan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Turkmenistan",
+        "keywords": "Turkmenistani airports, Airports in Turkmenistan"
+    },
+    "region": {
+        "id": "305807",
+        "code": "TM-L",
+        "local_code": "L",
+        "name": "Lebap Region",
+        "continent": "AS",
+        "iso_country": "TM",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lebap_Region",
+        "keywords": "Airports in Lebap"
+    }
+}

@@ -2,13 +2,13 @@
     "id": "315888",
     "ident": "IT-0115",
     "type": "small_airport",
-    "name": "Sterzing / Vipiteno",
+    "name": "Sterzing / Vipiteno Airfield",
     "latitude_deg": "46.883764",
     "longitude_deg": "11.441338",
     "elevation_ft": "3116",
     "continent": "EU",
     "iso_country": "IT",
-    "iso_region": "IT-23",
+    "iso_region": "IT-32",
     "municipality": "Vipiteno",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Aeroporti d'Italia"
     },
     "region": {
-        "id": "306355",
-        "code": "IT-23",
-        "local_code": "23",
-        "name": "Valle d'Aosta",
+        "id": "306358",
+        "code": "IT-32",
+        "local_code": "32",
+        "name": "Trentino-Alto Adige",
         "continent": "EU",
         "iso_country": "IT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Valle_d'Aosta",
-        "keywords": "VD"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Trentino-Alto_Adige",
+        "keywords": "TT"
     }
 }

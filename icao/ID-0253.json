@@ -1,0 +1,38 @@
+{
+    "id": "430481",
+    "ident": "ID-0253",
+    "type": "closed",
+    "name": "bontang selatan aerodrome",
+    "latitude_deg": "0.034898",
+    "longitude_deg": "117.478783",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-KI",
+    "municipality": "Bontang selatan",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302632",
+        "code": "ID",
+        "name": "Indonesia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
+        "keywords": "Bandara di Indonesia"
+    },
+    "region": {
+        "id": "306379",
+        "code": "ID-KI",
+        "local_code": "KI",
+        "name": "Kalimantan Timur (East Kalimantan)",
+        "continent": "AS",
+        "iso_country": "ID",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/East_Kalimantan",
+        "keywords": "Airports in East Kalimantan"
+    }
+}

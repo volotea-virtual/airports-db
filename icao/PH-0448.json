@@ -1,8 +1,8 @@
 {
     "id": "32225",
     "ident": "PH-0448",
-    "type": "small_airport",
-    "name": "Lucena Airport",
+    "type": "closed",
+    "name": "Former Lucena Airport",
     "latitude_deg": "13.931193",
     "longitude_deg": "121.6011",
     "elevation_ft": "39",

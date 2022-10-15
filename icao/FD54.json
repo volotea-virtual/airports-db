@@ -1,8 +1,8 @@
 {
     "id": "17325",
     "ident": "FD54",
-    "type": "heliport",
-    "name": "Orlando Helitours Heliport",
+    "type": "closed",
+    "name": "Former Orlando Helitours Heliport",
     "latitude_deg": "28.3345",
     "longitude_deg": "-81.503765",
     "elevation_ft": "80",

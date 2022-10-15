@@ -1,0 +1,38 @@
+{
+    "id": "430478",
+    "ident": "ID-0252",
+    "type": "closed",
+    "name": "Manggar airbase",
+    "latitude_deg": "-1.201104",
+    "longitude_deg": "116.975536",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-KI",
+    "municipality": "Balikpapan",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302632",
+        "code": "ID",
+        "name": "Indonesia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
+        "keywords": "Bandara di Indonesia"
+    },
+    "region": {
+        "id": "306379",
+        "code": "ID-KI",
+        "local_code": "KI",
+        "name": "Kalimantan Timur (East Kalimantan)",
+        "continent": "AS",
+        "iso_country": "ID",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/East_Kalimantan",
+        "keywords": "Airports in East Kalimantan"
+    }
+}

@@ -2,7 +2,7 @@
     "id": "320025",
     "ident": "IT-0392",
     "type": "small_airport",
-    "name": "Campo di Volo Montemelino",
+    "name": "Montemelino Airfield",
     "latitude_deg": "43.103",
     "longitude_deg": "12.253",
     "elevation_ft": "731",
@@ -16,7 +16,7 @@
     "local_code": "PGMAG",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Montemelino,Umbria Volo",
+    "keywords": "Montemelino, Umbria Volo, Aviosuperficie Montemelino",
     "runways": [
         {
             "id": "320026",
