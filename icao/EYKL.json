@@ -3,8 +3,8 @@
     "ident": "EYKL",
     "type": "small_airport",
     "name": "Klaipėda Airfield",
-    "latitude_deg": "55.711899",
-    "longitude_deg": "21.2428",
+    "latitude_deg": "55.712021",
+    "longitude_deg": "21.242892",
     "elevation_ft": "59",
     "continent": "EU",
     "iso_country": "LT",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "http://www.airportklaipeda.lt/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Klaip%C4%97da_Airport",
-    "keywords": "Klaipėdos oro uostas",
+    "keywords": "KLJ, Klaipėdos oro uostas",
     "runways": [
         {
             "id": "301391",
