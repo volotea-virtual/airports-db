@@ -8,7 +8,7 @@
     "elevation_ft": "",
     "continent": "AS",
     "iso_country": "IN",
-    "iso_region": "IN-DD",
+    "iso_region": "IN-DH",
     "municipality": "Marwad",
     "scheduled_service": "no",
     "gps_code": "",
@@ -27,12 +27,12 @@
     },
     "region": {
         "id": "304170",
-        "code": "IN-DD",
-        "local_code": "DD",
-        "name": "Daman and Diu",
+        "code": "IN-DH",
+        "local_code": "DH",
+        "name": "Dadra and Nagar Haveli and Daman and Diu",
         "continent": "AS",
         "iso_country": "IN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Daman_and_Diu",
-        "keywords": "Airports in Daman and Diu"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Dadra_and_Nagar_Haveli_and_Daman_and_Diu",
+        "keywords": "Airports in Dadra and Nagar Haveli and Daman and Diu"
     }
 }

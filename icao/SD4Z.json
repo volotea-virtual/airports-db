@@ -8,7 +8,7 @@
     "elevation_ft": "325",
     "continent": "SA",
     "iso_country": "BR",
-    "iso_region": "BR-MG",
+    "iso_region": "BR-MS",
     "municipality": "Corumbá",
     "scheduled_service": "no",
     "gps_code": "SD4Z",
@@ -50,13 +50,13 @@
         "keywords": "Brasil, Brasilian"
     },
     "region": {
-        "id": "303209",
-        "code": "BR-MG",
-        "local_code": "MG",
-        "name": "Minas Gerais",
+        "id": "303210",
+        "code": "BR-MS",
+        "local_code": "MS",
+        "name": "Mato Grosso do Sul",
         "continent": "SA",
         "iso_country": "BR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Minas_Gerais",
-        "keywords": "Airports in Minas Gerais"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mato_Grosso_do_Sul",
+        "keywords": "Airports in Mato Grosso do Sul"
     }
 }

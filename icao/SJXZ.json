@@ -8,7 +8,7 @@
     "elevation_ft": "2900",
     "continent": "SA",
     "iso_country": "BR",
-    "iso_region": "BR-SC",
+    "iso_region": "BR-SP",
     "municipality": "São Paulo",
     "scheduled_service": "no",
     "gps_code": "",
@@ -50,13 +50,13 @@
         "keywords": "Brasil, Brasilian"
     },
     "region": {
-        "id": "303222",
-        "code": "BR-SC",
-        "local_code": "SC",
-        "name": "Santa Catarina",
+        "id": "303224",
+        "code": "BR-SP",
+        "local_code": "SP",
+        "name": "São Paulo",
         "continent": "SA",
         "iso_country": "BR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Catarina",
-        "keywords": "Airports in Santa Catarina"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/S%C3%A3o_Paulo_(state)",
+        "keywords": "Airports in São Paulo"
     }
 }

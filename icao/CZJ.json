@@ -8,7 +8,7 @@
     "elevation_ft": "8",
     "continent": "NA",
     "iso_country": "PA",
-    "iso_region": "PA-KY",
+    "iso_region": "PS-GY",
     "municipality": "Corazón de Jesús and Narganá Islands",
     "scheduled_service": "yes",
     "gps_code": "",
@@ -27,12 +27,12 @@
     },
     "region": {
         "id": "305005",
-        "code": "PA-KY",
-        "local_code": "KY",
-        "name": "Kuna Yala Indigenous Region",
+        "code": "PS-GY",
+        "local_code": "GY",
+        "name": "Guna Yala Indigenous Region",
         "continent": "NA",
         "iso_country": "PA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kuna_Yala",
-        "keywords": "Airports in Kuna Yala Indigenous Region"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Guna_Yala",
+        "keywords": "Airports in Guna Yala Indigenous Region"
     }
 }

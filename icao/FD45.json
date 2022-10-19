@@ -2,9 +2,9 @@
     "id": "17316",
     "ident": "FD45",
     "type": "heliport",
-    "name": "Fort Walton Beach Medical Ctr Heliport",
-    "latitude_deg": "30.4538002014",
-    "longitude_deg": "-86.6352005005",
+    "name": "HCA Florida Fort Walton-Destin Hospital Heliport",
+    "latitude_deg": "30.455208",
+    "longitude_deg": "-86.632621",
     "elevation_ft": "47",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "FD45",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Fort Walton Beach Medical Center Heliport",
     "runways": [
         {
             "id": "267499",

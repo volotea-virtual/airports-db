@@ -3,12 +3,12 @@
     "ident": "HAMJ",
     "type": "small_airport",
     "name": "Tume Airport",
-    "latitude_deg": "5.833000183105469",
-    "longitude_deg": "35.53300094604492",
+    "latitude_deg": "5.833",
+    "longitude_deg": "35.533001",
     "elevation_ft": "2500",
     "continent": "AF",
     "iso_country": "ET",
-    "iso_region": "ET-SN",
+    "iso_region": "ET-SW",
     "municipality": "Maji",
     "scheduled_service": "no",
     "gps_code": "HAMJ",
@@ -26,13 +26,13 @@
         "keywords": "Ethiopian airports"
     },
     "region": {
-        "id": "303795",
-        "code": "ET-SN",
-        "local_code": "SN",
-        "name": "Southern Nations, Nationalities, and Peoples' Region",
+        "id": "430532",
+        "code": "ET-SW",
+        "local_code": "SW",
+        "name": "South West Ethiopia Peoples' Region",
         "continent": "AF",
         "iso_country": "ET",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Southern_Nations,_Nationalities,_and_Peoples%27_Region",
-        "keywords": "Airports in Southern Nations, Nationalities, and Peoples' Region"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_West_Ethiopia_Peoples%27_Region",
+        "keywords": ""
     }
 }

@@ -2,7 +2,7 @@
     "id": "345778",
     "ident": "US-4552",
     "type": "heliport",
-    "name": "Fawcett Memorial Hospital Helipad",
+    "name": "HCA Florida Fawcett Hospital Heliport",
     "latitude_deg": "26.988793",
     "longitude_deg": "-82.099457",
     "elevation_ft": "29",
@@ -16,7 +16,7 @@
     "local_code": "2FD8",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Fawcett Memorial Hospital Helipad",
     "country": {
         "id": "302755",
         "code": "US",

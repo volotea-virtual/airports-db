@@ -8,7 +8,7 @@
     "elevation_ft": "4396",
     "continent": "AF",
     "iso_country": "ET",
-    "iso_region": "ET-GA",
+    "iso_region": "ET-SW",
     "municipality": "Mizan Teferi",
     "scheduled_service": "yes",
     "gps_code": "HAMT",
@@ -26,13 +26,13 @@
         "keywords": "Ethiopian airports"
     },
     "region": {
-        "id": "303792",
-        "code": "ET-GA",
-        "local_code": "GA",
-        "name": "Gambela Region",
+        "id": "430532",
+        "code": "ET-SW",
+        "local_code": "SW",
+        "name": "South West Ethiopia Peoples' Region",
         "continent": "AF",
         "iso_country": "ET",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Gambela_Region",
-        "keywords": "Airports in Gambela Region"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_West_Ethiopia_Peoples%27_Region",
+        "keywords": ""
     }
 }

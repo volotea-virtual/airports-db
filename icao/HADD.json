@@ -3,12 +3,12 @@
     "ident": "HADD",
     "type": "small_airport",
     "name": "Dembidollo Airport",
-    "latitude_deg": "8.553999900817871",
-    "longitude_deg": "34.858001708984375",
+    "latitude_deg": "8.554",
+    "longitude_deg": "34.858002",
     "elevation_ft": "5200",
     "continent": "AF",
     "iso_country": "ET",
-    "iso_region": "ET-GA",
+    "iso_region": "ET-OR",
     "municipality": "Dembidollo",
     "scheduled_service": "yes",
     "gps_code": "HADD",
@@ -26,13 +26,13 @@
         "keywords": "Ethiopian airports"
     },
     "region": {
-        "id": "303792",
-        "code": "ET-GA",
-        "local_code": "GA",
-        "name": "Gambela Region",
+        "id": "303794",
+        "code": "ET-OR",
+        "local_code": "OR",
+        "name": "Oromia Region",
         "continent": "AF",
         "iso_country": "ET",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Gambela_Region",
-        "keywords": "Airports in Gambela Region"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Oromia_Region",
+        "keywords": "Airports in Oromia Region"
     }
 }

@@ -2,7 +2,7 @@
     "id": "341598",
     "ident": "US-3271",
     "type": "heliport",
-    "name": "Aventura Hospital and Medical Center Helipad",
+    "name": "HCA Florida Aventura Hospital Heliport",
     "latitude_deg": "25.97052",
     "longitude_deg": "-80.14527",
     "elevation_ft": "164",
@@ -16,7 +16,7 @@
     "local_code": "1FD5",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Aventura Hospital and Medical Center Helipad",
     "country": {
         "id": "302755",
         "code": "US",

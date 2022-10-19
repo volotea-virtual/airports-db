@@ -3,8 +3,8 @@
     "ident": "MS37",
     "type": "small_airport",
     "name": "West Bolivar Flying Service Airport",
-    "latitude_deg": "33.65340042114258",
-    "longitude_deg": "-90.98899841308594",
+    "latitude_deg": "33.6534",
+    "longitude_deg": "-90.988998",
     "elevation_ft": "136",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "MS37",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Benoit Flying Services",
     "runways": [
         {
             "id": "240216",

@@ -8,10 +8,10 @@
     "elevation_ft": "407",
     "continent": "SA",
     "iso_country": "BR",
-    "iso_region": "BR-PB",
+    "iso_region": "BR-MS",
     "municipality": "Aquidauana",
     "scheduled_service": "no",
-    "gps_code": "SSVC",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "MS0533",
     "home_link": "",
@@ -26,13 +26,13 @@
         "keywords": "Brasil, Brasilian"
     },
     "region": {
-        "id": "303213",
-        "code": "BR-PB",
-        "local_code": "PB",
-        "name": "Paraíba",
+        "id": "303210",
+        "code": "BR-MS",
+        "local_code": "MS",
+        "name": "Mato Grosso do Sul",
         "continent": "SA",
         "iso_country": "BR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Paraíba",
-        "keywords": "Airports in Paraíba"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mato_Grosso_do_Sul",
+        "keywords": "Airports in Mato Grosso do Sul"
     }
 }

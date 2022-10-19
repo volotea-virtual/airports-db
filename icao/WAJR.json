@@ -1,10 +1,10 @@
 {
     "id": "41429",
     "ident": "WAJR",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Waris Airport",
-    "latitude_deg": "-3.235",
-    "longitude_deg": "140.994",
+    "latitude_deg": "-3.23337",
+    "longitude_deg": "140.985451",
     "elevation_ft": "1500",
     "continent": "AS",
     "iso_country": "ID",

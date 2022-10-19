@@ -1,17 +1,17 @@
 {
     "id": "36870",
-    "ident": "SJTJ",
+    "ident": "BR-1735",
     "type": "small_airport",
     "name": "Fazenda Guanabara Airport",
-    "latitude_deg": "-21.116666793823242",
-    "longitude_deg": "-54.44972229003906",
+    "latitude_deg": "-21.122742",
+    "longitude_deg": "-54.44674",
     "elevation_ft": "1450",
     "continent": "SA",
     "iso_country": "BR",
-    "iso_region": "BR-RS",
+    "iso_region": "BR-MS",
     "municipality": "Nova Alvorada Do Sul",
     "scheduled_service": "no",
-    "gps_code": "SJTJ",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
@@ -21,7 +21,7 @@
         {
             "id": "262114",
             "airport_ref": "36870",
-            "airport_ident": "SJTJ",
+            "airport_ident": "BR-1735",
             "length_ft": "2625",
             "width_ft": "59",
             "surface": "GRE",
@@ -50,13 +50,13 @@
         "keywords": "Brasil, Brasilian"
     },
     "region": {
-        "id": "303221",
-        "code": "BR-RS",
-        "local_code": "RS",
-        "name": "Rio Grande do Sul",
+        "id": "303210",
+        "code": "BR-MS",
+        "local_code": "MS",
+        "name": "Mato Grosso do Sul",
         "continent": "SA",
         "iso_country": "BR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Rio_Grande_do_Sul",
-        "keywords": "Airports in Rio Grande do Sul"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mato_Grosso_do_Sul",
+        "keywords": "Airports in Mato Grosso do Sul"
     }
 }

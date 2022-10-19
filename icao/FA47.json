@@ -2,9 +2,9 @@
     "id": "17237",
     "ident": "FA47",
     "type": "heliport",
-    "name": "South Dade Community Health Center Heliport",
-    "latitude_deg": "25.565900802612305",
-    "longitude_deg": "-80.35060119628906",
+    "name": "Doris Ison Health Center Heliport",
+    "latitude_deg": "25.56618",
+    "longitude_deg": "-80.35818",
     "elevation_ft": "7",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "FA47",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "South Dade Community Health Center Heliport",
     "runways": [
         {
             "id": "267467",

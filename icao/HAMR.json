@@ -8,7 +8,7 @@
     "elevation_ft": "1834",
     "continent": "AF",
     "iso_country": "ET",
-    "iso_region": "ET-SN",
+    "iso_region": "ET-SW",
     "municipality": "Omo National Park",
     "scheduled_service": "no",
     "gps_code": "HAMR",
@@ -26,13 +26,13 @@
         "keywords": "Ethiopian airports"
     },
     "region": {
-        "id": "303795",
-        "code": "ET-SN",
-        "local_code": "SN",
-        "name": "Southern Nations, Nationalities, and Peoples' Region",
+        "id": "430532",
+        "code": "ET-SW",
+        "local_code": "SW",
+        "name": "South West Ethiopia Peoples' Region",
         "continent": "AF",
         "iso_country": "ET",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Southern_Nations,_Nationalities,_and_Peoples%27_Region",
-        "keywords": "Airports in Southern Nations, Nationalities, and Peoples' Region"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_West_Ethiopia_Peoples%27_Region",
+        "keywords": ""
     }
 }
