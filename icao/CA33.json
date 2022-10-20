@@ -2,9 +2,9 @@
     "id": "16564",
     "ident": "CA33",
     "type": "heliport",
-    "name": "County Medical Center Heliport",
-    "latitude_deg": "37.31420135498047",
-    "longitude_deg": "-121.93399810791016",
+    "name": "Santa Clara Valley Medical Center Heliport",
+    "latitude_deg": "37.313264",
+    "longitude_deg": "-121.934354",
     "elevation_ft": "148",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "CA33",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "County Medical Center Heliport",
     "runways": [
         {
             "id": "267109",

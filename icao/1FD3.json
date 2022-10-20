@@ -2,7 +2,7 @@
     "id": "8279",
     "ident": "1FD3",
     "type": "heliport",
-    "name": "JFK Medical Center Heliport",
+    "name": "HCA Florida JFK Hospital Heliport",
     "latitude_deg": "26.597891",
     "longitude_deg": "-80.09222",
     "elevation_ft": "61",
@@ -16,7 +16,7 @@
     "local_code": "1FD3",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "JFK Medical Center Heliport",
     "runways": [
         {
             "id": "265433",

@@ -2,7 +2,7 @@
     "id": "45348",
     "ident": "22FD",
     "type": "heliport",
-    "name": "Destin Emergency Care Center Heliport",
+    "name": "HCA Florida Northwest Rehabilitation Center Heliport",
     "latitude_deg": "30.393889",
     "longitude_deg": "-86.471389",
     "elevation_ft": "13",
@@ -16,7 +16,7 @@
     "local_code": "22FD",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Destin Emergency Care Center Heliport",
     "runways": [
         {
             "id": "264251",

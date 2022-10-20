@@ -3,8 +3,8 @@
     "ident": "KLAS",
     "type": "large_airport",
     "name": "Harry Reid International Airport",
-    "latitude_deg": "36.080101",
-    "longitude_deg": "-115.152",
+    "latitude_deg": "36.083361",
+    "longitude_deg": "-115.151817",
     "elevation_ft": "2181",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "LAS",
     "home_link": "https://www.harryreidairport.com/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Harry_Reid_International_Airport",
-    "keywords": "",
+    "keywords": "McCarran International Airport",
     "runways": [
         {
             "id": "245934",

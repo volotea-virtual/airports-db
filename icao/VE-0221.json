@@ -2,13 +2,13 @@
     "id": "430360",
     "ident": "VE-0221",
     "type": "closed",
-    "name": "Grano de Oro Airport",
+    "name": "Grano de Oro International Airport",
     "latitude_deg": "10.675116",
     "longitude_deg": "-71.639099",
     "elevation_ft": "235",
-    "continent": "NA",
+    "continent": "SA",
     "iso_country": "VE",
-    "iso_region": "VE-U-A",
+    "iso_region": "VE-V",
     "municipality": "Maracaibo",
     "scheduled_service": "no",
     "gps_code": "",
@@ -138,13 +138,13 @@
         "keywords": "Aeropuertos de Venezuela"
     },
     "region": {
-        "id": "306185",
-        "code": "VE-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "306186",
+        "code": "VE-V",
+        "local_code": "V",
+        "name": "Zulia State",
         "continent": "SA",
         "iso_country": "VE",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Zulia",
+        "keywords": "Airports in Zulia State"
     }
 }
