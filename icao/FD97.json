@@ -2,7 +2,7 @@
     "id": "17365",
     "ident": "FD97",
     "type": "heliport",
-    "name": "Naples Community Hospital Heliport",
+    "name": "NCH Downtown Hospital Heliport",
     "latitude_deg": "26.151028",
     "longitude_deg": "-81.797769",
     "elevation_ft": "42",
@@ -16,7 +16,7 @@
     "local_code": "FD97",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Naples Community Hospital Heliport",
     "runways": [
         {
             "id": "267516",

@@ -1,9 +1,9 @@
 {
     "id": "21098",
     "ident": "KSOY",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Sioux Center Municipal Airport",
-    "latitude_deg": "43.1343994140625",
+    "latitude_deg": "43.134399",
     "longitude_deg": "-96.1875",
     "elevation_ft": "1448",
     "continent": "NA",
@@ -11,12 +11,12 @@
     "iso_region": "US-IA",
     "municipality": "Sioux Center",
     "scheduled_service": "no",
-    "gps_code": "KSOY",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "SOY",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "KSOY, SOY",
     "runways": [
         {
             "id": "244554",
