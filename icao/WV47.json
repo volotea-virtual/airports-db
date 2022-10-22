@@ -1,7 +1,7 @@
 {
     "id": "26030",
     "ident": "WV47",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Rexroad Airport",
     "latitude_deg": "39.139246",
     "longitude_deg": "-80.206118",
@@ -11,12 +11,12 @@
     "iso_region": "US-WV",
     "municipality": "Buckhannon",
     "scheduled_service": "no",
-    "gps_code": "WV47",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "WV47",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "WV47, Clarksburg",
     "runways": [
         {
             "id": "242086",

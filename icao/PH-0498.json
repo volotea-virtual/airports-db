@@ -1,0 +1,38 @@
+{
+    "id": "430596",
+    "ident": "PH-0498",
+    "type": "closed",
+    "name": "Daja Airstrip",
+    "latitude_deg": "11.56298",
+    "longitude_deg": "122.30838",
+    "elevation_ft": "98",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-AKL",
+    "municipality": "Banga",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302656",
+        "code": "PH",
+        "name": "Philippines",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
+        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
+    },
+    "region": {
+        "id": "305058",
+        "code": "PH-AKL",
+        "local_code": "AKL",
+        "name": "Aklan Province",
+        "continent": "AS",
+        "iso_country": "PH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Aklan_Province",
+        "keywords": "Airports in Aklan Province"
+    }
+}

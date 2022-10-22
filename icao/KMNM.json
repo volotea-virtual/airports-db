@@ -2,7 +2,7 @@
     "id": "20535",
     "ident": "KMNM",
     "type": "small_airport",
-    "name": "Menominee Regional Airport",
+    "name": "Menominee–Marinette Twin County Airport",
     "latitude_deg": "45.126701",
     "longitude_deg": "-87.638397",
     "elevation_ft": "625",
@@ -16,7 +16,7 @@
     "local_code": "MNM",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Menominee%E2%80%93Marinette_Twin_County_Airport",
-    "keywords": "Menominee-Marinette Twin County",
+    "keywords": "Menominee Regional",
     "runways": [
         {
             "id": "242617",

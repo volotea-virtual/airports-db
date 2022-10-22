@@ -3,12 +3,12 @@
     "ident": "MNMA",
     "type": "small_airport",
     "name": "Macantaca Airport",
-    "latitude_deg": "13.245100021362305",
-    "longitude_deg": "-84.08390045166016",
+    "latitude_deg": "13.2451",
+    "longitude_deg": "-84.0839",
     "elevation_ft": "55",
     "continent": "NA",
     "iso_country": "NI",
-    "iso_region": "NI-AN",
+    "iso_region": "NI-AS",
     "municipality": "Macantaca",
     "scheduled_service": "no",
     "gps_code": "MNMA",
@@ -26,13 +26,13 @@
         "keywords": "Aeropuertos de Nicaragua"
     },
     "region": {
-        "id": "304914",
-        "code": "NI-AN",
-        "local_code": "AN",
-        "name": "Atlantico Norte",
+        "id": "304915",
+        "code": "NI-AS",
+        "local_code": "AS",
+        "name": "South Caribbean Coast Autonomous Region",
         "continent": "NA",
         "iso_country": "NI",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Atlantico_Norte",
-        "keywords": "Airports in Atlantico Norte"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Caribbean_Coast_Autonomous_Region",
+        "keywords": "Atlántico Sur"
     }
 }

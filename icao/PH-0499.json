@@ -1,0 +1,38 @@
+{
+    "id": "430597",
+    "ident": "PH-0499",
+    "type": "closed",
+    "name": "Ferrol (Odiongan) Airstrip",
+    "latitude_deg": "12.34482",
+    "longitude_deg": "121.93992",
+    "elevation_ft": "98",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-ROM",
+    "municipality": "Ferrol",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302656",
+        "code": "PH",
+        "name": "Philippines",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
+        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
+    },
+    "region": {
+        "id": "305117",
+        "code": "PH-ROM",
+        "local_code": "ROM",
+        "name": "Romblon Province",
+        "continent": "AS",
+        "iso_country": "PH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Romblon_Province",
+        "keywords": "Airports in Romblon Province"
+    }
+}

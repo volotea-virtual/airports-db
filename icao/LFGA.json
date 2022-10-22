@@ -43,12 +43,28 @@
     ],
     "freqs": [
         {
+            "id": "430590",
+            "airport_ref": "4104",
+            "airport_ident": "LFGA",
+            "type": "ATIS",
+            "description": "",
+            "frequency_mhz": "126.135"
+        },
+        {
             "id": "52258",
             "airport_ref": "4104",
             "airport_ident": "LFGA",
             "type": "TWR",
-            "description": "TWR",
+            "description": "Colmar Tour",
             "frequency_mhz": "119"
+        },
+        {
+            "id": "430589",
+            "airport_ref": "4104",
+            "airport_ident": "LFGA",
+            "type": "TWR",
+            "description": "Colmar Sol",
+            "frequency_mhz": "121.88"
         }
     ],
     "country": {
