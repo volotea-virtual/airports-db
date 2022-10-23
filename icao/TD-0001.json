@@ -8,7 +8,7 @@
     "elevation_ft": "",
     "continent": "AF",
     "iso_country": "TD",
-    "iso_region": "TD-BET",
+    "iso_region": "TD-TI",
     "municipality": "",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Airports in Chad"
     },
     "region": {
-        "id": "305688",
-        "code": "TD-BET",
-        "local_code": "BET",
-        "name": "Borkou-Ennedi-Tibesti",
+        "id": "430632",
+        "code": "TD-TI",
+        "local_code": "TI",
+        "name": "Tibesti",
         "continent": "AF",
         "iso_country": "TD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Borkou-Ennedi-Tibesti",
-        "keywords": "Airports in Borkou-Ennedi-Tibesti"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tibesti_Region",
+        "keywords": "تيبستي"
     }
 }

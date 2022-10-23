@@ -8,14 +8,14 @@
     "elevation_ft": "1765",
     "continent": "AF",
     "iso_country": "TD",
-    "iso_region": "TD-OD",
+    "iso_region": "TD-SI",
     "municipality": "Goz-Beida",
     "scheduled_service": "no",
     "gps_code": "FTTG",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Goz_Be%C3%AFda_Airport",
     "keywords": "",
     "country": {
         "id": "302604",
@@ -26,13 +26,13 @@
         "keywords": "Airports in Chad"
     },
     "region": {
-        "id": "305698",
-        "code": "TD-OD",
-        "local_code": "OD",
-        "name": "Ouaddai",
+        "id": "430631",
+        "code": "TD-SI",
+        "local_code": "SI",
+        "name": "Sila",
         "continent": "AF",
         "iso_country": "TD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ouaddai",
-        "keywords": "Airports in Ouaddai"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sila_Region",
+        "keywords": "Dar Sila"
     }
 }

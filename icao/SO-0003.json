@@ -8,7 +8,7 @@
     "elevation_ft": "",
     "continent": "AF",
     "iso_country": "SO",
-    "iso_region": "SO-BN",
+    "iso_region": "SO-SH",
     "municipality": "Mogadishu",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": ""
     },
     "region": {
-        "id": "305620",
-        "code": "SO-BN",
-        "local_code": "BN",
-        "name": "Banaadir",
+        "id": "305632",
+        "code": "SO-SH",
+        "local_code": "SH",
+        "name": "Lower Shabelle",
         "continent": "AF",
         "iso_country": "SO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Banaadir",
-        "keywords": "Airports in Banaadir"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lower_Shabelle",
+        "keywords": "Airports in Shabeellaha Hoose"
     }
 }

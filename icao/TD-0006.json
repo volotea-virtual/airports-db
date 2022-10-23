@@ -8,7 +8,7 @@
     "elevation_ft": "1401",
     "continent": "AF",
     "iso_country": "TD",
-    "iso_region": "TD-MC",
+    "iso_region": "TD-MA",
     "municipality": "Koumra",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Airports in Chad"
     },
     "region": {
-        "id": "305696",
-        "code": "TD-MC",
-        "local_code": "MC",
-        "name": "Moyen-Chari",
+        "id": "430626",
+        "code": "TD-MA",
+        "local_code": "MA",
+        "name": "Mandoul",
         "continent": "AF",
         "iso_country": "TD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Moyen-Chari",
-        "keywords": "Airports in Moyen-Chari"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mandoul_Region",
+        "keywords": ""
     }
 }

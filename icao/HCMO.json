@@ -8,7 +8,7 @@
     "elevation_ft": "65",
     "continent": "AF",
     "iso_country": "SO",
-    "iso_region": "SO-MU",
+    "iso_region": "SO-GA",
     "municipality": "Hobyo",
     "scheduled_service": "no",
     "gps_code": "HCMO",
@@ -26,13 +26,13 @@
         "keywords": ""
     },
     "region": {
-        "id": "305628",
-        "code": "SO-MU",
-        "local_code": "MU",
-        "name": "Mudug",
+        "id": "305623",
+        "code": "SO-GA",
+        "local_code": "GA",
+        "name": "Galguduud",
         "continent": "AF",
         "iso_country": "SO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mudug",
-        "keywords": "Airports in Mudug"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Galguduud",
+        "keywords": "Airports in Galguduud"
     }
 }

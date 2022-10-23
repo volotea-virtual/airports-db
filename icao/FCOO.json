@@ -44,10 +44,10 @@
     "country": {
         "id": "302563",
         "code": "CG",
-        "name": "Congo (Brazzaville)",
+        "name": "Republic of the Congo",
         "continent": "AF",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Congo_(Brazzaville)",
-        "keywords": "Airports in Congo (Brazzaville)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Republic_of_the_Congo",
+        "keywords": "Congo-Brazzaville"
     },
     "region": {
         "id": "303348",

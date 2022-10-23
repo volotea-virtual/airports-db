@@ -8,7 +8,7 @@
     "elevation_ft": "984",
     "continent": "AF",
     "iso_country": "TD",
-    "iso_region": "TD-KA",
+    "iso_region": "TD-BG",
     "municipality": "Moussoro",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Airports in Chad"
     },
     "region": {
-        "id": "305692",
-        "code": "TD-KA",
-        "local_code": "KA",
-        "name": "Kanem",
+        "id": "430622",
+        "code": "TD-BG",
+        "local_code": "BG",
+        "name": "Bahr el Gazel",
         "continent": "AF",
         "iso_country": "TD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kanem",
-        "keywords": "Airports in Kanem"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bahr_el_Gazel_(region_of_Chad)",
+        "keywords": ""
     }
 }

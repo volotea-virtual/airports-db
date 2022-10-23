@@ -8,7 +8,7 @@
     "elevation_ft": "968",
     "continent": "AF",
     "iso_country": "TD",
-    "iso_region": "TD-CB",
+    "iso_region": "TD-ND",
     "municipality": "N'Djamena",
     "scheduled_service": "yes",
     "gps_code": "FTTJ",
@@ -76,14 +76,14 @@
         "keywords": "Airports in Chad"
     },
     "region": {
-        "id": "305690",
-        "code": "TD-CB",
-        "local_code": "CB",
-        "name": "Chari-Baguirmi",
+        "id": "430630",
+        "code": "TD-ND",
+        "local_code": "ND",
+        "name": "N'Djamena (city)",
         "continent": "AF",
         "iso_country": "TD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Chari-Baguirmi",
-        "keywords": "Airports in Chari-Baguirmi"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/N%27Djamena",
+        "keywords": ""
     },
     "navaids": [
         {

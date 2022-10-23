@@ -3,19 +3,19 @@
     "ident": "FTTY",
     "type": "medium_airport",
     "name": "Faya Largeau Airport",
-    "latitude_deg": "17.91710090637207",
-    "longitude_deg": "19.111099243164062",
+    "latitude_deg": "17.917101",
+    "longitude_deg": "19.111099",
     "elevation_ft": "771",
     "continent": "AF",
     "iso_country": "TD",
-    "iso_region": "TD-BET",
+    "iso_region": "TD-BO",
     "municipality": "",
     "scheduled_service": "no",
     "gps_code": "FTTY",
     "iata_code": "FYT",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Faya-Largeau_Airport",
     "keywords": "",
     "runways": [
         {
@@ -60,14 +60,14 @@
         "keywords": "Airports in Chad"
     },
     "region": {
-        "id": "305688",
-        "code": "TD-BET",
-        "local_code": "BET",
-        "name": "Borkou-Ennedi-Tibesti",
+        "id": "430633",
+        "code": "TD-BO",
+        "local_code": "BO",
+        "name": "Borkou",
         "continent": "AF",
         "iso_country": "TD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Borkou-Ennedi-Tibesti",
-        "keywords": "Airports in Borkou-Ennedi-Tibesti"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Borkou_(region_of_Chad)",
+        "keywords": ""
     },
     "navaids": [
         {

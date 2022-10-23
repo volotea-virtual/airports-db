@@ -3,9 +3,9 @@
     "ident": "HE33",
     "type": "small_airport",
     "name": "Deir El Gill Airport",
-    "latitude_deg": "30.7321",
-    "longitude_deg": "27.019199",
-    "elevation_ft": "740",
+    "latitude_deg": "30.725679",
+    "longitude_deg": "27.025702",
+    "elevation_ft": "673",
     "continent": "AF",
     "iso_country": "EG",
     "iso_region": "EG-MT",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "South Matruh Airport",
     "runways": [
         {
             "id": "235598",
