@@ -44,7 +44,7 @@
     "country": {
         "id": "302649",
         "code": "MM",
-        "name": "Burma",
+        "name": "Myanmar",
         "continent": "AS",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Burma",
         "keywords": "Myanmar"
@@ -53,10 +53,10 @@
         "id": "304669",
         "code": "MM-04",
         "local_code": "04",
-        "name": "Mandalay Division",
+        "name": "Mandalay Region",
         "continent": "AS",
         "iso_country": "MM",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mandalay_Division",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mandalay_Region",
         "keywords": "Airports in Mandalay Division"
     }
 }

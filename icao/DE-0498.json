@@ -1,6 +1,6 @@
 {
     "id": "28689",
-    "ident": "EDVP",
+    "ident": "DE-0498",
     "type": "closed",
     "name": "Flugplatz Peine-Eddesse",
     "latitude_deg": "52.4025",
@@ -11,17 +11,17 @@
     "iso_region": "DE-NI",
     "municipality": "Peine",
     "scheduled_service": "no",
-    "gps_code": "EDVP",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "http://de.wikipedia.org/wiki/Flugplatz_Peine-Eddesse",
-    "keywords": "",
+    "keywords": "EDVP",
     "runways": [
         {
             "id": "259801",
             "airport_ref": "28689",
-            "airport_ident": "EDVP",
+            "airport_ident": "DE-0498",
             "length_ft": "2953",
             "width_ft": "",
             "surface": "UNK",

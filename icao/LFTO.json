@@ -1,6 +1,6 @@
 {
     "id": "316329",
-    "ident": "TR-0042",
+    "ident": "LFTO",
     "type": "medium_airport",
     "name": "Rize–Artvin Airport",
     "latitude_deg": "41.179625",
@@ -21,7 +21,7 @@
         {
             "id": "354839",
             "airport_ref": "316329",
-            "airport_ident": "TR-0042",
+            "airport_ident": "LFTO",
             "length_ft": "9843",
             "width_ft": "148",
             "surface": "ASPH",
@@ -45,7 +45,7 @@
         {
             "id": "355994",
             "airport_ref": "316329",
-            "airport_ident": "TR-0042",
+            "airport_ident": "LFTO",
             "type": "APP",
             "description": "Rize-Artvin Approach",
             "frequency_mhz": "127.15"
@@ -53,7 +53,7 @@
         {
             "id": "355995",
             "airport_ref": "316329",
-            "airport_ident": "TR-0042",
+            "airport_ident": "LFTO",
             "type": "SAR",
             "description": "Rize-Artvin Rescue Subcenter",
             "frequency_mhz": "123.1"
@@ -61,7 +61,7 @@
         {
             "id": "355996",
             "airport_ref": "316329",
-            "airport_ident": "TR-0042",
+            "airport_ident": "LFTO",
             "type": "SAR",
             "description": "Rize-Artvin Rescue Subcenter",
             "frequency_mhz": "282.8"
@@ -69,7 +69,7 @@
         {
             "id": "355993",
             "airport_ref": "316329",
-            "airport_ident": "TR-0042",
+            "airport_ident": "LFTO",
             "type": "TWR",
             "description": "Ground",
             "frequency_mhz": "121.8"
@@ -77,7 +77,7 @@
         {
             "id": "355991",
             "airport_ref": "316329",
-            "airport_ident": "TR-0042",
+            "airport_ident": "LFTO",
             "type": "TWR",
             "description": "Rize-Artvin Tower",
             "frequency_mhz": "126.75"
@@ -85,7 +85,7 @@
         {
             "id": "355992",
             "airport_ref": "316329",
-            "airport_ident": "TR-0042",
+            "airport_ident": "LFTO",
             "type": "TWR",
             "description": "Rize-Artvin Tower",
             "frequency_mhz": "372.85"
@@ -108,5 +108,51 @@
         "iso_country": "TR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Rize_Province",
         "keywords": "Airports in Rize Province"
-    }
+    },
+    "navaids": [
+        {
+            "id": "430642",
+            "filename": "Rize-Artvin_NDB_TR",
+            "ident": "ART",
+            "name": "Rize-Artvin",
+            "type": "NDB",
+            "frequency_khz": "347",
+            "latitude_deg": "41.1815",
+            "longitude_deg": "40.858",
+            "elevation_ft": "",
+            "iso_country": "TR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "LFTO"
+        },
+        {
+            "id": "430643",
+            "filename": "Rize-Artvin_VOR-DME_TN",
+            "ident": "ART",
+            "name": "Rize-Artvin",
+            "type": "VOR-DME",
+            "frequency_khz": "110450",
+            "latitude_deg": "41.1815",
+            "longitude_deg": "40.858",
+            "elevation_ft": "",
+            "iso_country": "TN",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "",
+            "usageType": "TERMINAL",
+            "power": "MEDIUM",
+            "associated_airport": "LFTO"
+        }
+    ]
 }

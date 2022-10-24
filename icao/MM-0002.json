@@ -20,7 +20,7 @@
     "country": {
         "id": "302649",
         "code": "MM",
-        "name": "Burma",
+        "name": "Myanmar",
         "continent": "AS",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Burma",
         "keywords": "Myanmar"
@@ -29,10 +29,10 @@
         "id": "304672",
         "code": "MM-07",
         "local_code": "07",
-        "name": "Ayeyarwady Division",
+        "name": "Ayeyarwady Region",
         "continent": "AS",
         "iso_country": "MM",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ayeyarwady_Division",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ayeyarwady_Region",
         "keywords": "Airports in Ayeyarwady Division"
     }
 }

@@ -20,7 +20,7 @@
     "country": {
         "id": "302649",
         "code": "MM",
-        "name": "Burma",
+        "name": "Myanmar",
         "continent": "AS",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Burma",
         "keywords": "Myanmar"
@@ -29,10 +29,10 @@
         "id": "304666",
         "code": "MM-01",
         "local_code": "01",
-        "name": "Sagaing Division",
+        "name": "Sagaing Region",
         "continent": "AS",
         "iso_country": "MM",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Sagaing_Division",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sagaing_Region",
         "keywords": "Airports in Sagaing Division"
     }
 }

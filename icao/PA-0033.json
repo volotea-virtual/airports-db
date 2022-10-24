@@ -1,0 +1,38 @@
+{
+    "id": "430649",
+    "ident": "PA-0033",
+    "type": "heliport",
+    "name": "Soloy Heliport",
+    "latitude_deg": "8.4831",
+    "longitude_deg": "-82.0816",
+    "elevation_ft": "424",
+    "continent": "NA",
+    "iso_country": "PA",
+    "iso_region": "PA-NB",
+    "municipality": "Soloy",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302749",
+        "code": "PA",
+        "name": "Panama",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Panama",
+        "keywords": "Aeropuertos de Panamá"
+    },
+    "region": {
+        "id": "316976",
+        "code": "PA-NB",
+        "local_code": "NB",
+        "name": "Ngäbe-Buglé Indigenous Region",
+        "continent": "NA",
+        "iso_country": "PA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ng%C3%A4be-Bugl%C3%A9_Comarca",
+        "keywords": "Airports in Ngäbe-Buglé Indigenous Region"
+    }
+}
