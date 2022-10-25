@@ -3,12 +3,12 @@
     "ident": "NZUA",
     "type": "heliport",
     "name": "Maui A Heliport",
-    "latitude_deg": "-39.55830001831055",
-    "longitude_deg": "173.4499969482422",
+    "latitude_deg": "-39.5583",
+    "longitude_deg": "173.449997",
     "elevation_ft": "157",
     "continent": "OC",
     "iso_country": "NZ",
-    "iso_region": "NZ-TKI",
+    "iso_region": "NZ-XY",
     "municipality": "Maui A Platform",
     "scheduled_service": "no",
     "gps_code": "NZUA",
@@ -26,13 +26,13 @@
         "keywords": "Airports in New Zealand"
     },
     "region": {
-        "id": "304982",
-        "code": "NZ-TKI",
-        "local_code": "TKI",
-        "name": "Taranaki Region",
+        "id": "430673",
+        "code": "NZ-XY",
+        "local_code": "XY",
+        "name": "(Oil platforms)",
         "continent": "OC",
         "iso_country": "NZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Taranaki",
-        "keywords": "Airports in Taranaki Region"
+        "wikipedia_link": "",
+        "keywords": ""
     }
 }

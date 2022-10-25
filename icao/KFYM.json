@@ -59,6 +59,14 @@
             "frequency_mhz": "135.275"
         },
         {
+            "id": "430674",
+            "airport_ref": "19916",
+            "airport_ident": "KFYM",
+            "type": "CNTR",
+            "description": "MEMPHIS CNTR",
+            "frequency_mhz": "120.8"
+        },
+        {
             "id": "66482",
             "airport_ref": "19916",
             "airport_ident": "KFYM",

@@ -1,0 +1,38 @@
+{
+    "id": "430662",
+    "ident": "KN-0001",
+    "type": "heliport",
+    "name": "Royal St. Kitts Heliport",
+    "latitude_deg": "17.291017",
+    "longitude_deg": "-62.689065",
+    "elevation_ft": "",
+    "continent": "NA",
+    "iso_country": "KN",
+    "iso_region": "KN-U-A",
+    "municipality": "Lucas",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302742",
+        "code": "KN",
+        "name": "Saint Kitts and Nevis",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis",
+        "keywords": "Airports in Saint Kitts and Nevis"
+    },
+    "region": {
+        "id": "304385",
+        "code": "KN-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "NA",
+        "iso_country": "KN",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}

@@ -3,8 +3,8 @@
     "ident": "KCXP",
     "type": "small_airport",
     "name": "Carson Airport",
-    "latitude_deg": "39.192199707",
-    "longitude_deg": "-119.73400116",
+    "latitude_deg": "39.1922",
+    "longitude_deg": "-119.734001",
     "elevation_ft": "4697",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "CXP",
     "home_link": "http://flycarsoncity.com/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Carson_Airport",
-    "keywords": "Carson City Airport",
+    "keywords": "O04, Carson City Airport",
     "runways": [
         {
             "id": "242649",

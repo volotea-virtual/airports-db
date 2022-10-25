@@ -3,12 +3,12 @@
     "ident": "NZUB",
     "type": "heliport",
     "name": "Maui B Heliport",
-    "latitude_deg": "-39.650001525878906",
-    "longitude_deg": "173.30799865722656",
+    "latitude_deg": "-39.650002",
+    "longitude_deg": "173.307999",
     "elevation_ft": "114",
     "continent": "OC",
     "iso_country": "NZ",
-    "iso_region": "NZ-TKI",
+    "iso_region": "NZ-XY",
     "municipality": "Maui B Platform",
     "scheduled_service": "no",
     "gps_code": "NZUB",
@@ -26,13 +26,13 @@
         "keywords": "Airports in New Zealand"
     },
     "region": {
-        "id": "304982",
-        "code": "NZ-TKI",
-        "local_code": "TKI",
-        "name": "Taranaki Region",
+        "id": "430673",
+        "code": "NZ-XY",
+        "local_code": "XY",
+        "name": "(Oil platforms)",
         "continent": "OC",
         "iso_country": "NZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Taranaki",
-        "keywords": "Airports in Taranaki Region"
+        "wikipedia_link": "",
+        "keywords": ""
     }
 }

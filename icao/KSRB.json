@@ -56,7 +56,7 @@
             "airport_ident": "KSRB",
             "type": "CNTR",
             "description": "MEMPHIS CNTR",
-            "frequency_mhz": "132.1"
+            "frequency_mhz": "132.9"
         },
         {
             "id": "61358",
@@ -72,7 +72,7 @@
             "airport_ident": "KSRB",
             "type": "UNIC",
             "description": "CTAF/UNICOM",
-            "frequency_mhz": "122.8"
+            "frequency_mhz": "122.975"
         }
     ],
     "country": {

@@ -8,7 +8,7 @@
     "elevation_ft": "55",
     "continent": "NA",
     "iso_country": "NI",
-    "iso_region": "NI-AS",
+    "iso_region": "NI-AN",
     "municipality": "Macantaca",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Aeropuertos de Nicaragua"
     },
     "region": {
-        "id": "304915",
-        "code": "NI-AS",
-        "local_code": "AS",
-        "name": "South Caribbean Coast Autonomous Region",
+        "id": "304914",
+        "code": "NI-AN",
+        "local_code": "AN",
+        "name": "North Caribbean Coast Autonomous Region",
         "continent": "NA",
         "iso_country": "NI",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Caribbean_Coast_Autonomous_Region",
-        "keywords": "Atlántico Sur"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Caribbean_Coast_Autonomous_Region",
+        "keywords": "Atlántico Norte"
     }
 }
