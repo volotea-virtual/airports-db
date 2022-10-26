@@ -3,8 +3,8 @@
     "ident": "KAFF",
     "type": "small_airport",
     "name": "USAF Academy Airfield",
-    "latitude_deg": "38.96969986",
-    "longitude_deg": "-104.8130035",
+    "latitude_deg": "38.972497",
+    "longitude_deg": "-104.821125",
     "elevation_ft": "6572",
     "continent": "NA",
     "iso_country": "US",
@@ -15,7 +15,7 @@
     "iata_code": "AFF",
     "local_code": "AFF",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/United_States_Air_Force_Academy_Airfield",
     "keywords": "",
     "runways": [
         {

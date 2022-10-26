@@ -3,8 +3,8 @@
     "ident": "YABI",
     "type": "small_airport",
     "name": "Abingdon Downs Airport",
-    "latitude_deg": "-17.607542",
-    "longitude_deg": "143.183245",
+    "latitude_deg": "-17.608814",
+    "longitude_deg": "143.183531",
     "elevation_ft": "573",
     "continent": "OC",
     "iso_country": "AU",
@@ -15,7 +15,7 @@
     "iata_code": "ABG",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Abingdon_Airport",
     "keywords": "",
     "freqs": [
         {
