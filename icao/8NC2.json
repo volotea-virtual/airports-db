@@ -2,9 +2,9 @@
     "id": "15064",
     "ident": "8NC2",
     "type": "small_airport",
-    "name": "Summey Airpark",
-    "latitude_deg": "35.28929901123047",
-    "longitude_deg": "-81.78510284423828",
+    "name": "Twin Airpark",
+    "latitude_deg": "35.289202",
+    "longitude_deg": "-81.785746",
     "elevation_ft": "1000",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "8NC2",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Summey",
     "runways": [
         {
             "id": "255416",

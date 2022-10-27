@@ -2,7 +2,7 @@
     "id": "16296",
     "ident": "AR02",
     "type": "heliport",
-    "name": "Johnson County Regional Hospital Heliport",
+    "name": "Johnson Regional Medical Center Heliport",
     "latitude_deg": "35.461216",
     "longitude_deg": "-93.445383",
     "elevation_ft": "491",
@@ -16,7 +16,7 @@
     "local_code": "AR02",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "AR71",
+    "keywords": "AR71, Johnson County Regional Hospital Heliport",
     "runways": [
         {
             "id": "266978",

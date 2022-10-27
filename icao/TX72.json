@@ -11,12 +11,12 @@
     "iso_region": "US-TX",
     "municipality": "Elgin",
     "scheduled_service": "no",
-    "gps_code": "TX72",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "TX72",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "TX72",
     "runways": [
         {
             "id": "254907",
