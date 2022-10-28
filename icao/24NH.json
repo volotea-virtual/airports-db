@@ -2,9 +2,9 @@
     "id": "42767",
     "ident": "24NH",
     "type": "heliport",
-    "name": "Bountiful Farm",
-    "latitude_deg": "42.943611145",
-    "longitude_deg": "-72.4844436646",
+    "name": "Wicks Heliport",
+    "latitude_deg": "42.943611",
+    "longitude_deg": "-72.484444",
     "elevation_ft": "800",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "24NH",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Bountiful Farm",
     "runways": [
         {
             "id": "269791",

@@ -163,6 +163,14 @@
             "frequency_mhz": "119.9"
         },
         {
+            "id": "430708",
+            "airport_ref": "27064",
+            "airport_ident": "YMMB",
+            "type": "GND",
+            "description": "",
+            "frequency_mhz": "134.25"
+        },
+        {
             "id": "48705",
             "airport_ref": "27064",
             "airport_ident": "YMMB",

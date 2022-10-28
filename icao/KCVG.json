@@ -121,8 +121,16 @@
             "airport_ref": "3471",
             "airport_ident": "KCVG",
             "type": "ATIS",
-            "description": "ATIS",
+            "description": "ATIS ARR",
             "frequency_mhz": "134.375"
+        },
+        {
+            "id": "430703",
+            "airport_ref": "3471",
+            "airport_ident": "KCVG",
+            "type": "ATIS",
+            "description": "ATIS DEP",
+            "frequency_mhz": "135.3"
         },
         {
             "id": "60818",
@@ -146,7 +154,7 @@
             "airport_ident": "KCVG",
             "type": "GND",
             "description": "GND",
-            "frequency_mhz": "121.3"
+            "frequency_mhz": "121.7"
         },
         {
             "id": "60821",
@@ -163,6 +171,22 @@
             "type": "TWR",
             "description": "TWR",
             "frequency_mhz": "118.3"
+        },
+        {
+            "id": "430705",
+            "airport_ref": "3471",
+            "airport_ident": "KCVG",
+            "type": "TWR",
+            "description": "",
+            "frequency_mhz": "118.975"
+        },
+        {
+            "id": "430706",
+            "airport_ref": "3471",
+            "airport_ident": "KCVG",
+            "type": "TWR",
+            "description": "",
+            "frequency_mhz": "133.325"
         },
         {
             "id": "60823",

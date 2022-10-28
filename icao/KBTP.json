@@ -67,6 +67,14 @@
             "frequency_mhz": "119.4"
         },
         {
+            "id": "430707",
+            "airport_ref": "19411",
+            "airport_ident": "KBTP",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "123.05"
+        },
+        {
             "id": "68960",
             "airport_ref": "19411",
             "airport_ident": "KBTP",

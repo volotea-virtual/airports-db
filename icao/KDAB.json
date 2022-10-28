@@ -100,7 +100,7 @@
             "airport_ident": "KDAB",
             "type": "ATIS",
             "description": "ATIS",
-            "frequency_mhz": "120.05"
+            "frequency_mhz": "132.875"
         },
         {
             "id": "61717",
