@@ -2,9 +2,9 @@
     "id": "9831",
     "ident": "2VA6",
     "type": "small_airport",
-    "name": "Arrowhead Point Airport",
-    "latitude_deg": "37.62379837036133",
-    "longitude_deg": "-76.6010971069336",
+    "name": "Nimcock Airport",
+    "latitude_deg": "37.623342",
+    "longitude_deg": "-76.600027",
     "elevation_ft": "85",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "2VA6",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Arrowhead Point Airport, Camp Nimcock Airport",
     "runways": [
         {
             "id": "253774",

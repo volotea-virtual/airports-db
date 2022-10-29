@@ -1,6 +1,6 @@
 {
     "id": "312879",
-    "ident": "ESP",
+    "ident": "US-7244",
     "type": "closed",
     "name": "Birchwood-Pocono Airport",
     "latitude_deg": "41.0643",
@@ -12,7 +12,7 @@
     "municipality": "East Stroudsburg",
     "scheduled_service": "no",
     "gps_code": "",
-    "iata_code": "ESP",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",

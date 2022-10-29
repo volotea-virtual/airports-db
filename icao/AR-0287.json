@@ -2,7 +2,7 @@
     "id": "38962",
     "ident": "AR-0287",
     "type": "heliport",
-    "name": "P.N.A. Of. Ppal. Ballestra Heliport",
+    "name": "Argentine Naval Prefecture Principal Official Ballestra Heliport",
     "latitude_deg": "-34.5772",
     "longitude_deg": "-58.3838",
     "elevation_ft": "19",
@@ -16,7 +16,7 @@
     "local_code": "HPN",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Helipuerto PNA de Oficial Principal Ballestra",
     "runways": [
         {
             "id": "263981",
@@ -53,7 +53,7 @@
         "id": "302934",
         "code": "AR-C",
         "local_code": "C",
-        "name": "Capital federal",
+        "name": "Buenos Aires (Autonomous City)",
         "continent": "SA",
         "iso_country": "AR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Buenos_Aires",

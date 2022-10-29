@@ -2,7 +2,7 @@
     "id": "6244",
     "ident": "SUAA",
     "type": "medium_airport",
-    "name": "Angel S Adami Airport",
+    "name": "Ángel S. Adami International Airport",
     "latitude_deg": "-34.7892",
     "longitude_deg": "-56.264702",
     "elevation_ft": "174",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/%C3%81ngel_S._Adami_Airport",
-    "keywords": "Aeródromo de Melilla",
+    "keywords": "Aeródromo de Melilla, Melilla Airport",
     "runways": [
         {
             "id": "246034",

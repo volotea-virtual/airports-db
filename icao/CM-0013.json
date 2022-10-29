@@ -1,6 +1,6 @@
 {
     "id": "340292",
-    "ident": "VCC",
+    "ident": "CM-0013",
     "type": "closed",
     "name": "Limbé Airport",
     "latitude_deg": "4.01583",
@@ -12,11 +12,11 @@
     "municipality": "Limbé",
     "scheduled_service": "no",
     "gps_code": "",
-    "iata_code": "VCC",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "VCC",
     "country": {
         "id": "302565",
         "code": "CM",

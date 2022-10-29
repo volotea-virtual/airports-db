@@ -1,6 +1,6 @@
 {
     "id": "41400",
-    "ident": "ID-RZS",
+    "ident": "ID-0272",
     "type": "closed",
     "name": "Sawan Airport",
     "latitude_deg": "-8.13278",
@@ -12,11 +12,11 @@
     "municipality": "Sawan",
     "scheduled_service": "no",
     "gps_code": "",
-    "iata_code": "RZS",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "RZS",
     "country": {
         "id": "302632",
         "code": "ID",

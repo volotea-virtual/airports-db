@@ -3,8 +3,8 @@
     "ident": "46KS",
     "type": "small_airport",
     "name": "Hidden Valley Airport",
-    "latitude_deg": "37.83169937133789",
-    "longitude_deg": "-97.36309814453125",
+    "latitude_deg": "37.831699",
+    "longitude_deg": "-97.363098",
     "elevation_ft": "1345",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "46KS",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Miles Airport",
     "runways": [
         {
             "id": "252189",

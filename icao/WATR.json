@@ -1,6 +1,6 @@
 {
     "id": "41481",
-    "ident": "WRKR",
+    "ident": "WATR",
     "type": "small_airport",
     "name": "David Constantijn Saudale Airport",
     "latitude_deg": "-10.7673",
@@ -21,7 +21,7 @@
         {
             "id": "327776",
             "airport_ref": "41481",
-            "airport_ident": "WRKR",
+            "airport_ident": "WATR",
             "length_ft": "5413",
             "width_ft": "98",
             "surface": "ASP",

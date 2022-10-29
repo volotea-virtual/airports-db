@@ -2,9 +2,9 @@
     "id": "23316",
     "ident": "NV05",
     "type": "small_airport",
-    "name": "Soldier Meadow Nr 2 Airport",
-    "latitude_deg": "41.12350082397461",
-    "longitude_deg": "-119.13899993896484",
+    "name": "Soldier Meadow Number 2 Airport",
+    "latitude_deg": "41.123501",
+    "longitude_deg": "-119.139",
     "elevation_ft": "4150",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "NV05",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Parman Landing Strip",
     "runways": [
         {
             "id": "250611",

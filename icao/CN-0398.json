@@ -1,6 +1,6 @@
 {
     "id": "339960",
-    "ident": "DLC",
+    "ident": "CN-0398",
     "type": "closed",
     "name": "Dalian Jinzhouwan International Airport (under construction)",
     "latitude_deg": "39.12255",
@@ -11,12 +11,12 @@
     "iso_region": "CN-21",
     "municipality": "Ganjingzi, Dalian",
     "scheduled_service": "no",
-    "gps_code": "ZYTL",
-    "iata_code": "DLC",
+    "gps_code": "",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Dalian_Jinzhouwan_International_Airport",
-    "keywords": "",
+    "keywords": "DLC",
     "country": {
         "id": "302627",
         "code": "CN",

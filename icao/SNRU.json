@@ -13,10 +13,10 @@
     "scheduled_service": "yes",
     "gps_code": "SNRU",
     "iata_code": "CAU",
-    "local_code": "SNRU",
+    "local_code": "PE0004",
     "home_link": "",
-    "wikipedia_link": "https://pt.wikipedia.org/wiki/Aeroporto_de_Caruaru",
-    "keywords": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Caruaru_Airport",
+    "keywords": "Oscar Laranjeiras",
     "runways": [
         {
             "id": "234137",

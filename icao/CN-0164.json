@@ -12,11 +12,11 @@
     "municipality": "Qingdao",
     "scheduled_service": "no",
     "gps_code": "",
-    "iata_code": "TAO",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Qingdao_Liuting_International_Airport",
-    "keywords": "ZSQD",
+    "keywords": "ZSQD, TAO",
     "runways": [
         {
             "id": "349426",

@@ -1,6 +1,6 @@
 {
     "id": "302473",
-    "ident": "DWS",
+    "ident": "KDWS",
     "type": "closed",
     "name": "Walt Disney World Airport / Lake Buena Vista STOLport",
     "latitude_deg": "28.399444",
@@ -12,8 +12,8 @@
     "municipality": "Walt Disney World",
     "scheduled_service": "no",
     "gps_code": "KDWS",
-    "iata_code": "DWS",
-    "local_code": "",
+    "iata_code": "",
+    "local_code": "DWS",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Walt_Disney_World_Airport",
     "keywords": "Walt Disney World Airport",
