@@ -8,7 +8,7 @@
     "elevation_ft": "",
     "continent": "NA",
     "iso_country": "CA",
-    "iso_region": "CA-U-A",
+    "iso_region": "CA-BC",
     "municipality": "Tranquille",
     "scheduled_service": "no",
     "gps_code": "CYKT",
@@ -26,13 +26,13 @@
         "keywords": "Canadian airports"
     },
     "region": {
-        "id": "303306",
-        "code": "CA-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "303295",
+        "code": "CA-BC",
+        "local_code": "BC",
+        "name": "British Columbia",
         "continent": "NA",
         "iso_country": "CA",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/British_Columbia",
+        "keywords": "British Columbian airports"
     }
 }
