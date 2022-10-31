@@ -1,8 +1,8 @@
 {
     "id": "30308",
     "ident": "EFPH",
-    "type": "small_airport",
-    "name": "Pyhäselkä Airport",
+    "type": "closed",
+    "name": "Pyhäselkä Airfield",
     "latitude_deg": "62.464699",
     "longitude_deg": "30.035299",
     "elevation_ft": "322",
