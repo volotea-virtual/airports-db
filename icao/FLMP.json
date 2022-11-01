@@ -3,12 +3,12 @@
     "ident": "FLMP",
     "type": "small_airport",
     "name": "Mpika Airport",
-    "latitude_deg": "-11.899200439453125",
-    "longitude_deg": "31.43470001220703",
+    "latitude_deg": "-11.899366",
+    "longitude_deg": "31.434681",
     "elevation_ft": "4600",
     "continent": "AF",
     "iso_country": "ZM",
-    "iso_region": "ZM-05",
+    "iso_region": "ZM-10",
     "municipality": "Mpika",
     "scheduled_service": "no",
     "gps_code": "FLMP",
@@ -26,13 +26,13 @@
         "keywords": "Zambian airports"
     },
     "region": {
-        "id": "306382",
-        "code": "ZM-05",
-        "local_code": "05",
-        "name": "Northern Province",
+        "id": "504569",
+        "code": "ZM-10",
+        "local_code": "10",
+        "name": "Muchinga Province",
         "continent": "AF",
         "iso_country": "ZM",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Province,_Zambia",
-        "keywords": "Airports in Northern Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Muchinga_Province",
+        "keywords": "Airports in Muchinga Province"
     }
 }

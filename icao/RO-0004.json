@@ -8,7 +8,7 @@
     "elevation_ft": "498",
     "continent": "EU",
     "iso_country": "RO",
-    "iso_region": "RO-BN",
+    "iso_region": "RO-BH",
     "municipality": "",
     "scheduled_service": "no",
     "gps_code": "",
@@ -60,13 +60,13 @@
         "keywords": "Aeroporturi din România"
     },
     "region": {
-        "id": "305224",
-        "code": "RO-BN",
-        "local_code": "BN",
-        "name": "Bistriţa-Năsăud County",
+        "id": "305223",
+        "code": "RO-BH",
+        "local_code": "BH",
+        "name": "Bihor County",
         "continent": "EU",
         "iso_country": "RO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bistriţa-Năsăud_County",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bihor_County",
         "keywords": "Transylvania, Transylvanian Region"
     }
 }

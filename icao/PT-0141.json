@@ -5,10 +5,10 @@
     "name": "Courela do Outeiro Private Airstrip",
     "latitude_deg": "37.627463",
     "longitude_deg": "-7.502632",
-    "elevation_ft": "",
+    "elevation_ft": "409",
     "continent": "EU",
     "iso_country": "PT",
-    "iso_region": "PT-U-A",
+    "iso_region": "PT-02",
     "municipality": "",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Aeroportos do Brasil"
     },
     "region": {
-        "id": "305187",
-        "code": "PT-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "305168",
+        "code": "PT-02",
+        "local_code": "02",
+        "name": "Beja District",
         "continent": "EU",
         "iso_country": "PT",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Beja_District",
+        "keywords": "Airports in Beja District"
     }
 }

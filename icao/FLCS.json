@@ -3,12 +3,12 @@
     "ident": "FLCS",
     "type": "small_airport",
     "name": "Chinsali Airport",
-    "latitude_deg": "-10.532999992370605",
-    "longitude_deg": "32.06700134277344",
+    "latitude_deg": "-10.582491",
+    "longitude_deg": "32.079678",
     "elevation_ft": "4350",
     "continent": "AF",
     "iso_country": "ZM",
-    "iso_region": "ZM-05",
+    "iso_region": "ZM-10",
     "municipality": "Chinsali",
     "scheduled_service": "no",
     "gps_code": "FLCS",
@@ -26,13 +26,13 @@
         "keywords": "Zambian airports"
     },
     "region": {
-        "id": "306382",
-        "code": "ZM-05",
-        "local_code": "05",
-        "name": "Northern Province",
+        "id": "504569",
+        "code": "ZM-10",
+        "local_code": "10",
+        "name": "Muchinga Province",
         "continent": "AF",
         "iso_country": "ZM",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Province,_Zambia",
-        "keywords": "Airports in Northern Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Muchinga_Province",
+        "keywords": "Airports in Muchinga Province"
     }
 }

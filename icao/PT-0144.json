@@ -5,10 +5,10 @@
     "name": "Aeródromo da Aldeia de Palma",
     "latitude_deg": "38.45748",
     "longitude_deg": "-8.5553",
-    "elevation_ft": "",
+    "elevation_ft": "191",
     "continent": "EU",
     "iso_country": "PT",
-    "iso_region": "PT-U-A",
+    "iso_region": "PT-15",
     "municipality": "Monte da Volta",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Aeroportos do Brasil"
     },
     "region": {
-        "id": "305187",
-        "code": "PT-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "305181",
+        "code": "PT-15",
+        "local_code": "15",
+        "name": "Setúbal District",
         "continent": "EU",
         "iso_country": "PT",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Setúbal_District",
+        "keywords": "Airports in Setúbal District"
     }
 }
