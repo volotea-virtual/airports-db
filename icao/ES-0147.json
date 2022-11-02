@@ -8,7 +8,7 @@
     "elevation_ft": "2658",
     "continent": "EU",
     "iso_country": "ES",
-    "iso_region": "ES-P",
+    "iso_region": "ES-CL",
     "municipality": "Villaumbrales",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Aeropuertos de España"
     },
     "region": {
-        "id": "303768",
-        "code": "ES-P",
-        "local_code": "P",
-        "name": "Palencia",
+        "id": "303740",
+        "code": "ES-CL",
+        "local_code": "CL",
+        "name": "Castilla y León",
         "continent": "EU",
         "iso_country": "ES",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Palencia",
-        "keywords": "Airports in Palencia"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Castile_and_Le%C3%B3n",
+        "keywords": "Airports in Castilla y León, Castile and León"
     }
 }

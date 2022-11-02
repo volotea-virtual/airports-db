@@ -8,7 +8,7 @@
     "elevation_ft": "705",
     "continent": "EU",
     "iso_country": "ES",
-    "iso_region": "ES-L",
+    "iso_region": "ES-CT",
     "municipality": "LLeida - Alfes",
     "scheduled_service": "no",
     "gps_code": "LEAT",
@@ -26,13 +26,13 @@
         "keywords": "Aeropuertos de España"
     },
     "region": {
-        "id": "303757",
-        "code": "ES-L",
-        "local_code": "L",
-        "name": "Lleida",
+        "id": "303745",
+        "code": "ES-CT",
+        "local_code": "CT",
+        "name": "Catalonia",
         "continent": "EU",
         "iso_country": "ES",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Lleida",
-        "keywords": "Airports in Lleida"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Catalonia",
+        "keywords": "Airports in Catalonia"
     }
 }

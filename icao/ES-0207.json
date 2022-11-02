@@ -8,7 +8,7 @@
     "elevation_ft": "2625",
     "continent": "EU",
     "iso_country": "ES",
-    "iso_region": "ES-SA",
+    "iso_region": "ES-CL",
     "municipality": "Calzada de Valdunciel",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Aeropuertos de España"
     },
     "region": {
-        "id": "303773",
-        "code": "ES-SA",
-        "local_code": "SA",
-        "name": "Salamanca",
+        "id": "303740",
+        "code": "ES-CL",
+        "local_code": "CL",
+        "name": "Castilla y León",
         "continent": "EU",
         "iso_country": "ES",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Salamanca",
-        "keywords": "Airports in Salamanca"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Castile_and_Le%C3%B3n",
+        "keywords": "Airports in Castilla y León, Castile and León"
     }
 }

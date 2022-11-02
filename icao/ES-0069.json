@@ -8,7 +8,7 @@
     "elevation_ft": "3068",
     "continent": "EU",
     "iso_country": "ES",
-    "iso_region": "ES-SG",
+    "iso_region": "ES-CL",
     "municipality": "Marugán",
     "scheduled_service": "no",
     "gps_code": "LEIR",
@@ -82,13 +82,13 @@
         "keywords": "Aeropuertos de España"
     },
     "region": {
-        "id": "303775",
-        "code": "ES-SG",
-        "local_code": "SG",
-        "name": "Segovia",
+        "id": "303740",
+        "code": "ES-CL",
+        "local_code": "CL",
+        "name": "Castilla y León",
         "continent": "EU",
         "iso_country": "ES",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Segovia",
-        "keywords": "Airports in Segovia"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Castile_and_Le%C3%B3n",
+        "keywords": "Airports in Castilla y León, Castile and León"
     }
 }

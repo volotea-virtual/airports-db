@@ -8,7 +8,7 @@
     "elevation_ft": "787",
     "continent": "EU",
     "iso_country": "ES",
-    "iso_region": "ES-GE",
+    "iso_region": "ES-CT",
     "municipality": "Tortellà",
     "scheduled_service": "no",
     "gps_code": "",
@@ -60,13 +60,13 @@
         "keywords": "Aeropuertos de España"
     },
     "region": {
-        "id": "303750",
-        "code": "ES-GE",
-        "local_code": "GE",
-        "name": "Girona",
+        "id": "303745",
+        "code": "ES-CT",
+        "local_code": "CT",
+        "name": "Catalonia",
         "continent": "EU",
         "iso_country": "ES",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Girona",
-        "keywords": "Airports in Girona"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Catalonia",
+        "keywords": "Airports in Catalonia"
     }
 }

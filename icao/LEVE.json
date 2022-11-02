@@ -8,7 +8,7 @@
     "elevation_ft": "1837",
     "continent": "EU",
     "iso_country": "ES",
-    "iso_region": "ES-BA",
+    "iso_region": "ES-EX",
     "municipality": "Zafra",
     "scheduled_service": "no",
     "gps_code": "LEVE",
@@ -26,13 +26,13 @@
         "keywords": "Aeropuertos de España"
     },
     "region": {
-        "id": "303733",
-        "code": "ES-BA",
-        "local_code": "BA",
-        "name": "Badajoz",
+        "id": "303747",
+        "code": "ES-EX",
+        "local_code": "EX",
+        "name": "Extremadura",
         "continent": "EU",
         "iso_country": "ES",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Badajoz",
-        "keywords": "Airports in Badajoz"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Extremadura",
+        "keywords": "Airports in Extremadura"
     }
 }

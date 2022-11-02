@@ -8,7 +8,7 @@
     "elevation_ft": "2953",
     "continent": "EU",
     "iso_country": "ES",
-    "iso_region": "ES-CS",
+    "iso_region": "ES-VC",
     "municipality": "Vistabella del Maestrat",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Aeropuertos de España"
     },
     "region": {
-        "id": "303744",
-        "code": "ES-CS",
-        "local_code": "CS",
-        "name": "Castellón",
+        "id": "303782",
+        "code": "ES-VC",
+        "local_code": "VC",
+        "name": "Valencia (community)",
         "continent": "EU",
         "iso_country": "ES",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Castellón",
-        "keywords": "Airports in Castellón"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Valencian_Community",
+        "keywords": "Valencian airports, Valencian Community"
     }
 }

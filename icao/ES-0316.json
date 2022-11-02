@@ -8,7 +8,7 @@
     "elevation_ft": "",
     "continent": "EU",
     "iso_country": "ES",
-    "iso_region": "ES-A",
+    "iso_region": "ES-VC",
     "municipality": "Xàbia",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Aeropuertos de España"
     },
     "region": {
-        "id": "303726",
-        "code": "ES-A",
-        "local_code": "A",
-        "name": "Alicante",
+        "id": "303782",
+        "code": "ES-VC",
+        "local_code": "VC",
+        "name": "Valencia (community)",
         "continent": "EU",
         "iso_country": "ES",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Alicante",
-        "keywords": "Airports in Alicante"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Valencian_Community",
+        "keywords": "Valencian airports, Valencian Community"
     }
 }

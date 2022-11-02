@@ -8,7 +8,7 @@
     "elevation_ft": "",
     "continent": "EU",
     "iso_country": "ES",
-    "iso_region": "ES-NA",
+    "iso_region": "ES-NC",
     "municipality": "",
     "scheduled_service": "no",
     "gps_code": "",
@@ -27,12 +27,12 @@
     },
     "region": {
         "id": "303765",
-        "code": "ES-NA",
-        "local_code": "NA",
+        "code": "ES-NC",
+        "local_code": "NC",
         "name": "Navarra",
         "continent": "EU",
         "iso_country": "ES",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Navarra",
-        "keywords": "Airports in Navarra"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Navarre",
+        "keywords": "Airports in Navarra, Navarre"
     }
 }

@@ -8,7 +8,7 @@
     "elevation_ft": "2031",
     "continent": "EU",
     "iso_country": "ES",
-    "iso_region": "ES-M",
+    "iso_region": "ES-MD",
     "municipality": "Getafe",
     "scheduled_service": "no",
     "gps_code": "LEGT",
@@ -107,12 +107,12 @@
     },
     "region": {
         "id": "303761",
-        "code": "ES-M",
-        "local_code": "M",
-        "name": "Madrid",
+        "code": "ES-MD",
+        "local_code": "MD",
+        "name": "Madrid (community)",
         "continent": "EU",
         "iso_country": "ES",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Madrid",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Community_of_Madrid",
         "keywords": "Airports in Madrid"
     },
     "navaids": [

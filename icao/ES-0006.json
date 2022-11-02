@@ -8,7 +8,7 @@
     "elevation_ft": "3330",
     "continent": "EU",
     "iso_country": "ES",
-    "iso_region": "ES-ZA",
+    "iso_region": "ES-CL",
     "municipality": "Santiago de la Requejada",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Aeropuertos de España"
     },
     "region": {
-        "id": "303786",
-        "code": "ES-ZA",
-        "local_code": "ZA",
-        "name": "Zamora",
+        "id": "303740",
+        "code": "ES-CL",
+        "local_code": "CL",
+        "name": "Castilla y León",
         "continent": "EU",
         "iso_country": "ES",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Zamora",
-        "keywords": "Airports in Zamora"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Castile_and_Le%C3%B3n",
+        "keywords": "Airports in Castilla y León, Castile and León"
     }
 }

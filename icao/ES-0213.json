@@ -8,7 +8,7 @@
     "elevation_ft": "",
     "continent": "EU",
     "iso_country": "ES",
-    "iso_region": "ES-LE",
+    "iso_region": "ES-CL",
     "municipality": "Astorga",
     "scheduled_service": "no",
     "gps_code": "LEAT",
@@ -26,13 +26,13 @@
         "keywords": "Aeropuertos de España"
     },
     "region": {
-        "id": "303758",
-        "code": "ES-LE",
-        "local_code": "LE",
-        "name": "León",
+        "id": "303740",
+        "code": "ES-CL",
+        "local_code": "CL",
+        "name": "Castilla y León",
         "continent": "EU",
         "iso_country": "ES",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/León",
-        "keywords": "Airports in León"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Castile_and_Le%C3%B3n",
+        "keywords": "Airports in Castilla y León, Castile and León"
     }
 }

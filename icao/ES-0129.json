@@ -8,7 +8,7 @@
     "elevation_ft": "",
     "continent": "EU",
     "iso_country": "ES",
-    "iso_region": "ES-GR",
+    "iso_region": "ES-AN",
     "municipality": "Escúzar",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Aeropuertos de España"
     },
     "region": {
-        "id": "303751",
-        "code": "ES-GR",
-        "local_code": "GR",
-        "name": "Granada",
+        "id": "303729",
+        "code": "ES-AN",
+        "local_code": "AN",
+        "name": "Andalucía",
         "continent": "EU",
         "iso_country": "ES",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Granada",
-        "keywords": "Airports in Granada"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Andalusia",
+        "keywords": "Airports in Andalucía"
     }
 }

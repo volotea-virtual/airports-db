@@ -8,7 +8,7 @@
     "elevation_ft": "2789",
     "continent": "EU",
     "iso_country": "ES",
-    "iso_region": "ES-AV",
+    "iso_region": "ES-CL",
     "municipality": "Sanchidrián",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Aeropuertos de España"
     },
     "region": {
-        "id": "303731",
-        "code": "ES-AV",
-        "local_code": "AV",
-        "name": "Ávila",
+        "id": "303740",
+        "code": "ES-CL",
+        "local_code": "CL",
+        "name": "Castilla y León",
         "continent": "EU",
         "iso_country": "ES",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ávila",
-        "keywords": "Airports in Ávila"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Castile_and_Le%C3%B3n",
+        "keywords": "Airports in Castilla y León, Castile and León"
     }
 }

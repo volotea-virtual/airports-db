@@ -8,7 +8,7 @@
     "elevation_ft": "425",
     "continent": "EU",
     "iso_country": "ES",
-    "iso_region": "ES-T",
+    "iso_region": "ES-CT",
     "municipality": "Ulldecona",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Aeropuertos de España"
     },
     "region": {
-        "id": "303778",
-        "code": "ES-T",
-        "local_code": "T",
-        "name": "Tarragona",
+        "id": "303745",
+        "code": "ES-CT",
+        "local_code": "CT",
+        "name": "Catalonia",
         "continent": "EU",
         "iso_country": "ES",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tarragona",
-        "keywords": "Airports in Tarragona"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Catalonia",
+        "keywords": "Airports in Catalonia"
     }
 }

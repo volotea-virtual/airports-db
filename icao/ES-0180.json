@@ -8,7 +8,7 @@
     "elevation_ft": "1641",
     "continent": "EU",
     "iso_country": "ES",
-    "iso_region": "ES-BI",
+    "iso_region": "ES-PV",
     "municipality": "Zalla",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Aeropuertos de España"
     },
     "region": {
-        "id": "303734",
-        "code": "ES-BI",
-        "local_code": "BI",
-        "name": "Vizcaya",
+        "id": "303771",
+        "code": "ES-PV",
+        "local_code": "PV",
+        "name": "Basque Country",
         "continent": "EU",
         "iso_country": "ES",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Vizcaya",
-        "keywords": "Airports in Vizcaya"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Basque_Country_(autonomous_community)",
+        "keywords": "Basque airports, Basque Autonomous Community"
     }
 }

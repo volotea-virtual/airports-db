@@ -8,7 +8,7 @@
     "elevation_ft": "1233",
     "continent": "EU",
     "iso_country": "ES",
-    "iso_region": "ES-TF",
+    "iso_region": "ES-CN",
     "municipality": "38768 Los Llanos",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Aeropuertos de España"
     },
     "region": {
-        "id": "303780",
-        "code": "ES-TF",
-        "local_code": "TF",
-        "name": "Santa Cruz de Tenerife",
+        "id": "303742",
+        "code": "ES-CN",
+        "local_code": "CN",
+        "name": "Canary Islands",
         "continent": "EU",
         "iso_country": "ES",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Cruz_de_Tenerife",
-        "keywords": "Airports in Santa Cruz de Tenerife"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canary_Islands",
+        "keywords": "Airports in Canary Islands, Canarias"
     }
 }

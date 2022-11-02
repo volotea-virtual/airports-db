@@ -8,7 +8,7 @@
     "elevation_ft": "3970",
     "continent": "EU",
     "iso_country": "ES",
-    "iso_region": "ES-V",
+    "iso_region": "ES-VC",
     "municipality": "Ademuz",
     "scheduled_service": "no",
     "gps_code": "",
@@ -27,12 +27,12 @@
     },
     "region": {
         "id": "303782",
-        "code": "ES-V",
-        "local_code": "V",
-        "name": "Valencia",
+        "code": "ES-VC",
+        "local_code": "VC",
+        "name": "Valencia (community)",
         "continent": "EU",
         "iso_country": "ES",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Valencia",
-        "keywords": "Valencian airports"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Valencian_Community",
+        "keywords": "Valencian airports, Valencian Community"
     }
 }

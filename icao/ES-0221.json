@@ -8,7 +8,7 @@
     "elevation_ft": "2871",
     "continent": "EU",
     "iso_country": "ES",
-    "iso_region": "ES-CR",
+    "iso_region": "ES-CM",
     "municipality": "Ruidera",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Aeropuertos de España"
     },
     "region": {
-        "id": "303743",
-        "code": "ES-CR",
-        "local_code": "CR",
-        "name": "Ciudad Real",
+        "id": "303741",
+        "code": "ES-CM",
+        "local_code": "CM",
+        "name": "Castilla–La Mancha",
         "continent": "EU",
         "iso_country": "ES",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ciudad_Real",
-        "keywords": "Airports in Ciudad Real"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Castilla%E2%80%93La_Mancha",
+        "keywords": "Airports in Castilla-La Mancha"
     }
 }

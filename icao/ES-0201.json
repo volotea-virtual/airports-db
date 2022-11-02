@@ -8,7 +8,7 @@
     "elevation_ft": "673",
     "continent": "EU",
     "iso_country": "ES",
-    "iso_region": "ES-Z",
+    "iso_region": "ES-AR",
     "municipality": "Zaragoza",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Aeropuertos de España"
     },
     "region": {
-        "id": "303785",
-        "code": "ES-Z",
-        "local_code": "Z",
-        "name": "Zaragoza",
+        "id": "303730",
+        "code": "ES-AR",
+        "local_code": "AR",
+        "name": "Aragón",
         "continent": "EU",
         "iso_country": "ES",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Zaragoza",
-        "keywords": "Airports in Zaragoza"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Aragon",
+        "keywords": "Airports in Aragón"
     }
 }

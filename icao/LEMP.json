@@ -8,7 +8,7 @@
     "elevation_ft": "534",
     "continent": "EU",
     "iso_country": "ES",
-    "iso_region": "ES-MU",
+    "iso_region": "ES-MC",
     "municipality": "Murcia",
     "scheduled_service": "no",
     "gps_code": "LEMP",
@@ -51,12 +51,12 @@
     },
     "region": {
         "id": "303764",
-        "code": "ES-MU",
-        "local_code": "MU",
-        "name": "Murcia",
+        "code": "ES-MC",
+        "local_code": "MC",
+        "name": "Murcia (region)",
         "continent": "EU",
         "iso_country": "ES",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Murcia",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Region_of_Murcia",
         "keywords": "Airports in Murcia"
     }
 }

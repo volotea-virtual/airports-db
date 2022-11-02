@@ -3,12 +3,12 @@
     "ident": "ES-0154",
     "type": "small_airport",
     "name": "Aeródromo de Piedrahita",
-    "latitude_deg": "40.4798546",
-    "longitude_deg": "-5.3606761",
+    "latitude_deg": "40.479855",
+    "longitude_deg": "-5.360676",
     "elevation_ft": "3297",
-    "continent": "EU",
+    "continent": "AF",
     "iso_country": "ES",
-    "iso_region": "ES-CS",
+    "iso_region": "ES-CL",
     "municipality": "Piedrahita",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Aeropuertos de España"
     },
     "region": {
-        "id": "303744",
-        "code": "ES-CS",
-        "local_code": "CS",
-        "name": "Castellón",
+        "id": "303740",
+        "code": "ES-CL",
+        "local_code": "CL",
+        "name": "Castilla y León",
         "continent": "EU",
         "iso_country": "ES",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Castellón",
-        "keywords": "Airports in Castellón"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Castile_and_Le%C3%B3n",
+        "keywords": "Airports in Castilla y León, Castile and León"
     }
 }

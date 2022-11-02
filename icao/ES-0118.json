@@ -8,7 +8,7 @@
     "elevation_ft": "722",
     "continent": "EU",
     "iso_country": "ES",
-    "iso_region": "ES-HU",
+    "iso_region": "ES-AR",
     "municipality": "Alcolea de la Cinca",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Aeropuertos de España"
     },
     "region": {
-        "id": "303754",
-        "code": "ES-HU",
-        "local_code": "HU",
-        "name": "Huesca",
+        "id": "303730",
+        "code": "ES-AR",
+        "local_code": "AR",
+        "name": "Aragón",
         "continent": "EU",
         "iso_country": "ES",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Huesca",
-        "keywords": "Airports in Huesca"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Aragon",
+        "keywords": "Airports in Aragón"
     }
 }

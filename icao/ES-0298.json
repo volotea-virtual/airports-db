@@ -8,7 +8,7 @@
     "elevation_ft": "98",
     "continent": "EU",
     "iso_country": "ES",
-    "iso_region": "ES-CA",
+    "iso_region": "ES-AN",
     "municipality": "Algeciras",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Aeropuertos de España"
     },
     "region": {
-        "id": "303737",
-        "code": "ES-CA",
-        "local_code": "CA",
-        "name": "Cádiz",
+        "id": "303729",
+        "code": "ES-AN",
+        "local_code": "AN",
+        "name": "Andalucía",
         "continent": "EU",
         "iso_country": "ES",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Cádiz",
-        "keywords": "Airports in Cádiz"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Andalusia",
+        "keywords": "Airports in Andalucía"
     }
 }

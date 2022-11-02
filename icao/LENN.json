@@ -8,7 +8,7 @@
     "elevation_ft": "2169",
     "continent": "EU",
     "iso_country": "ES",
-    "iso_region": "ES-J",
+    "iso_region": "ES-AN",
     "municipality": "Marmolejo",
     "scheduled_service": "no",
     "gps_code": "LENN",
@@ -26,13 +26,13 @@
         "keywords": "Aeropuertos de España"
     },
     "region": {
-        "id": "303756",
-        "code": "ES-J",
-        "local_code": "J",
-        "name": "Jaén",
+        "id": "303729",
+        "code": "ES-AN",
+        "local_code": "AN",
+        "name": "Andalucía",
         "continent": "EU",
         "iso_country": "ES",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Jaén",
-        "keywords": "Airports in Jaén"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Andalusia",
+        "keywords": "Airports in Andalucía"
     }
 }

@@ -8,7 +8,7 @@
     "elevation_ft": "27",
     "continent": "AF",
     "iso_country": "ES",
-    "iso_region": "ES-PM",
+    "iso_region": "ES-IB",
     "municipality": "Ciutadella de Menorca",
     "scheduled_service": "no",
     "gps_code": "LENB",
@@ -26,13 +26,13 @@
         "keywords": "Aeropuertos de España"
     },
     "region": {
-        "id": "303769",
-        "code": "ES-PM",
-        "local_code": "PM",
-        "name": "Baleares",
+        "id": "303755",
+        "code": "ES-IB",
+        "local_code": "IB",
+        "name": "Islas Baleares",
         "continent": "EU",
         "iso_country": "ES",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Baleares",
-        "keywords": "Airports in Baleares"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Balearic_Islands",
+        "keywords": "Airports in Baleares, Balearic Islands"
     }
 }

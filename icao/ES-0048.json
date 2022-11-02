@@ -8,7 +8,7 @@
     "elevation_ft": "2559",
     "continent": "EU",
     "iso_country": "ES",
-    "iso_region": "ES-AL",
+    "iso_region": "ES-AN",
     "municipality": "Gérgal",
     "scheduled_service": "no",
     "gps_code": "",
@@ -50,13 +50,13 @@
         "keywords": "Aeropuertos de España"
     },
     "region": {
-        "id": "303728",
-        "code": "ES-AL",
-        "local_code": "AL",
-        "name": "Almería",
+        "id": "303729",
+        "code": "ES-AN",
+        "local_code": "AN",
+        "name": "Andalucía",
         "continent": "EU",
         "iso_country": "ES",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Almería",
-        "keywords": "Airports in Almería"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Andalusia",
+        "keywords": "Airports in Andalucía"
     }
 }

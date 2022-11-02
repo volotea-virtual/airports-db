@@ -8,7 +8,7 @@
     "elevation_ft": "",
     "continent": "EU",
     "iso_country": "ES",
-    "iso_region": "ES-C",
+    "iso_region": "ES-GA",
     "municipality": "Mapica",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Aeropuertos de España"
     },
     "region": {
-        "id": "303736",
-        "code": "ES-C",
-        "local_code": "C",
-        "name": "La Coruña",
+        "id": "303748",
+        "code": "ES-GA",
+        "local_code": "GA",
+        "name": "Galicia",
         "continent": "EU",
         "iso_country": "ES",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/La_Coruña",
-        "keywords": "Airports in La Coruña"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Galicia_(Spain)",
+        "keywords": "Airports in Galicia"
     }
 }
