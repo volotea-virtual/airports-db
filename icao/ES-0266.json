@@ -3,12 +3,12 @@
     "ident": "ES-0266",
     "type": "small_airport",
     "name": "La Font de la Figuera Airstrip",
-    "latitude_deg": "38.7867833",
+    "latitude_deg": "38.786783",
     "longitude_deg": "-0.8763",
     "elevation_ft": "1969",
-    "continent": "EU",
+    "continent": "AF",
     "iso_country": "ES",
-    "iso_region": "ES-AR",
+    "iso_region": "ES-VC",
     "municipality": "",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Aeropuertos de España"
     },
     "region": {
-        "id": "303730",
-        "code": "ES-AR",
-        "local_code": "AR",
-        "name": "Aragón",
+        "id": "303782",
+        "code": "ES-VC",
+        "local_code": "VC",
+        "name": "Valencia (community)",
         "continent": "EU",
         "iso_country": "ES",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Aragon",
-        "keywords": "Airports in Aragón"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Valencian_Community",
+        "keywords": "Valencian airports, Valencian Community"
     }
 }

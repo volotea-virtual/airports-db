@@ -11,12 +11,12 @@
     "iso_region": "US-TX",
     "municipality": "Luling",
     "scheduled_service": "no",
-    "gps_code": "KT91",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "T91",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "luling, carter memorial",
+    "keywords": "luling, carter memorial, T91",
     "runways": [
         {
             "id": "247613",

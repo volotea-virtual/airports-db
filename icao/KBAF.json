@@ -9,14 +9,14 @@
     "continent": "NA",
     "iso_country": "US",
     "iso_region": "US-MA",
-    "municipality": "Westfield/Springfield",
+    "municipality": "Westfield",
     "scheduled_service": "no",
     "gps_code": "KBAF",
     "iata_code": "BAF",
     "local_code": "BAF",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Westfield-Barnes_Regional_Airport",
-    "keywords": "Barnes Municipal Airport",
+    "keywords": "Barnes Municipal Airport, Springfield",
     "runways": [
         {
             "id": "244252",

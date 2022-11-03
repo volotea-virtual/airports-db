@@ -5,10 +5,10 @@
     "name": "Muaná Airstrip",
     "latitude_deg": "-1.536895",
     "longitude_deg": "-49.232689",
-    "elevation_ft": "",
+    "elevation_ft": "15",
     "continent": "SA",
     "iso_country": "BR",
-    "iso_region": "BR-AP",
+    "iso_region": "BR-PA",
     "municipality": "Muaná",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Brasil, Brasilian"
     },
     "region": {
-        "id": "303202",
-        "code": "BR-AP",
-        "local_code": "AP",
-        "name": "Amapá",
+        "id": "303212",
+        "code": "BR-PA",
+        "local_code": "PA",
+        "name": "Pará",
         "continent": "SA",
         "iso_country": "BR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Amapá",
-        "keywords": "Airports in Amapá"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pará",
+        "keywords": "Airports in Pará"
     }
 }

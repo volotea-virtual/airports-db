@@ -2,7 +2,7 @@
     "id": "333341",
     "ident": "US-1188",
     "type": "heliport",
-    "name": "Sonora Regional Medical Center Heliport",
+    "name": "Adventist Health Sonora Heliport",
     "latitude_deg": "37.977058",
     "longitude_deg": "-120.371939",
     "elevation_ft": "2085",
@@ -16,7 +16,7 @@
     "local_code": "33CA",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Sonora Regional Medical Center Heliport",
     "country": {
         "id": "302755",
         "code": "US",
