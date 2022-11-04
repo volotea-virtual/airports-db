@@ -1,10 +1,10 @@
 {
     "id": "42138",
     "ident": "MHUG",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Guanacastal Airport",
-    "latitude_deg": "14.915555953979492",
-    "longitude_deg": "-87.83333587646484",
+    "latitude_deg": "14.915556",
+    "longitude_deg": "-87.833336",
     "elevation_ft": "1563",
     "continent": "NA",
     "iso_country": "HN",

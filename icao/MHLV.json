@@ -1,10 +1,10 @@
 {
     "id": "42095",
     "ident": "MHLV",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Las Vegas Airport",
-    "latitude_deg": "14.873611450195312",
-    "longitude_deg": "-88.07444763183594",
+    "latitude_deg": "14.874575",
+    "longitude_deg": "-88.07353",
     "elevation_ft": "870",
     "continent": "NA",
     "iso_country": "HN",

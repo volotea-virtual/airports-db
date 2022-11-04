@@ -1,10 +1,10 @@
 {
     "id": "42045",
     "ident": "MHCG",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Comayagua Airport",
-    "latitude_deg": "14.432299614",
-    "longitude_deg": "-87.6246032715",
+    "latitude_deg": "14.432799",
+    "longitude_deg": "-87.625596",
     "elevation_ft": "1980",
     "continent": "NA",
     "iso_country": "HN",

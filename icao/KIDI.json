@@ -2,9 +2,9 @@
     "id": "20154",
     "ident": "KIDI",
     "type": "small_airport",
-    "name": "Indiana County/Jimmy Stewart Fld/ Airport",
-    "latitude_deg": "40.63219833",
-    "longitude_deg": "-79.10549927",
+    "name": "Indiana County–Jimmy Stewart Airport",
+    "latitude_deg": "40.631119",
+    "longitude_deg": "-79.101884",
     "elevation_ft": "1405",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "IDI",
     "home_link": "http://www.jimmystewartairport.com/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Indiana_County-Jimmy_Stewart_Airport",
-    "keywords": "",
+    "keywords": "Jimmy Stewart Field",
     "runways": [
         {
             "id": "242835",

@@ -1,15 +1,15 @@
 {
     "id": "42131",
     "ident": "MHSZ",
-    "type": "small_airport",
-    "name": "Santa Barbara Airport",
-    "latitude_deg": "13.33055591583252",
-    "longitude_deg": "-87.1544418334961",
-    "elevation_ft": "28",
+    "type": "closed",
+    "name": "Santa Bárbara Airport",
+    "latitude_deg": "14.94024",
+    "longitude_deg": "-88.24115",
+    "elevation_ft": "",
     "continent": "NA",
     "iso_country": "HN",
-    "iso_region": "HN-CH",
-    "municipality": "Choluteca",
+    "iso_region": "HN-SB",
+    "municipality": "Santa Bárbara",
     "scheduled_service": "no",
     "gps_code": "MHSZ",
     "iata_code": "",
@@ -50,13 +50,13 @@
         "keywords": "Aeropuertos de Honduras"
     },
     "region": {
-        "id": "304007",
-        "code": "HN-CH",
-        "local_code": "CH",
-        "name": "Choluteca Department",
+        "id": "304021",
+        "code": "HN-SB",
+        "local_code": "SB",
+        "name": "Santa Bárbara Department",
         "continent": "NA",
         "iso_country": "HN",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Choluteca_Department",
-        "keywords": "Airports in Choluteca Department"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_B%C3%A1rbara_Department,_Honduras",
+        "keywords": "Airports in Santa Bárbara Department"
     }
 }

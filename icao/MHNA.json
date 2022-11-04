@@ -1,10 +1,10 @@
 {
     "id": "42106",
     "ident": "MHNA",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Ciudad Nacaome Airport",
-    "latitude_deg": "13.529443740844727",
-    "longitude_deg": "-87.31416320800781",
+    "latitude_deg": "13.528624",
+    "longitude_deg": "-87.500095",
     "elevation_ft": "35",
     "continent": "NA",
     "iso_country": "HN",
