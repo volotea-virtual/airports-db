@@ -5,7 +5,7 @@
     "name": "Kitagishima Helipad",
     "latitude_deg": "34.37665",
     "longitude_deg": "133.54643",
-    "elevation_ft": "",
+    "elevation_ft": "10",
     "continent": "AS",
     "iso_country": "JP",
     "iso_region": "JP-33",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "北木島ヘリポート",
     "country": {
         "id": "302639",
         "code": "JP",

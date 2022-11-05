@@ -2,7 +2,7 @@
     "id": "341575",
     "ident": "JP-1575",
     "type": "closed",
-    "name": "Fukuyama Airfield",
+    "name": "Fukuyama Naval Air Station",
     "latitude_deg": "34.4799",
     "longitude_deg": "133.43515",
     "elevation_ft": "",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "福山海軍航空基地, Fukuyama Airfield, Fukuyama Airstrip",
     "country": {
         "id": "302639",
         "code": "JP",

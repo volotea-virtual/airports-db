@@ -2,7 +2,7 @@
     "id": "336610",
     "ident": "JP-0369",
     "type": "heliport",
-    "name": "Kosei General Hospital Helipad",
+    "name": "Kosei General Hospital Heliport",
     "latitude_deg": "34.39249",
     "longitude_deg": "133.07731",
     "elevation_ft": "",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "興生総合病院ヘリポート",
     "country": {
         "id": "302639",
         "code": "JP",

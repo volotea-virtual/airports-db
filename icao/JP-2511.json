@@ -5,7 +5,7 @@
     "name": "Okushi Heliport",
     "latitude_deg": "34.23673",
     "longitude_deg": "132.84866",
-    "elevation_ft": "",
+    "elevation_ft": "3",
     "continent": "AS",
     "iso_country": "JP",
     "iso_region": "JP-34",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "大串ヘリポート",
     "country": {
         "id": "302639",
         "code": "JP",

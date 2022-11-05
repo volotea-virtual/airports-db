@@ -3,8 +3,8 @@
     "ident": "YLIL",
     "type": "small_airport",
     "name": "Lilydale Airport",
-    "latitude_deg": "-37.6917",
-    "longitude_deg": "145.367004",
+    "latitude_deg": "-37.693",
+    "longitude_deg": "145.367",
     "elevation_ft": "242",
     "continent": "OC",
     "iso_country": "AU",
@@ -15,7 +15,7 @@
     "iata_code": "",
     "local_code": "",
     "home_link": "https://www.yarravalleyaviation.com.au/",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lilydale_Airport",
     "keywords": "",
     "runways": [
         {

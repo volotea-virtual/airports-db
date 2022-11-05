@@ -2,7 +2,7 @@
     "id": "430210",
     "ident": "JP-3107",
     "type": "heliport",
-    "name": "Obishijima Heliport",
+    "name": "Hishima Heliport",
     "latitude_deg": "34.34268",
     "longitude_deg": "133.50885",
     "elevation_ft": "3",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "飛島ヘリポート",
     "country": {
         "id": "302639",
         "code": "JP",
