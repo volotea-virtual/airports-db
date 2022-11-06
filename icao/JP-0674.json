@@ -2,7 +2,7 @@
     "id": "338181",
     "ident": "JP-0674",
     "type": "heliport",
-    "name": "Higashihiroshima Medical Center Helipad",
+    "name": "Higashihiroshima Medical Center Heliport",
     "latitude_deg": "34.4478",
     "longitude_deg": "132.72376",
     "elevation_ft": "",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "国立病院機構東広島医療センターヘリポート, National Health Organization Higashihiroshima Medical Center Heliport",
     "country": {
         "id": "302639",
         "code": "JP",

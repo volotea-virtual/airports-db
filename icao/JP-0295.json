@@ -2,7 +2,7 @@
     "id": "334660",
     "ident": "JP-0295",
     "type": "heliport",
-    "name": "Hiroshima Prefectural Hospital Helipad",
+    "name": "Hiroshima Prefectural Hospital Heliport",
     "latitude_deg": "34.366974",
     "longitude_deg": "132.466578",
     "elevation_ft": "",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "県立広島病院ヘリポート",
     "country": {
         "id": "302639",
         "code": "JP",

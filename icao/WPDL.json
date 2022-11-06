@@ -2,7 +2,7 @@
     "id": "26881",
     "ident": "WPDL",
     "type": "medium_airport",
-    "name": "President Nicolau Lobato International Airport",
+    "name": "Presidente Nicolau Lobato International Airport",
     "latitude_deg": "-8.546562",
     "longitude_deg": "125.524507",
     "elevation_ft": "154",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Presidente_Nicolau_Lobato_International_Airport",
-    "keywords": "Komoro Airport",
+    "keywords": "Komoro, Comoro",
     "runways": [
         {
             "id": "239231",

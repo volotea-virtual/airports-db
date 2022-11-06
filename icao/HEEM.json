@@ -5,11 +5,11 @@
     "name": "Giza Embaba Airport",
     "latitude_deg": "30.074699",
     "longitude_deg": "31.191401",
-    "elevation_ft": "59",
+    "elevation_ft": "98",
     "continent": "AF",
     "iso_country": "EG",
-    "iso_region": "EG-C",
-    "municipality": "Cairo",
+    "iso_region": "EG-GZ",
+    "municipality": "Al Jiza",
     "scheduled_service": "no",
     "gps_code": "HEEM",
     "iata_code": "",
@@ -26,13 +26,13 @@
         "keywords": "مطارات مصر, Egyptian airports"
     },
     "region": {
-        "id": "303697",
-        "code": "EG-C",
-        "local_code": "C",
-        "name": "Cairo Governorate",
+        "id": "303702",
+        "code": "EG-GZ",
+        "local_code": "GZ",
+        "name": "Giza Governorate",
         "continent": "AF",
         "iso_country": "EG",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Cairo_Governorate",
-        "keywords": "Airports in Cairo Governorate"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Giza_Governorate",
+        "keywords": "Airports in Giza Governorate"
     }
 }
