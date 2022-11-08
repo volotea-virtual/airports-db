@@ -73,19 +73,19 @@
             "frequency_mhz": "124.125"
         },
         {
-            "id": "52720",
-            "airport_ref": "317932",
-            "airport_ident": "EDQA",
-            "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "120.175"
-        },
-        {
             "id": "317933",
             "airport_ref": "317932",
             "airport_ident": "EDQA",
             "type": "INFO",
             "description": "Bamberg INFO",
+            "frequency_mhz": "120.175"
+        },
+        {
+            "id": "52720",
+            "airport_ref": "317932",
+            "airport_ident": "EDQA",
+            "type": "INFO",
+            "description": "INFO",
             "frequency_mhz": "120.175"
         },
         {

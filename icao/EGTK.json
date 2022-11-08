@@ -149,19 +149,19 @@
             "frequency_mhz": "124.27"
         },
         {
-            "id": "58414",
-            "airport_ref": "2483",
-            "airport_ident": "EGTK",
-            "type": "TWR",
-            "description": "OXFORD TWR",
-            "frequency_mhz": "133.425"
-        },
-        {
             "id": "75229",
             "airport_ref": "2483",
             "airport_ident": "EGTK",
             "type": "TWR",
             "description": "TWR - Use at w/ends",
+            "frequency_mhz": "133.425"
+        },
+        {
+            "id": "58414",
+            "airport_ref": "2483",
+            "airport_ident": "EGTK",
+            "type": "TWR",
+            "description": "OXFORD TWR",
             "frequency_mhz": "133.425"
         }
     ],

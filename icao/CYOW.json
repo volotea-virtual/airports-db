@@ -3,8 +3,8 @@
     "ident": "CYOW",
     "type": "large_airport",
     "name": "Ottawa Macdonald-Cartier International Airport",
-    "latitude_deg": "45.3224983215332",
-    "longitude_deg": "-75.66919708251953",
+    "latitude_deg": "45.322498",
+    "longitude_deg": "-75.669197",
     "elevation_ft": "374",
     "continent": "NA",
     "iso_country": "CA",
@@ -14,8 +14,8 @@
     "gps_code": "CYOW",
     "iata_code": "YOW",
     "local_code": "YOW",
-    "home_link": "http://www.ottawa-airport.ca/",
-    "wikipedia_link": "https://en.wikipedia.org/wiki/Ottawa_Macdonald-Cartier_International_Airport",
+    "home_link": "https://yow.ca/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ottawa_Macdonald%E2%80%93Cartier_International_Airport",
     "keywords": "Uplands, UUP, CUUP",
     "runways": [
         {

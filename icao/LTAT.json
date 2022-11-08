@@ -95,28 +95,6 @@
     },
     "navaids": [
         {
-            "id": "87808",
-            "filename": "Erhac_NDB_TR",
-            "ident": "ERH",
-            "name": "Erhac",
-            "type": "NDB",
-            "frequency_khz": "421",
-            "latitude_deg": "38.46329879760742",
-            "longitude_deg": "38.11220169067383",
-            "elevation_ft": "",
-            "iso_country": "TR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "4.417",
-            "usageType": "BOTH",
-            "power": "HIGH",
-            "associated_airport": "LTAT"
-        },
-        {
             "id": "87806",
             "filename": "Malatya_VOR_TR",
             "ident": "ERH",
@@ -158,6 +136,28 @@
             "magnetic_variation_deg": "4.413",
             "usageType": "BOTH",
             "power": "LOW",
+            "associated_airport": "LTAT"
+        },
+        {
+            "id": "87808",
+            "filename": "Erhac_NDB_TR",
+            "ident": "ERH",
+            "name": "Erhac",
+            "type": "NDB",
+            "frequency_khz": "421",
+            "latitude_deg": "38.46329879760742",
+            "longitude_deg": "38.11220169067383",
+            "elevation_ft": "",
+            "iso_country": "TR",
+            "dme_frequency_khz": "",
+            "dme_channel": "",
+            "dme_latitude_deg": "",
+            "dme_longitude_deg": "",
+            "dme_elevation_ft": "",
+            "slaved_variation_deg": "",
+            "magnetic_variation_deg": "4.417",
+            "usageType": "BOTH",
+            "power": "HIGH",
             "associated_airport": "LTAT"
         }
     ]
