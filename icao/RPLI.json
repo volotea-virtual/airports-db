@@ -3,8 +3,8 @@
     "ident": "RPLI",
     "type": "medium_airport",
     "name": "Laoag International Airport",
-    "latitude_deg": "18.1781005859375",
-    "longitude_deg": "120.53199768066406",
+    "latitude_deg": "18.176121",
+    "longitude_deg": "120.531034",
     "elevation_ft": "25",
     "continent": "AS",
     "iso_country": "PH",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Laoag_International_Airport",
-    "keywords": "",
+    "keywords": "Gabu Airfield, Laoag Airfield",
     "runways": [
         {
             "id": "238454",

@@ -3,8 +3,8 @@
     "ident": "RPVM",
     "type": "large_airport",
     "name": "Mactan Cebu International Airport",
-    "latitude_deg": "10.307499885559",
-    "longitude_deg": "123.97899627686",
+    "latitude_deg": "10.309261",
+    "longitude_deg": "123.97974",
     "elevation_ft": "31",
     "continent": "AS",
     "iso_country": "PH",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "http://www.mactan-cebuairport.com.ph/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Mactan-Cebu_International_Airport",
-    "keywords": "",
+    "keywords": "Mactan Air Base, Opon Airfield",
     "runways": [
         {
             "id": "238434",
