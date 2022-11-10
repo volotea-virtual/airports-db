@@ -12,11 +12,11 @@
     "municipality": "Santana do Araguaia",
     "scheduled_service": "no",
     "gps_code": "",
-    "iata_code": "CMP",
-    "local_code": "PA0017",
+    "iata_code": "",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Santana_do_Araguaia_Airport",
-    "keywords": "SNKE",
+    "keywords": "SNKE, CMP, PA0017",
     "runways": [
         {
             "id": "234313",

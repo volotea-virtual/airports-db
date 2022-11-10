@@ -11,12 +11,12 @@
     "iso_region": "US-TX",
     "municipality": "Evadale",
     "scheduled_service": "no",
-    "gps_code": "4TE8",
-    "iata_code": "EVA",
-    "local_code": "4TE8",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "4TE8, 4TE8, EVA, 4TE8",
     "runways": [
         {
             "id": "257956",

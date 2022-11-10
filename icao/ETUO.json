@@ -11,12 +11,12 @@
     "iso_region": "DE-NW",
     "municipality": "Gütersloh",
     "scheduled_service": "no",
-    "gps_code": "ETUO",
-    "iata_code": "GUT",
+    "gps_code": "",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/RAF_G%C3%BCtersloh",
-    "keywords": "RAF Gütersloh, Princess Royal Barracks Gütersloh",
+    "keywords": "RAF Gütersloh, Princess Royal Barracks Gütersloh, ETUO, GUT",
     "runways": [
         {
             "id": "236253",

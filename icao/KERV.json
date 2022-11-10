@@ -2,9 +2,9 @@
     "id": "19768",
     "ident": "KERV",
     "type": "small_airport",
-    "name": "Kerrville Municipal Louis Schreiner Field",
-    "latitude_deg": "29.9766998291",
-    "longitude_deg": "-99.08570098879999",
+    "name": "Kerrville / Kerr County Airport at Louis Schreiner Field",
+    "latitude_deg": "29.9767",
+    "longitude_deg": "-99.085701",
     "elevation_ft": "1617",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "ERV",
     "home_link": "http://www.co.kerr.tx.us/airport/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Kerrville_Municipal_Airport",
-    "keywords": "",
+    "keywords": "Kerrville Municipal Airport",
     "runways": [
         {
             "id": "245339",

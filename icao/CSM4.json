@@ -11,12 +11,12 @@
     "iso_region": "CA-QC",
     "municipality": "Ste-Julienne",
     "scheduled_service": "no",
-    "gps_code": "CSM4",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "CSM4",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Ste-Julienne_Airport",
-    "keywords": "SM4",
+    "keywords": "SM4, CSM4, CSM4",
     "runways": [
         {
             "id": "248494",

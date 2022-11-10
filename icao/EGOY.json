@@ -11,12 +11,12 @@
     "iso_region": "GB-SCT",
     "municipality": "Wigtownshire",
     "scheduled_service": "no",
-    "gps_code": "EGOY",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/RAF_West_Freugh",
-    "keywords": "",
+    "keywords": "EGOY, EGOY",
     "freqs": [
         {
             "id": "71997",

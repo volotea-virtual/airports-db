@@ -11,12 +11,12 @@
     "iso_region": "US-AZ",
     "municipality": "Tucson",
     "scheduled_service": "no",
-    "gps_code": "3AZ9",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "3AZ9",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "tucson, ina road",
+    "keywords": "tucson, ina road, 3AZ9, 3AZ9",
     "runways": [
         {
             "id": "265828",

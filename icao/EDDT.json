@@ -11,12 +11,12 @@
     "iso_region": "DE-BE",
     "municipality": "Berlin",
     "scheduled_service": "no",
-    "gps_code": "EDDT",
-    "iata_code": "TXL",
+    "gps_code": "",
+    "iata_code": "",
     "local_code": "",
     "home_link": "http://www.berlin-airport.de/en/travellers-txl/index.php",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Berlin_Tegel_Airport",
-    "keywords": "TXL, EDDT, Otto Lilienthal",
+    "keywords": "TXL, EDDT, Otto Lilienthal, EDDT, TXL",
     "runways": [
         {
             "id": "236179",

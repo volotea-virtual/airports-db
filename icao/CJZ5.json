@@ -11,12 +11,12 @@
     "iso_region": "CA-MB",
     "municipality": "Virden",
     "scheduled_service": "no",
-    "gps_code": "CJZ5",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "CJZ5",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Virden_(West)_Airport",
-    "keywords": "JZ5",
+    "keywords": "JZ5, CJZ5, CJZ5",
     "runways": [
         {
             "id": "253864",

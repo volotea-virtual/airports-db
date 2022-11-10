@@ -11,12 +11,12 @@
     "iso_region": "AQ-U-A",
     "municipality": "McMurdo Station",
     "scheduled_service": "no",
-    "gps_code": "NZIR",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Ice_Runway",
-    "keywords": "",
+    "keywords": "NZIR, NZIR",
     "runways": [
         {
             "id": "233593",

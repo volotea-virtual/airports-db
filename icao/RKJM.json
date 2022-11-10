@@ -11,12 +11,12 @@
     "iso_region": "KR-46",
     "municipality": "Gonghang-ro (Mokpo)",
     "scheduled_service": "no",
-    "gps_code": "RKJM",
-    "iata_code": "MPK",
+    "gps_code": "",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Mokpo_Airport",
-    "keywords": "",
+    "keywords": "RKJM, RKJM, MPK",
     "runways": [
         {
             "id": "237315",

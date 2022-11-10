@@ -11,12 +11,12 @@
     "iso_region": "BR-AM",
     "municipality": "Cunatama",
     "scheduled_service": "no",
-    "gps_code": "SDKH",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "AM0029",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SDKH, SDKH, AM0029",
     "runways": [
         {
             "id": "329365",

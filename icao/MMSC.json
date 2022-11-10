@@ -11,12 +11,12 @@
     "iso_region": "MX-CHP",
     "municipality": "San Cristóbal de las Casas",
     "scheduled_service": "no",
-    "gps_code": "MMSC",
-    "iata_code": "SZT",
+    "gps_code": "",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/San_Crist%C3%B3bal_de_las_Casas_National_Airport",
-    "keywords": "Corazón de María",
+    "keywords": "Corazón de María, MMSC, SZT",
     "runways": [
         {
             "id": "237645",

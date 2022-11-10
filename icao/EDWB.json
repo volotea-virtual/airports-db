@@ -11,12 +11,12 @@
     "iso_region": "DE-HB",
     "municipality": "Bremerhaven",
     "scheduled_service": "no",
-    "gps_code": "EDWB",
-    "iata_code": "BRV",
+    "gps_code": "",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Bremerhaven_Airport",
-    "keywords": "",
+    "keywords": "EDWB, EDWB, BRV",
     "runways": [
         {
             "id": "236144",

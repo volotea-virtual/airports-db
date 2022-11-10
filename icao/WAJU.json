@@ -11,12 +11,12 @@
     "iso_region": "ID-PA",
     "municipality": "Ubrub",
     "scheduled_service": "no",
-    "gps_code": "WAJU",
-    "iata_code": "UBR",
+    "gps_code": "",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "WAJU, WAJU, UBR",
     "runways": [
         {
             "id": "311560",

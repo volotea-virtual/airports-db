@@ -11,12 +11,12 @@
     "iso_region": "US-TX",
     "municipality": "Frisco",
     "scheduled_service": "no",
-    "gps_code": "TX80",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "TX80",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "TX80, TX80, TX80",
     "runways": [
         {
             "id": "269006",

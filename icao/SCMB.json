@@ -11,12 +11,12 @@
     "iso_region": "CL-AN",
     "municipality": "La Chimba",
     "scheduled_service": "no",
-    "gps_code": "SCMB",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "http://es.wikipedia.org/wiki/Aer%C3%B3dromo_La_Chimba",
-    "keywords": "",
+    "keywords": "SCMB, SCMB",
     "runways": [
         {
             "id": "235208",

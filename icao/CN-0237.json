@@ -12,11 +12,11 @@
     "municipality": "Tashkurgan",
     "scheduled_service": "no",
     "gps_code": "",
-    "iata_code": "HQL",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Tashkurgan_Airport",
-    "keywords": "",
+    "keywords": "HQL, HQL",
     "runways": [
         {
             "id": "353496",

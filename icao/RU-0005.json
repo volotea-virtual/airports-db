@@ -13,10 +13,10 @@
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
-    "local_code": "XUEA",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Andreapol_%28air_base%29",
-    "keywords": "ЬУЕА, Андреаполь",
+    "keywords": "ЬУЕА, Андреаполь, XUEA",
     "country": {
         "id": "302714",
         "code": "RU",

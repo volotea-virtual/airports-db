@@ -11,12 +11,12 @@
     "iso_region": "GB-ENG",
     "municipality": "Maypole",
     "scheduled_service": "no",
-    "gps_code": "EGHB",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "http://www.maypoleairfield.com",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Maypole_Airfield",
-    "keywords": "",
+    "keywords": "EGHB, EGHB",
     "runways": [
         {
             "id": "307320",

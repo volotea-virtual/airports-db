@@ -11,12 +11,12 @@
     "iso_region": "FR-GES",
     "municipality": "Reims/Champagne",
     "scheduled_service": "no",
-    "gps_code": "LFSR",
-    "iata_code": "RHE",
+    "gps_code": "",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "LFSR, LFSR, RHE",
     "runways": [
         {
             "id": "235979",

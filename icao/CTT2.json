@@ -11,12 +11,12 @@
     "iso_region": "CA-QC",
     "municipality": "Chambly",
     "scheduled_service": "no",
-    "gps_code": "CTT2",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "CTT2",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Chambly_Airport",
-    "keywords": "TT2",
+    "keywords": "TT2, CTT2, CTT2",
     "runways": [
         {
             "id": "255989",

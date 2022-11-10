@@ -11,12 +11,12 @@
     "iso_region": "GB-ENG",
     "municipality": "Colerne",
     "scheduled_service": "no",
-    "gps_code": "EGUO",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Colerne_Airfield",
-    "keywords": "RAF Colerne",
+    "keywords": "RAF Colerne, EGUO",
     "runways": [
         {
             "id": "239431",

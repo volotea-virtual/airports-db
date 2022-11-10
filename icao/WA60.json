@@ -11,12 +11,12 @@
     "iso_region": "US-WA",
     "municipality": "Longview",
     "scheduled_service": "no",
-    "gps_code": "WA60",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "WA60",
+    "keywords": "WA60, WA60",
     "runways": [
         {
             "id": "269107",

@@ -3,13 +3,13 @@
     "ident": "WMKK",
     "type": "large_airport",
     "name": "Kuala Lumpur International Airport",
-    "latitude_deg": "2.745579957962",
-    "longitude_deg": "101.70999908447",
+    "latitude_deg": "2.74558",
+    "longitude_deg": "101.709999",
     "elevation_ft": "69",
     "continent": "AS",
     "iso_country": "MY",
-    "iso_region": "MY-14",
-    "municipality": "Kuala Lumpur",
+    "iso_region": "MY-10",
+    "municipality": "Sepang",
     "scheduled_service": "yes",
     "gps_code": "WMKK",
     "iata_code": "KUL",
@@ -176,14 +176,14 @@
         "keywords": "Lapangan Terbang Malaysia"
     },
     "region": {
-        "id": "304836",
-        "code": "MY-14",
-        "local_code": "14",
-        "name": "Wilayah Persekutuan Kuala Lumpur",
+        "id": "304832",
+        "code": "MY-10",
+        "local_code": "10",
+        "name": "Selangor",
         "continent": "AS",
         "iso_country": "MY",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Wilayah_Persekutuan_Kuala_Lumpur",
-        "keywords": "Airports in Wilayah Persekutuan Kuala Lumpur"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Selangor",
+        "keywords": "Airports in Selangor"
     },
     "navaids": [
         {

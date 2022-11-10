@@ -11,12 +11,12 @@
     "iso_region": "RU-MUR",
     "municipality": "Chapoma",
     "scheduled_service": "no",
-    "gps_code": "ULMP",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "УЛМП, Аэропорт Чапома",
+    "keywords": "УЛМП, Аэропорт Чапома, ULMP",
     "runways": [
         {
             "id": "260441",

@@ -12,11 +12,11 @@
     "municipality": "La Güera",
     "scheduled_service": "no",
     "gps_code": "",
-    "iata_code": "ZLG",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/La_G%C3%BCera_Airport",
-    "keywords": "al-Guwayra, Laghouira",
+    "keywords": "al-Guwayra, Laghouira, ZLG",
     "country": {
         "id": "302570",
         "code": "EH",

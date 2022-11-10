@@ -11,12 +11,12 @@
     "iso_region": "CA-ON",
     "municipality": "Eagle River",
     "scheduled_service": "no",
-    "gps_code": "CKX3",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "CKX3",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Eagle_River_Airport",
-    "keywords": "KX3",
+    "keywords": "KX3, CKX3, CKX3",
     "runways": [
         {
             "id": "250764",

@@ -11,12 +11,12 @@
     "iso_region": "FR-OCC",
     "municipality": "",
     "scheduled_service": "no",
-    "gps_code": "LFND",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "LFND, LFND",
     "runways": [
         {
             "id": "259999",

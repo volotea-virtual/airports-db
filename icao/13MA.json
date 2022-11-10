@@ -12,11 +12,11 @@
     "municipality": "Palmer",
     "scheduled_service": "no",
     "gps_code": "",
-    "iata_code": "PMX",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Metropolitan_Airport",
-    "keywords": "13MA, PMX",
+    "keywords": "13MA, PMX, PMX",
     "runways": [
         {
             "id": "251833",

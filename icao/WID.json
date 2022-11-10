@@ -12,11 +12,11 @@
     "municipality": "British Armed Forces",
     "scheduled_service": "no",
     "gps_code": "",
-    "iata_code": "WID",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/RAF_Wildenrath",
-    "keywords": "",
+    "keywords": "WID, WID",
     "country": {
         "id": "302681",
         "code": "DE",

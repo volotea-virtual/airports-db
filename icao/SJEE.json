@@ -11,12 +11,12 @@
     "iso_region": "BR-MS",
     "municipality": "Selvíria",
     "scheduled_service": "no",
-    "gps_code": "SJEE",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SJEE, SJEE",
     "runways": [
         {
             "id": "261091",

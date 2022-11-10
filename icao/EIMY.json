@@ -11,12 +11,12 @@
     "iso_region": "IE-TA",
     "municipality": "Thurles",
     "scheduled_service": "no",
-    "gps_code": "EIMY",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Moyne_Aerodrome",
-    "keywords": "Áth na nUrlainn",
+    "keywords": "Áth na nUrlainn, EIMY",
     "runways": [
         {
             "id": "255972",

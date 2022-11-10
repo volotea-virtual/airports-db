@@ -11,12 +11,12 @@
     "iso_region": "CH-ZH",
     "municipality": "",
     "scheduled_service": "no",
-    "gps_code": "LSPK",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "http://www.hasenstrick.ch/",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "LSPK, LSPK",
     "runways": [
         {
             "id": "249985",

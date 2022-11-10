@@ -11,12 +11,12 @@
     "iso_region": "CA-AB",
     "municipality": "Grande Cache",
     "scheduled_service": "no",
-    "gps_code": "CEQ5",
-    "iata_code": "YGC",
-    "local_code": "CEQ5",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Grande_Cache_Airport",
-    "keywords": "EQ5",
+    "keywords": "EQ5, CEQ5, YGC, CEQ5",
     "runways": [
         {
             "id": "235050",

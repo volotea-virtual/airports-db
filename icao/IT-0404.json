@@ -13,10 +13,10 @@
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
-    "local_code": "UDSVT",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Campo di Volo I Grifoni",
+    "keywords": "Campo di Volo I Grifoni, UDSVT",
     "runways": [
         {
             "id": "320108",

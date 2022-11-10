@@ -11,12 +11,12 @@
     "iso_region": "NO-18",
     "municipality": "Narvik",
     "scheduled_service": "no",
-    "gps_code": "ENNK",
-    "iata_code": "NVK",
+    "gps_code": "",
+    "iata_code": "",
     "local_code": "",
     "home_link": "https://avinor.no/en/airport/narvik-airport/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Narvik_Airport%2C_Framnes",
-    "keywords": "Narvik lufthavn, Framnes",
+    "keywords": "Narvik lufthavn, Framnes, ENNK, NVK",
     "runways": [
         {
             "id": "260157",

@@ -11,12 +11,12 @@
     "iso_region": "CA-AB",
     "municipality": "Chinchaga",
     "scheduled_service": "no",
-    "gps_code": "CED2",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "CED2",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Chinchaga_Airport",
-    "keywords": "ED2",
+    "keywords": "ED2, CED2, CED2",
     "runways": [
         {
             "id": "247025",

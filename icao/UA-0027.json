@@ -11,12 +11,12 @@
     "iso_region": "UA-63",
     "municipality": "Lozovaya",
     "scheduled_service": "no",
-    "gps_code": "UKHB",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Bliznetsy Air Base, Аэродром Близнюки, Аэродром Близнецы",
+    "keywords": "Bliznetsy Air Base, Аэродром Близнюки, Аэродром Близнецы, UKHB",
     "runways": [
         {
             "id": "340034",

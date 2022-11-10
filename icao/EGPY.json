@@ -11,12 +11,12 @@
     "iso_region": "GB-SCT",
     "municipality": "Thurso",
     "scheduled_service": "no",
-    "gps_code": "EGPY",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "HMS Tern",
+    "keywords": "HMS Tern, EGPY",
     "runways": [
         {
             "id": "316812",

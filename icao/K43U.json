@@ -12,11 +12,11 @@
     "municipality": "Mount Pleasant",
     "scheduled_service": "no",
     "gps_code": "",
-    "iata_code": "MSD",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Mount_Pleasant_Airport_(Utah)",
-    "keywords": "43U",
+    "keywords": "43U, MSD",
     "runways": [
         {
             "id": "242606",

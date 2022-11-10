@@ -11,12 +11,12 @@
     "iso_region": "GB-ENG",
     "municipality": "Manchester",
     "scheduled_service": "no",
-    "gps_code": "EGCD",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "XXB",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Woodford_Aerodrome",
-    "keywords": "",
+    "keywords": "EGCD, EGCD, XXB",
     "runways": [
         {
             "id": "239587",

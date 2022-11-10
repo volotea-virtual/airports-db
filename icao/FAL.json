@@ -12,11 +12,11 @@
     "municipality": "Roma",
     "scheduled_service": "no",
     "gps_code": "",
-    "iata_code": "FAL",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "FAL, FAL",
     "country": {
         "id": "302755",
         "code": "US",

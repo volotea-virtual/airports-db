@@ -11,12 +11,12 @@
     "iso_region": "FR-GES",
     "municipality": "Metz/Frescaty",
     "scheduled_service": "no",
-    "gps_code": "LFSF",
-    "iata_code": "MZM",
+    "gps_code": "",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "LFSF, LFSF, MZM",
     "runways": [
         {
             "id": "235827",

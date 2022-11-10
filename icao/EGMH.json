@@ -11,12 +11,12 @@
     "iso_region": "GB-ENG",
     "municipality": "Manston",
     "scheduled_service": "no",
-    "gps_code": "EGMH",
-    "iata_code": "MSE",
+    "gps_code": "",
+    "iata_code": "",
     "local_code": "",
     "home_link": "http://www.kentinternationalairport-manston.com/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Kent_International_Airport",
-    "keywords": "RAF Manston, Ramsgate, EGUM, Manston Airport",
+    "keywords": "RAF Manston, Ramsgate, EGUM, Manston Airport, EGMH, MSE",
     "runways": [
         {
             "id": "239505",

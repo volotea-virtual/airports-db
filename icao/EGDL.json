@@ -11,12 +11,12 @@
     "iso_region": "GB-ENG",
     "municipality": "Lyneham",
     "scheduled_service": "no",
-    "gps_code": "EGDL",
-    "iata_code": "LYE",
+    "gps_code": "",
+    "iata_code": "",
     "local_code": "",
     "home_link": "http://www.raf.mod.uk/raflyneham/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/RAF_Lyneham",
-    "keywords": "",
+    "keywords": "EGDL, EGDL, LYE",
     "runways": [
         {
             "id": "239585",

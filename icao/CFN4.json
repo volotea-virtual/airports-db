@@ -11,12 +11,12 @@
     "iso_region": "CA-AB",
     "municipality": "Embarras",
     "scheduled_service": "no",
-    "gps_code": "CFN4",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "CFN4",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Embarras_Airport",
-    "keywords": "FN4",
+    "keywords": "FN4, CFN4, CFN4",
     "runways": [
         {
             "id": "248475",

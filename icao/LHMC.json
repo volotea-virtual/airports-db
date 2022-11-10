@@ -11,12 +11,12 @@
     "iso_region": "HU-BZ",
     "municipality": "Miskolc",
     "scheduled_service": "no",
-    "gps_code": "LHMC",
-    "iata_code": "MCQ",
+    "gps_code": "",
+    "iata_code": "",
     "local_code": "",
     "home_link": "http://www.lhmc.hu/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Miskolc_Airport",
-    "keywords": "",
+    "keywords": "LHMC, LHMC, MCQ",
     "runways": [
         {
             "id": "352150",

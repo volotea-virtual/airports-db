@@ -11,12 +11,12 @@
     "iso_region": "RU-AD",
     "municipality": "Maykop",
     "scheduled_service": "no",
-    "gps_code": "URKM",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "URKM, URKM",
     "runways": [
         {
             "id": "260222",

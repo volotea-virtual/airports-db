@@ -11,12 +11,12 @@
     "iso_region": "CA-ON",
     "municipality": "",
     "scheduled_service": "no",
-    "gps_code": "CGV4",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "gv4",
+    "keywords": "gv4, CGV4",
     "runways": [
         {
             "id": "271085",

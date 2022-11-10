@@ -1,7 +1,7 @@
 {
     "id": "314653",
     "ident": "VN-0007",
-    "type": "heliport",
+    "type": "closed",
     "name": "Đá Tây (West London Reef) Helipad",
     "latitude_deg": "8.845476",
     "longitude_deg": "112.195874",
@@ -9,7 +9,7 @@
     "continent": "AS",
     "iso_country": "VN",
     "iso_region": "VN-SCC",
-    "municipality": "Trường Sa (Đá Tây / West London Reef)",
+    "municipality": "Trường Sa (Trường Sa)",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",

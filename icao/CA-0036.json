@@ -13,10 +13,10 @@
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
-    "local_code": "CX4",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Bay_d%27Espoir_Aerodrome",
-    "keywords": "",
+    "keywords": "CX4, CX4",
     "country": {
         "id": "302730",
         "code": "CA",

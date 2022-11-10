@@ -11,12 +11,12 @@
     "iso_region": "CO-ANT",
     "municipality": "Remedios",
     "scheduled_service": "no",
-    "gps_code": "SKOT",
-    "iata_code": "OTU",
+    "gps_code": "",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Ot%C3%BA_Airport",
-    "keywords": "El Rhin",
+    "keywords": "El Rhin, SKOT, OTU",
     "runways": [
         {
             "id": "235285",

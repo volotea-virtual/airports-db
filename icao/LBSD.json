@@ -11,12 +11,12 @@
     "iso_region": "BG-23",
     "municipality": "Sofia",
     "scheduled_service": "no",
-    "gps_code": "LBSD",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Dobroslavtsi_Airbase",
-    "keywords": "Kumaritsa Airport, LB20",
+    "keywords": "Kumaritsa Airport, LB20, LBSD",
     "runways": [
         {
             "id": "234397",

@@ -13,10 +13,10 @@
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
-    "local_code": "L47",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "LA32",
+    "keywords": "LA32, L47",
     "runways": [
         {
             "id": "245648",

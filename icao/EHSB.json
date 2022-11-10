@@ -11,12 +11,12 @@
     "iso_region": "NL-UT",
     "municipality": "Soesterberg",
     "scheduled_service": "no",
-    "gps_code": "EHSB",
-    "iata_code": "UTC",
+    "gps_code": "",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Soesterberg_Air_Base",
-    "keywords": "ACvZ, Amsterdamsche Club voor Zweefvliegen",
+    "keywords": "ACvZ, Amsterdamsche Club voor Zweefvliegen, EHSB, UTC",
     "runways": [
         {
             "id": "237944",

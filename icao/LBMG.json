@@ -11,12 +11,12 @@
     "iso_region": "BG-12",
     "municipality": "Gabrovnitsa",
     "scheduled_service": "no",
-    "gps_code": "LBMG",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Gabrovnitsa_Air_Base",
-    "keywords": "",
+    "keywords": "LBMG, LBMG",
     "runways": [
         {
             "id": "234392",

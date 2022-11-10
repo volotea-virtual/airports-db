@@ -13,10 +13,10 @@
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
-    "local_code": "UWLB",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "УВЛБ, Аэродром Бекетовка",
+    "keywords": "УВЛБ, Аэродром Бекетовка, UWLB",
     "country": {
         "id": "302714",
         "code": "RU",

@@ -11,12 +11,12 @@
     "iso_region": "US-TX",
     "municipality": "Waco",
     "scheduled_service": "no",
-    "gps_code": "TA04",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "TA04",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "TA04, TA04, TA04",
     "runways": [
         {
             "id": "268799",

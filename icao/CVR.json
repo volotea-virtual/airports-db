@@ -12,11 +12,11 @@
     "municipality": "Culver City",
     "scheduled_service": "no",
     "gps_code": "",
-    "iata_code": "CVR",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Hughes_Airport_(California)",
-    "keywords": "",
+    "keywords": "CVR, CVR",
     "country": {
         "id": "302755",
         "code": "US",

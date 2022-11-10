@@ -11,12 +11,12 @@
     "iso_region": "BR-SP",
     "municipality": "Itapecerica Da Serra",
     "scheduled_service": "no",
-    "gps_code": "SDQF",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SDQF, SDQF",
     "runways": [
         {
             "id": "262616",

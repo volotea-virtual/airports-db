@@ -11,12 +11,12 @@
     "iso_region": "VN-SCC",
     "municipality": "Nha Trang",
     "scheduled_service": "no",
-    "gps_code": "VVNT",
-    "iata_code": "NHA",
+    "gps_code": "",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Nha_Trang_Air_Base",
-    "keywords": "Nhatrang, BA 194",
+    "keywords": "Nhatrang, BA 194, VVNT, NHA",
     "runways": [
         {
             "id": "246176",

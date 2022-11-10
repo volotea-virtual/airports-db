@@ -11,12 +11,12 @@
     "iso_region": "BG-26",
     "municipality": "Haskovo",
     "scheduled_service": "no",
-    "gps_code": "LBHS",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Haskovo_Malevo_Airport",
-    "keywords": "LB14",
+    "keywords": "LB14, LBHS",
     "runways": [
         {
             "id": "234391",

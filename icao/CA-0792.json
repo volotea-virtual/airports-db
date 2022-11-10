@@ -13,10 +13,10 @@
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
-    "local_code": "AN7",
+    "local_code": "",
     "home_link": "https://www.brmbmaps.com/explore/canada/british-columbia/tatlatui-provincial-park/kitchener-lake-cabin/70334",
     "wikipedia_link": "",
-    "keywords": "AN7",
+    "keywords": "AN7, AN7",
     "country": {
         "id": "302730",
         "code": "CA",

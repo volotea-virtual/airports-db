@@ -12,11 +12,11 @@
     "municipality": "Castilho",
     "scheduled_service": "no",
     "gps_code": "",
-    "iata_code": "URB",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SBUP",
+    "keywords": "SBUP, URB",
     "runways": [
         {
             "id": "234017",

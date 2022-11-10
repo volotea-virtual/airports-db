@@ -11,12 +11,12 @@
     "iso_region": "GB-ENG",
     "municipality": "Nottingham",
     "scheduled_service": "no",
-    "gps_code": "EGNA",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Hucknall_Airfield",
-    "keywords": "",
+    "keywords": "EGNA, EGNA",
     "runways": [
         {
             "id": "302212",

@@ -11,12 +11,12 @@
     "iso_region": "FR-NAQ",
     "municipality": "Brive-la-Gaillarde",
     "scheduled_service": "no",
-    "gps_code": "LFBV",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Brive_-_La_Roche_Airport",
-    "keywords": "BVE",
+    "keywords": "BVE, LFBV",
     "runways": [
         {
             "id": "235878",

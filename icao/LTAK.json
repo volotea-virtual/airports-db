@@ -11,12 +11,12 @@
     "iso_region": "TR-31",
     "municipality": "İskenderun",
     "scheduled_service": "no",
-    "gps_code": "LTAK",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "ISK",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Antakya, Antioch",
+    "keywords": "Antakya, Antioch, LTAK, ISK",
     "runways": [
         {
             "id": "239311",

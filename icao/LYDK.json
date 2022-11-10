@@ -13,10 +13,10 @@
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
-    "local_code": "LYDK",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/%C4%90akovica_Airfield",
-    "keywords": "Dakovica, Aerodrom Đakovica, Аеродром Ђаковица, Aeroporti i Gjakovës, Dakovjca",
+    "keywords": "Dakovica, Aerodrom Đakovica, Аеродром Ђаковица, Aeroporti i Gjakovës, Dakovjca, LYDK",
     "runways": [
         {
             "id": "246241",

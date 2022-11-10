@@ -11,12 +11,12 @@
     "iso_region": "GB-ENG",
     "municipality": "Cottesmore",
     "scheduled_service": "no",
-    "gps_code": "EGXJ",
-    "iata_code": "OKH",
+    "gps_code": "",
+    "iata_code": "",
     "local_code": "",
     "home_link": "http://www.raf.mod.uk/rafcottesmore/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/RAF_Cottesmore",
-    "keywords": "",
+    "keywords": "EGXJ, EGXJ, OKH",
     "runways": [
         {
             "id": "239475",

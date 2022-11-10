@@ -11,12 +11,12 @@
     "iso_region": "BR-MT",
     "municipality": "Primavera Do Leste",
     "scheduled_service": "no",
-    "gps_code": "SJPR",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SJPR, SJPR",
     "runways": [
         {
             "id": "261659",

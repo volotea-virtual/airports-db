@@ -11,12 +11,12 @@
     "iso_region": "FR-GES",
     "municipality": "",
     "scheduled_service": "no",
-    "gps_code": "LFGV",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "LFGV, LFGV",
     "runways": [
         {
             "id": "260043",

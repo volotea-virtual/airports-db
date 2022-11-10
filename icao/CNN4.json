@@ -11,12 +11,12 @@
     "iso_region": "CA-ON",
     "municipality": "Atwood",
     "scheduled_service": "no",
-    "gps_code": "CNN4",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "CNN4",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Atwood_Airport",
-    "keywords": "NN4",
+    "keywords": "NN4, CNN4, CNN4",
     "runways": [
         {
             "id": "246311",

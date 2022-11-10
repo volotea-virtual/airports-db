@@ -11,12 +11,12 @@
     "iso_region": "DE-BR",
     "municipality": "Brandenburg an der Havel",
     "scheduled_service": "no",
-    "gps_code": "EDUB",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "EDUB, EDUB",
     "runways": [
         {
             "id": "236301",

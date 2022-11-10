@@ -13,10 +13,10 @@
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
-    "local_code": "ZUN",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Black_Rock_Airport",
-    "keywords": "KZUN, ZUN",
+    "keywords": "KZUN, ZUN, ZUN",
     "runways": [
         {
             "id": "244734",

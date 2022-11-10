@@ -13,10 +13,10 @@
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
-    "local_code": "RJ0031",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SDDM",
+    "keywords": "SDDM, RJ0031",
     "runways": [
         {
             "id": "262719",

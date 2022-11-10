@@ -12,11 +12,11 @@
     "municipality": "Oklahoma City",
     "scheduled_service": "no",
     "gps_code": "",
-    "iata_code": "DWN",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "OK03, 2DT",
+    "keywords": "OK03, 2DT, DWN",
     "runways": [
         {
             "id": "243911",

@@ -13,10 +13,10 @@
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
-    "local_code": "XLAL",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Lakhta_air_base",
-    "keywords": "Kholm, Katunino, Novodvinsk, Lahta, Pervomaysk",
+    "keywords": "Kholm, Katunino, Novodvinsk, Lahta, Pervomaysk, XLAL",
     "country": {
         "id": "302714",
         "code": "RU",

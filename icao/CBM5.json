@@ -11,12 +11,12 @@
     "iso_region": "CA-BC",
     "municipality": "Telegraph Creek",
     "scheduled_service": "no",
-    "gps_code": "CBM5",
-    "iata_code": "YTX",
-    "local_code": "CBM5",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Telegraph_Creek_Airport",
-    "keywords": "BM5",
+    "keywords": "BM5, CBM5, YTX, CBM5",
     "runways": [
         {
             "id": "250026",

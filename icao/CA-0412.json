@@ -12,11 +12,11 @@
     "municipality": "Winisk",
     "scheduled_service": "no",
     "gps_code": "",
-    "iata_code": "YWN",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Winisk,_Ontario",
-    "keywords": "",
+    "keywords": "YWN, YWN",
     "runways": [
         {
             "id": "315103",

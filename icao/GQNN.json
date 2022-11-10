@@ -11,12 +11,12 @@
     "iso_region": "MR-NKC",
     "municipality": "Nouakchott",
     "scheduled_service": "no",
-    "gps_code": "GQNN",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Nouakchott_International_Airport",
-    "keywords": "",
+    "keywords": "GQNN, GQNN",
     "runways": [
         {
             "id": "237622",

@@ -11,12 +11,12 @@
     "iso_region": "AL-12",
     "municipality": "Vlorë",
     "scheduled_service": "no",
-    "gps_code": "LAVL",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Vlora Air Base",
+    "keywords": "Vlora Air Base, LAVL",
     "runways": [
         {
             "id": "232872",

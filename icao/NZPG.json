@@ -11,12 +11,12 @@
     "iso_region": "AQ-U-A",
     "municipality": "McMurdo Station",
     "scheduled_service": "no",
-    "gps_code": "NZPG",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Pegasus_blue_ice_runway",
-    "keywords": "",
+    "keywords": "NZPG, NZPG",
     "runways": [
         {
             "id": "233592",

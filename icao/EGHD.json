@@ -11,12 +11,12 @@
     "iso_region": "GB-ENG",
     "municipality": "Plymouth",
     "scheduled_service": "no",
-    "gps_code": "EGHD",
-    "iata_code": "PLH",
+    "gps_code": "",
+    "iata_code": "",
     "local_code": "",
     "home_link": "http://www.plymouthairport.com/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Plymouth_City_Airport",
-    "keywords": "",
+    "keywords": "EGHD, EGHD, PLH",
     "runways": [
         {
             "id": "239554",

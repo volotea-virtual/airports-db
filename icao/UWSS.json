@@ -11,12 +11,12 @@
     "iso_region": "RU-SAR",
     "municipality": "Saratov",
     "scheduled_service": "no",
-    "gps_code": "UWSS",
-    "iata_code": "RTW",
+    "gps_code": "",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Saratov_Tsentralny_Airport",
-    "keywords": "Saratov Tsentralny Airport, Аэропорт Центральный",
+    "keywords": "Saratov Tsentralny Airport, Аэропорт Центральный, UWSS, RTW",
     "runways": [
         {
             "id": "238501",

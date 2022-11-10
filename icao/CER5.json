@@ -11,12 +11,12 @@
     "iso_region": "CA-AB",
     "municipality": "Conklin",
     "scheduled_service": "no",
-    "gps_code": "CER5",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "CER5",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Conklin_Airport",
-    "keywords": "ER5",
+    "keywords": "ER5, CER5, CER5",
     "runways": [
         {
             "id": "249250",

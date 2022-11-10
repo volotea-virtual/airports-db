@@ -11,12 +11,12 @@
     "iso_region": "US-UT",
     "municipality": "Moab",
     "scheduled_service": "no",
-    "gps_code": "UT68",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "UT68",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Tangri-La",
+    "keywords": "Tangri-La, UT68, UT68",
     "runways": [
         {
             "id": "246655",

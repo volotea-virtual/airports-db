@@ -12,11 +12,11 @@
     "municipality": "Blissville",
     "scheduled_service": "no",
     "gps_code": "",
-    "iata_code": "YYS",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "CH3, CCH3",
+    "keywords": "CH3, CCH3, YYS",
     "country": {
         "id": "302730",
         "code": "CA",

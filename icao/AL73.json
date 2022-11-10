@@ -12,11 +12,11 @@
     "municipality": "Tuskegee",
     "scheduled_service": "no",
     "gps_code": "",
-    "iata_code": "TGE",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Sharpe_Field",
-    "keywords": "AL73, TGE, Tuskegee AAF",
+    "keywords": "AL73, TGE, Tuskegee AAF, TGE",
     "runways": [
         {
             "id": "240030",

@@ -11,12 +11,12 @@
     "iso_region": "CL-ML",
     "municipality": "Panimavida",
     "scheduled_service": "no",
-    "gps_code": "SCIV",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Panimávida_Airport",
-    "keywords": "",
+    "keywords": "SCIV, SCIV",
     "runways": [
         {
             "id": "348518",

@@ -11,12 +11,12 @@
     "iso_region": "TW-TAO",
     "municipality": "Taoyuan (Dayuan)",
     "scheduled_service": "no",
-    "gps_code": "RCGM",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Taiyoun Airbase, Taoyuan Naval Base, 太陽空軍基地; RGCM",
+    "keywords": "Taiyoun Airbase, Taoyuan Naval Base, 太陽空軍基地; RGCM, RCGM",
     "runways": [
         {
             "id": "260262",

@@ -11,12 +11,12 @@
     "iso_region": "US-MI",
     "municipality": "Grant",
     "scheduled_service": "no",
-    "gps_code": "01C",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "01C",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Grant_Airport",
-    "keywords": "",
+    "keywords": "01C, 01C, 01C",
     "runways": [
         {
             "id": "256815",

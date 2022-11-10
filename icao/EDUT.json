@@ -11,12 +11,12 @@
     "iso_region": "DE-BR",
     "municipality": "Templin",
     "scheduled_service": "no",
-    "gps_code": "EDUT",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "http://de.wikipedia.org/wiki/EDUT",
-    "keywords": "",
+    "keywords": "EDUT, EDUT",
     "runways": [
         {
             "id": "236149",

@@ -11,12 +11,12 @@
     "iso_region": "GB-ENG",
     "municipality": "Bristol",
     "scheduled_service": "no",
-    "gps_code": "EGTG",
-    "iata_code": "FZO",
+    "gps_code": "",
+    "iata_code": "",
     "local_code": "",
     "home_link": "http://www.bristolfilton.co.uk/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Bristol_Filton_Airport",
-    "keywords": "RAF Filton",
+    "keywords": "RAF Filton, EGTG, FZO",
     "runways": [
         {
             "id": "239601",

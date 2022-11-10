@@ -12,11 +12,11 @@
     "municipality": "Gounda",
     "scheduled_service": "no",
     "gps_code": "",
-    "iata_code": "GDA",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Gounda_Airport",
-    "keywords": "",
+    "keywords": "GDA, GDA",
     "country": {
         "id": "302562",
         "code": "CF",

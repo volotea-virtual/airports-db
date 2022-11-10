@@ -11,12 +11,12 @@
     "iso_region": "CA-BC",
     "municipality": "Takla Narrows",
     "scheduled_service": "no",
-    "gps_code": "CBD5",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "CBD5",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Takla_Narrows_Aerodrome",
-    "keywords": "BD5",
+    "keywords": "BD5, CBD5, CBD5",
     "runways": [
         {
             "id": "254572",

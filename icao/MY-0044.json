@@ -1,0 +1,38 @@
+{
+    "id": "504745",
+    "ident": "MY-0044",
+    "type": "small_airport",
+    "name": "Putrajaya Recreational Airport",
+    "latitude_deg": "2.9027",
+    "longitude_deg": "101.66618",
+    "elevation_ft": "105",
+    "continent": "AS",
+    "iso_country": "MY",
+    "iso_region": "MY-16",
+    "municipality": "Putrajaya",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302653",
+        "code": "MY",
+        "name": "Malaysia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Malaysia",
+        "keywords": "Lapangan Terbang Malaysia"
+    },
+    "region": {
+        "id": "304838",
+        "code": "MY-16",
+        "local_code": "16",
+        "name": "Putrajaya (Federal Territory)",
+        "continent": "AS",
+        "iso_country": "MY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Putrajaya",
+        "keywords": "Airports in Putrajaya"
+    }
+}

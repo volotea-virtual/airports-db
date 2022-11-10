@@ -11,12 +11,12 @@
     "iso_region": "US-OH",
     "municipality": "Plainesville",
     "scheduled_service": "no",
-    "gps_code": "KPVZ",
-    "iata_code": "PVZ",
-    "local_code": "PVZ",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "KPVZ, KPVZ, PVZ, PVZ",
     "runways": [
         {
             "id": "260279",

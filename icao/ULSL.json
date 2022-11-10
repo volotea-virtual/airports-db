@@ -11,12 +11,12 @@
     "iso_region": "RU-LEN",
     "municipality": "Lodeynoye Pole",
     "scheduled_service": "no",
-    "gps_code": "ULSL",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Lodeynoe Pole Airport, Аэропорт Лодейное Поле",
+    "keywords": "Lodeynoe Pole Airport, Аэропорт Лодейное Поле, ULSL",
     "runways": [
         {
             "id": "260445",

@@ -12,11 +12,11 @@
     "municipality": "Pensacola",
     "scheduled_service": "no",
     "gps_code": "",
-    "iata_code": "NUN",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Saufley_Field",
-    "keywords": "KNUN, NUN",
+    "keywords": "KNUN, NUN, NUN",
     "runways": [
         {
             "id": "242515",

@@ -11,12 +11,12 @@
     "iso_region": "BY-MI",
     "municipality": "Minsk",
     "scheduled_service": "no",
-    "gps_code": "UMMM",
-    "iata_code": "MHP",
+    "gps_code": "",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Minsk-1",
-    "keywords": "",
+    "keywords": "UMMM, UMMM, MHP",
     "runways": [
         {
             "id": "233751",

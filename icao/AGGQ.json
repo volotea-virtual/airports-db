@@ -11,12 +11,12 @@
     "iso_region": "SB-ML",
     "municipality": "Ontong Java Atoll",
     "scheduled_service": "no",
-    "gps_code": "AGGQ",
-    "iata_code": "OTV",
+    "gps_code": "",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Luangiua, Lord Howe Atoll",
+    "keywords": "Luangiua, Lord Howe Atoll, AGGQ, OTV",
     "runways": [
         {
             "id": "310184",

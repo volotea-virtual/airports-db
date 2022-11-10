@@ -11,12 +11,12 @@
     "iso_region": "CA-AB",
     "municipality": "Fontas",
     "scheduled_service": "no",
-    "gps_code": "CFK3",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "CFK3",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Fontas_Airport",
-    "keywords": "FK3",
+    "keywords": "FK3, CFK3, CFK3",
     "runways": [
         {
             "id": "247031",

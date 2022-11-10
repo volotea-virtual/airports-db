@@ -11,12 +11,12 @@
     "iso_region": "US-ND",
     "municipality": "Williston",
     "scheduled_service": "no",
-    "gps_code": "KISN",
-    "iata_code": "ISN",
-    "local_code": "ISN",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "KISN, KISN, ISN, ISN",
     "runways": [
         {
             "id": "243256",

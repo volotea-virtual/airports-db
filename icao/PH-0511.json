@@ -1,0 +1,38 @@
+{
+    "id": "504739",
+    "ident": "PH-0511",
+    "type": "heliport",
+    "name": "Maya-maya (Viper North Shoal) Helipad",
+    "latitude_deg": "8.35832",
+    "longitude_deg": "115.23804",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-PLW",
+    "municipality": "Kalayaan (Maya-maya / Viper North Shoal)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302656",
+        "code": "PH",
+        "name": "Philippines",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
+        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
+    },
+    "region": {
+        "id": "305113",
+        "code": "PH-PLW",
+        "local_code": "PLW",
+        "name": "Palawan Province",
+        "continent": "AS",
+        "iso_country": "PH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Palawan_Province",
+        "keywords": "Airports in Palawan Province"
+    }
+}

@@ -11,12 +11,12 @@
     "iso_region": "AR-B",
     "municipality": "Junin",
     "scheduled_service": "no",
-    "gps_code": "SAAJ",
-    "iata_code": "JNI",
-    "local_code": "NIN",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Jun%C3%ADn_Airport",
-    "keywords": "",
+    "keywords": "SAAJ, SAAJ, JNI, NIN",
     "runways": [
         {
             "id": "232944",

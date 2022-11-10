@@ -12,11 +12,11 @@
     "municipality": "Sur",
     "scheduled_service": "no",
     "gps_code": "",
-    "iata_code": "SUH",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Sur_Airport",
-    "keywords": "OOSR",
+    "keywords": "OOSR, SUH",
     "country": {
         "id": "302655",
         "code": "OM",

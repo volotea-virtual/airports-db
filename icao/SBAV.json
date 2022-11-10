@@ -11,12 +11,12 @@
     "iso_region": "BR-SP",
     "municipality": "Rosana",
     "scheduled_service": "no",
-    "gps_code": "SBAV",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SJDE",
+    "keywords": "SJDE, SBAV",
     "runways": [
         {
             "id": "234262",

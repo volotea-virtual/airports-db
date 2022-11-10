@@ -11,12 +11,12 @@
     "iso_region": "US-TN",
     "municipality": "Nashville",
     "scheduled_service": "no",
-    "gps_code": "KM88",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "M88",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "KM88, KM88, M88",
     "runways": [
         {
             "id": "240643",

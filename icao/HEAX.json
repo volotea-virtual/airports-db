@@ -11,12 +11,12 @@
     "iso_region": "EG-ALX",
     "municipality": "Alexandria",
     "scheduled_service": "no",
-    "gps_code": "HEAX",
-    "iata_code": "ALY",
+    "gps_code": "",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/El_Nouzha_Airport",
-    "keywords": "Alexandria International Airport",
+    "keywords": "Alexandria International Airport, HEAX, ALY",
     "runways": [
         {
             "id": "235587",

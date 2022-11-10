@@ -13,10 +13,10 @@
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
-    "local_code": "Y74",
+    "local_code": "",
     "home_link": "https://www.fliegerhorst-eschborn.de/eschborn-air-base/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Eschborn_Airfield",
-    "keywords": "",
+    "keywords": "Y74, Y74",
     "runways": [
         {
             "id": "354464",

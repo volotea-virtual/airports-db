@@ -11,12 +11,12 @@
     "iso_region": "AR-B",
     "municipality": "San Justo",
     "scheduled_service": "no",
-    "gps_code": "SADS",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "JUS",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Aeroclub Argentino",
+    "keywords": "Aeroclub Argentino, SADS, JUS",
     "runways": [
         {
             "id": "263508",

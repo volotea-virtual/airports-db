@@ -11,12 +11,12 @@
     "iso_region": "CA-QC",
     "municipality": "Lac Etchemin",
     "scheduled_service": "no",
-    "gps_code": "CSC5",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "CSC5",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Lac_Etchemin_Airport",
-    "keywords": "SC5",
+    "keywords": "SC5, CSC5, CSC5",
     "runways": [
         {
             "id": "249263",

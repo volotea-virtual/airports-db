@@ -11,12 +11,12 @@
     "iso_region": "US-AZ",
     "municipality": "Flagstaff",
     "scheduled_service": "no",
-    "gps_code": "AZ23",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "AZ23",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "AZ23, AZ23, AZ23",
     "runways": [
         {
             "id": "267039",

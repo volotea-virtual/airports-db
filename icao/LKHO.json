@@ -11,12 +11,12 @@
     "iso_region": "CZ-ZL",
     "municipality": "Holešov",
     "scheduled_service": "no",
-    "gps_code": "LKHO",
-    "iata_code": "GTW",
+    "gps_code": "",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Hole%C5%A1ov_Airport",
-    "keywords": "",
+    "keywords": "LKHO, LKHO, GTW",
     "runways": [
         {
             "id": "259694",

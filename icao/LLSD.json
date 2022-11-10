@@ -11,12 +11,12 @@
     "iso_region": "IL-TA",
     "municipality": "Tel Aviv",
     "scheduled_service": "no",
-    "gps_code": "LLSD",
-    "iata_code": "SDV",
+    "gps_code": "",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Sde_Dov_Airport",
-    "keywords": "",
+    "keywords": "LLSD, LLSD, SDV",
     "runways": [
         {
             "id": "236952",

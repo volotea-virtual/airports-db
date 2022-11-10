@@ -11,12 +11,12 @@
     "iso_region": "MX-SLP",
     "municipality": "Ciudad Valles",
     "scheduled_service": "no",
-    "gps_code": "MM27",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "CMX",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "MX26",
+    "keywords": "MX26, MM27, CMX",
     "runways": [
         {
             "id": "237677",

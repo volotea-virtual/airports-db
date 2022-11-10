@@ -11,12 +11,12 @@
     "iso_region": "US-MN",
     "municipality": "Willmar",
     "scheduled_service": "no",
-    "gps_code": "KILL",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "ILL",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "KILL, KILL, ILL",
     "runways": [
         {
             "id": "240009",

@@ -11,12 +11,12 @@
     "iso_region": "CL-AN",
     "municipality": "Maria Elena",
     "scheduled_service": "no",
-    "gps_code": "SCNE",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/María_Elena_Airport",
-    "keywords": "SCNE",
+    "keywords": "SCNE, SCNE",
     "runways": [
         {
             "id": "265032",

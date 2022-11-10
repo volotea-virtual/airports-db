@@ -11,12 +11,12 @@
     "iso_region": "IN-MM",
     "municipality": "Nashik",
     "scheduled_service": "no",
-    "gps_code": "VANR",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Gandhinagar_Airport",
-    "keywords": "ISK, Nasik Road Airport",
+    "keywords": "ISK, Nasik Road Airport, VANR",
     "runways": [
         {
             "id": "236622",

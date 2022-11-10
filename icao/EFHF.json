@@ -11,12 +11,12 @@
     "iso_region": "FI-18",
     "municipality": "Helsinki",
     "scheduled_service": "no",
-    "gps_code": "EFHF",
-    "iata_code": "HEM",
+    "gps_code": "",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Helsinki-Malmi_Airport",
-    "keywords": "",
+    "keywords": "EFHF, EFHF, HEM",
     "runways": [
         {
             "id": "235741",

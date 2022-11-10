@@ -11,12 +11,12 @@
     "iso_region": "CA-AB",
     "municipality": "St. Francis",
     "scheduled_service": "no",
-    "gps_code": "CFE6",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "CFE6",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/St._Francis_Airport",
-    "keywords": "FE6",
+    "keywords": "FE6, CFE6, CFE6",
     "runways": [
         {
             "id": "255999",

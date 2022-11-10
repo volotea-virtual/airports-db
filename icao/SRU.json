@@ -12,11 +12,11 @@
     "municipality": "Scotts Valley",
     "scheduled_service": "no",
     "gps_code": "",
-    "iata_code": "SRU",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Cruz_Sky_Park",
-    "keywords": "",
+    "keywords": "SRU, SRU",
     "country": {
         "id": "302755",
         "code": "US",

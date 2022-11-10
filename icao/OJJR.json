@@ -11,12 +11,12 @@
     "iso_region": "PS-U-A",
     "municipality": "Jerusalem",
     "scheduled_service": "no",
-    "gps_code": "LLJR",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Atarot_Airport",
-    "keywords": "Palestine, West Bank, Atarot Airport, LLJR, OJJR, JRS",
+    "keywords": "Palestine, West Bank, Atarot Airport, LLJR, OJJR, JRS, LLJR",
     "runways": [
         {
             "id": "246217",

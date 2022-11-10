@@ -11,12 +11,12 @@
     "iso_region": "FR-BFC",
     "municipality": "Belfort",
     "scheduled_service": "no",
-    "gps_code": "LFSQ",
-    "iata_code": "BOR",
+    "gps_code": "",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "LFSQ, LFSQ, BOR",
     "runways": [
         {
             "id": "315630",

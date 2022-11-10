@@ -13,10 +13,10 @@
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
-    "local_code": "CEX7",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Fort_Providence_Water_Aerodrome",
-    "keywords": "EX7",
+    "keywords": "EX7, CEX7",
     "country": {
         "id": "302730",
         "code": "CA",

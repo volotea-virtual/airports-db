@@ -11,12 +11,12 @@
     "iso_region": "US-MN",
     "municipality": "Silver Bay",
     "scheduled_service": "no",
-    "gps_code": "KBFW",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "BFW",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "KBFW, KBFW, BFW",
     "runways": [
         {
             "id": "244089",

@@ -11,12 +11,12 @@
     "iso_region": "US-AK",
     "municipality": "Attu",
     "scheduled_service": "no",
-    "gps_code": "PAAT",
-    "iata_code": "ATU",
-    "local_code": "ATU",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Casco_Cove_Coast_Guard_Station",
-    "keywords": "",
+    "keywords": "PAAT, PAAT, ATU, ATU",
     "runways": [
         {
             "id": "249430",

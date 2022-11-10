@@ -11,12 +11,12 @@
     "iso_region": "IR-23",
     "municipality": "Tehran",
     "scheduled_service": "no",
-    "gps_code": "OIIG",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "OIIG, OIIG",
     "runways": [
         {
             "id": "236915",

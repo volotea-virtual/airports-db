@@ -11,12 +11,12 @@
     "iso_region": "CA-ON",
     "municipality": "Thessalon",
     "scheduled_service": "no",
-    "gps_code": "CPL5",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "CPL5",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Thessalon_Municipal_Airport",
-    "keywords": "PL5",
+    "keywords": "PL5, CPL5, CPL5",
     "runways": [
         {
             "id": "234530",

@@ -11,12 +11,12 @@
     "iso_region": "PK-BA",
     "municipality": "Nushki",
     "scheduled_service": "no",
-    "gps_code": "OPNK",
-    "iata_code": "NHS",
+    "gps_code": "",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "OPNK, OPNK, NHS",
     "runways": [
         {
             "id": "238238",

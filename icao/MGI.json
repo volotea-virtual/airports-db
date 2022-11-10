@@ -12,11 +12,11 @@
     "municipality": "Port O'Connor",
     "scheduled_service": "no",
     "gps_code": "",
-    "iata_code": "MGI",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Matagorda_Island_Air_Force_Base",
-    "keywords": "",
+    "keywords": "MGI, MGI",
     "country": {
         "id": "302755",
         "code": "US",

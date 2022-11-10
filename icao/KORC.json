@@ -11,12 +11,12 @@
     "iso_region": "US-IA",
     "municipality": "Orange City",
     "scheduled_service": "no",
-    "gps_code": "KORC",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "ORC",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "KORC, KORC, ORC",
     "runways": [
         {
             "id": "242585",

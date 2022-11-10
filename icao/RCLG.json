@@ -11,12 +11,12 @@
     "iso_region": "TW-TXG",
     "municipality": "Taichung (Xitun)",
     "scheduled_service": "no",
-    "gps_code": "RCLG",
-    "iata_code": "TXG",
+    "gps_code": "",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "RCLG, RCLG, TXG",
     "runways": [
         {
             "id": "325039",

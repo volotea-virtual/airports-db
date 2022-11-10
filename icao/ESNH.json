@@ -11,12 +11,12 @@
     "iso_region": "SE-X",
     "municipality": "Hudiksvall",
     "scheduled_service": "no",
-    "gps_code": "ESNH",
-    "iata_code": "HUV",
+    "gps_code": "",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "ESNH, ESNH, HUV",
     "runways": [
         {
             "id": "238992",

@@ -11,12 +11,12 @@
     "iso_region": "HR-16",
     "municipality": "Vukovar",
     "scheduled_service": "no",
-    "gps_code": "LDOB",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "LDOB, LDOB",
     "runways": [
         {
             "id": "260085",

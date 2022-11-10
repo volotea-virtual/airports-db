@@ -1,0 +1,38 @@
+{
+    "id": "504737",
+    "ident": "MY-0042",
+    "type": "heliport",
+    "name": "Station Lima Helipad",
+    "latitude_deg": "7.37375",
+    "longitude_deg": "113.84672",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "MY",
+    "iso_region": "MY-12",
+    "municipality": "Pulau Layang-Layang (Swallow Reef)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302653",
+        "code": "MY",
+        "name": "Malaysia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Malaysia",
+        "keywords": "Lapangan Terbang Malaysia"
+    },
+    "region": {
+        "id": "304834",
+        "code": "MY-12",
+        "local_code": "12",
+        "name": "Sabah",
+        "continent": "AS",
+        "iso_country": "MY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sabah",
+        "keywords": "Airports in Sabah"
+    }
+}

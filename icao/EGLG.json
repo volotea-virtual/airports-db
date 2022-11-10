@@ -11,12 +11,12 @@
     "iso_region": "GB-ENG",
     "municipality": "Hertford",
     "scheduled_service": "no",
-    "gps_code": "EGLG",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "http://www.northlondonflyingschool.com/Pansanger/Pansanger.htm",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Panshanger_Airport",
-    "keywords": "",
+    "keywords": "EGLG, EGLG",
     "runways": [
         {
             "id": "249977",

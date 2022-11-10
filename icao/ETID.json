@@ -11,12 +11,12 @@
     "iso_region": "DE-HE",
     "municipality": "",
     "scheduled_service": "no",
-    "gps_code": "ETID",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "ETID, ETID",
     "runways": [
         {
             "id": "236137",

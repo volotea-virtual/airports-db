@@ -11,12 +11,12 @@
     "iso_region": "US-NC",
     "municipality": "Roanoke Rapids",
     "scheduled_service": "no",
-    "gps_code": "KRZZ",
-    "iata_code": "RZZ",
-    "local_code": "RZZ",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Halifax_County_Airport",
-    "keywords": "",
+    "keywords": "KRZZ, KRZZ, RZZ, RZZ",
     "runways": [
         {
             "id": "244208",

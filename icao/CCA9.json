@@ -11,12 +11,12 @@
     "iso_region": "CA-PE",
     "municipality": "Grand River",
     "scheduled_service": "no",
-    "gps_code": "CCA9",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "CCA9",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Grand_River_Airport",
-    "keywords": "CA9, PEI, Moase Airfield",
+    "keywords": "CA9, PEI, Moase Airfield, CCA9, CCA9",
     "runways": [
         {
             "id": "253826",

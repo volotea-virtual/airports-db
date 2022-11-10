@@ -11,12 +11,12 @@
     "iso_region": "HU-BU",
     "municipality": "Budapest",
     "scheduled_service": "no",
-    "gps_code": "LHHH",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "LHHH, LHHH",
     "runways": [
         {
             "id": "331146",

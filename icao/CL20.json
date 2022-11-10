@@ -11,12 +11,12 @@
     "iso_region": "US-CA",
     "municipality": "Los Angeles",
     "scheduled_service": "no",
-    "gps_code": "CL20",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "CL20",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "CL20, CL20, CL20",
     "runways": [
         {
             "id": "267220",

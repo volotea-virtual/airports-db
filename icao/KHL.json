@@ -12,11 +12,11 @@
     "municipality": "Bagerhat",
     "scheduled_service": "no",
     "gps_code": "",
-    "iata_code": "KHL",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Khan_Jahan_Ali_Airport",
-    "keywords": "Mongla, Bagerhat",
+    "keywords": "Mongla, Bagerhat, KHL",
     "country": {
         "id": "302622",
         "code": "BD",

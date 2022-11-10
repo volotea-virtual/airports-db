@@ -11,12 +11,12 @@
     "iso_region": "US-TX",
     "municipality": "Porter",
     "scheduled_service": "no",
-    "gps_code": "K9X1",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "9X1",
+    "local_code": "",
     "home_link": "https://www.northhoustonairport.net/",
     "wikipedia_link": "",
-    "keywords": "Williams Airport",
+    "keywords": "Williams Airport, K9X1, 9X1",
     "runways": [
         {
             "id": "242130",

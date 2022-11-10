@@ -11,12 +11,12 @@
     "iso_region": "GB-SCT",
     "municipality": "Kinloss",
     "scheduled_service": "no",
-    "gps_code": "EGQK",
-    "iata_code": "FSS",
+    "gps_code": "",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/RAF_Kinloss",
-    "keywords": "",
+    "keywords": "EGQK, EGQK, FSS",
     "runways": [
         {
             "id": "239409",

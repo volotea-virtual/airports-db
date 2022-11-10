@@ -11,12 +11,12 @@
     "iso_region": "GB-ENG",
     "municipality": "Norwich",
     "scheduled_service": "no",
-    "gps_code": "EGYC",
-    "iata_code": "CLF",
+    "gps_code": "",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/RAF_Coltishall",
-    "keywords": "",
+    "keywords": "EGYC, EGYC, CLF",
     "runways": [
         {
             "id": "252285",

@@ -11,12 +11,12 @@
     "iso_region": "BG-16",
     "municipality": "Cheshnegirovo",
     "scheduled_service": "no",
-    "gps_code": "LBPS",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "LB23",
+    "keywords": "LB23, LBPS",
     "runways": [
         {
             "id": "234400",

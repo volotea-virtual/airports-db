@@ -11,12 +11,12 @@
     "iso_region": "NZ-CAN",
     "municipality": "Christchurch",
     "scheduled_service": "no",
-    "gps_code": "NZWG",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Wigram_Aerodrome",
-    "keywords": "",
+    "keywords": "NZWG, NZWG",
     "runways": [
         {
             "id": "238062",

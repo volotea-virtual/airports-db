@@ -13,10 +13,10 @@
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
-    "local_code": "MT0279",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SSAC",
+    "keywords": "SSAC, MT0279",
     "runways": [
         {
             "id": "331827",

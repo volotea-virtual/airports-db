@@ -11,12 +11,12 @@
     "iso_region": "AL-08",
     "municipality": "Gjadër",
     "scheduled_service": "no",
-    "gps_code": "LAGJ",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Gjad%C3%ABr_Air_Base",
-    "keywords": "Lezhë-Zadrima Air Base",
+    "keywords": "Lezhë-Zadrima Air Base, LAGJ",
     "runways": [
         {
             "id": "232870",

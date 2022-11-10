@@ -11,12 +11,12 @@
     "iso_region": "BS-EX",
     "municipality": "George Town",
     "scheduled_service": "no",
-    "gps_code": "MYEG",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/George_Town_Airport",
-    "keywords": "",
+    "keywords": "MYEG, MYEG",
     "runways": [
         {
             "id": "233672",

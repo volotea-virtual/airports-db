@@ -11,12 +11,12 @@
     "iso_region": "KR-42",
     "municipality": "Chuncheon",
     "scheduled_service": "no",
-    "gps_code": "RKNC",
-    "iata_code": "QUN",
+    "gps_code": "",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "RKNC, RKNC, QUN",
     "runways": [
         {
             "id": "260120",

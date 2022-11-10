@@ -13,10 +13,10 @@
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
-    "local_code": "AM0008",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SNRA",
+    "keywords": "SNRA, AM0008",
     "runways": [
         {
             "id": "347935",

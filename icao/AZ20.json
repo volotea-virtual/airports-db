@@ -11,12 +11,12 @@
     "iso_region": "US-AZ",
     "municipality": "Phoenix",
     "scheduled_service": "no",
-    "gps_code": "AZ20",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "AZ20",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "AZ20, AZ20, AZ20",
     "runways": [
         {
             "id": "267037",
