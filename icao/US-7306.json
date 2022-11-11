@@ -1,6 +1,6 @@
 {
     "id": "6886",
-    "ident": "06MN",
+    "ident": "US-7306",
     "type": "closed",
     "name": "Pike Field Airport",
     "latitude_deg": "47.652185",
@@ -21,7 +21,7 @@
         {
             "id": "240540",
             "airport_ref": "6886",
-            "airport_ident": "06MN",
+            "airport_ident": "US-7306",
             "length_ft": "1500",
             "width_ft": "60",
             "surface": "TURF",
