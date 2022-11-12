@@ -1,10 +1,10 @@
 {
     "id": "43757",
     "ident": "EBLO",
-    "type": "closed",
+    "type": "heliport",
     "name": "Orban heliport",
-    "latitude_deg": "50.630913",
-    "longitude_deg": "5.571726",
+    "latitude_deg": "50.630727",
+    "longitude_deg": "5.571717",
     "elevation_ft": "160",
     "continent": "EU",
     "iso_country": "BE",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "EBLO, EBLO",
+    "keywords": "EBLO",
     "country": {
         "id": "302676",
         "code": "BE",

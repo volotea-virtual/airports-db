@@ -11,12 +11,12 @@
     "iso_region": "AR-B",
     "municipality": "Ezpeleta",
     "scheduled_service": "no",
-    "gps_code": "SA15",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "EZP",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Aeroclub Rio de la Plata",
+    "keywords": "SA15, Aeroclub Rio de la Plata",
     "runways": [
         {
             "id": "263635",
