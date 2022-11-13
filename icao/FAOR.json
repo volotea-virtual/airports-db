@@ -14,9 +14,9 @@
     "gps_code": "FAOR",
     "iata_code": "JNB",
     "local_code": "",
-    "home_link": "",
-    "wikipedia_link": "",
-    "keywords": "Johannesburg International Airport",
+    "home_link": "https://ortambo-airport.com/index.html",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/O._R._Tambo_International_Airport",
+    "keywords": "Johannesburg International Airport, FAJS",
     "runways": [
         {
             "id": "238744",
