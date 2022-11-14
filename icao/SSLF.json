@@ -3,7 +3,7 @@
     "ident": "SSLF",
     "type": "small_airport",
     "name": "Fazenda Palmeira Airport",
-    "latitude_deg": "-22.543611526489258",
+    "latitude_deg": "-22.543611526489",
     "longitude_deg": "-53.429443359375",
     "elevation_ft": "885",
     "continent": "SA",
@@ -11,12 +11,12 @@
     "iso_region": "BR-MS",
     "municipality": "Taquarussu",
     "scheduled_service": "no",
-    "gps_code": "SSLF",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SSLF",
     "runways": [
         {
             "id": "260794",

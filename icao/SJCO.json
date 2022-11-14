@@ -11,12 +11,12 @@
     "iso_region": "BR-SP",
     "municipality": "Penápolis",
     "scheduled_service": "no",
-    "gps_code": "SNAF",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "SNAF",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SJCO",
+    "keywords": "SJCO, SNAF",
     "runways": [
         {
             "id": "262496",

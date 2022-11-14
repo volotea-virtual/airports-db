@@ -11,12 +11,12 @@
     "iso_region": "BR-MS",
     "municipality": "Amambaí",
     "scheduled_service": "no",
-    "gps_code": "SDVN",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SDVN",
     "runways": [
         {
             "id": "264367",

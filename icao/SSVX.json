@@ -11,12 +11,12 @@
     "iso_region": "BR-MS",
     "municipality": "Corumbá",
     "scheduled_service": "no",
-    "gps_code": "SDNV",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "MS0041",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SSVX",
+    "keywords": "SSVX, SDNV",
     "runways": [
         {
             "id": "260685",

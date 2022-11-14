@@ -11,12 +11,12 @@
     "iso_region": "BR-BA",
     "municipality": "Ituberá",
     "scheduled_service": "no",
-    "gps_code": "SSDM",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "BA0154",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SNFT",
+    "keywords": "SNFT, SSDM",
     "runways": [
         {
             "id": "261217",

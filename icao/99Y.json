@@ -11,12 +11,12 @@
     "iso_region": "US-NE",
     "municipality": "Greeley",
     "scheduled_service": "no",
-    "gps_code": "NE46",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "NE46",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "99Y",
+    "keywords": "99Y, NE46",
     "runways": [
         {
             "id": "254723",

@@ -11,12 +11,12 @@
     "iso_region": "BR-SP",
     "municipality": "Ferraz De Vasconcelos",
     "scheduled_service": "no",
-    "gps_code": "SDVR",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SDVR",
     "runways": [
         {
             "id": "264374",

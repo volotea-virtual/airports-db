@@ -11,12 +11,12 @@
     "iso_region": "BR-SE",
     "municipality": "Propriá",
     "scheduled_service": "no",
-    "gps_code": "SNOP",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SNOP",
     "runways": [
         {
             "id": "260548",

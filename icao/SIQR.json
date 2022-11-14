@@ -3,7 +3,7 @@
     "ident": "SIQR",
     "type": "small_airport",
     "name": "Fazenda Triângulo Airport",
-    "latitude_deg": "-13.581944465637207",
+    "latitude_deg": "-13.581944465637",
     "longitude_deg": "-49.820556640625",
     "elevation_ft": "804",
     "continent": "SA",
@@ -11,12 +11,12 @@
     "iso_region": "BR-GO",
     "municipality": "Bonópolis",
     "scheduled_service": "no",
-    "gps_code": "SIQR",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SIQR",
     "runways": [
         {
             "id": "261539",

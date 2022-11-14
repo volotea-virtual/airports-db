@@ -11,12 +11,12 @@
     "iso_region": "BR-MT",
     "municipality": "São José Do Xingu",
     "scheduled_service": "no",
-    "gps_code": "SDNW",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SDNW",
     "runways": [
         {
             "id": "264366",

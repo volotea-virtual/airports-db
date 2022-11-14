@@ -11,12 +11,12 @@
     "iso_region": "BR-BA",
     "municipality": "Alagoinhas",
     "scheduled_service": "no",
-    "gps_code": "SIGL",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "BA0086",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "QGS, SDUO",
+    "keywords": "QGS, SDUO, SIGL",
     "runways": [
         {
             "id": "233783",

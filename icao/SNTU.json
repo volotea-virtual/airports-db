@@ -11,12 +11,12 @@
     "iso_region": "BR-MA",
     "municipality": "Turiaçu",
     "scheduled_service": "no",
-    "gps_code": "SNTU",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SNTU",
     "runways": [
         {
             "id": "260682",

@@ -11,12 +11,12 @@
     "iso_region": "BR-MT",
     "municipality": "Cáceres",
     "scheduled_service": "no",
-    "gps_code": "SJVF",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "MT0230",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SIEL",
+    "keywords": "SIEL, SJVF",
     "runways": [
         {
             "id": "261340",

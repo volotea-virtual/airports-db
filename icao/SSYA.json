@@ -11,12 +11,12 @@
     "iso_region": "BR-PR",
     "municipality": "Arapoti",
     "scheduled_service": "no",
-    "gps_code": "SSYA",
+    "gps_code": "",
     "iata_code": "AAG",
     "local_code": "PR0020",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Arapoti_Airport",
-    "keywords": "",
+    "keywords": "SSYA",
     "runways": [
         {
             "id": "234173",

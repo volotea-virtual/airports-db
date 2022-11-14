@@ -11,12 +11,12 @@
     "iso_region": "BR-RO",
     "municipality": "Chupinguaia",
     "scheduled_service": "no",
-    "gps_code": "SIRQ",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SIRQ",
     "runways": [
         {
             "id": "261061",

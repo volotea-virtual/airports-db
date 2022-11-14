@@ -11,12 +11,12 @@
     "iso_region": "BR-RN",
     "municipality": "Alto Do Rodrigues",
     "scheduled_service": "no",
-    "gps_code": "SNJY",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SNJY",
     "runways": [
         {
             "id": "264434",

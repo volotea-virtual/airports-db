@@ -11,12 +11,12 @@
     "iso_region": "BR-GO",
     "municipality": "Pirenópolis",
     "scheduled_service": "no",
-    "gps_code": "SNLS",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "GO0166",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SIKW",
+    "keywords": "SIKW, SNLS",
     "runways": [
         {
             "id": "263232",

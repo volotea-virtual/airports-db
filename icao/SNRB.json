@@ -11,12 +11,12 @@
     "iso_region": "BR-PA",
     "municipality": "Itaituba",
     "scheduled_service": "no",
-    "gps_code": "SIYR",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "PA0064",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SNRB",
+    "keywords": "SNRB, SIYR",
     "runways": [
         {
             "id": "233765",

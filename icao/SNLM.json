@@ -3,7 +3,7 @@
     "ident": "SNLM",
     "type": "small_airport",
     "name": "Fazenda Agropecuária Rancho 11 Airport",
-    "latitude_deg": "-15.614167213399998",
+    "latitude_deg": "-15.6141672134",
     "longitude_deg": "-58.9002761841",
     "elevation_ft": "1001",
     "continent": "SA",
@@ -11,12 +11,12 @@
     "iso_region": "BR-MT",
     "municipality": "Porto Esperidião",
     "scheduled_service": "no",
-    "gps_code": "SNLM",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SNLM",
     "runways": [
         {
             "id": "262012",

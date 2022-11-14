@@ -11,12 +11,12 @@
     "iso_region": "BR-SP",
     "municipality": "Ibirarema",
     "scheduled_service": "no",
-    "gps_code": "SIAR",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "MS0066",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SIAR",
     "runways": [
         {
             "id": "260927",

@@ -3,7 +3,7 @@
     "ident": "SIUY",
     "type": "small_airport",
     "name": "Santos Dumont Airport",
-    "latitude_deg": "-7.012777805328369",
+    "latitude_deg": "-7.0127778053284",
     "longitude_deg": "-55.875",
     "elevation_ft": "870",
     "continent": "SA",
@@ -11,12 +11,12 @@
     "iso_region": "BR-PA",
     "municipality": "Novo Progresso",
     "scheduled_service": "no",
-    "gps_code": "SIUY",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SIUY",
     "runways": [
         {
             "id": "261387",

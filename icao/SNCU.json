@@ -11,12 +11,12 @@
     "iso_region": "BR-MA",
     "municipality": "Cururupu",
     "scheduled_service": "no",
-    "gps_code": "SNCU",
+    "gps_code": "",
     "iata_code": "CPU",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SNCU",
     "runways": [
         {
             "id": "260771",

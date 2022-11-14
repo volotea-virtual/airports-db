@@ -11,12 +11,12 @@
     "iso_region": "BR-AM",
     "municipality": "Barcelos",
     "scheduled_service": "no",
-    "gps_code": "SWWD",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SWWD",
     "runways": [
         {
             "id": "260471",

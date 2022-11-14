@@ -11,12 +11,12 @@
     "iso_region": "BR-MT",
     "municipality": "Comodoro",
     "scheduled_service": "no",
-    "gps_code": "SJPC",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "MT0204",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SJAG",
+    "keywords": "SJAG, SJPC",
     "runways": [
         {
             "id": "261687",

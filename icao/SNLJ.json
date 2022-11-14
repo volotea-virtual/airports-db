@@ -3,7 +3,7 @@
     "ident": "SNLJ",
     "type": "small_airport",
     "name": "Agropecuária Céu Aberto Ltda Airport",
-    "latitude_deg": "-9.516667366027832",
+    "latitude_deg": "-9.5166673660278",
     "longitude_deg": "-61.25",
     "elevation_ft": "3428",
     "continent": "SA",
@@ -11,12 +11,12 @@
     "iso_region": "BR-MT",
     "municipality": "Aripuanã",
     "scheduled_service": "no",
-    "gps_code": "SNLJ",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SNLJ",
     "runways": [
         {
             "id": "261453",

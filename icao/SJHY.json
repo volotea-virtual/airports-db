@@ -11,12 +11,12 @@
     "iso_region": "BR-SP",
     "municipality": "Mairinque",
     "scheduled_service": "no",
-    "gps_code": "SNNA",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "SP0717",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SJHY",
+    "keywords": "SJHY, SNNA",
     "runways": [
         {
             "id": "263024",

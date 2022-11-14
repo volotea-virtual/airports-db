@@ -11,12 +11,12 @@
     "iso_region": "BR-SP",
     "municipality": "Ribeirão Preto",
     "scheduled_service": "no",
-    "gps_code": "SSLV",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SSLV",
     "runways": [
         {
             "id": "264423",

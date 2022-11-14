@@ -11,12 +11,12 @@
     "iso_region": "BR-RJ",
     "municipality": "Rio De Janeiro",
     "scheduled_service": "no",
-    "gps_code": "SWCL",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "RJ0151",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SSXT",
+    "keywords": "SSXT, SWCL",
     "runways": [
         {
             "id": "262795",

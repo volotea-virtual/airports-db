@@ -11,12 +11,12 @@
     "iso_region": "BR-MS",
     "municipality": "Paranhos",
     "scheduled_service": "no",
-    "gps_code": "SWJQ",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "MS0382",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SIXQ",
+    "keywords": "SIXQ, SWJQ",
     "runways": [
         {
             "id": "260905",

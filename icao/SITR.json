@@ -11,12 +11,12 @@
     "iso_region": "BR-MS",
     "municipality": "Terenos",
     "scheduled_service": "no",
-    "gps_code": "SITR",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SITR",
     "runways": [
         {
             "id": "264426",

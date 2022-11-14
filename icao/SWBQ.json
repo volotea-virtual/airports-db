@@ -3,7 +3,7 @@
     "ident": "SWBQ",
     "type": "small_airport",
     "name": "Barracão Queimado Airport",
-    "latitude_deg": "-13.733611106899998",
+    "latitude_deg": "-13.7336111069",
     "longitude_deg": "-59.7172203064",
     "elevation_ft": "2067",
     "continent": "SA",
@@ -11,12 +11,12 @@
     "iso_region": "BR-MT",
     "municipality": "Vila Bela Da Santíssima Trindade",
     "scheduled_service": "no",
-    "gps_code": "SWBQ",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SWBQ",
     "runways": [
         {
             "id": "260477",

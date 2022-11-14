@@ -11,12 +11,12 @@
     "iso_region": "BR-PR",
     "municipality": "Araucária",
     "scheduled_service": "no",
-    "gps_code": "SJRL",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "PR0124",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SIJQ",
+    "keywords": "SIJQ, SJRL",
     "runways": [
         {
             "id": "262886",

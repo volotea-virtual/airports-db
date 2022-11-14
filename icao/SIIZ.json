@@ -11,12 +11,12 @@
     "iso_region": "BR-MT",
     "municipality": "Diamantino",
     "scheduled_service": "no",
-    "gps_code": "SSZB",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "MT0474",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SIIZ",
+    "keywords": "SIIZ, SSZB",
     "runways": [
         {
             "id": "262132",

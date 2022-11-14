@@ -11,12 +11,12 @@
     "iso_region": "BR-AM",
     "municipality": "Barreirinha",
     "scheduled_service": "no",
-    "gps_code": "SWBI",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "SWBI",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SWBI",
     "runways": [
         {
             "id": "234095",

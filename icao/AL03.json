@@ -11,12 +11,12 @@
     "iso_region": "US-AL",
     "municipality": "Akron",
     "scheduled_service": "no",
-    "gps_code": "AL03",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "AL03",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "AL03",
     "runways": [
         {
             "id": "264049",

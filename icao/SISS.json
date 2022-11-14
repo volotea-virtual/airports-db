@@ -11,12 +11,12 @@
     "iso_region": "BR-MS",
     "municipality": "Ribas Do Rio Pardo",
     "scheduled_service": "no",
-    "gps_code": "SISS",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SISS",
     "runways": [
         {
             "id": "260896",

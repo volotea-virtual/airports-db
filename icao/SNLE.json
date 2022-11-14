@@ -11,12 +11,12 @@
     "iso_region": "BR-SP",
     "municipality": "Barueri",
     "scheduled_service": "no",
-    "gps_code": "SNLE",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SNLE",
     "runways": [
         {
             "id": "264380",

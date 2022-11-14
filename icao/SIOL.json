@@ -11,12 +11,12 @@
     "iso_region": "BR-GO",
     "municipality": "Corumbaíba",
     "scheduled_service": "no",
-    "gps_code": "SWWP",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "GO0147",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SIOL",
+    "keywords": "SIOL, SWWP",
     "runways": [
         {
             "id": "261281",

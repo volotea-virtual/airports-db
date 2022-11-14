@@ -3,7 +3,7 @@
     "ident": "SWJX",
     "type": "small_airport",
     "name": "Fazenda das Perobas Airport",
-    "latitude_deg": "-19.502222061199998",
+    "latitude_deg": "-19.5022220612",
     "longitude_deg": "-44.1577796936",
     "elevation_ft": "2762",
     "continent": "SA",
@@ -11,12 +11,12 @@
     "iso_region": "BR-MG",
     "municipality": "Prudente De Morais",
     "scheduled_service": "no",
-    "gps_code": "SWJX",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SWJX",
     "runways": [
         {
             "id": "260595",

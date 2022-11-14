@@ -11,12 +11,12 @@
     "iso_region": "BR-BA",
     "municipality": "Feira De Santana",
     "scheduled_service": "yes",
-    "gps_code": "SDIY",
+    "gps_code": "",
     "iata_code": "FEC",
     "local_code": "BA0013",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Feira_de_Santana_Airport",
-    "keywords": "SNJD, SBFE",
+    "keywords": "SNJD, SBFE, SDIY",
     "runways": [
         {
             "id": "234014",

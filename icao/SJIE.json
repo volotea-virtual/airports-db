@@ -11,12 +11,12 @@
     "iso_region": "BR-MT",
     "municipality": "Sapezal",
     "scheduled_service": "no",
-    "gps_code": "SJIF",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "MT0182",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SJIE, Aero Agrícola Sapezal",
+    "keywords": "SJIE, Aero Agrícola Sapezal, SJIF",
     "runways": [
         {
             "id": "262527",

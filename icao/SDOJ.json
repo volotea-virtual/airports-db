@@ -11,12 +11,12 @@
     "iso_region": "BR-SP",
     "municipality": "Campinas",
     "scheduled_service": "no",
-    "gps_code": "SDOJ",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SDOJ",
     "runways": [
         {
             "id": "327006",

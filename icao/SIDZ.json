@@ -11,12 +11,12 @@
     "iso_region": "BR-MS",
     "municipality": "Caarapó",
     "scheduled_service": "no",
-    "gps_code": "SIQH",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "MS0120",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SIDZ",
+    "keywords": "SIDZ, SIQH",
     "runways": [
         {
             "id": "262214",

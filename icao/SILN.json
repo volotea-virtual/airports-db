@@ -11,12 +11,12 @@
     "iso_region": "BR-PA",
     "municipality": "Paragominas",
     "scheduled_service": "no",
-    "gps_code": "SILN",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SILN",
     "runways": [
         {
             "id": "261127",

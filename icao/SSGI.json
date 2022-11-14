@@ -3,7 +3,7 @@
     "ident": "SSGI",
     "type": "small_airport",
     "name": "Astral Airport",
-    "latitude_deg": "-30.060277938842773",
+    "latitude_deg": "-30.060277938843",
     "longitude_deg": "-51.4375",
     "elevation_ft": "33",
     "continent": "SA",
@@ -11,12 +11,12 @@
     "iso_region": "BR-RS",
     "municipality": "Eldorado Do Sul",
     "scheduled_service": "no",
-    "gps_code": "SSGI",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SSGI",
     "runways": [
         {
             "id": "261936",

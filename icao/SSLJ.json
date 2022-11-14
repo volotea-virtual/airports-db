@@ -11,12 +11,12 @@
     "iso_region": "BR-GO",
     "municipality": "Flores De Goiás",
     "scheduled_service": "no",
-    "gps_code": "SSLJ",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SSLJ",
     "runways": [
         {
             "id": "264416",

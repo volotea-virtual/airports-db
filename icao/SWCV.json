@@ -11,12 +11,12 @@
     "iso_region": "BR-MT",
     "municipality": "Vila Bela Da Santíssima Trindade",
     "scheduled_service": "no",
-    "gps_code": "SWCV",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SWCV",
     "runways": [
         {
             "id": "261076",

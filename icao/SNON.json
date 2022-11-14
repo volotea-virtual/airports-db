@@ -3,7 +3,7 @@
     "ident": "SNON",
     "type": "heliport",
     "name": "Casa de Campo Heliport",
-    "latitude_deg": "-22.939167022705078",
+    "latitude_deg": "-22.939167022705",
     "longitude_deg": "-47.070556640625",
     "elevation_ft": "2316",
     "continent": "SA",
@@ -11,12 +11,12 @@
     "iso_region": "BR-SP",
     "municipality": "Campinas",
     "scheduled_service": "no",
-    "gps_code": "SNON",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SNON",
     "runways": [
         {
             "id": "263089",

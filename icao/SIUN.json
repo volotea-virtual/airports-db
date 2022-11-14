@@ -11,12 +11,12 @@
     "iso_region": "BR-SP",
     "municipality": "São Bernardo Do Campo",
     "scheduled_service": "no",
-    "gps_code": "SIUN",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SIUN",
     "runways": [
         {
             "id": "262912",

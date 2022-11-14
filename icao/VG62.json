@@ -11,12 +11,12 @@
     "iso_region": "US-VA",
     "municipality": "Roanoke",
     "scheduled_service": "no",
-    "gps_code": "VG62",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "VG62",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "VG62",
     "runways": [
         {
             "id": "264739",

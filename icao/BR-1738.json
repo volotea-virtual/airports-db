@@ -1,6 +1,6 @@
 {
     "id": "36403",
-    "ident": "SIZN",
+    "ident": "BR-1738",
     "type": "small_airport",
     "name": "Fazenda Santa Ana Airport",
     "latitude_deg": "-13.005234",
@@ -11,17 +11,17 @@
     "iso_region": "BR-RO",
     "municipality": "Corumbiara",
     "scheduled_service": "no",
-    "gps_code": "SD22",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "RO0015",
+    "local_code": "SD22",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SIZN",
+    "keywords": "SIZN, SD22",
     "runways": [
         {
             "id": "342656",
             "airport_ref": "36403",
-            "airport_ident": "SIZN",
+            "airport_ident": "BR-1738",
             "length_ft": "2625",
             "width_ft": "98",
             "surface": "GRS",
@@ -43,7 +43,7 @@
         {
             "id": "261139",
             "airport_ref": "36403",
-            "airport_ident": "SIZN",
+            "airport_ident": "BR-1738",
             "length_ft": "3937",
             "width_ft": "115",
             "surface": "GRS",

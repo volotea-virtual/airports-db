@@ -11,12 +11,12 @@
     "iso_region": "BR-RS",
     "municipality": "Caxias Do Sul",
     "scheduled_service": "no",
-    "gps_code": "SJWN",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "RS0110",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SJUN",
+    "keywords": "SJUN, SJWN",
     "runways": [
         {
             "id": "262711",

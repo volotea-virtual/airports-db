@@ -3,7 +3,7 @@
     "ident": "SJCD",
     "type": "small_airport",
     "name": "Fazenda Pingo D`Água Airport",
-    "latitude_deg": "-17.721111297607422",
+    "latitude_deg": "-17.721111297607",
     "longitude_deg": "-53.9375",
     "elevation_ft": "1303",
     "continent": "SA",
@@ -11,12 +11,12 @@
     "iso_region": "BR-MS",
     "municipality": "Pedro Gomes",
     "scheduled_service": "no",
-    "gps_code": "SJCD",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SJCD",
     "runways": [
         {
             "id": "261086",

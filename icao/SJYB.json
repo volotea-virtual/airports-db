@@ -3,7 +3,7 @@
     "ident": "SJYB",
     "type": "heliport",
     "name": "Edifício Plaza I Heliport",
-    "latitude_deg": "-23.61027717590332",
+    "latitude_deg": "-23.610277175903",
     "longitude_deg": "-46.695556640625",
     "elevation_ft": "2648",
     "continent": "SA",
@@ -11,12 +11,12 @@
     "iso_region": "BR-SP",
     "municipality": "São Paulo",
     "scheduled_service": "no",
-    "gps_code": "SJYB",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SJYB",
     "runways": [
         {
             "id": "263043",

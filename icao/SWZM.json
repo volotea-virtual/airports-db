@@ -11,12 +11,12 @@
     "iso_region": "BR-GO",
     "municipality": "São Simão",
     "scheduled_service": "no",
-    "gps_code": "SSYO",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "GO0112",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SWZM",
+    "keywords": "SWZM, SSYO",
     "runways": [
         {
             "id": "234304",

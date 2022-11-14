@@ -11,12 +11,12 @@
     "iso_region": "BR-PA",
     "municipality": "Belém",
     "scheduled_service": "no",
-    "gps_code": "SIPC",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SIPC",
     "runways": [
         {
             "id": "260586",

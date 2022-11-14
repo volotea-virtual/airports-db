@@ -11,12 +11,12 @@
     "iso_region": "BR-MT",
     "municipality": "Barão De Melgaço",
     "scheduled_service": "no",
-    "gps_code": "SJHK",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "MT0177",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SIJM",
+    "keywords": "SIJM, SJHK",
     "runways": [
         {
             "id": "261533",

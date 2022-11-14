@@ -11,12 +11,12 @@
     "iso_region": "BR-MS",
     "municipality": "Porto Murtinho",
     "scheduled_service": "no",
-    "gps_code": "SWER",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "MS0370",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SNSF",
+    "keywords": "SNSF, SWER",
     "runways": [
         {
             "id": "262576",

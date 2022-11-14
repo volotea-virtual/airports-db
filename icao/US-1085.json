@@ -11,12 +11,12 @@
     "iso_region": "US-NY",
     "municipality": "Burlington Flats",
     "scheduled_service": "no",
-    "gps_code": "NY78",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "NY78",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "NY78",
     "runways": [
         {
             "id": "330500",

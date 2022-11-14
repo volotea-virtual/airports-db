@@ -11,12 +11,12 @@
     "iso_region": "BR-AL",
     "municipality": "Marechal Deodoro",
     "scheduled_service": "no",
-    "gps_code": "SNLX",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "AL0018",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SSZI",
+    "keywords": "SSZI, SNLX",
     "runways": [
         {
             "id": "262590",

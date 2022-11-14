@@ -11,12 +11,12 @@
     "iso_region": "BR-SP",
     "municipality": "São Paulo",
     "scheduled_service": "no",
-    "gps_code": "SNZS",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "SP0594",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SNZS",
     "runways": [
         {
             "id": "262940",

@@ -11,12 +11,12 @@
     "iso_region": "BR-BA",
     "municipality": "Palmeiras",
     "scheduled_service": "no",
-    "gps_code": "SNPM",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "SNPM",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SNPM",
     "runways": [
         {
             "id": "234170",
