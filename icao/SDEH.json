@@ -11,12 +11,12 @@
     "iso_region": "BR-SP",
     "municipality": "Araras",
     "scheduled_service": "no",
-    "gps_code": "",
+    "gps_code": "SDKR",
     "iata_code": "",
     "local_code": "SP0374",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SDEH, SDKR",
+    "keywords": "SDEH",
     "runways": [
         {
             "id": "263085",

@@ -11,12 +11,12 @@
     "iso_region": "BR-MT",
     "municipality": "Nova Bandeirantes",
     "scheduled_service": "no",
-    "gps_code": "",
+    "gps_code": "SIKS",
     "iata_code": "",
     "local_code": "MT0649",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SWNC, Fazenda Procomp, SIKS",
+    "keywords": "SWNC, Fazenda Procomp",
     "runways": [
         {
             "id": "260785",
