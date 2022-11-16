@@ -9,14 +9,14 @@
     "continent": "SA",
     "iso_country": "BR",
     "iso_region": "BR-SP",
-    "municipality": "Santa Rita do Passa Quatro",
+    "municipality": "Santa Rita Do Passa Quatro",
     "scheduled_service": "no",
-    "gps_code": "SIOR",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "SP0191",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SDRD",
+    "keywords": "SDRD, SIOR",
     "runways": [
         {
             "id": "262048",

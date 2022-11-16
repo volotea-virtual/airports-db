@@ -3,12 +3,12 @@
     "ident": "VTSM",
     "type": "medium_airport",
     "name": "Samui Airport",
-    "latitude_deg": "9.547789573669998",
-    "longitude_deg": "100.06199646",
+    "latitude_deg": "9.54779",
+    "longitude_deg": "100.061996",
     "elevation_ft": "64",
     "continent": "AS",
     "iso_country": "TH",
-    "iso_region": "TH-80",
+    "iso_region": "TH-84",
     "municipality": "Na Thon (Ko Samui Island)",
     "scheduled_service": "yes",
     "gps_code": "VTSM",
@@ -76,14 +76,14 @@
         "keywords": "Siam, Siamese"
     },
     "region": {
-        "id": "305769",
-        "code": "TH-80",
-        "local_code": "80",
-        "name": "Nakhon Si Thammarat Province",
+        "id": "305773",
+        "code": "TH-84",
+        "local_code": "84",
+        "name": "Surat Thani Province",
         "continent": "AS",
         "iso_country": "TH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Nakhon_Si_Thammarat_province",
-        "keywords": "Airports in Nakhon Si Thammarat Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Surat_Thani_province",
+        "keywords": "Airports in Surat Thani Province"
     },
     "navaids": [
         {

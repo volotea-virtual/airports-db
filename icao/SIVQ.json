@@ -11,12 +11,12 @@
     "iso_region": "BR-MS",
     "municipality": "Deodápolis",
     "scheduled_service": "no",
-    "gps_code": "",
+    "gps_code": "SJIS",
     "iata_code": "",
     "local_code": "MS0170",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SIVQ, SJIS",
+    "keywords": "SIVQ",
     "runways": [
         {
             "id": "261562",

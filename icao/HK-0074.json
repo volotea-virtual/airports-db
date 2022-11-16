@@ -3,13 +3,13 @@
     "ident": "HK-0074",
     "type": "heliport",
     "name": "Waglan Helipad",
-    "latitude_deg": "22.18283",
-    "longitude_deg": "114.30401",
+    "latitude_deg": "22.18285",
+    "longitude_deg": "114.304097",
     "elevation_ft": "",
     "continent": "AS",
     "iso_country": "HK",
-    "iso_region": "HK-U-A",
-    "municipality": "Islands, New Territories",
+    "iso_region": "HK-NT",
+    "municipality": "Islands",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Airports in Hong Kong"
     },
     "region": {
-        "id": "304005",
-        "code": "HK-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "504838",
+        "code": "HK-NT",
+        "local_code": "NT",
+        "name": "New Territories",
         "continent": "AS",
         "iso_country": "HK",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Territories",
+        "keywords": ""
     }
 }

@@ -11,12 +11,12 @@
     "iso_region": "BR-MT",
     "municipality": "Porto Esperdião",
     "scheduled_service": "no",
-    "gps_code": "",
+    "gps_code": "SNEY",
     "iata_code": "",
     "local_code": "MT0248",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SJXB, SNEY",
+    "keywords": "SJXB",
     "runways": [
         {
             "id": "261320",

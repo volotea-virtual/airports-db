@@ -11,12 +11,12 @@
     "iso_region": "BR-SP",
     "municipality": "São Paulo",
     "scheduled_service": "no",
-    "gps_code": "",
+    "gps_code": "SJTV",
     "iata_code": "",
     "local_code": "SP0663",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SDTV, SJTV",
+    "keywords": "SDTV",
     "runways": [
         {
             "id": "262637",

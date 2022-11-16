@@ -1,7 +1,7 @@
 {
     "id": "35658",
     "ident": "SDOM",
-    "type": "closed",
+    "type": "heliport",
     "name": "Hospital Montreal Heliport",
     "latitude_deg": "-23.5366",
     "longitude_deg": "-46.7768",
@@ -13,7 +13,7 @@
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
-    "local_code": "",
+    "local_code": "SDOM",
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "SDOM",

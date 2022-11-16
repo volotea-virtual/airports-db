@@ -1,0 +1,38 @@
+{
+    "id": "504820",
+    "ident": "PH-0521",
+    "type": "heliport",
+    "name": "Camp Peralta Heliport",
+    "latitude_deg": "11.39103",
+    "longitude_deg": "122.43972",
+    "elevation_ft": "531",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-CAP",
+    "municipality": "Jamindan",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302656",
+        "code": "PH",
+        "name": "Philippines",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
+        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
+    },
+    "region": {
+        "id": "305075",
+        "code": "PH-CAP",
+        "local_code": "CAP",
+        "name": "Capiz Province",
+        "continent": "AS",
+        "iso_country": "PH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Capiz_Province",
+        "keywords": "Airports in Capiz Province"
+    }
+}

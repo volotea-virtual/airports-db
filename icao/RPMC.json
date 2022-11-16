@@ -2,7 +2,7 @@
     "id": "5696",
     "ident": "RPMC",
     "type": "medium_airport",
-    "name": "Awang Airport",
+    "name": "Cotabato (Awang) Airport",
     "latitude_deg": "7.164753",
     "longitude_deg": "124.209938",
     "elevation_ft": "189",
@@ -15,8 +15,8 @@
     "iata_code": "CBO",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "https://en.wikipedia.org/wiki/Awang_Airport",
-    "keywords": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cotabato_Airport",
+    "keywords": "Awang, Kutawatu",
     "runways": [
         {
             "id": "238436",

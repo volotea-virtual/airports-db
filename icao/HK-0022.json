@@ -8,8 +8,8 @@
     "elevation_ft": "",
     "continent": "AS",
     "iso_country": "HK",
-    "iso_region": "HK-U-A",
-    "municipality": "Sai Kung, New Territories",
+    "iso_region": "HK-NT",
+    "municipality": "Sai Kung",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Airports in Hong Kong"
     },
     "region": {
-        "id": "304005",
-        "code": "HK-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "504838",
+        "code": "HK-NT",
+        "local_code": "NT",
+        "name": "New Territories",
         "continent": "AS",
         "iso_country": "HK",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_Territories",
+        "keywords": ""
     }
 }

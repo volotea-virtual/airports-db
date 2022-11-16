@@ -11,12 +11,12 @@
     "iso_region": "BR-PA",
     "municipality": "Altamira",
     "scheduled_service": "no",
-    "gps_code": "",
+    "gps_code": "SDNV",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SDNV",
+    "keywords": "",
     "runways": [
         {
             "id": "264371",

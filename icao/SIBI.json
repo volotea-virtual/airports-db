@@ -11,12 +11,12 @@
     "iso_region": "BR-SP",
     "municipality": "Guarujá",
     "scheduled_service": "no",
-    "gps_code": "",
+    "gps_code": "SJNT",
     "iata_code": "",
     "local_code": "SP0637",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SIBI, Tame Guarujá, SJNT",
+    "keywords": "SIBI, Tame Guarujá",
     "runways": [
         {
             "id": "262960",

@@ -1,15 +1,15 @@
 {
-    "id": "504811",
+    "id": "504815",
     "ident": "PH-0516",
     "type": "small_airport",
-    "name": "Amoroy Airport",
-    "latitude_deg": "12.50263",
-    "longitude_deg": "123.37496",
-    "elevation_ft": "43",
+    "name": "Samariniana Airfield",
+    "latitude_deg": "8.72312",
+    "longitude_deg": "117.74438",
+    "elevation_ft": "102",
     "continent": "AS",
     "iso_country": "PH",
-    "iso_region": "PH-MAS",
-    "municipality": "Aroroy",
+    "iso_region": "PH-PLW",
+    "municipality": "Brooke's Point",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Mga alternatibong byahe mula sa Pilipinas"
     },
     "region": {
-        "id": "305099",
-        "code": "PH-MAS",
-        "local_code": "MAS",
-        "name": "Masbate Province",
+        "id": "305113",
+        "code": "PH-PLW",
+        "local_code": "PLW",
+        "name": "Palawan Province",
         "continent": "AS",
         "iso_country": "PH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Masbate_Province",
-        "keywords": "Airports in Masbate Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Palawan_Province",
+        "keywords": "Airports in Palawan Province"
     }
 }

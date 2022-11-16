@@ -9,14 +9,14 @@
     "continent": "SA",
     "iso_country": "BR",
     "iso_region": "BR-SC",
-    "municipality": "Jaraguá Do Sul",
+    "municipality": "Jaraguá do Sul",
     "scheduled_service": "no",
-    "gps_code": "",
+    "gps_code": "SJDR",
     "iata_code": "",
     "local_code": "SC0065",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SIQL, SJDR",
+    "keywords": "SIQL",
     "runways": [
         {
             "id": "262660",

@@ -11,12 +11,12 @@
     "iso_region": "BR-SP",
     "municipality": "Guarujá",
     "scheduled_service": "no",
-    "gps_code": "",
+    "gps_code": "SJNN",
     "iata_code": "",
-    "local_code": "SJNN",
+    "local_code": "SP0635",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SDIX, SJNN",
+    "keywords": "SDIX",
     "runways": [
         {
             "id": "262989",

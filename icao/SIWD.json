@@ -3,8 +3,8 @@
     "ident": "SIWD",
     "type": "closed",
     "name": "Fazenda Cinco Estrelas Airport",
-    "latitude_deg": "-8.363611221309998",
-    "longitude_deg": "-58.1049995422",
+    "latitude_deg": "-8.363611",
+    "longitude_deg": "-58.105",
     "elevation_ft": "493",
     "continent": "SA",
     "iso_country": "BR",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SIWD, SIWD",
+    "keywords": "SIWD",
     "runways": [
         {
             "id": "262169",

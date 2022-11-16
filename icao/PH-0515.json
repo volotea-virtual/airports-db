@@ -1,15 +1,15 @@
 {
-    "id": "504810",
+    "id": "504814",
     "ident": "PH-0515",
-    "type": "small_airport",
-    "name": "Calanay Airport",
-    "latitude_deg": "12.46231",
-    "longitude_deg": "123.2843",
-    "elevation_ft": "69",
+    "type": "closed",
+    "name": "Brooke's Point Airstrip",
+    "latitude_deg": "8.80757",
+    "longitude_deg": "117.84951",
+    "elevation_ft": "36",
     "continent": "AS",
     "iso_country": "PH",
-    "iso_region": "PH-MAS",
-    "municipality": "Aroroy",
+    "iso_region": "PH-PLW",
+    "municipality": "Brooke's Point",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Mga alternatibong byahe mula sa Pilipinas"
     },
     "region": {
-        "id": "305099",
-        "code": "PH-MAS",
-        "local_code": "MAS",
-        "name": "Masbate Province",
+        "id": "305113",
+        "code": "PH-PLW",
+        "local_code": "PLW",
+        "name": "Palawan Province",
         "continent": "AS",
         "iso_country": "PH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Masbate_Province",
-        "keywords": "Airports in Masbate Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Palawan_Province",
+        "keywords": "Airports in Palawan Province"
     }
 }

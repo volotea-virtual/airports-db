@@ -11,12 +11,12 @@
     "iso_region": "BR-BA",
     "municipality": "São Desidério",
     "scheduled_service": "no",
-    "gps_code": "",
+    "gps_code": "SNEK",
     "iata_code": "",
     "local_code": "BA0135",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SJAX, SNEK",
+    "keywords": "SJAX",
     "runways": [
         {
             "id": "260558",

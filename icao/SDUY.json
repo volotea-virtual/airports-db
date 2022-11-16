@@ -9,14 +9,14 @@
     "continent": "SA",
     "iso_country": "BR",
     "iso_region": "BR-RJ",
-    "municipality": "Rio de Janeiro",
+    "municipality": "Rio De Janeiro",
     "scheduled_service": "no",
-    "gps_code": "",
+    "gps_code": "SDUY",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SDUY",
+    "keywords": "",
     "runways": [
         {
             "id": "264440",

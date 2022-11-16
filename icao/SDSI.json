@@ -11,12 +11,12 @@
     "iso_region": "BR-SP",
     "municipality": "São Paulo",
     "scheduled_service": "no",
-    "gps_code": "SDZR",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "SP0460",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SDSI",
+    "keywords": "SDSI, SDZR",
     "runways": [
         {
             "id": "263337",
