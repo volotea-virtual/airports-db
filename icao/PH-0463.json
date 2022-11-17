@@ -1,7 +1,7 @@
 {
     "id": "351522",
     "ident": "PH-0463",
-    "type": "small_airport",
+    "type": "closed",
     "name": "President Quirino Airport",
     "latitude_deg": "6.71163",
     "longitude_deg": "124.72773",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "President Kirinu",
     "country": {
         "id": "302656",
         "code": "PH",

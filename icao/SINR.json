@@ -11,12 +11,12 @@
     "iso_region": "BR-MS",
     "municipality": "Alcinópolis",
     "scheduled_service": "no",
-    "gps_code": "",
+    "gps_code": "SNRC",
     "iata_code": "",
     "local_code": "MS0227",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SINR, SNRC",
+    "keywords": "SINR",
     "runways": [
         {
             "id": "261031",

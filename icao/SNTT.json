@@ -11,12 +11,12 @@
     "iso_region": "BR-MG",
     "municipality": "Felixlândia",
     "scheduled_service": "no",
-    "gps_code": "",
+    "gps_code": "SNXV",
     "iata_code": "",
     "local_code": "MG0170",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SNTT, SNXV",
+    "keywords": "SNTT",
     "runways": [
         {
             "id": "233814",

@@ -2,7 +2,7 @@
     "id": "351515",
     "ident": "PH-0458",
     "type": "small_airport",
-    "name": "Kimamon Airport",
+    "name": "Lunga-og Airport",
     "latitude_deg": "7.54462",
     "longitude_deg": "125.69984",
     "elevation_ft": "71",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Kimamon",
     "country": {
         "id": "302656",
         "code": "PH",

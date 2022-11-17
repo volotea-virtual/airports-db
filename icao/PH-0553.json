@@ -1,0 +1,38 @@
+{
+    "id": "504869",
+    "ident": "PH-0553",
+    "type": "small_airport",
+    "name": "Balabagan Airport",
+    "latitude_deg": "7.51461",
+    "longitude_deg": "124.12312",
+    "elevation_ft": "49",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-LAS",
+    "municipality": "Balabagan",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302656",
+        "code": "PH",
+        "name": "Philippines",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
+        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
+    },
+    "region": {
+        "id": "305094",
+        "code": "PH-LAS",
+        "local_code": "LAS",
+        "name": "Lanao del Sur Province",
+        "continent": "AS",
+        "iso_country": "PH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lanao_del_Sur_Province",
+        "keywords": "Airports in Lanao del Sur Province"
+    }
+}

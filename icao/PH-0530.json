@@ -2,14 +2,14 @@
     "id": "504829",
     "ident": "PH-0530",
     "type": "heliport",
-    "name": "Naval Station Julhasan Arasain Heliport",
-    "latitude_deg": "13.16324",
-    "longitude_deg": "123.75516",
-    "elevation_ft": "22",
+    "name": "Biliran Heliport",
+    "latitude_deg": "11.46335",
+    "longitude_deg": "124.47474",
+    "elevation_ft": "3",
     "continent": "AS",
     "iso_country": "PH",
-    "iso_region": "PH-ALB",
-    "municipality": "Legazpi",
+    "iso_region": "PH-BIL",
+    "municipality": "Biliran",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Mga alternatibong byahe mula sa Pilipinas"
     },
     "region": {
-        "id": "305059",
-        "code": "PH-ALB",
-        "local_code": "ALB",
-        "name": "Albay Province",
+        "id": "305066",
+        "code": "PH-BIL",
+        "local_code": "BIL",
+        "name": "Biliran Province",
         "continent": "AS",
         "iso_country": "PH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Albay_Province",
-        "keywords": "Airports in Albay Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Biliran_Province",
+        "keywords": "Airports in Biliran Province"
     }
 }
