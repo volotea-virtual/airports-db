@@ -3,8 +3,8 @@
     "ident": "CDU9",
     "type": "closed",
     "name": "Dunnville Airport",
-    "latitude_deg": "42.872200012200004",
-    "longitude_deg": "-79.5958023071",
+    "latitude_deg": "42.8722",
+    "longitude_deg": "-79.595802",
     "elevation_ft": "600",
     "continent": "NA",
     "iso_country": "CA",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Dunnville_Airport",
-    "keywords": "DU9, BCATP, CDU9, CDU9",
+    "keywords": "DU9, BCATP, CDU9, RCAF Dunnville",
     "runways": [
         {
             "id": "234485",

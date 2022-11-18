@@ -2,7 +2,7 @@
     "id": "18000",
     "ident": "IL21",
     "type": "heliport",
-    "name": "Presence Mercy Medical Center Heliport",
+    "name": "Ascension Mercy Heliport",
     "latitude_deg": "41.785811",
     "longitude_deg": "-88.324533",
     "elevation_ft": "700",
@@ -16,7 +16,7 @@
     "local_code": "IL21",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Mercy Center For Health Care Services Heliport",
+    "keywords": "Mercy Center For Health Care Services Heliport, Presence Mercy Medical Center Heliport",
     "runways": [
         {
             "id": "267704",

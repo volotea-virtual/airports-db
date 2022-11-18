@@ -2,13 +2,13 @@
     "id": "336601",
     "ident": "MO-0001",
     "type": "heliport",
-    "name": "Conde S. Januário Hospital Helipad",
+    "name": "Conde S. Januário Hospital Heliport",
     "latitude_deg": "22.194657",
     "longitude_deg": "113.546807",
     "elevation_ft": "",
     "continent": "AS",
     "iso_country": "MO",
-    "iso_region": "MO-U-A",
+    "iso_region": "MO-SEE",
     "municipality": "Sé",
     "scheduled_service": "no",
     "gps_code": "",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Heliponto da Centro Hospitalar Conde de São Januário, Conde de São Januário Hospital Heliport",
     "country": {
         "id": "302651",
         "code": "MO",
@@ -26,13 +26,13 @@
         "keywords": "Macao"
     },
     "region": {
-        "id": "304704",
-        "code": "MO-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "504908",
+        "code": "MO-SEE",
+        "local_code": "SEE",
+        "name": "Sé (Da)",
         "continent": "AS",
         "iso_country": "MO",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/S%C3%A9,_Macau",
+        "keywords": ""
     }
 }

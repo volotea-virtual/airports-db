@@ -11,12 +11,12 @@
     "iso_region": "BR-SP",
     "municipality": "Rosana",
     "scheduled_service": "no",
-    "gps_code": "SSXG",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SSXG, SIRO",
     "runways": [
         {
             "id": "333658",

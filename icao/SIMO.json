@@ -11,12 +11,12 @@
     "iso_region": "BR-MT",
     "municipality": "Barão de Melgaço",
     "scheduled_service": "no",
-    "gps_code": "",
+    "gps_code": "SSAM",
     "iata_code": "",
     "local_code": "MT0280",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SIMO, SSAM",
+    "keywords": "SIMO",
     "runways": [
         {
             "id": "260805",

@@ -2,9 +2,9 @@
     "id": "18815",
     "ident": "K4F8",
     "type": "small_airport",
-    "name": "Wilson Airport",
-    "latitude_deg": "33.443599700927734",
-    "longitude_deg": "-93.0541000366211",
+    "name": "Stephens Ouachita County Airport",
+    "latitude_deg": "33.443403",
+    "longitude_deg": "-93.054242",
     "elevation_ft": "230",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "4F8",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Wilson",
     "runways": [
         {
             "id": "241839",

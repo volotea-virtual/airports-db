@@ -1,7 +1,7 @@
 {
     "id": "35683",
     "ident": "SDQB",
-    "type": "heliport",
+    "type": "closed",
     "name": "Edifício Berrini 500 Heliport",
     "latitude_deg": "-23.601099",
     "longitude_deg": "-46.692229",
@@ -13,10 +13,10 @@
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
-    "local_code": "SP0744",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SDQB, SSBH",
+    "keywords": "SDQB, SSBH, SP0744",
     "runways": [
         {
             "id": "263017",

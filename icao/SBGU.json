@@ -10,13 +10,13 @@
     "iso_country": "BR",
     "iso_region": "BR-PR",
     "municipality": "Guarapuava",
-    "scheduled_service": "no",
-    "gps_code": "",
+    "scheduled_service": "yes",
+    "gps_code": "SSGG",
     "iata_code": "GPB",
     "local_code": "PR0009",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Guarapuava_Airport",
-    "keywords": "SBGU, Guarapuava Airport, SSGG",
+    "keywords": "SBGU, Guarapuava Airport",
     "runways": [
         {
             "id": "234365",
