@@ -11,12 +11,12 @@
     "iso_region": "BR-MS",
     "municipality": "Nova Andradina",
     "scheduled_service": "no",
-    "gps_code": "",
+    "gps_code": "SWBT",
     "iata_code": "",
     "local_code": "MS0365",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SSJJ, SWBT",
+    "keywords": "SSJJ",
     "runways": [
         {
             "id": "262095",

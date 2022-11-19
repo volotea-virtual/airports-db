@@ -3,12 +3,12 @@
     "ident": "LT-0010",
     "type": "small_airport",
     "name": "Griškabūdis Airstrip",
-    "latitude_deg": "54.8302284",
-    "longitude_deg": "23.1977712",
+    "latitude_deg": "54.830228",
+    "longitude_deg": "23.197771",
     "elevation_ft": "",
     "continent": "EU",
     "iso_country": "LT",
-    "iso_region": "LT-U-A",
+    "iso_region": "LT-MR",
     "municipality": "Bliuviškiai",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Lithuanian airports"
     },
     "region": {
-        "id": "304502",
-        "code": "LT-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "304497",
+        "code": "LT-MR",
+        "local_code": "MR",
+        "name": "Marijampolė County",
         "continent": "EU",
         "iso_country": "LT",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Marijampol%C4%97_County",
+        "keywords": "Airports in Marijampolė County"
     }
 }

@@ -3,12 +3,12 @@
     "ident": "LT-0014",
     "type": "small_airport",
     "name": "Kalno aerodromas",
-    "latitude_deg": "55.9841969",
-    "longitude_deg": "24.3460798",
+    "latitude_deg": "55.984197",
+    "longitude_deg": "24.34608",
     "elevation_ft": "",
     "continent": "EU",
     "iso_country": "LT",
-    "iso_region": "LT-U-A",
+    "iso_region": "LT-PN",
     "municipality": "Kalnas",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Lithuanian airports"
     },
     "region": {
-        "id": "304502",
-        "code": "LT-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "304498",
+        "code": "LT-PN",
+        "local_code": "PN",
+        "name": "Panevėžys County",
         "continent": "EU",
         "iso_country": "LT",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Panev%C4%97%C5%BEys_County",
+        "keywords": ""
     }
 }

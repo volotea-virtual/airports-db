@@ -11,12 +11,12 @@
     "iso_region": "BR-MS",
     "municipality": "Angélica",
     "scheduled_service": "no",
-    "gps_code": "",
+    "gps_code": "SWFK",
     "iata_code": "",
     "local_code": "MS0374",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SSDB, SWFK",
+    "keywords": "SSDB",
     "runways": [
         {
             "id": "261047",

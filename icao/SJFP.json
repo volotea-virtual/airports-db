@@ -11,12 +11,12 @@
     "iso_region": "BR-RO",
     "municipality": "Corumbiara",
     "scheduled_service": "no",
-    "gps_code": "",
+    "gps_code": "SWBO",
     "iata_code": "",
     "local_code": "RO0027",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SJFP, SWBO",
+    "keywords": "SJFP",
     "runways": [
         {
             "id": "260953",

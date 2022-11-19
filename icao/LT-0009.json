@@ -3,12 +3,12 @@
     "ident": "LT-0009",
     "type": "small_airport",
     "name": "Naukaimio aerodromas",
-    "latitude_deg": "55.1313683",
-    "longitude_deg": "22.9644543",
+    "latitude_deg": "55.131368",
+    "longitude_deg": "22.964454",
     "elevation_ft": "",
     "continent": "EU",
     "iso_country": "LT",
-    "iso_region": "LT-U-A",
+    "iso_region": "LT-TA",
     "municipality": "Naukaimis",
     "scheduled_service": "no",
     "gps_code": "",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Šilinės,Skirsnemunės",
+    "keywords": "Šilinės, Skirsnemunės",
     "country": {
         "id": "302700",
         "code": "LT",
@@ -26,13 +26,13 @@
         "keywords": "Lithuanian airports"
     },
     "region": {
-        "id": "304502",
-        "code": "LT-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "304500",
+        "code": "LT-TA",
+        "local_code": "TA",
+        "name": "Tauragė County",
         "continent": "EU",
         "iso_country": "LT",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Taurag%C4%97_County",
+        "keywords": ""
     }
 }

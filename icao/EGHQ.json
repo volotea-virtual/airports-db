@@ -2,9 +2,9 @@
     "id": "2404",
     "ident": "EGHQ",
     "type": "medium_airport",
-    "name": "Newquay Cornwall Airport",
-    "latitude_deg": "50.44060134887695",
-    "longitude_deg": "-4.995409965515137",
+    "name": "Cornwall Airport Newquay",
+    "latitude_deg": "50.440601",
+    "longitude_deg": "-4.99541",
     "elevation_ft": "390",
     "continent": "EU",
     "iso_country": "GB",
@@ -14,8 +14,8 @@
     "gps_code": "EGHQ",
     "iata_code": "NQY",
     "local_code": "",
-    "home_link": "http://www.newquaycornwallairport.com/",
-    "wikipedia_link": "https://en.wikipedia.org/wiki/Newquay_Cornwall_Airport",
+    "home_link": "https://www.cornwallairportnewquay.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Newquay_Airport",
     "keywords": "St Mawgan, EGDG",
     "runways": [
         {

@@ -11,12 +11,12 @@
     "iso_region": "BR-SP",
     "municipality": "Pompéia",
     "scheduled_service": "no",
-    "gps_code": "",
+    "gps_code": "SWAN",
     "iata_code": "",
     "local_code": "SP1285",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SDKP, SWAN",
+    "keywords": "SDKP",
     "runways": [
         {
             "id": "262267",
