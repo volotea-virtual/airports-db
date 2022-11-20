@@ -11,12 +11,12 @@
     "iso_region": "BR-RO",
     "municipality": "Cacoal",
     "scheduled_service": "no",
-    "gps_code": "",
+    "gps_code": "SWRM",
     "iata_code": "",
     "local_code": "RO0036",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SJHJ, SWRM",
+    "keywords": "SJHJ",
     "runways": [
         {
             "id": "261384",

@@ -11,12 +11,12 @@
     "iso_region": "IT-82",
     "municipality": "Rinaura (SR)",
     "scheduled_service": "no",
-    "gps_code": "SIR0",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "SRSIR",
     "home_link": "http://www.avioclubsiracusa.it",
     "wikipedia_link": "",
-    "keywords": "Avio Club Siracusa",
+    "keywords": "Avio Club Siracusa.SIR0",
     "runways": [
         {
             "id": "298705",

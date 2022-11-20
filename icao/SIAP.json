@@ -11,12 +11,12 @@
     "iso_region": "BR-RS",
     "municipality": "Aceguá",
     "scheduled_service": "no",
-    "gps_code": "",
+    "gps_code": "SWNW",
     "iata_code": "",
     "local_code": "RS0128",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SIAP, Ana Paula Airport, Roso Par, SWNW",
+    "keywords": "SIAP, Ana Paula Airport, Roso Par",
     "runways": [
         {
             "id": "343179",
