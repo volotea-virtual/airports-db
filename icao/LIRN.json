@@ -9,14 +9,14 @@
     "continent": "EU",
     "iso_country": "IT",
     "iso_region": "IT-72",
-    "municipality": "Nápoli",
+    "municipality": "Napoli",
     "scheduled_service": "yes",
     "gps_code": "LIRN",
     "iata_code": "NAP",
     "local_code": "NA01",
     "home_link": "http://www.portal.gesac.it/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Naples_International_Airport",
-    "keywords": "Capodichino Airport, Aeroporto di Napoli-Capodichino, Aeroporto Internazionale di Napoli",
+    "keywords": "Capodichino Airport, Aeroporto Internazionale di Napoli-Capodichino Ugo Niutta, Ariopuorto 'nternazziunale 'e Napule-Capodichino Ugo Niutta",
     "runways": [
         {
             "id": "237034",
