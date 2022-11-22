@@ -2,21 +2,21 @@
     "id": "6478",
     "ident": "UKKK",
     "type": "medium_airport",
-    "name": "Kiev Zhuliany International Airport",
+    "name": "Ihor Sikorsky Kyiv International Airport (Zhuliany)",
     "latitude_deg": "50.40194",
     "longitude_deg": "30.45194",
     "elevation_ft": "587",
     "continent": "EU",
     "iso_country": "UA",
-    "iso_region": "UA-32",
-    "municipality": "Kiev",
+    "iso_region": "UA-30",
+    "municipality": "Kyiv",
     "scheduled_service": "yes",
     "gps_code": "UKKK",
     "iata_code": "IEV",
     "local_code": "",
     "home_link": "https://iev.aero/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Kyiv_International_Airport_(Zhuliany)",
-    "keywords": "Міжнародний аеропорт \"Київ\"",
+    "keywords": "Міжнародний аеропорт \"Київ\", Kiev",
     "runways": [
         {
             "id": "239633",
@@ -92,14 +92,14 @@
         "keywords": "Аеропорти України"
     },
     "region": {
-        "id": "305991",
-        "code": "UA-32",
-        "local_code": "32",
-        "name": "Kiev Oblast",
+        "id": "305990",
+        "code": "UA-30",
+        "local_code": "30",
+        "name": "Kyiv (city)",
         "continent": "EU",
         "iso_country": "UA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kiev_Oblast",
-        "keywords": "Kyiv"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kyiv",
+        "keywords": "Kiev"
     },
     "navaids": [
         {

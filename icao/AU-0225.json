@@ -1,0 +1,48 @@
+{
+    "id": "504997",
+    "ident": "AU-0225",
+    "type": "small_airport",
+    "name": "WILMINGTON RESIDENTIAL AIRPARK",
+    "latitude_deg": "-32.635309",
+    "longitude_deg": "138.107157",
+    "elevation_ft": "1080",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-SA",
+    "municipality": "Wilmington",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "https://www.wilmington-airpark.com/",
+    "wikipedia_link": "",
+    "keywords": "",
+    "freqs": [
+        {
+            "id": "505003",
+            "airport_ref": "504997",
+            "airport_ident": "AU-0225",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "126.7"
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": "Australian airports"
+    },
+    "region": {
+        "id": "302972",
+        "code": "AU-SA",
+        "local_code": "SA",
+        "name": "South Australia",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Australia",
+        "keywords": "South Australian airports"
+    }
+}

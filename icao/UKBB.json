@@ -9,14 +9,14 @@
     "continent": "EU",
     "iso_country": "UA",
     "iso_region": "UA-32",
-    "municipality": "Kiev",
+    "municipality": "Boryspil",
     "scheduled_service": "yes",
     "gps_code": "UKBB",
     "iata_code": "KBP",
     "local_code": "",
     "home_link": "https://kbp.aero/en/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Boryspil_International_Airport",
-    "keywords": "Borispol, Міжнародний аеропорт \"Бориспіль\"",
+    "keywords": "Borispol, Міжнародний аеропорт \"Бориспіль\", Kyiv",
     "runways": [
         {
             "id": "239625",
@@ -125,11 +125,11 @@
         "id": "305991",
         "code": "UA-32",
         "local_code": "32",
-        "name": "Kiev Oblast",
+        "name": "Kyiv Oblast",
         "continent": "EU",
         "iso_country": "UA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kiev_Oblast",
-        "keywords": "Kyiv"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kyiv_Oblast",
+        "keywords": "Kiev"
     },
     "navaids": [
         {

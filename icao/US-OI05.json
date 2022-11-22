@@ -2,14 +2,14 @@
     "id": "23664",
     "ident": "US-OI05",
     "type": "small_airport",
-    "name": "Nain Military Airport",
-    "latitude_deg": "33.093649",
-    "longitude_deg": "53.41278",
+    "name": "Naeen Military Airport",
+    "latitude_deg": "33.094298",
+    "longitude_deg": "53.412495",
     "elevation_ft": "3550",
     "continent": "AS",
     "iso_country": "IR",
     "iso_region": "IR-10",
-    "municipality": "Chupanan",
+    "municipality": "Chashmeh-i-Zaghab",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
@@ -53,10 +53,10 @@
         "id": "304222",
         "code": "IR-10",
         "local_code": "10",
-        "name": "Esfahan Province",
+        "name": "Isfahan Province",
         "continent": "AS",
         "iso_country": "IR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Esfahan_Province",
-        "keywords": "Airports in Esfahan Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Isfahan_Province",
+        "keywords": "Airports in Isfahan Province"
     }
 }

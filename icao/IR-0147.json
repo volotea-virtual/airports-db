@@ -1,0 +1,38 @@
+{
+    "id": "505013",
+    "ident": "IR-0147",
+    "type": "heliport",
+    "name": "Dorodzan Dam Heliport",
+    "latitude_deg": "30.21176",
+    "longitude_deg": "52.41705",
+    "elevation_ft": "5610",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-07",
+    "municipality": "Dorodzan",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Dorudzan",
+    "country": {
+        "id": "302637",
+        "code": "IR",
+        "name": "Iran",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iran",
+        "keywords": "فرودگاه های ایران"
+    },
+    "region": {
+        "id": "304231",
+        "code": "IR-07",
+        "local_code": "07",
+        "name": "Fars Province",
+        "continent": "AS",
+        "iso_country": "IR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Fars_Province",
+        "keywords": "Airports in Fars Province"
+    }
+}

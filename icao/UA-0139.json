@@ -2,14 +2,14 @@
     "id": "341519",
     "ident": "UA-0139",
     "type": "heliport",
-    "name": "Kyiv Challenge Heliport",
-    "latitude_deg": "50.40645",
-    "longitude_deg": "30.57943",
-    "elevation_ft": "",
+    "name": "Trakhtemyriv Heliport",
+    "latitude_deg": "49.984294",
+    "longitude_deg": "31.339095",
+    "elevation_ft": "397",
     "continent": "EU",
     "iso_country": "UA",
-    "iso_region": "UA-32",
-    "municipality": "Kiev",
+    "iso_region": "UA-71",
+    "municipality": "Trakhtemyriv",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Аеропорти України"
     },
     "region": {
-        "id": "305991",
-        "code": "UA-32",
-        "local_code": "32",
-        "name": "Kiev Oblast",
+        "id": "306005",
+        "code": "UA-71",
+        "local_code": "71",
+        "name": "Cherkasy Oblast",
         "continent": "EU",
         "iso_country": "UA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kiev_Oblast",
-        "keywords": "Kyiv"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cherkasy_Oblast",
+        "keywords": "Airports in Cherkasy Oblast, Черка́ська о́бласть"
     }
 }

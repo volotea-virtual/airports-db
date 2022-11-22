@@ -2,7 +2,7 @@
     "id": "43228",
     "ident": "IR-0003",
     "type": "small_airport",
-    "name": "Darrahi Military Air Field",
+    "name": "Ab Pakhsh Airport",
     "latitude_deg": "29.375799",
     "longitude_deg": "51.067501",
     "elevation_ft": "",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Darrahi Military Airfield",
     "country": {
         "id": "302637",
         "code": "IR",

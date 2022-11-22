@@ -3,13 +3,13 @@
     "ident": "UA-0101",
     "type": "heliport",
     "name": "Mezhigyrya Heliport",
-    "latitude_deg": "50.621465",
-    "longitude_deg": "30.460391",
+    "latitude_deg": "50.621493",
+    "longitude_deg": "30.460464",
     "elevation_ft": "",
     "continent": "EU",
     "iso_country": "UA",
     "iso_region": "UA-32",
-    "municipality": "",
+    "municipality": "Novi Petrivtsi",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
@@ -29,10 +29,10 @@
         "id": "305991",
         "code": "UA-32",
         "local_code": "32",
-        "name": "Kiev Oblast",
+        "name": "Kyiv Oblast",
         "continent": "EU",
         "iso_country": "UA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kiev_Oblast",
-        "keywords": "Kyiv"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kyiv_Oblast",
+        "keywords": "Kiev"
     }
 }

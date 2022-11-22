@@ -1,0 +1,38 @@
+{
+    "id": "505017",
+    "ident": "IR-0151",
+    "type": "heliport",
+    "name": "Imam Hasan al-Mojtaba Hospital Heliport",
+    "latitude_deg": "28.74251",
+    "longitude_deg": "54.55593",
+    "elevation_ft": "3740",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-07",
+    "municipality": "Darab",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302637",
+        "code": "IR",
+        "name": "Iran",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iran",
+        "keywords": "فرودگاه های ایران"
+    },
+    "region": {
+        "id": "304231",
+        "code": "IR-07",
+        "local_code": "07",
+        "name": "Fars Province",
+        "continent": "AS",
+        "iso_country": "IR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Fars_Province",
+        "keywords": "Airports in Fars Province"
+    }
+}

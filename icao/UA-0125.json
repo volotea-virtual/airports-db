@@ -3,8 +3,8 @@
     "ident": "UA-0125",
     "type": "heliport",
     "name": "Bilohorodka Heliport",
-    "latitude_deg": "50.424536",
-    "longitude_deg": "30.272438",
+    "latitude_deg": "50.424592",
+    "longitude_deg": "30.272464",
     "elevation_ft": "",
     "continent": "EU",
     "iso_country": "UA",
@@ -29,10 +29,10 @@
         "id": "305991",
         "code": "UA-32",
         "local_code": "32",
-        "name": "Kiev Oblast",
+        "name": "Kyiv Oblast",
         "continent": "EU",
         "iso_country": "UA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kiev_Oblast",
-        "keywords": "Kyiv"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kyiv_Oblast",
+        "keywords": "Kiev"
     }
 }

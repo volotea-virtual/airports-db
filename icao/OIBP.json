@@ -9,14 +9,14 @@
     "continent": "AS",
     "iso_country": "IR",
     "iso_region": "IR-18",
-    "municipality": "Asalouyeh",
+    "municipality": "Khiyaroo",
     "scheduled_service": "yes",
     "gps_code": "OIBP",
     "iata_code": "PGU",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Persian_Gulf_Airport",
-    "keywords": "Khalije Fars, PSEEZ, Bandar Asalouyeh, Pars-Special-Zone,  عسلویه",
+    "keywords": "Asalouyeh, Khalije Fars, PSEEZ, Bandar Asalouyeh, Pars-Special-Zone, عسلویه",
     "runways": [
         {
             "id": "236847",

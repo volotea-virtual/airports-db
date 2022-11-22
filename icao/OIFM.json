@@ -2,9 +2,9 @@
     "id": "5156",
     "ident": "OIFM",
     "type": "medium_airport",
-    "name": "Esfahan Shahid Beheshti International Airport",
-    "latitude_deg": "32.75080108642578",
-    "longitude_deg": "51.86130142211914",
+    "name": "Isfahan Shahid Beheshti International Airport",
+    "latitude_deg": "32.750755",
+    "longitude_deg": "51.861483",
     "elevation_ft": "5059",
     "continent": "AS",
     "iso_country": "IR",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Isfahan_International_Airport",
-    "keywords": "Isfahan Shahid Beheshti",
+    "keywords": "Esfahan",
     "runways": [
         {
             "id": "236893",
@@ -117,11 +117,11 @@
         "id": "304222",
         "code": "IR-10",
         "local_code": "10",
-        "name": "Esfahan Province",
+        "name": "Isfahan Province",
         "continent": "AS",
         "iso_country": "IR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Esfahan_Province",
-        "keywords": "Airports in Esfahan Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Isfahan_Province",
+        "keywords": "Airports in Isfahan Province"
     },
     "navaids": [
         {

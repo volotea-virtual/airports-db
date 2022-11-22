@@ -3,15 +3,15 @@
     "ident": "UA-0025",
     "type": "medium_airport",
     "name": "Bila Tserkva Air Base",
-    "latitude_deg": "49.794998",
-    "longitude_deg": "30.030001",
-    "elevation_ft": "",
+    "latitude_deg": "49.795228",
+    "longitude_deg": "30.024435",
+    "elevation_ft": "584",
     "continent": "EU",
     "iso_country": "UA",
     "iso_region": "UA-32",
     "municipality": "Bila Tserkva",
     "scheduled_service": "no",
-    "gps_code": "",
+    "gps_code": "UKBC",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
@@ -53,10 +53,10 @@
         "id": "305991",
         "code": "UA-32",
         "local_code": "32",
-        "name": "Kiev Oblast",
+        "name": "Kyiv Oblast",
         "continent": "EU",
         "iso_country": "UA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kiev_Oblast",
-        "keywords": "Kyiv"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kyiv_Oblast",
+        "keywords": "Kiev"
     }
 }

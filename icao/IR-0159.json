@@ -1,0 +1,38 @@
+{
+    "id": "505026",
+    "ident": "IR-0159",
+    "type": "heliport",
+    "name": "Zafarghand Compressor Station Heliport",
+    "latitude_deg": "33.20162",
+    "longitude_deg": "52.45951",
+    "elevation_ft": "5666",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-10",
+    "municipality": "Zafarghand",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302637",
+        "code": "IR",
+        "name": "Iran",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iran",
+        "keywords": "فرودگاه های ایران"
+    },
+    "region": {
+        "id": "304222",
+        "code": "IR-10",
+        "local_code": "10",
+        "name": "Isfahan Province",
+        "continent": "AS",
+        "iso_country": "IR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Isfahan_Province",
+        "keywords": "Airports in Isfahan Province"
+    }
+}

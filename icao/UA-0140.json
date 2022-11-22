@@ -3,13 +3,13 @@
     "ident": "UA-0140",
     "type": "heliport",
     "name": "Kyiv Challenge Heliport",
-    "latitude_deg": "50.40645",
-    "longitude_deg": "30.57943",
+    "latitude_deg": "50.406424",
+    "longitude_deg": "30.579473",
     "elevation_ft": "314",
     "continent": "EU",
     "iso_country": "UA",
-    "iso_region": "UA-32",
-    "municipality": "Kiev",
+    "iso_region": "UA-30",
+    "municipality": "Kyiv",
     "scheduled_service": "no",
     "gps_code": "UKIH",
     "iata_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Аеропорти України"
     },
     "region": {
-        "id": "305991",
-        "code": "UA-32",
-        "local_code": "32",
-        "name": "Kiev Oblast",
+        "id": "305990",
+        "code": "UA-30",
+        "local_code": "30",
+        "name": "Kyiv (city)",
         "continent": "EU",
         "iso_country": "UA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kiev_Oblast",
-        "keywords": "Kyiv"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kyiv",
+        "keywords": "Kiev"
     }
 }

@@ -1,0 +1,38 @@
+{
+    "id": "505009",
+    "ident": "IR-0145",
+    "type": "closed",
+    "name": "Former Yasuj Airport",
+    "latitude_deg": "30.64278",
+    "longitude_deg": "51.58891",
+    "elevation_ft": "5830",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-17",
+    "municipality": "Yasuj",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302637",
+        "code": "IR",
+        "name": "Iran",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iran",
+        "keywords": "فرودگاه های ایران"
+    },
+    "region": {
+        "id": "304235",
+        "code": "IR-17",
+        "local_code": "17",
+        "name": "Kohgiluyeh and Boyer-Ahmad Province",
+        "continent": "AS",
+        "iso_country": "IR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kohgiluyeh_and_Boyer-Ahmad_Province",
+        "keywords": "Airports in Kohgiluyeh and Boyer-Ahmad Province"
+    }
+}

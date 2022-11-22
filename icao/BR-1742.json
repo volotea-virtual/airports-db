@@ -1,0 +1,38 @@
+{
+    "id": "504983",
+    "ident": "BR-1742",
+    "type": "closed",
+    "name": "Black Panther Helipad",
+    "latitude_deg": "-26.918019",
+    "longitude_deg": "-49.086358",
+    "elevation_ft": "108",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-SC",
+    "municipality": "Blumenau",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "SDOO",
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303222",
+        "code": "BR-SC",
+        "local_code": "SC",
+        "name": "Santa Catarina",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Catarina_(state)",
+        "keywords": "Airports in Santa Catarina"
+    }
+}

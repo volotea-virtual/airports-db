@@ -3,8 +3,8 @@
     "ident": "OIKK",
     "type": "medium_airport",
     "name": "Ayatollah Hashemi Rafsanjani International Airport",
-    "latitude_deg": "30.274401",
-    "longitude_deg": "56.951099",
+    "latitude_deg": "30.271276",
+    "longitude_deg": "56.949692",
     "elevation_ft": "5741",
     "continent": "AS",
     "iso_country": "IR",
@@ -15,7 +15,7 @@
     "iata_code": "KER",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "https://en.wikipedia.org/wiki/Kerman_Airport",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ayatollah_Hashemi_Rafsanjani_Airport",
     "keywords": "",
     "runways": [
         {
