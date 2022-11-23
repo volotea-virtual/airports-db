@@ -1,8 +1,8 @@
 {
     "id": "302299",
     "ident": "LUCL",
-    "type": "small_airport",
-    "name": "Ceadîr-Lunga Airport",
+    "type": "closed",
+    "name": "Ceadîr-Lunga Airfield",
     "latitude_deg": "46.034994",
     "longitude_deg": "28.851844",
     "elevation_ft": "587",
@@ -11,12 +11,12 @@
     "iso_region": "MD-GA",
     "municipality": "Ceadîr-Lunga",
     "scheduled_service": "no",
-    "gps_code": "LUCL",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Chadyr_Lunga_Airport",
-    "keywords": "Chadyr Lunga",
+    "keywords": "Chadyr Lunga, LUCL",
     "runways": [
         {
             "id": "302300",
