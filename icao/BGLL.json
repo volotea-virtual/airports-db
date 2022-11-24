@@ -3,16 +3,16 @@
     "ident": "BGLL",
     "type": "heliport",
     "name": "Illorsuit Heliport",
-    "latitude_deg": "71.2419440428",
-    "longitude_deg": "-53.5628771782",
+    "latitude_deg": "71.241944",
+    "longitude_deg": "-53.562877",
     "elevation_ft": "154",
     "continent": "NA",
     "iso_country": "GL",
-    "iso_region": "GL-U-A",
+    "iso_region": "GL-AV",
     "municipality": "Illorsuit",
     "scheduled_service": "no",
     "gps_code": "BGLL",
-    "iata_code": "",
+    "iata_code": "IOT",
     "local_code": "ILL",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Illorsuit_Heliport",
@@ -26,13 +26,13 @@
         "keywords": "Airports in Greenland"
     },
     "region": {
-        "id": "303853",
-        "code": "GL-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "505040",
+        "code": "GL-AV",
+        "local_code": "AV",
+        "name": "Avannaata Municipality",
         "continent": "NA",
         "iso_country": "GL",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Avannaata",
+        "keywords": ""
     }
 }

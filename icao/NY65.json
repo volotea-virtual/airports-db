@@ -1,7 +1,7 @@
 {
     "id": "23446",
     "ident": "NY65",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Circle K Ranch Airport",
     "latitude_deg": "43.136788",
     "longitude_deg": "-74.115357",
@@ -11,12 +11,12 @@
     "iso_region": "US-NY",
     "municipality": "Broadalbin",
     "scheduled_service": "no",
-    "gps_code": "NY65",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "NY65",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "NY65",
     "runways": [
         {
             "id": "247871",

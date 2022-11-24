@@ -3,8 +3,8 @@
     "ident": "SNUF",
     "type": "small_airport",
     "name": "Fazenda Treis Coringas Airport",
-    "latitude_deg": "-19.524444580078125",
-    "longitude_deg": "-47.852500915527344",
+    "latitude_deg": "-19.518497",
+    "longitude_deg": "-47.852107",
     "elevation_ft": "3264",
     "continent": "SA",
     "iso_country": "BR",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SNUF",
     "runways": [
         {
             "id": "260993",

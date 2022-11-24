@@ -3,12 +3,12 @@
     "ident": "BGGD",
     "type": "heliport",
     "name": "Kangilinnguit Heliport",
-    "latitude_deg": "61.2214781863",
-    "longitude_deg": "-48.1109654903",
+    "latitude_deg": "61.229042",
+    "longitude_deg": "-48.097136",
     "elevation_ft": "115",
     "continent": "NA",
     "iso_country": "GL",
-    "iso_region": "GL-U-A",
+    "iso_region": "GL-SE",
     "municipality": "Kangilinnguit",
     "scheduled_service": "no",
     "gps_code": "BGGD",
@@ -26,13 +26,13 @@
         "keywords": "Airports in Greenland"
     },
     "region": {
-        "id": "303853",
-        "code": "GL-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "505044",
+        "code": "GL-SE",
+        "local_code": "SE",
+        "name": "Sermersooq Municipality",
         "continent": "NA",
         "iso_country": "GL",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sermersooq",
+        "keywords": ""
     }
 }

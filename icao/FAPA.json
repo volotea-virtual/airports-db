@@ -3,8 +3,8 @@
     "ident": "FAPA",
     "type": "small_airport",
     "name": "Port Alfred Airport",
-    "latitude_deg": "-33.5541992188",
-    "longitude_deg": "26.877700805699998",
+    "latitude_deg": "-33.555057",
+    "longitude_deg": "26.881656",
     "elevation_ft": "275",
     "continent": "AF",
     "iso_country": "ZA",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Port_Alfred_Airport",
-    "keywords": "",
+    "keywords": "Port Alfred Aerodrome, Port Alfred Airfield",
     "runways": [
         {
             "id": "310597",

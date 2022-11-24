@@ -3,12 +3,12 @@
     "ident": "qfx",
     "type": "heliport",
     "name": "Igaliku Heliport",
-    "latitude_deg": "60.9920065221",
-    "longitude_deg": "-45.4323345423",
+    "latitude_deg": "60.99229",
+    "longitude_deg": "-45.431428",
     "elevation_ft": "",
     "continent": "NA",
     "iso_country": "GL",
-    "iso_region": "GL-U-A",
+    "iso_region": "GL-KU",
     "municipality": "Igaliku",
     "scheduled_service": "yes",
     "gps_code": "BGIO",
@@ -26,13 +26,13 @@
         "keywords": "Airports in Greenland"
     },
     "region": {
-        "id": "303853",
-        "code": "GL-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "505041",
+        "code": "GL-KU",
+        "local_code": "KU",
+        "name": "Kujalleq Municipality",
         "continent": "NA",
         "iso_country": "GL",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kujalleq",
+        "keywords": ""
     }
 }

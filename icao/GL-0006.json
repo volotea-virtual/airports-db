@@ -8,14 +8,14 @@
     "elevation_ft": "10523",
     "continent": "NA",
     "iso_country": "GL",
-    "iso_region": "GL-U-A",
-    "municipality": "Summit Station",
+    "iso_region": "GL-NE",
+    "municipality": "Summit Camp",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Summit_Camp",
     "keywords": "SUMUD",
     "runways": [
         {
@@ -50,13 +50,13 @@
         "keywords": "Airports in Greenland"
     },
     "region": {
-        "id": "303853",
-        "code": "GL-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "505045",
+        "code": "GL-NE",
+        "local_code": "NE",
+        "name": "Northeast Greenland National Park",
         "continent": "NA",
         "iso_country": "GL",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Northeast_Greenland_National_Park",
+        "keywords": ""
     }
 }

@@ -2,14 +2,14 @@
     "id": "44074",
     "ident": "BGTQ",
     "type": "heliport",
-    "name": "Tasiusaq (Kujalleq) Heliport",
-    "latitude_deg": "60.1943053097",
-    "longitude_deg": "-44.8134469986",
+    "name": "Tasiusaq Heliport",
+    "latitude_deg": "60.194305",
+    "longitude_deg": "-44.813447",
     "elevation_ft": "21",
     "continent": "NA",
     "iso_country": "GL",
-    "iso_region": "GL-U-A",
-    "municipality": "Nanortalik",
+    "iso_region": "GL-KU",
+    "municipality": "Tasiusak",
     "scheduled_service": "yes",
     "gps_code": "BGTQ",
     "iata_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Airports in Greenland"
     },
     "region": {
-        "id": "303853",
-        "code": "GL-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "505041",
+        "code": "GL-KU",
+        "local_code": "KU",
+        "name": "Kujalleq Municipality",
         "continent": "NA",
         "iso_country": "GL",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kujalleq",
+        "keywords": ""
     }
 }

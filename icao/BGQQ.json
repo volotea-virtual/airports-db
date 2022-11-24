@@ -3,12 +3,12 @@
     "ident": "BGQQ",
     "type": "small_airport",
     "name": "Qaanaaq Airport",
-    "latitude_deg": "77.4886016846",
-    "longitude_deg": "-69.3887023926",
+    "latitude_deg": "77.488602",
+    "longitude_deg": "-69.388702",
     "elevation_ft": "51",
     "continent": "NA",
     "iso_country": "GL",
-    "iso_region": "GL-U-A",
+    "iso_region": "GL-AV",
     "municipality": "Qaanaaq",
     "scheduled_service": "yes",
     "gps_code": "BGQQ",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Qaanaaq_Airport",
-    "keywords": "",
+    "keywords": "Mittarfik Qaanaaq, Thule",
     "runways": [
         {
             "id": "327506",
@@ -60,14 +60,14 @@
         "keywords": "Airports in Greenland"
     },
     "region": {
-        "id": "303853",
-        "code": "GL-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "505040",
+        "code": "GL-AV",
+        "local_code": "AV",
+        "name": "Avannaata Municipality",
         "continent": "NA",
         "iso_country": "GL",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Avannaata",
+        "keywords": ""
     },
     "navaids": [
         {

@@ -1,0 +1,38 @@
+{
+    "id": "505046",
+    "ident": "GL-0014",
+    "type": "small_airport",
+    "name": "EastGRIP Airport",
+    "latitude_deg": "75.63",
+    "longitude_deg": "-35.99",
+    "elevation_ft": "",
+    "continent": "NA",
+    "iso_country": "GL",
+    "iso_region": "GL-NE",
+    "municipality": "EastGRIP",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "East Greenland Ice-Core Project",
+    "country": {
+        "id": "302736",
+        "code": "GL",
+        "name": "Greenland",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Greenland",
+        "keywords": "Airports in Greenland"
+    },
+    "region": {
+        "id": "505045",
+        "code": "GL-NE",
+        "local_code": "NE",
+        "name": "Northeast Greenland National Park",
+        "continent": "NA",
+        "iso_country": "GL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Northeast_Greenland_National_Park",
+        "keywords": ""
+    }
+}

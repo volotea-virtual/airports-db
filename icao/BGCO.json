@@ -3,12 +3,12 @@
     "ident": "BGCO",
     "type": "small_airport",
     "name": "Neerlerit Inaat Airport",
-    "latitude_deg": "70.7431030273",
-    "longitude_deg": "-22.6504993439",
+    "latitude_deg": "70.743103",
+    "longitude_deg": "-22.650499",
     "elevation_ft": "45",
     "continent": "NA",
     "iso_country": "GL",
-    "iso_region": "GL-U-A",
+    "iso_region": "GL-SE",
     "municipality": "Neerlerit Inaat",
     "scheduled_service": "yes",
     "gps_code": "BGCO",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Nerlerit_Inaat_Airport",
-    "keywords": "Constable Point",
+    "keywords": "Constable Point, Mittarfik Nerlerit Inaat, Constable Pynt Lufthavn",
     "runways": [
         {
             "id": "258191",
@@ -60,14 +60,14 @@
         "keywords": "Airports in Greenland"
     },
     "region": {
-        "id": "303853",
-        "code": "GL-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "505044",
+        "code": "GL-SE",
+        "local_code": "SE",
+        "name": "Sermersooq Municipality",
         "continent": "NA",
         "iso_country": "GL",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sermersooq",
+        "keywords": ""
     },
     "navaids": [
         {

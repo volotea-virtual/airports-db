@@ -3,13 +3,13 @@
     "ident": "bgmo",
     "type": "heliport",
     "name": "Moriusaq Heliport",
-    "latitude_deg": "76.7534922147",
-    "longitude_deg": "-69.8450553417",
+    "latitude_deg": "76.753492",
+    "longitude_deg": "-69.845055",
     "elevation_ft": "44",
     "continent": "NA",
     "iso_country": "GL",
-    "iso_region": "GL-U-A",
-    "municipality": "",
+    "iso_region": "GL-AV",
+    "municipality": "Moriusaq",
     "scheduled_service": "yes",
     "gps_code": "BGMO",
     "iata_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Airports in Greenland"
     },
     "region": {
-        "id": "303853",
-        "code": "GL-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "505040",
+        "code": "GL-AV",
+        "local_code": "AV",
+        "name": "Avannaata Municipality",
         "continent": "NA",
         "iso_country": "GL",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Avannaata",
+        "keywords": ""
     }
 }

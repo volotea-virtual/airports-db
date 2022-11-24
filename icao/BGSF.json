@@ -8,7 +8,7 @@
     "elevation_ft": "165",
     "continent": "NA",
     "iso_country": "GL",
-    "iso_region": "GL-U-A",
+    "iso_region": "GL-QA",
     "municipality": "Kangerlussuaq",
     "scheduled_service": "yes",
     "gps_code": "BGSF",
@@ -76,14 +76,14 @@
         "keywords": "Airports in Greenland"
     },
     "region": {
-        "id": "303853",
-        "code": "GL-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "505043",
+        "code": "GL-QA",
+        "local_code": "QA",
+        "name": "Qeqqata Municipality",
         "continent": "NA",
         "iso_country": "GL",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Qeqqata",
+        "keywords": ""
     },
     "navaids": [
         {

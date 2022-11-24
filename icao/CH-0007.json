@@ -5,7 +5,7 @@
     "name": "Ulrichen Air Base",
     "latitude_deg": "46.50193",
     "longitude_deg": "8.299415",
-    "elevation_ft": "",
+    "elevation_ft": "4409",
     "continent": "EU",
     "iso_country": "CH",
     "iso_region": "CH-VS",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "LSMC, LSMC",
+    "keywords": "LSMC",
     "country": {
         "id": "302679",
         "code": "CH",
