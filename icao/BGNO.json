@@ -3,13 +3,13 @@
     "ident": "BGNO",
     "type": "heliport",
     "name": "Station Nord Heliport",
-    "latitude_deg": "81.6978444497",
-    "longitude_deg": "-17.8088378906",
+    "latitude_deg": "81.697844",
+    "longitude_deg": "-17.808838",
     "elevation_ft": "",
     "continent": "NA",
     "iso_country": "GL",
-    "iso_region": "GL-U-A",
-    "municipality": "",
+    "iso_region": "GL-NE",
+    "municipality": "Station Nord",
     "scheduled_service": "no",
     "gps_code": "BGNO",
     "iata_code": "",
@@ -44,13 +44,13 @@
         "keywords": "Airports in Greenland"
     },
     "region": {
-        "id": "303853",
-        "code": "GL-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "505045",
+        "code": "GL-NE",
+        "local_code": "NE",
+        "name": "Northeast Greenland National Park",
         "continent": "NA",
         "iso_country": "GL",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Northeast_Greenland_National_Park",
+        "keywords": ""
     }
 }

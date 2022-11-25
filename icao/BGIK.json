@@ -3,12 +3,12 @@
     "ident": "BGIK",
     "type": "heliport",
     "name": "Ikerassaarsuk Heliport",
-    "latitude_deg": "68.14088100629999",
-    "longitude_deg": "-53.4414589405",
+    "latitude_deg": "68.140881",
+    "longitude_deg": "-53.441459",
     "elevation_ft": "165",
     "continent": "NA",
     "iso_country": "GL",
-    "iso_region": "GL-U-A",
+    "iso_region": "GL-QK",
     "municipality": "Ikerassaarsuk",
     "scheduled_service": "yes",
     "gps_code": "BGIK",
@@ -26,13 +26,13 @@
         "keywords": "Airports in Greenland"
     },
     "region": {
-        "id": "303853",
-        "code": "GL-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "505042",
+        "code": "GL-QK",
+        "local_code": "QK",
+        "name": "Qeqertalik Municipality",
         "continent": "NA",
         "iso_country": "GL",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Qeqertalik",
+        "keywords": ""
     }
 }

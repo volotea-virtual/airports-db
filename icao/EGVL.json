@@ -1,7 +1,7 @@
 {
     "id": "314589",
     "ident": "EGVL",
-    "type": "closed",
+    "type": "small_airport",
     "name": "RAF Little Rissington",
     "latitude_deg": "51.8675",
     "longitude_deg": "-1.695333",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/RAF_Little_Rissington",
-    "keywords": "EGVL, EGVL",
+    "keywords": "EGVL",
     "country": {
         "id": "302688",
         "code": "GB",

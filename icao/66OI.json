@@ -2,9 +2,9 @@
     "id": "13040",
     "ident": "66OI",
     "type": "small_airport",
-    "name": "Gorman-Freeman Airport",
-    "latitude_deg": "40.7813987732",
-    "longitude_deg": "-82.0557022095",
+    "name": "Gorman-Green Airport",
+    "latitude_deg": "40.781386",
+    "longitude_deg": "-82.057614",
     "elevation_ft": "1210",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "66OI",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Gorman-Freeman Airport",
     "runways": [
         {
             "id": "257063",

@@ -3,13 +3,13 @@
     "ident": "GL-0013",
     "type": "closed",
     "name": "Teague Field",
-    "latitude_deg": "63.4319",
-    "longitude_deg": "-51.1533",
+    "latitude_deg": "63.432703",
+    "longitude_deg": "-51.161098",
     "elevation_ft": "",
     "continent": "NA",
     "iso_country": "GL",
-    "iso_region": "GL-U-A",
-    "municipality": "Sermersooq",
+    "iso_region": "GL-SE",
+    "municipality": "Marraq",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Airports in Greenland"
     },
     "region": {
-        "id": "303853",
-        "code": "GL-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "505044",
+        "code": "GL-SE",
+        "local_code": "SE",
+        "name": "Sermersooq Municipality",
         "continent": "NA",
         "iso_country": "GL",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sermersooq",
+        "keywords": ""
     }
 }

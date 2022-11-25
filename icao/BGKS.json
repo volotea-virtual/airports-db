@@ -8,7 +8,7 @@
     "elevation_ft": "112",
     "continent": "NA",
     "iso_country": "GL",
-    "iso_region": "GL-U-A",
+    "iso_region": "GL-AV",
     "municipality": "Kangersuatsiaq",
     "scheduled_service": "yes",
     "gps_code": "BGKS",
@@ -16,7 +16,7 @@
     "local_code": "KAQ",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Kangersuatsiaq_Heliport",
-    "keywords": "",
+    "keywords": "Kangerssuatsiaq, Prøven",
     "country": {
         "id": "302736",
         "code": "GL",
@@ -26,13 +26,13 @@
         "keywords": "Airports in Greenland"
     },
     "region": {
-        "id": "303853",
-        "code": "GL-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "505040",
+        "code": "GL-AV",
+        "local_code": "AV",
+        "name": "Avannaata Municipality",
         "continent": "NA",
         "iso_country": "GL",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Avannaata",
+        "keywords": ""
     }
 }

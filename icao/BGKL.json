@@ -3,12 +3,12 @@
     "ident": "BGKL",
     "type": "heliport",
     "name": "Upernavik Kujalleq Heliport",
-    "latitude_deg": "72.1527425265",
-    "longitude_deg": "-55.5309855938",
+    "latitude_deg": "72.152743",
+    "longitude_deg": "-55.530986",
     "elevation_ft": "92",
     "continent": "NA",
     "iso_country": "GL",
-    "iso_region": "GL-U-A",
+    "iso_region": "GL-AV",
     "municipality": "Upernavik Kujalleq",
     "scheduled_service": "yes",
     "gps_code": "BGKL",
@@ -16,7 +16,31 @@
     "local_code": "UPK",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Upernavik_Kujalleq_Heliport",
-    "keywords": "",
+    "keywords": "Søndre Upernavik",
+    "runways": [
+        {
+            "id": "505067",
+            "airport_ref": "43224",
+            "airport_ident": "BGKL",
+            "length_ft": "98",
+            "width_ft": "68",
+            "surface": "GVL",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302736",
         "code": "GL",
@@ -26,13 +50,13 @@
         "keywords": "Airports in Greenland"
     },
     "region": {
-        "id": "303853",
-        "code": "GL-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "505040",
+        "code": "GL-AV",
+        "local_code": "AV",
+        "name": "Avannaata Municipality",
         "continent": "NA",
         "iso_country": "GL",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Avannaata",
+        "keywords": ""
     }
 }

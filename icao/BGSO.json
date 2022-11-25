@@ -8,8 +8,8 @@
     "elevation_ft": "",
     "continent": "NA",
     "iso_country": "GL",
-    "iso_region": "GL-U-A",
-    "municipality": "",
+    "iso_region": "GL-KU",
+    "municipality": "Saarloq",
     "scheduled_service": "no",
     "gps_code": "BGSO",
     "iata_code": "QOQ",
@@ -26,13 +26,13 @@
         "keywords": "Airports in Greenland"
     },
     "region": {
-        "id": "303853",
-        "code": "GL-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "505041",
+        "code": "GL-KU",
+        "local_code": "KU",
+        "name": "Kujalleq Municipality",
         "continent": "NA",
         "iso_country": "GL",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kujalleq",
+        "keywords": ""
     }
 }

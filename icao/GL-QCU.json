@@ -2,21 +2,21 @@
     "id": "35284",
     "ident": "GL-QCU",
     "type": "heliport",
-    "name": "Akunaq Heliport",
-    "latitude_deg": "68.7442728315",
-    "longitude_deg": "-52.340369224499995",
+    "name": "Akunnaaq Heliport",
+    "latitude_deg": "68.744273",
+    "longitude_deg": "-52.340369",
     "elevation_ft": "59",
     "continent": "NA",
     "iso_country": "GL",
-    "iso_region": "GL-U-A",
-    "municipality": "",
+    "iso_region": "GL-QK",
+    "municipality": "Akunnaaq",
     "scheduled_service": "yes",
     "gps_code": "BGAK",
     "iata_code": "QCU",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Akunnaaq_Heliport",
-    "keywords": "Akunnaaq",
+    "keywords": "Akúnâk",
     "country": {
         "id": "302736",
         "code": "GL",
@@ -26,13 +26,13 @@
         "keywords": "Airports in Greenland"
     },
     "region": {
-        "id": "303853",
-        "code": "GL-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "505042",
+        "code": "GL-QK",
+        "local_code": "QK",
+        "name": "Qeqertalik Municipality",
         "continent": "NA",
         "iso_country": "GL",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Qeqertalik",
+        "keywords": ""
     }
 }

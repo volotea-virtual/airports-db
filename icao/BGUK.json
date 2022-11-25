@@ -3,12 +3,12 @@
     "ident": "BGUK",
     "type": "small_airport",
     "name": "Upernavik Airport",
-    "latitude_deg": "72.7901992798",
-    "longitude_deg": "-56.1305999756",
+    "latitude_deg": "72.790199",
+    "longitude_deg": "-56.1306",
     "elevation_ft": "414",
     "continent": "NA",
     "iso_country": "GL",
-    "iso_region": "GL-U-A",
+    "iso_region": "GL-AV",
     "municipality": "Upernavik",
     "scheduled_service": "yes",
     "gps_code": "BGUK",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Upernavik_Airport",
-    "keywords": "",
+    "keywords": "Mittarfik Upernavik",
     "runways": [
         {
             "id": "260078",
@@ -60,14 +60,14 @@
         "keywords": "Airports in Greenland"
     },
     "region": {
-        "id": "303853",
-        "code": "GL-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "505040",
+        "code": "GL-AV",
+        "local_code": "AV",
+        "name": "Avannaata Municipality",
         "continent": "NA",
         "iso_country": "GL",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Avannaata",
+        "keywords": ""
     },
     "navaids": [
         {
