@@ -3,8 +3,8 @@
     "ident": "EGSJ",
     "type": "small_airport",
     "name": "Seething Airfield",
-    "latitude_deg": "52.511100769",
-    "longitude_deg": "1.4172199964499999",
+    "latitude_deg": "52.510906",
+    "longitude_deg": "1.417086",
     "elevation_ft": "130",
     "continent": "EU",
     "iso_country": "GB",
@@ -14,7 +14,7 @@
     "gps_code": "EGSJ",
     "iata_code": "",
     "local_code": "",
-    "home_link": "http://www.seething-airfield.com/",
+    "home_link": "https://www.seething-airfield.co.uk/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Seething_Airfield",
     "keywords": "RAF Seething",
     "runways": [
@@ -47,8 +47,8 @@
             "airport_ref": "29183",
             "airport_ident": "EGSJ",
             "type": "A/G",
-            "description": "Seething A/G",
-            "frequency_mhz": "122.6"
+            "description": "Seething Radio",
+            "frequency_mhz": "118.435"
         }
     ],
     "country": {

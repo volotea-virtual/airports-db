@@ -2,9 +2,9 @@
     "id": "6086",
     "ident": "SETU",
     "type": "medium_airport",
-    "name": "Teniente Coronel Luis a Mantilla Airport",
-    "latitude_deg": "0.8095059990882874",
-    "longitude_deg": "-77.70809936523438",
+    "name": "Lieutenant Colonel Luis A. Mantilla International Airport",
+    "latitude_deg": "0.809506",
+    "longitude_deg": "-77.708099",
     "elevation_ft": "9649",
     "continent": "SA",
     "iso_country": "EC",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Teniente_Coronel_Luis_a_Mantilla_International_Airport",
-    "keywords": "",
+    "keywords": "Teniente Coronel Luis A. Mantilla",
     "runways": [
         {
             "id": "235499",

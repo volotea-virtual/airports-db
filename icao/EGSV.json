@@ -44,7 +44,7 @@
             "id": "249979",
             "airport_ref": "29193",
             "airport_ident": "EGSV",
-            "length_ft": "2096",
+            "length_ft": "2618",
             "width_ft": "59",
             "surface": "Asphalt",
             "lighted": "0",
@@ -92,7 +92,7 @@
             "airport_ident": "EGSV",
             "type": "A/G",
             "description": "Buckenham Radio",
-            "frequency_mhz": "124.4"
+            "frequency_mhz": "124.405"
         }
     ],
     "country": {

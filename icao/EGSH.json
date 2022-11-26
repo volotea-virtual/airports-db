@@ -2,7 +2,7 @@
     "id": "2475",
     "ident": "EGSH",
     "type": "medium_airport",
-    "name": "Norwich International Airport",
+    "name": "Norwich Airport",
     "latitude_deg": "52.6758",
     "longitude_deg": "1.28278",
     "elevation_ft": "117",
@@ -14,8 +14,8 @@
     "gps_code": "EGSH",
     "iata_code": "NWI",
     "local_code": "",
-    "home_link": "http://www.norwichairport.co.uk/",
-    "wikipedia_link": "https://en.wikipedia.org/wiki/Norwich_International_Airport",
+    "home_link": "https://www.norwichairport.co.uk/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Norwich_Airport",
     "keywords": "RAF Horsham St Faith",
     "runways": [
         {
@@ -44,20 +44,20 @@
             "id": "239510",
             "airport_ref": "2475",
             "airport_ident": "EGSH",
-            "length_ft": "6040",
+            "length_ft": "6041",
             "width_ft": "148",
-            "surface": "ASP",
+            "surface": "Concrete/Asphalt",
             "lighted": "1",
             "closed": "0",
             "le_ident": "09",
-            "le_latitude_deg": "52.67580032348633",
-            "le_longitude_deg": "1.2690500020980835",
+            "le_latitude_deg": "52.6758",
+            "le_longitude_deg": "1.26905",
             "le_elevation_ft": "117",
             "le_heading_degT": "90",
             "le_displaced_threshold_ft": "",
             "he_ident": "27",
-            "he_latitude_deg": "52.67599868774414",
-            "he_longitude_deg": "1.2962700128555298",
+            "he_latitude_deg": "52.675999",
+            "he_longitude_deg": "1.29627",
             "he_elevation_ft": "106",
             "he_heading_degT": "270",
             "he_displaced_threshold_ft": ""
@@ -69,32 +69,48 @@
             "airport_ref": "2475",
             "airport_ident": "EGSH",
             "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "119.35"
+            "description": "Norwich Approach",
+            "frequency_mhz": "119.355"
         },
         {
             "id": "58357",
             "airport_ref": "2475",
             "airport_ident": "EGSH",
             "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "128.625"
+            "description": "Norwich Information",
+            "frequency_mhz": "128.63"
+        },
+        {
+            "id": "505080",
+            "airport_ref": "2475",
+            "airport_ident": "EGSH",
+            "type": "DIR",
+            "description": "Norwich Director",
+            "frequency_mhz": "128.33"
+        },
+        {
+            "id": "505088",
+            "airport_ref": "2475",
+            "airport_ident": "EGSH",
+            "type": "HAN",
+            "description": "Norwich Handling",
+            "frequency_mhz": "131.855"
         },
         {
             "id": "307883",
             "airport_ref": "2475",
             "airport_ident": "EGSH",
             "type": "RDR",
-            "description": "Director",
-            "frequency_mhz": "128.325"
+            "description": "Norwich Radar / LARS",
+            "frequency_mhz": "119.355"
         },
         {
             "id": "58358",
             "airport_ref": "2475",
             "airport_ident": "EGSH",
             "type": "TWR",
-            "description": "TWR",
-            "frequency_mhz": "124.25"
+            "description": "Norwich Tower",
+            "frequency_mhz": "124.255"
         }
     ],
     "country": {
