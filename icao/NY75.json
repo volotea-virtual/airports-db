@@ -1,7 +1,7 @@
 {
     "id": "45551",
     "ident": "NY75",
-    "type": "heliport",
+    "type": "closed",
     "name": "Ch 12 News Woodbury Heliport",
     "latitude_deg": "40.804694",
     "longitude_deg": "-73.489611",
@@ -11,12 +11,12 @@
     "iso_region": "US-NY",
     "municipality": "Woodbury",
     "scheduled_service": "no",
-    "gps_code": "NY75",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "NY75",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "NY75",
     "runways": [
         {
             "id": "264241",
