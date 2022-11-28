@@ -3,13 +3,13 @@
     "ident": "VTBW",
     "type": "small_airport",
     "name": "Watthana Nakhon Airport",
-    "latitude_deg": "13.768799781799316",
-    "longitude_deg": "102.31500244140625",
+    "latitude_deg": "13.769203",
+    "longitude_deg": "102.316017",
     "elevation_ft": "200",
     "continent": "AS",
     "iso_country": "TH",
-    "iso_region": "TH-25",
-    "municipality": "",
+    "iso_region": "TH-27",
+    "municipality": "Watthana Nakhon",
     "scheduled_service": "no",
     "gps_code": "VTBW",
     "iata_code": "",
@@ -60,14 +60,14 @@
         "keywords": "Siam, Siamese"
     },
     "region": {
-        "id": "305722",
-        "code": "TH-25",
-        "local_code": "25",
-        "name": "Prachin Buri Province",
+        "id": "305724",
+        "code": "TH-27",
+        "local_code": "27",
+        "name": "Sa Kaeo Province",
         "continent": "AS",
         "iso_country": "TH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Prachin_Buri_province",
-        "keywords": "Airports in Prachin Buri Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sa_Kaeo_province",
+        "keywords": "Airports in Sa Kaeo Province"
     },
     "navaids": [
         {
