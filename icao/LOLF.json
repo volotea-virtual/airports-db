@@ -2,7 +2,7 @@
     "id": "29471",
     "ident": "LOLF",
     "type": "small_airport",
-    "name": "Freistadt Airport",
+    "name": "Freistadt Airfield",
     "latitude_deg": "48.513748",
     "longitude_deg": "14.406579",
     "elevation_ft": "2237",
@@ -15,7 +15,7 @@
     "iata_code": "",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Freistadt_Airport",
     "keywords": "",
     "runways": [
         {
