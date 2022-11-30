@@ -2,7 +2,7 @@
     "id": "38236",
     "ident": "YBAN",
     "type": "small_airport",
-    "name": "Mount Barnet Airport",
+    "name": "Mount Barnett Airport",
     "latitude_deg": "-16.741453",
     "longitude_deg": "125.905608",
     "elevation_ft": "1339",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Wananami",
     "runways": [
         {
             "id": "258250",
@@ -24,7 +24,7 @@
             "airport_ident": "YBAN",
             "length_ft": "4593",
             "width_ft": "",
-            "surface": "X",
+            "surface": "Dirt",
             "lighted": "0",
             "closed": "0",
             "le_ident": "05",

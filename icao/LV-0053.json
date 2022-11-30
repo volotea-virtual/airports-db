@@ -1,0 +1,38 @@
+{
+    "id": "505139",
+    "ident": "LV-0053",
+    "type": "small_airport",
+    "name": "Gātciema Airfield",
+    "latitude_deg": "56.9212",
+    "longitude_deg": "23.64144",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "LV",
+    "iso_region": "LV-087",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302702",
+        "code": "LV",
+        "name": "Latvia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Latvia",
+        "keywords": "Latvian airports"
+    },
+    "region": {
+        "id": "353753",
+        "code": "LV-087",
+        "local_code": "087",
+        "name": "Salaspils Municipality",
+        "continent": "EU",
+        "iso_country": "LV",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Salaspils_Municipality",
+        "keywords": "Airports in Salaspils Municipality"
+    }
+}
