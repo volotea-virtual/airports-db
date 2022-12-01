@@ -9,14 +9,14 @@
     "continent": "SA",
     "iso_country": "BR",
     "iso_region": "BR-MT",
-    "municipality": "Lambari D`Oeste",
+    "municipality": "Lambari d`Oeste",
     "scheduled_service": "no",
-    "gps_code": "SWSM",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "SWSM",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SWSM",
     "runways": [
         {
             "id": "234379",
