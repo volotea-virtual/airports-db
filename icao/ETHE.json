@@ -1,8 +1,8 @@
 {
     "id": "2723",
     "ident": "ETHE",
-    "type": "closed",
-    "name": "Rheine Bentlage Air Base",
+    "type": "small_airport",
+    "name": "Rheine-Bentlage Airfield",
     "latitude_deg": "52.291199",
     "longitude_deg": "7.387",
     "elevation_ft": "129",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Rheine-Bentlage_Air_Base",
-    "keywords": "ETHE, ETHE",
+    "keywords": "ETHE",
     "runways": [
         {
             "id": "236315",
