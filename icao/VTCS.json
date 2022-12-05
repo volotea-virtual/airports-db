@@ -24,7 +24,7 @@
             "airport_ident": "VTCS",
             "length_ft": "",
             "width_ft": "",
-            "surface": "",
+            "surface": "Asphalt",
             "lighted": "0",
             "closed": "0",
             "le_ident": "01",
@@ -39,6 +39,16 @@
             "he_elevation_ft": "",
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "505237",
+            "airport_ref": "32598",
+            "airport_ident": "VTCS",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "122.3"
         }
     ],
     "country": {
