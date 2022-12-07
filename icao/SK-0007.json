@@ -1,7 +1,7 @@
 {
     "id": "316298",
     "ident": "SK-0007",
-    "type": "closed",
+    "type": "small_airport",
     "name": "Malý Madaras",
     "latitude_deg": "48.142222",
     "longitude_deg": "17.377222",
@@ -13,7 +13,7 @@
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
-    "local_code": "",
+    "local_code": "LKMADA",
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
