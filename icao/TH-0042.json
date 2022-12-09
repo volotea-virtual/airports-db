@@ -24,7 +24,7 @@
             "airport_ident": "TH-0042",
             "length_ft": "",
             "width_ft": "",
-            "surface": "",
+            "surface": "Asphalt",
             "lighted": "0",
             "closed": "0",
             "le_ident": "12",
@@ -44,14 +44,6 @@
     "freqs": [
         {
             "id": "505239",
-            "airport_ref": "505238",
-            "airport_ident": "TH-0042",
-            "type": "CTAF",
-            "description": "",
-            "frequency_mhz": "123"
-        },
-        {
-            "id": "505240",
             "airport_ref": "505238",
             "airport_ident": "TH-0042",
             "type": "CTAF",

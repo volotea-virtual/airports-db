@@ -43,6 +43,14 @@
     ],
     "freqs": [
         {
+            "id": "505317",
+            "airport_ref": "32595",
+            "airport_ident": "VTBT",
+            "type": "Approach",
+            "description": "UTapao Approach",
+            "frequency_mhz": "119.7"
+        },
+        {
             "id": "354714",
             "airport_ref": "32595",
             "airport_ident": "VTBT",
