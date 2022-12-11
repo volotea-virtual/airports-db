@@ -1,7 +1,7 @@
 {
     "id": "2746",
     "ident": "ETOR",
-    "type": "closed",
+    "type": "small_airport",
     "name": "Coleman Army Air Field",
     "latitude_deg": "49.563599",
     "longitude_deg": "8.46339",
@@ -11,12 +11,12 @@
     "iso_region": "DE-BW",
     "municipality": "",
     "scheduled_service": "no",
-    "gps_code": "",
+    "gps_code": "ETOR",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "ETOR, ETOR",
+    "keywords": "",
     "runways": [
         {
             "id": "236260",

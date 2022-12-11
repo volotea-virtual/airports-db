@@ -3,8 +3,8 @@
     "ident": "CYWJ",
     "type": "medium_airport",
     "name": "Déline Airport",
-    "latitude_deg": "65.21109771728516",
-    "longitude_deg": "-123.43599700927734",
+    "latitude_deg": "65.211098",
+    "longitude_deg": "-123.435997",
     "elevation_ft": "703",
     "continent": "NA",
     "iso_country": "CA",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Deline_Airport",
-    "keywords": "",
+    "keywords": "Délı̨nę, Fort Franklin",
     "runways": [
         {
             "id": "259652",
