@@ -3,8 +3,8 @@
     "ident": "LFPO",
     "type": "large_airport",
     "name": "Paris-Orly Airport",
-    "latitude_deg": "48.726528",
-    "longitude_deg": "2.362061",
+    "latitude_deg": "48.72333",
+    "longitude_deg": "2.37944",
     "elevation_ft": "291",
     "continent": "EU",
     "iso_country": "FR",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Orly_Airport",
-    "keywords": "PAR",
+    "keywords": "",
     "runways": [
         {
             "id": "236054",

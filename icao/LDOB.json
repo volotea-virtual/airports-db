@@ -1,7 +1,7 @@
 {
     "id": "30543",
     "ident": "LDOB",
-    "type": "closed",
+    "type": "small_airport",
     "name": "Vukovar Borovo N Airport",
     "latitude_deg": "45.386398",
     "longitude_deg": "18.962799",
@@ -11,12 +11,12 @@
     "iso_region": "HR-16",
     "municipality": "Vukovar",
     "scheduled_service": "no",
-    "gps_code": "",
+    "gps_code": "LDOB",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "LDOB, LDOB",
+    "keywords": "",
     "runways": [
         {
             "id": "260085",

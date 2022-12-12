@@ -14,7 +14,7 @@
     "gps_code": "ZMCK",
     "iata_code": "UBN",
     "local_code": "",
-    "home_link": "",
+    "home_link": "https://ulaanbaatar-airport.mn/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/New_Ulaanbaatar_International_Airport",
     "keywords": "Khöshig Valley",
     "runways": [
@@ -42,6 +42,14 @@
         }
     ],
     "freqs": [
+        {
+            "id": "505380",
+            "airport_ref": "335326",
+            "airport_ident": "ZMCK",
+            "type": "APP",
+            "description": "",
+            "frequency_mhz": "120"
+        },
         {
             "id": "346826",
             "airport_ref": "335326",
