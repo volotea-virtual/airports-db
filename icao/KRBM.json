@@ -3,8 +3,8 @@
     "ident": "KRBM",
     "type": "small_airport",
     "name": "Robinson Army Air Field",
-    "latitude_deg": "34.85010147",
-    "longitude_deg": "-92.30020142",
+    "latitude_deg": "34.846757",
+    "longitude_deg": "-92.300304",
     "elevation_ft": "587",
     "continent": "NA",
     "iso_country": "US",
@@ -15,7 +15,7 @@
     "iata_code": "",
     "local_code": "RBM",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Robinson_Army_Airfield",
     "keywords": "",
     "runways": [
         {

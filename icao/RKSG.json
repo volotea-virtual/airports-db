@@ -2,9 +2,9 @@
     "id": "5652",
     "ident": "RKSG",
     "type": "medium_airport",
-    "name": "Camp Humphreys (A-511) Airfield",
-    "latitude_deg": "36.9622",
-    "longitude_deg": "127.030998",
+    "name": "Camp Humphreys (A-511) Desiderio Army Airfield",
+    "latitude_deg": "36.962363",
+    "longitude_deg": "127.031126",
     "elevation_ft": "51",
     "continent": "AS",
     "iso_country": "KR",
@@ -15,7 +15,7 @@
     "iata_code": "",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Camp_Humphreys",
     "keywords": "",
     "runways": [
         {

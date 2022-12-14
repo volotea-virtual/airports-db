@@ -6,7 +6,7 @@
     "latitude_deg": "19.760099",
     "longitude_deg": "-155.554001",
     "elevation_ft": "6190",
-    "continent": "OC",
+    "continent": "NA",
     "iso_country": "US",
     "iso_region": "US-HI",
     "municipality": "Waimea (Kamuela)",
@@ -15,8 +15,8 @@
     "iata_code": "BSF",
     "local_code": "BSF",
     "home_link": "",
-    "wikipedia_link": "",
-    "keywords": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Pohakuloa_Training_Area",
+    "keywords": "Pohakuloa",
     "runways": [
         {
             "id": "244859",

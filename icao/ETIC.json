@@ -3,8 +3,8 @@
     "ident": "ETIC",
     "type": "medium_airport",
     "name": "Grafenwohr Army Air Field",
-    "latitude_deg": "49.698699951171875",
-    "longitude_deg": "11.940199851989746",
+    "latitude_deg": "49.6987",
+    "longitude_deg": "11.9402",
     "elevation_ft": "1363",
     "continent": "EU",
     "iso_country": "DE",
@@ -15,7 +15,7 @@
     "iata_code": "",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Grafenw%C3%B6hr_Army_Airfield",
     "keywords": "",
     "runways": [
         {

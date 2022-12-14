@@ -1,7 +1,7 @@
 {
     "id": "5364",
     "ident": "PAFR",
-    "type": "small_airport",
+    "type": "heliport",
     "name": "Bryant Army Airfield",
     "latitude_deg": "61.266399",
     "longitude_deg": "-149.653",

@@ -3,8 +3,8 @@
     "ident": "KGOV",
     "type": "small_airport",
     "name": "Grayling Army Air Field",
-    "latitude_deg": "44.680301666259766",
-    "longitude_deg": "-84.72889709472656",
+    "latitude_deg": "44.680302",
+    "longitude_deg": "-84.728897",
     "elevation_ft": "1158",
     "continent": "NA",
     "iso_country": "US",
@@ -15,7 +15,7 @@
     "iata_code": "",
     "local_code": "GOV",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Grayling_Army_Airfield",
     "keywords": "",
     "runways": [
         {
