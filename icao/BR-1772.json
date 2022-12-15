@@ -1,0 +1,38 @@
+{
+    "id": "505435",
+    "ident": "BR-1772",
+    "type": "small_airport",
+    "name": "Fazenda Olho d'Água Airport",
+    "latitude_deg": "-18.269167",
+    "longitude_deg": "-54.593056",
+    "elevation_ft": "833",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MS",
+    "municipality": "Pedro Gomes",
+    "scheduled_service": "no",
+    "gps_code": "SSOX",
+    "iata_code": "",
+    "local_code": "MS0318",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303210",
+        "code": "BR-MS",
+        "local_code": "MS",
+        "name": "Mato Grosso do Sul",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mato_Grosso_do_Sul",
+        "keywords": "Airports in Mato Grosso do Sul"
+    }
+}

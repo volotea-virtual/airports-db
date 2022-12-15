@@ -10,12 +10,12 @@
     "iso_country": "IR",
     "iso_region": "IR-17",
     "municipality": "Gachsaran",
-    "scheduled_service": "no",
+    "scheduled_service": "yes",
     "gps_code": "OIAH",
     "iata_code": "GCH",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Gachsaran_Airport",
     "keywords": "",
     "runways": [
         {

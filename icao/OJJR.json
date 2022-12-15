@@ -8,15 +8,15 @@
     "elevation_ft": "2485",
     "continent": "AS",
     "iso_country": "PS",
-    "iso_region": "PS-U-A",
-    "municipality": "Jerusalem",
+    "iso_region": "PS-JEM",
+    "municipality": "Qalandiya",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Atarot_Airport",
-    "keywords": "Palestine, West Bank, Atarot Airport, LLJR, OJJR, JRS, LLJR",
+    "keywords": "Palestine, West Bank, Atarot Airport, LLJR, OJJR, JRS",
     "runways": [
         {
             "id": "246217",
@@ -68,14 +68,14 @@
         "keywords": "Palestinian airports"
     },
     "region": {
-        "id": "305166",
-        "code": "PS-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "316600",
+        "code": "PS-JEM",
+        "local_code": "JEM",
+        "name": "Jerusalem Governorate",
         "continent": "AS",
         "iso_country": "PS",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Jerusalem_Governorate",
+        "keywords": "محافظة القدس"
     },
     "navaids": [
         {

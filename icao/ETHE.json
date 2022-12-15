@@ -11,12 +11,12 @@
     "iso_region": "DE-NW",
     "municipality": "",
     "scheduled_service": "no",
-    "gps_code": "",
+    "gps_code": "ETHE",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Rheine-Bentlage_Air_Base",
-    "keywords": "ETHE",
+    "keywords": "",
     "runways": [
         {
             "id": "236315",

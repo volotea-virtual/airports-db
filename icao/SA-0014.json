@@ -2,7 +2,7 @@
     "id": "340211",
     "ident": "SA-0014",
     "type": "small_airport",
-    "name": "Wadi Al Asalah Airfield",
+    "name": "Wadi Al Musayr Airfield",
     "latitude_deg": "28.13516",
     "longitude_deg": "34.92503",
     "elevation_ft": "",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Wadi Al Asalah",
     "country": {
         "id": "302660",
         "code": "SA",
