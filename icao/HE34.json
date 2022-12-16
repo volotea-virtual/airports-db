@@ -3,12 +3,12 @@
     "ident": "HE34",
     "type": "small_airport",
     "name": "Kibrit Airport",
-    "latitude_deg": "30.24690055847168",
-    "longitude_deg": "32.4922981262207",
+    "latitude_deg": "30.246901",
+    "longitude_deg": "32.492298",
     "elevation_ft": "22",
     "continent": "AF",
     "iso_country": "EG",
-    "iso_region": "EG-SUZ",
+    "iso_region": "EG-IS",
     "municipality": "Kibrit",
     "scheduled_service": "no",
     "gps_code": "",
@@ -72,13 +72,13 @@
         "keywords": "مطارات مصر, Egyptian airports"
     },
     "region": {
-        "id": "303715",
-        "code": "EG-SUZ",
-        "local_code": "SUZ",
-        "name": "Suez Governorate",
+        "id": "303703",
+        "code": "EG-IS",
+        "local_code": "IS",
+        "name": "Ismailia Governorate",
         "continent": "AF",
         "iso_country": "EG",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Suez_Governorate",
-        "keywords": "Airports in Suez Governorate"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ismailia_Governorate",
+        "keywords": "Airports in Ismailia Governorate"
     }
 }

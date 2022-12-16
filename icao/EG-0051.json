@@ -1,0 +1,38 @@
+{
+    "id": "505463",
+    "ident": "EG-0051",
+    "type": "heliport",
+    "name": "Martyr Ahmed El-Mansy Floating Bridge Heliport",
+    "latitude_deg": "30.04307",
+    "longitude_deg": "32.58078",
+    "elevation_ft": "46",
+    "continent": "AF",
+    "iso_country": "EG",
+    "iso_region": "EG-SUZ",
+    "municipality": "Al Ganayen",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302569",
+        "code": "EG",
+        "name": "Egypt",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Egypt",
+        "keywords": "مطارات مصر, Egyptian airports"
+    },
+    "region": {
+        "id": "303715",
+        "code": "EG-SUZ",
+        "local_code": "SUZ",
+        "name": "Suez Governorate",
+        "continent": "AF",
+        "iso_country": "EG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Suez_Governorate",
+        "keywords": "Airports in Suez Governorate"
+    }
+}

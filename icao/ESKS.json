@@ -9,14 +9,14 @@
     "continent": "EU",
     "iso_country": "SE",
     "iso_region": "SE-W",
-    "municipality": "Sälen / Trysil",
+    "municipality": "Malung-Sälen",
     "scheduled_service": "yes",
     "gps_code": "ESKS",
     "iata_code": "SCR",
     "local_code": "",
     "home_link": "https://scandinavianmountains.se/en/home/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Scandinavian_Mountains_Airport",
-    "keywords": "Sälens Flygplats",
+    "keywords": "Sälens Flygplats, Trysil",
     "runways": [
         {
             "id": "332180",

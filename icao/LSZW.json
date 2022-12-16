@@ -2,7 +2,7 @@
     "id": "29530",
     "ident": "LSZW",
     "type": "small_airport",
-    "name": "Flugplatz Thun",
+    "name": "Thun Airfield",
     "latitude_deg": "46.756401",
     "longitude_deg": "7.60056",
     "elevation_ft": "1837",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "http://www.thun-airfield.ch",
     "wikipedia_link": "",
-    "keywords": "Thun airport, Flugplatz Thun, FVT",
+    "keywords": "Flugplatz Thun, FVT",
     "runways": [
         {
             "id": "255977",
