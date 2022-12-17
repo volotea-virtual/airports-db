@@ -11,12 +11,12 @@
     "iso_region": "US-CO",
     "municipality": "Springfield",
     "scheduled_service": "no",
-    "gps_code": "KSPD",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "8V7",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "KSPD",
     "runways": [
         {
             "id": "245962",
