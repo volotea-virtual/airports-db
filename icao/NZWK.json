@@ -101,6 +101,14 @@
             "type": "CTAF",
             "description": "CTAF",
             "frequency_mhz": "118.6"
+        },
+        {
+            "id": "505567",
+            "airport_ref": "5062",
+            "airport_ident": "NZWK",
+            "type": "PAL",
+            "description": "5 Pulses at 1s interval activates lights for 30min.",
+            "frequency_mhz": "118.6"
         }
     ],
     "country": {
