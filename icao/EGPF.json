@@ -89,6 +89,14 @@
             "frequency_mhz": "129.575"
         },
         {
+            "id": "505578",
+            "airport_ref": "2461",
+            "airport_ident": "EGPF",
+            "type": "everything",
+            "description": "",
+            "frequency_mhz": "455.837"
+        },
+        {
             "id": "58397",
             "airport_ref": "2461",
             "airport_ident": "EGPF",
