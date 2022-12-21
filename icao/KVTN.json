@@ -3,8 +3,8 @@
     "ident": "KVTN",
     "type": "medium_airport",
     "name": "Miller Field",
-    "latitude_deg": "42.85779953",
-    "longitude_deg": "-100.5479965",
+    "latitude_deg": "42.856211",
+    "longitude_deg": "-100.549192",
     "elevation_ft": "2596",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "VTN",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Miller_Field_(airport)",
-    "keywords": "",
+    "keywords": "Valentine Municipal Airport",
     "runways": [
         {
             "id": "245581",

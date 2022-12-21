@@ -3,8 +3,8 @@
     "ident": "KCFS",
     "type": "small_airport",
     "name": "Tuscola Area Airport",
-    "latitude_deg": "43.458801269531",
-    "longitude_deg": "-83.445503234863",
+    "latitude_deg": "43.458801",
+    "longitude_deg": "-83.445503",
     "elevation_ft": "701",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "CFS",
     "home_link": "http://www.michigan.gov/aero/0,4533,7-145-61367-277436--,00.html",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Tuscola_Area_Airport",
-    "keywords": "78D",
+    "keywords": "78D, Caro Municipal Airport",
     "runways": [
         {
             "id": "245186",

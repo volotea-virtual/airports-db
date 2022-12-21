@@ -2,7 +2,7 @@
     "id": "43982",
     "ident": "LHEC",
     "type": "closed",
-    "name": "Érsekcsanád Airport",
+    "name": "Érsekcsanád Airfield",
     "latitude_deg": "46.249608",
     "longitude_deg": "18.927609",
     "elevation_ft": "285",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "LHEC, LHEC",
+    "keywords": "LHEC",
     "runways": [
         {
             "id": "313777",
