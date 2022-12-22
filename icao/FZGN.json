@@ -3,12 +3,12 @@
     "ident": "FZGN",
     "type": "small_airport",
     "name": "Boende Airport",
-    "latitude_deg": "-0.21699999272823334",
-    "longitude_deg": "20.850000381469727",
+    "latitude_deg": "-0.286652",
+    "longitude_deg": "20.883551",
     "elevation_ft": "1168",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-EQ",
+    "iso_region": "CD-TU",
     "municipality": "Boende",
     "scheduled_service": "no",
     "gps_code": "FZGN",
@@ -26,14 +26,14 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303311",
-        "code": "CD-EQ",
-        "local_code": "EQ",
-        "name": "Equateur Province",
+        "id": "505653",
+        "code": "CD-TU",
+        "local_code": "TU",
+        "name": "Tshuapa Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Equateur_Province",
-        "keywords": "Airports in Equateur Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tshuapa",
+        "keywords": "Airports in Tshuapa Province"
     },
     "navaids": [
         {

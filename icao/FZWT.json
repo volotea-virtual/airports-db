@@ -3,12 +3,12 @@
     "ident": "FZWT",
     "type": "small_airport",
     "name": "Tunta Airport",
-    "latitude_deg": "-6.132999897",
-    "longitude_deg": "24.4829998016",
+    "latitude_deg": "-6.120761",
+    "longitude_deg": "24.546204",
     "elevation_ft": "2766",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-KE",
+    "iso_region": "CD-LO",
     "municipality": "Kabinda",
     "scheduled_service": "no",
     "gps_code": "FZWT",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303314",
-        "code": "CD-KE",
-        "local_code": "KE",
-        "name": "Kasai-Oriental Province",
+        "id": "505647",
+        "code": "CD-LO",
+        "local_code": "LO",
+        "name": "Lomami Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kasai-Oriental_Province",
-        "keywords": "Airports in Kasai-Oriental Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lomami_Province",
+        "keywords": "Airports in Lomami Province"
     }
 }

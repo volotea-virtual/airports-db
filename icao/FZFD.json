@@ -8,7 +8,7 @@
     "elevation_ft": "1509",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-EQ",
+    "iso_region": "CD-NU",
     "municipality": "Gbadolite",
     "scheduled_service": "yes",
     "gps_code": "FZFD",
@@ -60,14 +60,14 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303311",
-        "code": "CD-EQ",
-        "local_code": "EQ",
-        "name": "Equateur Province",
+        "id": "505649",
+        "code": "CD-NU",
+        "local_code": "NU",
+        "name": "Nord-Ubangi Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Equateur_Province",
-        "keywords": "Airports in Equateur Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nord-Ubangi",
+        "keywords": "Airports in Nord-Ubangi Province"
     },
     "navaids": [
         {

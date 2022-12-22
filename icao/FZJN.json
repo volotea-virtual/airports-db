@@ -3,12 +3,12 @@
     "ident": "FZJN",
     "type": "small_airport",
     "name": "Luniemu Airport",
-    "latitude_deg": "-8.199999809265137",
-    "longitude_deg": "24.732999801635742",
+    "latitude_deg": "-8.208429",
+    "longitude_deg": "24.702759",
     "elevation_ft": "3272",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-KA",
+    "iso_region": "CD-HL",
     "municipality": "Luniemu",
     "scheduled_service": "no",
     "gps_code": "FZJN",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303313",
-        "code": "CD-KA",
-        "local_code": "KA",
-        "name": "Katanga Province",
+        "id": "505637",
+        "code": "CD-HL",
+        "local_code": "HL",
+        "name": "Haut-Lomami Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Katanga_Province",
-        "keywords": "Airports in Katanga Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Haut-Lomami",
+        "keywords": "Airports in Haut-Lomami Province"
     }
 }

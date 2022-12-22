@@ -1,0 +1,38 @@
+{
+    "id": "505636",
+    "ident": "BT-0007",
+    "type": "heliport",
+    "name": "Buli Heliport",
+    "latitude_deg": "27.16639",
+    "longitude_deg": "90.81797",
+    "elevation_ft": "5545",
+    "continent": "AS",
+    "iso_country": "BT",
+    "iso_region": "BT-34",
+    "municipality": "Buli",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302625",
+        "code": "BT",
+        "name": "Bhutan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bhutan",
+        "keywords": "Bhutanese airports"
+    },
+    "region": {
+        "id": "303261",
+        "code": "BT-34",
+        "local_code": "34",
+        "name": "Zhemgang District",
+        "continent": "AS",
+        "iso_country": "BT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Zhemgang_District",
+        "keywords": "Airports in Zhemgang, Shemgang"
+    }
+}

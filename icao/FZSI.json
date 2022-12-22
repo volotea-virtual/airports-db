@@ -8,7 +8,7 @@
     "elevation_ft": "3378",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-KA",
+    "iso_region": "CD-HK",
     "municipality": "Dilolo",
     "scheduled_service": "no",
     "gps_code": "FZSI",
@@ -27,12 +27,12 @@
     },
     "region": {
         "id": "303313",
-        "code": "CD-KA",
-        "local_code": "KA",
-        "name": "Katanga Province",
+        "code": "CD-HK",
+        "local_code": "HK",
+        "name": "Haut-Katanga Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Katanga_Province",
-        "keywords": "Airports in Katanga Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Haut-Katanga_Province",
+        "keywords": "Airports in Haut-Katanga Province"
     }
 }

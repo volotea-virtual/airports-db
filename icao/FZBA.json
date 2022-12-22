@@ -3,12 +3,12 @@
     "ident": "FZBA",
     "type": "small_airport",
     "name": "Inongo Airport",
-    "latitude_deg": "-1.947219967842102",
-    "longitude_deg": "18.28580093383789",
+    "latitude_deg": "-1.94722",
+    "longitude_deg": "18.285801",
     "elevation_ft": "1040",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-BN",
+    "iso_region": "CD-MN",
     "municipality": "Inongo",
     "scheduled_service": "yes",
     "gps_code": "FZBA",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303310",
-        "code": "CD-BN",
-        "local_code": "BN",
-        "name": "Bandundu Province",
+        "id": "505639",
+        "code": "CD-MN",
+        "local_code": "MN",
+        "name": "Mai-Ndombe Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bandundu_Province",
-        "keywords": "Airports in Bandundu Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mai-Ndombe_Province",
+        "keywords": "Airports in Mai-Ndombe Province"
     }
 }

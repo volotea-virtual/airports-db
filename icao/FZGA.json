@@ -8,8 +8,8 @@
     "elevation_ft": "1509",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-EQ",
-    "municipality": "",
+    "iso_region": "CD-MO",
+    "municipality": "Lisala",
     "scheduled_service": "no",
     "gps_code": "FZGA",
     "iata_code": "LIQ",
@@ -60,14 +60,14 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303311",
-        "code": "CD-EQ",
-        "local_code": "EQ",
-        "name": "Equateur Province",
+        "id": "505648",
+        "code": "CD-MO",
+        "local_code": "MO",
+        "name": "Mongala Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Equateur_Province",
-        "keywords": "Airports in Equateur Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mongala",
+        "keywords": "Airports in Mongala Province"
     },
     "navaids": [
         {

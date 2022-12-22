@@ -3,13 +3,13 @@
     "ident": "FZJH",
     "type": "medium_airport",
     "name": "Matari Airport",
-    "latitude_deg": "2.8276100158691406",
-    "longitude_deg": "27.588300704956055",
+    "latitude_deg": "2.82761",
+    "longitude_deg": "27.588301",
     "elevation_ft": "2438",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-OR",
-    "municipality": "",
+    "iso_region": "CD-HU",
+    "municipality": "Isiro",
     "scheduled_service": "yes",
     "gps_code": "FZJH",
     "iata_code": "IRP",
@@ -60,14 +60,14 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303319",
-        "code": "CD-OR",
-        "local_code": "OR",
-        "name": "Orientale Province",
+        "id": "505654",
+        "code": "CD-HU",
+        "local_code": "HU",
+        "name": "Haut-Uélé Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Orientale_Province",
-        "keywords": "Airports in Orientale Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Haut-U%C3%A9l%C3%A9",
+        "keywords": "Airports in Haut-Uélé Province"
     },
     "navaids": [
         {

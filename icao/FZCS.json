@@ -3,12 +3,12 @@
     "ident": "FZCS",
     "type": "small_airport",
     "name": "Kenge Airport",
-    "latitude_deg": "-4.838890075683594",
-    "longitude_deg": "17.029199600219727",
+    "latitude_deg": "-4.837882",
+    "longitude_deg": "17.029452",
     "elevation_ft": "1808",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-BN",
+    "iso_region": "CD-KW",
     "municipality": "Kenge",
     "scheduled_service": "no",
     "gps_code": "FZCS",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303310",
-        "code": "CD-BN",
-        "local_code": "BN",
-        "name": "Bandundu Province",
+        "id": "505646",
+        "code": "CD-KW",
+        "local_code": "KW",
+        "name": "Kwango Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bandundu_Province",
-        "keywords": "Airports in Bandundu Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kwango",
+        "keywords": "Airports in Kwango Province"
     }
 }

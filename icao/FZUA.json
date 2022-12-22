@@ -3,12 +3,12 @@
     "ident": "FZUA",
     "type": "medium_airport",
     "name": "Kananga Airport",
-    "latitude_deg": "-5.90005016327",
-    "longitude_deg": "22.4692001343",
+    "latitude_deg": "-5.90005",
+    "longitude_deg": "22.4692",
     "elevation_ft": "2139",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-KW",
+    "iso_region": "CD-KC",
     "municipality": "Kananga",
     "scheduled_service": "yes",
     "gps_code": "FZUA",
@@ -60,14 +60,14 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303316",
-        "code": "CD-KW",
-        "local_code": "KW",
-        "name": "Kasai-Occidental Province",
+        "id": "505641",
+        "code": "CD-KC",
+        "local_code": "KC",
+        "name": "Kasaï-Central Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kasai-Occidental_Province",
-        "keywords": "Airports in Kasai-Occidental Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kasa%C3%AF-Central",
+        "keywords": "Airports in Kasaï-Central Province"
     },
     "navaids": [
         {

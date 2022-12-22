@@ -8,7 +8,7 @@
     "elevation_ft": "2461",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-KW",
+    "iso_region": "CD-KI",
     "municipality": "Katubwe",
     "scheduled_service": "no",
     "gps_code": "FZUT",
@@ -27,12 +27,12 @@
     },
     "region": {
         "id": "303316",
-        "code": "CD-KW",
-        "local_code": "KW",
-        "name": "Kasai-Occidental Province",
+        "code": "CD-KI",
+        "local_code": "KI",
+        "name": "Kasaï Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kasai-Occidental_Province",
-        "keywords": "Airports in Kasai-Occidental Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kasaï_Province",
+        "keywords": "Airports in Kasaï Province"
     }
 }

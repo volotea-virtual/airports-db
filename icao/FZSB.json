@@ -3,12 +3,12 @@
     "ident": "FZSB",
     "type": "small_airport",
     "name": "Kamina Ville Airport",
-    "latitude_deg": "-8.72861",
-    "longitude_deg": "24.9914",
+    "latitude_deg": "-8.728878",
+    "longitude_deg": "24.991407",
     "elevation_ft": "3475",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-KA",
+    "iso_region": "CD-HL",
     "municipality": "Kamina",
     "scheduled_service": "yes",
     "gps_code": "FZSB",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303313",
-        "code": "CD-KA",
-        "local_code": "KA",
-        "name": "Katanga Province",
+        "id": "505637",
+        "code": "CD-HL",
+        "local_code": "HL",
+        "name": "Haut-Lomami Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Katanga_Province",
-        "keywords": "Airports in Katanga Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Haut-Lomami",
+        "keywords": "Airports in Haut-Lomami Province"
     }
 }

@@ -3,12 +3,12 @@
     "ident": "FZFK",
     "type": "medium_airport",
     "name": "Gemena Airport",
-    "latitude_deg": "3.2353699207299997",
-    "longitude_deg": "19.771299362199997",
+    "latitude_deg": "3.23537",
+    "longitude_deg": "19.771299",
     "elevation_ft": "1378",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-EQ",
+    "iso_region": "CD-SU",
     "municipality": "Gemena",
     "scheduled_service": "yes",
     "gps_code": "FZFK",
@@ -60,14 +60,14 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303311",
-        "code": "CD-EQ",
-        "local_code": "EQ",
-        "name": "Equateur Province",
+        "id": "505651",
+        "code": "CD-SU",
+        "local_code": "SU",
+        "name": "Sud-Ubangi Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Equateur_Province",
-        "keywords": "Airports in Equateur Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sud-Ubangi",
+        "keywords": "Airports in Sud-Ubangi Province"
     },
     "navaids": [
         {

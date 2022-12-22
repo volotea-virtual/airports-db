@@ -3,12 +3,12 @@
     "ident": "FZRE",
     "type": "small_airport",
     "name": "Bukena Airport",
-    "latitude_deg": "-7.75",
-    "longitude_deg": "27.200000762939453",
+    "latitude_deg": "-7.777828",
+    "longitude_deg": "27.215881",
     "elevation_ft": "3868",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-KA",
+    "iso_region": "CD-HL",
     "municipality": "Bukena",
     "scheduled_service": "no",
     "gps_code": "FZRE",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303313",
-        "code": "CD-KA",
-        "local_code": "KA",
-        "name": "Katanga Province",
+        "id": "505637",
+        "code": "CD-HL",
+        "local_code": "HL",
+        "name": "Haut-Lomami Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Katanga_Province",
-        "keywords": "Airports in Katanga Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Haut-Lomami",
+        "keywords": "Airports in Haut-Lomami Province"
     }
 }

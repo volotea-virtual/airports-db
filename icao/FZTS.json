@@ -3,12 +3,12 @@
     "ident": "FZTS",
     "type": "small_airport",
     "name": "Kaniama Airport",
-    "latitude_deg": "-7.699999809265137",
-    "longitude_deg": "24.049999237060547",
+    "latitude_deg": "-7.711853",
+    "longitude_deg": "24.097137",
     "elevation_ft": "2871",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-KA",
+    "iso_region": "CD-HL",
     "municipality": "Kaniama",
     "scheduled_service": "no",
     "gps_code": "FZTS",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303313",
-        "code": "CD-KA",
-        "local_code": "KA",
-        "name": "Katanga Province",
+        "id": "505637",
+        "code": "CD-HL",
+        "local_code": "HL",
+        "name": "Haut-Lomami Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Katanga_Province",
-        "keywords": "Airports in Katanga Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Haut-Lomami",
+        "keywords": "Airports in Haut-Lomami Province"
     }
 }

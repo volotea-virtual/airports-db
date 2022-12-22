@@ -3,12 +3,12 @@
     "ident": "CD-0021",
     "type": "small_airport",
     "name": "Boeli Airstrip",
-    "latitude_deg": "4.169336",
-    "longitude_deg": "27.08276",
+    "latitude_deg": "4.170088",
+    "longitude_deg": "27.082157",
     "elevation_ft": "2369",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-OR",
+    "iso_region": "CD-BU",
     "municipality": "Boeli",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303319",
-        "code": "CD-OR",
-        "local_code": "OR",
-        "name": "Orientale Province",
+        "id": "505642",
+        "code": "CD-BU",
+        "local_code": "BU",
+        "name": "Bas-Uélé Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Orientale_Province",
-        "keywords": "Airports in Orientale Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bas-U%C3%A9l%C3%A9",
+        "keywords": "Airports in Bas-Uélé Province"
     }
 }

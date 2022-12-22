@@ -8,7 +8,7 @@
     "elevation_ft": "984",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-BC",
+    "iso_region": "CD-KO",
     "municipality": "Luheki",
     "scheduled_service": "no",
     "gps_code": "FZAX",
@@ -27,12 +27,12 @@
     },
     "region": {
         "id": "303309",
-        "code": "CD-BC",
-        "local_code": "BC",
-        "name": "Bas-Congo Province",
+        "code": "CD-KO",
+        "local_code": "KO",
+        "name": "Kongo-Central Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bas-Congo_Province",
-        "keywords": "Airports in Bas-Congo Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kongo_Central",
+        "keywords": "Airports in Kongo Central Province"
     }
 }
