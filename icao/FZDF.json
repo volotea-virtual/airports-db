@@ -3,12 +3,12 @@
     "ident": "FZDF",
     "type": "small_airport",
     "name": "Nzamba Airport",
-    "latitude_deg": "-6.833000183105469",
-    "longitude_deg": "17.66699981689453",
+    "latitude_deg": "-6.83261",
+    "longitude_deg": "17.69593",
     "elevation_ft": "2953",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-KU",
+    "iso_region": "CD-KW",
     "municipality": "Nzamba",
     "scheduled_service": "no",
     "gps_code": "FZDF",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303310",
-        "code": "CD-KU",
-        "local_code": "KU",
-        "name": "Kwilu Province",
+        "id": "505646",
+        "code": "CD-KW",
+        "local_code": "KW",
+        "name": "Kwango Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kwilu_Province",
-        "keywords": "Airports in Kwilu Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kwango",
+        "keywords": "Airports in Kwango Province"
     }
 }

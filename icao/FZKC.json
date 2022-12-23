@@ -3,12 +3,12 @@
     "ident": "FZKC",
     "type": "small_airport",
     "name": "Mahagi Airport",
-    "latitude_deg": "2.1670000553131104",
-    "longitude_deg": "31.149999618530273",
+    "latitude_deg": "2.29317",
+    "longitude_deg": "31.026227",
     "elevation_ft": "2555",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-TS",
+    "iso_region": "CD-IT",
     "municipality": "Mahagi",
     "scheduled_service": "no",
     "gps_code": "FZKC",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303319",
-        "code": "CD-TS",
-        "local_code": "TS",
-        "name": "Tshopo Province",
+        "id": "505643",
+        "code": "CD-IT",
+        "local_code": "IT",
+        "name": "Ituri Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tshopo_Province",
-        "keywords": "Airports in Tshopo Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ituri_Province",
+        "keywords": "Airports in Ituri Province"
     }
 }

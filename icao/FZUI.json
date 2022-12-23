@@ -3,12 +3,12 @@
     "ident": "FZUI",
     "type": "small_airport",
     "name": "Mboi Airport",
-    "latitude_deg": "-6.833000183105469",
-    "longitude_deg": "22",
+    "latitude_deg": "-6.841893",
+    "longitude_deg": "22.008533",
     "elevation_ft": "2789",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-KI",
+    "iso_region": "CD-KC",
     "municipality": "Mboi",
     "scheduled_service": "no",
     "gps_code": "FZUI",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303316",
-        "code": "CD-KI",
-        "local_code": "KI",
-        "name": "Kasaï Province",
+        "id": "505641",
+        "code": "CD-KC",
+        "local_code": "KC",
+        "name": "Kasaï-Central Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kasaï_Province",
-        "keywords": "Airports in Kasaï Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kasa%C3%AF-Central",
+        "keywords": "Airports in Kasaï-Central Province"
     }
 }

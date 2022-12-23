@@ -3,12 +3,12 @@
     "ident": "FZBK",
     "type": "small_airport",
     "name": "Boshwe Airport",
-    "latitude_deg": "-3.066659927368164",
-    "longitude_deg": "18.641700744628906",
+    "latitude_deg": "-3.06666",
+    "longitude_deg": "18.641701",
     "elevation_ft": "1181",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-KU",
+    "iso_region": "CD-MN",
     "municipality": "Boshwe",
     "scheduled_service": "no",
     "gps_code": "FZBK",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303310",
-        "code": "CD-KU",
-        "local_code": "KU",
-        "name": "Kwilu Province",
+        "id": "505639",
+        "code": "CD-MN",
+        "local_code": "MN",
+        "name": "Mai-Ndombe Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kwilu_Province",
-        "keywords": "Airports in Kwilu Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mai-Ndombe_Province",
+        "keywords": "Airports in Mai-Ndombe Province"
     }
 }

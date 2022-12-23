@@ -3,12 +3,12 @@
     "ident": "FZBI",
     "type": "small_airport",
     "name": "Nioki Airport",
-    "latitude_deg": "-2.7174999713897705",
-    "longitude_deg": "17.68470001220703",
+    "latitude_deg": "-2.717453",
+    "longitude_deg": "17.685735",
     "elevation_ft": "1043",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-KU",
+    "iso_region": "CD-MN",
     "municipality": "Nioki",
     "scheduled_service": "yes",
     "gps_code": "FZBI",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303310",
-        "code": "CD-KU",
-        "local_code": "KU",
-        "name": "Kwilu Province",
+        "id": "505639",
+        "code": "CD-MN",
+        "local_code": "MN",
+        "name": "Mai-Ndombe Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kwilu_Province",
-        "keywords": "Airports in Kwilu Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mai-Ndombe_Province",
+        "keywords": "Airports in Mai-Ndombe Province"
     }
 }

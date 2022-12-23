@@ -3,12 +3,12 @@
     "ident": "FZVJ",
     "type": "small_airport",
     "name": "Tshumbe Airport",
-    "latitude_deg": "-4.099999904632568",
-    "longitude_deg": "24.367000579833984",
+    "latitude_deg": "-4.039285",
+    "longitude_deg": "24.365616",
     "elevation_ft": "1804",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-KE",
+    "iso_region": "CD-SA",
     "municipality": "Tshumbe",
     "scheduled_service": "yes",
     "gps_code": "FZVJ",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303314",
-        "code": "CD-KE",
-        "local_code": "KE",
-        "name": "Kasaï-Oriental Province",
+        "id": "505650",
+        "code": "CD-SA",
+        "local_code": "SA",
+        "name": "Sankuru Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kasaï-Oriental_Province",
-        "keywords": "Airports in Kasaï-Oriental Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sankuru",
+        "keywords": "Airports in Sankuru Province"
     }
 }

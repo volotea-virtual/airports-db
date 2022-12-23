@@ -8,14 +8,14 @@
     "elevation_ft": "1283",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-EQ",
+    "iso_region": "CD-TU",
     "municipality": "Ikela",
     "scheduled_service": "no",
     "gps_code": "FZGV",
     "iata_code": "IKL",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ikela_Airport",
     "keywords": "",
     "country": {
         "id": "302561",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303311",
-        "code": "CD-EQ",
-        "local_code": "EQ",
-        "name": "Équateur Province",
+        "id": "505653",
+        "code": "CD-TU",
+        "local_code": "TU",
+        "name": "Tshuapa Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Province_of_%C3%89quateur",
-        "keywords": "Airports in Équateur Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tshuapa",
+        "keywords": "Airports in Tshuapa Province"
     }
 }

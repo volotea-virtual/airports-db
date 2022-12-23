@@ -1,22 +1,22 @@
 {
     "id": "31389",
     "ident": "FZGH",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Wema Airport",
-    "latitude_deg": "-0.43299999833106995",
-    "longitude_deg": "21.649999618530273",
+    "latitude_deg": "-0.485026",
+    "longitude_deg": "21.626115",
     "elevation_ft": "1368",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-EQ",
+    "iso_region": "CD-TU",
     "municipality": "Wema",
     "scheduled_service": "no",
-    "gps_code": "FZGH",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "FZGH",
     "country": {
         "id": "302561",
         "code": "CD",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303311",
-        "code": "CD-EQ",
-        "local_code": "EQ",
-        "name": "Équateur Province",
+        "id": "505653",
+        "code": "CD-TU",
+        "local_code": "TU",
+        "name": "Tshuapa Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Province_of_%C3%89quateur",
-        "keywords": "Airports in Équateur Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tshuapa",
+        "keywords": "Airports in Tshuapa Province"
     }
 }

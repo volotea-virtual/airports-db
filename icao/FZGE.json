@@ -3,12 +3,12 @@
     "ident": "FZGE",
     "type": "small_airport",
     "name": "Binga Airport",
-    "latitude_deg": "2.433000087738037",
-    "longitude_deg": "20.5",
-    "elevation_ft": "1476",
+    "latitude_deg": "2.36688",
+    "longitude_deg": "20.51299",
+    "elevation_ft": "1468",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-EQ",
+    "iso_region": "CD-MO",
     "municipality": "Binga",
     "scheduled_service": "no",
     "gps_code": "FZGE",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303311",
-        "code": "CD-EQ",
-        "local_code": "EQ",
-        "name": "Équateur Province",
+        "id": "505648",
+        "code": "CD-MO",
+        "local_code": "MO",
+        "name": "Mongala Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Province_of_%C3%89quateur",
-        "keywords": "Airports in Équateur Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mongala",
+        "keywords": "Airports in Mongala Province"
     }
 }

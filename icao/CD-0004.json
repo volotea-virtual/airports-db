@@ -3,12 +3,12 @@
     "ident": "CD-0004",
     "type": "small_airport",
     "name": "Djolu Airport",
-    "latitude_deg": "0.63328",
-    "longitude_deg": "22.463769",
+    "latitude_deg": "0.633418",
+    "longitude_deg": "22.46305",
     "elevation_ft": "",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-EQ",
+    "iso_region": "CD-TU",
     "municipality": "Djolu",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303311",
-        "code": "CD-EQ",
-        "local_code": "EQ",
-        "name": "Équateur Province",
+        "id": "505653",
+        "code": "CD-TU",
+        "local_code": "TU",
+        "name": "Tshuapa Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Province_of_%C3%89quateur",
-        "keywords": "Airports in Équateur Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tshuapa",
+        "keywords": "Airports in Tshuapa Province"
     }
 }

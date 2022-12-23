@@ -3,12 +3,12 @@
     "ident": "FZFC",
     "type": "small_airport",
     "name": "Engengele Airport",
-    "latitude_deg": "2.0999999046325684",
-    "longitude_deg": "22.697200775146484",
+    "latitude_deg": "2.116575",
+    "longitude_deg": "22.647328",
     "elevation_ft": "1279",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-EQ",
+    "iso_region": "CD-MO",
     "municipality": "Engengele",
     "scheduled_service": "no",
     "gps_code": "FZFC",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303311",
-        "code": "CD-EQ",
-        "local_code": "EQ",
-        "name": "Équateur Province",
+        "id": "505648",
+        "code": "CD-MO",
+        "local_code": "MO",
+        "name": "Mongala Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Province_of_%C3%89quateur",
-        "keywords": "Airports in Équateur Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mongala",
+        "keywords": "Airports in Mongala Province"
     }
 }

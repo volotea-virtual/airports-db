@@ -8,7 +8,7 @@
     "elevation_ft": "",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-TS",
+    "iso_region": "CD-IT",
     "municipality": "Mambasa",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303319",
-        "code": "CD-TS",
-        "local_code": "TS",
-        "name": "Tshopo Province",
+        "id": "505643",
+        "code": "CD-IT",
+        "local_code": "IT",
+        "name": "Ituri Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tshopo_Province",
-        "keywords": "Airports in Tshopo Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ituri_Province",
+        "keywords": "Airports in Ituri Province"
     }
 }

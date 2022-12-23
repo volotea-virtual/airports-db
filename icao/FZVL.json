@@ -1,22 +1,22 @@
 {
     "id": "31486",
     "ident": "FZVL",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Wasolo Airport",
-    "latitude_deg": "-3.950000047683716",
-    "longitude_deg": "22.517000198364258",
+    "latitude_deg": "-3.95",
+    "longitude_deg": "22.517",
     "elevation_ft": "1673",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-KE",
+    "iso_region": "CD-SA",
     "municipality": "Wasolo",
     "scheduled_service": "no",
-    "gps_code": "FZVL",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "FZVL",
     "country": {
         "id": "302561",
         "code": "CD",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303314",
-        "code": "CD-KE",
-        "local_code": "KE",
-        "name": "Kasaï-Oriental Province",
+        "id": "505650",
+        "code": "CD-SA",
+        "local_code": "SA",
+        "name": "Sankuru Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kasaï-Oriental_Province",
-        "keywords": "Airports in Kasaï-Oriental Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sankuru",
+        "keywords": "Airports in Sankuru Province"
     }
 }

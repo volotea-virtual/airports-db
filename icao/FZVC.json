@@ -3,12 +3,12 @@
     "ident": "FZVC",
     "type": "small_airport",
     "name": "Kole Sur Lukenie Airport",
-    "latitude_deg": "-3.4000000953674316",
-    "longitude_deg": "22.533000946044922",
+    "latitude_deg": "-3.419344",
+    "longitude_deg": "22.516479",
     "elevation_ft": "1542",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-KE",
+    "iso_region": "CD-SA",
     "municipality": "Kole Sur Lukenie",
     "scheduled_service": "no",
     "gps_code": "FZVC",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303314",
-        "code": "CD-KE",
-        "local_code": "KE",
-        "name": "Kasaï-Oriental Province",
+        "id": "505650",
+        "code": "CD-SA",
+        "local_code": "SA",
+        "name": "Sankuru Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kasaï-Oriental_Province",
-        "keywords": "Airports in Kasaï-Oriental Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sankuru",
+        "keywords": "Airports in Sankuru Province"
     }
 }

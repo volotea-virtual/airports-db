@@ -3,12 +3,12 @@
     "ident": "FZEO",
     "type": "small_airport",
     "name": "Beongo Airport",
-    "latitude_deg": "1.0169999599456787",
-    "longitude_deg": "20.600000381469727",
+    "latitude_deg": "1.017",
+    "longitude_deg": "20.6",
     "elevation_ft": "1279",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-EQ",
+    "iso_region": "CD-TU",
     "municipality": "Beongo",
     "scheduled_service": "no",
     "gps_code": "FZEO",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303311",
-        "code": "CD-EQ",
-        "local_code": "EQ",
-        "name": "Équateur Province",
+        "id": "505653",
+        "code": "CD-TU",
+        "local_code": "TU",
+        "name": "Tshuapa Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Province_of_%C3%89quateur",
-        "keywords": "Airports in Équateur Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tshuapa",
+        "keywords": "Airports in Tshuapa Province"
     }
 }

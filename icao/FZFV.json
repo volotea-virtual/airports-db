@@ -1,22 +1,22 @@
 {
     "id": "31382",
     "ident": "FZFV",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Gbado Airport",
-    "latitude_deg": "3.882999897003174",
-    "longitude_deg": "20.783000946044922",
+    "latitude_deg": "3.883",
+    "longitude_deg": "20.783001",
     "elevation_ft": "1476",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-EQ",
+    "iso_region": "CD-NU",
     "municipality": "Gbado",
     "scheduled_service": "no",
-    "gps_code": "FZFV",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "FZFV",
     "country": {
         "id": "302561",
         "code": "CD",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303311",
-        "code": "CD-EQ",
-        "local_code": "EQ",
-        "name": "Équateur Province",
+        "id": "505649",
+        "code": "CD-NU",
+        "local_code": "NU",
+        "name": "Nord-Ubangi Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Province_of_%C3%89quateur",
-        "keywords": "Airports in Équateur Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Nord-Ubangi",
+        "keywords": "Airports in Nord-Ubangi Province"
     }
 }

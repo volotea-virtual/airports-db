@@ -3,12 +3,12 @@
     "ident": "FZWI",
     "type": "small_airport",
     "name": "Kashia Airport",
-    "latitude_deg": "-7.2170000076293945",
-    "longitude_deg": "23.75",
+    "latitude_deg": "-7.22216",
+    "longitude_deg": "23.758707",
     "elevation_ft": "2887",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-KE",
+    "iso_region": "CD-LO",
     "municipality": "Kashia",
     "scheduled_service": "no",
     "gps_code": "FZWI",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303314",
-        "code": "CD-KE",
-        "local_code": "KE",
-        "name": "Kasaï-Oriental Province",
+        "id": "505647",
+        "code": "CD-LO",
+        "local_code": "LO",
+        "name": "Lomami Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kasaï-Oriental_Province",
-        "keywords": "Airports in Kasaï-Oriental Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lomami_Province",
+        "keywords": "Airports in Lomami Province"
     }
 }

@@ -8,7 +8,7 @@
     "elevation_ft": "190",
     "continent": "AF",
     "iso_country": "RE",
-    "iso_region": "RE-U-A",
+    "iso_region": "RE-SP",
     "municipality": "Les Trois-Bassins",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Île Bourbon, La Réunion"
     },
     "region": {
-        "id": "305217",
-        "code": "RE-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "505681",
+        "code": "RE-SP",
+        "local_code": "SP",
+        "name": "Saint-Paul Arrondissement",
         "continent": "AF",
         "iso_country": "RE",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arrondissement_of_Saint-Paul",
+        "keywords": "Airports of Saint-Paul Arrondissement"
     }
 }

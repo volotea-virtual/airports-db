@@ -3,13 +3,13 @@
     "ident": "FMEE",
     "type": "large_airport",
     "name": "Roland Garros Airport",
-    "latitude_deg": "-20.8871",
-    "longitude_deg": "55.5103",
+    "latitude_deg": "-20.890087",
+    "longitude_deg": "55.518894",
     "elevation_ft": "66",
     "continent": "AF",
     "iso_country": "RE",
-    "iso_region": "RE-U-A",
-    "municipality": "St Denis",
+    "iso_region": "RE-SD",
+    "municipality": "Sainte-Marie",
     "scheduled_service": "yes",
     "gps_code": "FMEE",
     "iata_code": "RUN",
@@ -114,14 +114,14 @@
         "keywords": "Île Bourbon, La Réunion"
     },
     "region": {
-        "id": "305217",
-        "code": "RE-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "505680",
+        "code": "RE-SD",
+        "local_code": "SD",
+        "name": "Saint-Denis Arrondissement",
         "continent": "AF",
         "iso_country": "RE",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arrondissement_of_Saint-Denis,_R%C3%A9union",
+        "keywords": "Airports of Saint-Denis Arrondissement"
     },
     "navaids": [
         {

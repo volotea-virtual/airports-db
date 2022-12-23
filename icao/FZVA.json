@@ -8,7 +8,7 @@
     "elevation_ft": "1647",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-KE",
+    "iso_region": "CD-SA",
     "municipality": "Lodja",
     "scheduled_service": "yes",
     "gps_code": "FZVA",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303314",
-        "code": "CD-KE",
-        "local_code": "KE",
-        "name": "Kasaï-Oriental Province",
+        "id": "505650",
+        "code": "CD-SA",
+        "local_code": "SA",
+        "name": "Sankuru Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kasaï-Oriental_Province",
-        "keywords": "Airports in Kasaï-Oriental Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sankuru",
+        "keywords": "Airports in Sankuru Province"
     }
 }

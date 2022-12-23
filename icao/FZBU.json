@@ -3,12 +3,12 @@
     "ident": "FZBU",
     "type": "small_airport",
     "name": "Ipeke Airport",
-    "latitude_deg": "-2.4830000400543213",
-    "longitude_deg": "18.25",
+    "latitude_deg": "-2.538084",
+    "longitude_deg": "18.244686",
     "elevation_ft": "1017",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-KU",
+    "iso_region": "CD-MN",
     "municipality": "Ipeke",
     "scheduled_service": "no",
     "gps_code": "FZBU",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303310",
-        "code": "CD-KU",
-        "local_code": "KU",
-        "name": "Kwilu Province",
+        "id": "505639",
+        "code": "CD-MN",
+        "local_code": "MN",
+        "name": "Mai-Ndombe Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kwilu_Province",
-        "keywords": "Airports in Kwilu Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mai-Ndombe_Province",
+        "keywords": "Airports in Mai-Ndombe Province"
     }
 }

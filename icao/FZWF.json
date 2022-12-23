@@ -3,12 +3,12 @@
     "ident": "FZWF",
     "type": "small_airport",
     "name": "Kipushi Airport",
-    "latitude_deg": "-6.166999816894531",
-    "longitude_deg": "25.183000564575195",
+    "latitude_deg": "-6.136394",
+    "longitude_deg": "25.159314",
     "elevation_ft": "2953",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-KE",
+    "iso_region": "CD-LO",
     "municipality": "Kipushi",
     "scheduled_service": "no",
     "gps_code": "FZWF",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303314",
-        "code": "CD-KE",
-        "local_code": "KE",
-        "name": "Kasaï-Oriental Province",
+        "id": "505647",
+        "code": "CD-LO",
+        "local_code": "LO",
+        "name": "Lomami Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kasaï-Oriental_Province",
-        "keywords": "Airports in Kasaï-Oriental Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lomami_Province",
+        "keywords": "Airports in Lomami Province"
     }
 }

@@ -2,14 +2,14 @@
     "id": "31325",
     "ident": "FZBV",
     "type": "small_airport",
-    "name": "Kempile Airport",
-    "latitude_deg": "-2.7170000076293945",
-    "longitude_deg": "18.132999420166016",
+    "name": "Kutu-Kempili Airport",
+    "latitude_deg": "-2.729542",
+    "longitude_deg": "18.106874",
     "elevation_ft": "984",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-KU",
-    "municipality": "Kempile",
+    "iso_region": "CD-MN",
+    "municipality": "Kempili",
     "scheduled_service": "no",
     "gps_code": "FZBV",
     "iata_code": "",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303310",
-        "code": "CD-KU",
-        "local_code": "KU",
-        "name": "Kwilu Province",
+        "id": "505639",
+        "code": "CD-MN",
+        "local_code": "MN",
+        "name": "Mai-Ndombe Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kwilu_Province",
-        "keywords": "Airports in Kwilu Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mai-Ndombe_Province",
+        "keywords": "Airports in Mai-Ndombe Province"
     }
 }

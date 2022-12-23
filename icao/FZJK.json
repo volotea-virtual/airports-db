@@ -3,12 +3,12 @@
     "ident": "FZJK",
     "type": "small_airport",
     "name": "Faradje Airport",
-    "latitude_deg": "3.7330000400543213",
-    "longitude_deg": "29.700000762939453",
+    "latitude_deg": "3.7149",
+    "longitude_deg": "29.71261",
     "elevation_ft": "2690",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-TS",
+    "iso_region": "CD-HU",
     "municipality": "Faradje",
     "scheduled_service": "no",
     "gps_code": "FZJK",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303319",
-        "code": "CD-TS",
-        "local_code": "TS",
-        "name": "Tshopo Province",
+        "id": "505654",
+        "code": "CD-HU",
+        "local_code": "HU",
+        "name": "Haut-Uélé Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tshopo_Province",
-        "keywords": "Airports in Tshopo Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Haut-U%C3%A9l%C3%A9",
+        "keywords": "Airports in Haut-Uélé Province"
     }
 }

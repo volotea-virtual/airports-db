@@ -1,22 +1,22 @@
 {
     "id": "31473",
     "ident": "FZUR",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Tshibala Airport",
-    "latitude_deg": "-6.933000087738037",
+    "latitude_deg": "-6.933",
     "longitude_deg": "22",
     "elevation_ft": "2287",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-KI",
+    "iso_region": "CD-KC",
     "municipality": "Tshibala",
     "scheduled_service": "no",
-    "gps_code": "FZUR",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "FZUR",
     "country": {
         "id": "302561",
         "code": "CD",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303316",
-        "code": "CD-KI",
-        "local_code": "KI",
-        "name": "Kasaï Province",
+        "id": "505641",
+        "code": "CD-KC",
+        "local_code": "KC",
+        "name": "Kasaï-Central Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kasaï_Province",
-        "keywords": "Airports in Kasaï Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kasa%C3%AF-Central",
+        "keywords": "Airports in Kasaï-Central Province"
     }
 }

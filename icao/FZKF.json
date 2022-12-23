@@ -3,12 +3,12 @@
     "ident": "FZKF",
     "type": "small_airport",
     "name": "Kilomines Airport",
-    "latitude_deg": "1.8170000314712524",
-    "longitude_deg": "30.232999801635742",
+    "latitude_deg": "1.817",
+    "longitude_deg": "30.233",
     "elevation_ft": "4593",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-TS",
+    "iso_region": "CD-IT",
     "municipality": "Kilomines",
     "scheduled_service": "no",
     "gps_code": "FZKF",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303319",
-        "code": "CD-TS",
-        "local_code": "TS",
-        "name": "Tshopo Province",
+        "id": "505643",
+        "code": "CD-IT",
+        "local_code": "IT",
+        "name": "Ituri Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Tshopo_Province",
-        "keywords": "Airports in Tshopo Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ituri_Province",
+        "keywords": "Airports in Ituri Province"
     }
 }

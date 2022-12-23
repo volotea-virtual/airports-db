@@ -3,12 +3,12 @@
     "ident": "FZUH",
     "type": "small_airport",
     "name": "Moma Airport",
-    "latitude_deg": "-7.232999801635742",
-    "longitude_deg": "22.600000381469727",
+    "latitude_deg": "-7.235189",
+    "longitude_deg": "22.608833",
     "elevation_ft": "2789",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-KI",
+    "iso_region": "CD-KC",
     "municipality": "Moma",
     "scheduled_service": "no",
     "gps_code": "FZUH",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303316",
-        "code": "CD-KI",
-        "local_code": "KI",
-        "name": "Kasaï Province",
+        "id": "505641",
+        "code": "CD-KC",
+        "local_code": "KC",
+        "name": "Kasaï-Central Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kasaï_Province",
-        "keywords": "Airports in Kasaï Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kasa%C3%AF-Central",
+        "keywords": "Airports in Kasaï-Central Province"
     }
 }

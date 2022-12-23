@@ -1,22 +1,22 @@
 {
     "id": "31449",
     "ident": "FZRG",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Sominka Airport",
-    "latitude_deg": "-7.416999816894531",
-    "longitude_deg": "27.149999618530273",
+    "latitude_deg": "-7.417",
+    "longitude_deg": "27.15",
     "elevation_ft": "2066",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-HK",
+    "iso_region": "CD-TA",
     "municipality": "Sominka",
     "scheduled_service": "no",
-    "gps_code": "FZRG",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "FZRG",
     "country": {
         "id": "302561",
         "code": "CD",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303313",
-        "code": "CD-HK",
-        "local_code": "HK",
-        "name": "Haut-Katanga Province",
+        "id": "505652",
+        "code": "CD-TA",
+        "local_code": "TA",
+        "name": "Tanganyika Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Haut-Katanga_Province",
-        "keywords": "Airports in Haut-Katanga Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tanganyika_Province",
+        "keywords": "Airports in Tanganyika Province"
     }
 }

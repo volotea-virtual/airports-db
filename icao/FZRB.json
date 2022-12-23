@@ -3,12 +3,12 @@
     "ident": "FZRB",
     "type": "small_airport",
     "name": "Moba Airport",
-    "latitude_deg": "-7.066999912261963",
-    "longitude_deg": "29.783000946044922",
+    "latitude_deg": "-7.08488",
+    "longitude_deg": "29.737072",
     "elevation_ft": "2953",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-HK",
+    "iso_region": "CD-TA",
     "municipality": "Moba",
     "scheduled_service": "no",
     "gps_code": "FZRB",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303313",
-        "code": "CD-HK",
-        "local_code": "HK",
-        "name": "Haut-Katanga Province",
+        "id": "505652",
+        "code": "CD-TA",
+        "local_code": "TA",
+        "name": "Tanganyika Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Haut-Katanga_Province",
-        "keywords": "Airports in Haut-Katanga Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tanganyika_Province",
+        "keywords": "Airports in Tanganyika Province"
     }
 }

@@ -3,8 +3,8 @@
     "ident": "FZFD",
     "type": "medium_airport",
     "name": "Gbadolite Airport",
-    "latitude_deg": "4.25321",
-    "longitude_deg": "20.9753",
+    "latitude_deg": "4.252745",
+    "longitude_deg": "20.975271",
     "elevation_ft": "1509",
     "continent": "AF",
     "iso_country": "CD",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Gbadolite_Airport",
-    "keywords": "",
+    "keywords": "Moanda",
     "runways": [
         {
             "id": "235141",

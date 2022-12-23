@@ -1,22 +1,22 @@
 {
     "id": "31481",
     "ident": "FZVF",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Kutusongo Airport",
-    "latitude_deg": "-2.6670000553131104",
-    "longitude_deg": "23.16699981689453",
+    "latitude_deg": "-2.68003",
+    "longitude_deg": "23.283119",
     "elevation_ft": "1722",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-KE",
+    "iso_region": "CD-SA",
     "municipality": "Kutusongo",
     "scheduled_service": "no",
-    "gps_code": "FZVF",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "FZVF",
     "country": {
         "id": "302561",
         "code": "CD",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303314",
-        "code": "CD-KE",
-        "local_code": "KE",
-        "name": "Kasaï-Oriental Province",
+        "id": "505650",
+        "code": "CD-SA",
+        "local_code": "SA",
+        "name": "Sankuru Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kasaï-Oriental_Province",
-        "keywords": "Airports in Kasaï-Oriental Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sankuru",
+        "keywords": "Airports in Sankuru Province"
     }
 }

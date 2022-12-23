@@ -1,22 +1,22 @@
 {
     "id": "31384",
     "ident": "FZGB",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Bosondjo Airport",
-    "latitude_deg": "1.8669999837875366",
-    "longitude_deg": "21.783000946044922",
+    "latitude_deg": "1.869832",
+    "longitude_deg": "21.759882",
     "elevation_ft": "1312",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-EQ",
+    "iso_region": "CD-MO",
     "municipality": "Bosondjo",
     "scheduled_service": "no",
-    "gps_code": "FZGB",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "FZGB",
     "country": {
         "id": "302561",
         "code": "CD",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303311",
-        "code": "CD-EQ",
-        "local_code": "EQ",
-        "name": "Équateur Province",
+        "id": "505648",
+        "code": "CD-MO",
+        "local_code": "MO",
+        "name": "Mongala Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Province_of_%C3%89quateur",
-        "keywords": "Airports in Équateur Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mongala",
+        "keywords": "Airports in Mongala Province"
     }
 }

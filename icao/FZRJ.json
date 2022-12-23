@@ -3,12 +3,12 @@
     "ident": "FZRJ",
     "type": "small_airport",
     "name": "Pepa Airport",
-    "latitude_deg": "-7.7170000076293945",
-    "longitude_deg": "29.799999237060547",
+    "latitude_deg": "-7.717201",
+    "longitude_deg": "29.809685",
     "elevation_ft": "6562",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-HK",
+    "iso_region": "CD-TA",
     "municipality": "Pepa",
     "scheduled_service": "no",
     "gps_code": "FZRJ",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303313",
-        "code": "CD-HK",
-        "local_code": "HK",
-        "name": "Haut-Katanga Province",
+        "id": "505652",
+        "code": "CD-TA",
+        "local_code": "TA",
+        "name": "Tanganyika Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Haut-Katanga_Province",
-        "keywords": "Airports in Haut-Katanga Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tanganyika_Province",
+        "keywords": "Airports in Tanganyika Province"
     }
 }

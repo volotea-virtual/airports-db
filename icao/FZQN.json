@@ -3,12 +3,12 @@
     "ident": "FZQN",
     "type": "small_airport",
     "name": "Mutshatsha Airport",
-    "latitude_deg": "-10.567000389099121",
-    "longitude_deg": "24.399999618530273",
+    "latitude_deg": "-10.56258",
+    "longitude_deg": "24.416771",
     "elevation_ft": "3806",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-HK",
+    "iso_region": "CD-LU",
     "municipality": "Mutshatsha",
     "scheduled_service": "no",
     "gps_code": "FZQN",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303313",
-        "code": "CD-HK",
-        "local_code": "HK",
-        "name": "Haut-Katanga Province",
+        "id": "505638",
+        "code": "CD-LU",
+        "local_code": "LU",
+        "name": "Lualaba Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Haut-Katanga_Province",
-        "keywords": "Airports in Haut-Katanga Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lualaba_Province",
+        "keywords": "Airports in Lualaba Province"
     }
 }

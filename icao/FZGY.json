@@ -1,22 +1,22 @@
 {
     "id": "31393",
     "ident": "FZGY",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Yemo Airport",
-    "latitude_deg": "-0.46700000762939453",
-    "longitude_deg": "21.933000564575195",
+    "latitude_deg": "-0.447989",
+    "longitude_deg": "21.917896",
     "elevation_ft": "1525",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-EQ",
+    "iso_region": "CD-TU",
     "municipality": "Yemo",
     "scheduled_service": "no",
-    "gps_code": "FZGY",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "FZGY",
     "country": {
         "id": "302561",
         "code": "CD",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303311",
-        "code": "CD-EQ",
-        "local_code": "EQ",
-        "name": "Équateur Province",
+        "id": "505653",
+        "code": "CD-TU",
+        "local_code": "TU",
+        "name": "Tshuapa Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Province_of_%C3%89quateur",
-        "keywords": "Airports in Équateur Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tshuapa",
+        "keywords": "Airports in Tshuapa Province"
     }
 }

@@ -1,22 +1,22 @@
 {
     "id": "31476",
     "ident": "FZUU",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Lutshatsha Airport",
-    "latitude_deg": "-6.2170000076293945",
-    "longitude_deg": "22.08300018310547",
+    "latitude_deg": "-6.05669",
+    "longitude_deg": "22.18663",
     "elevation_ft": "2329",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-KI",
+    "iso_region": "CD-KC",
     "municipality": "Lutshatsha",
     "scheduled_service": "no",
-    "gps_code": "FZUU",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "FZUU",
     "country": {
         "id": "302561",
         "code": "CD",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303316",
-        "code": "CD-KI",
-        "local_code": "KI",
-        "name": "Kasaï Province",
+        "id": "505641",
+        "code": "CD-KC",
+        "local_code": "KC",
+        "name": "Kasaï-Central Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kasaï_Province",
-        "keywords": "Airports in Kasaï Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kasa%C3%AF-Central",
+        "keywords": "Airports in Kasaï-Central Province"
     }
 }

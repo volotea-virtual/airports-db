@@ -1,22 +1,22 @@
 {
     "id": "31376",
     "ident": "FZFL",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Kala Airport",
-    "latitude_deg": "3.383611111",
-    "longitude_deg": "18.654722222",
+    "latitude_deg": "3.38312",
+    "longitude_deg": "18.654635",
     "elevation_ft": "1640",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-EQ",
+    "iso_region": "CD-SU",
     "municipality": "Kala",
     "scheduled_service": "no",
-    "gps_code": "FZFL",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "FZFL",
     "country": {
         "id": "302561",
         "code": "CD",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303311",
-        "code": "CD-EQ",
-        "local_code": "EQ",
-        "name": "Équateur Province",
+        "id": "505651",
+        "code": "CD-SU",
+        "local_code": "SU",
+        "name": "Sud-Ubangi Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Province_of_%C3%89quateur",
-        "keywords": "Airports in Équateur Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sud-Ubangi",
+        "keywords": "Airports in Sud-Ubangi Province"
     }
 }

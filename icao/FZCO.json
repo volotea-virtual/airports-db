@@ -3,12 +3,12 @@
     "ident": "FZCO",
     "type": "small_airport",
     "name": "Boko Airport",
-    "latitude_deg": "-5.300000190734863",
-    "longitude_deg": "16.850000381469727",
+    "latitude_deg": "-5.29199",
+    "longitude_deg": "16.774879",
     "elevation_ft": "2297",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-KU",
+    "iso_region": "CD-KW",
     "municipality": "Boko",
     "scheduled_service": "no",
     "gps_code": "FZCO",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303310",
-        "code": "CD-KU",
-        "local_code": "KU",
-        "name": "Kwilu Province",
+        "id": "505646",
+        "code": "CD-KW",
+        "local_code": "KW",
+        "name": "Kwango Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kwilu_Province",
-        "keywords": "Airports in Kwilu Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kwango",
+        "keywords": "Airports in Kwango Province"
     }
 }

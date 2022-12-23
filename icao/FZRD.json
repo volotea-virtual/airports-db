@@ -1,22 +1,22 @@
 {
     "id": "31447",
     "ident": "FZRD",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Kabombo Airport",
-    "latitude_deg": "-7.349999904632568",
-    "longitude_deg": "28.033000946044922",
+    "latitude_deg": "-7.404388",
+    "longitude_deg": "28.031659",
     "elevation_ft": "1969",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-HK",
+    "iso_region": "CD-TA",
     "municipality": "Kabombo",
     "scheduled_service": "no",
-    "gps_code": "FZRD",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "FZRD",
     "country": {
         "id": "302561",
         "code": "CD",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303313",
-        "code": "CD-HK",
-        "local_code": "HK",
-        "name": "Haut-Katanga Province",
+        "id": "505652",
+        "code": "CD-TA",
+        "local_code": "TA",
+        "name": "Tanganyika Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Haut-Katanga_Province",
-        "keywords": "Airports in Haut-Katanga Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tanganyika_Province",
+        "keywords": "Airports in Tanganyika Province"
     }
 }

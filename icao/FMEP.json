@@ -3,13 +3,13 @@
     "ident": "FMEP",
     "type": "medium_airport",
     "name": "Pierrefonds Airport",
-    "latitude_deg": "-21.320899963378906",
-    "longitude_deg": "55.42499923706055",
+    "latitude_deg": "-21.319362",
+    "longitude_deg": "55.422506",
     "elevation_ft": "59",
     "continent": "AF",
     "iso_country": "RE",
-    "iso_region": "RE-U-A",
-    "municipality": "St Pierre",
+    "iso_region": "RE-SR",
+    "municipality": "Saint-Pierre",
     "scheduled_service": "yes",
     "gps_code": "FMEP",
     "iata_code": "ZSE",
@@ -60,14 +60,14 @@
         "keywords": "Île Bourbon, La Réunion"
     },
     "region": {
-        "id": "305217",
-        "code": "RE-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "505682",
+        "code": "RE-SR",
+        "local_code": "SR",
+        "name": "Saint-Pierre Arrondissement",
         "continent": "AF",
         "iso_country": "RE",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Arrondissement_of_Saint-Pierre,_R%C3%A9union",
+        "keywords": "Airports of Saint-Pierre Arrondissement"
     },
     "navaids": [
         {

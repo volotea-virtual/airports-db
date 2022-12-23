@@ -3,12 +3,12 @@
     "ident": "FZVP",
     "type": "small_airport",
     "name": "Dikungu Airport",
-    "latitude_deg": "-4.0329999923706055",
-    "longitude_deg": "24.466999053955078",
+    "latitude_deg": "-4.03953",
+    "longitude_deg": "24.470501",
     "elevation_ft": "1833",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-KE",
+    "iso_region": "CD-SA",
     "municipality": "Dikungu",
     "scheduled_service": "no",
     "gps_code": "FZVP",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303314",
-        "code": "CD-KE",
-        "local_code": "KE",
-        "name": "Kasaï-Oriental Province",
+        "id": "505650",
+        "code": "CD-SA",
+        "local_code": "SA",
+        "name": "Sankuru Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kasaï-Oriental_Province",
-        "keywords": "Airports in Kasaï-Oriental Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sankuru",
+        "keywords": "Airports in Sankuru Province"
     }
 }

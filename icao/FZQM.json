@@ -3,13 +3,13 @@
     "ident": "FZQM",
     "type": "medium_airport",
     "name": "Kolwezi Airport",
-    "latitude_deg": "-10.765899658203125",
-    "longitude_deg": "25.505699157714844",
+    "latitude_deg": "-10.7659",
+    "longitude_deg": "25.505699",
     "elevation_ft": "5007",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-HK",
-    "municipality": "",
+    "iso_region": "CD-LU",
+    "municipality": "Kolwezi",
     "scheduled_service": "yes",
     "gps_code": "FZQM",
     "iata_code": "KWZ",
@@ -60,14 +60,14 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303313",
-        "code": "CD-HK",
-        "local_code": "HK",
-        "name": "Haut-Katanga Province",
+        "id": "505638",
+        "code": "CD-LU",
+        "local_code": "LU",
+        "name": "Lualaba Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Haut-Katanga_Province",
-        "keywords": "Airports in Haut-Katanga Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lualaba_Province",
+        "keywords": "Airports in Lualaba Province"
     },
     "navaids": [
         {

@@ -1,22 +1,22 @@
 {
     "id": "31475",
     "ident": "FZUT",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Katubwe Airport",
-    "latitude_deg": "-6.050000190734863",
-    "longitude_deg": "22.600000381469727",
+    "latitude_deg": "-6.05",
+    "longitude_deg": "22.6",
     "elevation_ft": "2461",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-KI",
+    "iso_region": "CD-KC",
     "municipality": "Katubwe",
     "scheduled_service": "no",
-    "gps_code": "FZUT",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "FZUT",
     "country": {
         "id": "302561",
         "code": "CD",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303316",
-        "code": "CD-KI",
-        "local_code": "KI",
-        "name": "Kasaï Province",
+        "id": "505641",
+        "code": "CD-KC",
+        "local_code": "KC",
+        "name": "Kasaï-Central Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kasaï_Province",
-        "keywords": "Airports in Kasaï Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kasa%C3%AF-Central",
+        "keywords": "Airports in Kasaï-Central Province"
     }
 }

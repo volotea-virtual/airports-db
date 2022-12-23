@@ -1,22 +1,22 @@
 {
     "id": "31388",
     "ident": "FZGG",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Mondombe Airport",
-    "latitude_deg": "-0.8830000162124634",
-    "longitude_deg": "22.816999435424805",
+    "latitude_deg": "-0.751265",
+    "longitude_deg": "22.706079",
     "elevation_ft": "1457",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-EQ",
+    "iso_region": "CD-TU",
     "municipality": "Mondombe",
     "scheduled_service": "no",
-    "gps_code": "FZGG",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "FZGG",
     "country": {
         "id": "302561",
         "code": "CD",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303311",
-        "code": "CD-EQ",
-        "local_code": "EQ",
-        "name": "Équateur Province",
+        "id": "505653",
+        "code": "CD-TU",
+        "local_code": "TU",
+        "name": "Tshuapa Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Province_of_%C3%89quateur",
-        "keywords": "Airports in Équateur Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tshuapa",
+        "keywords": "Airports in Tshuapa Province"
     }
 }

@@ -3,12 +3,12 @@
     "ident": "FZDT",
     "type": "small_airport",
     "name": "Matari Airport",
-    "latitude_deg": "-6.199999809265137",
-    "longitude_deg": "17.649999618530273",
+    "latitude_deg": "-6.151841",
+    "longitude_deg": "17.602501",
     "elevation_ft": "2559",
     "continent": "AF",
     "iso_country": "CD",
-    "iso_region": "CD-KU",
+    "iso_region": "CD-KW",
     "municipality": "Matari",
     "scheduled_service": "no",
     "gps_code": "FZDT",
@@ -26,13 +26,13 @@
         "keywords": "DRC"
     },
     "region": {
-        "id": "303310",
-        "code": "CD-KU",
-        "local_code": "KU",
-        "name": "Kwilu Province",
+        "id": "505646",
+        "code": "CD-KW",
+        "local_code": "KW",
+        "name": "Kwango Province",
         "continent": "AF",
         "iso_country": "CD",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Kwilu_Province",
-        "keywords": "Airports in Kwilu Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kwango",
+        "keywords": "Airports in Kwango Province"
     }
 }
