@@ -94,7 +94,7 @@
             "airport_ident": "LIME",
             "type": "TWR",
             "description": "ORIO TWR",
-            "frequency_mhz": "126.5"
+            "frequency_mhz": "126.875"
         }
     ],
     "country": {
