@@ -1,6 +1,6 @@
 {
     "id": "26852",
-    "ident": "WIKK",
+    "ident": "WIPK",
     "type": "small_airport",
     "name": "Depati Amir Airport",
     "latitude_deg": "-2.1622",
@@ -11,7 +11,7 @@
     "iso_region": "ID-BB",
     "municipality": "Pangkal Pinang",
     "scheduled_service": "yes",
-    "gps_code": "WIKK",
+    "gps_code": "WIPK",
     "iata_code": "PGK",
     "local_code": "",
     "home_link": "",
@@ -21,7 +21,7 @@
         {
             "id": "236573",
             "airport_ref": "26852",
-            "airport_ident": "WIKK",
+            "airport_ident": "WIPK",
             "length_ft": "6550",
             "width_ft": "98",
             "surface": "ASP",
@@ -45,7 +45,7 @@
         {
             "id": "53752",
             "airport_ref": "26852",
-            "airport_ident": "WIKK",
+            "airport_ident": "WIPK",
             "type": "APP",
             "description": "PANGKALPINANG APP",
             "frequency_mhz": "123.6"
@@ -53,7 +53,7 @@
         {
             "id": "53753",
             "airport_ref": "26852",
-            "airport_ident": "WIKK",
+            "airport_ident": "WIPK",
             "type": "TWR",
             "description": "AMIR TWR",
             "frequency_mhz": "118.3"
@@ -98,7 +98,7 @@
             "magnetic_variation_deg": "0.376",
             "usageType": "BOTH",
             "power": "MEDIUM",
-            "associated_airport": "WIKK"
+            "associated_airport": "WIPK"
         },
         {
             "id": "92493",
@@ -120,7 +120,7 @@
             "magnetic_variation_deg": "0.376",
             "usageType": "BOTH",
             "power": "HIGH",
-            "associated_airport": "WIKK"
+            "associated_airport": "WIPK"
         }
     ]
 }
