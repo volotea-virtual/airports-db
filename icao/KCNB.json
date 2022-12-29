@@ -2,9 +2,9 @@
     "id": "19521",
     "ident": "KCNB",
     "type": "small_airport",
-    "name": "Myers Field",
-    "latitude_deg": "44.72949982",
-    "longitude_deg": "-96.26599884",
+    "name": "Myers Field Airport",
+    "latitude_deg": "44.7295",
+    "longitude_deg": "-96.265999",
     "elevation_ft": "1194",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "CNB",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Canby Municipal Airport",
     "runways": [
         {
             "id": "240207",

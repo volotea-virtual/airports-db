@@ -3,8 +3,8 @@
     "ident": "PN84",
     "type": "small_airport",
     "name": "Lake Arthur Field",
-    "latitude_deg": "40.984500885009766",
-    "longitude_deg": "-80.16200256347656",
+    "latitude_deg": "40.984191",
+    "longitude_deg": "-80.16243",
     "elevation_ft": "1240",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "PN84",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Kottraba Airport, Pisor Landing Area",
     "runways": [
         {
             "id": "249109",
