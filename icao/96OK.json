@@ -2,9 +2,9 @@
     "id": "15501",
     "ident": "96OK",
     "type": "small_airport",
-    "name": "Mike's Place Airport",
-    "latitude_deg": "36.847003",
-    "longitude_deg": "-99.457512",
+    "name": "Millers Place Airport",
+    "latitude_deg": "36.847124",
+    "longitude_deg": "-99.457392",
     "elevation_ft": "1787",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "96OK",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Mike's Place",
     "runways": [
         {
             "id": "253240",

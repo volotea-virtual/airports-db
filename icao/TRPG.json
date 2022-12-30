@@ -3,12 +3,12 @@
     "ident": "TRPG",
     "type": "medium_airport",
     "name": "John A. Osborne Airport",
-    "latitude_deg": "16.791400909423828",
-    "longitude_deg": "-62.19329833984375",
+    "latitude_deg": "16.791401",
+    "longitude_deg": "-62.193298",
     "elevation_ft": "550",
     "continent": "NA",
     "iso_country": "MS",
-    "iso_region": "MS-U-A",
+    "iso_region": "MS-SP",
     "municipality": "Gerald's Park",
     "scheduled_service": "yes",
     "gps_code": "TRPG",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/John_A._Osborne_Airport",
-    "keywords": "Gerald's Airport",
+    "keywords": "Gerald's Airport, Brades",
     "runways": [
         {
             "id": "263402",
@@ -50,14 +50,14 @@
         "keywords": "Airports in Montserrat"
     },
     "region": {
-        "id": "304721",
-        "code": "MS-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "505797",
+        "code": "MS-SP",
+        "local_code": "SP",
+        "name": "Saint Peter Parish",
         "continent": "NA",
         "iso_country": "MS",
         "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "keywords": "Airports in Saint Peter Parish"
     },
     "navaids": [
         {

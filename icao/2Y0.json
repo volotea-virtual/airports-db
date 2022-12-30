@@ -3,8 +3,8 @@
     "ident": "2Y0",
     "type": "closed",
     "name": "Primghar Airport",
-    "latitude_deg": "43.077999",
-    "longitude_deg": "-95.614304",
+    "latitude_deg": "43.078675",
+    "longitude_deg": "-95.614421",
     "elevation_ft": "1481",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "2Y0, 2Y0",
+    "keywords": "2Y0",
     "runways": [
         {
             "id": "254212",

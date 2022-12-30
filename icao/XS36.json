@@ -1,7 +1,7 @@
 {
     "id": "45849",
     "ident": "XS36",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Tres Ninos Ranch Airport",
     "latitude_deg": "30.253528",
     "longitude_deg": "-101.691631",
@@ -11,12 +11,12 @@
     "iso_region": "US-TX",
     "municipality": "Pandale",
     "scheduled_service": "no",
-    "gps_code": "XS36",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "XS36",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "XS36",
     "runways": [
         {
             "id": "264556",

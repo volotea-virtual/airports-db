@@ -2,7 +2,7 @@
     "id": "341532",
     "ident": "US-3264",
     "type": "heliport",
-    "name": "Stewart Beach Heliport",
+    "name": "Galveston Helicopter Adventures Heliport",
     "latitude_deg": "29.308",
     "longitude_deg": "-94.76909",
     "elevation_ft": "7",
@@ -16,7 +16,7 @@
     "local_code": "89TX",
     "home_link": "https://galvestonhelicopters.com/",
     "wikipedia_link": "",
-    "keywords": "Galveston Helicopters",
+    "keywords": "Galveston Helicopters, Stewart Beach",
     "runways": [
         {
             "id": "351614",
