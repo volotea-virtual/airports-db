@@ -2,9 +2,9 @@
     "id": "10179",
     "ident": "36FA",
     "type": "heliport",
-    "name": "International Heli-Tours Heliport",
-    "latitude_deg": "28.333462",
-    "longitude_deg": "-81.487988",
+    "name": "Orlando Helicopter Adventures Heliport",
+    "latitude_deg": "28.333457",
+    "longitude_deg": "-81.487765",
     "elevation_ft": "85",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "36FA",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "hawkeye heli tours, magic air adventure, international heli tours, kissimmee",
+    "keywords": "hawkeye heli tours, magic air adventure, international heli tours",
     "runways": [
         {
             "id": "265793",

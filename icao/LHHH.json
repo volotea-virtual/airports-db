@@ -1,7 +1,7 @@
 {
     "id": "43032",
     "ident": "LHHH",
-    "type": "closed",
+    "type": "small_airport",
     "name": "Hármashatárhegy Glider Field",
     "latitude_deg": "47.550301",
     "longitude_deg": "18.978701",
@@ -11,12 +11,12 @@
     "iso_region": "HU-BU",
     "municipality": "Budapest",
     "scheduled_service": "no",
-    "gps_code": "",
+    "gps_code": "LHHH",
     "iata_code": "",
     "local_code": "",
-    "home_link": "",
+    "home_link": "https://www.lhhh.hu",
     "wikipedia_link": "",
-    "keywords": "LHHH, LHHH",
+    "keywords": "",
     "runways": [
         {
             "id": "331146",

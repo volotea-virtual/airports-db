@@ -2,7 +2,7 @@
     "id": "9024",
     "ident": "24OK",
     "type": "heliport",
-    "name": "Alliance Health Seminole Heliport",
+    "name": "SSM Health St Anthony Hospital-Shawnee Heliport",
     "latitude_deg": "35.244862",
     "longitude_deg": "-96.697758",
     "elevation_ft": "964",
@@ -16,7 +16,7 @@
     "local_code": "24OK",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Columbia Seminole Heliport",
+    "keywords": "Columbia Seminole, Alliance Health Seminole",
     "runways": [
         {
             "id": "269793",

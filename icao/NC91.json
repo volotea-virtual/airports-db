@@ -2,7 +2,7 @@
     "id": "22831",
     "ident": "NC91",
     "type": "heliport",
-    "name": "Vidant Health Heliport",
+    "name": "ECU Health Medical Center Heliport",
     "latitude_deg": "35.608751",
     "longitude_deg": "-77.40717",
     "elevation_ft": "76",
@@ -16,7 +16,7 @@
     "local_code": "NC91",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Pitt County Memorial Hospital Heliport",
+    "keywords": "Vidant Health, Pitt County Memorial Hospital",
     "runways": [
         {
             "id": "268242",

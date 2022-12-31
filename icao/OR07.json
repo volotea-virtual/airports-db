@@ -2,9 +2,9 @@
     "id": "23858",
     "ident": "OR07",
     "type": "small_airport",
-    "name": "Miranda's Skyranch Airport",
+    "name": "Weddle Field",
     "latitude_deg": "44.762402",
-    "longitude_deg": "-119.101997",
+    "longitude_deg": "-119.101878",
     "elevation_ft": "3823",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "OR07",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Volny Long Creek",
+    "keywords": "Volny Long Creek, Miranda's Skyranch",
     "runways": [
         {
             "id": "242046",

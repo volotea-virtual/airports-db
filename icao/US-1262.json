@@ -2,7 +2,7 @@
     "id": "334256",
     "ident": "US-1262",
     "type": "seaplane_base",
-    "name": "Crystal Creek Lodge Seaplane Base",
+    "name": "Big Creek Seaplane Base",
     "latitude_deg": "58.646294",
     "longitude_deg": "-156.577764",
     "elevation_ft": "4",
@@ -16,7 +16,7 @@
     "local_code": "AK51",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "AKAA",
+    "keywords": "AKAA, Crystal Creek Lodge SPB",
     "runways": [
         {
             "id": "334258",

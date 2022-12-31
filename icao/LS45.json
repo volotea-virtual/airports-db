@@ -2,7 +2,7 @@
     "id": "21678",
     "ident": "LS45",
     "type": "heliport",
-    "name": "Waterford 3 Nuclear Generating Station Heliport",
+    "name": "Entergy Waterford 3 Heliport",
     "latitude_deg": "29.992084",
     "longitude_deg": "-90.467768",
     "elevation_ft": "15",
@@ -13,10 +13,10 @@
     "scheduled_service": "no",
     "gps_code": "LS45",
     "iata_code": "",
-    "local_code": "LS45",
+    "local_code": "LS82",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Waterford 3 Nuclear Generating Station",
     "runways": [
         {
             "id": "267909",

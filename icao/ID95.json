@@ -2,9 +2,9 @@
     "id": "17871",
     "ident": "ID95",
     "type": "small_airport",
-    "name": "Loomis Airport",
-    "latitude_deg": "43.861000061035156",
-    "longitude_deg": "-116.24099731445312",
+    "name": "Summit Ridge Ranch Airstrip",
+    "latitude_deg": "43.859219",
+    "longitude_deg": "-116.239953",
     "elevation_ft": "4180",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "ID95",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Loomis",
     "runways": [
         {
             "id": "246881",
