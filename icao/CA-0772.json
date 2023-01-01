@@ -1,7 +1,7 @@
 {
     "id": "46513",
     "ident": "CA-0772",
-    "type": "closed",
+    "type": "small_airport",
     "name": "Shuswap (Skwlax Field) Airport",
     "latitude_deg": "50.878669",
     "longitude_deg": "-119.590816",
@@ -9,14 +9,14 @@
     "continent": "NA",
     "iso_country": "CA",
     "iso_region": "CA-BC",
-    "municipality": "",
+    "municipality": "Chase",
     "scheduled_service": "no",
-    "gps_code": "",
+    "gps_code": "CSQ2",
     "iata_code": "",
-    "local_code": "",
+    "local_code": "SQ2",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Squilax",
     "runways": [
         {
             "id": "300441",

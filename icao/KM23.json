@@ -3,8 +3,8 @@
     "ident": "KM23",
     "type": "small_airport",
     "name": "James H Easom Field",
-    "latitude_deg": "32.311798095703125",
-    "longitude_deg": "-89.13590240478516",
+    "latitude_deg": "32.311908",
+    "longitude_deg": "-89.135556",
     "elevation_ft": "369",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "M23",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "O'Keefe Field",
     "runways": [
         {
             "id": "245761",

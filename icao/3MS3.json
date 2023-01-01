@@ -3,8 +3,8 @@
     "ident": "3MS3",
     "type": "small_airport",
     "name": "Root Hog Airport",
-    "latitude_deg": "32.515899658203125",
-    "longitude_deg": "-90.3511962890625",
+    "latitude_deg": "32.5159",
+    "longitude_deg": "-90.351196",
     "elevation_ft": "220",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "3MS3",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Holcomb Aerial Services",
     "runways": [
         {
             "id": "255387",
