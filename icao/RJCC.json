@@ -65,6 +65,22 @@
     ],
     "freqs": [
         {
+            "id": "505863",
+            "airport_ref": "5544",
+            "airport_ident": "RJCC",
+            "type": "01L",
+            "description": "",
+            "frequency_mhz": "110.9"
+        },
+        {
+            "id": "505864",
+            "airport_ref": "5544",
+            "airport_ident": "RJCC",
+            "type": "01R",
+            "description": "",
+            "frequency_mhz": "110.75"
+        },
+        {
             "id": "54608",
             "airport_ref": "5544",
             "airport_ident": "RJCC",
