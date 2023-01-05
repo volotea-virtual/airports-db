@@ -2,21 +2,21 @@
     "id": "505866",
     "ident": "YKOA",
     "type": "small_airport",
-    "name": "Airport",
+    "name": "Manna Hill Airport",
     "latitude_deg": "-32.427842",
     "longitude_deg": "140.006164",
     "elevation_ft": "1194",
     "continent": "OC",
     "iso_country": "AU",
-    "iso_region": "AU-QLD",
-    "municipality": "MannaHill",
+    "iso_region": "AU-SA",
+    "municipality": "Mannahill",
     "scheduled_service": "no",
-    "gps_code": "YKOA",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Koarlo, YKOA",
+    "keywords": "",
     "runways": [
         {
             "id": "505867",
@@ -50,13 +50,13 @@
         "keywords": "Australian airports"
     },
     "region": {
-        "id": "302971",
-        "code": "AU-QLD",
-        "local_code": "QLD",
-        "name": "Queensland",
+        "id": "302972",
+        "code": "AU-SA",
+        "local_code": "SA",
+        "name": "South Australia",
         "continent": "OC",
         "iso_country": "AU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
-        "keywords": "Airports in Queensland"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Australia",
+        "keywords": "South Australian airports"
     }
 }

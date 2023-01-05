@@ -17,6 +17,16 @@
     "home_link": "http://www.cmfc.me.uk/index.html",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Crosland_Moor_Airfield",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "505881",
+            "airport_ref": "46641",
+            "airport_ident": "EGND",
+            "type": "A/G",
+            "description": "",
+            "frequency_mhz": "128.375"
+        }
+    ],
     "country": {
         "id": "302688",
         "code": "GB",

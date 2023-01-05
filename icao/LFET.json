@@ -65,7 +65,7 @@
     ],
     "freqs": [
         {
-            "id": "505691",
+            "id": "505692",
             "airport_ref": "28831",
             "airport_ident": "LFET",
             "type": "A/A",
@@ -73,7 +73,7 @@
             "frequency_mhz": "120.06"
         },
         {
-            "id": "505692",
+            "id": "505691",
             "airport_ref": "28831",
             "airport_ident": "LFET",
             "type": "A/A",
