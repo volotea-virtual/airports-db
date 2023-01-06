@@ -3,8 +3,8 @@
     "ident": "2IG5",
     "type": "heliport",
     "name": "Heli-Bell Museum Heliport",
-    "latitude_deg": "41.17169952392578",
-    "longitude_deg": "-86.04280090332031",
+    "latitude_deg": "41.171556",
+    "longitude_deg": "-86.042816",
     "elevation_ft": "822",
     "continent": "NA",
     "iso_country": "US",
@@ -14,9 +14,9 @@
     "gps_code": "2IG5",
     "iata_code": "",
     "local_code": "2IG5",
-    "home_link": "",
+    "home_link": "https://www.bellaircraftmuseum.org/",
     "wikipedia_link": "",
-    "keywords": "Formerly 2E4",
+    "keywords": "Formerly 2E4, 9IN4",
     "runways": [
         {
             "id": "265700",
