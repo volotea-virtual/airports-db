@@ -3,8 +3,8 @@
     "ident": "SWPI",
     "type": "small_airport",
     "name": "Parintins Airport",
-    "latitude_deg": "-2.6730198860168457",
-    "longitude_deg": "-56.777198791503906",
+    "latitude_deg": "-2.673521",
+    "longitude_deg": "-56.777625",
     "elevation_ft": "87",
     "continent": "SA",
     "iso_country": "BR",
@@ -13,9 +13,9 @@
     "scheduled_service": "no",
     "gps_code": "SWPI",
     "iata_code": "PIN",
-    "local_code": "SWPI",
+    "local_code": "AM0006",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Parintins_Airport",
     "keywords": "",
     "runways": [
         {
