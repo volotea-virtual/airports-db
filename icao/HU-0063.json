@@ -1,0 +1,38 @@
+{
+    "id": "506009",
+    "ident": "HU-0063",
+    "type": "small_airport",
+    "name": "Martfű Airstrip",
+    "latitude_deg": "47.01397",
+    "longitude_deg": "20.28573",
+    "elevation_ft": "-2",
+    "continent": "EU",
+    "iso_country": "HU",
+    "iso_region": "HU-JN",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302693",
+        "code": "HU",
+        "name": "Hungary",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hungary",
+        "keywords": "Repülőterek Magyarország"
+    },
+    "region": {
+        "id": "304071",
+        "code": "HU-JN",
+        "local_code": "JN",
+        "name": "Jász-Nagykun-Szolnok County",
+        "continent": "EU",
+        "iso_country": "HU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Jász-Nagykun-Szolnok",
+        "keywords": "Airports in Jász-Nagykun-Szolnok County"
+    }
+}

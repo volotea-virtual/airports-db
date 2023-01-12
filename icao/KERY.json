@@ -3,8 +3,8 @@
     "ident": "KERY",
     "type": "small_airport",
     "name": "Luce County Airport",
-    "latitude_deg": "46.31119918823242",
-    "longitude_deg": "-85.4572982788086",
+    "latitude_deg": "46.311199",
+    "longitude_deg": "-85.457298",
     "elevation_ft": "869",
     "continent": "NA",
     "iso_country": "US",
@@ -14,8 +14,8 @@
     "gps_code": "KERY",
     "iata_code": "",
     "local_code": "ERY",
-    "home_link": "",
-    "wikipedia_link": "",
+    "home_link": "https://www.lucecountyairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Luce_County_Airport",
     "keywords": "",
     "runways": [
         {
