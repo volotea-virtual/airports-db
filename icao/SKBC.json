@@ -6,7 +6,7 @@
     "latitude_deg": "9.04554",
     "longitude_deg": "-73.9749",
     "elevation_ft": "111",
-    "continent": "SA",
+    "continent": "NA",
     "iso_country": "CO",
     "iso_region": "CO-MAG",
     "municipality": "El Banco",
@@ -15,7 +15,7 @@
     "iata_code": "ELB",
     "local_code": "ELB",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Las_Flores_Airport_(Colombia)",
     "keywords": "",
     "runways": [
         {

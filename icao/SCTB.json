@@ -47,8 +47,8 @@
             "airport_ref": "6041",
             "airport_ident": "SCTB",
             "type": "GND",
-            "description": "GND",
-            "frequency_mhz": "121.75"
+            "description": "Tobalaba GND",
+            "frequency_mhz": "120.5"
         },
         {
             "id": "51296",
