@@ -5,7 +5,7 @@
     "name": "Kalocsa/Foktő Airfield",
     "latitude_deg": "46.549613",
     "longitude_deg": "18.942421",
-    "elevation_ft": "284",
+    "elevation_ft": "299",
     "continent": "EU",
     "iso_country": "HU",
     "iso_region": "HU-BK",
@@ -39,6 +39,16 @@
             "he_elevation_ft": "",
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "506099",
+            "airport_ref": "43983",
+            "airport_ident": "HU-0002",
+            "type": "CTAF",
+            "description": "Kalocsa INFO",
+            "frequency_mhz": "135.4"
         }
     ],
     "country": {
