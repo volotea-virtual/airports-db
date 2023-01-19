@@ -3,8 +3,8 @@
     "ident": "VNDH",
     "type": "small_airport",
     "name": "Dhangarhi Airport",
-    "latitude_deg": "28.7533",
-    "longitude_deg": "80.581902",
+    "latitude_deg": "28.755283",
+    "longitude_deg": "80.583398",
     "elevation_ft": "690",
     "continent": "AS",
     "iso_country": "NP",
@@ -15,7 +15,7 @@
     "iata_code": "DHI",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Dhangadhi_Airport",
     "keywords": "",
     "runways": [
         {
