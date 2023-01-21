@@ -2,9 +2,9 @@
     "id": "13370",
     "ident": "6MD8",
     "type": "small_airport",
-    "name": "White's Airstrip",
-    "latitude_deg": "38.442298889160156",
-    "longitude_deg": "-75.4032974243164",
+    "name": "Delmarvair Airport",
+    "latitude_deg": "38.441456",
+    "longitude_deg": "-75.403075",
     "elevation_ft": "55",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "6MD8",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "White's Airstrip",
     "runways": [
         {
             "id": "248846",
