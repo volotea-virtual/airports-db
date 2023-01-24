@@ -24,7 +24,7 @@
             "airport_ident": "LFET",
             "length_ft": "3445",
             "width_ft": "328",
-            "surface": "Grass",
+            "surface": "Turf",
             "lighted": "0",
             "closed": "0",
             "le_ident": "01",
@@ -46,7 +46,7 @@
             "airport_ident": "LFET",
             "length_ft": "3412",
             "width_ft": "196",
-            "surface": "Grass",
+            "surface": "Turf",
             "lighted": "0",
             "closed": "0",
             "le_ident": "11",
@@ -64,14 +64,6 @@
         }
     ],
     "freqs": [
-        {
-            "id": "505692",
-            "airport_ref": "28831",
-            "airport_ident": "LFET",
-            "type": "A/A",
-            "description": "",
-            "frequency_mhz": "120.06"
-        },
         {
             "id": "505691",
             "airport_ref": "28831",
