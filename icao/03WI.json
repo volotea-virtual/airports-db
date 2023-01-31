@@ -1,7 +1,7 @@
 {
     "id": "6750",
     "ident": "03WI",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Zink Airport",
     "latitude_deg": "44.028873",
     "longitude_deg": "-88.883945",
@@ -11,12 +11,12 @@
     "iso_region": "US-WI",
     "municipality": "Berlin",
     "scheduled_service": "no",
-    "gps_code": "03WI",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "03WI",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "03WI",
     "runways": [
         {
             "id": "254284",
