@@ -17,6 +17,30 @@
     "home_link": "http://www.sorlini.com/index.php?option=com_content&view=article&id=27&Itemid=154&lang=en",
     "wikipedia_link": "",
     "keywords": "Sorlini,Luciano Sorlini",
+    "runways": [
+        {
+            "id": "506362",
+            "airport_ref": "320806",
+            "airport_ident": "IT-0476",
+            "length_ft": "2077",
+            "width_ft": "164",
+            "surface": "Grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "640",
+            "le_heading_degT": "15",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "640",
+            "he_heading_degT": "33",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "country": {
         "id": "302697",
         "code": "IT",

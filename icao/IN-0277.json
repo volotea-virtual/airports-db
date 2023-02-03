@@ -1,8 +1,8 @@
 {
     "id": "342094",
     "ident": "IN-0277",
-    "type": "closed",
-    "name": "Mopa International Airport (under construction)",
+    "type": "medium_airport",
+    "name": "Mopa International Airport",
     "latitude_deg": "15.743514",
     "longitude_deg": "73.859625",
     "elevation_ft": "586",
@@ -10,13 +10,13 @@
     "iso_country": "IN",
     "iso_region": "IN-GA",
     "municipality": "Mopa",
-    "scheduled_service": "no",
+    "scheduled_service": "yes",
     "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Mopa_Airport",
-    "keywords": "VOGA, VOGA, GOX",
+    "keywords": "VOGA, GOX",
     "runways": [
         {
             "id": "352588",
