@@ -23,8 +23,8 @@
             "airport_ref": "46371",
             "airport_ident": "EHOW",
             "length_ft": "2625",
-            "width_ft": "98",
-            "surface": "Grass, first 500x6 meter on 25 is paved",
+            "width_ft": "66",
+            "surface": "Asphalt",
             "lighted": "0",
             "closed": "0",
             "le_ident": "06",
@@ -43,14 +43,6 @@
     ],
     "freqs": [
         {
-            "id": "75318",
-            "airport_ref": "46371",
-            "airport_ident": "EHOW",
-            "type": "AFIS",
-            "description": "Oostwold Radio",
-            "frequency_mhz": "118.33"
-        },
-        {
             "id": "75319",
             "airport_ref": "46371",
             "airport_ident": "EHOW",
@@ -59,12 +51,12 @@
             "frequency_mhz": "120.305"
         },
         {
-            "id": "352514",
+            "id": "75318",
             "airport_ref": "46371",
             "airport_ident": "EHOW",
-            "type": "INFO",
-            "description": "Oostwold Radio Information",
-            "frequency_mhz": "119.25"
+            "type": "Radio",
+            "description": "Oostwold Radio",
+            "frequency_mhz": "118.33"
         },
         {
             "id": "75320",

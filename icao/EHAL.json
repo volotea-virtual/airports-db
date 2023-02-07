@@ -43,14 +43,6 @@
     ],
     "freqs": [
         {
-            "id": "75286",
-            "airport_ref": "28120",
-            "airport_ident": "EHAL",
-            "type": "APP",
-            "description": "RAPCON North",
-            "frequency_mhz": "132.03"
-        },
-        {
             "id": "75287",
             "airport_ref": "28120",
             "airport_ident": "EHAL",
@@ -62,17 +54,9 @@
             "id": "75284",
             "airport_ref": "28120",
             "airport_ident": "EHAL",
-            "type": "INFO",
+            "type": "Radio",
             "description": "Ameland Radio",
             "frequency_mhz": "118.355"
-        },
-        {
-            "id": "75285",
-            "airport_ref": "28120",
-            "airport_ident": "EHAL",
-            "type": "TWR",
-            "description": "Leeuwarden Tower",
-            "frequency_mhz": "120.705"
         }
     ],
     "country": {

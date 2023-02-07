@@ -17,6 +17,16 @@
     "home_link": "https://www.ehal.nl/",
     "wikipedia_link": "https://nl.wikipedia.org/wiki/Ameland_Airport_Ballum",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "506407",
+            "airport_ref": "340490",
+            "airport_ident": "EHAD",
+            "type": "Radio",
+            "description": "",
+            "frequency_mhz": "118.355"
+        }
+    ],
     "country": {
         "id": "302708",
         "code": "NL",
