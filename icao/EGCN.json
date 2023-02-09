@@ -1,7 +1,7 @@
 {
     "id": "2401",
     "ident": "EGCN",
-    "type": "medium_airport",
+    "type": "closed",
     "name": "Robin Hood Doncaster Sheffield Airport",
     "latitude_deg": "53.480538",
     "longitude_deg": "-1.010656",
@@ -11,12 +11,12 @@
     "iso_region": "GB-ENG",
     "municipality": "Doncaster",
     "scheduled_service": "yes",
-    "gps_code": "EGCN",
-    "iata_code": "DSA",
+    "gps_code": "",
+    "iata_code": "",
     "local_code": "",
     "home_link": "http://www.robinhoodairport.com/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Robin_Hood_Airport_Doncaster_Sheffield",
-    "keywords": "RAF Finningley",
+    "keywords": "RAF Finningley, EGCN, DSA",
     "runways": [
         {
             "id": "239584",
