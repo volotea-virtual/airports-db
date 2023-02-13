@@ -1,0 +1,38 @@
+{
+    "id": "506525",
+    "ident": "WAFU",
+    "type": "small_airport",
+    "name": "Tanjung Api Airport",
+    "latitude_deg": "-0.865385",
+    "longitude_deg": "121.627768",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-ST",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "WAFU",
+    "iata_code": "OJU",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tanjung_Api_Airport",
+    "keywords": "",
+    "country": {
+        "id": "302632",
+        "code": "ID",
+        "name": "Indonesia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
+        "keywords": "Bandara di Indonesia"
+    },
+    "region": {
+        "id": "304125",
+        "code": "ID-ST",
+        "local_code": "ST",
+        "name": "Sulawesi Tengah (Central Sulawesi)",
+        "continent": "AS",
+        "iso_country": "ID",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sulawesi_Tengah",
+        "keywords": "Airports in Sulawesi Tengah"
+    }
+}
