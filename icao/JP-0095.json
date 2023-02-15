@@ -2,7 +2,7 @@
     "id": "334420",
     "ident": "JP-0095",
     "type": "small_airport",
-    "name": "Moriya Airstrip",
+    "name": "Tokyo Flight Park Moriya Airstrip",
     "latitude_deg": "35.929944",
     "longitude_deg": "139.974189",
     "elevation_ft": "",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "東京フライトパーク 守谷飛行場",
     "country": {
         "id": "302639",
         "code": "JP",
