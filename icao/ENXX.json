@@ -2,7 +2,7 @@
     "id": "29308",
     "ident": "ENXX",
     "type": "closed",
-    "name": "ENOR FIR",
+    "name": "POLARIS FIR",
     "latitude_deg": "57.6236",
     "longitude_deg": "2.84722",
     "elevation_ft": "",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "ENXX, ENXX",
+    "keywords": "ENOR, ENXX",
     "country": {
         "id": "302709",
         "code": "NO",

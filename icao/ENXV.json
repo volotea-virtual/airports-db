@@ -1,7 +1,7 @@
 {
     "id": "29307",
     "ident": "ENXV",
-    "type": "heliport",
+    "type": "closed",
     "name": "Varg Platform",
     "latitude_deg": "58.077202",
     "longitude_deg": "1.88889",
@@ -11,12 +11,12 @@
     "iso_region": "NO-XX",
     "municipality": "",
     "scheduled_service": "no",
-    "gps_code": "ENXV",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "ENXV",
     "country": {
         "id": "302709",
         "code": "NO",
