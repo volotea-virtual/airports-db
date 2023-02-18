@@ -1,0 +1,38 @@
+{
+    "id": "506610",
+    "ident": "VOGB",
+    "type": "small_airport",
+    "name": "Kalaburagi Airport",
+    "latitude_deg": "17.307778",
+    "longitude_deg": "76.958056",
+    "elevation_ft": "1571",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-U-A",
+    "municipality": "Kalaburagi",
+    "scheduled_service": "yes",
+    "gps_code": "VOGB",
+    "iata_code": "GBI",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kalaburagi_Airport",
+    "keywords": "Gulbarga",
+    "country": {
+        "id": "302634",
+        "code": "IN",
+        "name": "India",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
+        "keywords": "Airports in India, Indian airports"
+    },
+    "region": {
+        "id": "304195",
+        "code": "IN-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "AS",
+        "iso_country": "IN",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}

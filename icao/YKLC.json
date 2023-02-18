@@ -1,0 +1,62 @@
+{
+    "id": "506612",
+    "ident": "YKLC",
+    "type": "small_airport",
+    "name": "Koolan Central Airport",
+    "latitude_deg": "-16.125",
+    "longitude_deg": "123.735",
+    "elevation_ft": "540",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-WA",
+    "municipality": "Koolan Island",
+    "scheduled_service": "no",
+    "gps_code": "YKLC",
+    "iata_code": "KCI",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "506616",
+            "airport_ref": "506612",
+            "airport_ident": "YKLC",
+            "length_ft": "6890",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "-16.12128",
+            "le_longitude_deg": "123.72618",
+            "le_elevation_ft": "537",
+            "le_heading_degT": "114",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "-16.12898",
+            "he_longitude_deg": "123.74401",
+            "he_elevation_ft": "513",
+            "he_heading_degT": "294",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": "Australian airports"
+    },
+    "region": {
+        "id": "302976",
+        "code": "AU-WA",
+        "local_code": "WA",
+        "name": "Western Australia",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Australia",
+        "keywords": "Western Australian airports"
+    }
+}
