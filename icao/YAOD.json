@@ -1,0 +1,38 @@
+{
+    "id": "506641",
+    "ident": "YAOD",
+    "type": "heliport",
+    "name": "Australian Age of Dinosaurs Helicopter Landing Site",
+    "latitude_deg": "-22.48",
+    "longitude_deg": "143.1825",
+    "elevation_ft": "899",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-QLD",
+    "municipality": "Australian Age of Dinosaurs Museum",
+    "scheduled_service": "no",
+    "gps_code": "YAOD",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": "Australian airports"
+    },
+    "region": {
+        "id": "302971",
+        "code": "AU-QLD",
+        "local_code": "QLD",
+        "name": "Queensland",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Queensland",
+        "keywords": "Airports in Queensland"
+    }
+}

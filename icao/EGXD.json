@@ -1,10 +1,10 @@
 {
     "id": "2498",
     "ident": "EGXD",
-    "type": "medium_airport",
-    "name": "RAF Dishforth",
-    "latitude_deg": "54.1371994019",
-    "longitude_deg": "-1.42025005817",
+    "type": "small_airport",
+    "name": "Dishforth Airfield",
+    "latitude_deg": "54.137199",
+    "longitude_deg": "-1.42025",
     "elevation_ft": "117",
     "continent": "EU",
     "iso_country": "GB",
@@ -15,8 +15,8 @@
     "iata_code": "",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "https://en.wikipedia.org/wiki/RAF_Dishforth",
-    "keywords": "Royal Air Force",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Dishforth_Airfield",
+    "keywords": "Royal Air Force, RAF",
     "runways": [
         {
             "id": "239513",
