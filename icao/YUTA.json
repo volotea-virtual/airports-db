@@ -1,0 +1,38 @@
+{
+    "id": "506645",
+    "ident": "YUTA",
+    "type": "heliport",
+    "name": "Barracouta Platform Helipad",
+    "latitude_deg": "-38.296874",
+    "longitude_deg": "147.676063",
+    "elevation_ft": "100",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-VIC",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "YUTA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": "Australian airports"
+    },
+    "region": {
+        "id": "302975",
+        "code": "AU-VIC",
+        "local_code": "VIC",
+        "name": "Victoria",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Victoria_(Australia)",
+        "keywords": "Victorian airports"
+    }
+}
