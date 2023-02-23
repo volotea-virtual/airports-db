@@ -1,0 +1,38 @@
+{
+    "id": "506712",
+    "ident": "SJ8G",
+    "type": "small_airport",
+    "name": "Fazenda Aracoara Airport",
+    "latitude_deg": "-20.712778",
+    "longitude_deg": "-54.781944",
+    "elevation_ft": "1591",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MS",
+    "municipality": "Sidrolândia",
+    "scheduled_service": "no",
+    "gps_code": "SJ8G",
+    "iata_code": "",
+    "local_code": "MS0653",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303210",
+        "code": "BR-MS",
+        "local_code": "MS",
+        "name": "Mato Grosso do Sul",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mato_Grosso_do_Sul",
+        "keywords": "Airports in Mato Grosso do Sul"
+    }
+}
