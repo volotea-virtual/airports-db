@@ -3,12 +3,12 @@
     "ident": "VOGB",
     "type": "small_airport",
     "name": "Kalaburagi Airport",
-    "latitude_deg": "17.307778",
-    "longitude_deg": "76.958056",
+    "latitude_deg": "17.308154",
+    "longitude_deg": "76.965246",
     "elevation_ft": "1571",
     "continent": "AS",
     "iso_country": "IN",
-    "iso_region": "IN-U-A",
+    "iso_region": "IN-KA",
     "municipality": "Kalaburagi",
     "scheduled_service": "yes",
     "gps_code": "VOGB",
@@ -26,13 +26,13 @@
         "keywords": "Airports in India, Indian airports"
     },
     "region": {
-        "id": "304195",
-        "code": "IN-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "304179",
+        "code": "IN-KA",
+        "local_code": "KA",
+        "name": "Karnataka",
         "continent": "AS",
         "iso_country": "IN",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Karnataka",
+        "keywords": "Airports in Karnataka"
     }
 }
