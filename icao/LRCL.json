@@ -69,8 +69,16 @@
             "airport_ref": "4476",
             "airport_ident": "LRCL",
             "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "125.1"
+            "description": "NAPOC Approach",
+            "frequency_mhz": "126.43"
+        },
+        {
+            "id": "506774",
+            "airport_ref": "4476",
+            "airport_ident": "LRCL",
+            "type": "ATIS",
+            "description": "Cluj ATIS",
+            "frequency_mhz": "125.525"
         },
         {
             "id": "56423",
@@ -85,7 +93,15 @@
             "airport_ref": "4476",
             "airport_ident": "LRCL",
             "type": "TWR",
-            "description": "TWR",
+            "description": "Cluj Tower",
+            "frequency_mhz": "118.705"
+        },
+        {
+            "id": "506775",
+            "airport_ref": "4476",
+            "airport_ident": "LRCL",
+            "type": "TWR ALTN",
+            "description": "",
             "frequency_mhz": "134.4"
         }
     ],
