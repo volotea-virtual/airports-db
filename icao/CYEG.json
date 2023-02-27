@@ -3,8 +3,8 @@
     "ident": "CYEG",
     "type": "large_airport",
     "name": "Edmonton International Airport",
-    "latitude_deg": "53.309700012200004",
-    "longitude_deg": "-113.580001831",
+    "latitude_deg": "53.3097",
+    "longitude_deg": "-113.580002",
     "elevation_ft": "2373",
     "continent": "NA",
     "iso_country": "CA",
@@ -16,7 +16,7 @@
     "local_code": "CYEG",
     "home_link": "http://www.edmontonairports.com/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Edmonton_International_Airport",
-    "keywords": "YEA",
+    "keywords": "",
     "runways": [
         {
             "id": "234742",

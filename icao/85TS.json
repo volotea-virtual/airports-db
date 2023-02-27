@@ -1,7 +1,7 @@
 {
     "id": "14703",
     "ident": "85TS",
-    "type": "heliport",
+    "type": "closed",
     "name": "Airbus Helicopter Heliport",
     "latitude_deg": "32.702139",
     "longitude_deg": "-97.047864",
@@ -11,12 +11,12 @@
     "iso_region": "US-TX",
     "municipality": "Grand Prairie",
     "scheduled_service": "no",
-    "gps_code": "85TS",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "85TS",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "American Eurocopter, Aerospatiale Helicopter Corp",
+    "keywords": "85TS, American Eurocopter, Aerospatiale Helicopter Corp",
     "runways": [
         {
             "id": "270736",
