@@ -1,7 +1,7 @@
 {
     "id": "31026",
     "ident": "EVEA",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Jelgava Airfield",
     "latitude_deg": "56.672798",
     "longitude_deg": "23.679199",
@@ -11,7 +11,7 @@
     "iso_region": "LV-JEL",
     "municipality": "Jelgava",
     "scheduled_service": "no",
-    "gps_code": "EVEA",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
