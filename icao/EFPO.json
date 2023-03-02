@@ -65,12 +65,20 @@
     ],
     "freqs": [
         {
+            "id": "506905",
+            "airport_ref": "2336",
+            "airport_ident": "EFPO",
+            "type": "APP",
+            "description": "APP",
+            "frequency_mhz": "128.65"
+        },
+        {
             "id": "52077",
             "airport_ref": "2336",
             "airport_ident": "EFPO",
             "type": "ATIS",
             "description": "ATIS",
-            "frequency_mhz": "113.2"
+            "frequency_mhz": "136.075"
         },
         {
             "id": "52078",
