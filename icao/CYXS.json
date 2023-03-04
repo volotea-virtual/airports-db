@@ -1,10 +1,10 @@
 {
     "id": "1966",
     "ident": "CYXS",
-    "type": "medium_airport",
+    "type": "large_airport",
     "name": "Prince George Airport",
-    "latitude_deg": "53.8894004822",
-    "longitude_deg": "-122.679000854",
+    "latitude_deg": "53.573064",
+    "longitude_deg": "-113.516192",
     "elevation_ft": "2267",
     "continent": "NA",
     "iso_country": "CA",

@@ -1,0 +1,38 @@
+{
+    "id": "506946",
+    "ident": "UGAM",
+    "type": "medium_airport",
+    "name": "Ambrolauri Airport",
+    "latitude_deg": "42.52687",
+    "longitude_deg": "43.13538",
+    "elevation_ft": "1784",
+    "continent": "AS",
+    "iso_country": "GE",
+    "iso_region": "GE-RL",
+    "municipality": "Ambrolauri",
+    "scheduled_service": "yes",
+    "gps_code": "UGAM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Ambrolauri_Airport",
+    "keywords": "",
+    "country": {
+        "id": "302630",
+        "code": "GE",
+        "name": "Georgia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia_(country)",
+        "keywords": "Georgian airports"
+    },
+    "region": {
+        "id": "306405",
+        "code": "GE-RL",
+        "local_code": "RL",
+        "name": "Racha-Lechkhumi and Kvemo Svaneti",
+        "continent": "AS",
+        "iso_country": "GE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Racha-Lechkhumi_and_Kvemo_Svaneti",
+        "keywords": "Airports in Racha-Lechkhumi and Kvemo Svaneti"
+    }
+}
