@@ -3,9 +3,9 @@
     "ident": "ESGO",
     "type": "small_airport",
     "name": "Vårgårda Airport",
-    "latitude_deg": "58.039398193359375",
-    "longitude_deg": "12.788900375366211",
-    "elevation_ft": "328",
+    "latitude_deg": "58.039398",
+    "longitude_deg": "12.7889",
+    "elevation_ft": "318",
     "continent": "EU",
     "iso_country": "SE",
     "iso_region": "SE-Q",
@@ -17,6 +17,30 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "runways": [
+        {
+            "id": "506988",
+            "airport_ref": "30522",
+            "airport_ident": "ESGO",
+            "length_ft": "2952",
+            "width_ft": "92",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
     "freqs": [
         {
             "id": "332891",
