@@ -2,9 +2,9 @@
     "id": "2521",
     "ident": "EHKD",
     "type": "medium_airport",
-    "name": "De Kooy Airport",
-    "latitude_deg": "52.92340087890625",
-    "longitude_deg": "4.780620098114014",
+    "name": "De Kooy Airfield / Den Helder Naval Air Station",
+    "latitude_deg": "52.923401",
+    "longitude_deg": "4.78062",
     "elevation_ft": "3",
     "continent": "EU",
     "iso_country": "NL",
@@ -15,7 +15,7 @@
     "iata_code": "DHR",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "https://en.wikipedia.org/wiki/De_Kooy",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/De_Kooy_Airfield",
     "keywords": "",
     "runways": [
         {

@@ -78,7 +78,7 @@
             "airport_ident": "EFKU",
             "type": "ATIS",
             "description": "ATIS",
-            "frequency_mhz": "113"
+            "frequency_mhz": "128.775"
         },
         {
             "id": "52098",
