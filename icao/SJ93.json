@@ -1,0 +1,62 @@
+{
+    "id": "507023",
+    "ident": "SJ93",
+    "type": "small_airport",
+    "name": "Fazenda Paranoá Airport",
+    "latitude_deg": "-13.203146",
+    "longitude_deg": "-52.194675",
+    "elevation_ft": "1250",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MT",
+    "municipality": "Canarana",
+    "scheduled_service": "no",
+    "gps_code": "SJ93",
+    "iata_code": "",
+    "local_code": "MT0862",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "507024",
+            "airport_ref": "507023",
+            "airport_ident": "SJ93",
+            "length_ft": "3609",
+            "width_ft": "66",
+            "surface": "Piçarra",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303211",
+        "code": "BR-MT",
+        "local_code": "MT",
+        "name": "Mato Grosso",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mato_Grosso",
+        "keywords": "Airports in Mato Grosso"
+    }
+}
