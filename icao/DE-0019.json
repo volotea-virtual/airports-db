@@ -1,10 +1,10 @@
 {
     "id": "44588",
     "ident": "DE-0019",
-    "type": "heliport",
+    "type": "closed",
     "name": "Frankfurt am Main Accident Hospital Ground Helipad",
-    "latitude_deg": "50.144100189208984",
-    "longitude_deg": "8.709600448608398",
+    "latitude_deg": "50.1441",
+    "longitude_deg": "8.7096",
     "elevation_ft": "",
     "continent": "EU",
     "iso_country": "DE",
