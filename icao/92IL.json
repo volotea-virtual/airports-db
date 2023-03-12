@@ -1,7 +1,7 @@
 {
     "id": "15349",
     "ident": "92IL",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Hunter Raffety Elevators Inc Airport",
     "latitude_deg": "37.04037",
     "longitude_deg": "-89.32399",
@@ -11,12 +11,12 @@
     "iso_region": "US-IL",
     "municipality": "Cairo",
     "scheduled_service": "no",
-    "gps_code": "92IL",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "92IL",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "92IL",
     "runways": [
         {
             "id": "248625",

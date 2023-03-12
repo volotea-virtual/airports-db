@@ -10,7 +10,7 @@
     "iso_country": "EG",
     "iso_region": "EG-GZ",
     "municipality": "Al Jiza",
-    "scheduled_service": "no",
+    "scheduled_service": "yes",
     "gps_code": "HESX",
     "iata_code": "SPX",
     "local_code": "",
