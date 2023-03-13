@@ -1,7 +1,7 @@
 {
     "id": "320204",
     "ident": "IT-0421",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Campo di Volo \"Volo Libero Carnia\"",
     "latitude_deg": "46.524053",
     "longitude_deg": "13.004055",
@@ -13,10 +13,10 @@
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
-    "local_code": "UDCER",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Volo Libero Carnia",
+    "keywords": "Volo Libero Carnia, UDCER",
     "country": {
         "id": "302697",
         "code": "IT",
