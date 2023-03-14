@@ -3,8 +3,8 @@
     "ident": "YNYN",
     "type": "small_airport",
     "name": "Nyngan Airport",
-    "latitude_deg": "-31.55109977722168",
-    "longitude_deg": "147.2030029296875",
+    "latitude_deg": "-31.550645",
+    "longitude_deg": "147.202973",
     "elevation_ft": "569",
     "continent": "OC",
     "iso_country": "AU",
@@ -15,7 +15,7 @@
     "iata_code": "NYN",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Nyngan_Airport",
     "keywords": "",
     "runways": [
         {

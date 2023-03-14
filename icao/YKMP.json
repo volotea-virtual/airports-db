@@ -3,8 +3,8 @@
     "ident": "YKMP",
     "type": "medium_airport",
     "name": "Kempsey Airport",
-    "latitude_deg": "-31.074399948120117",
-    "longitude_deg": "152.77000427246094",
+    "latitude_deg": "-31.07232",
+    "longitude_deg": "152.765313",
     "elevation_ft": "54",
     "continent": "OC",
     "iso_country": "AU",
@@ -15,7 +15,7 @@
     "iata_code": "KPS",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kempsey_Airport",
     "keywords": "",
     "runways": [
         {

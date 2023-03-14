@@ -3,8 +3,8 @@
     "ident": "YGDH",
     "type": "medium_airport",
     "name": "Gunnedah Airport",
-    "latitude_deg": "-30.96109962463379",
-    "longitude_deg": "150.25100708007812",
+    "latitude_deg": "-30.957511",
+    "longitude_deg": "150.248981",
     "elevation_ft": "863",
     "continent": "OC",
     "iso_country": "AU",
@@ -15,7 +15,7 @@
     "iata_code": "GUH",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Gunnedah_Airport",
     "keywords": "",
     "runways": [
         {

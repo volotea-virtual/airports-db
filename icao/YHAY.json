@@ -3,8 +3,8 @@
     "ident": "YHAY",
     "type": "medium_airport",
     "name": "Hay Airport",
-    "latitude_deg": "-34.53139877319336",
-    "longitude_deg": "144.8300018310547",
+    "latitude_deg": "-34.531399",
+    "longitude_deg": "144.830002",
     "elevation_ft": "305",
     "continent": "OC",
     "iso_country": "AU",
@@ -15,7 +15,7 @@
     "iata_code": "HXX",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hay_Airport",
     "keywords": "",
     "runways": [
         {
