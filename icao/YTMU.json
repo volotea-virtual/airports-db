@@ -3,8 +3,8 @@
     "ident": "YTMU",
     "type": "medium_airport",
     "name": "Tumut Airport",
-    "latitude_deg": "-35.268657",
-    "longitude_deg": "148.240474",
+    "latitude_deg": "-35.26832",
+    "longitude_deg": "148.240526",
     "elevation_ft": "878",
     "continent": "OC",
     "iso_country": "AU",
@@ -14,8 +14,8 @@
     "gps_code": "YTMU",
     "iata_code": "TUM",
     "local_code": "",
-    "home_link": "",
-    "wikipedia_link": "",
+    "home_link": "http://www.tumutaeroclub.org.au/content/information.html",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tumut_Airport",
     "keywords": "",
     "runways": [
         {

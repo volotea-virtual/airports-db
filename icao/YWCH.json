@@ -3,8 +3,8 @@
     "ident": "YWCH",
     "type": "small_airport",
     "name": "Walcha Airport",
-    "latitude_deg": "-31.01001",
-    "longitude_deg": "151.548216",
+    "latitude_deg": "-31.009492",
+    "longitude_deg": "151.547442",
     "elevation_ft": "",
     "continent": "OC",
     "iso_country": "AU",
@@ -15,7 +15,7 @@
     "iata_code": "WLC",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Walcha_Airport",
     "keywords": "",
     "runways": [
         {

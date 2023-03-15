@@ -3,8 +3,8 @@
     "ident": "YTRE",
     "type": "medium_airport",
     "name": "Taree Airport",
-    "latitude_deg": "-31.8885993958",
-    "longitude_deg": "152.514007568",
+    "latitude_deg": "-31.888599",
+    "longitude_deg": "152.514008",
     "elevation_ft": "38",
     "continent": "OC",
     "iso_country": "AU",
@@ -15,7 +15,7 @@
     "iata_code": "TRO",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Taree_Airport",
     "keywords": "",
     "runways": [
         {

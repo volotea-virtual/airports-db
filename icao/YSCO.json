@@ -3,8 +3,8 @@
     "ident": "YSCO",
     "type": "small_airport",
     "name": "Scone Airport",
-    "latitude_deg": "-32.037200927734375",
-    "longitude_deg": "150.83200073242188",
+    "latitude_deg": "-32.038012",
+    "longitude_deg": "150.831966",
     "elevation_ft": "745",
     "continent": "OC",
     "iso_country": "AU",
@@ -15,7 +15,7 @@
     "iata_code": "NSO",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Scone_Airport",
     "keywords": "",
     "runways": [
         {

@@ -3,8 +3,8 @@
     "ident": "YTIB",
     "type": "medium_airport",
     "name": "Tibooburra Airport",
-    "latitude_deg": "-29.451099395751953",
-    "longitude_deg": "142.05799865722656",
+    "latitude_deg": "-29.451099",
+    "longitude_deg": "142.057999",
     "elevation_ft": "584",
     "continent": "OC",
     "iso_country": "AU",
@@ -15,7 +15,7 @@
     "iata_code": "TYB",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Tibooburra_Airport",
     "keywords": "",
     "runways": [
         {
