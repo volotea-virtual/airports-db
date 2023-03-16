@@ -3,8 +3,8 @@
     "ident": "KJWG",
     "type": "small_airport",
     "name": "Watonga Regional Airport",
-    "latitude_deg": "35.86470032",
-    "longitude_deg": "-98.42079926",
+    "latitude_deg": "35.8647",
+    "longitude_deg": "-98.420799",
     "elevation_ft": "1550",
     "continent": "NA",
     "iso_country": "US",
@@ -14,8 +14,8 @@
     "gps_code": "KJWG",
     "iata_code": "",
     "local_code": "JWG",
-    "home_link": "",
-    "wikipedia_link": "",
+    "home_link": "https://www.watongaok.gov/airport",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Watonga_Regional_Airport",
     "keywords": "",
     "runways": [
         {
