@@ -1,0 +1,38 @@
+{
+    "id": "507217",
+    "ident": "ACFC",
+    "type": "small_airport",
+    "name": "Angeles City Flying Club",
+    "latitude_deg": "15.254326",
+    "longitude_deg": "120.677772",
+    "elevation_ft": "100",
+    "continent": "AS",
+    "iso_country": "PH",
+    "iso_region": "PH-U-A",
+    "municipality": "MG",
+    "scheduled_service": "no",
+    "gps_code": "ACFC",
+    "iata_code": "AFC",
+    "local_code": "",
+    "home_link": "https://angelesflying.com/",
+    "wikipedia_link": "",
+    "keywords": "acfc, magalang, pampanga, grassstrip",
+    "country": {
+        "id": "302656",
+        "code": "PH",
+        "name": "Philippines",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Philippines",
+        "keywords": "Mga alternatibong byahe mula sa Pilipinas"
+    },
+    "region": {
+        "id": "305129",
+        "code": "PH-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "AS",
+        "iso_country": "PH",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}

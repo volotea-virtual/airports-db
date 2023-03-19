@@ -51,12 +51,28 @@
             "frequency_mhz": "118.05"
         },
         {
+            "id": "507220",
+            "airport_ref": "2389",
+            "airport_ident": "EGBB",
+            "type": "APP",
+            "description": "",
+            "frequency_mhz": "123.975"
+        },
+        {
             "id": "58158",
             "airport_ref": "2389",
             "airport_ident": "EGBB",
             "type": "ATIS",
             "description": "ATIS",
             "frequency_mhz": "136.02"
+        },
+        {
+            "id": "507221",
+            "airport_ref": "2389",
+            "airport_ident": "EGBB",
+            "type": "Fire",
+            "description": "",
+            "frequency_mhz": "121.6"
         },
         {
             "id": "58160",
