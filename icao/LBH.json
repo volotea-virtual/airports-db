@@ -5,10 +5,10 @@
     "name": "Palm Beach Seaplane Base",
     "latitude_deg": "-33.5871",
     "longitude_deg": "151.3234",
-    "elevation_ft": "0",
+    "elevation_ft": "",
     "continent": "OC",
     "iso_country": "AU",
-    "iso_region": "AU-VIC",
+    "iso_region": "AU-NSW",
     "municipality": "Sydney",
     "scheduled_service": "yes",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Australian airports"
     },
     "region": {
-        "id": "302975",
-        "code": "AU-VIC",
-        "local_code": "VIC",
-        "name": "Victoria",
+        "id": "302969",
+        "code": "AU-NSW",
+        "local_code": "NSW",
+        "name": "New South Wales",
         "continent": "OC",
         "iso_country": "AU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Victoria_(Australia)",
-        "keywords": "Victorian airports"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/New_South_Wales",
+        "keywords": "Airports in New South Wales"
     }
 }

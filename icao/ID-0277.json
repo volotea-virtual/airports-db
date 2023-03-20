@@ -1,0 +1,62 @@
+{
+    "id": "507227",
+    "ident": "ID-0277",
+    "type": "medium_airport",
+    "name": "Kediri Airport",
+    "latitude_deg": "-7.750278",
+    "longitude_deg": "111.947222",
+    "elevation_ft": "380",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-JI",
+    "municipality": "Kediri",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "https://www.kediri-airport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kediri_Airport",
+    "keywords": "Dhoho",
+    "runways": [
+        {
+            "id": "507228",
+            "airport_ref": "507227",
+            "airport_ident": "ID-0277",
+            "length_ft": "10827",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "1",
+            "le_ident": "15",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "145",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "325",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302632",
+        "code": "ID",
+        "name": "Indonesia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
+        "keywords": "Bandara di Indonesia"
+    },
+    "region": {
+        "id": "304106",
+        "code": "ID-JI",
+        "local_code": "JI",
+        "name": "Jawa Timur (East Java)",
+        "continent": "AS",
+        "iso_country": "ID",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Jawa_Timur",
+        "keywords": "Airports in Jawa Timur"
+    }
+}
