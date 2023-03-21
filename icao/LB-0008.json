@@ -1,0 +1,38 @@
+{
+    "id": "507258",
+    "ident": "LB-0008",
+    "type": "closed",
+    "name": "Halat Air Strip",
+    "latitude_deg": "34.105",
+    "longitude_deg": "35.654",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "LB",
+    "iso_region": "LB-JL",
+    "municipality": "Fidar",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://www.gainesville.com/story/news/2006/08/05/israel-bombs-road-leaving-beirut-cut-off/31492329007/",
+    "keywords": "Lebanon, Halat, Air, Strip, Closed",
+    "country": {
+        "id": "302647",
+        "code": "LB",
+        "name": "Lebanon",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lebanon",
+        "keywords": "المطارات في لبنان"
+    },
+    "region": {
+        "id": "304463",
+        "code": "LB-JL",
+        "local_code": "JL",
+        "name": "Mount Lebanon Governorate",
+        "continent": "AS",
+        "iso_country": "LB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mount_Lebanon_Governorate",
+        "keywords": "Jabal Libnan, جبل لبنان‎"
+    }
+}

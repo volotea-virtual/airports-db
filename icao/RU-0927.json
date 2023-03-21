@@ -1,0 +1,38 @@
+{
+    "id": "507250",
+    "ident": "RU-0927",
+    "type": "heliport",
+    "name": "Laryak",
+    "latitude_deg": "61.103035",
+    "longitude_deg": "80.245628",
+    "elevation_ft": "100",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-KHM",
+    "municipality": "Ларьяк",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305289",
+        "code": "RU-KHM",
+        "local_code": "KHM",
+        "name": "Khanty-Mansi Autonomous Okrug",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Khanty-Mansi_Autonomous_Okrug",
+        "keywords": "Airports in Khanty-Mansi Autonomous Okrug"
+    }
+}
