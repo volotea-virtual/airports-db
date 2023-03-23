@@ -1,0 +1,62 @@
+{
+    "id": "507320",
+    "ident": "RU-0929",
+    "type": "small_airport",
+    "name": "Artel-Amur Kondyor Mine airstrip",
+    "latitude_deg": "57.643517",
+    "longitude_deg": "134.622324",
+    "elevation_ft": "2103",
+    "continent": "AS",
+    "iso_country": "RU",
+    "iso_region": "RU-KHA",
+    "municipality": "Kondyor Massif",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Amur, Kondyor, Mine, Platinum",
+    "runways": [
+        {
+            "id": "507322",
+            "airport_ref": "507320",
+            "airport_ident": "RU-0929",
+            "length_ft": "2225",
+            "width_ft": "200",
+            "surface": "Gravel",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "122",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "302",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305288",
+        "code": "RU-KHA",
+        "local_code": "KHA",
+        "name": "Khabarovsk Krai",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Khabarovsk_Krai",
+        "keywords": "Airports in Khabarovsk Krai"
+    }
+}

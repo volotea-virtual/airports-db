@@ -1,0 +1,38 @@
+{
+    "id": "507328",
+    "ident": "RU-0933",
+    "type": "small_airport",
+    "name": "Kurun-Uryakh Airstrip",
+    "latitude_deg": "58.678982",
+    "longitude_deg": "137.503174",
+    "elevation_ft": "1410",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-KHA",
+    "municipality": "Kurun-Uryakh",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305288",
+        "code": "RU-KHA",
+        "local_code": "KHA",
+        "name": "Khabarovsk Krai",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Khabarovsk_Krai",
+        "keywords": "Airports in Khabarovsk Krai"
+    }
+}

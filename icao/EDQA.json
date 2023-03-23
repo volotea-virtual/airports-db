@@ -69,32 +69,16 @@
             "airport_ref": "317932",
             "airport_ident": "EDQA",
             "type": "ATIS",
-            "description": "Bamberg ATIS (After 3x PTT)",
-            "frequency_mhz": "124.125"
+            "description": "Bamberg ATIS",
+            "frequency_mhz": "124.13"
         },
         {
             "id": "317933",
             "airport_ref": "317932",
             "airport_ident": "EDQA",
-            "type": "INFO",
-            "description": "Bamberg INFO",
-            "frequency_mhz": "120.175"
-        },
-        {
-            "id": "52720",
-            "airport_ref": "317932",
-            "airport_ident": "EDQA",
-            "type": "INFO",
-            "description": "INFO",
-            "frequency_mhz": "120.175"
-        },
-        {
-            "id": "317934",
-            "airport_ref": "317932",
-            "airport_ident": "EDQA",
-            "type": "METAR",
-            "description": "Bamberg Metar (after 3xPTT)",
-            "frequency_mhz": "124.125"
+            "type": "INFORMATION",
+            "description": "Bamberg INFORMATION",
+            "frequency_mhz": "123.44"
         }
     ],
     "country": {
