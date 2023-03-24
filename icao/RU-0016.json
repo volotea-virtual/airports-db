@@ -11,12 +11,12 @@
     "iso_region": "RU-LIP",
     "municipality": "Lipetsk",
     "scheduled_service": "no",
-    "gps_code": "",
+    "gps_code": "UUWL",
     "iata_code": "",
-    "local_code": "",
+    "local_code": "XUWL",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Lipetsk_Air_Base",
-    "keywords": "",
+    "keywords": "ЬУВЛ, Липецк-2",
     "runways": [
         {
             "id": "507300",

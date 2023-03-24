@@ -8,14 +8,14 @@
     "elevation_ft": "860",
     "continent": "AS",
     "iso_country": "SA",
-    "iso_region": "SA-04",
+    "iso_region": "SA-10",
     "municipality": "Umm Al Melh",
     "scheduled_service": "no",
     "gps_code": "OEOM",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Umm_Al_Melh_Border_Guards_Airport",
     "keywords": "",
     "country": {
         "id": "302660",
@@ -26,13 +26,13 @@
         "keywords": "مطارات المملكة العربية السعودية,المطارات لموسم الحج"
     },
     "region": {
-        "id": "305363",
-        "code": "SA-04",
-        "local_code": "04",
-        "name": "Ash Sharqiyah Region",
+        "id": "305369",
+        "code": "SA-10",
+        "local_code": "10",
+        "name": "Najran Region",
         "continent": "AS",
         "iso_country": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ash_Sharqiyah_Region",
-        "keywords": "Airports in Ash Sharqiyah Region"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Najran_Region",
+        "keywords": "Airports in Najran Region"
     }
 }

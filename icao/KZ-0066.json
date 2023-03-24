@@ -1,7 +1,7 @@
 {
     "id": "44327",
     "ident": "KZ-0066",
-    "type": "closed",
+    "type": "small_airport",
     "name": "Aktogay Air Base",
     "latitude_deg": "46.89158",
     "longitude_deg": "79.846745",
@@ -11,7 +11,7 @@
     "iso_region": "KZ-ABA",
     "municipality": "Aktogay",
     "scheduled_service": "no",
-    "gps_code": "",
+    "gps_code": "ZDX5",
     "iata_code": "",
     "local_code": "",
     "home_link": "",

@@ -8,7 +8,7 @@
     "elevation_ft": "146",
     "continent": "AS",
     "iso_country": "SA",
-    "iso_region": "SA-08",
+    "iso_region": "SA-07",
     "municipality": "Haql",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "مطارات المملكة العربية السعودية,المطارات لموسم الحج"
     },
     "region": {
-        "id": "305367",
-        "code": "SA-08",
-        "local_code": "08",
-        "name": "The Northern Border Region",
+        "id": "305366",
+        "code": "SA-07",
+        "local_code": "07",
+        "name": "Tabuk Region",
         "continent": "AS",
         "iso_country": "SA",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/The_Northern_Border_Region",
-        "keywords": "Al Hudud ash Shamaliyah"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tabuk_Region",
+        "keywords": "Airports in Tabuk Region"
     }
 }

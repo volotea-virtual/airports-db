@@ -1,7 +1,7 @@
 {
     "id": "342074",
     "ident": "KZ-0096",
-    "type": "closed",
+    "type": "small_airport",
     "name": "Balkhash East Airfield",
     "latitude_deg": "46.8861",
     "longitude_deg": "75.3972",
@@ -11,7 +11,7 @@
     "iso_region": "KZ-PAV",
     "municipality": "Aktogay",
     "scheduled_service": "no",
-    "gps_code": "",
+    "gps_code": "XAAH",
     "iata_code": "",
     "local_code": "",
     "home_link": "",

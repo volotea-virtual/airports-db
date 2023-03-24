@@ -1,7 +1,7 @@
 {
     "id": "34977",
     "ident": "KZ-6022",
-    "type": "closed",
+    "type": "small_airport",
     "name": "Dolon Southwest Air Base",
     "latitude_deg": "50.25",
     "longitude_deg": "79.083298",
@@ -11,7 +11,7 @@
     "iso_region": "KZ-ABA",
     "municipality": "Semey",
     "scheduled_service": "no",
-    "gps_code": "",
+    "gps_code": "UASF",
     "iata_code": "",
     "local_code": "",
     "home_link": "",

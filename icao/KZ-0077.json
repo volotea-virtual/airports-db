@@ -1,7 +1,7 @@
 {
     "id": "318182",
     "ident": "KZ-0077",
-    "type": "closed",
+    "type": "small_airport",
     "name": "Tughyl Airport",
     "latitude_deg": "47.675444",
     "longitude_deg": "84.300148",
@@ -11,7 +11,7 @@
     "iso_region": "KZ-VOS",
     "municipality": "Tughyl",
     "scheduled_service": "no",
-    "gps_code": "",
+    "gps_code": "UASE",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
