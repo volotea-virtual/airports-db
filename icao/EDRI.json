@@ -46,9 +46,9 @@
             "id": "316336",
             "airport_ref": "28639",
             "airport_ident": "EDRI",
-            "type": "Info",
-            "description": "Linkenheim Info",
-            "frequency_mhz": "122.6"
+            "type": "Radio",
+            "description": "Linkenheim Radio",
+            "frequency_mhz": "124.01"
         }
     ],
     "country": {

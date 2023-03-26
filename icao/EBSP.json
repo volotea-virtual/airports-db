@@ -46,9 +46,9 @@
             "id": "75282",
             "airport_ref": "29050",
             "airport_ident": "EBSP",
-            "type": "TWR",
-            "description": "",
-            "frequency_mhz": "124.755"
+            "type": "RDO",
+            "description": "Spa Radio",
+            "frequency_mhz": "124.64"
         }
     ],
     "country": {

@@ -1,7 +1,7 @@
 {
     "id": "319561",
     "ident": "IT-0318",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Campo di Volo Sedico",
     "latitude_deg": "46.091613",
     "longitude_deg": "12.089596",
@@ -13,10 +13,10 @@
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
-    "local_code": "BL11",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "BL11",
     "runways": [
         {
             "id": "319562",
