@@ -1,0 +1,62 @@
+{
+    "id": "41047",
+    "ident": "SKUB",
+    "type": "small_airport",
+    "name": "Uribe Airport",
+    "latitude_deg": "3.2375",
+    "longitude_deg": "-74.347222",
+    "elevation_ft": "8377",
+    "continent": "NA",
+    "iso_country": "CO",
+    "iso_region": "CO-MET",
+    "municipality": "La Uribe",
+    "scheduled_service": "no",
+    "gps_code": "SKUB",
+    "iata_code": "URI",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Uribe_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "507428",
+            "airport_ref": "41047",
+            "airport_ident": "SKUB",
+            "length_ft": "2750",
+            "width_ft": "",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302793",
+        "code": "CO",
+        "name": "Colombia",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Colombia",
+        "keywords": "Aeropuertos de Colombia"
+    },
+    "region": {
+        "id": "303477",
+        "code": "CO-MET",
+        "local_code": "MET",
+        "name": "Meta Department",
+        "continent": "SA",
+        "iso_country": "CO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Meta_Department",
+        "keywords": "Airports in Meta Department"
+    }
+}
