@@ -1,0 +1,38 @@
+{
+    "id": "507470",
+    "ident": "TW-0064",
+    "type": "small_airport",
+    "name": "Taiwan Formosa UAV Association Testing Grounds",
+    "latitude_deg": "23.69765",
+    "longitude_deg": "120.44209",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "TW",
+    "iso_region": "TW-YUN",
+    "municipality": "Huwei",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302668",
+        "code": "TW",
+        "name": "Taiwan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Taiwan",
+        "keywords": "Taiwanese airports"
+    },
+    "region": {
+        "id": "305953",
+        "code": "TW-YUN",
+        "local_code": "YUN",
+        "name": "Yunlin County",
+        "continent": "AS",
+        "iso_country": "TW",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Yunlin_County",
+        "keywords": "Airports in Yunlin County"
+    }
+}

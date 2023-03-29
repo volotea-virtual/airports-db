@@ -10,7 +10,7 @@
     "iso_country": "US",
     "iso_region": "US-IL",
     "municipality": "Marion",
-    "scheduled_service": "no",
+    "scheduled_service": "yes",
     "gps_code": "KMWA",
     "iata_code": "MWA",
     "local_code": "MWA",

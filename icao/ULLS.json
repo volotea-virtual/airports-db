@@ -6,7 +6,7 @@
     "latitude_deg": "59.356701",
     "longitude_deg": "30.036699",
     "elevation_ft": "341",
-    "continent": "AS",
+    "continent": "EU",
     "iso_country": "RU",
     "iso_region": "RU-LEN",
     "municipality": "Siversky",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Siversky_(air_base)",
-    "keywords": "ULLS",
+    "keywords": "ULLS, XLLS",
     "country": {
         "id": "302714",
         "code": "RU",

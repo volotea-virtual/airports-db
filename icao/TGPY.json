@@ -2,9 +2,9 @@
     "id": "6367",
     "ident": "TGPY",
     "type": "medium_airport",
-    "name": "Point Salines International Airport",
-    "latitude_deg": "12.004199981689453",
-    "longitude_deg": "-61.78620147705078",
+    "name": "Maurice Bishop International Airport",
+    "latitude_deg": "12.0042",
+    "longitude_deg": "-61.786201",
     "elevation_ft": "41",
     "continent": "NA",
     "iso_country": "GD",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "http://www.psiagrenada.com/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Point_Salines_International_Airport",
-    "keywords": "",
+    "keywords": "Point Salines",
     "runways": [
         {
             "id": "236098",
