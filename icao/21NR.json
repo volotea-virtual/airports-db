@@ -1,0 +1,62 @@
+{
+    "id": "507530",
+    "ident": "21NR",
+    "type": "heliport",
+    "name": "Swan Beach Fire Heliport",
+    "latitude_deg": "36.435172",
+    "longitude_deg": "-75.843211",
+    "elevation_ft": "12",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-NC",
+    "municipality": "Corolla",
+    "scheduled_service": "no",
+    "gps_code": "21NR",
+    "iata_code": "",
+    "local_code": "21NR",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "507531",
+            "airport_ref": "507530",
+            "airport_ident": "21NR",
+            "length_ft": "60",
+            "width_ft": "60",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "H1",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306103",
+        "code": "US-NC",
+        "local_code": "NC",
+        "name": "North Carolina",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/North_Carolina",
+        "keywords": "Airports in North Carolina"
+    }
+}

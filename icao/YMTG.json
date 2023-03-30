@@ -1,0 +1,38 @@
+{
+    "id": "507498",
+    "ident": "YMTG",
+    "type": "medium_airport",
+    "name": "Mount Gambier Airport",
+    "latitude_deg": "-37.744382",
+    "longitude_deg": "140.780561",
+    "elevation_ft": "",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-SA",
+    "municipality": "Mount Gambier",
+    "scheduled_service": "yes",
+    "gps_code": "YMTG",
+    "iata_code": "MGB",
+    "local_code": "",
+    "home_link": "https://www.dcgrant.sa.gov.au/services/mount-gambier-regional-airport",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Mount_Gambier_Airport",
+    "keywords": "",
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": "Australian airports"
+    },
+    "region": {
+        "id": "302972",
+        "code": "AU-SA",
+        "local_code": "SA",
+        "name": "South Australia",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South_Australia",
+        "keywords": "South Australian airports"
+    }
+}
