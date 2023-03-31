@@ -8,7 +8,7 @@
     "elevation_ft": "38",
     "continent": "NA",
     "iso_country": "TT",
-    "iso_region": "TT-WTO",
+    "iso_region": "TT-TOB",
     "municipality": "Scarborough",
     "scheduled_service": "yes",
     "gps_code": "TTCP",
@@ -77,12 +77,12 @@
     },
     "region": {
         "id": "305934",
-        "code": "TT-WTO",
-        "local_code": "WTO",
-        "name": "Western Tobago",
+        "code": "TT-TOB",
+        "local_code": "TOB",
+        "name": "Tobago",
         "continent": "NA",
         "iso_country": "TT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Tobago",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tobago",
         "keywords": "Airports in Western Tobago"
     },
     "navaids": [
