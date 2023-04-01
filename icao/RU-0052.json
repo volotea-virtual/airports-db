@@ -1,10 +1,10 @@
 {
     "id": "42996",
     "ident": "RU-0052",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Baley Airport",
-    "latitude_deg": "51.561065673828125",
-    "longitude_deg": "116.70287322998047",
+    "latitude_deg": "51.561066",
+    "longitude_deg": "116.702873",
     "elevation_ft": "2136",
     "continent": "AS",
     "iso_country": "RU",
