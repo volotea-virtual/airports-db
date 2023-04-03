@@ -1,0 +1,38 @@
+{
+    "id": "507716",
+    "ident": "BR-1817",
+    "type": "small_airport",
+    "name": "Fazenda Brejon Airstrip",
+    "latitude_deg": "-19.48",
+    "longitude_deg": "-53.6975",
+    "elevation_ft": "2001",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MS",
+    "municipality": "Camapuã",
+    "scheduled_service": "no",
+    "gps_code": "SSJJ",
+    "iata_code": "",
+    "local_code": "MS0290",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303210",
+        "code": "BR-MS",
+        "local_code": "MS",
+        "name": "Mato Grosso do Sul",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mato_Grosso_do_Sul",
+        "keywords": "Airports in Mato Grosso do Sul"
+    }
+}
