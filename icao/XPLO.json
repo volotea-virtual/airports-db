@@ -11,12 +11,12 @@
     "iso_region": "GB-SCT",
     "municipality": "Plockton",
     "scheduled_service": "no",
-    "gps_code": "EGEV",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "EGEV",
     "runways": [
         {
             "id": "307606",
