@@ -1,12 +1,12 @@
 {
     "id": "43007",
     "ident": "RU-0059",
-    "type": "medium_airport",
+    "type": "closed",
     "name": "Alakurtti Naval Air Base",
     "latitude_deg": "66.973335",
     "longitude_deg": "30.344999",
     "elevation_ft": "538",
-    "continent": "AS",
+    "continent": "EU",
     "iso_country": "RU",
     "iso_region": "RU-MUR",
     "municipality": "Alakurtti",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Alakurtti_Air_Base",
-    "keywords": "",
+    "keywords": "XLMA",
     "runways": [
         {
             "id": "507755",

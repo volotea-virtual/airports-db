@@ -1,0 +1,62 @@
+{
+    "id": "507817",
+    "ident": "SJ98",
+    "type": "small_airport",
+    "name": "Pedro Zanetti Airport",
+    "latitude_deg": "-32.010556",
+    "longitude_deg": "-52.600278",
+    "elevation_ft": "56",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RS",
+    "municipality": "Arroio Grande",
+    "scheduled_service": "no",
+    "gps_code": "SJ98",
+    "iata_code": "",
+    "local_code": "RS0202",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "507818",
+            "airport_ref": "507817",
+            "airport_ident": "SJ98",
+            "length_ft": "2618",
+            "width_ft": "59",
+            "surface": "Earth",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "04",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303221",
+        "code": "BR-RS",
+        "local_code": "RS",
+        "name": "Rio Grande do Sul",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Rio_Grande_do_Sul",
+        "keywords": "Airports in Rio Grande do Sul"
+    }
+}
