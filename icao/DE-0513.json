@@ -1,0 +1,38 @@
+{
+    "id": "507837",
+    "ident": "DE-0513",
+    "type": "heliport",
+    "name": "Hochtaunus Hospital Helipad",
+    "latitude_deg": "50.212395",
+    "longitude_deg": "8.619153",
+    "elevation_ft": "640",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-HE",
+    "municipality": "Bad Homburg",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "HTK",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Oberursel",
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303552",
+        "code": "DE-HE",
+        "local_code": "HE",
+        "name": "Hesse",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hesse",
+        "keywords": "Hessen"
+    }
+}

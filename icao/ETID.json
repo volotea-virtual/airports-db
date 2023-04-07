@@ -9,14 +9,14 @@
     "continent": "EU",
     "iso_country": "DE",
     "iso_region": "DE-HE",
-    "municipality": "",
+    "municipality": "Hanau",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "ETID, ETID",
+    "keywords": "ETID",
     "runways": [
         {
             "id": "236137",
