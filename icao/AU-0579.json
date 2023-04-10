@@ -1,0 +1,38 @@
+{
+    "id": "507964",
+    "ident": "AU-0579",
+    "type": "small_airport",
+    "name": "Honeymoon Airstrip",
+    "latitude_deg": "-13.629492",
+    "longitude_deg": "131.087496",
+    "elevation_ft": "324",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NT",
+    "municipality": "Tipperary",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "YHONE",
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": "Australian airports"
+    },
+    "region": {
+        "id": "302970",
+        "code": "AU-NT",
+        "local_code": "NT",
+        "name": "Northern Territory",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Territory",
+        "keywords": "Airports in Northern Territory"
+    }
+}

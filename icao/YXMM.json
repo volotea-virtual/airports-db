@@ -1,0 +1,38 @@
+{
+    "id": "507963",
+    "ident": "YXMM",
+    "type": "heliport",
+    "name": "Mannum Hospital Heliport",
+    "latitude_deg": "-34.917055",
+    "longitude_deg": "139.308389",
+    "elevation_ft": "112",
+    "continent": "OC",
+    "iso_country": "AU",
+    "iso_region": "AU-NT",
+    "municipality": "Mannum",
+    "scheduled_service": "no",
+    "gps_code": "YXMM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302764",
+        "code": "AU",
+        "name": "Australia",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Australia",
+        "keywords": "Australian airports"
+    },
+    "region": {
+        "id": "302970",
+        "code": "AU-NT",
+        "local_code": "NT",
+        "name": "Northern Territory",
+        "continent": "OC",
+        "iso_country": "AU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Territory",
+        "keywords": "Airports in Northern Territory"
+    }
+}
