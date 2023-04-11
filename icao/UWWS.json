@@ -3,10 +3,10 @@
     "ident": "UWWS",
     "type": "small_airport",
     "name": "Smyshlyayevka Airport",
-    "latitude_deg": "53.2400016784668",
+    "latitude_deg": "53.240002",
     "longitude_deg": "50.375",
     "elevation_ft": "131",
-    "continent": "EU",
+    "continent": "AS",
     "iso_country": "RU",
     "iso_region": "RU-SAM",
     "municipality": "Samara",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Smyshlyaevka Airport, Аэропорт Смышляевка",
+    "keywords": "УВВС, Самара, Smyshlyaevka Airport, Аэропорт Смышляевка",
     "runways": [
         {
             "id": "507562",

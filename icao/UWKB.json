@@ -3,10 +3,10 @@
     "ident": "UWKB",
     "type": "medium_airport",
     "name": "Bugulma Airport",
-    "latitude_deg": "54.63999938964844",
-    "longitude_deg": "52.801700592041016",
+    "latitude_deg": "54.641184",
+    "longitude_deg": "52.800229",
     "elevation_ft": "991",
-    "continent": "EU",
+    "continent": "AS",
     "iso_country": "RU",
     "iso_region": "RU-TA",
     "municipality": "Bugulma",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Bugulma_Airport",
-    "keywords": "Аэропорт Бугульма",
+    "keywords": "УВКБ, Аэропорт Бугульма",
     "runways": [
         {
             "id": "271029",
