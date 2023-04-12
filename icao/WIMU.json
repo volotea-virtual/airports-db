@@ -1,0 +1,62 @@
+{
+    "id": "507992",
+    "ident": "WIMU",
+    "type": "medium_airport",
+    "name": "Alas Leuser Airport",
+    "latitude_deg": "3.391456",
+    "longitude_deg": "97.863726",
+    "elevation_ft": "419",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-AC",
+    "municipality": "Kutacane",
+    "scheduled_service": "yes",
+    "gps_code": "WIMU",
+    "iata_code": "LSR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Alas_Leuser_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "507994",
+            "airport_ref": "507992",
+            "airport_ident": "WIMU",
+            "length_ft": "5358",
+            "width_ft": "98",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "3.39705",
+            "le_longitude_deg": "97.8599",
+            "le_elevation_ft": "414",
+            "le_heading_degT": "146",
+            "le_displaced_threshold_ft": "328",
+            "he_ident": "33",
+            "he_latitude_deg": "3.3859",
+            "he_longitude_deg": "97.8677",
+            "he_elevation_ft": "404",
+            "he_heading_degT": "326",
+            "he_displaced_threshold_ft": "108"
+        }
+    ],
+    "country": {
+        "id": "302632",
+        "code": "ID",
+        "name": "Indonesia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
+        "keywords": "Bandara di Indonesia"
+    },
+    "region": {
+        "id": "304097",
+        "code": "ID-AC",
+        "local_code": "AC",
+        "name": "Aceh",
+        "continent": "AS",
+        "iso_country": "ID",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Aceh",
+        "keywords": "Airports in Aceh"
+    }
+}

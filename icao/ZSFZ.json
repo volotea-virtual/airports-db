@@ -10,7 +10,7 @@
     "iso_country": "CN",
     "iso_region": "CN-35",
     "municipality": "Fuzhou",
-    "scheduled_service": "no",
+    "scheduled_service": "yes",
     "gps_code": "ZSFZ",
     "iata_code": "FOC",
     "local_code": "FOC",

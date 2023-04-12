@@ -63,6 +63,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "507993",
+            "airport_ref": "30009",
+            "airport_ident": "LHKV",
+            "type": "CTAF",
+            "description": "Kaposújlak Radio",
+            "frequency_mhz": "125.06"
+        }
+    ],
     "country": {
         "id": "302693",
         "code": "HU",

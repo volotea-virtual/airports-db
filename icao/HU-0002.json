@@ -2,7 +2,7 @@
     "id": "43983",
     "ident": "HU-0002",
     "type": "medium_airport",
-    "name": "Kalocsa/Foktő Airfield",
+    "name": "Kalocsa-Foktő Airport",
     "latitude_deg": "46.549613",
     "longitude_deg": "18.942421",
     "elevation_ft": "299",
@@ -15,7 +15,7 @@
     "iata_code": "",
     "local_code": "",
     "home_link": "http://www.aeroportkalocsa.hu",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://hu.wikipedia.org/wiki/Kalocsai_rep%C3%BCl%C5%91t%C3%A9r",
     "keywords": "",
     "runways": [
         {
@@ -47,8 +47,8 @@
             "airport_ref": "43983",
             "airport_ident": "HU-0002",
             "type": "CTAF",
-            "description": "Kalocsa INFO",
-            "frequency_mhz": "135.4"
+            "description": "Kalocsa RADIO",
+            "frequency_mhz": "135.39"
         }
     ],
     "country": {

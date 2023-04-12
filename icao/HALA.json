@@ -10,7 +10,7 @@
     "iso_country": "ET",
     "iso_region": "ET-XSD",
     "municipality": "Hawassa",
-    "scheduled_service": "no",
+    "scheduled_service": "yes",
     "gps_code": "HALA",
     "iata_code": "AWA",
     "local_code": "",

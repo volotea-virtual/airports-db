@@ -10,7 +10,7 @@
     "iso_country": "BR",
     "iso_region": "BR-MT",
     "municipality": "Sinop",
-    "scheduled_service": "no",
+    "scheduled_service": "yes",
     "gps_code": "SBSI",
     "iata_code": "OPS",
     "local_code": "MT0002",

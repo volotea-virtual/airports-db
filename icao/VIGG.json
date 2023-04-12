@@ -9,13 +9,13 @@
     "continent": "AS",
     "iso_country": "IN",
     "iso_region": "IN-HP",
-    "municipality": "Gaggal",
+    "municipality": "Kangra",
     "scheduled_service": "yes",
     "gps_code": "VIGG",
     "iata_code": "DHM",
     "local_code": "",
-    "home_link": "",
-    "wikipedia_link": "",
+    "home_link": "https://www.aai.aero/en/airports/kangra-gaggal",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kangra_Airport",
     "keywords": "",
     "runways": [
         {
