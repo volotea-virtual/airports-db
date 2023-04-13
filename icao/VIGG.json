@@ -3,8 +3,8 @@
     "ident": "VIGG",
     "type": "medium_airport",
     "name": "Kangra Airport",
-    "latitude_deg": "32.1651",
-    "longitude_deg": "76.263397",
+    "latitude_deg": "32.164902",
+    "longitude_deg": "76.263018",
     "elevation_ft": "2525",
     "continent": "AS",
     "iso_country": "IN",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "https://www.aai.aero/en/airports/kangra-gaggal",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Kangra_Airport",
-    "keywords": "",
+    "keywords": "Dharamshala, Gaggal",
     "runways": [
         {
             "id": "236820",
