@@ -1,0 +1,62 @@
+{
+    "id": "508038",
+    "ident": "ID-0280",
+    "type": "small_airport",
+    "name": "Samenage Airstrip",
+    "latitude_deg": "-4.395446",
+    "longitude_deg": "139.030167",
+    "elevation_ft": "7100",
+    "continent": "AS",
+    "iso_country": "ID",
+    "iso_region": "ID-PP",
+    "municipality": "Samenage",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "508039",
+            "airport_ref": "508038",
+            "airport_ident": "ID-0280",
+            "length_ft": "984",
+            "width_ft": "",
+            "surface": "Dirt",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "07D",
+            "le_latitude_deg": "-4.3959",
+            "le_longitude_deg": "139.0289",
+            "le_elevation_ft": "7173",
+            "le_heading_degT": "69",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29A",
+            "he_latitude_deg": "-4.3949",
+            "he_longitude_deg": "139.0314",
+            "he_elevation_ft": "7009",
+            "he_heading_degT": "219",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302632",
+        "code": "ID",
+        "name": "Indonesia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Indonesia",
+        "keywords": "Bandara di Indonesia"
+    },
+    "region": {
+        "id": "430275",
+        "code": "ID-PP",
+        "local_code": "PP",
+        "name": "Papua Pegunungan (Highland Papua)",
+        "continent": "AS",
+        "iso_country": "ID",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Highland_Papua",
+        "keywords": ""
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "508037",
+    "ident": "SN6P",
+    "type": "small_airport",
+    "name": "Fazenda Bacuri Airport",
+    "latitude_deg": "-13.99495",
+    "longitude_deg": "-60.071996",
+    "elevation_ft": "755",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MT",
+    "municipality": "Comodoro",
+    "scheduled_service": "no",
+    "gps_code": "SN6P",
+    "iata_code": "",
+    "local_code": "MT0877",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303211",
+        "code": "BR-MT",
+        "local_code": "MT",
+        "name": "Mato Grosso",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mato_Grosso",
+        "keywords": "Airports in Mato Grosso"
+    }
+}
