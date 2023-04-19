@@ -3,12 +3,12 @@
     "ident": "MH-JAT",
     "type": "small_airport",
     "name": "Jabot Airport",
-    "latitude_deg": "7.749774755610001",
-    "longitude_deg": "168.977837563",
+    "latitude_deg": "7.749775",
+    "longitude_deg": "168.977838",
     "elevation_ft": "20",
     "continent": "OC",
     "iso_country": "MH",
-    "iso_region": "MH-ALL",
+    "iso_region": "MH-JAB",
     "municipality": "Ailinglapalap Atoll",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Airports in Marshall Islands"
     },
     "region": {
-        "id": "304631",
-        "code": "MH-ALL",
-        "local_code": "ALL",
-        "name": "Ailinglapalap",
+        "id": "508082",
+        "code": "MH-JAB",
+        "local_code": "JAB",
+        "name": "Jabat Island",
         "continent": "OC",
         "iso_country": "MH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Ailinglapalap",
-        "keywords": "Airports in Ailinglapalap"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Jabat_Island",
+        "keywords": ""
     }
 }

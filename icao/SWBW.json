@@ -3,8 +3,8 @@
     "ident": "SWBW",
     "type": "small_airport",
     "name": "Agro Pousadas do Guaporé Airport",
-    "latitude_deg": "-14.7683334351",
-    "longitude_deg": "-60.0344429016",
+    "latitude_deg": "-14.777229",
+    "longitude_deg": "-60.039213",
     "elevation_ft": "886",
     "continent": "SA",
     "iso_country": "BR",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Fazenda Paraguá Airport, SSPD, SWBW",
+    "keywords": "SWBW",
     "runways": [
         {
             "id": "261256",
