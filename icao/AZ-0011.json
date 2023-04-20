@@ -1,7 +1,7 @@
 {
     "id": "44952",
     "ident": "AZ-0011",
-    "type": "medium_airport",
+    "type": "small_airport",
     "name": "Fuzuli International Airport",
     "latitude_deg": "39.594578",
     "longitude_deg": "47.196128",
