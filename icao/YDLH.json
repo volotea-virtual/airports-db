@@ -3,9 +3,9 @@
     "ident": "YDLH",
     "type": "small_airport",
     "name": "Dalhousie Airport",
-    "latitude_deg": "-26.434999465942383",
-    "longitude_deg": "135.51699829101562",
-    "elevation_ft": "",
+    "latitude_deg": "-26.423045",
+    "longitude_deg": "135.509276",
+    "elevation_ft": "397",
     "continent": "OC",
     "iso_country": "AU",
     "iso_region": "AU-SA",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "DALH",
     "runways": [
         {
             "id": "258520",

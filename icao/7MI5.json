@@ -1,7 +1,7 @@
 {
     "id": "14230",
     "ident": "7MI5",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Lada Airport",
     "latitude_deg": "41.89038",
     "longitude_deg": "-83.673023",
@@ -11,12 +11,12 @@
     "iso_region": "US-MI",
     "municipality": "Petersburg",
     "scheduled_service": "no",
-    "gps_code": "7MI5",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "7MI5",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "7MI5",
     "runways": [
         {
             "id": "255837",
