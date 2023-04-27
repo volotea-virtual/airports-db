@@ -1,7 +1,7 @@
 {
     "id": "349033",
     "ident": "AT-0010",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Radochen Airstrip",
     "latitude_deg": "46.76296",
     "longitude_deg": "15.90426",

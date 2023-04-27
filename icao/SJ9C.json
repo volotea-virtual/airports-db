@@ -1,0 +1,62 @@
+{
+    "id": "508244",
+    "ident": "SJ9C",
+    "type": "small_airport",
+    "name": "Fazenda Vieira Munhoz Airport",
+    "latitude_deg": "-9.194895",
+    "longitude_deg": "-63.479199",
+    "elevation_ft": "299",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RO",
+    "municipality": "Candeias do Jamari",
+    "scheduled_service": "no",
+    "gps_code": "SJ9C",
+    "iata_code": "",
+    "local_code": "RO0087",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "508245",
+            "airport_ref": "508244",
+            "airport_ident": "SJ9C",
+            "length_ft": "2953",
+            "width_ft": "59",
+            "surface": "GVL",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303219",
+        "code": "BR-RO",
+        "local_code": "RO",
+        "name": "Rondônia",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Rondônia",
+        "keywords": "Airports in Rondônia"
+    }
+}
