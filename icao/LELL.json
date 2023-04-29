@@ -12,11 +12,11 @@
     "municipality": "Sabadell",
     "scheduled_service": "no",
     "gps_code": "LELL",
-    "iata_code": "QSA",
+    "iata_code": "",
     "local_code": "",
     "home_link": "https://www.aena.es/en/sabadell.html",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "QSA",
     "runways": [
         {
             "id": "259864",
