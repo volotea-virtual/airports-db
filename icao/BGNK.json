@@ -8,7 +8,7 @@
     "elevation_ft": "152",
     "continent": "NA",
     "iso_country": "GL",
-    "iso_region": "GL-AV",
+    "iso_region": "GL-QK",
     "municipality": "Niaqornaarsuk",
     "scheduled_service": "yes",
     "gps_code": "BGNK",
@@ -26,13 +26,13 @@
         "keywords": "Airports in Greenland"
     },
     "region": {
-        "id": "505040",
-        "code": "GL-AV",
-        "local_code": "AV",
-        "name": "Avannaata Municipality",
+        "id": "505042",
+        "code": "GL-QK",
+        "local_code": "QK",
+        "name": "Qeqertalik Municipality",
         "continent": "NA",
         "iso_country": "GL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Avannaata",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Qeqertalik",
         "keywords": ""
     }
 }
