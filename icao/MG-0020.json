@@ -1,0 +1,38 @@
+{
+    "id": "508323",
+    "ident": "MG-0020",
+    "type": "small_airport",
+    "name": "Ankokoambo Airport",
+    "latitude_deg": "-16.594919",
+    "longitude_deg": "44.453654",
+    "elevation_ft": "29",
+    "continent": "AF",
+    "iso_country": "MG",
+    "iso_region": "MG-M",
+    "municipality": "Ankokoambo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "NKO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302585",
+        "code": "MG",
+        "name": "Madagascar",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Madagascar",
+        "keywords": "Airports in Madagascar"
+    },
+    "region": {
+        "id": "304626",
+        "code": "MG-M",
+        "local_code": "M",
+        "name": "Mahajanga",
+        "continent": "AF",
+        "iso_country": "MG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mahajanga",
+        "keywords": "Airports in Mahajanga"
+    }
+}

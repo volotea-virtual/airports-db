@@ -12,11 +12,11 @@
     "municipality": "Tallinn",
     "scheduled_service": "yes",
     "gps_code": "EECL",
-    "iata_code": "",
+    "iata_code": "CHE",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Tallinn_Linnahall_Heliport",
-    "keywords": "",
+    "keywords": "Tallinn City Hall",
     "runways": [
         {
             "id": "343876",
