@@ -12,11 +12,11 @@
     "municipality": "Amirabad",
     "scheduled_service": "no",
     "gps_code": "OIHS",
-    "iata_code": "",
+    "iata_code": "NUJ",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
-    "keywords": "Hamadan Air Base",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hamadan_Airbase",
+    "keywords": "Hamadan Air Base, Shahrokhi, Noje",
     "runways": [
         {
             "id": "236858",
