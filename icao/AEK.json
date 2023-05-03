@@ -3,8 +3,8 @@
     "ident": "AEK",
     "type": "small_airport",
     "name": "Aseki Airport",
-    "latitude_deg": "-7.35080485552",
-    "longitude_deg": "146.19386673",
+    "latitude_deg": "-7.350805",
+    "longitude_deg": "146.193994",
     "elevation_ft": "4106",
     "continent": "OC",
     "iso_country": "PG",
@@ -15,7 +15,7 @@
     "iata_code": "AEK",
     "local_code": "ASE",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Aseki_Airport",
     "keywords": "",
     "runways": [
         {

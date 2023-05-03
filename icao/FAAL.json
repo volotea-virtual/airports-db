@@ -3,8 +3,8 @@
     "ident": "FAAL",
     "type": "small_airport",
     "name": "Alldays Airport",
-    "latitude_deg": "-22.6790008545",
-    "longitude_deg": "29.0555000305",
+    "latitude_deg": "-22.679001",
+    "longitude_deg": "29.0555",
     "elevation_ft": "2600",
     "continent": "AF",
     "iso_country": "ZA",
@@ -15,7 +15,7 @@
     "iata_code": "ADY",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Alldays_Airport",
     "keywords": "",
     "runways": [
         {
