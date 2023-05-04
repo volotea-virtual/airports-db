@@ -2,7 +2,7 @@
     "id": "29339",
     "ident": "ESKT",
     "type": "small_airport",
-    "name": "Tierp Airport",
+    "name": "Tierp Airfield",
     "latitude_deg": "60.350351",
     "longitude_deg": "17.418652",
     "elevation_ft": "129",
@@ -15,7 +15,7 @@
     "iata_code": "",
     "local_code": "",
     "home_link": "https://nufk.com/",
-    "wikipedia_link": "https://sv.m.wikipedia.org/wiki/Tierps_flygbas",
+    "wikipedia_link": "https://sv.wikipedia.org/wiki/Tierps_flygbas",
     "keywords": "ESKT",
     "runways": [
         {
