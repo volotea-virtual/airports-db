@@ -3,8 +3,8 @@
     "ident": "KIJX",
     "type": "small_airport",
     "name": "Jacksonville Municipal Airport",
-    "latitude_deg": "39.774600982666016",
-    "longitude_deg": "-90.23829650878906",
+    "latitude_deg": "39.774601",
+    "longitude_deg": "-90.238297",
     "elevation_ft": "624",
     "continent": "NA",
     "iso_country": "US",
@@ -14,8 +14,8 @@
     "gps_code": "KIJX",
     "iata_code": "",
     "local_code": "IJX",
-    "home_link": "",
-    "wikipedia_link": "",
+    "home_link": "http://www.flyijx.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Jacksonville_Municipal_Airport_(Illinois)",
     "keywords": "",
     "runways": [
         {

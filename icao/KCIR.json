@@ -3,8 +3,8 @@
     "ident": "KCIR",
     "type": "small_airport",
     "name": "Cairo Regional Airport",
-    "latitude_deg": "37.0644989014",
-    "longitude_deg": "-89.2195968628",
+    "latitude_deg": "37.064499",
+    "longitude_deg": "-89.219597",
     "elevation_ft": "321",
     "continent": "NA",
     "iso_country": "US",
@@ -15,7 +15,7 @@
     "iata_code": "CIR",
     "local_code": "CIR",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cairo_Regional_Airport",
     "keywords": "",
     "runways": [
         {
