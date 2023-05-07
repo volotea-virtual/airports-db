@@ -1,0 +1,38 @@
+{
+    "id": "508402",
+    "ident": "ENUN",
+    "type": "heliport",
+    "name": "Aasta Hansteen Offshore Heliport",
+    "latitude_deg": "67.0408",
+    "longitude_deg": "7.055",
+    "elevation_ft": "213",
+    "continent": "EU",
+    "iso_country": "NO",
+    "iso_region": "NO-XX",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "ENUN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://no.wikipedia.org/wiki/Aasta_Hansteen-plattformen",
+    "keywords": "",
+    "country": {
+        "id": "302709",
+        "code": "NO",
+        "name": "Norway",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Norway",
+        "keywords": "Flyplasser i Norge"
+    },
+    "region": {
+        "id": "349859",
+        "code": "NO-XX",
+        "local_code": "XX",
+        "name": "*Offshore Oil Platforms",
+        "continent": "EU",
+        "iso_country": "NO",
+        "wikipedia_link": "",
+        "keywords": "Airports in *Offshore Oil Platforms"
+    }
+}
