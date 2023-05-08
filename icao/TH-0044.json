@@ -1,0 +1,72 @@
+{
+    "id": "508430",
+    "ident": "TH-0044",
+    "type": "small_airport",
+    "name": "Tantawan",
+    "latitude_deg": "14.7712",
+    "longitude_deg": "100.776",
+    "elevation_ft": "164",
+    "continent": "AS",
+    "iso_country": "TH",
+    "iso_region": "TH-19",
+    "municipality": "Phra Phutthabat",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "508431",
+            "airport_ref": "508430",
+            "airport_ident": "TH-0044",
+            "length_ft": "2290",
+            "width_ft": "60",
+            "surface": "grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "508432",
+            "airport_ref": "508430",
+            "airport_ident": "TH-0044",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "122.3"
+        }
+    ],
+    "country": {
+        "id": "302663",
+        "code": "TH",
+        "name": "Thailand",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Thailand",
+        "keywords": "Siam, Siamese"
+    },
+    "region": {
+        "id": "305716",
+        "code": "TH-19",
+        "local_code": "19",
+        "name": "Saraburi Province",
+        "continent": "AS",
+        "iso_country": "TH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saraburi_province",
+        "keywords": "Airports in Saraburi Province"
+    }
+}
