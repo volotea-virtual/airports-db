@@ -1,0 +1,48 @@
+{
+    "id": "508455",
+    "ident": "CBM4",
+    "type": "heliport",
+    "name": "Collingwood (Blue Mountain) Heliport",
+    "latitude_deg": "44.529449",
+    "longitude_deg": "-80.354669",
+    "elevation_ft": "735",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Collingwood",
+    "scheduled_service": "no",
+    "gps_code": "CBM4",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "freqs": [
+        {
+            "id": "508456",
+            "airport_ref": "508455",
+            "airport_ident": "CBM4",
+            "type": "ATF",
+            "description": "Collingwood Traffic",
+            "frequency_mhz": "122.85"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": "Canadian airports"
+    },
+    "region": {
+        "id": "303302",
+        "code": "CA-ON",
+        "local_code": "ON",
+        "name": "Ontario",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
+        "keywords": "Airports in Ontario"
+    }
+}

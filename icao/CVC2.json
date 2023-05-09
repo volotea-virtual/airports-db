@@ -1,0 +1,38 @@
+{
+    "id": "508471",
+    "ident": "CVC2",
+    "type": "seaplane_base",
+    "name": "Voyageur Channel Water Aerodrome",
+    "latitude_deg": "45.950415",
+    "longitude_deg": "-81.031109",
+    "elevation_ft": "570",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Round Lake",
+    "scheduled_service": "no",
+    "gps_code": "CVC2",
+    "iata_code": "",
+    "local_code": "CVC2",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Voyageur_Channel_Water_Aerodrome",
+    "keywords": "",
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": "Canadian airports"
+    },
+    "region": {
+        "id": "303302",
+        "code": "CA-ON",
+        "local_code": "ON",
+        "name": "Ontario",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
+        "keywords": "Airports in Ontario"
+    }
+}

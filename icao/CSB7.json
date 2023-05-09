@@ -1,0 +1,38 @@
+{
+    "id": "508485",
+    "ident": "CSB7",
+    "type": "small_airport",
+    "name": "Severn Bridge Airport",
+    "latitude_deg": "44.7692",
+    "longitude_deg": "-79.40834",
+    "elevation_ft": "755",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Severn Bridge",
+    "scheduled_service": "no",
+    "gps_code": "CSB7",
+    "iata_code": "",
+    "local_code": "CSB7",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": "Canadian airports"
+    },
+    "region": {
+        "id": "303302",
+        "code": "CA-ON",
+        "local_code": "ON",
+        "name": "Ontario",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
+        "keywords": "Airports in Ontario"
+    }
+}

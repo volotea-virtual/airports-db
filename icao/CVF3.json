@@ -1,0 +1,72 @@
+{
+    "id": "508444",
+    "ident": "CVF3",
+    "type": "small_airport",
+    "name": "Bethany / Whitetail Valley Farm Airfield",
+    "latitude_deg": "44.21647",
+    "longitude_deg": "-78.554102",
+    "elevation_ft": "1051",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Kawartha Lakes",
+    "scheduled_service": "no",
+    "gps_code": "CVF3",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "508445",
+            "airport_ref": "508444",
+            "airport_ident": "CVF3",
+            "length_ft": "2000",
+            "width_ft": "40",
+            "surface": "GRASS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "600",
+            "he_ident": "19",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "508446",
+            "airport_ref": "508444",
+            "airport_ident": "CVF3",
+            "type": "ATF",
+            "description": "Bethany Traffic",
+            "frequency_mhz": "123.2"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": "Canadian airports"
+    },
+    "region": {
+        "id": "303302",
+        "code": "CA-ON",
+        "local_code": "ON",
+        "name": "Ontario",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
+        "keywords": "Airports in Ontario"
+    }
+}

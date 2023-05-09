@@ -2,10 +2,10 @@
     "id": "320216",
     "ident": "CWD2",
     "type": "heliport",
-    "name": "Alta Heliport",
-    "latitude_deg": "44.5294",
-    "longitude_deg": "-80.354",
-    "elevation_ft": "733",
+    "name": "Collingwood / Alta Heliport",
+    "latitude_deg": "44.530007",
+    "longitude_deg": "-80.353693",
+    "elevation_ft": "725",
     "continent": "NA",
     "iso_country": "CA",
     "iso_region": "CA-ON",
@@ -17,6 +17,16 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "508454",
+            "airport_ref": "320216",
+            "airport_ident": "CWD2",
+            "type": "ATF",
+            "description": "Collingwood Traffic",
+            "frequency_mhz": "122.85"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

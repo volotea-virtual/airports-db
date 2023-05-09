@@ -68,29 +68,5 @@
         "iso_country": "FR",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Brittany",
         "keywords": "Bretagne"
-    },
-    "navaids": [
-        {
-            "id": "90430",
-            "filename": "Lannion_NDB_FR",
-            "ident": "LN",
-            "name": "Lannion",
-            "type": "NDB",
-            "frequency_khz": "345",
-            "latitude_deg": "48.71929931640625",
-            "longitude_deg": "-3.3077800273895264",
-            "elevation_ft": "297",
-            "iso_country": "FR",
-            "dme_frequency_khz": "",
-            "dme_channel": "",
-            "dme_latitude_deg": "",
-            "dme_longitude_deg": "",
-            "dme_elevation_ft": "",
-            "slaved_variation_deg": "",
-            "magnetic_variation_deg": "-3.018",
-            "usageType": "LO",
-            "power": "LOW",
-            "associated_airport": "LFRO"
-        }
-    ]
+    }
 }

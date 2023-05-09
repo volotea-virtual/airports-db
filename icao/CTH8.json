@@ -2,7 +2,7 @@
     "id": "320219",
     "ident": "CTH8",
     "type": "small_airport",
-    "name": "Tally-Ho Field",
+    "name": "Cookstown / Tally-Ho Field",
     "latitude_deg": "44.2143",
     "longitude_deg": "-79.7769",
     "elevation_ft": "850",
@@ -17,6 +17,40 @@
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Cookstown/Tally-Ho_Field_Aerodrome",
     "keywords": "",
+    "runways": [
+        {
+            "id": "508463",
+            "airport_ref": "320219",
+            "airport_ident": "CTH8",
+            "length_ft": "2028",
+            "width_ft": "65",
+            "surface": "GRASS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "508464",
+            "airport_ref": "320219",
+            "airport_ident": "CTH8",
+            "type": "ATF",
+            "description": "Cookstown Traffic",
+            "frequency_mhz": "123.2"
+        }
+    ],
     "country": {
         "id": "302730",
         "code": "CA",

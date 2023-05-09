@@ -1,0 +1,48 @@
+{
+    "id": "508467",
+    "ident": "CNC2",
+    "type": "heliport",
+    "name": "Cornwall (DEV Centre) Heliport",
+    "latitude_deg": "45.027671",
+    "longitude_deg": "-74.679447",
+    "elevation_ft": "185",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-ON",
+    "municipality": "Cornwall",
+    "scheduled_service": "no",
+    "gps_code": "CNC2",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "freqs": [
+        {
+            "id": "508468",
+            "airport_ref": "508467",
+            "airport_ident": "CNC2",
+            "type": "ATF",
+            "description": "Cornwall Traffic",
+            "frequency_mhz": "123.2"
+        }
+    ],
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": "Canadian airports"
+    },
+    "region": {
+        "id": "303302",
+        "code": "CA-ON",
+        "local_code": "ON",
+        "name": "Ontario",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ontario",
+        "keywords": "Airports in Ontario"
+    }
+}
