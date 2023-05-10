@@ -1,0 +1,38 @@
+{
+    "id": "508492",
+    "ident": "RU-0938",
+    "type": "heliport",
+    "name": "Staroe Lavshino Helicopter Base",
+    "latitude_deg": "53.56009",
+    "longitude_deg": "33.93643",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "RU",
+    "iso_region": "RU-BRY",
+    "municipality": "Staroe Lavshino",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302714",
+        "code": "RU",
+        "name": "Russia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Russia",
+        "keywords": "Soviet, Sovietskaya, Sovetskaya, Аэропорты России"
+    },
+    "region": {
+        "id": "305270",
+        "code": "RU-BRY",
+        "local_code": "BRY",
+        "name": "Bryansk Oblast",
+        "continent": "EU",
+        "iso_country": "RU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bryansk_Oblast",
+        "keywords": "Airports in Bryansk Oblast"
+    }
+}
