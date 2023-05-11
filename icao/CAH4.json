@@ -3,8 +3,8 @@
     "ident": "CAH4",
     "type": "small_airport",
     "name": "Valemount Airport",
-    "latitude_deg": "52.85329818725586",
-    "longitude_deg": "-119.33399963378906",
+    "latitude_deg": "52.853298",
+    "longitude_deg": "-119.334",
     "elevation_ft": "2615",
     "continent": "NA",
     "iso_country": "CA",
@@ -16,7 +16,7 @@
     "local_code": "CAH4",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Valemount_Airport",
-    "keywords": "AH4",
+    "keywords": "",
     "runways": [
         {
             "id": "234789",
