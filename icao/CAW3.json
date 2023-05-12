@@ -11,12 +11,12 @@
     "iso_region": "CA-BC",
     "municipality": "Scum Lake",
     "scheduled_service": "no",
-    "gps_code": "CAW3",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "CAW3",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Scum_Lake_Airport",
-    "keywords": "AW3",
+    "keywords": "AW3, CAW3",
     "runways": [
         {
             "id": "250024",

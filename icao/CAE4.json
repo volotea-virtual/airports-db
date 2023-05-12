@@ -1,7 +1,7 @@
 {
     "id": "617",
     "ident": "CAE4",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Tsacha Lake Airport",
     "latitude_deg": "53.019365",
     "longitude_deg": "-124.843891",
@@ -11,12 +11,12 @@
     "iso_region": "CA-BC",
     "municipality": "Tsacha Lake",
     "scheduled_service": "no",
-    "gps_code": "CAE4",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "CAE4",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Tsacha_Lake_Airport",
-    "keywords": "AE4",
+    "keywords": "AE4, CAE4",
     "runways": [
         {
             "id": "256751",
