@@ -2,9 +2,9 @@
     "id": "674",
     "ident": "CBE2",
     "type": "small_airport",
-    "name": "Elko Airport",
-    "latitude_deg": "49.28329849243164",
-    "longitude_deg": "-115.1500015258789",
+    "name": "Lionel P. Demers Memorial Airpark",
+    "latitude_deg": "49.285798",
+    "longitude_deg": "-115.156923",
     "elevation_ft": "2850",
     "continent": "NA",
     "iso_country": "CA",
@@ -15,7 +15,7 @@
     "iata_code": "",
     "local_code": "CBE2",
     "home_link": "",
-    "wikipedia_link": "https://en.wikipedia.org/wiki/Elko_Airport",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Elko/Lionel_P._Demers_Memorial_Airpark",
     "keywords": "BE2",
     "runways": [
         {

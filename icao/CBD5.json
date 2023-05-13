@@ -3,8 +3,8 @@
     "ident": "CBD5",
     "type": "closed",
     "name": "Takla Narrows Airport",
-    "latitude_deg": "55.1635488669",
-    "longitude_deg": "-125.706124306",
+    "latitude_deg": "55.163549",
+    "longitude_deg": "-125.706124",
     "elevation_ft": "2380",
     "continent": "NA",
     "iso_country": "CA",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Takla_Narrows_Aerodrome",
-    "keywords": "BD5, CBD5, CBD5",
+    "keywords": "BD5, CBD5",
     "runways": [
         {
             "id": "254572",
