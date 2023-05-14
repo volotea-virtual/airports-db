@@ -3,8 +3,8 @@
     "ident": "CBJ4",
     "type": "small_airport",
     "name": "Echo Valley Airport",
-    "latitude_deg": "51.24169921875",
-    "longitude_deg": "-121.99400329589844",
+    "latitude_deg": "51.241699",
+    "longitude_deg": "-121.994003",
     "elevation_ft": "3650",
     "continent": "NA",
     "iso_country": "CA",
@@ -16,7 +16,7 @@
     "local_code": "CBJ4",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Echo_Valley_Airport",
-    "keywords": "BJ4",
+    "keywords": "",
     "runways": [
         {
             "id": "234454",
