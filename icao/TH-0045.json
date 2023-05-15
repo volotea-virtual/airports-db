@@ -1,0 +1,38 @@
+{
+    "id": "508579",
+    "ident": "TH-0045",
+    "type": "small_airport",
+    "name": "Dok Rai",
+    "latitude_deg": "12.920684",
+    "longitude_deg": "101.183631",
+    "elevation_ft": "186",
+    "continent": "AS",
+    "iso_country": "TH",
+    "iso_region": "TH-21",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "VTX9",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302663",
+        "code": "TH",
+        "name": "Thailand",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Thailand",
+        "keywords": "Siam, Siamese"
+    },
+    "region": {
+        "id": "305718",
+        "code": "TH-21",
+        "local_code": "21",
+        "name": "Rayong Province",
+        "continent": "AS",
+        "iso_country": "TH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Rayong_province",
+        "keywords": "Airports in Rayong Province"
+    }
+}
