@@ -3,20 +3,20 @@
     "ident": "SNKO",
     "type": "small_airport",
     "name": "Brotas de Macaúbas Airport",
-    "latitude_deg": "-11.999400138855",
-    "longitude_deg": "-42.634899139404",
+    "latitude_deg": "-11.9994",
+    "longitude_deg": "-42.634899",
     "elevation_ft": "2667",
     "continent": "SA",
     "iso_country": "BR",
     "iso_region": "BR-BA",
-    "municipality": "Brotas De Macaúbas",
+    "municipality": "Brotas de Macaúbas",
     "scheduled_service": "no",
-    "gps_code": "",
+    "gps_code": "SNKO",
     "iata_code": "",
-    "local_code": "SNKO",
+    "local_code": "BA0055",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SNKO",
+    "keywords": "SJA2",
     "runways": [
         {
             "id": "234024",
@@ -38,7 +38,7 @@
             "he_longitude_deg": "",
             "he_elevation_ft": "",
             "he_heading_degT": "",
-            "he_displaced_threshold_ft": ""
+            "he_displaced_threshold_ft": "558"
         }
     ],
     "country": {
