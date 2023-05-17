@@ -8,8 +8,8 @@
     "elevation_ft": "3763",
     "continent": "AF",
     "iso_country": "ZM",
-    "iso_region": "ZM-03",
-    "municipality": ";ifi,bwe",
+    "iso_region": "ZM-06",
+    "municipality": "Mufumbwe",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Zambian airports"
     },
     "region": {
-        "id": "306383",
-        "code": "ZM-03",
-        "local_code": "03",
-        "name": "Eastern Province",
+        "id": "306306",
+        "code": "ZM-06",
+        "local_code": "06",
+        "name": "North-Western Province",
         "continent": "AF",
         "iso_country": "ZM",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Eastern_Province,_Zambia",
-        "keywords": "Airports in Eastern Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Northwestern_Province_(Zambia)",
+        "keywords": "Airports in North-Western Province"
     }
 }
