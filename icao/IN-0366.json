@@ -1,0 +1,38 @@
+{
+    "id": "508627",
+    "ident": "IN-0366",
+    "type": "heliport",
+    "name": "Jain Irrigations Helipad",
+    "latitude_deg": "20.945389",
+    "longitude_deg": "75.551255",
+    "elevation_ft": "840",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-MM",
+    "municipality": "Jalgoan",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302634",
+        "code": "IN",
+        "name": "India",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
+        "keywords": "Airports in India, Indian airports"
+    },
+    "region": {
+        "id": "304183",
+        "code": "IN-MM",
+        "local_code": "MM",
+        "name": "Maharashtra",
+        "continent": "AS",
+        "iso_country": "IN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Maharashtra",
+        "keywords": "Airports in Maharashtra"
+    }
+}

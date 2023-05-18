@@ -1,0 +1,62 @@
+{
+    "id": "508620",
+    "ident": "LV-0054",
+    "type": "small_airport",
+    "name": "Lejasciems airfield",
+    "latitude_deg": "57.290981",
+    "longitude_deg": "26.618413",
+    "elevation_ft": "309",
+    "continent": "EU",
+    "iso_country": "LV",
+    "iso_region": "LV-033",
+    "municipality": "\"Jaunkalmes\", Lejasciema pag., LV4412",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "508621",
+            "airport_ref": "508620",
+            "airport_ident": "LV-0054",
+            "length_ft": "1674",
+            "width_ft": "66",
+            "surface": "grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302702",
+        "code": "LV",
+        "name": "Latvia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Latvia",
+        "keywords": "Latvian airports"
+    },
+    "region": {
+        "id": "304516",
+        "code": "LV-033",
+        "local_code": "033",
+        "name": "Gulbene Municipality",
+        "continent": "EU",
+        "iso_country": "LV",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Gulbene_Municipality",
+        "keywords": "Airports in Gulbene Municipality"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "508622",
+    "ident": "BY-0044",
+    "type": "small_airport",
+    "name": "Mihalin Airfield",
+    "latitude_deg": "51.98863",
+    "longitude_deg": "23.90717",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "BY",
+    "iso_region": "BY-BR",
+    "municipality": "Mihalin",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Михалин",
+    "country": {
+        "id": "302678",
+        "code": "BY",
+        "name": "Belarus",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Belarus",
+        "keywords": "Belarussian, Беларусь"
+    },
+    "region": {
+        "id": "303280",
+        "code": "BY-BR",
+        "local_code": "BR",
+        "name": "Brest Region",
+        "continent": "EU",
+        "iso_country": "BY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brest_Region",
+        "keywords": "Brèsckaja voblasc'"
+    }
+}
