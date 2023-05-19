@@ -1,0 +1,38 @@
+{
+    "id": "508702",
+    "ident": "JP-3219",
+    "type": "heliport",
+    "name": "TEPCO Construction Heliport",
+    "latitude_deg": "36.59487",
+    "longitude_deg": "139.47371",
+    "elevation_ft": "3470",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-10",
+    "municipality": "Midori",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302639",
+        "code": "JP",
+        "name": "Japan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Japan",
+        "keywords": "Nippon, 日本の空港"
+    },
+    "region": {
+        "id": "304295",
+        "code": "JP-10",
+        "local_code": "10",
+        "name": "Gunma Prefecture",
+        "continent": "AS",
+        "iso_country": "JP",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Gunma",
+        "keywords": "Kanto"
+    }
+}

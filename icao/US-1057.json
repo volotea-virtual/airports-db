@@ -1,7 +1,7 @@
 {
     "id": "330010",
     "ident": "US-1057",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Keutzer Airport",
     "latitude_deg": "41.513367",
     "longitude_deg": "-89.229531",

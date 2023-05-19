@@ -2,9 +2,9 @@
     "id": "4669",
     "ident": "LW67",
     "type": "small_airport",
-    "name": "Kumanovo Airbase",
-    "latitude_deg": "42.154884",
-    "longitude_deg": "21.699821",
+    "name": "Kumanovo Airfield",
+    "latitude_deg": "42.154242",
+    "longitude_deg": "21.699328",
     "elevation_ft": "1217",
     "continent": "EU",
     "iso_country": "MK",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "LW67",
+    "keywords": "LW67, Adzi Tepe, Kumanovo Airbase",
     "runways": [
         {
             "id": "237568",

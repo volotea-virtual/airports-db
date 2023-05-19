@@ -1,10 +1,10 @@
 {
     "id": "336644",
     "ident": "JP-0399",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Nakajima Airstrip",
-    "latitude_deg": "36.30815",
-    "longitude_deg": "139.14593",
+    "latitude_deg": "36.308148",
+    "longitude_deg": "139.145923",
     "elevation_ft": "",
     "continent": "AS",
     "iso_country": "JP",
