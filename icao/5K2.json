@@ -3,8 +3,8 @@
     "ident": "5K2",
     "type": "small_airport",
     "name": "Tribune Municipal Airport",
-    "latitude_deg": "38.454200744628906",
-    "longitude_deg": "-101.74600219726562",
+    "latitude_deg": "38.450901",
+    "longitude_deg": "-101.750135",
     "elevation_ft": "3620",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "5K2",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Tribune Greeley County",
     "runways": [
         {
             "id": "239764",

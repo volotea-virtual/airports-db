@@ -3,8 +3,8 @@
     "ident": "99A",
     "type": "small_airport",
     "name": "Smith's International Airport",
-    "latitude_deg": "34.40620040893555",
-    "longitude_deg": "-91.95870208740234",
+    "latitude_deg": "34.4062",
+    "longitude_deg": "-91.958702",
     "elevation_ft": "218",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "99A",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Shudy Landing Strip",
     "runways": [
         {
             "id": "251267",

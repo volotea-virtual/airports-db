@@ -3,8 +3,8 @@
     "ident": "AR22",
     "type": "small_airport",
     "name": "Tommy's Flying Service Inc Airport",
-    "latitude_deg": "34.381500244099996",
-    "longitude_deg": "-91.95850372310001",
+    "latitude_deg": "34.3815",
+    "longitude_deg": "-91.958504",
     "elevation_ft": "215",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "AR22",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Sherrill Flying Service Inc.",
     "runways": [
         {
             "id": "250865",
