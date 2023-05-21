@@ -1,0 +1,38 @@
+{
+    "id": "508857",
+    "ident": "KZ-0138",
+    "type": "heliport",
+    "name": "Baikonur Cosmodrome Heliport",
+    "latitude_deg": "45.91131",
+    "longitude_deg": "63.32676",
+    "elevation_ft": "427",
+    "continent": "AS",
+    "iso_country": "KZ",
+    "iso_region": "KZ-KZY",
+    "municipality": "Töretam",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302645",
+        "code": "KZ",
+        "name": "Kazakhstan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kazakhstan",
+        "keywords": "Kazakh"
+    },
+    "region": {
+        "id": "304432",
+        "code": "KZ-KZY",
+        "local_code": "KZY",
+        "name": "Kyzylorda Region",
+        "continent": "AS",
+        "iso_country": "KZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kyzylorda_Region",
+        "keywords": "Қызылорда облысы"
+    }
+}

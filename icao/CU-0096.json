@@ -1,0 +1,38 @@
+{
+    "id": "508863",
+    "ident": "CU-0096",
+    "type": "closed",
+    "name": "Cayo Grande Airport",
+    "latitude_deg": "22.18841",
+    "longitude_deg": "-80.71291",
+    "elevation_ft": "66",
+    "continent": "NA",
+    "iso_country": "CU",
+    "iso_region": "CU-06",
+    "municipality": "Matun",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302732",
+        "code": "CU",
+        "name": "Cuba",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cuba",
+        "keywords": "Aeropuertos de Cuba"
+    },
+    "region": {
+        "id": "303504",
+        "code": "CU-06",
+        "local_code": "06",
+        "name": "Cienfuegos Province",
+        "continent": "NA",
+        "iso_country": "CU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cienfuegos_Province",
+        "keywords": "Airports in Cienfuegos Province"
+    }
+}

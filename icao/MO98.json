@@ -3,8 +3,8 @@
     "ident": "MO98",
     "type": "small_airport",
     "name": "Williams Airport",
-    "latitude_deg": "38.71310043334961",
-    "longitude_deg": "-94.58499908447266",
+    "latitude_deg": "38.713258",
+    "longitude_deg": "-94.585268",
     "elevation_ft": "985",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "MO98",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Flying M Ranch",
     "runways": [
         {
             "id": "249174",

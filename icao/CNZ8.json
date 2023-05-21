@@ -2,9 +2,9 @@
     "id": "1368",
     "ident": "CNZ8",
     "type": "small_airport",
-    "name": "Grimsby Airpark",
-    "latitude_deg": "43.15999984741211",
-    "longitude_deg": "-79.59919738769531",
+    "name": "Grimsby Regional Airport",
+    "latitude_deg": "43.16",
+    "longitude_deg": "-79.599197",
     "elevation_ft": "640",
     "continent": "NA",
     "iso_country": "CA",
@@ -15,8 +15,8 @@
     "iata_code": "",
     "local_code": "CNZ8",
     "home_link": "",
-    "wikipedia_link": "https://en.wikipedia.org/wiki/Grimsby_Air_Park",
-    "keywords": "NZ8",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Grimsby_Regional_Airport",
+    "keywords": "NZ8, Grimsby Airpark",
     "runways": [
         {
             "id": "234489",

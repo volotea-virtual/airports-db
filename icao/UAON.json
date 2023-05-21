@@ -8,8 +8,8 @@
     "elevation_ft": "328",
     "continent": "AS",
     "iso_country": "KZ",
-    "iso_region": "KZ-BAY",
-    "municipality": "Baikonur",
+    "iso_region": "KZ-KZY",
+    "municipality": "Töretam",
     "scheduled_service": "no",
     "gps_code": "UAON",
     "iata_code": "",
@@ -50,13 +50,13 @@
         "keywords": "Kazakh"
     },
     "region": {
-        "id": "306378",
-        "code": "KZ-BAY",
-        "local_code": "BAY",
-        "name": "Baikonur City",
+        "id": "304432",
+        "code": "KZ-KZY",
+        "local_code": "KZY",
+        "name": "Kyzylorda Region",
         "continent": "AS",
         "iso_country": "KZ",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Baikonur",
-        "keywords": "Байқоңыр қаласы"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kyzylorda_Region",
+        "keywords": "Қызылорда облысы"
     }
 }
