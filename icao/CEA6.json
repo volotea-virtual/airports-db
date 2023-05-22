@@ -3,8 +3,8 @@
     "ident": "CEA6",
     "type": "small_airport",
     "name": "Cardston Airport",
-    "latitude_deg": "49.162498474121094",
-    "longitude_deg": "-113.24099731445312",
+    "latitude_deg": "49.163631",
+    "longitude_deg": "-113.241888",
     "elevation_ft": "3887",
     "continent": "NA",
     "iso_country": "CA",
@@ -15,7 +15,7 @@
     "iata_code": "",
     "local_code": "CEA6",
     "home_link": "",
-    "wikipedia_link": "https://en.wikipedia.org/wiki/Cardston_Airport",
+    "wikipedia_link": "https://pms.wikipedia.org/wiki/Cardston_Airport",
     "keywords": "EA6",
     "runways": [
         {
