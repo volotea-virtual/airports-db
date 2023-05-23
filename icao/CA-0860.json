@@ -1,0 +1,38 @@
+{
+    "id": "508941",
+    "ident": "CA-0860",
+    "type": "closed",
+    "name": "fort assiniboine Airport",
+    "latitude_deg": "54.335719",
+    "longitude_deg": "-114.717436",
+    "elevation_ft": "1355",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-AB",
+    "municipality": "fort assiniboine",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": "Canadian airports"
+    },
+    "region": {
+        "id": "303294",
+        "code": "CA-AB",
+        "local_code": "AB",
+        "name": "Alberta",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alberta",
+        "keywords": "Albertan airports"
+    }
+}

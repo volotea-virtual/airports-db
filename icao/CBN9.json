@@ -3,8 +3,8 @@
     "ident": "CBN9",
     "type": "small_airport",
     "name": "Tsay Keh Airport",
-    "latitude_deg": "56.90610122680664",
-    "longitude_deg": "-124.96499633789062",
+    "latitude_deg": "56.906101",
+    "longitude_deg": "-124.964996",
     "elevation_ft": "2280",
     "continent": "NA",
     "iso_country": "CA",
@@ -16,7 +16,7 @@
     "local_code": "CBN9",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Tsay_Keh_Airport",
-    "keywords": "BN9",
+    "keywords": "",
     "runways": [
         {
             "id": "246352",
