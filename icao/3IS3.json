@@ -2,9 +2,9 @@
     "id": "10527",
     "ident": "3IS3",
     "type": "small_airport",
-    "name": "Noland RLA Restricted Landing Area",
-    "latitude_deg": "39.7333984375",
-    "longitude_deg": "-89.150100708",
+    "name": "Noland Farms Airport",
+    "latitude_deg": "39.739237",
+    "longitude_deg": "-89.146113",
     "elevation_ft": "600",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "3IS3",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "RLA",
     "runways": [
         {
             "id": "250310",
