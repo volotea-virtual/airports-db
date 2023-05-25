@@ -2,14 +2,14 @@
     "id": "338061",
     "ident": "KY-0006",
     "type": "heliport",
-    "name": "Faith Hospital Helipad",
+    "name": "Faith Hospital Heliport",
     "latitude_deg": "19.71587",
     "longitude_deg": "-79.82739",
     "elevation_ft": "",
     "continent": "NA",
     "iso_country": "KY",
-    "iso_region": "KY-U-A",
-    "municipality": "Cayman Brac",
+    "iso_region": "KY-CB",
+    "municipality": "Stake Bay",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Airports in Cayman Islands"
     },
     "region": {
-        "id": "304423",
-        "code": "KY-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "508990",
+        "code": "KY-CB",
+        "local_code": "CB",
+        "name": "Cayman Brac",
         "continent": "NA",
         "iso_country": "KY",
         "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "keywords": ""
     }
 }

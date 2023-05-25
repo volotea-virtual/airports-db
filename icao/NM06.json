@@ -2,9 +2,9 @@
     "id": "23226",
     "ident": "NM06",
     "type": "heliport",
-    "name": "St Vincent Hospital Heliport",
-    "latitude_deg": "35.65950012207031",
-    "longitude_deg": "-105.94599914550781",
+    "name": "Saint Vincent Hospital Heliport",
+    "latitude_deg": "35.660103",
+    "longitude_deg": "-105.946555",
     "elevation_ft": "7012",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "NM06",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Christus Saint Vincent Regional Medical Center",
     "runways": [
         {
             "id": "270849",

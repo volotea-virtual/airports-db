@@ -1,7 +1,7 @@
 {
     "id": "16386",
     "ident": "PAAT",
-    "type": "closed",
+    "type": "small_airport",
     "name": "Casco Cove Coast Guard Station",
     "latitude_deg": "52.829797",
     "longitude_deg": "173.173796",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Casco_Cove_Coast_Guard_Station",
-    "keywords": "PAAT, PAAT, ATU, ATU",
+    "keywords": "PAAT, ATU",
     "runways": [
         {
             "id": "249430",

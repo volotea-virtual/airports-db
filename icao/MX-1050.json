@@ -1,7 +1,7 @@
 {
     "id": "331492",
     "ident": "MX-1050",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Jagueyes Airport",
     "latitude_deg": "29.243539",
     "longitude_deg": "-107.081405",
@@ -13,10 +13,10 @@
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
-    "local_code": "JAG",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "JAG",
     "country": {
         "id": "302747",
         "code": "MX",

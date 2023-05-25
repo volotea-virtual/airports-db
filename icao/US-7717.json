@@ -1,0 +1,38 @@
+{
+    "id": "508991",
+    "ident": "US-7717",
+    "type": "small_airport",
+    "name": "Allen Airport",
+    "latitude_deg": "43.73069",
+    "longitude_deg": "-118.07883",
+    "elevation_ft": "2979",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OR",
+    "municipality": "Juntura",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306113",
+        "code": "US-OR",
+        "local_code": "OR",
+        "name": "Oregon",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Oregon",
+        "keywords": "Airports in Oregon"
+    }
+}
