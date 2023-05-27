@@ -11,12 +11,12 @@
     "iso_region": "US-KS",
     "municipality": "Maize",
     "scheduled_service": "no",
-    "gps_code": "70K",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "70K",
+    "local_code": "4KS5",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "70K",
     "runways": [
         {
             "id": "248045",

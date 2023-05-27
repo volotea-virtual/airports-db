@@ -3,8 +3,8 @@
     "ident": "KE14",
     "type": "small_airport",
     "name": "Ohkay Owingeh Airport",
-    "latitude_deg": "36.0299987793",
-    "longitude_deg": "-106.04599762",
+    "latitude_deg": "36.026133",
+    "longitude_deg": "-106.045443",
     "elevation_ft": "5790",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "E14",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Ohkay_Owingeh_Airport",
-    "keywords": "Q14",
+    "keywords": "Q14, Española",
     "runways": [
         {
             "id": "240357",

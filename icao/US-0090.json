@@ -1,10 +1,10 @@
 {
     "id": "46003",
     "ident": "US-0090",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Davison Restricted Landing Area",
-    "latitude_deg": "40.91479874",
-    "longitude_deg": "-89.12870026",
+    "latitude_deg": "40.914799",
+    "longitude_deg": "-89.1287",
     "elevation_ft": "740",
     "continent": "NA",
     "iso_country": "US",

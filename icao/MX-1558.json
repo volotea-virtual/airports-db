@@ -1,11 +1,11 @@
 {
     "id": "339918",
     "ident": "MX-1558",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Piedritas Airport",
     "latitude_deg": "28.77473",
     "longitude_deg": "-103.07528",
-    "elevation_ft": "",
+    "elevation_ft": "2592",
     "continent": "NA",
     "iso_country": "MX",
     "iso_region": "MX-COA",

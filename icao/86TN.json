@@ -3,8 +3,8 @@
     "ident": "86TN",
     "type": "small_airport",
     "name": "Dumplin Field",
-    "latitude_deg": "36.015483",
-    "longitude_deg": "-83.545661",
+    "latitude_deg": "36.016459",
+    "longitude_deg": "-83.544073",
     "elevation_ft": "1000",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "86TN",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Skydive East Tennessee",
     "runways": [
         {
             "id": "345449",

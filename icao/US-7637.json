@@ -1,8 +1,8 @@
 {
     "id": "508806",
     "ident": "US-7637",
-    "type": "small_airport",
-    "name": "Yerger Landing Strip",
+    "type": "closed",
+    "name": "Yerger Airport",
     "latitude_deg": "32.345822",
     "longitude_deg": "-91.008409",
     "elevation_ft": "89",

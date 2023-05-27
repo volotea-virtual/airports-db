@@ -3,8 +3,8 @@
     "ident": "0LL4",
     "type": "small_airport",
     "name": "Flaherty Field",
-    "latitude_deg": "41.4192008972168",
-    "longitude_deg": "-89.12310028076172",
+    "latitude_deg": "41.419592",
+    "longitude_deg": "-89.121394",
     "elevation_ft": "664",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "0LL4",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Tri-City",
     "runways": [
         {
             "id": "254329",

@@ -1,0 +1,38 @@
+{
+    "id": "509121",
+    "ident": "US-7769",
+    "type": "heliport",
+    "name": "Landing Zone X-1 Heliport",
+    "latitude_deg": "46.0928",
+    "longitude_deg": "-94.35013",
+    "elevation_ft": "1145",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MN",
+    "municipality": "Fort Ripley",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306099",
+        "code": "US-MN",
+        "local_code": "MN",
+        "name": "Minnesota",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Minnesota",
+        "keywords": "Airports in Minnesota"
+    }
+}
