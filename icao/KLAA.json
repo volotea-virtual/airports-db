@@ -3,8 +3,8 @@
     "ident": "KLAA",
     "type": "medium_airport",
     "name": "Southeast Colorado Regional Airport",
-    "latitude_deg": "38.066126",
-    "longitude_deg": "-102.690169",
+    "latitude_deg": "38.066407",
+    "longitude_deg": "-102.691373",
     "elevation_ft": "3706",
     "continent": "NA",
     "iso_country": "US",
@@ -15,7 +15,7 @@
     "iata_code": "LAA",
     "local_code": "LAA",
     "home_link": "http://www.ci.lamar.co.us/index.asp?Type=B_BASIC&SEC={C91FC3CC-5A83-4F9C-9AF7-A96F374C2EE5}&DE=",
-    "wikipedia_link": "https://en.wikipedia.org/wiki/Lamar_Municipal_Airport",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lamar_Municipal_Airport_(Colorado)",
     "keywords": "Lamar Municipal",
     "runways": [
         {

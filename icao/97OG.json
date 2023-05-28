@@ -3,8 +3,8 @@
     "ident": "97OG",
     "type": "small_airport",
     "name": "Bybee Field",
-    "latitude_deg": "43.897828",
-    "longitude_deg": "-116.989964",
+    "latitude_deg": "43.897934",
+    "longitude_deg": "-116.990433",
     "elevation_ft": "2150",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "97OG",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Bybee Air Service",
     "runways": [
         {
             "id": "264580",

@@ -3,8 +3,8 @@
     "ident": "KJYL",
     "type": "small_airport",
     "name": "Plantation Airpark",
-    "latitude_deg": "32.645301818847656",
-    "longitude_deg": "-81.59709930419922",
+    "latitude_deg": "32.645302",
+    "longitude_deg": "-81.597099",
     "elevation_ft": "188",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "JYL",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Jump Georgia Skydiving, Sylvania Screven",
     "runways": [
         {
             "id": "242211",

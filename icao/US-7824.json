@@ -1,0 +1,38 @@
+{
+    "id": "509213",
+    "ident": "US-7824",
+    "type": "small_airport",
+    "name": "Walsh East Airport",
+    "latitude_deg": "37.39723",
+    "longitude_deg": "-102.27176",
+    "elevation_ft": "3954",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-CO",
+    "municipality": "Walsh",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306081",
+        "code": "US-CO",
+        "local_code": "CO",
+        "name": "Colorado",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Colorado",
+        "keywords": "Airports in Colorado"
+    }
+}
