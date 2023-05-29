@@ -1,7 +1,7 @@
 {
     "id": "16952",
     "ident": "CO99",
-    "type": "heliport",
+    "type": "closed",
     "name": "Denver ARTCC Heliport",
     "latitude_deg": "40.1882",
     "longitude_deg": "-105.12652",
@@ -11,12 +11,12 @@
     "iso_region": "US-CO",
     "municipality": "Longmont",
     "scheduled_service": "no",
-    "gps_code": "CO99",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "CO99",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "CO99",
     "runways": [
         {
             "id": "267350",
