@@ -48,7 +48,7 @@
             "airport_ident": "LPMI",
             "type": "AFIS",
             "description": "",
-            "frequency_mhz": "122.2"
+            "frequency_mhz": "122.205"
         }
     ],
     "country": {

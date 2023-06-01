@@ -1,0 +1,38 @@
+{
+    "id": "509304",
+    "ident": "BR-1835",
+    "type": "heliport",
+    "name": "HeliXtrema Heliport",
+    "latitude_deg": "-22.836235",
+    "longitude_deg": "-46.341036",
+    "elevation_ft": "3002",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MG",
+    "municipality": "Extrema",
+    "scheduled_service": "no",
+    "gps_code": "SN62",
+    "iata_code": "",
+    "local_code": "MG0545",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303209",
+        "code": "BR-MG",
+        "local_code": "MG",
+        "name": "Minas Gerais",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Minas_Gerais",
+        "keywords": "Airports in Minas Gerais"
+    }
+}
