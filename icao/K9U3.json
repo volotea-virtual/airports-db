@@ -3,8 +3,8 @@
     "ident": "K9U3",
     "type": "small_airport",
     "name": "Austin Airport",
-    "latitude_deg": "39.467998",
-    "longitude_deg": "-117.195",
+    "latitude_deg": "39.467708",
+    "longitude_deg": "-117.197576",
     "elevation_ft": "5730",
     "continent": "NA",
     "iso_country": "US",
@@ -15,7 +15,7 @@
     "iata_code": "ASQ",
     "local_code": "TMT",
     "home_link": "",
-    "wikipedia_link": "https://en.wikipedia.org/wiki/Austin_Airport",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Austin_Airport_(Nevada)",
     "keywords": "9U3",
     "runways": [
         {
