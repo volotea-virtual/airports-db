@@ -94,7 +94,7 @@
             "airport_ident": "KSAV",
             "type": "CTAF",
             "description": "CTAF",
-            "frequency_mhz": "119.1"
+            "frequency_mhz": "125.975"
         },
         {
             "id": "64185",
@@ -142,7 +142,7 @@
             "airport_ident": "KSAV",
             "type": "TWR",
             "description": "TWR",
-            "frequency_mhz": "119.1"
+            "frequency_mhz": "125.975"
         },
         {
             "id": "64191",
