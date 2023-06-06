@@ -1,7 +1,7 @@
 {
     "id": "344673",
     "ident": "NG-0024",
-    "type": "closed",
+    "type": "small_airport",
     "name": "Bacita Airstrip",
     "latitude_deg": "9.0421",
     "longitude_deg": "4.9188",
@@ -15,8 +15,8 @@
     "iata_code": "",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
-    "keywords": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bacita_Airstrip",
+    "keywords": "QCT",
     "country": {
         "id": "302593",
         "code": "NG",
