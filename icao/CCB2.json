@@ -1,0 +1,38 @@
+{
+    "id": "509407",
+    "ident": "CCB2",
+    "type": "small_airport",
+    "name": "Seabee Mine Airport",
+    "latitude_deg": "55.688809",
+    "longitude_deg": "-103.610925",
+    "elevation_ft": "1602",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-SK",
+    "municipality": "Laonil Lake",
+    "scheduled_service": "no",
+    "gps_code": "CCB2",
+    "iata_code": "",
+    "local_code": "CCB2",
+    "home_link": "https://www.ssrmining.com/operations/production/seabee/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Seabee_Mine_Aerodrome",
+    "keywords": "",
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": "Canadian airports"
+    },
+    "region": {
+        "id": "303305",
+        "code": "CA-SK",
+        "local_code": "SK",
+        "name": "Saskatchewan",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saskatchewan",
+        "keywords": "Airports in Saskatchewan"
+    }
+}

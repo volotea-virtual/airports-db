@@ -3,8 +3,8 @@
     "ident": "CBZ9",
     "type": "small_airport",
     "name": "Fraser Lake Airport",
-    "latitude_deg": "54.014171",
-    "longitude_deg": "-124.76973",
+    "latitude_deg": "54.014454",
+    "longitude_deg": "-124.771354",
     "elevation_ft": "2690",
     "continent": "NA",
     "iso_country": "CA",
@@ -14,9 +14,9 @@
     "gps_code": "CBZ9",
     "iata_code": "",
     "local_code": "CBZ9",
-    "home_link": "",
+    "home_link": "http://fraserlake.ca/upload/docs/Municipal-hall/Fraser_Lake_Airport.pdf",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Fraser_Lake_Airport",
-    "keywords": "BZ9",
+    "keywords": "",
     "runways": [
         {
             "id": "234452",
