@@ -3,8 +3,8 @@
     "ident": "CCE2",
     "type": "closed",
     "name": "Mount Pleasant Airport",
-    "latitude_deg": "46.599998",
-    "longitude_deg": "-64",
+    "latitude_deg": "46.598189",
+    "longitude_deg": "-64.00661",
     "elevation_ft": "",
     "continent": "NA",
     "iso_country": "CA",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/RCAF_Station_Mount_Pleasant",
-    "keywords": "CCE2, CCE2, CCE2",
+    "keywords": "CE2",
     "runways": [
         {
             "id": "271032",
