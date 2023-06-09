@@ -3,8 +3,8 @@
     "ident": "SAAG",
     "type": "medium_airport",
     "name": "Gualeguaychu Airport",
-    "latitude_deg": "-33.0103",
-    "longitude_deg": "-58.6131",
+    "latitude_deg": "-33.005567",
+    "longitude_deg": "-58.612833",
     "elevation_ft": "75",
     "continent": "SA",
     "iso_country": "AR",
@@ -15,7 +15,7 @@
     "iata_code": "GHU",
     "local_code": "GUA",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Gualeguaych%C3%BA_Airport",
     "keywords": "",
     "runways": [
         {

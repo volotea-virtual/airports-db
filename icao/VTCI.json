@@ -3,8 +3,8 @@
     "ident": "VTCI",
     "type": "small_airport",
     "name": "Pai Airport",
-    "latitude_deg": "19.372",
-    "longitude_deg": "98.436996",
+    "latitude_deg": "19.372054",
+    "longitude_deg": "98.435904",
     "elevation_ft": "1676",
     "continent": "AS",
     "iso_country": "TH",
@@ -14,9 +14,9 @@
     "gps_code": "VTCI",
     "iata_code": "PYY",
     "local_code": "",
-    "home_link": "",
-    "wikipedia_link": "http://en.wikipedihttp://en.wikipedia.org/wiki/Pai_Airporta.org/wiki/Pai_Airport",
-    "keywords": "Pai Airport",
+    "home_link": "https://minisite.airports.go.th/pai/home",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Pai_Airport",
+    "keywords": "ท่าอากาศยานปาย",
     "runways": [
         {
             "id": "351379",

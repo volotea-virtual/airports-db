@@ -6,7 +6,7 @@
     "latitude_deg": "37.9207",
     "longitude_deg": "21.292601",
     "elevation_ft": "55",
-    "continent": "EU",
+    "continent": "AS",
     "iso_country": "GR",
     "iso_region": "GR-G",
     "municipality": "Andravida",
@@ -14,9 +14,9 @@
     "gps_code": "LGAD",
     "iata_code": "PYR",
     "local_code": "",
-    "home_link": "",
-    "wikipedia_link": "",
-    "keywords": "",
+    "home_link": "https://www.haf.gr/en/structure/htaf/117-combat-wing/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Andravida_Air_Base",
+    "keywords": "Βάση Ανδραβίδας",
     "runways": [
         {
             "id": "236361",
