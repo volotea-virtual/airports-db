@@ -1,0 +1,38 @@
+{
+    "id": "509452",
+    "ident": "VRAH",
+    "type": "small_airport",
+    "name": "Hoarafushi Airport",
+    "latitude_deg": "6.96967",
+    "longitude_deg": "72.896287",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "MV",
+    "iso_region": "MV-07",
+    "municipality": "",
+    "scheduled_service": "yes",
+    "gps_code": "VRAH",
+    "iata_code": "HRF",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302652",
+        "code": "MV",
+        "name": "Maldives",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Maldives",
+        "keywords": "Airports in Maldives"
+    },
+    "region": {
+        "id": "304746",
+        "code": "MV-07",
+        "local_code": "07",
+        "name": "Haa Alif Atoll",
+        "continent": "AS",
+        "iso_country": "MV",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Haa_Alif_Atoll",
+        "keywords": "Airports in Haa Alif Atoll"
+    }
+}

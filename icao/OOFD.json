@@ -3,8 +3,8 @@
     "ident": "OOFD",
     "type": "small_airport",
     "name": "Fahud Airport",
-    "latitude_deg": "22.354759318",
-    "longitude_deg": "56.4841461182",
+    "latitude_deg": "22.354759",
+    "longitude_deg": "56.484146",
     "elevation_ft": "552",
     "continent": "AS",
     "iso_country": "OM",
@@ -15,7 +15,7 @@
     "iata_code": "FAU",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Fahud_Airport",
     "keywords": "",
     "runways": [
         {
@@ -53,11 +53,11 @@
         "id": "304995",
         "code": "OM-ZA",
         "local_code": "ZA",
-        "name": "Az Zahirah Governorate",
+        "name": "Al Dhahirah Governorate",
         "continent": "AS",
         "iso_country": "OM",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Az_Zahirah_Governorate",
-        "keywords": "Airports in Az Zahirah Governorate"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Al_Dhahirah_Governorate",
+        "keywords": "Airports in Al Dhahirah Governorate"
     },
     "navaids": [
         {

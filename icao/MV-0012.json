@@ -1,0 +1,38 @@
+{
+    "id": "509454",
+    "ident": "MV-0012",
+    "type": "small_airport",
+    "name": "Faresmaathoda Airport",
+    "latitude_deg": "0.192647",
+    "longitude_deg": "73.196755",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "MV",
+    "iso_region": "MV-28",
+    "municipality": "Faresmaathodaa",
+    "scheduled_service": "yes",
+    "gps_code": "",
+    "iata_code": "FMT",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302652",
+        "code": "MV",
+        "name": "Maldives",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Maldives",
+        "keywords": "Airports in Maldives"
+    },
+    "region": {
+        "id": "304758",
+        "code": "MV-28",
+        "local_code": "28",
+        "name": "Gaafu Dhaalu Atoll",
+        "continent": "AS",
+        "iso_country": "MV",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Gaafu_Dhaalu_Atoll",
+        "keywords": "Airports in Gaafu Dhaalu Atoll"
+    }
+}
