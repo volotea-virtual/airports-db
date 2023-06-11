@@ -69,7 +69,7 @@
             "airport_ref": "27066",
             "airport_ident": "YMML",
             "type": "APP",
-            "description": "APP",
+            "description": "Melbourne Approach",
             "frequency_mhz": "132"
         },
         {
@@ -77,8 +77,8 @@
             "airport_ref": "27066",
             "airport_ident": "YMML",
             "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "114.1"
+            "description": "YMML ATIS",
+            "frequency_mhz": "118"
         },
         {
             "id": "48964",
@@ -93,15 +93,23 @@
             "airport_ref": "27066",
             "airport_ident": "YMML",
             "type": "DEP",
-            "description": "DEP",
+            "description": "Melbourne Departures (to north)",
             "frequency_mhz": "118.9"
+        },
+        {
+            "id": "509479",
+            "airport_ref": "27066",
+            "airport_ident": "YMML",
+            "type": "DEP",
+            "description": "Melbourne Departures (to south)",
+            "frequency_mhz": "129.4"
         },
         {
             "id": "48966",
             "airport_ref": "27066",
             "airport_ident": "YMML",
             "type": "GND",
-            "description": "GND",
+            "description": "Melbourne ground",
             "frequency_mhz": "121.7"
         },
         {
@@ -109,7 +117,7 @@
             "airport_ref": "27066",
             "airport_ident": "YMML",
             "type": "TWR",
-            "description": "TWR",
+            "description": "Melbourne Tower",
             "frequency_mhz": "120.5"
         }
     ],
