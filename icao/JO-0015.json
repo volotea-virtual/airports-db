@@ -1,0 +1,38 @@
+{
+    "id": "509496",
+    "ident": "JO-0015",
+    "type": "small_airport",
+    "name": "Al-Omari",
+    "latitude_deg": "31.568827",
+    "longitude_deg": "36.778292",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "JO",
+    "iso_region": "JO-U-A",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302638",
+        "code": "JO",
+        "name": "Jordan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Jordan",
+        "keywords": "مطارات في الأردن"
+    },
+    "region": {
+        "id": "304285",
+        "code": "JO-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "AS",
+        "iso_country": "JO",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}
