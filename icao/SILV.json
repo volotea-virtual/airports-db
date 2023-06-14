@@ -11,12 +11,12 @@
     "iso_region": "BR-SP",
     "municipality": "Guarulhos",
     "scheduled_service": "no",
-    "gps_code": "",
+    "gps_code": "SILX",
     "iata_code": "",
     "local_code": "SP0525",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SILX",
+    "keywords": "",
     "runways": [
         {
             "id": "262638",
