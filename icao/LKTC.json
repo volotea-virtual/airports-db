@@ -43,14 +43,6 @@
     ],
     "freqs": [
         {
-            "id": "315755",
-            "airport_ref": "30487",
-            "airport_ident": "LKTC",
-            "type": "info",
-            "description": "Točná Radio",
-            "frequency_mhz": "123.4"
-        },
-        {
             "id": "333282",
             "airport_ref": "30487",
             "airport_ident": "LKTC",
