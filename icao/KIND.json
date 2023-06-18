@@ -115,8 +115,16 @@
             "airport_ref": "3610",
             "airport_ident": "KIND",
             "type": "DEP",
-            "description": "DEP",
+            "description": "DEP (West)",
             "frequency_mhz": "119.05"
+        },
+        {
+            "id": "509581",
+            "airport_ref": "3610",
+            "airport_ident": "KIND",
+            "type": "DEP",
+            "description": "Dep (East)",
+            "frequency_mhz": "127.15"
         },
         {
             "id": "63582",
