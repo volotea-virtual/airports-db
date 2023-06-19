@@ -3,12 +3,12 @@
     "ident": "EGQA",
     "type": "closed",
     "name": "Tain Range",
-    "latitude_deg": "57.81667",
-    "longitude_deg": "-3.96667",
+    "latitude_deg": "-1",
+    "longitude_deg": "-1",
     "elevation_ft": "-4",
-    "continent": "EU",
-    "iso_country": "GB",
-    "iso_region": "GB-SCT",
+    "continent": "AN",
+    "iso_country": "AQ",
+    "iso_region": "AQ-U-A",
     "municipality": "",
     "scheduled_service": "no",
     "gps_code": "",
@@ -18,21 +18,21 @@
     "wikipedia_link": "",
     "keywords": "EGQA",
     "country": {
-        "id": "302688",
-        "code": "GB",
-        "name": "United Kingdom",
-        "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
-        "keywords": "Great Britain"
+        "id": "302615",
+        "code": "AQ",
+        "name": "Antarctica",
+        "continent": "AN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Antarctica",
+        "keywords": "Airports in Antarctica"
     },
     "region": {
-        "id": "306377",
-        "code": "GB-SCT",
-        "local_code": "SCT",
-        "name": "Scotland",
-        "continent": "EU",
-        "iso_country": "GB",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Scotland",
-        "keywords": "keep"
+        "id": "302931",
+        "code": "AQ-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "AN",
+        "iso_country": "AQ",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
     }
 }
