@@ -1,0 +1,62 @@
+{
+    "id": "509640",
+    "ident": "AN03",
+    "type": "small_airport",
+    "name": "Alaska View Airport",
+    "latitude_deg": "61.991944",
+    "longitude_deg": "-151.360972",
+    "elevation_ft": "166",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AK",
+    "municipality": "Skwentna",
+    "scheduled_service": "no",
+    "gps_code": "AN03",
+    "iata_code": "",
+    "local_code": "AN03",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "509641",
+            "airport_ref": "509640",
+            "airport_ident": "AN03",
+            "length_ft": "2032",
+            "width_ft": "75",
+            "surface": "Turf",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "5",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306076",
+        "code": "US-AK",
+        "local_code": "AK",
+        "name": "Alaska",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
+        "keywords": "Airports in Alaska"
+    }
+}

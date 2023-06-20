@@ -1,0 +1,62 @@
+{
+    "id": "509634",
+    "ident": "4WI7",
+    "type": "heliport",
+    "name": "Aurora Medical Center Sheboygan County Heliport",
+    "latitude_deg": "43.734121",
+    "longitude_deg": "-87.755002",
+    "elevation_ft": "686",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-WI",
+    "municipality": "Kohler",
+    "scheduled_service": "no",
+    "gps_code": "4WI7",
+    "iata_code": "",
+    "local_code": "4WI7",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "509635",
+            "airport_ref": "509634",
+            "airport_ident": "4WI7",
+            "length_ft": "40",
+            "width_ft": "40",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306125",
+        "code": "US-WI",
+        "local_code": "WI",
+        "name": "Wisconsin",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Wisconsin",
+        "keywords": "Airports in Wisconsin"
+    }
+}
