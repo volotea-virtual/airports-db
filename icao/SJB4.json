@@ -1,0 +1,38 @@
+{
+    "id": "509688",
+    "ident": "SJB4",
+    "type": "heliport",
+    "name": "Thiago Simon Heliport",
+    "latitude_deg": "-26.739722",
+    "longitude_deg": "-53.191667",
+    "elevation_ft": "2024",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-SC",
+    "municipality": "Maravilha",
+    "scheduled_service": "no",
+    "gps_code": "SJB4",
+    "iata_code": "",
+    "local_code": "SC0216",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303222",
+        "code": "BR-SC",
+        "local_code": "SC",
+        "name": "Santa Catarina",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Catarina_(state)",
+        "keywords": "Airports in Santa Catarina"
+    }
+}

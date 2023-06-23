@@ -1,7 +1,7 @@
 {
     "id": "5921",
     "ident": "SBJC",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Belém/Brigadeiro Protásio de Oliveira Airport",
     "latitude_deg": "-1.415051",
     "longitude_deg": "-48.459805",
@@ -11,12 +11,12 @@
     "iso_region": "BR-PA",
     "municipality": "Belém",
     "scheduled_service": "no",
-    "gps_code": "SBJC",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "PA0005",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Prot%C3%A1sio_de_Oliveira_Airport",
-    "keywords": "Júlio César Airport",
+    "keywords": "Júlio César Airport, SBJC, PA0005",
     "runways": [
         {
             "id": "234289",
