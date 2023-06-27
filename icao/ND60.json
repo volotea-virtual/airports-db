@@ -2,9 +2,9 @@
     "id": "22880",
     "ident": "ND60",
     "type": "small_airport",
-    "name": "Frokjer Airport",
-    "latitude_deg": "47.958900451660156",
-    "longitude_deg": "-97.47979736328125",
+    "name": "Douglas Portage Airport",
+    "latitude_deg": "47.956616",
+    "longitude_deg": "-97.481738",
     "elevation_ft": "953",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "ND60",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Frokjer",
     "runways": [
         {
             "id": "255004",
