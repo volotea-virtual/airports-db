@@ -1,7 +1,7 @@
 {
     "id": "14193",
     "ident": "7LA5",
-    "type": "heliport",
+    "type": "closed",
     "name": "Petroleum Helicopters Cameron Heliport",
     "latitude_deg": "29.777995",
     "longitude_deg": "-93.299847",
@@ -11,12 +11,12 @@
     "iso_region": "US-LA",
     "municipality": "Cameron",
     "scheduled_service": "no",
-    "gps_code": "7LA5",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "7LA5",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "7LA5",
     "runways": [
         {
             "id": "266476",

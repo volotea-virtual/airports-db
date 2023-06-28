@@ -2,9 +2,9 @@
     "id": "23629",
     "ident": "OH65",
     "type": "small_airport",
-    "name": "Antique Acres Airpark",
-    "latitude_deg": "39.23939895629883",
-    "longitude_deg": "-84.10030364990234",
+    "name": "Hickory Grove Airpark",
+    "latitude_deg": "39.240251",
+    "longitude_deg": "-84.098915",
     "elevation_ft": "895",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "OH65",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Antique Acres",
     "runways": [
         {
             "id": "252251",

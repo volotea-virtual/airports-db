@@ -1,7 +1,7 @@
 {
     "id": "21475",
     "ident": "LA08",
-    "type": "heliport",
+    "type": "closed",
     "name": "Jesuits Bend Heliport",
     "latitude_deg": "29.75771",
     "longitude_deg": "-90.03488",
@@ -11,12 +11,12 @@
     "iso_region": "US-LA",
     "municipality": "Belle Chasse",
     "scheduled_service": "no",
-    "gps_code": "LA08",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "LA08",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "LA08",
     "runways": [
         {
             "id": "267824",
