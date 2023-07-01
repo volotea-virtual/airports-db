@@ -3,8 +3,8 @@
     "ident": "SNPQ",
     "type": "small_airport",
     "name": "Pesqueira Airport",
-    "latitude_deg": "-8.37416744232",
-    "longitude_deg": "-36.6377792358",
+    "latitude_deg": "-8.374808",
+    "longitude_deg": "-36.637813",
     "elevation_ft": "2067",
     "continent": "SA",
     "iso_country": "BR",
@@ -13,9 +13,9 @@
     "scheduled_service": "no",
     "gps_code": "SNPQ",
     "iata_code": "",
-    "local_code": "",
+    "local_code": "PE0010",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://pt.wikipedia.org/wiki/Aeroporto_de_Pesqueira",
     "keywords": "",
     "runways": [
         {

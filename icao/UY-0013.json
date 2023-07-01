@@ -17,6 +17,16 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "509793",
+            "airport_ref": "326528",
+            "airport_ident": "UY-0013",
+            "type": "CTAF",
+            "description": "Florida",
+            "frequency_mhz": "123.5"
+        }
+    ],
     "country": {
         "id": "302801",
         "code": "UY",

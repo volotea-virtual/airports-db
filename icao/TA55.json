@@ -1,10 +1,10 @@
 {
     "id": "24763",
     "ident": "TA55",
-    "type": "closed",
+    "type": "small_airport",
     "name": "Del Valle Airport",
-    "latitude_deg": "30.16426",
-    "longitude_deg": "-97.596672",
+    "latitude_deg": "30.112111",
+    "longitude_deg": "-97.619126",
     "elevation_ft": "460",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "TA55, TA55, TA55",
+    "keywords": "TA55",
     "runways": [
         {
             "id": "251369",
