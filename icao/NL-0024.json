@@ -1,8 +1,8 @@
 {
     "id": "299505",
     "ident": "NL-0024",
-    "type": "closed",
-    "name": "Middenmeer Aerodrome",
+    "type": "small_airport",
+    "name": "Middenmeer Airfield",
     "latitude_deg": "52.815045",
     "longitude_deg": "5.021331",
     "elevation_ft": "-14",

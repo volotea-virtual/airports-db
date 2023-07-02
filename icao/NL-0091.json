@@ -1,0 +1,38 @@
+{
+    "id": "509810",
+    "ident": "NL-0091",
+    "type": "heliport",
+    "name": "Feadship Makkum Helipad",
+    "latitude_deg": "53.054",
+    "longitude_deg": "5.3992",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "NL",
+    "iso_region": "NL-FR",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302708",
+        "code": "NL",
+        "name": "Netherlands",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Netherlands",
+        "keywords": "Holland, Luchthavens van Nederland, Dutch airports"
+    },
+    "region": {
+        "id": "304934",
+        "code": "NL-FR",
+        "local_code": "FR",
+        "name": "Friesland",
+        "continent": "EU",
+        "iso_country": "NL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Friesland",
+        "keywords": "Airports in Friesland"
+    }
+}

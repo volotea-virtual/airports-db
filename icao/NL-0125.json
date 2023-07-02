@@ -1,0 +1,38 @@
+{
+    "id": "509849",
+    "ident": "NL-0125",
+    "type": "heliport",
+    "name": "Air Operations Control Station Nieuw Milligen Helipad",
+    "latitude_deg": "52.23669",
+    "longitude_deg": "5.7492",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "NL",
+    "iso_region": "NL-GE",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "http://www.defensie.nl/luchtmacht/luchtmachtbases/aocs_nieuw_milligen/",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302708",
+        "code": "NL",
+        "name": "Netherlands",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Netherlands",
+        "keywords": "Holland, Luchthavens van Nederland, Dutch airports"
+    },
+    "region": {
+        "id": "304935",
+        "code": "NL-GE",
+        "local_code": "GE",
+        "name": "Gelderland",
+        "continent": "EU",
+        "iso_country": "NL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Gelderland",
+        "keywords": "Airports in Gelderland"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "509821",
+    "ident": "NL-0100",
+    "type": "heliport",
+    "name": "Escape Helipad",
+    "latitude_deg": "51.9451",
+    "longitude_deg": "6.2985",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "NL",
+    "iso_region": "NL-GE",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302708",
+        "code": "NL",
+        "name": "Netherlands",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Netherlands",
+        "keywords": "Holland, Luchthavens van Nederland, Dutch airports"
+    },
+    "region": {
+        "id": "304935",
+        "code": "NL-GE",
+        "local_code": "GE",
+        "name": "Gelderland",
+        "continent": "EU",
+        "iso_country": "NL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Gelderland",
+        "keywords": "Airports in Gelderland"
+    }
+}

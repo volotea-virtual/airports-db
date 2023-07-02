@@ -1,0 +1,38 @@
+{
+    "id": "509828",
+    "ident": "NL-0105",
+    "type": "heliport",
+    "name": "Haga ziekenhuis Leyweg Helipad",
+    "latitude_deg": "52.0558",
+    "longitude_deg": "4.2625",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "NL",
+    "iso_region": "NL-ZH",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302708",
+        "code": "NL",
+        "name": "Netherlands",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Netherlands",
+        "keywords": "Holland, Luchthavens van Nederland, Dutch airports"
+    },
+    "region": {
+        "id": "304943",
+        "code": "NL-ZH",
+        "local_code": "ZH",
+        "name": "Zuid-Holland",
+        "continent": "EU",
+        "iso_country": "NL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Zuid-Holland",
+        "keywords": "Airports in Zuid-Holland"
+    }
+}

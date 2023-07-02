@@ -1,0 +1,38 @@
+{
+    "id": "509854",
+    "ident": "NL-0130",
+    "type": "heliport",
+    "name": "Van Ghent Kazerne Helipad",
+    "latitude_deg": "51.90895",
+    "longitude_deg": "4.52815",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "NL",
+    "iso_region": "NL-ZH",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302708",
+        "code": "NL",
+        "name": "Netherlands",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Netherlands",
+        "keywords": "Holland, Luchthavens van Nederland, Dutch airports"
+    },
+    "region": {
+        "id": "304943",
+        "code": "NL-ZH",
+        "local_code": "ZH",
+        "name": "Zuid-Holland",
+        "continent": "EU",
+        "iso_country": "NL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Zuid-Holland",
+        "keywords": "Airports in Zuid-Holland"
+    }
+}

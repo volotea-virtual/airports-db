@@ -1,0 +1,38 @@
+{
+    "id": "509824",
+    "ident": "NL-0102",
+    "type": "heliport",
+    "name": "Logistiek Militair Complex Eygelshoven",
+    "latitude_deg": "50.9015",
+    "longitude_deg": "6.075",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "NL",
+    "iso_region": "NL-LI",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302708",
+        "code": "NL",
+        "name": "Netherlands",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Netherlands",
+        "keywords": "Holland, Luchthavens van Nederland, Dutch airports"
+    },
+    "region": {
+        "id": "304937",
+        "code": "NL-LI",
+        "local_code": "LI",
+        "name": "Limburg",
+        "continent": "EU",
+        "iso_country": "NL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Limburg",
+        "keywords": "Airports in Limburg"
+    }
+}

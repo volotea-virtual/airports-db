@@ -3,8 +3,8 @@
     "ident": "CCF4",
     "type": "small_airport",
     "name": "Porters Lake Airport",
-    "latitude_deg": "44.7099936874",
-    "longitude_deg": "-63.2996821404",
+    "latitude_deg": "44.709994",
+    "longitude_deg": "-63.299682",
     "elevation_ft": "20",
     "continent": "NA",
     "iso_country": "CA",
@@ -16,7 +16,7 @@
     "local_code": "CCF4",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Porters_Lake_Airport",
-    "keywords": "CF4",
+    "keywords": "",
     "runways": [
         {
             "id": "253092",
