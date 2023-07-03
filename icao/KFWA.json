@@ -91,8 +91,24 @@
             "airport_ref": "3547",
             "airport_ident": "KFWA",
             "type": "A/D",
-            "description": "APP/DEP",
+            "description": "APP/DEP SW/NW OF ACT RWY",
             "frequency_mhz": "127.2"
+        },
+        {
+            "id": "509904",
+            "airport_ref": "3547",
+            "airport_ident": "KFWA",
+            "type": "A/D",
+            "description": "SE/NE OF ACTIVE RWY",
+            "frequency_mhz": "132.15"
+        },
+        {
+            "id": "509905",
+            "airport_ref": "3547",
+            "airport_ident": "KFWA",
+            "type": "A/D",
+            "description": "FORT WAYNE A/D",
+            "frequency_mhz": "135.325"
         },
         {
             "id": "61122",

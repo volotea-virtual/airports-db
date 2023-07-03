@@ -105,6 +105,14 @@
             "frequency_mhz": "124"
         },
         {
+            "id": "509941",
+            "airport_ref": "3869",
+            "airport_ident": "KSBP",
+            "type": "CTR",
+            "description": "LOS ANGELES CENTER",
+            "frequency_mhz": "119.05"
+        },
+        {
             "id": "59961",
             "airport_ref": "3869",
             "airport_ident": "KSBP",

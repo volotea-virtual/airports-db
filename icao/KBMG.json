@@ -70,7 +70,7 @@
             "airport_ident": "KBMG",
             "type": "A/D",
             "description": "HULMAN APP/DEP",
-            "frequency_mhz": "128.05"
+            "frequency_mhz": "128.025"
         },
         {
             "id": "70591",

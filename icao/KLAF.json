@@ -65,12 +65,12 @@
     ],
     "freqs": [
         {
-            "id": "68768",
+            "id": "509914",
             "airport_ref": "3627",
             "airport_ident": "KLAF",
-            "type": "ASOS",
-            "description": "ASOS",
-            "frequency_mhz": "127.75"
+            "type": "A/D",
+            "description": "GRISSOM A/D",
+            "frequency_mhz": "123.85"
         },
         {
             "id": "68769",

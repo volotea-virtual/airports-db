@@ -89,6 +89,14 @@
             "frequency_mhz": "118.3"
         },
         {
+            "id": "509943",
+            "airport_ref": "3893",
+            "airport_ident": "KSMX",
+            "type": "CTR",
+            "description": "LOS ANGELES CENTER",
+            "frequency_mhz": "119.05"
+        },
+        {
             "id": "67961",
             "airport_ref": "3893",
             "airport_ident": "KSMX",

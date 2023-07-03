@@ -113,8 +113,16 @@
             "airport_ref": "3471",
             "airport_ident": "KCVG",
             "type": "APP",
-            "description": "APP",
+            "description": "APP 090-269°",
             "frequency_mhz": "119.7"
+        },
+        {
+            "id": "509900",
+            "airport_ref": "3471",
+            "airport_ident": "KCVG",
+            "type": "APP",
+            "description": "270-089°",
+            "frequency_mhz": "123.875"
         },
         {
             "id": "60817",
@@ -145,8 +153,16 @@
             "airport_ref": "3471",
             "airport_ident": "KCVG",
             "type": "DEP",
-            "description": "DEP",
+            "description": "DEP 001-180°",
             "frequency_mhz": "126.65"
+        },
+        {
+            "id": "509901",
+            "airport_ref": "3471",
+            "airport_ident": "KCVG",
+            "type": "DEP",
+            "description": "181-360°",
+            "frequency_mhz": "128.7"
         },
         {
             "id": "60820",
@@ -169,7 +185,7 @@
             "airport_ref": "3471",
             "airport_ident": "KCVG",
             "type": "TWR",
-            "description": "TWR",
+            "description": "TWR RWY 09-27",
             "frequency_mhz": "118.3"
         },
         {
@@ -177,7 +193,7 @@
             "airport_ref": "3471",
             "airport_ident": "KCVG",
             "type": "TWR",
-            "description": "",
+            "description": "RWAY 18-36R",
             "frequency_mhz": "118.975"
         },
         {
@@ -185,7 +201,7 @@
             "airport_ref": "3471",
             "airport_ident": "KCVG",
             "type": "TWR",
-            "description": "",
+            "description": "RWAY 18-36L",
             "frequency_mhz": "133.325"
         },
         {

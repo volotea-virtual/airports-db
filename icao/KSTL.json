@@ -109,20 +109,28 @@
     ],
     "freqs": [
         {
-            "id": "66194",
-            "airport_ref": "3905",
-            "airport_ident": "KSTL",
-            "type": "APP",
-            "description": "ST LOUIS APP",
-            "frequency_mhz": "28.91"
-        },
-        {
             "id": "66193",
             "airport_ref": "3905",
             "airport_ident": "KSTL",
             "type": "APP",
             "description": "ST LOUIS APP",
             "frequency_mhz": "120.05"
+        },
+        {
+            "id": "66194",
+            "airport_ref": "3905",
+            "airport_ident": "KSTL",
+            "type": "APP",
+            "description": "SOUTH/WEST SECONDARY",
+            "frequency_mhz": "121.025"
+        },
+        {
+            "id": "509952",
+            "airport_ref": "3905",
+            "airport_ident": "KSTL",
+            "type": "APP",
+            "description": "SAINT LOUIS APPROACH SECONDARY",
+            "frequency_mhz": "123.7"
         },
         {
             "id": "66195",
@@ -145,24 +153,40 @@
             "airport_ref": "3905",
             "airport_ident": "KSTL",
             "type": "DEP",
-            "description": "ST LOUIS DEP",
+            "description": "ST LOUIS DEP N/E",
             "frequency_mhz": "119.15"
+        },
+        {
+            "id": "509953",
+            "airport_ref": "3905",
+            "airport_ident": "KSTL",
+            "type": "DEP",
+            "description": "ST LOUIS DEP S/W",
+            "frequency_mhz": "128.1"
         },
         {
             "id": "66199",
             "airport_ref": "3905",
             "airport_ident": "KSTL",
             "type": "GND",
-            "description": "ST LOUIS GND",
-            "frequency_mhz": "22.712"
+            "description": "RWAY 11-29",
+            "frequency_mhz": "118.925"
         },
         {
-            "id": "66198",
+            "id": "509949",
             "airport_ref": "3905",
             "airport_ident": "KSTL",
             "type": "GND",
-            "description": "ST LOUIS GND",
-            "frequency_mhz": "118.925"
+            "description": "SAINT LOUIS GROUND OUTBOUND",
+            "frequency_mhz": "121.65"
+        },
+        {
+            "id": "509950",
+            "airport_ref": "3905",
+            "airport_ident": "KSTL",
+            "type": "GND",
+            "description": "SAINT LOUIS GROUND INBOUND",
+            "frequency_mhz": "121.9"
         },
         {
             "id": "66200",
@@ -185,16 +209,24 @@
             "airport_ref": "3905",
             "airport_ident": "KSTL",
             "type": "TWR",
-            "description": "ST LOUIS TWR",
-            "frequency_mhz": "28.46"
+            "description": "RWAY 12R-30L",
+            "frequency_mhz": "118.5"
         },
         {
             "id": "66202",
             "airport_ref": "3905",
             "airport_ident": "KSTL",
             "type": "TWR",
-            "description": "ST LOUIS TWR",
-            "frequency_mhz": "118.5"
+            "description": "RWAY 12L-30R",
+            "frequency_mhz": "120.05"
+        },
+        {
+            "id": "509951",
+            "airport_ref": "3905",
+            "airport_ident": "KSTL",
+            "type": "TWR",
+            "description": "RWY 06 AND 11-29",
+            "frequency_mhz": "132.475"
         },
         {
             "id": "66204",

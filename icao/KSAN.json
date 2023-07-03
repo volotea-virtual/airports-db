@@ -47,8 +47,16 @@
             "airport_ref": "3862",
             "airport_ident": "KSAN",
             "type": "A/D",
-            "description": "SOCAL APP/DEP",
+            "description": "SOCAL A/D WEST",
             "frequency_mhz": "119.6"
+        },
+        {
+            "id": "509928",
+            "airport_ref": "3862",
+            "airport_ident": "KSAN",
+            "type": "A/D",
+            "description": "SOCAL A/D EAST",
+            "frequency_mhz": "124.35"
         },
         {
             "id": "67560",
@@ -71,7 +79,7 @@
             "airport_ref": "3862",
             "airport_ident": "KSAN",
             "type": "GND",
-            "description": "GND",
+            "description": "LINDBERGH GROUND",
             "frequency_mhz": "123.9"
         },
         {

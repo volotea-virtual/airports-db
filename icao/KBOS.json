@@ -157,8 +157,24 @@
             "airport_ref": "3422",
             "airport_ident": "KBOS",
             "type": "APP",
-            "description": "BOSTON APP",
+            "description": "BOSTON APP NORTH",
             "frequency_mhz": "118.25"
+        },
+        {
+            "id": "509896",
+            "airport_ref": "3422",
+            "airport_ident": "KBOS",
+            "type": "APP",
+            "description": "BOSTON APP WEST",
+            "frequency_mhz": "120.6"
+        },
+        {
+            "id": "509897",
+            "airport_ref": "3422",
+            "airport_ident": "KBOS",
+            "type": "APP",
+            "description": "BOSTON APP SOUTH",
+            "frequency_mhz": "127.2"
         },
         {
             "id": "59647",
@@ -183,6 +199,14 @@
             "type": "DEP",
             "description": "BOSTON DEP",
             "frequency_mhz": "133"
+        },
+        {
+            "id": "509898",
+            "airport_ref": "3422",
+            "airport_ident": "KBOS",
+            "type": "GND",
+            "description": "BOSTON GROUND",
+            "frequency_mhz": "121.75"
         },
         {
             "id": "59650",
@@ -213,8 +237,16 @@
             "airport_ref": "3422",
             "airport_ident": "KBOS",
             "type": "TWR",
-            "description": "BOSTON TWR",
-            "frequency_mhz": "124.725"
+            "description": "BOSTON TWR WEST",
+            "frequency_mhz": "128.8"
+        },
+        {
+            "id": "509899",
+            "airport_ref": "3422",
+            "airport_ident": "KBOS",
+            "type": "TWR",
+            "description": "BOSTON TWR EAST",
+            "frequency_mhz": "132.225"
         },
         {
             "id": "59654",

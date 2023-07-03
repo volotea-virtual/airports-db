@@ -91,8 +91,16 @@
             "airport_ref": "3597",
             "airport_ident": "KHUF",
             "type": "A/D",
-            "description": "APP/DEP",
+            "description": "HULMAN A/D SECONDARY",
             "frequency_mhz": "119.8"
+        },
+        {
+            "id": "509911",
+            "airport_ref": "3597",
+            "airport_ident": "KHUF",
+            "type": "A/D",
+            "description": "HULMAN A/D",
+            "frequency_mhz": "125.45"
         },
         {
             "id": "63880",
@@ -109,6 +117,14 @@
             "type": "ATIS",
             "description": "ATIS",
             "frequency_mhz": "127.5"
+        },
+        {
+            "id": "509912",
+            "airport_ref": "3597",
+            "airport_ident": "KHUF",
+            "type": "CTR",
+            "description": "INDIANAPOLIS CENTER",
+            "frequency_mhz": "132.2"
         },
         {
             "id": "63882",
@@ -140,7 +156,7 @@
             "airport_ident": "KHUF",
             "type": "TWR",
             "description": "TWR",
-            "frequency_mhz": "118.3"
+            "frequency_mhz": "134.725"
         },
         {
             "id": "63886",

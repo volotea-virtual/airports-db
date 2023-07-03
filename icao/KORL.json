@@ -69,8 +69,40 @@
             "airport_ref": "20765",
             "airport_ident": "KORL",
             "type": "A/D",
-            "description": "ORLANDO APP/DEP",
+            "description": "ORLANDO APP/DEP SW",
             "frequency_mhz": "119.4"
+        },
+        {
+            "id": "509916",
+            "airport_ref": "20765",
+            "airport_ident": "KORL",
+            "type": "A/D",
+            "description": "ORLANDO APP/DEP 061-180° 4500' AND BELOW",
+            "frequency_mhz": "119.775"
+        },
+        {
+            "id": "509917",
+            "airport_ref": "20765",
+            "airport_ident": "KORL",
+            "type": "A/D",
+            "description": "ORLANDO APP/DEP 181-359° ABOVE 5500'",
+            "frequency_mhz": "120.15"
+        },
+        {
+            "id": "509918",
+            "airport_ref": "20765",
+            "airport_ident": "KORL",
+            "type": "A/D",
+            "description": "ORLANDO APP/DEP 000-180° ABOVE 5000'",
+            "frequency_mhz": "124.8"
+        },
+        {
+            "id": "509919",
+            "airport_ref": "20765",
+            "airport_ident": "KORL",
+            "type": "A/D",
+            "description": "ORLANDO APP/DEP 311-060° 5500' AND BELOW",
+            "frequency_mhz": "135.3"
         },
         {
             "id": "58693",

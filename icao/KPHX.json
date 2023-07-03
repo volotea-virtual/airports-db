@@ -91,8 +91,56 @@
             "airport_ref": "3772",
             "airport_ident": "KPHX",
             "type": "A/D",
-            "description": "APP/DEP",
+            "description": "319-057° 7500' AND ABOVE",
+            "frequency_mhz": "119.2"
+        },
+        {
+            "id": "509920",
+            "airport_ref": "3772",
+            "airport_ident": "KPHX",
+            "type": "A/D",
+            "description": "319-057° BELOW 7500'",
+            "frequency_mhz": "120.7"
+        },
+        {
+            "id": "509921",
+            "airport_ref": "3772",
+            "airport_ident": "KPHX",
+            "type": "A/D",
+            "description": "139-191° BELOW 8500'",
+            "frequency_mhz": "123.7"
+        },
+        {
+            "id": "509922",
+            "airport_ref": "3772",
+            "airport_ident": "KPHX",
+            "type": "A/D",
+            "description": "192-263° 7500-12500'",
             "frequency_mhz": "124.1"
+        },
+        {
+            "id": "509923",
+            "airport_ref": "3772",
+            "airport_ident": "KPHX",
+            "type": "A/D",
+            "description": "058-118° BELOW 10,500'",
+            "frequency_mhz": "124.9"
+        },
+        {
+            "id": "509924",
+            "airport_ref": "3772",
+            "airport_ident": "KPHX",
+            "type": "A/D",
+            "description": "119-138° ABOVE 14,500'",
+            "frequency_mhz": "126.8"
+        },
+        {
+            "id": "509925",
+            "airport_ref": "3772",
+            "airport_ident": "KPHX",
+            "type": "A/D",
+            "description": "340-079° ABOVE 5500' INITIAL CONTACT",
+            "frequency_mhz": "128.65"
         },
         {
             "id": "60159",
@@ -115,8 +163,16 @@
             "airport_ref": "3772",
             "airport_ident": "KPHX",
             "type": "GND",
-            "description": "GND",
+            "description": "NORTH",
             "frequency_mhz": "119.75"
+        },
+        {
+            "id": "509927",
+            "airport_ref": "3772",
+            "airport_ident": "KPHX",
+            "type": "GND",
+            "description": "SOUTH",
+            "frequency_mhz": "132.55"
         },
         {
             "id": "60162",
@@ -139,8 +195,16 @@
             "airport_ref": "3772",
             "airport_ident": "KPHX",
             "type": "TWR",
-            "description": "TWR",
+            "description": "RWAY 08-26",
             "frequency_mhz": "118.7"
+        },
+        {
+            "id": "509926",
+            "airport_ref": "3772",
+            "airport_ident": "KPHX",
+            "type": "TWR",
+            "description": "RWAY 07-25",
+            "frequency_mhz": "120.9"
         },
         {
             "id": "60165",

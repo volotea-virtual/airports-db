@@ -91,15 +91,31 @@
             "airport_ref": "3866",
             "airport_ident": "KSBA",
             "type": "A/D",
-            "description": "APP/DEP",
+            "description": "151-329° INITIAL CONTACT",
             "frequency_mhz": "120.55"
+        },
+        {
+            "id": "509929",
+            "airport_ref": "3866",
+            "airport_ident": "KSBA",
+            "type": "A/D",
+            "description": "A/D SANTA BARBARA",
+            "frequency_mhz": "124.15"
+        },
+        {
+            "id": "509930",
+            "airport_ref": "3866",
+            "airport_ident": "KSBA",
+            "type": "A/D",
+            "description": "330-150° INITAL CONTACT",
+            "frequency_mhz": "125.4"
         },
         {
             "id": "70811",
             "airport_ref": "3866",
             "airport_ident": "KSBA",
             "type": "A/D",
-            "description": "APP/DEP",
+            "description": "A/D SANTA BARBARA",
             "frequency_mhz": "127.725"
         },
         {
@@ -125,6 +141,14 @@
             "type": "CTAF",
             "description": "CTAF",
             "frequency_mhz": "119.7"
+        },
+        {
+            "id": "509931",
+            "airport_ref": "3866",
+            "airport_ident": "KSBA",
+            "type": "CTR",
+            "description": "LOS ANGELES CENTER",
+            "frequency_mhz": "119.05"
         },
         {
             "id": "70815",

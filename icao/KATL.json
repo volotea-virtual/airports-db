@@ -135,8 +135,16 @@
             "airport_ref": "3384",
             "airport_ident": "KATL",
             "type": "APP",
-            "description": "ATLANTA APP",
-            "frequency_mhz": "118.35"
+            "description": "ATLANTA APP (090°-269°)",
+            "frequency_mhz": "127.9"
+        },
+        {
+            "id": "509891",
+            "airport_ref": "3384",
+            "airport_ident": "KATL",
+            "type": "APP",
+            "description": "ATLANTA APPROACH",
+            "frequency_mhz": "128"
         },
         {
             "id": "66250",
@@ -155,12 +163,28 @@
             "frequency_mhz": "118.1"
         },
         {
+            "id": "509892",
+            "airport_ref": "3384",
+            "airport_ident": "KATL",
+            "type": "DEP",
+            "description": "ATLANTA DEP (RWAY 10-28)",
+            "frequency_mhz": "121.225"
+        },
+        {
             "id": "66252",
             "airport_ref": "3384",
             "airport_ident": "KATL",
             "type": "DEP",
-            "description": "ATLANTA DEP",
-            "frequency_mhz": "125"
+            "description": "ATLANTA DEP (RWAY 09-27)",
+            "frequency_mhz": "125.65"
+        },
+        {
+            "id": "509893",
+            "airport_ref": "3384",
+            "airport_ident": "KATL",
+            "type": "DEP",
+            "description": "ATLANTA DEP (RWY 08-26)",
+            "frequency_mhz": "133.475"
         },
         {
             "id": "66253",

@@ -97,6 +97,14 @@
             "frequency_mhz": "118"
         },
         {
+            "id": "509944",
+            "airport_ref": "3894",
+            "airport_ident": "KSNA",
+            "type": "CLD",
+            "description": "CLNC DEL SECONDARY",
+            "frequency_mhz": "121.85"
+        },
+        {
             "id": "71212",
             "airport_ref": "3894",
             "airport_ident": "KSNA",
@@ -113,12 +121,28 @@
             "frequency_mhz": "128.1"
         },
         {
+            "id": "509948",
+            "airport_ref": "3894",
+            "airport_ident": "KSNA",
+            "type": "DEP",
+            "description": "SOCAL DEP",
+            "frequency_mhz": "132.7"
+        },
+        {
             "id": "71214",
             "airport_ref": "3894",
             "airport_ident": "KSNA",
             "type": "GND",
-            "description": "GND",
+            "description": "JOHN WAYNE GROUND",
             "frequency_mhz": "120.8"
+        },
+        {
+            "id": "509945",
+            "airport_ref": "3894",
+            "airport_ident": "KSNA",
+            "type": "GND",
+            "description": "JOHN WAYNE GROUND SECONDARY",
+            "frequency_mhz": "132.25"
         },
         {
             "id": "71215",
@@ -133,8 +157,24 @@
             "airport_ref": "3894",
             "airport_ident": "KSNA",
             "type": "TWR",
-            "description": "TWR",
+            "description": "RWY 02-20",
             "frequency_mhz": "119.9"
+        },
+        {
+            "id": "509946",
+            "airport_ref": "3894",
+            "airport_ident": "KSNA",
+            "type": "TWR",
+            "description": "02L-20R",
+            "frequency_mhz": "126.8"
+        },
+        {
+            "id": "509947",
+            "airport_ref": "3894",
+            "airport_ident": "KSNA",
+            "type": "TWR",
+            "description": "JOHN WAYNE TOWER SECONDARY",
+            "frequency_mhz": "128.35"
         },
         {
             "id": "71217",

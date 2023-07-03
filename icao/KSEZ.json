@@ -47,8 +47,8 @@
             "airport_ref": "21055",
             "airport_ident": "KSEZ",
             "type": "A/D",
-            "description": "ALBUQUERQUE CNTR",
-            "frequency_mhz": "124.5"
+            "description": "A/D PHOENIX",
+            "frequency_mhz": "126.375"
         },
         {
             "id": "61712",
@@ -57,6 +57,14 @@
             "type": "AWOS",
             "description": "AWOS 2",
             "frequency_mhz": "118.525"
+        },
+        {
+            "id": "509942",
+            "airport_ref": "21055",
+            "airport_ident": "KSEZ",
+            "type": "CTR",
+            "description": "CTR ALBUQUERQUE",
+            "frequency_mhz": "124.325"
         },
         {
             "id": "61713",

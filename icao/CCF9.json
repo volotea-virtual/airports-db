@@ -3,8 +3,8 @@
     "ident": "CCF9",
     "type": "small_airport",
     "name": "Scottsfield Airpark",
-    "latitude_deg": "45.96030044555664",
-    "longitude_deg": "-67.09529876708984",
+    "latitude_deg": "45.9603",
+    "longitude_deg": "-67.095299",
     "elevation_ft": "600",
     "continent": "NA",
     "iso_country": "CA",
@@ -16,7 +16,7 @@
     "local_code": "CCF9",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Scottsfield_Airpark",
-    "keywords": "CF9",
+    "keywords": "",
     "runways": [
         {
             "id": "248497",

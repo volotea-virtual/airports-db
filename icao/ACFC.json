@@ -17,6 +17,16 @@
     "home_link": "https://angelesflying.com/",
     "wikipedia_link": "",
     "keywords": "acfc, magalang, pampanga, grassstrip",
+    "freqs": [
+        {
+            "id": "509884",
+            "airport_ref": "507217",
+            "airport_ident": "ACFC",
+            "type": "Private",
+            "description": "Woodlands Traffic",
+            "frequency_mhz": "131.35"
+        }
+    ],
     "country": {
         "id": "302656",
         "code": "PH",

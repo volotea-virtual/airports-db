@@ -91,8 +91,24 @@
             "airport_ref": "3610",
             "airport_ident": "KIND",
             "type": "APP",
-            "description": "APP",
-            "frequency_mhz": "119.3"
+            "description": "APP INITIAL CONTACT",
+            "frequency_mhz": "128.175"
+        },
+        {
+            "id": "509886",
+            "airport_ref": "3610",
+            "airport_ident": "KIND",
+            "type": "APP (E)",
+            "description": "APP EAST OF ACTIVE RWY",
+            "frequency_mhz": "127.15"
+        },
+        {
+            "id": "509887",
+            "airport_ref": "3610",
+            "airport_ident": "KIND",
+            "type": "APP (W)",
+            "description": "APP WEST OF ACTIVE RUNWAY",
+            "frequency_mhz": "124.65"
         },
         {
             "id": "63579",
@@ -111,20 +127,20 @@
             "frequency_mhz": "128.75"
         },
         {
-            "id": "63581",
-            "airport_ref": "3610",
-            "airport_ident": "KIND",
-            "type": "DEP",
-            "description": "DEP (West)",
-            "frequency_mhz": "119.05"
-        },
-        {
             "id": "509581",
             "airport_ref": "3610",
             "airport_ident": "KIND",
-            "type": "DEP",
-            "description": "Dep (East)",
-            "frequency_mhz": "127.15"
+            "type": "DEP (E)",
+            "description": "DEP EAST",
+            "frequency_mhz": "124.95"
+        },
+        {
+            "id": "63581",
+            "airport_ref": "3610",
+            "airport_ident": "KIND",
+            "type": "DEP (W)",
+            "description": "DEP WEST",
+            "frequency_mhz": "119.05"
         },
         {
             "id": "63582",

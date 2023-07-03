@@ -47,8 +47,16 @@
             "airport_ref": "21240",
             "airport_ident": "KTYQ",
             "type": "A/D",
-            "description": "APP/DEP",
+            "description": "ACTIVE RWAY 05-23 AT IND",
             "frequency_mhz": "124.65"
+        },
+        {
+            "id": "509955",
+            "airport_ref": "21240",
+            "airport_ident": "KTYQ",
+            "type": "A/D",
+            "description": "ACTIVE RWAY 14-32 AT IND",
+            "frequency_mhz": "127.15"
         },
         {
             "id": "68376",
@@ -57,6 +65,14 @@
             "type": "AWOS",
             "description": "AWOS 3",
             "frequency_mhz": "120.725"
+        },
+        {
+            "id": "509954",
+            "airport_ref": "21240",
+            "airport_ident": "KTYQ",
+            "type": "C/D",
+            "description": "INDY CLEARANCE DELIVERY",
+            "frequency_mhz": "118.175"
         },
         {
             "id": "68377",

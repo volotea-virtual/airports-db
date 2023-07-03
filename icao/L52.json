@@ -43,10 +43,18 @@
     ],
     "freqs": [
         {
+            "id": "509956",
+            "airport_ref": "21453",
+            "airport_ident": "L52",
+            "type": "AWOS",
+            "description": "AWOS-3",
+            "frequency_mhz": "118.375"
+        },
+        {
             "id": "317806",
             "airport_ref": "21453",
             "airport_ident": "L52",
-            "type": "CRAF",
+            "type": "CTAF",
             "description": "Oceano Traffic",
             "frequency_mhz": "122.7"
         }

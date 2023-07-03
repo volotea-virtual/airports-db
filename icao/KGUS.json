@@ -46,9 +46,25 @@
             "id": "71280",
             "airport_ref": "3573",
             "airport_ident": "KGUS",
-            "type": "APP",
-            "description": "APP",
+            "type": "A/D",
+            "description": "A/D INITIAL CONTACT",
             "frequency_mhz": "121.05"
+        },
+        {
+            "id": "509906",
+            "airport_ref": "3573",
+            "airport_ident": "KGUS",
+            "type": "A/D",
+            "description": "GRISSOM A/D WEST",
+            "frequency_mhz": "123.85"
+        },
+        {
+            "id": "509907",
+            "airport_ref": "3573",
+            "airport_ident": "KGUS",
+            "type": "A/D",
+            "description": "GRISSOM A/D SECONDARY",
+            "frequency_mhz": "135.35"
         },
         {
             "id": "71281",
@@ -64,14 +80,14 @@
             "airport_ident": "KGUS",
             "type": "CLD",
             "description": "CLNC DEL",
-            "frequency_mhz": "120"
+            "frequency_mhz": "128.425"
         },
         {
-            "id": "71283",
+            "id": "509908",
             "airport_ref": "3573",
             "airport_ident": "KGUS",
-            "type": "DEP",
-            "description": "DEP",
+            "type": "CTR",
+            "description": "CHICAGO CTR",
             "frequency_mhz": "121.05"
         },
         {

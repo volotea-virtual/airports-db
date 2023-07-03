@@ -90,9 +90,17 @@
             "id": "66042",
             "airport_ref": "3518",
             "airport_ident": "KEVV",
-            "type": "A/D",
-            "description": "APP/DEP",
-            "frequency_mhz": "126.4"
+            "type": "APP",
+            "description": "041-219°",
+            "frequency_mhz": "124.025"
+        },
+        {
+            "id": "509902",
+            "airport_ref": "3518",
+            "airport_ident": "KEVV",
+            "type": "APP",
+            "description": "220-040°",
+            "frequency_mhz": "127.35"
         },
         {
             "id": "66043",
@@ -117,6 +125,14 @@
             "type": "CTAF",
             "description": "CTAF",
             "frequency_mhz": "118.7"
+        },
+        {
+            "id": "509903",
+            "airport_ref": "3518",
+            "airport_ident": "KEVV",
+            "type": "CTR",
+            "description": "INDIANAPOLIS CENTER",
+            "frequency_mhz": "128.3"
         },
         {
             "id": "66046",

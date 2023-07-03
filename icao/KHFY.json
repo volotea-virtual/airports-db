@@ -59,6 +59,14 @@
             "frequency_mhz": "118.525"
         },
         {
+            "id": "509913",
+            "airport_ref": "20047",
+            "airport_ident": "KHFY",
+            "type": "CTR",
+            "description": "INDIANAPOLIS CENTER",
+            "frequency_mhz": "132.2"
+        },
+        {
             "id": "64447",
             "airport_ref": "20047",
             "airport_ident": "KHFY",

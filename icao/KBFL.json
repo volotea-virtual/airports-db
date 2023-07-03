@@ -69,8 +69,16 @@
             "airport_ref": "3402",
             "airport_ident": "KBFL",
             "type": "APP",
-            "description": "BAKERSFIELD APP",
+            "description": "BAKERSFIELD APP SOUTH INITIAL CONTACT",
             "frequency_mhz": "118.8"
+        },
+        {
+            "id": "509894",
+            "airport_ref": "3402",
+            "airport_ident": "KBFL",
+            "type": "APP",
+            "description": "BAKERSFIELD APP NORTH INITIAL CONTACT",
+            "frequency_mhz": "118.9"
         },
         {
             "id": "62827",
@@ -87,6 +95,14 @@
             "type": "CTAF",
             "description": "CTAF",
             "frequency_mhz": "118.1"
+        },
+        {
+            "id": "509895",
+            "airport_ref": "3402",
+            "airport_ident": "KBFL",
+            "type": "CTR",
+            "description": "LOS ANGELES CENTER",
+            "frequency_mhz": "127.1"
         },
         {
             "id": "62829",

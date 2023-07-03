@@ -47,8 +47,48 @@
             "airport_ref": "3867",
             "airport_ident": "KSBD",
             "type": "A/D",
-            "description": "SOCAL APP/DEP",
-            "frequency_mhz": "119.65"
+            "description": "SOCAL A/D N/NE",
+            "frequency_mhz": "127"
+        },
+        {
+            "id": "509936",
+            "airport_ref": "3867",
+            "airport_ident": "KSBD",
+            "type": "A/D",
+            "description": "SOCAL A/D NE/S",
+            "frequency_mhz": "134"
+        },
+        {
+            "id": "509937",
+            "airport_ref": "3867",
+            "airport_ident": "KSBD",
+            "type": "A/D",
+            "description": "SOCAL A/D S/SW",
+            "frequency_mhz": "135.4"
+        },
+        {
+            "id": "509932",
+            "airport_ref": "3867",
+            "airport_ident": "KSBD",
+            "type": "ATIS",
+            "description": "ATIS",
+            "frequency_mhz": "124.175"
+        },
+        {
+            "id": "509935",
+            "airport_ref": "3867",
+            "airport_ident": "KSBD",
+            "type": "CTAF",
+            "description": "CTAF",
+            "frequency_mhz": "119.45"
+        },
+        {
+            "id": "509933",
+            "airport_ref": "3867",
+            "airport_ident": "KSBD",
+            "type": "GND",
+            "description": "SAN BERNARDINO GROUND",
+            "frequency_mhz": "121.8"
         },
         {
             "id": "63895",
@@ -57,6 +97,14 @@
             "type": "MISC",
             "description": "TANKER BASE",
             "frequency_mhz": "123.975"
+        },
+        {
+            "id": "509934",
+            "airport_ref": "3867",
+            "airport_ident": "KSBD",
+            "type": "TWR",
+            "description": "SAN BERNARDINO TOWER",
+            "frequency_mhz": "119.45"
         },
         {
             "id": "63896",

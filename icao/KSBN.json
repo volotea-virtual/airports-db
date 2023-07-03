@@ -91,8 +91,24 @@
             "airport_ref": "3868",
             "airport_ident": "KSBN",
             "type": "A/D",
-            "description": "APP/DEP",
+            "description": "270-99° INITIAL CONTACT",
             "frequency_mhz": "118.55"
+        },
+        {
+            "id": "509939",
+            "airport_ref": "3868",
+            "airport_ident": "KSBN",
+            "type": "A/D",
+            "description": "100-269° SECONDARY",
+            "frequency_mhz": "124.1"
+        },
+        {
+            "id": "509938",
+            "airport_ref": "3868",
+            "airport_ident": "KSBN",
+            "type": "A/D",
+            "description": "100-269°",
+            "frequency_mhz": "132.05"
         },
         {
             "id": "65408",
@@ -100,7 +116,7 @@
             "airport_ident": "KSBN",
             "type": "ATIS",
             "description": "ATIS",
-            "frequency_mhz": "118.15"
+            "frequency_mhz": "120.675"
         },
         {
             "id": "65409",
@@ -116,7 +132,15 @@
             "airport_ident": "KSBN",
             "type": "CTAF",
             "description": "CTAF",
-            "frequency_mhz": "118.9"
+            "frequency_mhz": "135.675"
+        },
+        {
+            "id": "509940",
+            "airport_ref": "3868",
+            "airport_ident": "KSBN",
+            "type": "CTR",
+            "description": "CHICAGO CTR",
+            "frequency_mhz": "118.55"
         },
         {
             "id": "65411",
@@ -140,7 +164,7 @@
             "airport_ident": "KSBN",
             "type": "TWR",
             "description": "TWR",
-            "frequency_mhz": "118.9"
+            "frequency_mhz": "135.675"
         },
         {
             "id": "65414",

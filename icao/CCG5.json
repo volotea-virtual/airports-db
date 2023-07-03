@@ -2,7 +2,7 @@
     "id": "314915",
     "ident": "CCG5",
     "type": "small_airport",
-    "name": "Cayuga Airport",
+    "name": "Cayuga Airport (Bruce Field)",
     "latitude_deg": "42.9512",
     "longitude_deg": "-79.825",
     "elevation_ft": "630",
@@ -15,7 +15,7 @@
     "iata_code": "",
     "local_code": "CCG5",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Cayuga_(Bruce_Field)_Aerodrome",
     "keywords": "",
     "country": {
         "id": "302730",
