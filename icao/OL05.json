@@ -3,8 +3,8 @@
     "ident": "OL05",
     "type": "small_airport",
     "name": "Skydive Oregon Airport",
-    "latitude_deg": "45.14619827270508",
-    "longitude_deg": "-122.61799621582031",
+    "latitude_deg": "45.145363",
+    "longitude_deg": "-122.618544",
     "elevation_ft": "360",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "OL05",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "01S",
     "runways": [
         {
             "id": "257535",

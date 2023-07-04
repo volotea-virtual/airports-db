@@ -64,7 +64,7 @@
             "airport_ident": "KTVL",
             "type": "CTAF",
             "description": "CTAF",
-            "frequency_mhz": "122.95"
+            "frequency_mhz": "122.85"
         },
         {
             "id": "66383",
@@ -80,7 +80,7 @@
             "airport_ident": "KTVL",
             "type": "UNIC",
             "description": "UNICOM",
-            "frequency_mhz": "122.95"
+            "frequency_mhz": "122.85"
         }
     ],
     "country": {

@@ -81,6 +81,14 @@
             "frequency_mhz": "119.825"
         },
         {
+            "id": "509968",
+            "airport_ref": "20860",
+            "airport_ident": "KPPO",
+            "type": "CTR",
+            "description": "CHICAGO CTR",
+            "frequency_mhz": "135.9"
+        },
+        {
             "id": "64589",
             "airport_ref": "20860",
             "airport_ident": "KPPO",
