@@ -1,0 +1,38 @@
+{
+    "id": "509982",
+    "ident": "PT-0149",
+    "type": "heliport",
+    "name": "Fátima Fire Brigade Heliport",
+    "latitude_deg": "39.62688",
+    "longitude_deg": "-8.68449",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "PT",
+    "iso_region": "PT-10",
+    "municipality": "Fátima",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302711",
+        "code": "PT",
+        "name": "Portugal",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Portugal",
+        "keywords": "Aeroportos de Portugal"
+    },
+    "region": {
+        "id": "305176",
+        "code": "PT-10",
+        "local_code": "10",
+        "name": "Leiria District",
+        "continent": "EU",
+        "iso_country": "PT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Leiria_District",
+        "keywords": "Airports in Leiria District"
+    }
+}
