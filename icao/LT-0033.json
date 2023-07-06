@@ -1,0 +1,62 @@
+{
+    "id": "509995",
+    "ident": "LT-0033",
+    "type": "small_airport",
+    "name": "Vainiai",
+    "latitude_deg": "54.596634",
+    "longitude_deg": "24.861428",
+    "elevation_ft": "512",
+    "continent": "EU",
+    "iso_country": "LT",
+    "iso_region": "LT-VL",
+    "municipality": "Trakai",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "private",
+    "runways": [
+        {
+            "id": "509996",
+            "airport_ref": "509995",
+            "airport_ident": "LT-0033",
+            "length_ft": "1312",
+            "width_ft": "98",
+            "surface": "grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "26",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302700",
+        "code": "LT",
+        "name": "Lithuania",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lithuania",
+        "keywords": "Lithuanian airports"
+    },
+    "region": {
+        "id": "304504",
+        "code": "LT-VL",
+        "local_code": "VL",
+        "name": "Vilnius County",
+        "continent": "EU",
+        "iso_country": "LT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Vilnius_County",
+        "keywords": "Vilniaus"
+    }
+}

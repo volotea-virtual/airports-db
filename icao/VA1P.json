@@ -3,8 +3,8 @@
     "ident": "VA1P",
     "type": "small_airport",
     "name": "Diu Airport",
-    "latitude_deg": "20.7131",
-    "longitude_deg": "70.921097",
+    "latitude_deg": "20.714185",
+    "longitude_deg": "70.921855",
     "elevation_ft": "31",
     "continent": "AS",
     "iso_country": "IN",
@@ -16,7 +16,7 @@
     "local_code": "VADU",
     "home_link": "http://aai.aero/allAirports/diu_airpo_gi.jsp",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Diu_Airport",
-    "keywords": "",
+    "keywords": "VA1P",
     "runways": [
         {
             "id": "236811",
