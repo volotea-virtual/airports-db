@@ -1,7 +1,7 @@
 {
     "id": "344180",
     "ident": "US-3954",
-    "type": "heliport",
+    "type": "closed",
     "name": "Palomar Medical Center Downtown Heliport",
     "latitude_deg": "33.124541",
     "longitude_deg": "-117.075609",
@@ -13,10 +13,10 @@
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
-    "local_code": "CL48",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "CL48",
     "country": {
         "id": "302755",
         "code": "US",

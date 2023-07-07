@@ -6,7 +6,7 @@
     "latitude_deg": "10.175603",
     "longitude_deg": "-70.065216",
     "elevation_ft": "1437",
-    "continent": "NA",
+    "continent": "SA",
     "iso_country": "VE",
     "iso_region": "VE-K",
     "municipality": "Carora",
@@ -15,8 +15,8 @@
     "iata_code": "",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
-    "keywords": "SVCO, SVCO, VCR",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Carora_Airport",
+    "keywords": "SVCO, VCR",
     "runways": [
         {
             "id": "246085",
