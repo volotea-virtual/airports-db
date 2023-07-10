@@ -47,8 +47,8 @@
             "airport_ref": "4443",
             "airport_ident": "LPCO",
             "type": "AFIS",
-            "description": "RDO",
-            "frequency_mhz": "122.9"
+            "description": "COIMBRA INFORMAÇÃO",
+            "frequency_mhz": "122.905"
         }
     ],
     "country": {

@@ -5,7 +5,7 @@
     "name": "Chenghu General Airport",
     "latitude_deg": "31.215334",
     "longitude_deg": "120.789328",
-    "elevation_ft": "",
+    "elevation_ft": "33",
     "continent": "AS",
     "iso_country": "CN",
     "iso_region": "CN-32",
@@ -39,6 +39,16 @@
             "he_elevation_ft": "",
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "510084",
+            "airport_ref": "353993",
+            "airport_ident": "CN-0316",
+            "type": "TWR",
+            "description": "Chenghu Tower",
+            "frequency_mhz": "129.05"
         }
     ],
     "country": {
