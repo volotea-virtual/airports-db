@@ -1,0 +1,38 @@
+{
+    "id": "510127",
+    "ident": "NO-0104",
+    "type": "seaplane_base",
+    "name": "Vuottašjávri sjøflyplass, Kautokeino",
+    "latitude_deg": "69.348978",
+    "longitude_deg": "24.019642",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "NO",
+    "iso_region": "NO-54",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302709",
+        "code": "NO",
+        "name": "Norway",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Norway",
+        "keywords": "Flyplasser i Norge"
+    },
+    "region": {
+        "id": "349858",
+        "code": "NO-54",
+        "local_code": "54",
+        "name": "Troms og Finnmark",
+        "continent": "EU",
+        "iso_country": "NO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Troms_og_Finnmark",
+        "keywords": "Airports in Troms og Finnmark"
+    }
+}
