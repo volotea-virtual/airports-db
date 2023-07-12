@@ -1,0 +1,38 @@
+{
+    "id": "510128",
+    "ident": "NO-0105",
+    "type": "seaplane_base",
+    "name": "Fagernes flyplass, Strandefjorden",
+    "latitude_deg": "60.98326",
+    "longitude_deg": "9.23538",
+    "elevation_ft": "1164",
+    "continent": "EU",
+    "iso_country": "NO",
+    "iso_region": "NO-34",
+    "municipality": "Fagernes",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://no.wikipedia.org/wiki/Fagernes_flyplass,_Strandefjorden",
+    "keywords": "",
+    "country": {
+        "id": "302709",
+        "code": "NO",
+        "name": "Norway",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Norway",
+        "keywords": "Flyplasser i Norge"
+    },
+    "region": {
+        "id": "349852",
+        "code": "NO-34",
+        "local_code": "34",
+        "name": "Innlandet",
+        "continent": "EU",
+        "iso_country": "NO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Innlandet",
+        "keywords": "Airports in Innlandet"
+    }
+}

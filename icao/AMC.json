@@ -13,8 +13,8 @@
     "scheduled_service": "yes",
     "gps_code": "MMPE",
     "iata_code": "PPE",
-    "local_code": "83550",
-    "home_link": "",
+    "local_code": "AMC",
+    "home_link": "https://www.aeropuertomardecortes.com/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Mar_de_Cort%C3%A9s_International_Airport",
     "keywords": "",
     "runways": [

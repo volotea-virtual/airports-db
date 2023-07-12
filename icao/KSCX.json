@@ -3,8 +3,8 @@
     "ident": "KSCX",
     "type": "small_airport",
     "name": "Scott Municipal Airport",
-    "latitude_deg": "36.45560073852539",
-    "longitude_deg": "-84.58570098876953",
+    "latitude_deg": "36.455601",
+    "longitude_deg": "-84.585701",
     "elevation_ft": "1545",
     "continent": "NA",
     "iso_country": "US",
@@ -14,8 +14,8 @@
     "gps_code": "KSCX",
     "iata_code": "",
     "local_code": "SCX",
-    "home_link": "",
-    "wikipedia_link": "",
+    "home_link": "https://scottcounty.com/government/county-facilities/scott-county-airport/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Scott_Municipal_Airport",
     "keywords": "",
     "runways": [
         {
