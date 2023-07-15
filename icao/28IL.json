@@ -1,7 +1,7 @@
 {
     "id": "9199",
     "ident": "28IL",
-    "type": "small_airport",
+    "type": "closed",
     "name": "West Grove Airport",
     "latitude_deg": "42.097198",
     "longitude_deg": "-89.419296",
@@ -11,12 +11,12 @@
     "iso_region": "US-IL",
     "municipality": "Leaf River",
     "scheduled_service": "no",
-    "gps_code": "28IL",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "28IL",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Nick Lung Flight Park",
+    "keywords": "28IL, Nick Lung Flight Park",
     "runways": [
         {
             "id": "255678",

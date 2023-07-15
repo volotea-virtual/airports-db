@@ -2,7 +2,7 @@
     "id": "334339",
     "ident": "08KT",
     "type": "heliport",
-    "name": "Methodist Health Heliport",
+    "name": "Deaconess Union County Hospital Heliport",
     "latitude_deg": "37.628414",
     "longitude_deg": "-87.946994",
     "elevation_ft": "435",
@@ -16,7 +16,7 @@
     "local_code": "08KT",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Methodist Health",
     "runways": [
         {
             "id": "506092",

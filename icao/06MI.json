@@ -2,9 +2,9 @@
     "id": "6885",
     "ident": "06MI",
     "type": "heliport",
-    "name": "W A Foote Memorial Hospital Heliport",
-    "latitude_deg": "42.2510986328125",
-    "longitude_deg": "-84.39140319824219",
+    "name": "Henry Ford Jackson Hospital Heliport",
+    "latitude_deg": "42.251025",
+    "longitude_deg": "-84.391319",
     "elevation_ft": "978",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "06MI",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "W A Foote Memorial Hospital",
     "runways": [
         {
             "id": "265117",

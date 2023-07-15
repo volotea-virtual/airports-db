@@ -2,7 +2,7 @@
     "id": "346985",
     "ident": "US-4981",
     "type": "small_airport",
-    "name": "Bryan Field",
+    "name": "Eifling Field",
     "latitude_deg": "34.911185",
     "longitude_deg": "-91.837072",
     "elevation_ft": "253",
@@ -16,7 +16,7 @@
     "local_code": "39AR",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Bryan Field",
     "country": {
         "id": "302755",
         "code": "US",
