@@ -3,8 +3,8 @@
     "ident": "KGYI",
     "type": "small_airport",
     "name": "North Texas Regional Airport/Perrin Field",
-    "latitude_deg": "33.714099884",
-    "longitude_deg": "-96.6736984253",
+    "latitude_deg": "33.7141",
+    "longitude_deg": "-96.673698",
     "elevation_ft": "749",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "GYI",
     "home_link": "http://www.northtexasregionalairport.com/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/North_Texas_Regional_Airport",
-    "keywords": "Perrin AFB",
+    "keywords": "Perrin AFB, Grayson County",
     "runways": [
         {
             "id": "243916",
