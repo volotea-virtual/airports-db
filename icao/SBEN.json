@@ -1,0 +1,38 @@
+{
+    "id": "510250",
+    "ident": "SBEN",
+    "type": "heliport",
+    "name": "Plataforma Fixa Central de Enchova PCE-1 Helipad",
+    "latitude_deg": "-22.709226",
+    "longitude_deg": "-40.693268",
+    "elevation_ft": "73",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-RJ",
+    "municipality": "Macaé",
+    "scheduled_service": "no",
+    "gps_code": "SBEN",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303217",
+        "code": "BR-RJ",
+        "local_code": "RJ",
+        "name": "Rio de Janeiro",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Rio_de_Janeiro_(state)",
+        "keywords": "Airports in Rio de Janeiro"
+    }
+}

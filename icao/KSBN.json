@@ -91,7 +91,7 @@
             "airport_ref": "3868",
             "airport_ident": "KSBN",
             "type": "A/D",
-            "description": "270-99° INITIAL CONTACT",
+            "description": "SOUTH BEND APP/DEP : 270-99° INITIAL CONTACT",
             "frequency_mhz": "118.55"
         },
         {
@@ -99,7 +99,7 @@
             "airport_ref": "3868",
             "airport_ident": "KSBN",
             "type": "A/D",
-            "description": "100-269° SECONDARY",
+            "description": "SOUTH BEND APP/DEP : 100-269° SECONDARY",
             "frequency_mhz": "124.1"
         },
         {
@@ -107,7 +107,7 @@
             "airport_ref": "3868",
             "airport_ident": "KSBN",
             "type": "A/D",
-            "description": "100-269°",
+            "description": "SOUTH BEND APP/DEP : 100-269°",
             "frequency_mhz": "132.05"
         },
         {
