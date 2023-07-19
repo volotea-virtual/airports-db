@@ -1,7 +1,7 @@
 {
     "id": "21729",
     "ident": "LS99",
-    "type": "heliport",
+    "type": "closed",
     "name": "PHI Fourchon Base Heliport",
     "latitude_deg": "29.116306",
     "longitude_deg": "-90.205178",
@@ -11,12 +11,12 @@
     "iso_region": "US-LA",
     "municipality": "Golden Meadow",
     "scheduled_service": "no",
-    "gps_code": "LS99",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "LS99",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "LS99",
     "runways": [
         {
             "id": "267941",
@@ -25,7 +25,7 @@
             "length_ft": "20",
             "width_ft": "20",
             "surface": "GRASS / SOD",
-            "lighted": "0",
+            "lighted": "1",
             "closed": "0",
             "le_ident": "H1",
             "le_latitude_deg": "",
