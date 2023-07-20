@@ -2,7 +2,7 @@
     "id": "14118",
     "ident": "7GA2",
     "type": "small_airport",
-    "name": "McClellan Airport",
+    "name": "Alyssas Animal Sanctuary Air Park",
     "latitude_deg": "30.777552",
     "longitude_deg": "-83.205729",
     "elevation_ft": "229",
@@ -16,7 +16,7 @@
     "local_code": "7GA2",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "McClellan Airport",
     "runways": [
         {
             "id": "249762",

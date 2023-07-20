@@ -2,7 +2,7 @@
     "id": "45771",
     "ident": "PN82",
     "type": "heliport",
-    "name": "West Coplay Heliport",
+    "name": "DVS Heliport",
     "latitude_deg": "40.674283",
     "longitude_deg": "-75.5051",
     "elevation_ft": "375",
@@ -16,7 +16,7 @@
     "local_code": "PN82",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "West Coplay",
     "runways": [
         {
             "id": "264627",
