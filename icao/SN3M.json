@@ -1,0 +1,62 @@
+{
+    "id": "510307",
+    "ident": "SN3M",
+    "type": "small_airport",
+    "name": "Fazenda Pontal Airport",
+    "latitude_deg": "-13.617991",
+    "longitude_deg": "-50.153742",
+    "elevation_ft": "850",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-GO",
+    "municipality": "Bonópolis",
+    "scheduled_service": "no",
+    "gps_code": "SN3M",
+    "iata_code": "",
+    "local_code": "GO0346",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "510308",
+            "airport_ref": "510307",
+            "airport_ident": "SN3M",
+            "length_ft": "3806",
+            "width_ft": "75",
+            "surface": "Earth",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "12",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "30",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303207",
+        "code": "BR-GO",
+        "local_code": "GO",
+        "name": "Goiás",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Goiás",
+        "keywords": "Airports in Goiás"
+    }
+}
