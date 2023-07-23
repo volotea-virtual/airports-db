@@ -1,0 +1,38 @@
+{
+    "id": "510349",
+    "ident": "US-7848",
+    "type": "small_airport",
+    "name": "Pritchett Field",
+    "latitude_deg": "37.806139",
+    "longitude_deg": "-91.814182",
+    "elevation_ft": "1101",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-MO",
+    "municipality": "Rolla",
+    "scheduled_service": "no",
+    "gps_code": "19MO",
+    "iata_code": "",
+    "local_code": "19MO",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306100",
+        "code": "US-MO",
+        "local_code": "MO",
+        "name": "Missouri",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Missouri",
+        "keywords": "Airports in Missouri"
+    }
+}
