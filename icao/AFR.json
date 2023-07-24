@@ -3,8 +3,8 @@
     "ident": "AFR",
     "type": "small_airport",
     "name": "Afore Airstrip",
-    "latitude_deg": "-9.142222222220001",
-    "longitude_deg": "148.390833333",
+    "latitude_deg": "-9.13867",
+    "longitude_deg": "148.390701",
     "elevation_ft": "2500",
     "continent": "OC",
     "iso_country": "PG",
@@ -15,7 +15,7 @@
     "iata_code": "AFR",
     "local_code": "AFE",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Afore_Airstrip",
     "keywords": "",
     "runways": [
         {

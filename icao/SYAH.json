@@ -3,8 +3,8 @@
     "ident": "SYAH",
     "type": "small_airport",
     "name": "Aishalton Airport",
-    "latitude_deg": "2.473206",
-    "longitude_deg": "-59.321596",
+    "latitude_deg": "2.47403",
+    "longitude_deg": "-59.320786",
     "elevation_ft": "587",
     "continent": "SA",
     "iso_country": "GY",
@@ -15,7 +15,7 @@
     "iata_code": "AHL",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Aishalton_Airport",
     "keywords": "",
     "runways": [
         {

@@ -3,8 +3,8 @@
     "ident": "FAAG",
     "type": "medium_airport",
     "name": "Aggeneys Airport",
-    "latitude_deg": "-29.28179931640625",
-    "longitude_deg": "18.813899993896484",
+    "latitude_deg": "-29.281799",
+    "longitude_deg": "18.8139",
     "elevation_ft": "2648",
     "continent": "AF",
     "iso_country": "ZA",
@@ -15,7 +15,7 @@
     "iata_code": "AGZ",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Aggeneys_Airport",
     "keywords": "",
     "runways": [
         {
