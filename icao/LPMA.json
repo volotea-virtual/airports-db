@@ -1,7 +1,7 @@
 {
     "id": "4452",
     "ident": "LPMA",
-    "type": "medium_airport",
+    "type": "large_airport",
     "name": "Madeira International Airport Cristiano Ronaldo",
     "latitude_deg": "32.697899",
     "longitude_deg": "-16.7745",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "http://www.ana.pt/en-US/Aeroportos/Madeira/Funchal/Pages/default.aspx",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Madeira_Airport",
-    "keywords": "LPFU, Madeira, Funchal",
+    "keywords": "Madeira, Funchal",
     "runways": [
         {
             "id": "238328",

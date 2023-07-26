@@ -1,0 +1,38 @@
+{
+    "id": "510428",
+    "ident": "US-7858",
+    "type": "closed",
+    "name": "Slocum Airport",
+    "latitude_deg": "41.528889",
+    "longitude_deg": "-71.508611",
+    "elevation_ft": "141",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-RI",
+    "municipality": "Slocum",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306115",
+        "code": "US-RI",
+        "local_code": "RI",
+        "name": "Rhode Island",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Rhode_Island",
+        "keywords": "Airports in Rhode Island"
+    }
+}
