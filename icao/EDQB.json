@@ -2,9 +2,9 @@
     "id": "28517",
     "ident": "EDQB",
     "type": "small_airport",
-    "name": "Bad Windsheim Airport",
-    "latitude_deg": "49.5099983215332",
-    "longitude_deg": "10.366389274597168",
+    "name": "Bad Windsheim Airfield",
+    "latitude_deg": "49.509998",
+    "longitude_deg": "10.366389",
     "elevation_ft": "1220",
     "continent": "EU",
     "iso_country": "DE",
@@ -15,8 +15,18 @@
     "iata_code": "",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://de.wikipedia.org/wiki/Flugplatz_Bad_Windsheim",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "510474",
+            "airport_ref": "28517",
+            "airport_ident": "EDQB",
+            "type": "INFO",
+            "description": "",
+            "frequency_mhz": "118.26"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",
