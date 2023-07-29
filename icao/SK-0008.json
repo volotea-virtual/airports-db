@@ -5,7 +5,7 @@
     "name": "Sládkovicovo",
     "latitude_deg": "48.188889",
     "longitude_deg": "17.633889",
-    "elevation_ft": "",
+    "elevation_ft": "394",
     "continent": "EU",
     "iso_country": "SK",
     "iso_region": "SK-TA",
@@ -13,10 +13,20 @@
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
-    "local_code": "",
+    "local_code": "LZSLAD",
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "510492",
+            "airport_ref": "316299",
+            "airport_ident": "SK-0008",
+            "type": "INFO",
+            "description": "",
+            "frequency_mhz": "120.605"
+        }
+    ],
     "country": {
         "id": "302717",
         "code": "SK",
