@@ -3,8 +3,8 @@
     "ident": "KAEJ",
     "type": "small_airport",
     "name": "Central Colorado Regional Airport",
-    "latitude_deg": "38.81420135498047",
-    "longitude_deg": "-106.12100219726562",
+    "latitude_deg": "38.812906",
+    "longitude_deg": "-106.120062",
     "elevation_ft": "7946",
     "continent": "NA",
     "iso_country": "US",
@@ -14,8 +14,8 @@
     "gps_code": "KAEJ",
     "iata_code": "",
     "local_code": "AEJ",
-    "home_link": "",
-    "wikipedia_link": "",
+    "home_link": "https://www.buenavistaairport.com/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Colorado_Regional_Airport",
     "keywords": "",
     "runways": [
         {

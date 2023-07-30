@@ -3,13 +3,13 @@
     "ident": "SQKS",
     "type": "small_airport",
     "name": "Aerodromo Los Campanos",
-    "latitude_deg": "10.880395",
-    "longitude_deg": "-75.033199",
-    "elevation_ft": "",
+    "latitude_deg": "10.883168",
+    "longitude_deg": "-75.032145",
+    "elevation_ft": "92",
     "continent": "SA",
     "iso_country": "CO",
-    "iso_region": "CO-BOL",
-    "municipality": "Barranquillo",
+    "iso_region": "CO-ATL",
+    "municipality": "Tubará",
     "scheduled_service": "no",
     "gps_code": "SQKS",
     "iata_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Aeropuertos de Colombia"
     },
     "region": {
-        "id": "303461",
-        "code": "CO-BOL",
-        "local_code": "BOL",
-        "name": "Bolívar Department",
+        "id": "303460",
+        "code": "CO-ATL",
+        "local_code": "ATL",
+        "name": "Atlántico Department",
         "continent": "SA",
         "iso_country": "CO",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bolívar_Department",
-        "keywords": "Airports in Bolívar Department"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Atlántico_Department",
+        "keywords": "Airports in Atlántico Department"
     }
 }

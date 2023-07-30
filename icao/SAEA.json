@@ -3,8 +3,8 @@
     "ident": "SAEA",
     "type": "small_airport",
     "name": "General Acha Airport",
-    "latitude_deg": "-37.4007987976",
-    "longitude_deg": "-64.6128005981",
+    "latitude_deg": "-37.400799",
+    "longitude_deg": "-64.612801",
     "elevation_ft": "908",
     "continent": "SA",
     "iso_country": "AR",
@@ -15,7 +15,7 @@
     "iata_code": "",
     "local_code": "ACH",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/General_Acha_Airport",
     "keywords": "",
     "runways": [
         {

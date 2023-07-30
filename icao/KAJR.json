@@ -3,8 +3,8 @@
     "ident": "KAJR",
     "type": "small_airport",
     "name": "Habersham County Airport",
-    "latitude_deg": "34.49990082",
-    "longitude_deg": "-83.55670166",
+    "latitude_deg": "34.499901",
+    "longitude_deg": "-83.556702",
     "elevation_ft": "1448",
     "continent": "NA",
     "iso_country": "US",
@@ -14,8 +14,8 @@
     "gps_code": "KAJR",
     "iata_code": "",
     "local_code": "AJR",
-    "home_link": "",
-    "wikipedia_link": "",
+    "home_link": "https://www.habershamga.com/airport.cfm",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Habersham_County_Airport",
     "keywords": "",
     "runways": [
         {

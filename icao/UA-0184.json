@@ -1,0 +1,38 @@
+{
+    "id": "510538",
+    "ident": "UA-0184",
+    "type": "small_airport",
+    "name": "Apostolove Airfield",
+    "latitude_deg": "47.657898",
+    "longitude_deg": "33.752977",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "UA",
+    "iso_region": "UA-12",
+    "municipality": "Apostolove",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302719",
+        "code": "UA",
+        "name": "Ukraine",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ukraine",
+        "keywords": "Аеропорти України"
+    },
+    "region": {
+        "id": "305984",
+        "code": "UA-12",
+        "local_code": "12",
+        "name": "Dnipropetrovsk (Sicheslav) Oblast",
+        "continent": "EU",
+        "iso_country": "UA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Dnipropetrovsk_Oblast",
+        "keywords": "Airports in Dnipropetrovsk Oblast"
+    }
+}
