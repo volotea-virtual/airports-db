@@ -2,9 +2,9 @@
     "id": "8241",
     "ident": "1CL5",
     "type": "heliport",
-    "name": "Pomerado Hospital Heliport",
-    "latitude_deg": "32.998199462890625",
-    "longitude_deg": "-117.05699920654297",
+    "name": "Palomar Medical Center Poway Heliport",
+    "latitude_deg": "32.996067",
+    "longitude_deg": "-117.055539",
     "elevation_ft": "650",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "1CL5",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Pomerado Hospital Heliport",
     "runways": [
         {
             "id": "265421",

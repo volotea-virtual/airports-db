@@ -11,12 +11,12 @@
     "iso_region": "BR-BA",
     "municipality": "Brumado",
     "scheduled_service": "no",
-    "gps_code": "",
+    "gps_code": "SSXH",
     "iata_code": "BMS",
     "local_code": "BA0168",
     "home_link": "",
     "wikipedia_link": "https://sv.wikipedia.org/wiki/Sócrates_Mariani_Bittencourt_Airport",
-    "keywords": "SNBU, SSXH",
+    "keywords": "SNBU",
     "runways": [
         {
             "id": "234234",
