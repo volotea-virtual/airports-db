@@ -3,8 +3,8 @@
     "ident": "5LS6",
     "type": "small_airport",
     "name": "Arkla Flyers Inc Airport",
-    "latitude_deg": "32.765098571777344",
-    "longitude_deg": "-91.79620361328125",
+    "latitude_deg": "32.765174",
+    "longitude_deg": "-91.796136",
     "elevation_ft": "90",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "5LS6",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Northeast Louisiana Flyers",
     "runways": [
         {
             "id": "247998",
