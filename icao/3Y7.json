@@ -3,8 +3,8 @@
     "ident": "3Y7",
     "type": "small_airport",
     "name": "Isabel Municipal Airport",
-    "latitude_deg": "45.38949966430664",
-    "longitude_deg": "-101.43699645996094",
+    "latitude_deg": "45.389806",
+    "longitude_deg": "-101.437656",
     "elevation_ft": "2398",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "3Y7",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SD26",
     "runways": [
         {
             "id": "254973",

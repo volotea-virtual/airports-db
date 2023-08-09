@@ -3,8 +3,8 @@
     "ident": "KCQW",
     "type": "small_airport",
     "name": "Cheraw Municipal Airport/Lynch Bellinger Field",
-    "latitude_deg": "34.71289825",
-    "longitude_deg": "-79.95700073",
+    "latitude_deg": "34.712898",
+    "longitude_deg": "-79.957001",
     "elevation_ft": "239",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "CQW",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Cheraw_Municipal_Airport",
-    "keywords": "",
+    "keywords": "47J",
     "runways": [
         {
             "id": "242025",

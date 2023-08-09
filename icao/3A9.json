@@ -3,8 +3,8 @@
     "ident": "3A9",
     "type": "small_airport",
     "name": "Arlington Municipal Airport",
-    "latitude_deg": "44.39440155029297",
-    "longitude_deg": "-97.12310028076172",
+    "latitude_deg": "44.394402",
+    "longitude_deg": "-97.1231",
     "elevation_ft": "1818",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "3A9",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SD06",
     "runways": [
         {
             "id": "257937",

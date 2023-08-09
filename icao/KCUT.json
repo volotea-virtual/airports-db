@@ -3,8 +3,8 @@
     "ident": "KCUT",
     "type": "small_airport",
     "name": "Custer County Airport",
-    "latitude_deg": "43.733299255371094",
-    "longitude_deg": "-103.61799621582031",
+    "latitude_deg": "43.733299",
+    "longitude_deg": "-103.617996",
     "elevation_ft": "5602",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "CUT",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SD01",
     "runways": [
         {
             "id": "240012",

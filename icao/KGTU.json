@@ -2,7 +2,7 @@
     "id": "19983",
     "ident": "KGTU",
     "type": "small_airport",
-    "name": "Georgetown Municipal Airport",
+    "name": "Georgetown Executive Airport at Johnny Gantt Field",
     "latitude_deg": "30.677543",
     "longitude_deg": "-97.678524",
     "elevation_ft": "790",
@@ -16,7 +16,7 @@
     "local_code": "GTU",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Georgetown Municipal",
     "runways": [
         {
             "id": "241446",

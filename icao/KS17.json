@@ -11,12 +11,12 @@
     "iso_region": "US-SC",
     "municipality": "Trenton",
     "scheduled_service": "no",
-    "gps_code": "",
+    "gps_code": "S17",
     "iata_code": "",
     "local_code": "S17",
     "home_link": "",
-    "wikipedia_link": "",
-    "keywords": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Twin_Lakes_Airport_(South_Carolina)",
+    "keywords": "SC42",
     "runways": [
         {
             "id": "243640",
