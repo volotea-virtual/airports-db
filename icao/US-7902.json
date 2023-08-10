@@ -1,0 +1,38 @@
+{
+    "id": "510832",
+    "ident": "US-7902",
+    "type": "closed",
+    "name": "Griel Field",
+    "latitude_deg": "32.48185",
+    "longitude_deg": "-85.88521",
+    "elevation_ft": "213",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Tallassee",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Griel Army Auxiliary Field Number 1, Reeves, Tallassee",
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306077",
+        "code": "US-AL",
+        "local_code": "AL",
+        "name": "Alabama",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alabama",
+        "keywords": "Airports in Alabama"
+    }
+}

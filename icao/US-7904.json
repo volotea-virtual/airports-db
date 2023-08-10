@@ -1,0 +1,38 @@
+{
+    "id": "510834",
+    "ident": "US-7904",
+    "type": "closed",
+    "name": "Selfield Airport",
+    "latitude_deg": "32.43852",
+    "longitude_deg": "-86.94969",
+    "elevation_ft": "136",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-AL",
+    "municipality": "Selma",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "KSES, SES, Selfield Army Auxiliary Airfield, Craig Army Auxiliary Field Number 1, Selma Municipal",
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306077",
+        "code": "US-AL",
+        "local_code": "AL",
+        "name": "Alabama",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alabama",
+        "keywords": "Airports in Alabama"
+    }
+}
