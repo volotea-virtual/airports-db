@@ -5,13 +5,13 @@
     "name": "Aviosuperficie Falcone",
     "latitude_deg": "41.101343",
     "longitude_deg": "15.871805",
-    "elevation_ft": "498",
+    "elevation_ft": "495",
     "continent": "EU",
     "iso_country": "IT",
     "iso_region": "IT-77",
     "municipality": "Lavello (PZ)",
     "scheduled_service": "no",
-    "gps_code": "",
+    "gps_code": "PZ01",
     "iata_code": "",
     "local_code": "PZLAV",
     "home_link": "",
@@ -39,6 +39,24 @@
             "he_elevation_ft": "",
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "510897",
+            "airport_ref": "319429",
+            "airport_ident": "IT-0278",
+            "type": "GND",
+            "description": "Falcone RDO",
+            "frequency_mhz": "123.45"
+        },
+        {
+            "id": "510896",
+            "airport_ref": "319429",
+            "airport_ident": "IT-0278",
+            "type": "TWR",
+            "description": "Falcone RDO",
+            "frequency_mhz": "130"
         }
     ],
     "country": {

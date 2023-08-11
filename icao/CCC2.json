@@ -3,8 +3,8 @@
     "ident": "CCC2",
     "type": "small_airport",
     "name": "Winterland Airport",
-    "latitude_deg": "47.13690185546875",
-    "longitude_deg": "-55.329200744628906",
+    "latitude_deg": "47.13706",
+    "longitude_deg": "-55.329176",
     "elevation_ft": "156",
     "continent": "NA",
     "iso_country": "CA",
@@ -16,7 +16,7 @@
     "local_code": "CCC2",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Winterland_Airport",
-    "keywords": "CC2",
+    "keywords": "CC2, Marystown Aerodrome",
     "runways": [
         {
             "id": "234972",

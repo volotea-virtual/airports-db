@@ -1,0 +1,72 @@
+{
+    "id": "510890",
+    "ident": "IT-0716",
+    "type": "small_airport",
+    "name": "Aviosuperficie Templare Paestum",
+    "latitude_deg": "40.472649",
+    "longitude_deg": "14.959581",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-72",
+    "municipality": "Capaccio (Laura)",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "SALAU",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "510891",
+            "airport_ref": "510890",
+            "airport_ident": "IT-0716",
+            "length_ft": "1476",
+            "width_ft": "59",
+            "surface": "grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "4",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "22",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "510893",
+            "airport_ref": "510890",
+            "airport_ident": "IT-0716",
+            "type": "Aproac",
+            "description": "",
+            "frequency_mhz": "130"
+        }
+    ],
+    "country": {
+        "id": "302697",
+        "code": "IT",
+        "name": "Italy",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Italy",
+        "keywords": "Aeroporti d'Italia"
+    },
+    "region": {
+        "id": "306368",
+        "code": "IT-72",
+        "local_code": "72",
+        "name": "Campania",
+        "continent": "EU",
+        "iso_country": "IT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Campania",
+        "keywords": "CM"
+    }
+}

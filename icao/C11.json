@@ -3,8 +3,8 @@
     "ident": "C11",
     "type": "small_airport",
     "name": "Amana Airport",
-    "latitude_deg": "41.79359817504883",
-    "longitude_deg": "-91.86479949951172",
+    "latitude_deg": "41.794032",
+    "longitude_deg": "-91.864758",
     "elevation_ft": "712",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "C11",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Hursh, KC11",
     "runways": [
         {
             "id": "257206",

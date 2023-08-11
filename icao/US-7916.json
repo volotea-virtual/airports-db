@@ -1,0 +1,38 @@
+{
+    "id": "510857",
+    "ident": "US-7916",
+    "type": "closed",
+    "name": "Mondovi Airfield",
+    "latitude_deg": "44.56706",
+    "longitude_deg": "-91.57486",
+    "elevation_ft": "841",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-U-A",
+    "municipality": "Naples",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306120",
+        "code": "US-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}
