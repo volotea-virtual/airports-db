@@ -2,9 +2,9 @@
     "id": "10516",
     "ident": "3IL9",
     "type": "small_airport",
-    "name": "Sugar Creek Farm Airport",
-    "latitude_deg": "40.269401550293",
-    "longitude_deg": "-89.302200317383",
+    "name": "Alekat Acres Airport",
+    "latitude_deg": "40.281024",
+    "longitude_deg": "-89.312593",
     "elevation_ft": "600",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "3IL9",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "3IL9",
+    "keywords": "3IL9, Sugar Creek Farm",
     "runways": [
         {
             "id": "247525",

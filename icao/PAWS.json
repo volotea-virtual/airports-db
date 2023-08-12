@@ -3,8 +3,8 @@
     "ident": "PAWS",
     "type": "medium_airport",
     "name": "Wasilla Airport",
-    "latitude_deg": "61.5717010498",
-    "longitude_deg": "-149.539993286",
+    "latitude_deg": "61.571701",
+    "longitude_deg": "-149.539993",
     "elevation_ft": "354",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "IYS",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Wasilla_Airport",
-    "keywords": "",
+    "keywords": "4A1",
     "runways": [
         {
             "id": "239694",

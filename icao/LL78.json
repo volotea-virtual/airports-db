@@ -2,9 +2,9 @@
     "id": "21616",
     "ident": "LL78",
     "type": "small_airport",
-    "name": "Lz Fairwinds Airport",
-    "latitude_deg": "42.31169891357422",
-    "longitude_deg": "-89.1509017944336",
+    "name": "LZ Fairwinds Airport",
+    "latitude_deg": "42.312005",
+    "longitude_deg": "-89.151853",
     "elevation_ft": "752",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "LL78",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Lund",
     "runways": [
         {
             "id": "256160",

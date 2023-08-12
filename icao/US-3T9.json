@@ -11,12 +11,12 @@
     "iso_region": "US-TX",
     "municipality": "Redford",
     "scheduled_service": "no",
-    "gps_code": "",
+    "gps_code": "3T9",
     "iata_code": "",
     "local_code": "3T9",
-    "home_link": "",
-    "wikipedia_link": "",
-    "keywords": "",
+    "home_link": "https://tpwd.texas.gov/state-parks/big-bend-ranch/pdfs/airstrip-guidelines",
+    "wikipedia_link": "https://ceb.wikipedia.org/wiki/Big_Bend_Ranch_State_Park_Airport",
+    "keywords": "3TE3, 3E3",
     "runways": [
         {
             "id": "242794",
@@ -39,6 +39,16 @@
             "he_elevation_ft": "",
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "510912",
+            "airport_ref": "10802",
+            "airport_ident": "US-3T9",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "122.9"
         }
     ],
     "country": {

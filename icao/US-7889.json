@@ -1,15 +1,15 @@
 {
     "id": "510755",
     "ident": "US-7889",
-    "type": "medium_airport",
-    "name": "(Duplicate)MJX",
-    "latitude_deg": "0.002",
-    "longitude_deg": "-0.002",
-    "elevation_ft": "",
+    "type": "closed",
+    "name": "Salmon River Lodge Airport",
+    "latitude_deg": "44.089003",
+    "longitude_deg": "-114.85395",
+    "elevation_ft": "6624",
     "continent": "NA",
     "iso_country": "US",
-    "iso_region": "US-U-A",
-    "municipality": "",
+    "iso_region": "US-ID",
+    "municipality": "Stanley",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
@@ -26,13 +26,13 @@
         "keywords": "American airports"
     },
     "region": {
-        "id": "306120",
-        "code": "US-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "306089",
+        "code": "US-ID",
+        "local_code": "ID",
+        "name": "Idaho",
         "continent": "NA",
         "iso_country": "US",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Idaho",
+        "keywords": "Airports in Idaho"
     }
 }

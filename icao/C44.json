@@ -11,12 +11,12 @@
     "iso_region": "US-CT",
     "municipality": "Woodstock",
     "scheduled_service": "no",
-    "gps_code": "KC44",
+    "gps_code": "C44",
     "iata_code": "",
     "local_code": "C44",
     "home_link": "",
-    "wikipedia_link": "",
-    "keywords": "CT04, George Campert Memorial",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Toutant_Airport",
+    "keywords": "CT04, George Campert Memorial, Putnam",
     "runways": [
         {
             "id": "256182",

@@ -1,0 +1,38 @@
+{
+    "id": "510964",
+    "ident": "US-7979",
+    "type": "small_airport",
+    "name": "Panola Plantation Airport",
+    "latitude_deg": "32.92048",
+    "longitude_deg": "-91.23365",
+    "elevation_ft": "103",
+    "continent": "AS",
+    "iso_country": "AE",
+    "iso_region": "AE-U-A",
+    "municipality": "Lake Providence",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302618",
+        "code": "AE",
+        "name": "United Arab Emirates",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Arab_Emirates",
+        "keywords": "UAE,مطارات في الإمارات العربية المتحدة"
+    },
+    "region": {
+        "id": "302825",
+        "code": "AE-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "AS",
+        "iso_country": "AE",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}

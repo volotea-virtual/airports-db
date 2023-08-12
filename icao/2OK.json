@@ -3,8 +3,8 @@
     "ident": "2OK",
     "type": "heliport",
     "name": "Alaska Regional Hospital Heliport",
-    "latitude_deg": "61.21189880371094",
-    "longitude_deg": "-149.82699584960938",
+    "latitude_deg": "61.212693",
+    "longitude_deg": "-149.826608",
     "elevation_ft": "137",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "2OK",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "20AK",
     "runways": [
         {
             "id": "265740",
