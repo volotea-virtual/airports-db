@@ -1,0 +1,38 @@
+{
+    "id": "511051",
+    "ident": "IT-0718",
+    "type": "small_airport",
+    "name": "Campo Volo Vicari (PACAM)",
+    "latitude_deg": "37.800747",
+    "longitude_deg": "13.52314",
+    "elevation_ft": "995",
+    "continent": "EU",
+    "iso_country": "IT",
+    "iso_region": "IT-82",
+    "municipality": "Campofelice di fitalia",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "PA06",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302697",
+        "code": "IT",
+        "name": "Italy",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Italy",
+        "keywords": "Aeroporti d'Italia"
+    },
+    "region": {
+        "id": "306373",
+        "code": "IT-82",
+        "local_code": "82",
+        "name": "Sicily",
+        "continent": "EU",
+        "iso_country": "IT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Sicily",
+        "keywords": "SC"
+    }
+}
