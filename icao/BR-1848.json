@@ -1,0 +1,38 @@
+{
+    "id": "511119",
+    "ident": "BR-1848",
+    "type": "small_airport",
+    "name": "Fazenda Bela Nova Airstrip",
+    "latitude_deg": "-15.033421",
+    "longitude_deg": "-39.664571",
+    "elevation_ft": "712",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-BA",
+    "municipality": "Itaju do Colônia",
+    "scheduled_service": "no",
+    "gps_code": "SJNO",
+    "iata_code": "",
+    "local_code": "BA0117",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303203",
+        "code": "BR-BA",
+        "local_code": "BA",
+        "name": "Bahia",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bahia",
+        "keywords": "Airports in Bahia"
+    }
+}
