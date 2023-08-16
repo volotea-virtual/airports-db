@@ -1,7 +1,7 @@
 {
     "id": "37636",
     "ident": "SSRI",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Fazenda dos Sonhos Airport",
     "latitude_deg": "-20.762013",
     "longitude_deg": "-56.032548",
@@ -11,12 +11,12 @@
     "iso_region": "BR-MS",
     "municipality": "Anastácio",
     "scheduled_service": "no",
-    "gps_code": "SIFS",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "MS0083",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SSRI",
+    "keywords": "SSRI, SIFS, MS0083",
     "runways": [
         {
             "id": "260895",

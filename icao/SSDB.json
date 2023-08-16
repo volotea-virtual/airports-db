@@ -1,7 +1,7 @@
 {
     "id": "37430",
     "ident": "SSDB",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Fazenda Kurupay Airport",
     "latitude_deg": "-22.036142",
     "longitude_deg": "-53.735837",
@@ -11,12 +11,12 @@
     "iso_region": "BR-MS",
     "municipality": "Angélica",
     "scheduled_service": "no",
-    "gps_code": "SWFK",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "MS0374",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SSDB",
+    "keywords": "SSDB, SWFK, MS0374",
     "runways": [
         {
             "id": "261047",
