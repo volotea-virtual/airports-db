@@ -3,8 +3,8 @@
     "ident": "KJAU",
     "type": "small_airport",
     "name": "Colonel Tommy C Stiner Airfield",
-    "latitude_deg": "36.334599",
-    "longitude_deg": "-84.1623",
+    "latitude_deg": "36.334073",
+    "longitude_deg": "-84.162977",
     "elevation_ft": "1180",
     "continent": "NA",
     "iso_country": "US",
@@ -14,8 +14,8 @@
     "gps_code": "KJAU",
     "iata_code": "",
     "local_code": "JAU",
-    "home_link": "",
-    "wikipedia_link": "",
+    "home_link": "https://campbellcountytn.gov/campbell-county-airport/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Campbell_County_Airport_(Tennessee)",
     "keywords": "Campbell County Airport",
     "runways": [
         {

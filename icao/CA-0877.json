@@ -1,0 +1,38 @@
+{
+    "id": "511147",
+    "ident": "CA-0877",
+    "type": "small_airport",
+    "name": "Saint-Cyprien Airport",
+    "latitude_deg": "46.34576",
+    "longitude_deg": "-70.19539",
+    "elevation_ft": "1225",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Saint-Cyprien",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": "Canadian airports"
+    },
+    "region": {
+        "id": "303304",
+        "code": "CA-QC",
+        "local_code": "QC",
+        "name": "Quebec",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
+        "keywords": "Aéroports du Québec"
+    }
+}

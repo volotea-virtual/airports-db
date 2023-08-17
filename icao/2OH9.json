@@ -41,6 +41,24 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "511151",
+            "airport_ref": "9675",
+            "airport_ident": "2OH9",
+            "type": "GND",
+            "description": "Caesar Creek Ground",
+            "frequency_mhz": "123.3"
+        },
+        {
+            "id": "511150",
+            "airport_ref": "9675",
+            "airport_ident": "2OH9",
+            "type": "TFC",
+            "description": "Caesar Creek Traffic",
+            "frequency_mhz": "123.3"
+        }
+    ],
     "country": {
         "id": "302755",
         "code": "US",

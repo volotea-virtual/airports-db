@@ -3,8 +3,8 @@
     "ident": "4IL5",
     "type": "small_airport",
     "name": "Frank's Flying Service Airport",
-    "latitude_deg": "41.724998474121094",
-    "longitude_deg": "-90.00509643554688",
+    "latitude_deg": "41.724989",
+    "longitude_deg": "-90.002639",
     "elevation_ft": "600",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "4IL5",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Trent Aerial Spraying",
     "runways": [
         {
             "id": "248785",

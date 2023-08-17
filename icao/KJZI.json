@@ -3,8 +3,8 @@
     "ident": "KJZI",
     "type": "small_airport",
     "name": "Charleston Executive Airport",
-    "latitude_deg": "32.700901",
-    "longitude_deg": "-80.002899",
+    "latitude_deg": "32.698238",
+    "longitude_deg": "-80.005675",
     "elevation_ft": "17",
     "continent": "NA",
     "iso_country": "US",
@@ -14,8 +14,8 @@
     "gps_code": "KJZI",
     "iata_code": "",
     "local_code": "JZI",
-    "home_link": "",
-    "wikipedia_link": "",
+    "home_link": "https://www.iflychs.com/JZI",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Charleston_Executive_Airport",
     "keywords": "",
     "runways": [
         {
