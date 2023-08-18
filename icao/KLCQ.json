@@ -3,8 +3,8 @@
     "ident": "KLCQ",
     "type": "small_airport",
     "name": "Lake City Gateway Airport",
-    "latitude_deg": "30.1819992065",
-    "longitude_deg": "-82.57689666750001",
+    "latitude_deg": "30.181999",
+    "longitude_deg": "-82.576897",
     "elevation_ft": "201",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "LCQ",
     "home_link": "http://www.lcfla.com/index.php/departments/gateway-airport-klcq",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Lake_City_Gateway_Airport",
-    "keywords": "Lake City Municipal Airport",
+    "keywords": "31J, Lake City Municipal Airport",
     "runways": [
         {
             "id": "245742",

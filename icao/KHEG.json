@@ -3,8 +3,8 @@
     "ident": "KHEG",
     "type": "small_airport",
     "name": "Herlong Airport",
-    "latitude_deg": "30.277799606323242",
-    "longitude_deg": "-81.80590057373047",
+    "latitude_deg": "30.2778",
+    "longitude_deg": "-81.805901",
     "elevation_ft": "87",
     "continent": "NA",
     "iso_country": "US",
@@ -14,9 +14,9 @@
     "gps_code": "KHEG",
     "iata_code": "",
     "local_code": "HEG",
-    "home_link": "",
-    "wikipedia_link": "",
-    "keywords": "",
+    "home_link": "http://www.flyjacksonville.com/content.aspx?id=87",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Herlong_Recreational_Airport",
+    "keywords": "23J",
     "runways": [
         {
             "id": "242599",
