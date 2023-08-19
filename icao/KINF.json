@@ -3,8 +3,8 @@
     "ident": "KINF",
     "type": "small_airport",
     "name": "Inverness Airport",
-    "latitude_deg": "28.808599",
-    "longitude_deg": "-82.316498",
+    "latitude_deg": "28.803588",
+    "longitude_deg": "-82.318311",
     "elevation_ft": "50",
     "continent": "NA",
     "iso_country": "US",
@@ -14,9 +14,9 @@
     "gps_code": "KINF",
     "iata_code": "",
     "local_code": "INF",
-    "home_link": "",
-    "wikipedia_link": "",
-    "keywords": "",
+    "home_link": "https://www.citrusbocc.com/departments/public_works/engineering/aviation_section/inverness_airport.php",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Inverness_Airport_(Florida)",
+    "keywords": "X40",
     "runways": [
         {
             "id": "243663",

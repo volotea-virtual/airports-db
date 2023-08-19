@@ -3,8 +3,8 @@
     "ident": "KCGC",
     "type": "small_airport",
     "name": "Crystal River Airport",
-    "latitude_deg": "28.867300033569336",
-    "longitude_deg": "-82.57129669189453",
+    "latitude_deg": "28.867246",
+    "longitude_deg": "-82.571009",
     "elevation_ft": "9",
     "continent": "NA",
     "iso_country": "US",
@@ -14,9 +14,9 @@
     "gps_code": "KCGC",
     "iata_code": "",
     "local_code": "CGC",
-    "home_link": "",
-    "wikipedia_link": "",
-    "keywords": "",
+    "home_link": "https://citrusbocc.com/departments/public_works/technical_services/crystal_river_airport.php",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Crystal_River_Airport",
+    "keywords": "X31, Captain Tom Davis Field",
     "runways": [
         {
             "id": "244384",

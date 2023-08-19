@@ -3,8 +3,8 @@
     "ident": "OEPS",
     "type": "medium_airport",
     "name": "Prince Sultan Air Base",
-    "latitude_deg": "24.062700271606445",
-    "longitude_deg": "47.580501556396484",
+    "latitude_deg": "24.0627",
+    "longitude_deg": "47.580502",
     "elevation_ft": "1651",
     "continent": "AS",
     "iso_country": "SA",
@@ -15,7 +15,7 @@
     "iata_code": "AKH",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Prince_Sultan_Air_Base",
     "keywords": "OEKH",
     "runways": [
         {
