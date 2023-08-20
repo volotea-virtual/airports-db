@@ -15,7 +15,7 @@
     "iata_code": "",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://fr.wikipedia.org/wiki/A%C3%A9rodrome_de_Bernay_-_Saint-Martin",
     "keywords": "",
     "runways": [
         {
@@ -39,6 +39,16 @@
             "he_elevation_ft": "544",
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "511206",
+            "airport_ref": "28971",
+            "airport_ident": "LFPD",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "119.23"
         }
     ],
     "country": {
