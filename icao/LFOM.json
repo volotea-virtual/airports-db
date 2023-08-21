@@ -9,13 +9,13 @@
     "continent": "EU",
     "iso_country": "FR",
     "iso_region": "FR-NOR",
-    "municipality": "Chalons",
+    "municipality": "Lessay",
     "scheduled_service": "no",
     "gps_code": "LFOM",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Lessay_Airport",
     "keywords": "Aérodrome Charles Lindbergh",
     "runways": [
         {
@@ -39,6 +39,16 @@
             "he_elevation_ft": "88",
             "he_heading_degT": "",
             "he_displaced_threshold_ft": ""
+        }
+    ],
+    "freqs": [
+        {
+            "id": "511219",
+            "airport_ref": "28962",
+            "airport_ident": "LFOM",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "128.925"
         }
     ],
     "country": {
