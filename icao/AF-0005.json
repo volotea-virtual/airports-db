@@ -2,7 +2,7 @@
     "id": "332240",
     "ident": "AF-0005",
     "type": "medium_airport",
-    "name": "Khost International Airport",
+    "name": "\"Ghost\" International Airport",
     "latitude_deg": "33.284605",
     "longitude_deg": "69.80734",
     "elevation_ft": "4204",
@@ -14,7 +14,7 @@
     "gps_code": "OAKS",
     "iata_code": "KHT",
     "local_code": "",
-    "home_link": "",
+    "home_link": "http://web.archive.org/web/20230123103904/http://pajhwok.com/2021/06/03/set-to-open-soon-khost-airport-lacks-global-standards/",
     "wikipedia_link": "",
     "keywords": "",
     "country": {
