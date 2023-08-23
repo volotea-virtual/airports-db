@@ -1,17 +1,17 @@
 {
-    "id": "46307",
-    "ident": "FHB",
-    "type": "small_airport",
-    "name": "(Duplicate)Fernandina Beach Muni Airport",
-    "latitude_deg": "0.006",
-    "longitude_deg": "-0.004",
-    "elevation_ft": "16",
+    "id": "511274",
+    "ident": "US-8048",
+    "type": "heliport",
+    "name": "Cartwright Stagefield",
+    "latitude_deg": "32.09879",
+    "longitude_deg": "-81.81129",
+    "elevation_ft": "175",
     "continent": "NA",
     "iso_country": "US",
-    "iso_region": "US-FL",
-    "municipality": "Fernandina Beach",
+    "iso_region": "US-GA",
+    "municipality": "Claxton",
     "scheduled_service": "no",
-    "gps_code": "FHB",
+    "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
@@ -26,13 +26,13 @@
         "keywords": "American airports"
     },
     "region": {
-        "id": "306085",
-        "code": "US-FL",
-        "local_code": "FL",
-        "name": "Florida",
+        "id": "306086",
+        "code": "US-GA",
+        "local_code": "GA",
+        "name": "Georgia",
         "continent": "NA",
         "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Florida",
-        "keywords": "Airports in Florida"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
+        "keywords": "Airports in Georgia"
     }
 }

@@ -8,7 +8,7 @@
     "elevation_ft": "1275",
     "continent": "NA",
     "iso_country": "US",
-    "iso_region": "US-OK",
+    "iso_region": "US-TX",
     "municipality": "Comanche",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "American airports"
     },
     "region": {
-        "id": "306112",
-        "code": "US-OK",
-        "local_code": "OK",
-        "name": "Oklahoma",
+        "id": "306119",
+        "code": "US-TX",
+        "local_code": "TX",
+        "name": "Texas",
         "continent": "NA",
         "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Oklahoma",
-        "keywords": "Airports in Oklahoma"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Texas",
+        "keywords": "Texan airports"
     }
 }

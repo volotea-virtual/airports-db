@@ -1,0 +1,38 @@
+{
+    "id": "511269",
+    "ident": "US-8046",
+    "type": "closed",
+    "name": "Naval Air Station Glynco",
+    "latitude_deg": "31.2444",
+    "longitude_deg": "-81.47336",
+    "elevation_ft": "25",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Brunswick",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Naval_Air_Station_Glynco",
+    "keywords": "NEA, KNEA",
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306086",
+        "code": "US-GA",
+        "local_code": "GA",
+        "name": "Georgia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
+        "keywords": "Airports in Georgia"
+    }
+}

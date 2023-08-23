@@ -8,7 +8,7 @@
     "elevation_ft": "810",
     "continent": "NA",
     "iso_country": "US",
-    "iso_region": "US-LA",
+    "iso_region": "US-WA",
     "municipality": "White Swan",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "American airports"
     },
     "region": {
-        "id": "306094",
-        "code": "US-LA",
-        "local_code": "LA",
-        "name": "Louisiana",
+        "id": "306124",
+        "code": "US-WA",
+        "local_code": "WA",
+        "name": "Washington",
         "continent": "NA",
         "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Louisiana",
-        "keywords": "Airports in Louisiana"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Washington",
+        "keywords": "Airports in Washington"
     }
 }

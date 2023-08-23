@@ -8,7 +8,7 @@
     "elevation_ft": "38",
     "continent": "NA",
     "iso_country": "US",
-    "iso_region": "US-MA",
+    "iso_region": "US-MD",
     "municipality": "Upper Marlboro",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "American airports"
     },
     "region": {
-        "id": "306095",
-        "code": "US-MA",
-        "local_code": "MA",
-        "name": "Massachusetts",
+        "id": "306096",
+        "code": "US-MD",
+        "local_code": "MD",
+        "name": "Maryland",
         "continent": "NA",
         "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Massachusetts",
-        "keywords": "Airports in Massachusetts"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Maryland",
+        "keywords": "Airports in Maryland"
     }
 }

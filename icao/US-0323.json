@@ -8,7 +8,7 @@
     "elevation_ft": "2418",
     "continent": "NA",
     "iso_country": "US",
-    "iso_region": "US-AR",
+    "iso_region": "US-AK",
     "municipality": "Glennallen",
     "scheduled_service": "no",
     "gps_code": "5AK4",
@@ -26,13 +26,13 @@
         "keywords": "American airports"
     },
     "region": {
-        "id": "306078",
-        "code": "US-AR",
-        "local_code": "AR",
-        "name": "Arkansas",
+        "id": "306076",
+        "code": "US-AK",
+        "local_code": "AK",
+        "name": "Alaska",
         "continent": "NA",
         "iso_country": "US",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Arkansas",
-        "keywords": "Airports in Arkansas"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Alaska",
+        "keywords": "Airports in Alaska"
     }
 }

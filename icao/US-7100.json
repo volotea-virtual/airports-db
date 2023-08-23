@@ -1,11 +1,11 @@
 {
     "id": "429860",
     "ident": "US-7100",
-    "type": "small_airport",
+    "type": "heliport",
     "name": "TAC-X Army Airfield / Dean Field",
     "latitude_deg": "32.10129",
     "longitude_deg": "-81.65883",
-    "elevation_ft": "",
+    "elevation_ft": "85",
     "continent": "NA",
     "iso_country": "US",
     "iso_region": "US-GA",
