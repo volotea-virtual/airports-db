@@ -1,0 +1,62 @@
+{
+    "id": "511329",
+    "ident": "US-8085",
+    "type": "closed",
+    "name": "Youngstown Executive Airport",
+    "latitude_deg": "41.059557",
+    "longitude_deg": "-80.830789",
+    "elevation_ft": "981",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-OH",
+    "municipality": "Youngstown",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Youngstown_Executive_Airport",
+    "keywords": "06G, North Jackson",
+    "runways": [
+        {
+            "id": "511330",
+            "airport_ref": "511329",
+            "airport_ident": "US-8085",
+            "length_ft": "4170",
+            "width_ft": "",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "11",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "29",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306111",
+        "code": "US-OH",
+        "local_code": "OH",
+        "name": "Ohio",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ohio",
+        "keywords": "Airports in Ohio"
+    }
+}

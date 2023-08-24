@@ -3,8 +3,8 @@
     "ident": "KFPK",
     "type": "small_airport",
     "name": "Fitch H Beach Airport",
-    "latitude_deg": "42.574501037597656",
-    "longitude_deg": "-84.8114013671875",
+    "latitude_deg": "42.574501",
+    "longitude_deg": "-84.811401",
     "elevation_ft": "891",
     "continent": "NA",
     "iso_country": "US",
@@ -14,9 +14,9 @@
     "gps_code": "KFPK",
     "iata_code": "",
     "local_code": "FPK",
-    "home_link": "",
+    "home_link": "https://charlottemi.gov/airport/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Fitch_H._Beach_Airport",
-    "keywords": "",
+    "keywords": "07G",
     "runways": [
         {
             "id": "244938",

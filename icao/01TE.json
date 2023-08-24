@@ -3,8 +3,8 @@
     "ident": "01TE",
     "type": "small_airport",
     "name": "Smith Field",
-    "latitude_deg": "32.73759841918945",
-    "longitude_deg": "-96.4280014038086",
+    "latitude_deg": "32.737598",
+    "longitude_deg": "-96.428001",
     "elevation_ft": "505",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "01TE",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "02F",
     "runways": [
         {
             "id": "253218",
