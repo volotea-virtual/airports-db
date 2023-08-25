@@ -1,7 +1,7 @@
 {
     "id": "849",
     "ident": "CEF6",
-    "type": "small_airport",
+    "type": "closed",
     "name": "S.I.R.Bernard Forestburg Airpark",
     "latitude_deg": "52.573786",
     "longitude_deg": "-112.083664",
@@ -11,12 +11,12 @@
     "iso_region": "CA-AB",
     "municipality": "Forestburg",
     "scheduled_service": "no",
-    "gps_code": "CEF6",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "CEF6",
-    "home_link": "http://www.CEF6.ca",
+    "local_code": "",
+    "home_link": "https://web.archive.org/web/20160109221535/http://cef6.ca/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Forestburg_Airport",
-    "keywords": "EF6, Bernard Airpark, Forestburg Airpark",
+    "keywords": "EF6, Bernard Airpark, Forestburg Airpark, CEF6",
     "runways": [
         {
             "id": "246325",

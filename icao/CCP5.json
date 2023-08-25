@@ -1,0 +1,38 @@
+{
+    "id": "511358",
+    "ident": "CCP5",
+    "type": "seaplane_base",
+    "name": "Camping Pontbriand Water Aerodrome",
+    "latitude_deg": "46.053333",
+    "longitude_deg": "-73.756167",
+    "elevation_ft": "505",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-QC",
+    "municipality": "Rawdon",
+    "scheduled_service": "no",
+    "gps_code": "CCP5",
+    "iata_code": "",
+    "local_code": "CCP5",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Rawdon/Camping_Pontbriand_(Hydro)_Water_Aerodrome",
+    "keywords": "",
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": "Canadian airports"
+    },
+    "region": {
+        "id": "303304",
+        "code": "CA-QC",
+        "local_code": "QC",
+        "name": "Quebec",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Quebec",
+        "keywords": "Aéroports du Québec"
+    }
+}
