@@ -5,7 +5,7 @@
     "name": "Bella Bella/Waglisla Seaplane Base",
     "latitude_deg": "52.166698",
     "longitude_deg": "-128.132994",
-    "elevation_ft": "0",
+    "elevation_ft": "",
     "continent": "NA",
     "iso_country": "CA",
     "iso_region": "CA-BC",
@@ -16,7 +16,7 @@
     "local_code": "CAR9",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Bella_Bella/Waglisla_Water_Aerodrome",
-    "keywords": "",
+    "keywords": "AR9",
     "country": {
         "id": "302730",
         "code": "CA",
