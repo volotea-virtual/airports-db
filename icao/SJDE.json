@@ -1,0 +1,62 @@
+{
+    "id": "511409",
+    "ident": "SJDE",
+    "type": "small_airport",
+    "name": "Fazenda União Airport",
+    "latitude_deg": "-22.644834",
+    "longitude_deg": "-54.09762",
+    "elevation_ft": "1332",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MS",
+    "municipality": "Jateí",
+    "scheduled_service": "no",
+    "gps_code": "SJDE",
+    "iata_code": "",
+    "local_code": "MS0149",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "511410",
+            "airport_ref": "511409",
+            "airport_ident": "SJDE",
+            "length_ft": "3609",
+            "width_ft": "66",
+            "surface": "Grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "01",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "19",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303210",
+        "code": "BR-MS",
+        "local_code": "MS",
+        "name": "Mato Grosso do Sul",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mato_Grosso_do_Sul",
+        "keywords": "Airports in Mato Grosso do Sul"
+    }
+}

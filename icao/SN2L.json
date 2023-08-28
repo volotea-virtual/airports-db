@@ -8,7 +8,7 @@
     "elevation_ft": "1663",
     "continent": "SA",
     "iso_country": "BR",
-    "iso_region": "BR-MS",
+    "iso_region": "BR-MA",
     "municipality": "Alto Parnaíba",
     "scheduled_service": "no",
     "gps_code": "SN2L",
@@ -50,13 +50,13 @@
         "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
     },
     "region": {
-        "id": "303210",
-        "code": "BR-MS",
-        "local_code": "MS",
-        "name": "Mato Grosso do Sul",
+        "id": "303208",
+        "code": "BR-MA",
+        "local_code": "MA",
+        "name": "Maranhão",
         "continent": "SA",
         "iso_country": "BR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Mato_Grosso_do_Sul",
-        "keywords": "Airports in Mato Grosso do Sul"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Maranhão",
+        "keywords": "Airports in Maranhão"
     }
 }
