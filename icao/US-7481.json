@@ -2,7 +2,7 @@
     "id": "505939",
     "ident": "US-7481",
     "type": "seaplane_base",
-    "name": "Scoutlake Seaplane Base",
+    "name": "Muskrat Cove Seaplane Base",
     "latitude_deg": "60.530653",
     "longitude_deg": "-150.848849",
     "elevation_ft": "239",
@@ -16,7 +16,7 @@
     "local_code": "AN0",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Scoutlake",
     "runways": [
         {
             "id": "505942",

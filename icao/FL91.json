@@ -2,7 +2,7 @@
     "id": "17458",
     "ident": "FL91",
     "type": "small_airport",
-    "name": "Counter Terrorism Advanced Training Center Airport",
+    "name": "Big Cypress Ranch Airfield",
     "latitude_deg": "26.309799",
     "longitude_deg": "-81.227303",
     "elevation_ft": "22",
@@ -16,7 +16,7 @@
     "local_code": "FA02",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "FL91, Hendry Correctional Institution",
+    "keywords": "FL91, Hendry Correctional Institution, Counter Terrorism Advanced Training Center",
     "runways": [
         {
             "id": "252511",

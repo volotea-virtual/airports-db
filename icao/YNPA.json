@@ -3,9 +3,9 @@
     "ident": "YNPA",
     "type": "small_airport",
     "name": "Nilpinna Airport",
-    "latitude_deg": "-28.483299255371094",
-    "longitude_deg": "135.89999389648438",
-    "elevation_ft": "",
+    "latitude_deg": "-28.482348",
+    "longitude_deg": "135.912466",
+    "elevation_ft": "450",
     "continent": "OC",
     "iso_country": "AU",
     "iso_region": "AU-SA",
@@ -49,14 +49,6 @@
             "type": "CTAF",
             "description": "CTAF",
             "frequency_mhz": "126.7"
-        },
-        {
-            "id": "74096",
-            "airport_ref": "38519",
-            "airport_ident": "YNPA",
-            "type": "MISC",
-            "description": "MISC",
-            "frequency_mhz": "122.6"
         }
     ],
     "country": {

@@ -3,9 +3,9 @@
     "ident": "YANK",
     "type": "small_airport",
     "name": "Anna Creek Airport",
-    "latitude_deg": "-28.896699905395508",
-    "longitude_deg": "136.1699981689453",
-    "elevation_ft": "",
+    "latitude_deg": "-28.89678",
+    "longitude_deg": "136.170795",
+    "elevation_ft": "300",
     "continent": "OC",
     "iso_country": "AU",
     "iso_region": "AU-SA",
@@ -17,6 +17,24 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "511492",
+            "airport_ref": "27330",
+            "airport_ident": "YANK",
+            "type": "CTAF",
+            "description": "Lake Eyre Broadcast area",
+            "frequency_mhz": "127.8"
+        },
+        {
+            "id": "511493",
+            "airport_ref": "27330",
+            "airport_ident": "YANK",
+            "type": "Melbourne Centre",
+            "description": "Centre Frequency from Circuit area",
+            "frequency_mhz": "120.7"
+        }
+    ],
     "country": {
         "id": "302764",
         "code": "AU",

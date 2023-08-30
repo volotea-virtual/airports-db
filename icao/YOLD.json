@@ -3,9 +3,9 @@
     "ident": "YOLD",
     "type": "small_airport",
     "name": "Olympic Dam Airport",
-    "latitude_deg": "-30.485000610399997",
-    "longitude_deg": "136.876998901",
-    "elevation_ft": "343",
+    "latitude_deg": "-30.483861",
+    "longitude_deg": "136.876699",
+    "elevation_ft": "344",
     "continent": "OC",
     "iso_country": "AU",
     "iso_region": "AU-SA",
@@ -43,19 +43,27 @@
     ],
     "freqs": [
         {
+            "id": "511503",
+            "airport_ref": "27093",
+            "airport_ident": "YOLD",
+            "type": "AWIS",
+            "description": "Weather Service",
+            "frequency_mhz": "128.05"
+        },
+        {
             "id": "48809",
             "airport_ref": "27093",
             "airport_ident": "YOLD",
             "type": "CTAF",
             "description": "CTAF",
-            "frequency_mhz": "126.7"
+            "frequency_mhz": "126.6"
         },
         {
             "id": "48810",
             "airport_ref": "27093",
             "airport_ident": "YOLD",
-            "type": "FSS",
-            "description": "MELBOURNE CNTR",
+            "type": "FIA",
+            "description": "MELBOURNE CENTRE",
             "frequency_mhz": "122"
         }
     ],
