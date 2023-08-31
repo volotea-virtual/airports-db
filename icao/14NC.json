@@ -2,9 +2,9 @@
     "id": "7898",
     "ident": "14NC",
     "type": "small_airport",
-    "name": "Camp Davis Mcolf Airport",
-    "latitude_deg": "34.516700744628906",
-    "longitude_deg": "-77.55000305175781",
+    "name": "Camp Davis Marine Corps Outlying Field",
+    "latitude_deg": "34.516458",
+    "longitude_deg": "-77.545109",
     "elevation_ft": "60",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "14NC",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Camp Davis MCOLF, DZ Pheasant, LZ Duck",
     "runways": [
         {
             "id": "245457",

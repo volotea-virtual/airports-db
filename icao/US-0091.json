@@ -1,10 +1,10 @@
 {
     "id": "46004",
     "ident": "US-0091",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Sarver Field",
-    "latitude_deg": "37.94120026",
-    "longitude_deg": "-87.15470123",
+    "latitude_deg": "37.9412",
+    "longitude_deg": "-87.154701",
     "elevation_ft": "391",
     "continent": "NA",
     "iso_country": "US",
