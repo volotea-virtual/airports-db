@@ -2,9 +2,9 @@
     "id": "21054",
     "ident": "KSET",
     "type": "small_airport",
-    "name": "St Charles County Smartt Airport",
-    "latitude_deg": "38.92969894",
-    "longitude_deg": "-90.43000031",
+    "name": "St Charles County Regional Airport/Smartt Field",
+    "latitude_deg": "38.929699",
+    "longitude_deg": "-90.43",
     "elevation_ft": "437",
     "continent": "NA",
     "iso_country": "US",
@@ -14,8 +14,8 @@
     "gps_code": "KSET",
     "iata_code": "",
     "local_code": "SET",
-    "home_link": "",
-    "wikipedia_link": "",
+    "home_link": "https://www.sccmo.org/237/Regional-Airport---Smartt-Field",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/St._Charles_County_Smartt_Airport",
     "keywords": "",
     "runways": [
         {

@@ -1,11 +1,11 @@
 {
     "id": "352809",
     "ident": "AU-0386",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Euroa Wingnells Airfield",
     "latitude_deg": "-36.773231",
     "longitude_deg": "145.585541",
-    "elevation_ft": "",
+    "elevation_ft": "595",
     "continent": "OC",
     "iso_country": "AU",
     "iso_region": "AU-VIC",
