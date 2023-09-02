@@ -11,12 +11,12 @@
     "iso_region": "IT-25",
     "municipality": "Vigevano (PV)",
     "scheduled_service": "no",
-    "gps_code": "PV02",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "PVVGV",
+    "local_code": "PV02",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "PV02, PVVGV",
     "runways": [
         {
             "id": "511569",

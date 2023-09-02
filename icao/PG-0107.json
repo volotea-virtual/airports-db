@@ -1,0 +1,38 @@
+{
+    "id": "511591",
+    "ident": "PG-0107",
+    "type": "small_airport",
+    "name": "Brahman Airstrip",
+    "latitude_deg": "-5.741032",
+    "longitude_deg": "145.378518",
+    "elevation_ft": "440",
+    "continent": "OC",
+    "iso_country": "PG",
+    "iso_region": "PG-MPM",
+    "municipality": "Brahman Mission",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "BRH",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Braham",
+    "country": {
+        "id": "302778",
+        "code": "PG",
+        "name": "Papua New Guinea",
+        "continent": "OC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Papua_New_Guinea",
+        "keywords": "Airports in Papua New Guinea"
+    },
+    "region": {
+        "id": "305043",
+        "code": "PG-MPM",
+        "local_code": "MPM",
+        "name": "Madang Province",
+        "continent": "OC",
+        "iso_country": "PG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Madang_Province",
+        "keywords": "Airports in Madang Province"
+    }
+}
