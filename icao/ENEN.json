@@ -1,8 +1,8 @@
 {
     "id": "324008",
     "ident": "ENEN",
-    "type": "medium_airport",
-    "name": "Engeløy Airport",
+    "type": "small_airport",
+    "name": "Engeløy Airfield",
     "latitude_deg": "67.967222",
     "longitude_deg": "14.9925",
     "elevation_ft": "10",
