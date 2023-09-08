@@ -1,0 +1,62 @@
+{
+    "id": "511740",
+    "ident": "EG-0059",
+    "type": "heliport",
+    "name": "Katameya Air Base",
+    "latitude_deg": "30.0503",
+    "longitude_deg": "31.841369",
+    "elevation_ft": "800",
+    "continent": "AF",
+    "iso_country": "EG",
+    "iso_region": "EG-C",
+    "municipality": "New Cairo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "TFR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "HE13, Wadi Al Jandali, Ramadan City",
+    "runways": [
+        {
+            "id": "511742",
+            "airport_ref": "511740",
+            "airport_ident": "EG-0059",
+            "length_ft": "10971",
+            "width_ft": "132",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "2H",
+            "le_latitude_deg": "30.03532",
+            "le_longitude_deg": "31.83512",
+            "le_elevation_ft": "836",
+            "le_heading_degT": "20",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20H",
+            "he_latitude_deg": "30.0636",
+            "he_longitude_deg": "31.84693",
+            "he_elevation_ft": "782",
+            "he_heading_degT": "200",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302569",
+        "code": "EG",
+        "name": "Egypt",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Egypt",
+        "keywords": "مطارات مصر, Egyptian airports"
+    },
+    "region": {
+        "id": "303697",
+        "code": "EG-C",
+        "local_code": "C",
+        "name": "Cairo Governorate",
+        "continent": "AF",
+        "iso_country": "EG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cairo_Governorate",
+        "keywords": "Airports in Cairo Governorate"
+    }
+}
