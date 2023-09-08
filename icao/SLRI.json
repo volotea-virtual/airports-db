@@ -1,10 +1,10 @@
 {
     "id": "30334",
     "ident": "SLRI",
-    "type": "small_airport",
+    "type": "medium_airport",
     "name": "Capitán Av. Selin Zeitun Lopez Airport",
-    "latitude_deg": "-11",
-    "longitude_deg": "-66",
+    "latitude_deg": "-11.009355",
+    "longitude_deg": "-66.075468",
     "elevation_ft": "462",
     "continent": "SA",
     "iso_country": "BO",
