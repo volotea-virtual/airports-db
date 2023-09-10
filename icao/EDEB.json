@@ -17,6 +17,16 @@
     "home_link": "",
     "wikipedia_link": "http://de.wikipedia.org/wiki/Flugplatz_Bad_Langensalza",
     "keywords": "Flugplatz Bad Langensalza",
+    "freqs": [
+        {
+            "id": "511825",
+            "airport_ref": "29070",
+            "airport_ident": "EDEB",
+            "type": "A/G",
+            "description": "",
+            "frequency_mhz": "125.365"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

@@ -17,6 +17,16 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "Flugplatz Weimar-Umpferstedt",
+    "freqs": [
+        {
+            "id": "511831",
+            "airport_ref": "29083",
+            "airport_ident": "EDOU",
+            "type": "A/G",
+            "description": "",
+            "frequency_mhz": "134.535"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

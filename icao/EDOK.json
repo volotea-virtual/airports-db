@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "511830",
+            "airport_ref": "28710",
+            "airport_ident": "EDOK",
+            "type": "A/G",
+            "description": "",
+            "frequency_mhz": "118.33"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",

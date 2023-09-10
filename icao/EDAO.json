@@ -17,6 +17,16 @@
     "home_link": "https://www.fliegerclub-nordhausen.com/",
     "wikipedia_link": "",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "511828",
+            "airport_ref": "505079",
+            "airport_ident": "EDAO",
+            "type": "A/G",
+            "description": "",
+            "frequency_mhz": "120.31"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",
