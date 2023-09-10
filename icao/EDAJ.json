@@ -46,9 +46,9 @@
             "id": "75262",
             "airport_ref": "28569",
             "airport_ident": "EDAJ",
-            "type": "AFIS",
+            "type": "A/G",
             "description": "Gera-Info",
-            "frequency_mhz": "122.425"
+            "frequency_mhz": "118.08"
         }
     ],
     "country": {

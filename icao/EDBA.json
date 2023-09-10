@@ -41,6 +41,16 @@
             "he_displaced_threshold_ft": ""
         }
     ],
+    "freqs": [
+        {
+            "id": "511823",
+            "airport_ref": "28495",
+            "airport_ident": "EDBA",
+            "type": "A/G",
+            "description": "",
+            "frequency_mhz": "131.26"
+        }
+    ],
     "country": {
         "id": "302681",
         "code": "DE",
