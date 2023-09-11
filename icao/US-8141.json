@@ -1,0 +1,38 @@
+{
+    "id": "511876",
+    "ident": "US-8141",
+    "type": "heliport",
+    "name": "GOH Cressona Heliport",
+    "latitude_deg": "40.638939",
+    "longitude_deg": "-76.194219",
+    "elevation_ft": "560",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-PA",
+    "municipality": "Cressona",
+    "scheduled_service": "no",
+    "gps_code": "PN83",
+    "iata_code": "",
+    "local_code": "PN83",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306114",
+        "code": "US-PA",
+        "local_code": "PA",
+        "name": "Pennsylvania",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pennsylvania",
+        "keywords": "Airports in Pennsylvania"
+    }
+}
