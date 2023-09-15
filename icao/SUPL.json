@@ -1,0 +1,38 @@
+{
+    "id": "511990",
+    "ident": "SUPL",
+    "type": "small_airport",
+    "name": "Centro Aeronáutico Piriápolis",
+    "latitude_deg": "-34.88278",
+    "longitude_deg": "-55.24861",
+    "elevation_ft": "100",
+    "continent": "SA",
+    "iso_country": "UY",
+    "iso_region": "UY-MA",
+    "municipality": "Punta Colorada",
+    "scheduled_service": "no",
+    "gps_code": "SUPL",
+    "iata_code": "",
+    "local_code": "SUPL",
+    "home_link": "https://www.facebook.com/p/Centro-Aeron%C3%A1utico-Piriapolis-SUPL-100064702209825/",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302801",
+        "code": "UY",
+        "name": "Uruguay",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Uruguay",
+        "keywords": "Aeropuertos de Uruguay"
+    },
+    "region": {
+        "id": "306136",
+        "code": "UY-MA",
+        "local_code": "MA",
+        "name": "Maldonado Department",
+        "continent": "SA",
+        "iso_country": "UY",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Maldonado_Department",
+        "keywords": "Airports in Maldonado Department"
+    }
+}
