@@ -2,14 +2,14 @@
     "id": "512006",
     "ident": "SY-0028",
     "type": "small_airport",
-    "name": "jabbour airfield",
+    "name": "Jabbour Airfield",
     "latitude_deg": "33.473974",
     "longitude_deg": "35.608798",
     "elevation_ft": "",
     "continent": "AS",
-    "iso_country": "SY",
-    "iso_region": "SY-U-A",
-    "municipality": "",
+    "iso_country": "LB",
+    "iso_region": "LB-JA",
+    "municipality": "Dahr El-Darjeh",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
@@ -18,21 +18,21 @@
     "wikipedia_link": "",
     "keywords": "",
     "country": {
-        "id": "302662",
-        "code": "SY",
-        "name": "Syria",
+        "id": "302647",
+        "code": "LB",
+        "name": "Lebanon",
         "continent": "AS",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Syria",
-        "keywords": "مطارات سوريا"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Lebanon",
+        "keywords": "المطارات في لبنان"
     },
     "region": {
-        "id": "305680",
-        "code": "SY-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "304462",
+        "code": "LB-JA",
+        "local_code": "JA",
+        "name": "South Governorate",
         "continent": "AS",
-        "iso_country": "SY",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "iso_country": "LB",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/South",
+        "keywords": "Al-Janub"
     }
 }
