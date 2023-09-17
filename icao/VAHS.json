@@ -1,0 +1,62 @@
+{
+    "id": "512065",
+    "ident": "VAHS",
+    "type": "large_airport",
+    "name": "Rajkot International Airport",
+    "latitude_deg": "22.378824",
+    "longitude_deg": "71.039391",
+    "elevation_ft": "647",
+    "continent": "AS",
+    "iso_country": "IN",
+    "iso_region": "IN-GJ",
+    "municipality": "Rajkot",
+    "scheduled_service": "no",
+    "gps_code": "VAHS",
+    "iata_code": "HSR",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Rajkot_International_Airport",
+    "keywords": "Hirasar Airport",
+    "runways": [
+        {
+            "id": "512066",
+            "airport_ref": "512065",
+            "airport_ident": "VAHS",
+            "length_ft": "9974",
+            "width_ft": "148",
+            "surface": "ASP",
+            "lighted": "1",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "22.36997",
+            "le_longitude_deg": "71.02877",
+            "le_elevation_ft": "590",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "22.38831",
+            "he_longitude_deg": "71.05073",
+            "he_elevation_ft": "650",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302634",
+        "code": "IN",
+        "name": "India",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/India",
+        "keywords": "Airports in India, Indian airports"
+    },
+    "region": {
+        "id": "304174",
+        "code": "IN-GJ",
+        "local_code": "GJ",
+        "name": "Gujarat",
+        "continent": "AS",
+        "iso_country": "IN",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Gujarat",
+        "keywords": "Airports in Gujarat"
+    }
+}

@@ -9,14 +9,14 @@
     "continent": "AS",
     "iso_country": "IN",
     "iso_region": "IN-HR",
-    "municipality": "",
-    "scheduled_service": "no",
+    "municipality": "Hisar",
+    "scheduled_service": "yes",
     "gps_code": "VIHR",
     "iata_code": "HSS",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
-    "keywords": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Hisar_Airport",
+    "keywords": "Maharaja Agrasen Intl",
     "runways": [
         {
             "id": "236728",
