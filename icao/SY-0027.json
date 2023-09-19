@@ -5,18 +5,18 @@
     "name": "Al Futasiyah",
     "latitude_deg": "34.80908",
     "longitude_deg": "35.915108",
-    "elevation_ft": "",
+    "elevation_ft": "16",
     "continent": "AS",
     "iso_country": "SY",
-    "iso_region": "SY-U-A",
-    "municipality": "",
+    "iso_region": "SY-TA",
+    "municipality": "Al Fuţāsīyah",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "الفطاسية",
     "country": {
         "id": "302662",
         "code": "SY",
@@ -26,13 +26,13 @@
         "keywords": "مطارات سوريا"
     },
     "region": {
-        "id": "305680",
-        "code": "SY-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "305679",
+        "code": "SY-TA",
+        "local_code": "TA",
+        "name": "Tartus Governorate",
         "continent": "AS",
         "iso_country": "SY",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tartus_Governorate",
+        "keywords": "Tartous"
     }
 }

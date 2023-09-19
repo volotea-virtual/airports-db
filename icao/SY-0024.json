@@ -2,14 +2,14 @@
     "id": "511970",
     "ident": "SY-0024",
     "type": "heliport",
-    "name": "Dimass",
+    "name": "Dimass Heliport",
     "latitude_deg": "33.605427",
     "longitude_deg": "36.089629",
-    "elevation_ft": "",
+    "elevation_ft": "4281",
     "continent": "AS",
     "iso_country": "SY",
-    "iso_region": "SY-U-A",
-    "municipality": "",
+    "iso_region": "SY-RD",
+    "municipality": "Dīmās",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
@@ -26,13 +26,13 @@
         "keywords": "مطارات سوريا"
     },
     "region": {
-        "id": "305680",
-        "code": "SY-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "305677",
+        "code": "SY-RD",
+        "local_code": "RD",
+        "name": "Rif Dimashq Governorate",
         "continent": "AS",
         "iso_country": "SY",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Rif_Dimashq_Governorate",
+        "keywords": "Airports in Rif Dimashq Governorate"
     }
 }

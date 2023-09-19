@@ -8,7 +8,7 @@
     "elevation_ft": "2407",
     "continent": "AS",
     "iso_country": "SY",
-    "iso_region": "SY-DI",
+    "iso_region": "SY-RD",
     "municipality": "Mezzeh",
     "scheduled_service": "no",
     "gps_code": "OS67",
@@ -50,13 +50,13 @@
         "keywords": "مطارات سوريا"
     },
     "region": {
-        "id": "305666",
-        "code": "SY-DI",
-        "local_code": "DI",
-        "name": "Damascus Governorate",
+        "id": "305677",
+        "code": "SY-RD",
+        "local_code": "RD",
+        "name": "Rif Dimashq Governorate",
         "continent": "AS",
         "iso_country": "SY",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Damascus_Governorate",
-        "keywords": "Airports in Damascus Governorate"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Rif_Dimashq_Governorate",
+        "keywords": "Airports in Rif Dimashq Governorate"
     }
 }
