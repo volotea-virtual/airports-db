@@ -3,8 +3,8 @@
     "ident": "SESV",
     "type": "small_airport",
     "name": "Los Perales Airport",
-    "latitude_deg": "-0.6081110239028931",
-    "longitude_deg": "-80.40270233154297",
+    "latitude_deg": "-0.608111",
+    "longitude_deg": "-80.402702",
     "elevation_ft": "10",
     "continent": "SA",
     "iso_country": "EC",
@@ -15,7 +15,7 @@
     "iata_code": "BHA",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Los_Perales_Airport",
     "keywords": "",
     "runways": [
         {

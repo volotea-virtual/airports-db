@@ -1,0 +1,38 @@
+{
+    "id": "512170",
+    "ident": "NO-0106",
+    "type": "heliport",
+    "name": "Borgund heliport",
+    "latitude_deg": "61.05802",
+    "longitude_deg": "7.81709",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "NO",
+    "iso_region": "NO-46",
+    "municipality": "Lo, Borgund",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302709",
+        "code": "NO",
+        "name": "Norway",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Norway",
+        "keywords": "Flyplasser i Norge"
+    },
+    "region": {
+        "id": "349855",
+        "code": "NO-46",
+        "local_code": "46",
+        "name": "Vestland",
+        "continent": "EU",
+        "iso_country": "NO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Vestland",
+        "keywords": "Airports in Vestland"
+    }
+}
