@@ -10,7 +10,7 @@
     "iso_country": "RO",
     "iso_region": "RO-B",
     "municipality": "Bucharest",
-    "scheduled_service": "no",
+    "scheduled_service": "yes",
     "gps_code": "LRBS",
     "iata_code": "BBU",
     "local_code": "",

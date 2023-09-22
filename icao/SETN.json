@@ -1,10 +1,10 @@
 {
     "id": "6084",
     "ident": "SETN",
-    "type": "small_airport",
-    "name": "General Rivadeneira Airport",
-    "latitude_deg": "0.9785190224647522",
-    "longitude_deg": "-79.62660217285156",
+    "type": "medium_airport",
+    "name": "Carlos Concha Torres International Airport",
+    "latitude_deg": "0.978519",
+    "longitude_deg": "-79.626602",
     "elevation_ft": "32",
     "continent": "SA",
     "iso_country": "EC",
@@ -15,8 +15,8 @@
     "iata_code": "ESM",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
-    "keywords": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Colonel_Carlos_Concha_Torres_Airport",
+    "keywords": "General Rivadeneira",
     "runways": [
         {
             "id": "235505",
