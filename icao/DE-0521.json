@@ -1,0 +1,38 @@
+{
+    "id": "512280",
+    "ident": "DE-0521",
+    "type": "closed",
+    "name": "Thunder Pad / Savage Pad",
+    "latitude_deg": "50.320833",
+    "longitude_deg": "8.748889",
+    "elevation_ft": "492",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-HE",
+    "municipality": "Friedberg",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303552",
+        "code": "DE-HE",
+        "local_code": "HE",
+        "name": "Hesse",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hesse",
+        "keywords": "Hessen"
+    }
+}

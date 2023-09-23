@@ -1,0 +1,38 @@
+{
+    "id": "512269",
+    "ident": "SEEP",
+    "type": "small_airport",
+    "name": "El Piedrero Airport",
+    "latitude_deg": "-2.341612",
+    "longitude_deg": "-79.279642",
+    "elevation_ft": "220",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-F",
+    "municipality": "San Pedro",
+    "scheduled_service": "no",
+    "gps_code": "SEEP",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302794",
+        "code": "EC",
+        "name": "Ecuador",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ecuador",
+        "keywords": "Aeropuertos de Ecuador"
+    },
+    "region": {
+        "id": "303657",
+        "code": "EC-F",
+        "local_code": "F",
+        "name": "Canar Province",
+        "continent": "SA",
+        "iso_country": "EC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canar_Province",
+        "keywords": "Airports in Canar Province"
+    }
+}

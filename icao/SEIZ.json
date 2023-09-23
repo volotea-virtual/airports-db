@@ -1,0 +1,38 @@
+{
+    "id": "512268",
+    "ident": "SEIZ",
+    "type": "small_airport",
+    "name": "Agroazucar Airport",
+    "latitude_deg": "-2.442218",
+    "longitude_deg": "-79.35504",
+    "elevation_ft": "151",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-F",
+    "municipality": "La Troncal",
+    "scheduled_service": "no",
+    "gps_code": "SEIZ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Ingenio Aztra",
+    "country": {
+        "id": "302794",
+        "code": "EC",
+        "name": "Ecuador",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ecuador",
+        "keywords": "Aeropuertos de Ecuador"
+    },
+    "region": {
+        "id": "303657",
+        "code": "EC-F",
+        "local_code": "F",
+        "name": "Canar Province",
+        "continent": "SA",
+        "iso_country": "EC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canar_Province",
+        "keywords": "Airports in Canar Province"
+    }
+}

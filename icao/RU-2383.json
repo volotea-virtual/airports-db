@@ -1,7 +1,7 @@
 {
     "id": "34978",
     "ident": "RU-2383",
-    "type": "closed",
+    "type": "small_airport",
     "name": "Dombarovskiy Air Base",
     "latitude_deg": "50.799999",
     "longitude_deg": "59.516701",
@@ -11,7 +11,7 @@
     "iso_region": "RU-ORE",
     "municipality": "Dombarovskiy",
     "scheduled_service": "no",
-    "gps_code": "",
+    "gps_code": "XWTD",
     "iata_code": "",
     "local_code": "",
     "home_link": "",

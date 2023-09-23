@@ -1,0 +1,38 @@
+{
+    "id": "512273",
+    "ident": "ZEZ4",
+    "type": "small_airport",
+    "name": "Urdzhar East Airport",
+    "latitude_deg": "47.0767",
+    "longitude_deg": "81.7867",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "KZ",
+    "iso_region": "KZ-U-A",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "ZEZ4",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302645",
+        "code": "KZ",
+        "name": "Kazakhstan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kazakhstan",
+        "keywords": "Kazakh"
+    },
+    "region": {
+        "id": "304436",
+        "code": "KZ-U-A",
+        "local_code": "U-A",
+        "name": "(unassigned)",
+        "continent": "AS",
+        "iso_country": "KZ",
+        "wikipedia_link": "",
+        "keywords": "Airports in (unassigned)"
+    }
+}
