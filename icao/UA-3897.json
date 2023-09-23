@@ -1,7 +1,7 @@
 {
     "id": "35016",
     "ident": "UA-3897",
-    "type": "closed",
+    "type": "small_airport",
     "name": "Lebedyn Air Base",
     "latitude_deg": "50.549999",
     "longitude_deg": "34.533298",
@@ -11,7 +11,7 @@
     "iso_region": "UA-59",
     "municipality": "Lebedyn",
     "scheduled_service": "no",
-    "gps_code": "",
+    "gps_code": "UKHN",
     "iata_code": "",
     "local_code": "",
     "home_link": "",

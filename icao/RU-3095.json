@@ -1,7 +1,7 @@
 {
     "id": "35077",
     "ident": "RU-3095",
-    "type": "closed",
+    "type": "small_airport",
     "name": "Shadrinsk Air Base",
     "latitude_deg": "56.039207",
     "longitude_deg": "63.681995",
@@ -11,7 +11,7 @@
     "iso_region": "RU-KGN",
     "municipality": "Shadrinsk",
     "scheduled_service": "no",
-    "gps_code": "",
+    "gps_code": "XSCD",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
