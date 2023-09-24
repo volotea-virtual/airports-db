@@ -3,12 +3,12 @@
     "ident": "SESA",
     "type": "medium_airport",
     "name": "General Ulpiano Paez Airport",
-    "latitude_deg": "-2.20499",
-    "longitude_deg": "-80.988899",
+    "latitude_deg": "-2.210057",
+    "longitude_deg": "-80.985067",
     "elevation_ft": "18",
     "continent": "SA",
     "iso_country": "EC",
-    "iso_region": "EC-G",
+    "iso_region": "EC-25",
     "municipality": "Salinas",
     "scheduled_service": "no",
     "gps_code": "SESA",
@@ -106,14 +106,14 @@
         "keywords": "Aeropuertos de Ecuador"
     },
     "region": {
-        "id": "303658",
-        "code": "EC-G",
-        "local_code": "G",
-        "name": "Guayas Province",
+        "id": "512322",
+        "code": "EC-25",
+        "local_code": "25",
+        "name": "Santa Elena Province",
         "continent": "SA",
         "iso_country": "EC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Guayas_Province",
-        "keywords": "Airports in Guayas Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Elena_Province",
+        "keywords": ""
     },
     "navaids": [
         {

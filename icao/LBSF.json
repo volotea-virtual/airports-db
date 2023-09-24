@@ -3,8 +3,8 @@
     "ident": "LBSF",
     "type": "large_airport",
     "name": "Sofia Airport",
-    "latitude_deg": "42.696693420410156",
-    "longitude_deg": "23.411436080932617",
+    "latitude_deg": "42.696357",
+    "longitude_deg": "23.417671",
     "elevation_ft": "1742",
     "continent": "EU",
     "iso_country": "BG",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "http://sofia-airport.bg",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Sofia_Airport",
-    "keywords": "",
+    "keywords": "Sofia International Airport, Vrazhdebna Air Base",
     "runways": [
         {
             "id": "234415",
