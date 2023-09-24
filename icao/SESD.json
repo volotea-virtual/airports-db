@@ -1,22 +1,22 @@
 {
     "id": "6077",
     "ident": "SESD",
-    "type": "closed",
+    "type": "small_airport",
     "name": "Santo Domingo de Los Colorados Airport",
-    "latitude_deg": "-0.248592",
-    "longitude_deg": "-79.208129",
-    "elevation_ft": "1714",
+    "latitude_deg": "-0.248288",
+    "longitude_deg": "-79.209062",
+    "elevation_ft": "1640",
     "continent": "SA",
     "iso_country": "EC",
-    "iso_region": "EC-P",
+    "iso_region": "EC-26",
     "municipality": "Santo Domingo de Los Colorades",
     "scheduled_service": "no",
-    "gps_code": "",
+    "gps_code": "SESD",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "SESD, SESD",
+    "keywords": "",
     "runways": [
         {
             "id": "235532",
@@ -50,13 +50,13 @@
         "keywords": "Aeropuertos de Ecuador"
     },
     "region": {
-        "id": "303665",
-        "code": "EC-P",
-        "local_code": "P",
-        "name": "Pichincha Province",
+        "id": "512324",
+        "code": "EC-26",
+        "local_code": "26",
+        "name": "Santo Domingo de los Tsáchilas Province",
         "continent": "SA",
         "iso_country": "EC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Pichincha_Province",
-        "keywords": "Airports in Pichincha Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Santo_Domingo_de_los_Ts%C3%A1chilas_Province",
+        "keywords": ""
     }
 }

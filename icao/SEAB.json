@@ -8,7 +8,7 @@
     "elevation_ft": "10",
     "continent": "SA",
     "iso_country": "EC",
-    "iso_region": "EC-G",
+    "iso_region": "EC-25",
     "municipality": "Mar Abierto",
     "scheduled_service": "no",
     "gps_code": "SEAB",
@@ -50,13 +50,13 @@
         "keywords": "Aeropuertos de Ecuador"
     },
     "region": {
-        "id": "303658",
-        "code": "EC-G",
-        "local_code": "G",
-        "name": "Guayas Province",
+        "id": "512322",
+        "code": "EC-25",
+        "local_code": "25",
+        "name": "Santa Elena Province",
         "continent": "SA",
         "iso_country": "EC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Guayas_Province",
-        "keywords": "Airports in Guayas Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Elena_Province",
+        "keywords": ""
     }
 }

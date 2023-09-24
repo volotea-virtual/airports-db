@@ -3,12 +3,12 @@
     "ident": "IT-0540",
     "type": "heliport",
     "name": "Celenza Valfortore Heliport",
-    "latitude_deg": "41.5648318",
-    "longitude_deg": "14.9988173",
+    "latitude_deg": "41.564832",
+    "longitude_deg": "14.998817",
     "elevation_ft": "",
     "continent": "EU",
     "iso_country": "IT",
-    "iso_region": "IT-67",
+    "iso_region": "IT-75",
     "municipality": "",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Aeroporti d'Italia"
     },
     "region": {
-        "id": "306361",
-        "code": "IT-67",
-        "local_code": "67",
-        "name": "Molise",
+        "id": "306371",
+        "code": "IT-75",
+        "local_code": "75",
+        "name": "Apulia",
         "continent": "EU",
         "iso_country": "IT",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Molise",
-        "keywords": "ML"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Apulia",
+        "keywords": "PU"
     }
 }

@@ -1,0 +1,38 @@
+{
+    "id": "512323",
+    "ident": "SEAQ",
+    "type": "small_airport",
+    "name": "Aquapesca Airstrip",
+    "latitude_deg": "-2.496764",
+    "longitude_deg": "-80.552155",
+    "elevation_ft": "49",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-25",
+    "municipality": "Chanduy",
+    "scheduled_service": "no",
+    "gps_code": "SEAQ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302794",
+        "code": "EC",
+        "name": "Ecuador",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ecuador",
+        "keywords": "Aeropuertos de Ecuador"
+    },
+    "region": {
+        "id": "512322",
+        "code": "EC-25",
+        "local_code": "25",
+        "name": "Santa Elena Province",
+        "continent": "SA",
+        "iso_country": "EC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Santa_Elena_Province",
+        "keywords": ""
+    }
+}
