@@ -1,0 +1,62 @@
+{
+    "id": "512369",
+    "ident": "SEZI",
+    "type": "small_airport",
+    "name": "Imatiño Airstrip",
+    "latitude_deg": "-1.918108",
+    "longitude_deg": "-76.625161",
+    "elevation_ft": "714",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-Y",
+    "municipality": "Imatiño",
+    "scheduled_service": "no",
+    "gps_code": "SEZI",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "512370",
+            "airport_ref": "512369",
+            "airport_ident": "SEZI",
+            "length_ft": "1706",
+            "width_ft": "39",
+            "surface": "GRS",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "15",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "33",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302794",
+        "code": "EC",
+        "name": "Ecuador",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ecuador",
+        "keywords": "Aeropuertos de Ecuador"
+    },
+    "region": {
+        "id": "303673",
+        "code": "EC-Y",
+        "local_code": "Y",
+        "name": "Pastaza Province",
+        "continent": "SA",
+        "iso_country": "EC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pastaza_Province",
+        "keywords": "Airports in Pastaza Province"
+    }
+}
