@@ -1,0 +1,62 @@
+{
+    "id": "512419",
+    "ident": "SEBW",
+    "type": "small_airport",
+    "name": "Boanamo Airstrip",
+    "latitude_deg": "-1.260964",
+    "longitude_deg": "-76.387219",
+    "elevation_ft": "860",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-D",
+    "municipality": "Boanamo",
+    "scheduled_service": "no",
+    "gps_code": "SEBW",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "512420",
+            "airport_ref": "512419",
+            "airport_ident": "SEBW",
+            "length_ft": "1558",
+            "width_ft": "49",
+            "surface": "GVL",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "02",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "20",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302794",
+        "code": "EC",
+        "name": "Ecuador",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ecuador",
+        "keywords": "Aeropuertos de Ecuador"
+    },
+    "region": {
+        "id": "303655",
+        "code": "EC-D",
+        "local_code": "D",
+        "name": "Orellana Province",
+        "continent": "SA",
+        "iso_country": "EC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Orellana_Province",
+        "keywords": "Airports in Orellana Province"
+    }
+}

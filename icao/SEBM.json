@@ -1,0 +1,62 @@
+{
+    "id": "512409",
+    "ident": "SEBM",
+    "type": "small_airport",
+    "name": "Brisas del Mar Airstrip.",
+    "latitude_deg": "-2.828381",
+    "longitude_deg": "-80.020884",
+    "elevation_ft": "10",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-G",
+    "municipality": "Isla Puná",
+    "scheduled_service": "no",
+    "gps_code": "SEBM",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "512410",
+            "airport_ref": "512409",
+            "airport_ident": "SEBM",
+            "length_ft": "2297",
+            "width_ft": "49",
+            "surface": "GVL",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "09",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "27",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302794",
+        "code": "EC",
+        "name": "Ecuador",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ecuador",
+        "keywords": "Aeropuertos de Ecuador"
+    },
+    "region": {
+        "id": "303658",
+        "code": "EC-G",
+        "local_code": "G",
+        "name": "Guayas Province",
+        "continent": "SA",
+        "iso_country": "EC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Guayas_Province",
+        "keywords": "Airports in Guayas Province"
+    }
+}
