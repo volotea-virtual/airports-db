@@ -1,0 +1,62 @@
+{
+    "id": "512426",
+    "ident": "SEBZ",
+    "type": "small_airport",
+    "name": "Cumbaratza Airport",
+    "latitude_deg": "-4.018793",
+    "longitude_deg": "-78.887293",
+    "elevation_ft": "2871",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-Z",
+    "municipality": "Cumbaratza",
+    "scheduled_service": "no",
+    "gps_code": "SEBZ",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "512427",
+            "airport_ref": "512426",
+            "airport_ident": "SEBZ",
+            "length_ft": "4659",
+            "width_ft": "75",
+            "surface": "ASP",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302794",
+        "code": "EC",
+        "name": "Ecuador",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ecuador",
+        "keywords": "Aeropuertos de Ecuador"
+    },
+    "region": {
+        "id": "303674",
+        "code": "EC-Z",
+        "local_code": "Z",
+        "name": "Zamora-Chinchipe Province",
+        "continent": "SA",
+        "iso_country": "EC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Zamora-Chinchipe_Province",
+        "keywords": "Airports in Zamora-Chinchipe Province"
+    }
+}
