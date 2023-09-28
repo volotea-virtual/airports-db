@@ -1,0 +1,62 @@
+{
+    "id": "512526",
+    "ident": "SECG",
+    "type": "small_airport",
+    "name": "Chongón Airstrip",
+    "latitude_deg": "-2.230291",
+    "longitude_deg": "-80.054455",
+    "elevation_ft": "36",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-G",
+    "municipality": "Chongón",
+    "scheduled_service": "no",
+    "gps_code": "SECG",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "512527",
+            "airport_ref": "512526",
+            "airport_ident": "SECG",
+            "length_ft": "2297",
+            "width_ft": "39",
+            "surface": "GVL",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "03",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "21",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302794",
+        "code": "EC",
+        "name": "Ecuador",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ecuador",
+        "keywords": "Aeropuertos de Ecuador"
+    },
+    "region": {
+        "id": "303658",
+        "code": "EC-G",
+        "local_code": "G",
+        "name": "Guayas Province",
+        "continent": "SA",
+        "iso_country": "EC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Guayas_Province",
+        "keywords": "Airports in Guayas Province"
+    }
+}
