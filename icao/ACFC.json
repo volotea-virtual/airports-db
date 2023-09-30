@@ -17,6 +17,30 @@
     "home_link": "https://angelesflying.com/",
     "wikipedia_link": "",
     "keywords": "acfc, magalang, pampanga, grassstrip",
+    "runways": [
+        {
+            "id": "512645",
+            "airport_ref": "507217",
+            "airport_ident": "ACFC",
+            "length_ft": "1640",
+            "width_ft": "98",
+            "surface": "Grass",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "08",
+            "le_latitude_deg": "15.15",
+            "le_longitude_deg": "120.4",
+            "le_elevation_ft": "95",
+            "le_heading_degT": "82",
+            "le_displaced_threshold_ft": "550",
+            "he_ident": "26",
+            "he_latitude_deg": "15.15",
+            "he_longitude_deg": "120.4",
+            "he_elevation_ft": "95",
+            "he_heading_degT": "262",
+            "he_displaced_threshold_ft": "32"
+        }
+    ],
     "freqs": [
         {
             "id": "509884",

@@ -1,0 +1,38 @@
+{
+    "id": "512615",
+    "ident": "ES-0336",
+    "type": "heliport",
+    "name": "Parque de Bomberos de Cangas de Onís Heliport",
+    "latitude_deg": "43.35014",
+    "longitude_deg": "-5.11164",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "ES",
+    "iso_region": "ES-AS",
+    "municipality": "Cangas de Onís",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302684",
+        "code": "ES",
+        "name": "Spain",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Spain",
+        "keywords": "Aeropuertos de España"
+    },
+    "region": {
+        "id": "303766",
+        "code": "ES-AS",
+        "local_code": "AS",
+        "name": "Asturias",
+        "continent": "EU",
+        "iso_country": "ES",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Asturias",
+        "keywords": "Airports in Asturias"
+    }
+}
