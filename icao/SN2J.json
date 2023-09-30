@@ -1,0 +1,38 @@
+{
+    "id": "512642",
+    "ident": "SN2J",
+    "type": "small_airport",
+    "name": "Matripar Airport",
+    "latitude_deg": "-10.340769",
+    "longitude_deg": "-57.548432",
+    "elevation_ft": "1319",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-MT",
+    "municipality": "Juara",
+    "scheduled_service": "no",
+    "gps_code": "SN2J",
+    "iata_code": "",
+    "local_code": "MT0939",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303211",
+        "code": "BR-MT",
+        "local_code": "MT",
+        "name": "Mato Grosso",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mato_Grosso",
+        "keywords": "Airports in Mato Grosso"
+    }
+}
