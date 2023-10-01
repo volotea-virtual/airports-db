@@ -1,7 +1,7 @@
 {
     "id": "26459",
     "ident": "VARP",
-    "type": "small_airport",
+    "type": "medium_airport",
     "name": "Swami Vivekananda Airport",
     "latitude_deg": "21.180401",
     "longitude_deg": "81.7388",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "http://aai.aero/allAirports/raipur_generalinfo.jsp",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Swami_Vivekananda_Airport",
-    "keywords": "Mana Airport,Raipur Airport",
+    "keywords": "Mana Airport, Raipur Airport",
     "runways": [
         {
             "id": "236615",
