@@ -3,8 +3,8 @@
     "ident": "IT-0310",
     "type": "small_airport",
     "name": "Campo di Volo \"Avioclub Elice\"",
-    "latitude_deg": "42.490357",
-    "longitude_deg": "13.997202",
+    "latitude_deg": "42.49048",
+    "longitude_deg": "13.995545",
     "elevation_ft": "262",
     "continent": "EU",
     "iso_country": "IT",
@@ -16,7 +16,7 @@
     "local_code": "PEELI",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Avioclub Elice",
+    "keywords": "PE05, Avioclub Elice",
     "runways": [
         {
             "id": "319514",
