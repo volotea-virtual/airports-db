@@ -1,0 +1,38 @@
+{
+    "id": "512784",
+    "ident": "CA-0898",
+    "type": "seaplane_base",
+    "name": "Mayo Water Aerodrome",
+    "latitude_deg": "63.587",
+    "longitude_deg": "-135.863",
+    "elevation_ft": "1699",
+    "continent": "NA",
+    "iso_country": "CA",
+    "iso_region": "CA-YT",
+    "municipality": "Mayo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "EK3",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302730",
+        "code": "CA",
+        "name": "Canada",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canada",
+        "keywords": "Canadian airports"
+    },
+    "region": {
+        "id": "303307",
+        "code": "CA-YT",
+        "local_code": "YT",
+        "name": "Yukon",
+        "continent": "NA",
+        "iso_country": "CA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Yukon_Territory",
+        "keywords": "Airports in Yukon"
+    }
+}
