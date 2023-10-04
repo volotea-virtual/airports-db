@@ -2,9 +2,9 @@
     "id": "875",
     "ident": "CEM4",
     "type": "small_airport",
-    "name": "Innisfail Airport",
-    "latitude_deg": "52.0786018371582",
-    "longitude_deg": "-114.0270004272461",
+    "name": "Big Bend Airport",
+    "latitude_deg": "52.078602",
+    "longitude_deg": "-114.027",
     "elevation_ft": "3017",
     "continent": "NA",
     "iso_country": "CA",
@@ -14,8 +14,8 @@
     "gps_code": "CEM4",
     "iata_code": "",
     "local_code": "CEM4",
-    "home_link": "",
-    "wikipedia_link": "https://en.wikipedia.org/wiki/Innisfail_Airport",
+    "home_link": "https://www.innisfailflyingclub.ca/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Innisfail_Aerodrome",
     "keywords": "EM4",
     "runways": [
         {
