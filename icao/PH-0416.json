@@ -17,6 +17,16 @@
     "home_link": "",
     "wikipedia_link": "",
     "keywords": "",
+    "freqs": [
+        {
+            "id": "512809",
+            "airport_ref": "348303",
+            "airport_ident": "PH-0416",
+            "type": "CTAF",
+            "description": "",
+            "frequency_mhz": "121.9"
+        }
+    ],
     "country": {
         "id": "302656",
         "code": "PH",
