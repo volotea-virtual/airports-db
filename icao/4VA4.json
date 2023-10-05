@@ -1,7 +1,7 @@
 {
     "id": "11768",
     "ident": "4VA4",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Hepner Airport",
     "latitude_deg": "38.934944",
     "longitude_deg": "-78.540337",
@@ -11,12 +11,12 @@
     "iso_region": "US-VA",
     "municipality": "Maurertown",
     "scheduled_service": "no",
-    "gps_code": "4VA4",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "4VA4",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "4VA4",
     "runways": [
         {
             "id": "257607",
