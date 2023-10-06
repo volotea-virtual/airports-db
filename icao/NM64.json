@@ -2,9 +2,9 @@
     "id": "23282",
     "ident": "NM64",
     "type": "small_airport",
-    "name": "Gray Ranch Airport",
-    "latitude_deg": "31.45870018005371",
-    "longitude_deg": "-108.86299896240234",
+    "name": "Diamond A Ranch Airport",
+    "latitude_deg": "31.459365",
+    "longitude_deg": "-108.858383",
     "elevation_ft": "5155",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "NM64",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Gray Ranch",
     "runways": [
         {
             "id": "250257",
