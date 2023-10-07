@@ -1,0 +1,38 @@
+{
+    "id": "512889",
+    "ident": "NO-0107",
+    "type": "heliport",
+    "name": "Gjøvik heliport",
+    "latitude_deg": "60.803812",
+    "longitude_deg": "10.679162",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "NO",
+    "iso_region": "NO-34",
+    "municipality": "",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302709",
+        "code": "NO",
+        "name": "Norway",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Norway",
+        "keywords": "Flyplasser i Norge"
+    },
+    "region": {
+        "id": "349852",
+        "code": "NO-34",
+        "local_code": "34",
+        "name": "Innlandet",
+        "continent": "EU",
+        "iso_country": "NO",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Innlandet",
+        "keywords": "Airports in Innlandet"
+    }
+}

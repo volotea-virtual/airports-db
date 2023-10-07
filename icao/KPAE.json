@@ -2,7 +2,7 @@
     "id": "3763",
     "ident": "KPAE",
     "type": "medium_airport",
-    "name": "Snohomish County (Paine Field) Airport",
+    "name": "Seattle Paine Field International Airport",
     "latitude_deg": "47.9063",
     "longitude_deg": "-122.281998",
     "elevation_ft": "606",
@@ -16,7 +16,7 @@
     "local_code": "PAE",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Paine_Field",
-    "keywords": "",
+    "keywords": "Snohomish County",
     "runways": [
         {
             "id": "245252",
