@@ -2,7 +2,7 @@
     "id": "17026",
     "ident": "CT71",
     "type": "heliport",
-    "name": "Raytheon Technologies Farmington Heliport",
+    "name": "RTX Farmington Heliport",
     "latitude_deg": "41.708928",
     "longitude_deg": "-72.8021",
     "elevation_ft": "362",
@@ -16,7 +16,7 @@
     "local_code": "CT71",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Otis Helistop Division of UTC",
+    "keywords": "Otis Helistop Division of UTC, Raytheon Technologies",
     "runways": [
         {
             "id": "267389",

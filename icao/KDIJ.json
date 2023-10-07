@@ -2,9 +2,9 @@
     "id": "19629",
     "ident": "KDIJ",
     "type": "small_airport",
-    "name": "Driggs Reed Memorial Airport",
-    "latitude_deg": "43.742401",
-    "longitude_deg": "-111.098",
+    "name": "Driggs/Reed Memorial Airport",
+    "latitude_deg": "43.742667",
+    "longitude_deg": "-111.096829",
     "elevation_ft": "6229",
     "continent": "NA",
     "iso_country": "US",
@@ -14,8 +14,8 @@
     "gps_code": "KDIJ",
     "iata_code": "",
     "local_code": "DIJ",
-    "home_link": "",
-    "wikipedia_link": "",
+    "home_link": "https://driggsairport.org/",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Driggs%E2%80%93Reed_Memorial_Airport",
     "keywords": "U59",
     "runways": [
         {
