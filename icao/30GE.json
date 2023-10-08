@@ -1,0 +1,62 @@
+{
+    "id": "512957",
+    "ident": "30GE",
+    "type": "small_airport",
+    "name": "Papas Place Airport",
+    "latitude_deg": "34.194029",
+    "longitude_deg": "-83.194601",
+    "elevation_ft": "720",
+    "continent": "NA",
+    "iso_country": "US",
+    "iso_region": "US-GA",
+    "municipality": "Danielsville",
+    "scheduled_service": "no",
+    "gps_code": "30GE",
+    "iata_code": "",
+    "local_code": "30GE",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "512958",
+            "airport_ref": "512957",
+            "airport_ident": "30GE",
+            "length_ft": "2150",
+            "width_ft": "65",
+            "surface": "Turf",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302755",
+        "code": "US",
+        "name": "United States",
+        "continent": "NA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/United_States",
+        "keywords": "American airports"
+    },
+    "region": {
+        "id": "306086",
+        "code": "US-GA",
+        "local_code": "GA",
+        "name": "Georgia",
+        "continent": "NA",
+        "iso_country": "US",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Georgia",
+        "keywords": "Airports in Georgia"
+    }
+}
