@@ -69,16 +69,16 @@
             "airport_ref": "29157",
             "airport_ident": "EGLD",
             "type": "A/G",
-            "description": "Denham A/G",
-            "frequency_mhz": "130.725"
+            "description": "Denham Radio",
+            "frequency_mhz": "130.73"
         },
         {
             "id": "71920",
             "airport_ref": "29157",
             "airport_ident": "EGLD",
             "type": "AFIS",
-            "description": "Denham AFIS",
-            "frequency_mhz": "130.725"
+            "description": "Denham Radio",
+            "frequency_mhz": "130.73"
         }
     ],
     "country": {

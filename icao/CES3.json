@@ -3,8 +3,8 @@
     "ident": "CES3",
     "type": "heliport",
     "name": "Edmonton / St. Albert (Delta Helicopters) Heliport",
-    "latitude_deg": "53.686694360500006",
-    "longitude_deg": "-113.687338829",
+    "latitude_deg": "53.68662",
+    "longitude_deg": "-113.687192",
     "elevation_ft": "2265",
     "continent": "NA",
     "iso_country": "CA",
@@ -16,7 +16,7 @@
     "local_code": "CES3",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/List_of_heliports_in_Canada#55",
-    "keywords": "ES3, St. Albert",
+    "keywords": "",
     "runways": [
         {
             "id": "247030",
