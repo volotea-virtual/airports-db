@@ -2,7 +2,7 @@
     "id": "18472",
     "ident": "K1H3",
     "type": "small_airport",
-    "name": "Linn State Technical College Airport",
+    "name": "State Technical College of Missouri Airport",
     "latitude_deg": "38.471583",
     "longitude_deg": "-91.817293",
     "elevation_ft": "952",
@@ -14,7 +14,7 @@
     "gps_code": "K1H3",
     "iata_code": "",
     "local_code": "1H3",
-    "home_link": "",
+    "home_link": "https://statetechmo.edu/program/aviation-maintenance/",
     "wikipedia_link": "",
     "keywords": "",
     "runways": [

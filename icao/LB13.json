@@ -2,7 +2,7 @@
     "id": "81",
     "ident": "LB13",
     "type": "small_airport",
-    "name": "Sofia West Airfield",
+    "name": "Sofia West Airport",
     "latitude_deg": "42.444199",
     "longitude_deg": "22.9835",
     "elevation_ft": "2097",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "https://www.sofiawestairport.bg/en/",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Dren",
     "runways": [
         {
             "id": "234390",
