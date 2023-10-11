@@ -9,14 +9,14 @@
     "continent": "SA",
     "iso_country": "BR",
     "iso_region": "BR-MT",
-    "municipality": "SWYX",
+    "municipality": "Gaúcha do Norte",
     "scheduled_service": "no",
-    "gps_code": "SWYX",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "SWYX",
+    "local_code": "MT0441",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SWYX",
     "runways": [
         {
             "id": "310849",
