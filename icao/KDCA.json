@@ -87,52 +87,84 @@
     ],
     "freqs": [
         {
-            "id": "61722",
+            "id": "513208",
             "airport_ref": "3483",
             "airport_ident": "KDCA",
             "type": "APP",
-            "description": "POTOMAC APP",
-            "frequency_mhz": "118.3"
+            "description": "",
+            "frequency_mhz": "119.85"
         },
         {
-            "id": "61723",
+            "id": "513209",
             "airport_ref": "3483",
             "airport_ident": "KDCA",
-            "type": "ATIS",
-            "description": "ATIS",
-            "frequency_mhz": "132.65"
+            "type": "APP",
+            "description": "",
+            "frequency_mhz": "124.2"
         },
         {
-            "id": "61724",
+            "id": "513212",
             "airport_ref": "3483",
             "airport_ident": "KDCA",
-            "type": "CLD",
-            "description": "CLNC DEL",
+            "type": "CLRD",
+            "description": "",
             "frequency_mhz": "128.25"
         },
         {
-            "id": "61725",
+            "id": "513210",
             "airport_ref": "3483",
             "airport_ident": "KDCA",
             "type": "DEP",
-            "description": "POTOMAC DEP",
+            "description": "",
             "frequency_mhz": "118.95"
         },
         {
-            "id": "61726",
+            "id": "513211",
+            "airport_ref": "3483",
+            "airport_ident": "KDCA",
+            "type": "DEP",
+            "description": "",
+            "frequency_mhz": "125.65"
+        },
+        {
+            "id": "513203",
             "airport_ref": "3483",
             "airport_ident": "KDCA",
             "type": "GND",
-            "description": "GND",
+            "description": "Washington Ground",
             "frequency_mhz": "121.7"
         },
         {
-            "id": "61727",
+            "id": "513205",
+            "airport_ref": "3483",
+            "airport_ident": "KDCA",
+            "type": "GND",
+            "description": "",
+            "frequency_mhz": "257.6"
+        },
+        {
+            "id": "513204",
             "airport_ref": "3483",
             "airport_ident": "KDCA",
             "type": "TWR",
-            "description": "WASHINGTON TWR",
+            "description": "Washington Tower",
             "frequency_mhz": "119.1"
+        },
+        {
+            "id": "513206",
+            "airport_ref": "3483",
+            "airport_ident": "KDCA",
+            "type": "TWR",
+            "description": "",
+            "frequency_mhz": "134.35"
+        },
+        {
+            "id": "513207",
+            "airport_ref": "3483",
+            "airport_ident": "KDCA",
+            "type": "TWR",
+            "description": "Washington Tower ;Helicopters",
+            "frequency_mhz": "257.6"
         },
         {
             "id": "61728",
@@ -141,6 +173,14 @@
             "type": "UNIC",
             "description": "UNICOM",
             "frequency_mhz": "122.95"
+        },
+        {
+            "id": "513202",
+            "airport_ref": "3483",
+            "airport_ident": "KDCA",
+            "type": "WXAS",
+            "description": "WX ASOS: (703-418-1177)",
+            "frequency_mhz": "132.65"
         }
     ],
     "country": {
