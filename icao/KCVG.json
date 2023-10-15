@@ -113,7 +113,7 @@
             "airport_ref": "3471",
             "airport_ident": "KCVG",
             "type": "APP",
-            "description": "APP 090-269°",
+            "description": "Cincinnati Approach 090-269°",
             "frequency_mhz": "119.7"
         },
         {
@@ -121,15 +121,23 @@
             "airport_ref": "3471",
             "airport_ident": "KCVG",
             "type": "APP",
-            "description": "270-089°",
+            "description": "Cincinnati Approach 270-089°",
             "frequency_mhz": "123.875"
+        },
+        {
+            "id": "513213",
+            "airport_ref": "3471",
+            "airport_ident": "KCVG",
+            "type": "APP",
+            "description": "Cincinnati Approach UHF",
+            "frequency_mhz": "363.15"
         },
         {
             "id": "60817",
             "airport_ref": "3471",
             "airport_ident": "KCVG",
             "type": "ATIS",
-            "description": "ATIS ARR",
+            "description": "Cincinnati D-ATIS ARR",
             "frequency_mhz": "134.375"
         },
         {
@@ -137,7 +145,7 @@
             "airport_ref": "3471",
             "airport_ident": "KCVG",
             "type": "ATIS",
-            "description": "ATIS DEP",
+            "description": "Cincinnati D-ATIS DEP",
             "frequency_mhz": "135.3"
         },
         {
@@ -145,15 +153,39 @@
             "airport_ref": "3471",
             "airport_ident": "KCVG",
             "type": "CLD",
-            "description": "CLNC DEL",
+            "description": "Clearance Delivery",
             "frequency_mhz": "127.175"
+        },
+        {
+            "id": "513217",
+            "airport_ref": "3471",
+            "airport_ident": "KCVG",
+            "type": "CLSB",
+            "description": "Cincinnati Class B 001-180°",
+            "frequency_mhz": "121"
+        },
+        {
+            "id": "513218",
+            "airport_ref": "3471",
+            "airport_ident": "KCVG",
+            "type": "CLSB",
+            "description": "Cincinnati Class B 181-360°",
+            "frequency_mhz": "128.7"
+        },
+        {
+            "id": "513219",
+            "airport_ref": "3471",
+            "airport_ident": "KCVG",
+            "type": "CLSB",
+            "description": "Cincinnati Class B UHF",
+            "frequency_mhz": "254.25"
         },
         {
             "id": "60819",
             "airport_ref": "3471",
             "airport_ident": "KCVG",
             "type": "DEP",
-            "description": "DEP 001-180°",
+            "description": "Cincinnati Departure 001-180°",
             "frequency_mhz": "126.65"
         },
         {
@@ -161,31 +193,127 @@
             "airport_ref": "3471",
             "airport_ident": "KCVG",
             "type": "DEP",
-            "description": "181-360°",
+            "description": "Cincinnati Departure 181-360°",
             "frequency_mhz": "128.7"
+        },
+        {
+            "id": "513214",
+            "airport_ref": "3471",
+            "airport_ident": "KCVG",
+            "type": "DEP",
+            "description": "Cincinnati Departure UHF",
+            "frequency_mhz": "254.25"
+        },
+        {
+            "id": "513220",
+            "airport_ref": "3471",
+            "airport_ident": "KCVG",
+            "type": "EMERG",
+            "description": "Emergancy",
+            "frequency_mhz": "121.5"
+        },
+        {
+            "id": "513221",
+            "airport_ref": "3471",
+            "airport_ident": "KCVG",
+            "type": "EMERG",
+            "description": "Emergancy",
+            "frequency_mhz": "243"
         },
         {
             "id": "60820",
             "airport_ref": "3471",
             "airport_ident": "KCVG",
             "type": "GND",
-            "description": "GND",
+            "description": "Cincinnati Ground",
             "frequency_mhz": "121.7"
         },
         {
-            "id": "60821",
+            "id": "513222",
             "airport_ref": "3471",
             "airport_ident": "KCVG",
-            "type": "RDO",
-            "description": "LOUISVILLE RDO",
-            "frequency_mhz": "117.3"
+            "type": "STAR",
+            "description": "SHELBYVILLE STAR 090°-269°",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "513225",
+            "airport_ref": "3471",
+            "airport_ident": "KCVG",
+            "type": "STAR",
+            "description": "HARDU STAR 090°-269°",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "513228",
+            "airport_ref": "3471",
+            "airport_ident": "KCVG",
+            "type": "STAR",
+            "description": "Jakie Star",
+            "frequency_mhz": "119.7"
+        },
+        {
+            "id": "513223",
+            "airport_ref": "3471",
+            "airport_ident": "KCVG",
+            "type": "STAR",
+            "description": "SHELBYVILLE STAR 270°-089°",
+            "frequency_mhz": "123.875"
+        },
+        {
+            "id": "513226",
+            "airport_ref": "3471",
+            "airport_ident": "KCVG",
+            "type": "STAR",
+            "description": "HARDU STAR 270°-089°",
+            "frequency_mhz": "123.875"
+        },
+        {
+            "id": "513233",
+            "airport_ref": "3471",
+            "airport_ident": "KCVG",
+            "type": "STAR",
+            "description": "CINCE STAR",
+            "frequency_mhz": "123.875"
+        },
+        {
+            "id": "513232",
+            "airport_ref": "3471",
+            "airport_ident": "KCVG",
+            "type": "STAR",
+            "description": "JAKIE STAR UHF",
+            "frequency_mhz": "254.25"
+        },
+        {
+            "id": "513234",
+            "airport_ref": "3471",
+            "airport_ident": "KCVG",
+            "type": "STAR",
+            "description": "CINCE STAR UHF",
+            "frequency_mhz": "254.25"
+        },
+        {
+            "id": "513224",
+            "airport_ref": "3471",
+            "airport_ident": "KCVG",
+            "type": "STAR",
+            "description": "SHELBYVILLE STAR UHF",
+            "frequency_mhz": "363.15"
+        },
+        {
+            "id": "513227",
+            "airport_ref": "3471",
+            "airport_ident": "KCVG",
+            "type": "STAR",
+            "description": "HARDU STAR UHF",
+            "frequency_mhz": "363.15"
         },
         {
             "id": "60822",
             "airport_ref": "3471",
             "airport_ident": "KCVG",
             "type": "TWR",
-            "description": "TWR RWY 09-27",
+            "description": "Cincinnati Tower Runway 09-27 & 18C-36C",
             "frequency_mhz": "118.3"
         },
         {
@@ -193,7 +321,7 @@
             "airport_ref": "3471",
             "airport_ident": "KCVG",
             "type": "TWR",
-            "description": "RWAY 18-36R",
+            "description": "Cincinnati Tower Runway 18L-36R",
             "frequency_mhz": "118.975"
         },
         {
@@ -201,8 +329,16 @@
             "airport_ref": "3471",
             "airport_ident": "KCVG",
             "type": "TWR",
-            "description": "RWAY 18-36L",
+            "description": "Cincinnati Tower Runway 18R-36L",
             "frequency_mhz": "133.325"
+        },
+        {
+            "id": "513215",
+            "airport_ref": "3471",
+            "airport_ident": "KCVG",
+            "type": "TWR",
+            "description": "Cincinnati Tower Runway 18L-36R",
+            "frequency_mhz": "360.85"
         },
         {
             "id": "60823",
@@ -211,6 +347,14 @@
             "type": "UNIC",
             "description": "UNICOM",
             "frequency_mhz": "122.95"
+        },
+        {
+            "id": "513216",
+            "airport_ref": "3471",
+            "airport_ident": "KCVG",
+            "type": "WXAS",
+            "description": "WX ASOS: (859-767-8210)",
+            "frequency_mhz": "134.375"
         }
     ],
     "country": {
