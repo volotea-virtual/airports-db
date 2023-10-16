@@ -86,7 +86,7 @@
             "airport_ident": "LEPA",
             "type": "CLD",
             "description": "CLNC DEL",
-            "frequency_mhz": "121.6"
+            "frequency_mhz": "123.88"
         },
         {
             "id": "57309",
@@ -94,7 +94,7 @@
             "airport_ident": "LEPA",
             "type": "GND",
             "description": "GND",
-            "frequency_mhz": "121.7"
+            "frequency_mhz": "121.705"
         },
         {
             "id": "57310",
@@ -110,7 +110,7 @@
             "airport_ident": "LEPA",
             "type": "TWR",
             "description": "TWR",
-            "frequency_mhz": "118.3"
+            "frequency_mhz": "118.305"
         }
     ],
     "country": {
