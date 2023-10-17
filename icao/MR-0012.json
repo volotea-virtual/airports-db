@@ -1,0 +1,38 @@
+{
+    "id": "513281",
+    "ident": "MR-0012",
+    "type": "small_airport",
+    "name": "Chegga Airport",
+    "latitude_deg": "25.365756",
+    "longitude_deg": "-5.74055",
+    "elevation_ft": "1291",
+    "continent": "AF",
+    "iso_country": "MR",
+    "iso_region": "MR-11",
+    "municipality": "Chegga",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302587",
+        "code": "MR",
+        "name": "Mauritania",
+        "continent": "AF",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Mauritania",
+        "keywords": "مطارات موريتانيا"
+    },
+    "region": {
+        "id": "304717",
+        "code": "MR-11",
+        "local_code": "11",
+        "name": "Tiris Zemmour Region",
+        "continent": "AF",
+        "iso_country": "MR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Tiris_Zemmour_Region",
+        "keywords": "Airports in Tiris Zemmour Region"
+    }
+}
