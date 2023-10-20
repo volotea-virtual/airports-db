@@ -81,6 +81,22 @@
             "frequency_mhz": "127.65"
         },
         {
+            "id": "513410",
+            "airport_ref": "27201",
+            "airport_ident": "ZJHK",
+            "type": "ATIS DEP",
+            "description": "HAIKOU ATIS",
+            "frequency_mhz": "126.625"
+        },
+        {
+            "id": "513409",
+            "airport_ref": "27201",
+            "airport_ident": "ZJHK",
+            "type": "DCL",
+            "description": "HAIKOU DELIVERY",
+            "frequency_mhz": "121.9"
+        },
+        {
             "id": "51161",
             "airport_ref": "27201",
             "airport_ident": "ZJHK",
@@ -94,7 +110,15 @@
             "airport_ident": "ZJHK",
             "type": "TWR",
             "description": "HAIKOU TWR",
-            "frequency_mhz": "118.6"
+            "frequency_mhz": "118.225"
+        },
+        {
+            "id": "513408",
+            "airport_ref": "27201",
+            "airport_ident": "ZJHK",
+            "type": "TWR",
+            "description": "HAIKOU TWR",
+            "frequency_mhz": "118.55"
         }
     ],
     "country": {
