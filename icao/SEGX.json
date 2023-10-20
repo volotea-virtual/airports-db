@@ -1,0 +1,62 @@
+{
+    "id": "513429",
+    "ident": "SEGX",
+    "type": "heliport",
+    "name": "Alpagro Heliport",
+    "latitude_deg": "-2.087116",
+    "longitude_deg": "-79.688834",
+    "elevation_ft": "16",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-G",
+    "municipality": "Guayas",
+    "scheduled_service": "no",
+    "gps_code": "SEGX",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "513430",
+            "airport_ref": "513429",
+            "airport_ident": "SEGX",
+            "length_ft": "39",
+            "width_ft": "39",
+            "surface": "CON",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "14",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "32",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302794",
+        "code": "EC",
+        "name": "Ecuador",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ecuador",
+        "keywords": "Aeropuertos de Ecuador"
+    },
+    "region": {
+        "id": "303658",
+        "code": "EC-G",
+        "local_code": "G",
+        "name": "Guayas Province",
+        "continent": "SA",
+        "iso_country": "EC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Guayas_Province",
+        "keywords": "Airports in Guayas Province"
+    }
+}

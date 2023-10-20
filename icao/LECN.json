@@ -3,10 +3,10 @@
     "ident": "LECN",
     "type": "small_airport",
     "name": "Castellon de la Plana Aerodrome",
-    "latitude_deg": "39.999199",
-    "longitude_deg": "0.026111",
+    "latitude_deg": "39.99836",
+    "longitude_deg": "0.026355",
     "elevation_ft": "20",
-    "continent": "EU",
+    "continent": "AF",
     "iso_country": "ES",
     "iso_region": "ES-VC",
     "municipality": "Castellón de la Plana",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "http://aeroclubcastellon.com",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Castell%C3%B3n_Airport",
-    "keywords": "",
+    "keywords": "CDT",
     "runways": [
         {
             "id": "259863",

@@ -3,8 +3,8 @@
     "ident": "SEGZ",
     "type": "small_airport",
     "name": "Gualaquiza Airport",
-    "latitude_deg": "-3.4232099056243896",
-    "longitude_deg": "-78.56700134277344",
+    "latitude_deg": "-3.42321",
+    "longitude_deg": "-78.567001",
     "elevation_ft": "2640",
     "continent": "SA",
     "iso_country": "EC",
@@ -15,7 +15,7 @@
     "iata_code": "",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Gualaquiza_Airport",
     "keywords": "",
     "runways": [
         {
