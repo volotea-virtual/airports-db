@@ -1,0 +1,62 @@
+{
+    "id": "513482",
+    "ident": "VDSA",
+    "type": "large_airport",
+    "name": "Siem Reap-Angkor International Airport",
+    "latitude_deg": "13.369167",
+    "longitude_deg": "104.223056",
+    "elevation_ft": "191",
+    "continent": "AS",
+    "iso_country": "KH",
+    "iso_region": "KH-17",
+    "municipality": "Siem Reap",
+    "scheduled_service": "yes",
+    "gps_code": "VDSA",
+    "iata_code": "SAI",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Siem_Reap–Angkor_International_Airport",
+    "keywords": "",
+    "runways": [
+        {
+            "id": "513483",
+            "airport_ref": "513482",
+            "airport_ident": "VDSA",
+            "length_ft": "11827",
+            "width_ft": "197",
+            "surface": "CONC",
+            "lighted": "0",
+            "closed": "0",
+            "le_ident": "05",
+            "le_latitude_deg": "",
+            "le_longitude_deg": "",
+            "le_elevation_ft": "",
+            "le_heading_degT": "",
+            "le_displaced_threshold_ft": "",
+            "he_ident": "23",
+            "he_latitude_deg": "",
+            "he_longitude_deg": "",
+            "he_elevation_ft": "",
+            "he_heading_degT": "",
+            "he_displaced_threshold_ft": ""
+        }
+    ],
+    "country": {
+        "id": "302641",
+        "code": "KH",
+        "name": "Cambodia",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cambodia",
+        "keywords": "Cambodian airports"
+    },
+    "region": {
+        "id": "304360",
+        "code": "KH-17",
+        "local_code": "17",
+        "name": "Siem Reap province",
+        "continent": "AS",
+        "iso_country": "KH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Siem_Reap_province",
+        "keywords": "Airports in Siem Reab, សៀមរាប"
+    }
+}
