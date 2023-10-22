@@ -1,0 +1,38 @@
+{
+    "id": "513511",
+    "ident": "EC-0059",
+    "type": "heliport",
+    "name": "León Becerra Hospital Heliport",
+    "latitude_deg": "-2.12665",
+    "longitude_deg": "-79.58841",
+    "elevation_ft": "36",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-G",
+    "municipality": "Milagro",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302794",
+        "code": "EC",
+        "name": "Ecuador",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ecuador",
+        "keywords": "Aeropuertos de Ecuador"
+    },
+    "region": {
+        "id": "303658",
+        "code": "EC-G",
+        "local_code": "G",
+        "name": "Guayas Province",
+        "continent": "SA",
+        "iso_country": "EC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Guayas_Province",
+        "keywords": "Airports in Guayas Province"
+    }
+}
