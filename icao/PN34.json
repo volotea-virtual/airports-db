@@ -2,9 +2,9 @@
     "id": "45752",
     "ident": "PN34",
     "type": "heliport",
-    "name": "Keystone Heliplex Heliport",
-    "latitude_deg": "39.978028",
-    "longitude_deg": "-75.882361",
+    "name": "Piasecki Heliplex Heliport",
+    "latitude_deg": "39.978737",
+    "longitude_deg": "-75.87994",
     "elevation_ft": "642",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "PN34",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Keystone",
     "runways": [
         {
             "id": "264694",

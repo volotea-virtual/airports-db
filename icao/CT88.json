@@ -1,7 +1,7 @@
 {
     "id": "17042",
     "ident": "CT88",
-    "type": "heliport",
+    "type": "closed",
     "name": "Rentschler Heliport",
     "latitude_deg": "41.7517",
     "longitude_deg": "-72.6253",
@@ -11,12 +11,12 @@
     "iso_region": "US-CT",
     "municipality": "East Hartford",
     "scheduled_service": "no",
-    "gps_code": "CT88",
-    "iata_code": "EHT",
-    "local_code": "CT88",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Rentschler_Heliport",
-    "keywords": "",
+    "keywords": "EHT, CT88",
     "runways": [
         {
             "id": "267398",

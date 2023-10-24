@@ -2,9 +2,9 @@
     "id": "14037",
     "ident": "7A7",
     "type": "heliport",
-    "name": "Mosby Army Heliport",
-    "latitude_deg": "34.626399993896484",
-    "longitude_deg": "-84.10639953613281",
+    "name": "Merrill Army Heliport",
+    "latitude_deg": "34.626225",
+    "longitude_deg": "-84.106066",
     "elevation_ft": "1748",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "7A7",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Mosby",
     "runways": [
         {
             "id": "266422",
