@@ -1,7 +1,7 @@
 {
     "id": "15603",
     "ident": "99F",
-    "type": "small_airport",
+    "type": "closed",
     "name": "El Reno Airport",
     "latitude_deg": "35.518499",
     "longitude_deg": "-97.97689",
@@ -11,12 +11,12 @@
     "iso_region": "US-OK",
     "municipality": "El Reno",
     "scheduled_service": "no",
-    "gps_code": "K99F",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "99F",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "99F",
     "runways": [
         {
             "id": "251800",
