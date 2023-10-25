@@ -2,7 +2,7 @@
     "id": "28138",
     "ident": "LOWZ",
     "type": "small_airport",
-    "name": "Flugplatz Zell am See",
+    "name": "Zell am See Airport",
     "latitude_deg": "47.291468",
     "longitude_deg": "12.790632",
     "elevation_ft": "2470",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "http://www.flugplatz-zellamsee.at/",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Flugplatz Zell am See",
     "runways": [
         {
             "id": "255242",
