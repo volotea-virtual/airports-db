@@ -43,11 +43,27 @@
     ],
     "freqs": [
         {
+            "id": "513715",
+            "airport_ref": "4354",
+            "airport_ident": "LIPE",
+            "type": "APP EAST",
+            "description": "Approach East",
+            "frequency_mhz": "118.15"
+        },
+        {
+            "id": "513716",
+            "airport_ref": "4354",
+            "airport_ident": "LIPE",
+            "type": "APP WEST",
+            "description": "Approach West",
+            "frequency_mhz": "133.775"
+        },
+        {
             "id": "54286",
             "airport_ref": "4354",
             "airport_ident": "LIPE",
-            "type": "APP",
-            "description": "APP",
+            "type": "APP WEST D",
+            "description": "Approach West Discretional",
             "frequency_mhz": "120.1"
         },
         {
@@ -64,7 +80,7 @@
             "airport_ident": "LIPE",
             "type": "GND",
             "description": "GND",
-            "frequency_mhz": "129.925"
+            "frequency_mhz": "121.925"
         },
         {
             "id": "54289",
@@ -73,6 +89,14 @@
             "type": "TWR",
             "description": "TWR",
             "frequency_mhz": "120.8"
+        },
+        {
+            "id": "513713",
+            "airport_ref": "4354",
+            "airport_ident": "LIPE",
+            "type": "TWR D",
+            "description": "Tower Discretional",
+            "frequency_mhz": "120.1"
         }
     ],
     "country": {
