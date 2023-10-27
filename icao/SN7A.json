@@ -1,0 +1,38 @@
+{
+    "id": "513762",
+    "ident": "SN7A",
+    "type": "heliport",
+    "name": "Fazenda Nova Era Heliport",
+    "latitude_deg": "-16.082222",
+    "longitude_deg": "-50.061667",
+    "elevation_ft": "2503",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-GO",
+    "municipality": "Mossâmedes",
+    "scheduled_service": "no",
+    "gps_code": "SN7A",
+    "iata_code": "",
+    "local_code": "GO0370",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303207",
+        "code": "BR-GO",
+        "local_code": "GO",
+        "name": "Goiás",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Goiás",
+        "keywords": "Airports in Goiás"
+    }
+}

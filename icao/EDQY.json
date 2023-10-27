@@ -2,7 +2,7 @@
     "id": "28545",
     "ident": "EDQY",
     "type": "small_airport",
-    "name": "Flugplatz Coburg-Steinrücken",
+    "name": "Coburg-Steinrücken Airport",
     "latitude_deg": "50.230556",
     "longitude_deg": "10.995833",
     "elevation_ft": "1184",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Flugplatz Coburg-Steinrücken",
     "runways": [
         {
             "id": "317896",

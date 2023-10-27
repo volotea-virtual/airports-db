@@ -1,0 +1,38 @@
+{
+    "id": "513741",
+    "ident": "IR-0161",
+    "type": "medium_airport",
+    "name": "Oghab 44 Airbase",
+    "latitude_deg": "28.04816",
+    "longitude_deg": "55.521791",
+    "elevation_ft": "",
+    "continent": "AS",
+    "iso_country": "IR",
+    "iso_region": "IR-22",
+    "municipality": "Tarom Rural District",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Oghab_44",
+    "keywords": "",
+    "country": {
+        "id": "302637",
+        "code": "IR",
+        "name": "Iran",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Iran",
+        "keywords": "فرودگاه های ایران"
+    },
+    "region": {
+        "id": "304240",
+        "code": "IR-22",
+        "local_code": "22",
+        "name": "Hormozgan Province",
+        "continent": "AS",
+        "iso_country": "IR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hormozgan_Province",
+        "keywords": "Airports in Hormozgan Province"
+    }
+}
