@@ -1,0 +1,38 @@
+{
+    "id": "513766",
+    "ident": "SJV2",
+    "type": "small_airport",
+    "name": "Fazenda Recanto do Lago Airstrip",
+    "latitude_deg": "-15.193333",
+    "longitude_deg": "-51.580833",
+    "elevation_ft": "906",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-GO",
+    "municipality": "Jussara",
+    "scheduled_service": "no",
+    "gps_code": "SJV2",
+    "iata_code": "",
+    "local_code": "GO0369",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303207",
+        "code": "BR-GO",
+        "local_code": "GO",
+        "name": "Goiás",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Goiás",
+        "keywords": "Airports in Goiás"
+    }
+}
