@@ -1,0 +1,38 @@
+{
+    "id": "513861",
+    "ident": "MT-0007",
+    "type": "heliport",
+    "name": "Comino Heliport",
+    "latitude_deg": "36.01007",
+    "longitude_deg": "14.347306",
+    "elevation_ft": "213",
+    "continent": "EU",
+    "iso_country": "MT",
+    "iso_region": "MT-13",
+    "municipality": "Comino",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "JCO",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Kemmuna",
+    "country": {
+        "id": "302707",
+        "code": "MT",
+        "name": "Malta",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Malta",
+        "keywords": ""
+    },
+    "region": {
+        "id": "306810",
+        "code": "MT-13",
+        "local_code": "13",
+        "name": "Għajnsielem",
+        "continent": "EU",
+        "iso_country": "MT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/G%C4%A7ajnsielem",
+        "keywords": "Airports in Għajnsielem"
+    }
+}

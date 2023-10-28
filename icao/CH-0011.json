@@ -1,0 +1,38 @@
+{
+    "id": "513826",
+    "ident": "CH-0011",
+    "type": "heliport",
+    "name": "Zürich Triemli City Hospital Helipad",
+    "latitude_deg": "47.36657",
+    "longitude_deg": "8.497474",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "CH",
+    "iso_region": "CH-ZH",
+    "municipality": "Zürich",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302679",
+        "code": "CH",
+        "name": "Switzerland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Switzerland",
+        "keywords": "Aéroports de la Suisse,Flughäfen der Schweiz"
+    },
+    "region": {
+        "id": "303378",
+        "code": "CH-ZH",
+        "local_code": "ZH",
+        "name": "Canton of Zurich",
+        "continent": "EU",
+        "iso_country": "CH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Zurich",
+        "keywords": "Airports in Canton of Zurich"
+    }
+}

@@ -2,14 +2,14 @@
     "id": "332670",
     "ident": "NL-0057",
     "type": "closed",
-    "name": "Vliegveld B.84 De Rips",
+    "name": "De Rips Airfield B.84",
     "latitude_deg": "51.557778",
     "longitude_deg": "5.759167",
     "elevation_ft": "",
     "continent": "EU",
     "iso_country": "NL",
-    "iso_region": "NL-U-A",
-    "municipality": "",
+    "iso_region": "NL-NB",
+    "municipality": "Gemert-Bakel",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Holland, Luchthavens van Nederland, Dutch airports"
     },
     "region": {
-        "id": "304941",
-        "code": "NL-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "304938",
+        "code": "NL-NB",
+        "local_code": "NB",
+        "name": "Noord-Brabant",
         "continent": "EU",
         "iso_country": "NL",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Noord-Brabant",
+        "keywords": "Airports in Noord-Brabant"
     }
 }

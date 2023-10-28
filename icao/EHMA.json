@@ -8,8 +8,8 @@
     "elevation_ft": "",
     "continent": "EU",
     "iso_country": "NL",
-    "iso_region": "NL-U-A",
-    "municipality": "",
+    "iso_region": "NL-FR",
+    "municipality": "Buren",
     "scheduled_service": "no",
     "gps_code": "EHMA",
     "iata_code": "",
@@ -26,13 +26,13 @@
         "keywords": "Holland, Luchthavens van Nederland, Dutch airports"
     },
     "region": {
-        "id": "304941",
-        "code": "NL-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "304934",
+        "code": "NL-FR",
+        "local_code": "FR",
+        "name": "Friesland",
         "continent": "EU",
         "iso_country": "NL",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Friesland",
+        "keywords": "Airports in Friesland"
     }
 }

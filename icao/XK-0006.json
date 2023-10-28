@@ -1,0 +1,38 @@
+{
+    "id": "513808",
+    "ident": "XK-0006",
+    "type": "heliport",
+    "name": "KFOR Headquarters Heliport",
+    "latitude_deg": "42.664529",
+    "longitude_deg": "21.141505",
+    "elevation_ft": "2113",
+    "continent": "EU",
+    "iso_country": "XK",
+    "iso_region": "XK-01",
+    "municipality": "Pristina",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302720",
+        "code": "XK",
+        "name": "Kosovo",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kosovo",
+        "keywords": "Kosova"
+    },
+    "region": {
+        "id": "317196",
+        "code": "XK-01",
+        "local_code": "01",
+        "name": "Pristina District",
+        "continent": "EU",
+        "iso_country": "XK",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/District_of_Pristina",
+        "keywords": "Rajoni i Prishtinës"
+    }
+}
