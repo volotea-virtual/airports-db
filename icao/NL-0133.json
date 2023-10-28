@@ -1,0 +1,38 @@
+{
+    "id": "513867",
+    "ident": "NL-0133",
+    "type": "closed",
+    "name": "Pettelaar Heliport",
+    "latitude_deg": "51.679065",
+    "longitude_deg": "5.335698",
+    "elevation_ft": "7",
+    "continent": "EU",
+    "iso_country": "NL",
+    "iso_region": "NL-NB",
+    "municipality": "'s-Hertogenbosch",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302708",
+        "code": "NL",
+        "name": "Netherlands",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Netherlands",
+        "keywords": "Holland, Luchthavens van Nederland, Dutch airports"
+    },
+    "region": {
+        "id": "304938",
+        "code": "NL-NB",
+        "local_code": "NB",
+        "name": "Noord-Brabant",
+        "continent": "EU",
+        "iso_country": "NL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Noord-Brabant",
+        "keywords": "Airports in Noord-Brabant"
+    }
+}

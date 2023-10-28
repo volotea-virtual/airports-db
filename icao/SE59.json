@@ -11,12 +11,12 @@
     "iso_region": "EC-O",
     "municipality": "El Guabo",
     "scheduled_service": "no",
-    "gps_code": "SE59",
+    "gps_code": "SEIN",
     "iata_code": "",
-    "local_code": "SE59",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SE59",
     "runways": [
         {
             "id": "235514",
