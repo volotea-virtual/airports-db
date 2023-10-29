@@ -1,0 +1,38 @@
+{
+    "id": "513907",
+    "ident": "MK-0011",
+    "type": "small_airport",
+    "name": "Krivolak Airstrip",
+    "latitude_deg": "41.540292",
+    "longitude_deg": "22.104539",
+    "elevation_ft": "421",
+    "continent": "EU",
+    "iso_country": "MK",
+    "iso_region": "MK-001",
+    "municipality": "Crveni Bregovi",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302706",
+        "code": "MK",
+        "name": "North Macedonia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Macedonia",
+        "keywords": "Macedonian airports"
+    },
+    "region": {
+        "id": "317092",
+        "code": "MK-001",
+        "local_code": "001",
+        "name": "Vardar Statistical Region",
+        "continent": "EU",
+        "iso_country": "MK",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Vardar_Statistical_Region",
+        "keywords": "Airports in Vardar Statistical Region"
+    }
+}

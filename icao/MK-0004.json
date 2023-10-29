@@ -1,0 +1,38 @@
+{
+    "id": "513900",
+    "ident": "MK-0004",
+    "type": "heliport",
+    "name": "Ǵorče Petrov Military Barracks Heliport",
+    "latitude_deg": "42.012717",
+    "longitude_deg": "21.354818",
+    "elevation_ft": "889",
+    "continent": "EU",
+    "iso_country": "MK",
+    "iso_region": "MK-008",
+    "municipality": "Skopje",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302706",
+        "code": "MK",
+        "name": "North Macedonia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Macedonia",
+        "keywords": "Macedonian airports"
+    },
+    "region": {
+        "id": "317099",
+        "code": "MK-008",
+        "local_code": "008",
+        "name": "Skopje Statistical Region",
+        "continent": "EU",
+        "iso_country": "MK",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Skopje_Statistical_Region",
+        "keywords": "Airports in Skopje Statistical Region"
+    }
+}

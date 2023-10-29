@@ -2,7 +2,7 @@
     "id": "342321",
     "ident": "FR-0469",
     "type": "small_airport",
-    "name": "Club ULM de Kogenheim",
+    "name": "Kogenheim Ultralightport",
     "latitude_deg": "48.322866",
     "longitude_deg": "7.535108",
     "elevation_ft": "528",
@@ -16,7 +16,7 @@
     "local_code": "LF6715",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Club ULM de Kogenheim",
     "runways": [
         {
             "id": "342322",

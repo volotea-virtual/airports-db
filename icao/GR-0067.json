@@ -6,9 +6,9 @@
     "latitude_deg": "40.390291",
     "longitude_deg": "21.92813",
     "elevation_ft": "2224",
-    "continent": "EU",
+    "continent": "AS",
     "iso_country": "GR",
-    "iso_region": "GR-B",
+    "iso_region": "GR-G",
     "municipality": "Ellispontos",
     "scheduled_service": "no",
     "gps_code": "",
@@ -26,13 +26,13 @@
         "keywords": "αεροδρόμια στην Ελλάδα"
     },
     "region": {
-        "id": "430179",
-        "code": "GR-B",
-        "local_code": "B",
-        "name": "Central Macedonia",
+        "id": "353667",
+        "code": "GR-G",
+        "local_code": "G",
+        "name": "Western Greece",
         "continent": "EU",
         "iso_country": "GR",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Macedonia",
-        "keywords": "Κεντρική Μακεδονία"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Western_Greece",
+        "keywords": "Airports in Western Greece"
     }
 }

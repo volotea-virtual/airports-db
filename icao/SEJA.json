@@ -1,0 +1,38 @@
+{
+    "id": "513922",
+    "ident": "SEJA",
+    "type": "small_airport",
+    "name": "Jandiyacua Airstrip",
+    "latitude_deg": "-1.730931",
+    "longitude_deg": "-77.109686",
+    "elevation_ft": "978",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-Y",
+    "municipality": "Jandiyacu",
+    "scheduled_service": "no",
+    "gps_code": "SEJA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302794",
+        "code": "EC",
+        "name": "Ecuador",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ecuador",
+        "keywords": "Aeropuertos de Ecuador"
+    },
+    "region": {
+        "id": "303673",
+        "code": "EC-Y",
+        "local_code": "Y",
+        "name": "Pastaza Province",
+        "continent": "SA",
+        "iso_country": "EC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pastaza_Province",
+        "keywords": "Airports in Pastaza Province"
+    }
+}
