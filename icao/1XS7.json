@@ -3,8 +3,8 @@
     "ident": "1XS7",
     "type": "closed",
     "name": "Heath Canyon Airport",
-    "latitude_deg": "29.450199",
-    "longitude_deg": "-102.832001",
+    "latitude_deg": "29.450697",
+    "longitude_deg": "-102.833447",
     "elevation_ft": "1857",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "1XS7, 1XS7, 1XS7",
+    "keywords": "1XS7",
     "runways": [
         {
             "id": "257142",

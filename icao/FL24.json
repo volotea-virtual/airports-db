@@ -2,9 +2,9 @@
     "id": "17394",
     "ident": "FL24",
     "type": "heliport",
-    "name": "West Florida Regional Medical Center Heliport",
-    "latitude_deg": "30.500200271606445",
-    "longitude_deg": "-87.25",
+    "name": "HCA Florida West Hospital Heliport",
+    "latitude_deg": "30.516544",
+    "longitude_deg": "-87.219685",
     "elevation_ft": "100",
     "continent": "NA",
     "iso_country": "US",
@@ -16,7 +16,7 @@
     "local_code": "FL24",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "West Florida Regional Medical Center Heliport",
     "runways": [
         {
             "id": "267527",

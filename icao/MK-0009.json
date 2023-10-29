@@ -1,0 +1,38 @@
+{
+    "id": "513905",
+    "ident": "MK-0009",
+    "type": "heliport",
+    "name": "Kumanovo Heliport",
+    "latitude_deg": "42.138915",
+    "longitude_deg": "21.700064",
+    "elevation_ft": "1138",
+    "continent": "EU",
+    "iso_country": "MK",
+    "iso_region": "MK-007",
+    "municipality": "Kumanovo",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302706",
+        "code": "MK",
+        "name": "North Macedonia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Macedonia",
+        "keywords": "Macedonian airports"
+    },
+    "region": {
+        "id": "317098",
+        "code": "MK-007",
+        "local_code": "007",
+        "name": "Northeastern Statistical Region",
+        "continent": "EU",
+        "iso_country": "MK",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Northeastern_Statistical_Region",
+        "keywords": "Airports in Northeastern Statistical Region"
+    }
+}
