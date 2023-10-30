@@ -2,9 +2,9 @@
     "id": "2290",
     "ident": "EDWI",
     "type": "small_airport",
-    "name": "Wilhelmshaven-Mariensiel Airport",
-    "latitude_deg": "53.502220153808594",
-    "longitude_deg": "8.05222225189209",
+    "name": "JadeWeser Airport",
+    "latitude_deg": "53.50222",
+    "longitude_deg": "8.052222",
     "elevation_ft": "16",
     "continent": "EU",
     "iso_country": "DE",
@@ -15,8 +15,8 @@
     "iata_code": "WVN",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
-    "keywords": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/JadeWeser_Airport",
+    "keywords": "Wilhelmshaven-Mariensiel",
     "runways": [
         {
             "id": "236207",

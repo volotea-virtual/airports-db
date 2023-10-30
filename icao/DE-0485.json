@@ -2,7 +2,7 @@
     "id": "355093",
     "ident": "DE-0485",
     "type": "heliport",
-    "name": "Bundespolizei Dresden",
+    "name": "Dresden Federal Police Heliport",
     "latitude_deg": "51.133696",
     "longitude_deg": "13.773546",
     "elevation_ft": "",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Bundespolizei Dresden",
     "country": {
         "id": "302681",
         "code": "DE",

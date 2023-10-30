@@ -12,11 +12,11 @@
     "municipality": "Issy-les-Moulineaux",
     "scheduled_service": "no",
     "gps_code": "LFPI",
-    "iata_code": "JDP",
+    "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "JDP",
     "runways": [
         {
             "id": "513859",
