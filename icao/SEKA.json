@@ -1,0 +1,38 @@
+{
+    "id": "513967",
+    "ident": "SEKA",
+    "type": "small_airport",
+    "name": "Kaan Airstrip",
+    "latitude_deg": "-2.873817",
+    "longitude_deg": "-77.868204",
+    "elevation_ft": "891",
+    "continent": "SA",
+    "iso_country": "EC",
+    "iso_region": "EC-S",
+    "municipality": "Kaank Chico",
+    "scheduled_service": "no",
+    "gps_code": "SEKA",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Vargas Guerra",
+    "country": {
+        "id": "302794",
+        "code": "EC",
+        "name": "Ecuador",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ecuador",
+        "keywords": "Aeropuertos de Ecuador"
+    },
+    "region": {
+        "id": "303667",
+        "code": "EC-S",
+        "local_code": "S",
+        "name": "Morona-Santiago Province",
+        "continent": "SA",
+        "iso_country": "EC",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Morona-Santiago_Province",
+        "keywords": "Airports in Morona-Santiago Province"
+    }
+}

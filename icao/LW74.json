@@ -9,14 +9,14 @@
     "continent": "EU",
     "iso_country": "MK",
     "iso_region": "MK-005",
-    "municipality": "Bitola",
+    "municipality": "Logovardi",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Logovardi_Airfield",
-    "keywords": "LW74",
+    "keywords": "LW74, Bitola",
     "runways": [
         {
             "id": "237576",

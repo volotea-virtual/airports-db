@@ -2,7 +2,7 @@
     "id": "28588",
     "ident": "EDXP",
     "type": "small_airport",
-    "name": "Flugplatz Harle",
+    "name": "Harlesiel Airport",
     "latitude_deg": "53.706669",
     "longitude_deg": "7.820278",
     "elevation_ft": "7",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Flugplatz Harle",
     "runways": [
         {
             "id": "316310",

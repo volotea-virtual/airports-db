@@ -2,11 +2,11 @@
     "id": "4269",
     "ident": "LGKZ",
     "type": "medium_airport",
-    "name": "Kozani State Airport Filippos",
+    "name": "Kozani National Airport Filippos",
     "latitude_deg": "40.286098",
     "longitude_deg": "21.840799",
     "elevation_ft": "2059",
-    "continent": "EU",
+    "continent": "AS",
     "iso_country": "GR",
     "iso_region": "GR-C",
     "municipality": "Kozani",
@@ -15,7 +15,7 @@
     "iata_code": "KZI",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "https://en.wikipedia.org/wiki/Kozani_National_Airport_%26quot%3BFilippos%26quot%3B",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Kozani_National_Airport",
     "keywords": "",
     "runways": [
         {
