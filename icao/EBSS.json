@@ -2,7 +2,7 @@
     "id": "29051",
     "ident": "EBSS",
     "type": "heliport",
-    "name": "Sint-Lucas Heliport",
+    "name": "Sint-Lucas General Hospital Heliport",
     "latitude_deg": "51.183906",
     "longitude_deg": "3.24999",
     "elevation_ft": "16",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "AZ Sint-Lucas, Bruges",
     "country": {
         "id": "302676",
         "code": "BE",

@@ -3,8 +3,8 @@
     "ident": "LOWS",
     "type": "medium_airport",
     "name": "Salzburg Airport",
-    "latitude_deg": "47.793300628699996",
-    "longitude_deg": "13.0043001175",
+    "latitude_deg": "47.793301",
+    "longitude_deg": "13.0043",
     "elevation_ft": "1411",
     "continent": "EU",
     "iso_country": "AT",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "http://www.salzburg-airport.com/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Salzburg_Airport",
-    "keywords": "",
+    "keywords": "Christophorus 6",
     "runways": [
         {
             "id": "233581",

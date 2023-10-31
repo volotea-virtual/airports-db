@@ -2,7 +2,7 @@
     "id": "312151",
     "ident": "LODO",
     "type": "heliport",
-    "name": "Christophorus 16 Heliport",
+    "name": "Oberwart ÖAMTC Heliport",
     "latitude_deg": "47.30526",
     "longitude_deg": "16.18352",
     "elevation_ft": "1079",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "http://www.christophorus16.at/index.aspx",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Christophorus 16",
     "country": {
         "id": "302674",
         "code": "AT",

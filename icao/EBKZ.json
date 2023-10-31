@@ -2,7 +2,7 @@
     "id": "337612",
     "ident": "EBKZ",
     "type": "heliport",
-    "name": "Knokke - AZ Zeno Helipad",
+    "name": "Zeno General Hospital Knokke-Heist Campus Heliport",
     "latitude_deg": "51.328685",
     "longitude_deg": "3.292388",
     "elevation_ft": "13",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "AZ Zeno Campus Knokke-Heist",
     "country": {
         "id": "302676",
         "code": "BE",

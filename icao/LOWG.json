@@ -9,14 +9,14 @@
     "continent": "EU",
     "iso_country": "AT",
     "iso_region": "AT-6",
-    "municipality": "Graz (Feldkirchen bei Graz)",
+    "municipality": "Feldkirchen bei Graz",
     "scheduled_service": "yes",
     "gps_code": "LOWG",
     "iata_code": "GRZ",
     "local_code": "",
     "home_link": "http://www.flughafen-graz.at/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Graz_Airport",
-    "keywords": "Thalerhof Airport, Fliegerhorst Nittner, Nittner Air Base",
+    "keywords": "Thalerhof Airport, Fliegerhorst Nittner, Nittner Air Base, Christophorus 12",
     "runways": [
         {
             "id": "233574",
