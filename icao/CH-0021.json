@@ -1,0 +1,38 @@
+{
+    "id": "514020",
+    "ident": "CH-0021",
+    "type": "heliport",
+    "name": "Davos Hospital Heliport",
+    "latitude_deg": "46.78764",
+    "longitude_deg": "9.81413",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "CH",
+    "iso_region": "CH-GR",
+    "municipality": "Davos",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302679",
+        "code": "CH",
+        "name": "Switzerland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Switzerland",
+        "keywords": "Aéroports de la Suisse,Flughäfen der Schweiz"
+    },
+    "region": {
+        "id": "303361",
+        "code": "CH-GR",
+        "local_code": "GR",
+        "name": "Canton of Grisons",
+        "continent": "EU",
+        "iso_country": "CH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Grisons",
+        "keywords": "Graubünden"
+    }
+}

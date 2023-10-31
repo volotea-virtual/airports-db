@@ -1,0 +1,38 @@
+{
+    "id": "514028",
+    "ident": "LODC",
+    "type": "heliport",
+    "name": "Sankt Michael ÖAMTC Heliport",
+    "latitude_deg": "47.33593",
+    "longitude_deg": "15.00104",
+    "elevation_ft": "1873",
+    "continent": "EU",
+    "iso_country": "AT",
+    "iso_region": "AT-6",
+    "municipality": "Sankt Michael in Obersteiermark",
+    "scheduled_service": "no",
+    "gps_code": "LODC",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Christophorus 17",
+    "country": {
+        "id": "302674",
+        "code": "AT",
+        "name": "Austria",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Austria",
+        "keywords": "Flughäfen in Österreich"
+    },
+    "region": {
+        "id": "302962",
+        "code": "AT-6",
+        "local_code": "6",
+        "name": "Styria",
+        "continent": "EU",
+        "iso_country": "AT",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Styria",
+        "keywords": "Steiermark"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "514016",
+    "ident": "LSXZ",
+    "type": "heliport",
+    "name": "Schattenhalb-Meiringen Heliport",
+    "latitude_deg": "46.71096",
+    "longitude_deg": "8.20148",
+    "elevation_ft": "2625",
+    "continent": "EU",
+    "iso_country": "CH",
+    "iso_region": "CH-BE",
+    "municipality": "Schattenhalb",
+    "scheduled_service": "no",
+    "gps_code": "LSXZ",
+    "iata_code": "",
+    "local_code": "LSXZ",
+    "home_link": "https://www.swisshelicopter.ch/en/about-us/helicopter-bases/schattenhalb-meiringen",
+    "wikipedia_link": "",
+    "keywords": "Geissholz Heliport",
+    "country": {
+        "id": "302679",
+        "code": "CH",
+        "name": "Switzerland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Switzerland",
+        "keywords": "Aéroports de la Suisse,Flughäfen der Schweiz"
+    },
+    "region": {
+        "id": "303355",
+        "code": "CH-BE",
+        "local_code": "BE",
+        "name": "Canton of Berne",
+        "continent": "EU",
+        "iso_country": "CH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Berne",
+        "keywords": "Bern"
+    }
+}

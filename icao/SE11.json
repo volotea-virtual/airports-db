@@ -8,15 +8,15 @@
     "elevation_ft": "1640",
     "continent": "SA",
     "iso_country": "EC",
-    "iso_region": "EC-P",
-    "municipality": "Consumulo",
+    "iso_region": "EC-26",
+    "municipality": "Luz de América",
     "scheduled_service": "no",
-    "gps_code": "SE11",
+    "gps_code": "SEKI",
     "iata_code": "",
-    "local_code": "SE11",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "SE11, Consumulo",
     "runways": [
         {
             "id": "235496",
@@ -50,13 +50,13 @@
         "keywords": "Aeropuertos de Ecuador"
     },
     "region": {
-        "id": "303665",
-        "code": "EC-P",
-        "local_code": "P",
-        "name": "Pichincha Province",
+        "id": "512324",
+        "code": "EC-26",
+        "local_code": "26",
+        "name": "Santo Domingo de los Tsáchilas Province",
         "continent": "SA",
         "iso_country": "EC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Pichincha_Province",
-        "keywords": "Airports in Pichincha Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Santo_Domingo_de_los_Ts%C3%A1chilas_Province",
+        "keywords": ""
     }
 }

@@ -1,21 +1,21 @@
 {
     "id": "332679",
     "ident": "NL-0066",
-    "type": "closed",
-    "name": "Vliegveld Buiksloot",
-    "latitude_deg": "52.407222",
-    "longitude_deg": "4.895278",
+    "type": "heliport",
+    "name": "Indorama Heliport",
+    "latitude_deg": "51.95957",
+    "longitude_deg": "4.09489",
     "elevation_ft": "",
     "continent": "EU",
     "iso_country": "NL",
-    "iso_region": "NL-NH",
-    "municipality": "Amsterdam",
+    "iso_region": "NL-ZH",
+    "municipality": "Rotterdam",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "https://nl.wikipedia.org/wiki/Vliegveld_Buiksloot",
+    "wikipedia_link": "",
     "keywords": "",
     "country": {
         "id": "302708",
@@ -26,13 +26,13 @@
         "keywords": "Holland, Luchthavens van Nederland, Dutch airports"
     },
     "region": {
-        "id": "304939",
-        "code": "NL-NH",
-        "local_code": "NH",
-        "name": "Noord-Holland",
+        "id": "304943",
+        "code": "NL-ZH",
+        "local_code": "ZH",
+        "name": "Zuid-Holland",
         "continent": "EU",
         "iso_country": "NL",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Noord-Holland",
-        "keywords": "Airports in Noord-Holland"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Zuid-Holland",
+        "keywords": "Airports in Zuid-Holland"
     }
 }

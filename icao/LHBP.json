@@ -3,12 +3,12 @@
     "ident": "LHBP",
     "type": "large_airport",
     "name": "Budapest Liszt Ferenc International Airport",
-    "latitude_deg": "47.42976",
-    "longitude_deg": "19.261093",
+    "latitude_deg": "47.43018",
+    "longitude_deg": "19.262393",
     "elevation_ft": "495",
     "continent": "EU",
     "iso_country": "HU",
-    "iso_region": "HU-PE",
+    "iso_region": "HU-BU",
     "municipality": "Budapest",
     "scheduled_service": "yes",
     "gps_code": "LHBP",
@@ -138,14 +138,14 @@
         "keywords": "Repülőterek Magyarország"
     },
     "region": {
-        "id": "304079",
-        "code": "HU-PE",
-        "local_code": "PE",
-        "name": "Pest County",
+        "id": "304059",
+        "code": "HU-BU",
+        "local_code": "BU",
+        "name": "Budapest (capital city)",
         "continent": "EU",
         "iso_country": "HU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Pest_County",
-        "keywords": "Airports in Pest County"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Budapest",
+        "keywords": "Airports in Budapest (capital city)"
     },
     "navaids": [
         {
