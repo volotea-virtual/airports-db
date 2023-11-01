@@ -2,7 +2,7 @@
     "id": "507041",
     "ident": "DE-0500",
     "type": "heliport",
-    "name": "German Diagnostic Clinic (DKD) Helios Clinic Wiesbaden Heliport",
+    "name": "Helios Clinic Wiesbaden Heliport",
     "latitude_deg": "50.08687",
     "longitude_deg": "8.27111",
     "elevation_ft": "581",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "German Diagnostic Clinic (DKD)",
     "country": {
         "id": "302681",
         "code": "DE",

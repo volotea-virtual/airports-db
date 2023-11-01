@@ -1,0 +1,38 @@
+{
+    "id": "514091",
+    "ident": "CZ-0210",
+    "type": "heliport",
+    "name": "Chotouň Heliport",
+    "latitude_deg": "50.05915",
+    "longitude_deg": "14.95774",
+    "elevation_ft": "830",
+    "continent": "EU",
+    "iso_country": "CZ",
+    "iso_region": "CZ-ST",
+    "municipality": "Chrášťany",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "LKCO",
+    "country": {
+        "id": "302680",
+        "code": "CZ",
+        "name": "Czech Republic",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Czech_Republic",
+        "keywords": "Letiště České republiky, Czechia"
+    },
+    "region": {
+        "id": "303542",
+        "code": "CZ-ST",
+        "local_code": "ST",
+        "name": "Central Bohemian Region",
+        "continent": "EU",
+        "iso_country": "CZ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Bohemian_Region",
+        "keywords": "Středočeský kraj"
+    }
+}

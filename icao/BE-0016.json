@@ -1,0 +1,38 @@
+{
+    "id": "514093",
+    "ident": "BE-0016",
+    "type": "closed",
+    "name": "Walem Heliport",
+    "latitude_deg": "51.0703",
+    "longitude_deg": "4.44653",
+    "elevation_ft": "10",
+    "continent": "EU",
+    "iso_country": "BE",
+    "iso_region": "BE-VAN",
+    "municipality": "Mechelen",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "EBMW",
+    "country": {
+        "id": "302676",
+        "code": "BE",
+        "name": "Belgium",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Belgium",
+        "keywords": "Aéroports de Belgique,Luchthavens van België"
+    },
+    "region": {
+        "id": "303070",
+        "code": "BE-VAN",
+        "local_code": "VAN",
+        "name": "Antwerp Province",
+        "continent": "EU",
+        "iso_country": "BE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Antwerp_Province",
+        "keywords": "Antwerpen, Flanders, Flemish Region, Vlaams Gewest, Vlaanderen"
+    }
+}
