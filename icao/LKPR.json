@@ -3,8 +3,8 @@
     "ident": "LKPR",
     "type": "large_airport",
     "name": "Václav Havel Airport Prague",
-    "latitude_deg": "50.1008",
-    "longitude_deg": "14.26",
+    "latitude_deg": "50.103514",
+    "longitude_deg": "14.256992",
     "elevation_ft": "1247",
     "continent": "EU",
     "iso_country": "CZ",
@@ -15,7 +15,7 @@
     "iata_code": "PRG",
     "local_code": "",
     "home_link": "http://www.prg.aero",
-    "wikipedia_link": "https://en.wikipedia.org/wiki/Ruzyn%C4%9B_International_Airport",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Václav_Havel_Airport_Prague",
     "keywords": "Letiště Praha-Ruzyně, Ruzyně International Airport, Letiště Václava Havla Praha",
     "runways": [
         {
