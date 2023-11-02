@@ -2,9 +2,9 @@
     "id": "29044",
     "ident": "EBNO",
     "type": "closed",
-    "name": "Outer ULM",
-    "latitude_deg": "50.854400634799994",
-    "longitude_deg": "3.98528003693",
+    "name": "Outer Ultralightport",
+    "latitude_deg": "50.854401",
+    "longitude_deg": "3.98528",
     "elevation_ft": "151",
     "continent": "EU",
     "iso_country": "BE",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "EBNO, EBNO",
+    "keywords": "EBNO, Outer ULM",
     "runways": [
         {
             "id": "254517",

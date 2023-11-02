@@ -2,7 +2,7 @@
     "id": "28544",
     "ident": "EDQC",
     "type": "small_airport",
-    "name": "Flugplatz Coburg-Brandensteinsebene",
+    "name": "Coburg-Brandensteinsebene Airfield",
     "latitude_deg": "50.262501",
     "longitude_deg": "10.995556",
     "elevation_ft": "1490",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "http://www.aeroclub-coburg.de",
     "wikipedia_link": "",
-    "keywords": "Coburg, Brose, Airport, Schuhmacher Packaging,",
+    "keywords": "Brose, Flugplatz Coburg-Brandensteinsebene, Schuhmacher Packaging",
     "runways": [
         {
             "id": "259748",

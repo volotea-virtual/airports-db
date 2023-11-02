@@ -2,9 +2,9 @@
     "id": "2169",
     "ident": "EBZR",
     "type": "small_airport",
-    "name": "Zoersel (Oostmalle) Airfield",
-    "latitude_deg": "51.2647",
-    "longitude_deg": "4.754505",
+    "name": "Oostmalle Airfield",
+    "latitude_deg": "51.269092",
+    "longitude_deg": "4.762428",
     "elevation_ft": "53",
     "continent": "EU",
     "iso_country": "BE",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "http://www.ebzr.be/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Oostmalle_Airfield",
-    "keywords": "",
+    "keywords": "Malle Airfield",
     "runways": [
         {
             "id": "233620",

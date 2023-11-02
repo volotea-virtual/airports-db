@@ -2,21 +2,21 @@
     "id": "339905",
     "ident": "DE-0443",
     "type": "small_airport",
-    "name": "Marbach-Rielingshausen",
-    "latitude_deg": "48.96775",
-    "longitude_deg": "9.32206",
-    "elevation_ft": "",
+    "name": "Marbach-Rielingshausen Airfield",
+    "latitude_deg": "48.967714",
+    "longitude_deg": "9.322093",
+    "elevation_ft": "981",
     "continent": "EU",
     "iso_country": "DE",
-    "iso_region": "DE-BY",
-    "municipality": "",
+    "iso_region": "DE-BW",
+    "municipality": "Marbach am Neckar",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Magolsheim",
+    "keywords": "",
     "country": {
         "id": "302681",
         "code": "DE",
@@ -26,13 +26,13 @@
         "keywords": "Flughäfen in Deutschland"
     },
     "region": {
-        "id": "303550",
-        "code": "DE-BY",
-        "local_code": "BY",
-        "name": "Bavaria",
+        "id": "303549",
+        "code": "DE-BW",
+        "local_code": "BW",
+        "name": "Baden-Württemberg",
         "continent": "EU",
         "iso_country": "DE",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Bavaria",
-        "keywords": "Bayern"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Baden-Württemberg",
+        "keywords": "Baden-Wuerttemberg"
     }
 }
