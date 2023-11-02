@@ -72,7 +72,7 @@
             "airport_ident": "EDLW",
             "type": "GND",
             "description": "GND",
-            "frequency_mhz": "121.825"
+            "frequency_mhz": "121.83"
         },
         {
             "id": "53147",
@@ -80,7 +80,7 @@
             "airport_ident": "EDLW",
             "type": "TWR",
             "description": "TWR",
-            "frequency_mhz": "134.175"
+            "frequency_mhz": "134.18"
         }
     ],
     "country": {

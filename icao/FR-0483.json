@@ -2,21 +2,21 @@
     "id": "347602",
     "ident": "FR-0483",
     "type": "closed",
-    "name": "Villard Notre Dame",
+    "name": "Villard-Notre-Dame Airfield",
     "latitude_deg": "45.018056",
     "longitude_deg": "6.037778",
     "elevation_ft": "",
     "continent": "EU",
     "iso_country": "FR",
-    "iso_region": "FR-U-A",
-    "municipality": "",
+    "iso_region": "FR-ARA",
+    "municipality": "Villard-Notre-Dame",
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "LF3829, LF3829",
+    "keywords": "LF3829",
     "country": {
         "id": "302687",
         "code": "FR",
@@ -26,13 +26,13 @@
         "keywords": "Aéroports de France"
     },
     "region": {
-        "id": "303819",
-        "code": "FR-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "306351",
+        "code": "FR-ARA",
+        "local_code": "ARA",
+        "name": "Auvergne-Rhône-Alpes",
         "continent": "EU",
         "iso_country": "FR",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Auvergne-Rh%C3%B4ne-Alpes",
+        "keywords": "Airports in Auvergne-Rhône-Alpes"
     }
 }

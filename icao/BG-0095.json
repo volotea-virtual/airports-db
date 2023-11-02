@@ -1,0 +1,38 @@
+{
+    "id": "514168",
+    "ident": "BG-0095",
+    "type": "heliport",
+    "name": "Bendida Beach Heliport",
+    "latitude_deg": "43.4175",
+    "longitude_deg": "28.29096",
+    "elevation_ft": "240",
+    "continent": "EU",
+    "iso_country": "BG",
+    "iso_region": "BG-08",
+    "municipality": "Bozhurets",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302677",
+        "code": "BG",
+        "name": "Bulgaria",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bulgaria",
+        "keywords": "Bulgarian airports"
+    },
+    "region": {
+        "id": "303133",
+        "code": "BG-08",
+        "local_code": "08",
+        "name": "Dobrich Province",
+        "continent": "EU",
+        "iso_country": "BG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Dobrich_Province",
+        "keywords": "Airports in Dobrich Province"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "514148",
+    "ident": "RS-0022",
+    "type": "heliport",
+    "name": "Drvengrad Heliport",
+    "latitude_deg": "43.795234",
+    "longitude_deg": "19.50769",
+    "elevation_ft": "2215",
+    "continent": "EU",
+    "iso_country": "RS",
+    "iso_region": "RS-16",
+    "municipality": "Mokra Gora",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302713",
+        "code": "RS",
+        "name": "Serbia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Serbia",
+        "keywords": "Serb"
+    },
+    "region": {
+        "id": "306606",
+        "code": "RS-16",
+        "local_code": "16",
+        "name": "Zlatibor District",
+        "continent": "EU",
+        "iso_country": "RS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Zlatibor_District",
+        "keywords": "Airports in Zlatibor District"
+    }
+}
