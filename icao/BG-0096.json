@@ -1,0 +1,38 @@
+{
+    "id": "514196",
+    "ident": "BG-0096",
+    "type": "heliport",
+    "name": "Kyustendil Heliport",
+    "latitude_deg": "42.28959",
+    "longitude_deg": "22.67311",
+    "elevation_ft": "1798",
+    "continent": "EU",
+    "iso_country": "BG",
+    "iso_region": "BG-10",
+    "municipality": "Kyustendil",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302677",
+        "code": "BG",
+        "name": "Bulgaria",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bulgaria",
+        "keywords": "Bulgarian airports"
+    },
+    "region": {
+        "id": "303135",
+        "code": "BG-10",
+        "local_code": "10",
+        "name": "Kyustendil Province",
+        "continent": "EU",
+        "iso_country": "BG",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kyustendil_Province",
+        "keywords": "Kjstendil"
+    }
+}

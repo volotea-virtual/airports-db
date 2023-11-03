@@ -2,7 +2,7 @@
     "id": "325354",
     "ident": "AL-0003",
     "type": "closed",
-    "name": "Mifoit Airport",
+    "name": "Vlora International Airport (under construction)",
     "latitude_deg": "40.601737",
     "longitude_deg": "19.432712",
     "elevation_ft": "3",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "LAVL, Mifoit",
     "country": {
         "id": "302673",
         "code": "AL",

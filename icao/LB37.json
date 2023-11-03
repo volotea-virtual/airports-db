@@ -1,10 +1,10 @@
 {
     "id": "104",
     "ident": "LB37",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Stanke Dimitrov Highway Strip",
-    "latitude_deg": "42.175701",
-    "longitude_deg": "23.0509",
+    "latitude_deg": "42.175697",
+    "longitude_deg": "23.050475",
     "elevation_ft": "3447",
     "continent": "EU",
     "iso_country": "BG",
@@ -13,10 +13,10 @@
     "scheduled_service": "no",
     "gps_code": "",
     "iata_code": "",
-    "local_code": "LB37",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "LB37",
     "runways": [
         {
             "id": "234413",
