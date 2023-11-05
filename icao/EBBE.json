@@ -3,8 +3,8 @@
     "ident": "EBBE",
     "type": "medium_airport",
     "name": "Beauvechain Air Base",
-    "latitude_deg": "50.75859832763672",
-    "longitude_deg": "4.768330097198486",
+    "latitude_deg": "50.758598",
+    "longitude_deg": "4.76833",
     "elevation_ft": "370",
     "continent": "EU",
     "iso_country": "BE",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Beauvechain_Air_Base",
-    "keywords": "",
+    "keywords": "Le Culot",
     "runways": [
         {
             "id": "233627",

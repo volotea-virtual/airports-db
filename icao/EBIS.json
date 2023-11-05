@@ -2,9 +2,9 @@
     "id": "29035",
     "ident": "EBIS",
     "type": "small_airport",
-    "name": "Ath/Isieres Ulmodrome",
-    "latitude_deg": "50.6641998291",
-    "longitude_deg": "3.80444002151",
+    "name": "Ath/Isieres Airfield",
+    "latitude_deg": "50.663636",
+    "longitude_deg": "3.804681",
     "elevation_ft": "98",
     "continent": "EU",
     "iso_country": "BE",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Ath/Isieres Ulmodrome",
     "runways": [
         {
             "id": "254516",
