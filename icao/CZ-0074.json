@@ -2,7 +2,7 @@
     "id": "316525",
     "ident": "CZ-0074",
     "type": "small_airport",
-    "name": "Miroslav Aircon UL",
+    "name": "Miroslav Aircon Ultralightport",
     "latitude_deg": "48.931667",
     "longitude_deg": "16.339722",
     "elevation_ft": "715",
@@ -16,7 +16,7 @@
     "local_code": "LKMIRA",
     "home_link": "http://www.aircon-miroslav.cz",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Stehlik Flight Academy",
     "runways": [
         {
             "id": "316527",
