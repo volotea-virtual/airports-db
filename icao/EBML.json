@@ -2,9 +2,9 @@
     "id": "30975",
     "ident": "EBML",
     "type": "small_airport",
-    "name": "Maillen Ulmodrome",
-    "latitude_deg": "50.3741989136",
-    "longitude_deg": "4.92778015137",
+    "name": "Maillen Ultralightport",
+    "latitude_deg": "50.375033",
+    "longitude_deg": "4.926489",
     "elevation_ft": "886",
     "continent": "EU",
     "iso_country": "BE",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Maillen Ulmodrome",
     "runways": [
         {
             "id": "312342",
