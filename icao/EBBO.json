@@ -2,7 +2,7 @@
     "id": "30966",
     "ident": "EBBO",
     "type": "closed",
-    "name": "Mogimont ULM",
+    "name": "Mogimont Ultralightport",
     "latitude_deg": "49.866402",
     "longitude_deg": "5.06806",
     "elevation_ft": "1394",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Mogimont_Airport",
-    "keywords": "EBBO, EBBO",
+    "keywords": "EBBO",
     "country": {
         "id": "302676",
         "code": "BE",
