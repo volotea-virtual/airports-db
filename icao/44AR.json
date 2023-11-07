@@ -1,7 +1,7 @@
 {
     "id": "11064",
     "ident": "44AR",
-    "type": "heliport",
+    "type": "closed",
     "name": "Air Evac 30 Heliport",
     "latitude_deg": "35.083419",
     "longitude_deg": "-92.20033",
@@ -11,12 +11,12 @@
     "iso_region": "US-AR",
     "municipality": "Vilonia",
     "scheduled_service": "no",
-    "gps_code": "44AR",
+    "gps_code": "",
     "iata_code": "",
-    "local_code": "44AR",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "44AR",
     "runways": [
         {
             "id": "265938",

@@ -6,7 +6,7 @@
     "latitude_deg": "9.258348",
     "longitude_deg": "-74.438393",
     "elevation_ft": "60",
-    "continent": "SA",
+    "continent": "NA",
     "iso_country": "CO",
     "iso_region": "CO-BOL",
     "municipality": "Santa Cruz de Mompóx",
@@ -15,7 +15,7 @@
     "iata_code": "",
     "local_code": "MMP",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/San_Bernardo_Airport",
     "keywords": "",
     "runways": [
         {

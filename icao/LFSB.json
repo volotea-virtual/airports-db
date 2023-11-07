@@ -3,8 +3,8 @@
     "ident": "LFSB",
     "type": "large_airport",
     "name": "EuroAirport Basel-Mulhouse-Freiburg",
-    "latitude_deg": "47.59",
-    "longitude_deg": "7.529167",
+    "latitude_deg": "47.60068",
+    "longitude_deg": "7.521117",
     "elevation_ft": "885",
     "continent": "EU",
     "iso_country": "FR",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "http://www.euroairport.com/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/EuroAirport_Basel-Mulhouse-Freiburg",
-    "keywords": "MLH, EAP, LSZM",
+    "keywords": "MLH, EAP, LSZM, Bâle, Basle",
     "runways": [
         {
             "id": "236006",

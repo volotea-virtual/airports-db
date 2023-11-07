@@ -2,7 +2,7 @@
     "id": "2274",
     "ident": "EDTF",
     "type": "small_airport",
-    "name": "Flugplatz Freiburg",
+    "name": "Freiburg Airport",
     "latitude_deg": "48.022778",
     "longitude_deg": "7.8325",
     "elevation_ft": "801",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "http://www.city-flugplatz-freiburg.de/",
     "wikipedia_link": "http://de.wikipedia.org/wiki/Flugplatz_Freiburg",
-    "keywords": "",
+    "keywords": "Flugplatz Freiburg",
     "runways": [
         {
             "id": "236289",

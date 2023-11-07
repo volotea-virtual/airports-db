@@ -2,9 +2,9 @@
     "id": "2211",
     "ident": "EDDE",
     "type": "medium_airport",
-    "name": "Erfurt Airport",
-    "latitude_deg": "50.979801177978516",
-    "longitude_deg": "10.958100318908691",
+    "name": "Erfurt-Weimar Airport",
+    "latitude_deg": "50.979801",
+    "longitude_deg": "10.9581",
     "elevation_ft": "1036",
     "continent": "EU",
     "iso_country": "DE",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "http://www.airport-erfurt.de/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Erfurt_Airport",
-    "keywords": "Flughafen Erfurt",
+    "keywords": "Flughafen Erfurt-Weimar",
     "runways": [
         {
             "id": "236244",
