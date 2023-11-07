@@ -2,7 +2,7 @@
     "id": "2728",
     "ident": "ETHR",
     "type": "small_airport",
-    "name": "Sonderlandeplatz Roth",
+    "name": "Roth Airfield",
     "latitude_deg": "49.217499",
     "longitude_deg": "11.1002",
     "elevation_ft": "1268",
@@ -15,8 +15,8 @@
     "iata_code": "",
     "local_code": "",
     "home_link": "https://bwfsg.de/flugplatz/",
-    "wikipedia_link": "",
-    "keywords": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Roth_Air_Base",
+    "keywords": "ETHR, Sonderlandeplatz Roth, Heeresflugplatz Roth",
     "runways": [
         {
             "id": "236119",
