@@ -2,7 +2,7 @@
     "id": "28693",
     "ident": "EDTP",
     "type": "small_airport",
-    "name": "Flugplatz Pfullendorf",
+    "name": "Pfullendorf Airport",
     "latitude_deg": "47.90889",
     "longitude_deg": "9.250556",
     "elevation_ft": "2303",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Flugplatz Pfullendorf",
     "country": {
         "id": "302681",
         "code": "DE",

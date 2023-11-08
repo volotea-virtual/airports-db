@@ -2,9 +2,9 @@
     "id": "28623",
     "ident": "EDTZ",
     "type": "small_airport",
-    "name": "Flugplatz Konstanz",
-    "latitude_deg": "47.681946",
-    "longitude_deg": "9.137222",
+    "name": "Konstanz Airport",
+    "latitude_deg": "47.681435",
+    "longitude_deg": "9.139258",
     "elevation_ft": "1302",
     "continent": "EU",
     "iso_country": "DE",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "http://www.flugplatz-konstanz.de",
     "wikipedia_link": "http://de.wikipedia.org/wiki/Flugplatz_Konstanz",
-    "keywords": "",
+    "keywords": "Flugplatz Konstanz",
     "runways": [
         {
             "id": "324992",

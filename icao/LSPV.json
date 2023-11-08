@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "http://www.flugplatzwangen.ch/",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Flugplatz Wangen-Lachen",
     "runways": [
         {
             "id": "253801",
@@ -63,10 +63,10 @@
         "id": "303370",
         "code": "CH-SZ",
         "local_code": "SZ",
-        "name": "Canton of Schwyz",
+        "name": "Schwyz",
         "continent": "EU",
         "iso_country": "CH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Schwyz",
-        "keywords": "Airports in Canton of Schwyz"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canton_of_Schwyz",
+        "keywords": "Airports in Canton of Schwyz, Sviz, Svitto, Schwytz"
     }
 }

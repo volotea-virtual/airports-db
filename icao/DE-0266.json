@@ -2,7 +2,7 @@
     "id": "315800",
     "ident": "DE-0266",
     "type": "small_airport",
-    "name": "Wangen-Kisslegg Airfield",
+    "name": "Wangen-Kißlegg Airfield",
     "latitude_deg": "47.753962",
     "longitude_deg": "9.86219",
     "elevation_ft": "2102",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "http://www.fsg-wangen.de/",
     "wikipedia_link": "",
-    "keywords": "Kißlegg, Kisslegg",
+    "keywords": "Kisslegg",
     "country": {
         "id": "302681",
         "code": "DE",

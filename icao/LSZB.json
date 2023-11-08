@@ -2,21 +2,21 @@
     "id": "4503",
     "ident": "LSZB",
     "type": "medium_airport",
-    "name": "Bern-Belp Airport",
-    "latitude_deg": "46.913419",
-    "longitude_deg": "7.499747",
+    "name": "Bern Airport",
+    "latitude_deg": "46.912868",
+    "longitude_deg": "7.498512",
     "elevation_ft": "1671",
     "continent": "EU",
     "iso_country": "CH",
     "iso_region": "CH-BE",
-    "municipality": "Bern-Belp",
+    "municipality": "Belp",
     "scheduled_service": "yes",
     "gps_code": "LSZB",
     "iata_code": "BRN",
     "local_code": "",
     "home_link": "https://www.bernairport.ch/de/",
-    "wikipedia_link": "https://de.wikipedia.org/wiki/Flughafen_Bern-Belp",
-    "keywords": "lszb, bern, belp, bern-belp",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Bern_Airport",
+    "keywords": "LSZB, Belp, Bern-Belp, Bern-Belp Regional Airfield, Regionalflugplatz Bern-Belp",
     "runways": [
         {
             "id": "239123",
@@ -139,11 +139,11 @@
         "id": "303355",
         "code": "CH-BE",
         "local_code": "BE",
-        "name": "Canton of Berne",
+        "name": "Bern",
         "continent": "EU",
         "iso_country": "CH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Berne",
-        "keywords": "Bern"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canton_of_Bern",
+        "keywords": "Airports in Canton of Bern, Berna, Berne"
     },
     "navaids": [
         {

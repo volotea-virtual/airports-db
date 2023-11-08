@@ -1,0 +1,38 @@
+{
+    "id": "514417",
+    "ident": "CH-0026",
+    "type": "heliport",
+    "name": "Appenzell Cantonal Health Center Heliport",
+    "latitude_deg": "47.33454",
+    "longitude_deg": "9.41593",
+    "elevation_ft": "2616",
+    "continent": "EU",
+    "iso_country": "CH",
+    "iso_region": "CH-AI",
+    "municipality": "Appenzell",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302679",
+        "code": "CH",
+        "name": "Switzerland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Switzerland",
+        "keywords": "Aéroports de la Suisse,Flughäfen der Schweiz"
+    },
+    "region": {
+        "id": "303353",
+        "code": "CH-AI",
+        "local_code": "AI",
+        "name": "Appenzell Innerrhoden",
+        "continent": "EU",
+        "iso_country": "CH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Appenzell_Innerrhoden",
+        "keywords": "Airports in Canton of Appenzell Innerrhoden"
+    }
+}

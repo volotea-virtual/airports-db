@@ -2,7 +2,7 @@
     "id": "329219",
     "ident": "MX-0860",
     "type": "closed",
-    "name": "Cruz Azul Heliport",
+    "name": "Helipuerto Cruz Azul",
     "latitude_deg": "19.305037",
     "longitude_deg": "-99.164092",
     "elevation_ft": "7336",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "HOZ, HOZ",
+    "keywords": "HOZ",
     "country": {
         "id": "302747",
         "code": "MX",

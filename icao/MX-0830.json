@@ -2,7 +2,7 @@
     "id": "329102",
     "ident": "MX-0830",
     "type": "heliport",
-    "name": "ITAM Rio Hondo Heliport",
+    "name": "Helipuerto del Instituto Tecnológico Autónomo de México (ITAM) -Rio Hondo",
     "latitude_deg": "19.345203",
     "longitude_deg": "-99.200829",
     "elevation_ft": "7382",
@@ -14,7 +14,7 @@
     "gps_code": "",
     "iata_code": "",
     "local_code": "HIH",
-    "home_link": "",
+    "home_link": "https://www.itam.mx",
     "wikipedia_link": "",
     "keywords": "",
     "country": {

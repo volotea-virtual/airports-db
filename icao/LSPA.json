@@ -2,21 +2,21 @@
     "id": "29660",
     "ident": "LSPA",
     "type": "small_airport",
-    "name": "Amlikon Glider Airport",
-    "latitude_deg": "47.57419967651367",
-    "longitude_deg": "9.047499656677246",
+    "name": "Amlikon Airport",
+    "latitude_deg": "47.573983",
+    "longitude_deg": "9.047785",
     "elevation_ft": "1371",
     "continent": "EU",
     "iso_country": "CH",
     "iso_region": "CH-TG",
-    "municipality": "",
+    "municipality": "Amlikon",
     "scheduled_service": "no",
     "gps_code": "LSPA",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Flugplatz Amlikon",
     "runways": [
         {
             "id": "254532",
@@ -53,10 +53,10 @@
         "id": "303371",
         "code": "CH-TG",
         "local_code": "TG",
-        "name": "Canton of Thurgau",
+        "name": "Thurgau",
         "continent": "EU",
         "iso_country": "CH",
         "wikipedia_link": "https://en.wikipedia.org/wiki/Thurgau",
-        "keywords": "Airports in Canton of Thurgau"
+        "keywords": "Airports in Canton of Thurgaum, Thurgovia, Thurgovie, Turgovia"
     }
 }
