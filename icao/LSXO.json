@@ -2,14 +2,14 @@
     "id": "43118",
     "ident": "LSXO",
     "type": "heliport",
-    "name": "St. Gallen-Winkeln Heliport",
-    "latitude_deg": "47.40549850463867",
-    "longitude_deg": "9.290300369262695",
+    "name": "Sankt Gallen-Winkeln Heliport",
+    "latitude_deg": "47.405528",
+    "longitude_deg": "9.290367",
     "elevation_ft": "",
     "continent": "EU",
     "iso_country": "CH",
     "iso_region": "CH-SG",
-    "municipality": "St. Gallen",
+    "municipality": "Sankt Gallen",
     "scheduled_service": "no",
     "gps_code": "LSXO",
     "iata_code": "",
@@ -29,10 +29,10 @@
         "id": "303367",
         "code": "CH-SG",
         "local_code": "SG",
-        "name": "Canton of St. Gallen",
+        "name": "St. Gallen",
         "continent": "EU",
         "iso_country": "CH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/St._Gallen",
-        "keywords": "Sankt Gallen"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canton_of_St._Gallen",
+        "keywords": "Airports in Canton of St. Gallen, Sankt Gallen, Son Gagl, Saint-Gall, San Gallo"
     }
 }

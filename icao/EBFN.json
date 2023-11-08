@@ -3,8 +3,8 @@
     "ident": "EBFN",
     "type": "medium_airport",
     "name": "Koksijde Air Base",
-    "latitude_deg": "51.090301513671875",
-    "longitude_deg": "2.652780055999756",
+    "latitude_deg": "51.090302",
+    "longitude_deg": "2.65278",
     "elevation_ft": "20",
     "continent": "EU",
     "iso_country": "BE",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Coxyde",
     "runways": [
         {
             "id": "504925",

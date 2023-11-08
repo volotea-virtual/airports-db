@@ -2,21 +2,21 @@
     "id": "4497",
     "ident": "LSMM",
     "type": "small_airport",
-    "name": "Meiringen Airport",
-    "latitude_deg": "46.743301",
-    "longitude_deg": "8.11",
+    "name": "Meiringen Air Base",
+    "latitude_deg": "46.742324",
+    "longitude_deg": "8.108919",
     "elevation_ft": "1895",
     "continent": "EU",
     "iso_country": "CH",
     "iso_region": "CH-BE",
-    "municipality": "",
+    "municipality": "Meiringen",
     "scheduled_service": "no",
     "gps_code": "LSMM",
     "iata_code": "",
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Meiringen_Air_Base",
-    "keywords": "",
+    "keywords": "Militärflugplatz Meiringen",
     "runways": [
         {
             "id": "239129",
@@ -87,10 +87,10 @@
         "id": "303355",
         "code": "CH-BE",
         "local_code": "BE",
-        "name": "Canton of Berne",
+        "name": "Bern",
         "continent": "EU",
         "iso_country": "CH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Berne",
-        "keywords": "Bern"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canton_of_Bern",
+        "keywords": "Airports in Canton of Bern, Berna, Berne"
     }
 }

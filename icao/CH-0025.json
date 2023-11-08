@@ -1,0 +1,38 @@
+{
+    "id": "514414",
+    "ident": "CH-0025",
+    "type": "heliport",
+    "name": "Herisau Hospital Heliport",
+    "latitude_deg": "47.38765",
+    "longitude_deg": "9.28314",
+    "elevation_ft": "2562",
+    "continent": "EU",
+    "iso_country": "CH",
+    "iso_region": "CH-AR",
+    "municipality": "Herisau",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302679",
+        "code": "CH",
+        "name": "Switzerland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Switzerland",
+        "keywords": "Aéroports de la Suisse,Flughäfen der Schweiz"
+    },
+    "region": {
+        "id": "303354",
+        "code": "CH-AR",
+        "local_code": "AR",
+        "name": "Appenzell Ausserrhoden",
+        "continent": "EU",
+        "iso_country": "CH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Appenzell_Ausserrhoden",
+        "keywords": "Airports in Canton of Appenzell Ausserrhoden"
+    }
+}

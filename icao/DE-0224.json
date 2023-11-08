@@ -5,7 +5,7 @@
     "name": "Reute Airport",
     "latitude_deg": "47.915",
     "longitude_deg": "9.710278",
-    "elevation_ft": "",
+    "elevation_ft": "1892",
     "continent": "EU",
     "iso_country": "DE",
     "iso_region": "DE-BW",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Flugplatz Reute",
     "country": {
         "id": "302681",
         "code": "DE",

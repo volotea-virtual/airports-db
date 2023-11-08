@@ -1,0 +1,38 @@
+{
+    "id": "514418",
+    "ident": "CH-0027",
+    "type": "heliport",
+    "name": "Sankt Gallen Cantonal Hospital Heliport",
+    "latitude_deg": "47.43077",
+    "longitude_deg": "9.38689",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "CH",
+    "iso_region": "CH-SG",
+    "municipality": "Sankt Gallen",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302679",
+        "code": "CH",
+        "name": "Switzerland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Switzerland",
+        "keywords": "Aéroports de la Suisse,Flughäfen der Schweiz"
+    },
+    "region": {
+        "id": "303367",
+        "code": "CH-SG",
+        "local_code": "SG",
+        "name": "St. Gallen",
+        "continent": "EU",
+        "iso_country": "CH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canton_of_St._Gallen",
+        "keywords": "Airports in Canton of St. Gallen, Sankt Gallen, Son Gagl, Saint-Gall, San Gallo"
+    }
+}

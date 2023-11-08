@@ -11,12 +11,12 @@
     "iso_region": "SA-04",
     "municipality": "Shubaytah",
     "scheduled_service": "no",
-    "gps_code": "OE56",
+    "gps_code": "OEST",
     "iata_code": "",
-    "local_code": "OE56",
+    "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Khalfan",
+    "keywords": "OE56, Khalfan",
     "runways": [
         {
             "id": "238688",

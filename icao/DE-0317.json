@@ -2,7 +2,7 @@
     "id": "316022",
     "ident": "DE-0317",
     "type": "small_airport",
-    "name": "Markdorf Airfield",
+    "name": "Markdorf Gliderport",
     "latitude_deg": "47.7072",
     "longitude_deg": "9.391",
     "elevation_ft": "1388",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "http://www.sfg-markdorf.de/www/",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Segelfluggelände Markdorf",
     "country": {
         "id": "302681",
         "code": "DE",

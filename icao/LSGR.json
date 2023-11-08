@@ -3,13 +3,13 @@
     "ident": "LSGR",
     "type": "small_airport",
     "name": "Reichenbach Air Base",
-    "latitude_deg": "46.61360168457031",
-    "longitude_deg": "7.6777801513671875",
+    "latitude_deg": "46.613602",
+    "longitude_deg": "7.67778",
     "elevation_ft": "2385",
     "continent": "EU",
     "iso_country": "CH",
     "iso_region": "CH-BE",
-    "municipality": "",
+    "municipality": "Reichenbach im Kandertal",
     "scheduled_service": "no",
     "gps_code": "LSGR",
     "iata_code": "",
@@ -63,10 +63,10 @@
         "id": "303355",
         "code": "CH-BE",
         "local_code": "BE",
-        "name": "Canton of Berne",
+        "name": "Bern",
         "continent": "EU",
         "iso_country": "CH",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Berne",
-        "keywords": "Bern"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canton_of_Bern",
+        "keywords": "Airports in Canton of Bern, Berna, Berne"
     }
 }
