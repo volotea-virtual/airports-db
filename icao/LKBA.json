@@ -3,8 +3,8 @@
     "ident": "LKBA",
     "type": "small_airport",
     "name": "Břeclav Airport",
-    "latitude_deg": "48.790000915527344",
-    "longitude_deg": "16.892499923706055",
+    "latitude_deg": "48.790439",
+    "longitude_deg": "16.892531",
     "elevation_ft": "531",
     "continent": "EU",
     "iso_country": "CZ",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Letiště Břeclav",
     "runways": [
         {
             "id": "316524",

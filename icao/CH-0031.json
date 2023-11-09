@@ -1,0 +1,38 @@
+{
+    "id": "514482",
+    "ident": "CH-0031",
+    "type": "heliport",
+    "name": "Zug Cantonal Hospital Heliport",
+    "latitude_deg": "47.1941",
+    "longitude_deg": "8.51831",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "CH",
+    "iso_region": "CH-ZG",
+    "municipality": "Baar",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Hubschrauberlandeplatz Zuger Kantonsspital",
+    "country": {
+        "id": "302679",
+        "code": "CH",
+        "name": "Switzerland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Switzerland",
+        "keywords": "Aéroports de la Suisse,Flughäfen der Schweiz"
+    },
+    "region": {
+        "id": "303377",
+        "code": "CH-ZG",
+        "local_code": "ZG",
+        "name": "Zug",
+        "continent": "EU",
+        "iso_country": "CH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canton_of_Zug",
+        "keywords": "Airports in Canton of Zug"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "514517",
+    "ident": "JP-3282",
+    "type": "heliport",
+    "name": "Kinomoto Interchange Heliport",
+    "latitude_deg": "35.50268",
+    "longitude_deg": "136.2163",
+    "elevation_ft": "367",
+    "continent": "AS",
+    "iso_country": "JP",
+    "iso_region": "JP-25",
+    "municipality": "Nagahama",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302639",
+        "code": "JP",
+        "name": "Japan",
+        "continent": "AS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Japan",
+        "keywords": "Nippon, 日本の空港"
+    },
+    "region": {
+        "id": "304310",
+        "code": "JP-25",
+        "local_code": "25",
+        "name": "Shiga Prefecture",
+        "continent": "AS",
+        "iso_country": "JP",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Shiga",
+        "keywords": "Kansai"
+    }
+}

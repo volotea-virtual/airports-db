@@ -3,8 +3,8 @@
     "ident": "LKCE",
     "type": "small_airport",
     "name": "Česká Lípa Airport",
-    "latitude_deg": "50.70940017700195",
-    "longitude_deg": "14.566699981689453",
+    "latitude_deg": "50.7094",
+    "longitude_deg": "14.5667",
     "elevation_ft": "932",
     "continent": "EU",
     "iso_country": "CZ",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Letiště Česká Lípa",
     "runways": [
         {
             "id": "330075",
