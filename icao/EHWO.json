@@ -9,14 +9,14 @@
     "continent": "EU",
     "iso_country": "NL",
     "iso_region": "NL-NB",
-    "municipality": "Bergen Op Zoom",
+    "municipality": "Hoogerheide",
     "scheduled_service": "no",
     "gps_code": "EHWO",
     "iata_code": "WOE",
     "local_code": "",
     "home_link": "http://www.defensie.nl/luchtmacht/luchtmachtbases/woensdrecht/",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Woensdrecht_Air_Base",
-    "keywords": "BZM",
+    "keywords": "BZM, Vliegbasis Woensdrecht",
     "runways": [
         {
             "id": "237937",

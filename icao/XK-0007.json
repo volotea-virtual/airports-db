@@ -1,0 +1,38 @@
+{
+    "id": "514487",
+    "ident": "XK-0007",
+    "type": "heliport",
+    "name": "Gjilan Regional Hospital Heliport",
+    "latitude_deg": "42.45883",
+    "longitude_deg": "21.46207",
+    "elevation_ft": "1791",
+    "continent": "EU",
+    "iso_country": "XK",
+    "iso_region": "XK-06",
+    "municipality": "Gjilan",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Heliporti i Spitalit Rajonal të Gjilanit",
+    "country": {
+        "id": "302720",
+        "code": "XK",
+        "name": "Kosovo",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Kosovo",
+        "keywords": "Kosova"
+    },
+    "region": {
+        "id": "317193",
+        "code": "XK-06",
+        "local_code": "06",
+        "name": "Gjilan District",
+        "continent": "EU",
+        "iso_country": "XK",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/District_of_Gjilan",
+        "keywords": "Rajoni i Gjilanit"
+    }
+}

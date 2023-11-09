@@ -1,0 +1,38 @@
+{
+    "id": "514522",
+    "ident": "SI2O",
+    "type": "small_airport",
+    "name": "Sítio Biguá Airport",
+    "latitude_deg": "-14.887378",
+    "longitude_deg": "-40.738261",
+    "elevation_ft": "3110",
+    "continent": "SA",
+    "iso_country": "BR",
+    "iso_region": "BR-BA",
+    "municipality": "Vitória da Conquista",
+    "scheduled_service": "no",
+    "gps_code": "SI2O",
+    "iata_code": "",
+    "local_code": "BA0453",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302791",
+        "code": "BR",
+        "name": "Brazil",
+        "continent": "SA",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Brazil",
+        "keywords": "Brasil, Brasilian, Aeroportos do Brasil"
+    },
+    "region": {
+        "id": "303203",
+        "code": "BR-BA",
+        "local_code": "BA",
+        "name": "Bahia",
+        "continent": "SA",
+        "iso_country": "BR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bahia",
+        "keywords": "Airports in Bahia"
+    }
+}
