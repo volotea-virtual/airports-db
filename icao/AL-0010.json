@@ -1,0 +1,38 @@
+{
+    "id": "514574",
+    "ident": "AL-0010",
+    "type": "closed",
+    "name": "Korçë Teni Konomi City Hospital Heliport",
+    "latitude_deg": "40.6114",
+    "longitude_deg": "20.7852",
+    "elevation_ft": "2939",
+    "continent": "EU",
+    "iso_country": "AL",
+    "iso_region": "AL-06",
+    "municipality": "Korçë",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302673",
+        "code": "AL",
+        "name": "Albania",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Albania",
+        "keywords": "Albanian airports"
+    },
+    "region": {
+        "id": "302877",
+        "code": "AL-06",
+        "local_code": "06",
+        "name": "Korçë County",
+        "continent": "EU",
+        "iso_country": "AL",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Korçë_County",
+        "keywords": "Airports in Korçë County"
+    }
+}

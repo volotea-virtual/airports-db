@@ -3,8 +3,8 @@
     "ident": "EDNI",
     "type": "small_airport",
     "name": "Berching Airfield",
-    "latitude_deg": "49.130554",
-    "longitude_deg": "11.443056",
+    "latitude_deg": "49.131043",
+    "longitude_deg": "11.443205",
     "elevation_ft": "1266",
     "continent": "EU",
     "iso_country": "DE",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Flugplatz Berching",
     "runways": [
         {
             "id": "259735",

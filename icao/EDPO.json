@@ -2,7 +2,7 @@
     "id": "28661",
     "ident": "EDPO",
     "type": "small_airport",
-    "name": "Neumarkt/Obf. Airfield",
+    "name": "Neumarkt-Oberpfalz Airfield",
     "latitude_deg": "49.285557",
     "longitude_deg": "11.443056",
     "elevation_ft": "1394",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Flugplatz Neumarkt-Oberpfalz",
     "country": {
         "id": "302681",
         "code": "DE",

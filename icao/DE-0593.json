@@ -1,0 +1,38 @@
+{
+    "id": "514582",
+    "ident": "DE-0593",
+    "type": "heliport",
+    "name": "Asklepios Hospital München-Gauting Heliport",
+    "latitude_deg": "48.06684",
+    "longitude_deg": "11.35257",
+    "elevation_ft": "1932",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Gauting",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303550",
+        "code": "DE-BY",
+        "local_code": "BY",
+        "name": "Bavaria",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bavaria",
+        "keywords": "Bayern"
+    }
+}
