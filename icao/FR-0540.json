@@ -1,0 +1,38 @@
+{
+    "id": "514562",
+    "ident": "FR-0540",
+    "type": "small_airport",
+    "name": "Trois Forêts Ultralightport",
+    "latitude_deg": "48.65195",
+    "longitude_deg": "6.93542",
+    "elevation_ft": "1050",
+    "continent": "EU",
+    "iso_country": "FR",
+    "iso_region": "FR-GES",
+    "municipality": "Saint-Georges",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "ULM des 3 Forêts, Ecole Paramoteur Happy Fly Formation",
+    "country": {
+        "id": "302687",
+        "code": "FR",
+        "name": "France",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/France",
+        "keywords": "Aéroports de France"
+    },
+    "region": {
+        "id": "306353",
+        "code": "FR-GES",
+        "local_code": "GES",
+        "name": "Grand Est",
+        "continent": "EU",
+        "iso_country": "FR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Grand_Est",
+        "keywords": "Airports in Grand Est"
+    }
+}

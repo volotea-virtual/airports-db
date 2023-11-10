@@ -3,8 +3,8 @@
     "ident": "LSPH",
     "type": "small_airport",
     "name": "Winterthur Airport",
-    "latitude_deg": "47.5149993896",
-    "longitude_deg": "8.77194023132",
+    "latitude_deg": "47.514999",
+    "longitude_deg": "8.77194",
     "elevation_ft": "1506",
     "continent": "EU",
     "iso_country": "CH",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Flugplatz Winterthur, Flugplatz Hegmatten",
     "runways": [
         {
             "id": "253065",

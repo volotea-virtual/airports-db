@@ -1,0 +1,38 @@
+{
+    "id": "514566",
+    "ident": "CH-0033",
+    "type": "heliport",
+    "name": "Winterthur Cantonal Hospital Heliport",
+    "latitude_deg": "47.50733",
+    "longitude_deg": "8.72845",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "CH",
+    "iso_region": "CH-ZH",
+    "municipality": "Winterthur",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Hubschrauberlandeplatz Kantonsspital Winterthur",
+    "country": {
+        "id": "302679",
+        "code": "CH",
+        "name": "Switzerland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Switzerland",
+        "keywords": "Aéroports de la Suisse,Flughäfen der Schweiz"
+    },
+    "region": {
+        "id": "303378",
+        "code": "CH-ZH",
+        "local_code": "ZH",
+        "name": "Zürich",
+        "continent": "EU",
+        "iso_country": "CH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canton_of_Z%C3%BCrich",
+        "keywords": "Airports in Canton of Zurich"
+    }
+}

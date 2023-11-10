@@ -2,7 +2,7 @@
     "id": "342327",
     "ident": "FR-0473",
     "type": "small_airport",
-    "name": "Base ULM de Batzendorf",
+    "name": "Batzendorf Ultralightport",
     "latitude_deg": "48.803016",
     "longitude_deg": "7.726527",
     "elevation_ft": "560",
@@ -16,7 +16,7 @@
     "local_code": "LF6751",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Base ULM de Batzendorf",
     "country": {
         "id": "302687",
         "code": "FR",
