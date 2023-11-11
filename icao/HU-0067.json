@@ -1,0 +1,38 @@
+{
+    "id": "514624",
+    "ident": "HU-0067",
+    "type": "heliport",
+    "name": "Gyula Kálmán Pándy Hospital Heliport",
+    "latitude_deg": "46.64028",
+    "longitude_deg": "21.27588",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "HU",
+    "iso_region": "HU-BE",
+    "municipality": "Gyula",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Gyula Pándy Kálmán Kórház V. osztályú Mentőhelikopter Repülőtér",
+    "country": {
+        "id": "302693",
+        "code": "HU",
+        "name": "Hungary",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hungary",
+        "keywords": "Repülőterek Magyarország"
+    },
+    "region": {
+        "id": "304057",
+        "code": "HU-BE",
+        "local_code": "BE",
+        "name": "Békés County",
+        "continent": "EU",
+        "iso_country": "HU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Békés_County",
+        "keywords": "Békés megye"
+    }
+}
