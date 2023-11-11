@@ -3,8 +3,8 @@
     "ident": "EDGZ",
     "type": "small_airport",
     "name": "Weinheim/Bergstraße Airport",
-    "latitude_deg": "49.567501068115234",
-    "longitude_deg": "8.610555648803711",
+    "latitude_deg": "49.566763",
+    "longitude_deg": "8.61145",
     "elevation_ft": "318",
     "continent": "EU",
     "iso_country": "DE",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "Bergstrasse",
+    "keywords": "Bergstrasse, Sonderlandeplatz Weinheim/Bergstraße",
     "runways": [
         {
             "id": "259846",

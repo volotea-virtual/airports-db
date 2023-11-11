@@ -1,0 +1,38 @@
+{
+    "id": "514623",
+    "ident": "HU-0066",
+    "type": "heliport",
+    "name": "Szolnok Géza Hetényi Hospital Heliport",
+    "latitude_deg": "47.15575",
+    "longitude_deg": "20.16843",
+    "elevation_ft": "276",
+    "continent": "EU",
+    "iso_country": "HU",
+    "iso_region": "HU-SK",
+    "municipality": "Szolnok",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Helikopter repülőtér Szolnok Hetényi Géza Kórház",
+    "country": {
+        "id": "302693",
+        "code": "HU",
+        "name": "Hungary",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Hungary",
+        "keywords": "Repülőterek Magyarország"
+    },
+    "region": {
+        "id": "304084",
+        "code": "HU-SK",
+        "local_code": "SK",
+        "name": "Szolnok (city)",
+        "continent": "EU",
+        "iso_country": "HU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Szolnok",
+        "keywords": "Airports in Szolnok (city)"
+    }
+}

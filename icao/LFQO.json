@@ -2,7 +2,7 @@
     "id": "28987",
     "ident": "LFQO",
     "type": "small_airport",
-    "name": "Lille/Marcq-en-Baroeul Airfield",
+    "name": "Marcq-en-Baroeul Airport",
     "latitude_deg": "50.687199",
     "longitude_deg": "3.07556",
     "elevation_ft": "69",
@@ -15,8 +15,8 @@
     "iata_code": "",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
-    "keywords": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Marcq-en-Baroeul_Airport",
+    "keywords": "Aérodrome de Lille/Marcq-en-Barœul, Aérodrome de Marcq-en-Barœul/Bondues, Advanced Landing Ground B-57 Lille/Wambrechie",
     "runways": [
         {
             "id": "260353",

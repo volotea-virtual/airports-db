@@ -3,8 +3,8 @@
     "ident": "LFDT",
     "type": "small_airport",
     "name": "Aérodrome de Tarbes Laloubère",
-    "latitude_deg": "43.216099",
-    "longitude_deg": "0.078611",
+    "latitude_deg": "43.215269",
+    "longitude_deg": "0.077304",
     "elevation_ft": "1076",
     "continent": "EU",
     "iso_country": "FR",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "XTB",
     "runways": [
         {
             "id": "260042",

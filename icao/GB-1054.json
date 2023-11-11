@@ -7,8 +7,8 @@
     "longitude_deg": "-6.9959",
     "elevation_ft": "",
     "continent": "EU",
-    "iso_country": "GB",
-    "iso_region": "GB-NIR",
+    "iso_country": "IE",
+    "iso_region": "IE-CN",
     "municipality": "",
     "scheduled_service": "no",
     "gps_code": "",
@@ -18,21 +18,21 @@
     "wikipedia_link": "",
     "keywords": "",
     "country": {
-        "id": "302688",
-        "code": "GB",
-        "name": "United Kingdom",
+        "id": "302694",
+        "code": "IE",
+        "name": "Ireland",
         "continent": "EU",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/United_Kingdom",
-        "keywords": "Great Britain"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Ireland",
+        "keywords": "Eire"
     },
     "region": {
-        "id": "306375",
-        "code": "GB-NIR",
-        "local_code": "NIR",
-        "name": "Northern Ireland",
+        "id": "304131",
+        "code": "IE-CN",
+        "local_code": "CN",
+        "name": "County Cavan",
         "continent": "EU",
-        "iso_country": "GB",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Northern_Ireland",
-        "keywords": "keep"
+        "iso_country": "IE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Cavan",
+        "keywords": "Airports in County Cavan"
     }
 }
