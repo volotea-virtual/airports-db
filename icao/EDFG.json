@@ -3,8 +3,8 @@
     "ident": "EDFG",
     "type": "small_airport",
     "name": "Gelnhausen Airport",
-    "latitude_deg": "50.19722366333008",
-    "longitude_deg": "9.170000076293945",
+    "latitude_deg": "50.196738",
+    "longitude_deg": "9.167061",
     "elevation_ft": "446",
     "continent": "EU",
     "iso_country": "DE",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Flugplatz Gelnhausen, Verkehrslandeplatz Gelnhausen",
     "runways": [
         {
             "id": "259755",

@@ -1,0 +1,38 @@
+{
+    "id": "514692",
+    "ident": "RS-0023",
+    "type": "small_airport",
+    "name": "Vranje Airfield",
+    "latitude_deg": "42.55331",
+    "longitude_deg": "21.86699",
+    "elevation_ft": "1886",
+    "continent": "EU",
+    "iso_country": "RS",
+    "iso_region": "RS-24",
+    "municipality": "Vranje",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302713",
+        "code": "RS",
+        "name": "Serbia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Serbia",
+        "keywords": "Serb"
+    },
+    "region": {
+        "id": "306614",
+        "code": "RS-24",
+        "local_code": "24",
+        "name": "Pčinja District",
+        "continent": "EU",
+        "iso_country": "RS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pčinja_District",
+        "keywords": "Airports in Pčinja District"
+    }
+}

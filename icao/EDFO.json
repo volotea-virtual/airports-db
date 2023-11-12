@@ -2,9 +2,9 @@
     "id": "28648",
     "ident": "EDFO",
     "type": "small_airport",
-    "name": "Flugplatz Michelstadt/Odenwald",
-    "latitude_deg": "49.678612",
-    "longitude_deg": "8.971944",
+    "name": "Michelstadt-Odenwald Airfield",
+    "latitude_deg": "49.678466",
+    "longitude_deg": "8.971614",
     "elevation_ft": "1142",
     "continent": "EU",
     "iso_country": "DE",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "http://de.wikipedia.org/wiki/Flugplatz_Michelstadt",
-    "keywords": "",
+    "keywords": "Flugplatz Michelstadt/Odenwald",
     "runways": [
         {
             "id": "326316",

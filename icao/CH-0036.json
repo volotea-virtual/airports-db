@@ -1,0 +1,38 @@
+{
+    "id": "514706",
+    "ident": "CH-0036",
+    "type": "closed",
+    "name": "Hagenbuch Airport",
+    "latitude_deg": "47.51852",
+    "longitude_deg": "8.87139",
+    "elevation_ft": "1860",
+    "continent": "EU",
+    "iso_country": "CH",
+    "iso_region": "CH-ZH",
+    "municipality": "Hagenbuch",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Flugplatz Hagenbuch",
+    "country": {
+        "id": "302679",
+        "code": "CH",
+        "name": "Switzerland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Switzerland",
+        "keywords": "Aéroports de la Suisse,Flughäfen der Schweiz"
+    },
+    "region": {
+        "id": "303378",
+        "code": "CH-ZH",
+        "local_code": "ZH",
+        "name": "Zürich",
+        "continent": "EU",
+        "iso_country": "CH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Canton_of_Z%C3%BCrich",
+        "keywords": "Airports in Canton of Zurich"
+    }
+}
