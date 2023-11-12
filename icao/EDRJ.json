@@ -2,7 +2,7 @@
     "id": "28711",
     "ident": "EDRJ",
     "type": "small_airport",
-    "name": "Flugplatz Saarlouis-Düren",
+    "name": "Saarlouis-Düren Airport",
     "latitude_deg": "49.3125",
     "longitude_deg": "6.674444",
     "elevation_ft": "1119",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Flugplatz Saarlouis-Düren",
     "runways": [
         {
             "id": "259819",

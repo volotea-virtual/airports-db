@@ -1,0 +1,38 @@
+{
+    "id": "514689",
+    "ident": "DE-0606",
+    "type": "heliport",
+    "name": "ADAC Air Rescue Station Leipzig/Schkeuditz-Dölzig Heliport (Christoph 61)",
+    "latitude_deg": "51.35124",
+    "longitude_deg": "12.19252",
+    "elevation_ft": "367",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-SN",
+    "municipality": "Schkeuditz",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303560",
+        "code": "DE-SN",
+        "local_code": "SN",
+        "name": "Saxony",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Saxony",
+        "keywords": "Sachsen"
+    }
+}

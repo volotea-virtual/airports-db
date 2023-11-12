@@ -2,9 +2,9 @@
     "id": "28529",
     "ident": "EDSL",
     "type": "small_airport",
-    "name": "Flugplatz Blumberg",
-    "latitude_deg": "47.844166",
-    "longitude_deg": "8.565",
+    "name": "Blumberg Airport",
+    "latitude_deg": "47.843676",
+    "longitude_deg": "8.564344",
     "elevation_ft": "2290",
     "continent": "EU",
     "iso_country": "DE",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Flugplatz Blumberg",
     "runways": [
         {
             "id": "259739",

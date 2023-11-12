@@ -1,0 +1,38 @@
+{
+    "id": "514698",
+    "ident": "GR-0076",
+    "type": "heliport",
+    "name": "Mount Athos Health Center Heliport",
+    "latitude_deg": "40.259868",
+    "longitude_deg": "24.245818",
+    "elevation_ft": "1204",
+    "continent": "AS",
+    "iso_country": "GR",
+    "iso_region": "GR-B",
+    "municipality": "Karyes",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302691",
+        "code": "GR",
+        "name": "Greece",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Greece",
+        "keywords": "αεροδρόμια στην Ελλάδα"
+    },
+    "region": {
+        "id": "430179",
+        "code": "GR-B",
+        "local_code": "B",
+        "name": "Central Macedonia",
+        "continent": "EU",
+        "iso_country": "GR",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Central_Macedonia",
+        "keywords": "Κεντρική Μακεδονία"
+    }
+}

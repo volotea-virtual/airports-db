@@ -1,0 +1,38 @@
+{
+    "id": "514695",
+    "ident": "RS-0025",
+    "type": "heliport",
+    "name": "Vranje Military Heliport",
+    "latitude_deg": "42.55397",
+    "longitude_deg": "21.90995",
+    "elevation_ft": "1551",
+    "continent": "EU",
+    "iso_country": "RS",
+    "iso_region": "RS-24",
+    "municipality": "Vranje",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302713",
+        "code": "RS",
+        "name": "Serbia",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Serbia",
+        "keywords": "Serb"
+    },
+    "region": {
+        "id": "306614",
+        "code": "RS-24",
+        "local_code": "24",
+        "name": "Pčinja District",
+        "continent": "EU",
+        "iso_country": "RS",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pčinja_District",
+        "keywords": "Airports in Pčinja District"
+    }
+}
