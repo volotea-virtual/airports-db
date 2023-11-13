@@ -2,7 +2,7 @@
     "id": "342323",
     "ident": "FR-0470",
     "type": "small_airport",
-    "name": "Aérodrome d'Albé - Val de Villé",
+    "name": "Albé-Val de Villé Airport",
     "latitude_deg": "48.349158",
     "longitude_deg": "7.330171",
     "elevation_ft": "1247",
@@ -16,7 +16,7 @@
     "local_code": "LF6721",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Aérodrome d'Albé - Val de Villé",
     "country": {
         "id": "302687",
         "code": "FR",
