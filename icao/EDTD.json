@@ -2,7 +2,7 @@
     "id": "2273",
     "ident": "EDTD",
     "type": "medium_airport",
-    "name": "Flugplatz Donaueschingen-Villingen",
+    "name": "Donaueschingen-Villingen Airport",
     "latitude_deg": "47.973331",
     "longitude_deg": "8.522222",
     "elevation_ft": "2231",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "http://www.flugplatz-donaueschingen.de/",
     "wikipedia_link": "http://de.wikipedia.org/wiki/Flugplatz_Donaueschingen-Villingen",
-    "keywords": "",
+    "keywords": "Flugplatz Donaueschingen-Villingen",
     "runways": [
         {
             "id": "236262",

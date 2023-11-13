@@ -2,7 +2,7 @@
     "id": "2271",
     "ident": "EDSN",
     "type": "small_airport",
-    "name": "Flugplatz Neuhausen ob Eck",
+    "name": "Neuhausen ob Eck Airport",
     "latitude_deg": "47.976665",
     "longitude_deg": "8.903889",
     "elevation_ft": "2638",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Flugplatz Neuhausen ob Eck",
     "runways": [
         {
             "id": "236173",

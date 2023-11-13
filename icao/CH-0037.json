@@ -1,0 +1,38 @@
+{
+    "id": "514750",
+    "ident": "CH-0037",
+    "type": "heliport",
+    "name": "Münsterlingen Hospital Heliport",
+    "latitude_deg": "47.63033",
+    "longitude_deg": "9.23818",
+    "elevation_ft": "1355",
+    "continent": "EU",
+    "iso_country": "CH",
+    "iso_region": "CH-TG",
+    "municipality": "Münsterlingen",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "",
+    "country": {
+        "id": "302679",
+        "code": "CH",
+        "name": "Switzerland",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Switzerland",
+        "keywords": "Aéroports de la Suisse,Flughäfen der Schweiz"
+    },
+    "region": {
+        "id": "303371",
+        "code": "CH-TG",
+        "local_code": "TG",
+        "name": "Thurgau",
+        "continent": "EU",
+        "iso_country": "CH",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Thurgau",
+        "keywords": "Airports in Canton of Thurgaum, Thurgovia, Thurgovie, Turgovia"
+    }
+}
