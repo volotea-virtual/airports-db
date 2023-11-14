@@ -2,7 +2,7 @@
     "id": "30581",
     "ident": "LKZB",
     "type": "small_airport",
-    "name": "Letiště Zbraslavice",
+    "name": "Zbraslavice Airport",
     "latitude_deg": "49.814201",
     "longitude_deg": "15.2017",
     "elevation_ft": "1621",
@@ -16,7 +16,7 @@
     "local_code": "",
     "home_link": "",
     "wikipedia_link": "https://en.wikipedia.org/wiki/Zbraslavice_Airport",
-    "keywords": "",
+    "keywords": "Letiště Zbraslavice",
     "runways": [
         {
             "id": "330796",

@@ -8,7 +8,7 @@
     "elevation_ft": "854",
     "continent": "SA",
     "iso_country": "EC",
-    "iso_region": "EC-Y",
+    "iso_region": "EC-S",
     "municipality": "Mashuin",
     "scheduled_service": "no",
     "gps_code": "SEHN",
@@ -26,13 +26,13 @@
         "keywords": "Aeropuertos de Ecuador"
     },
     "region": {
-        "id": "303673",
-        "code": "EC-Y",
-        "local_code": "Y",
-        "name": "Pastaza Province",
+        "id": "303667",
+        "code": "EC-S",
+        "local_code": "S",
+        "name": "Morona-Santiago Province",
         "continent": "SA",
         "iso_country": "EC",
-        "wikipedia_link": "https://en.wikipedia.org/wiki/Pastaza_Province",
-        "keywords": "Airports in Pastaza Province"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Morona-Santiago_Province",
+        "keywords": "Airports in Morona-Santiago Province"
     }
 }

@@ -1,0 +1,38 @@
+{
+    "id": "514772",
+    "ident": "DE-0614",
+    "type": "heliport",
+    "name": "Barmherzige Brüder (Brothers of Mercy) Hospital Regensburg Heliport",
+    "latitude_deg": "49.01728",
+    "longitude_deg": "12.06322",
+    "elevation_ft": "",
+    "continent": "EU",
+    "iso_country": "DE",
+    "iso_region": "DE-BY",
+    "municipality": "Regensburg",
+    "scheduled_service": "no",
+    "gps_code": "",
+    "iata_code": "",
+    "local_code": "",
+    "home_link": "",
+    "wikipedia_link": "",
+    "keywords": "Hubschrauberlandeplatz Barmherzige Brüder Regensburg",
+    "country": {
+        "id": "302681",
+        "code": "DE",
+        "name": "Germany",
+        "continent": "EU",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Germany",
+        "keywords": "Flughäfen in Deutschland"
+    },
+    "region": {
+        "id": "303550",
+        "code": "DE-BY",
+        "local_code": "BY",
+        "name": "Bavaria",
+        "continent": "EU",
+        "iso_country": "DE",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bavaria",
+        "keywords": "Bayern"
+    }
+}

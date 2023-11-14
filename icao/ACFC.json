@@ -2,21 +2,21 @@
     "id": "507217",
     "ident": "ACFC",
     "type": "small_airport",
-    "name": "Angeles City Flying Club",
+    "name": "Woodland Airpark",
     "latitude_deg": "15.254326",
     "longitude_deg": "120.677772",
     "elevation_ft": "100",
     "continent": "AS",
     "iso_country": "PH",
-    "iso_region": "PH-U-A",
-    "municipality": "MG",
+    "iso_region": "PH-PAM",
+    "municipality": "Magalang",
     "scheduled_service": "no",
-    "gps_code": "ACFC",
-    "iata_code": "AFC",
+    "gps_code": "",
+    "iata_code": "",
     "local_code": "",
     "home_link": "https://angelesflying.com/",
     "wikipedia_link": "",
-    "keywords": "acfc, magalang, pampanga, grassstrip",
+    "keywords": "ACFC, Angeles City Flying Club, grassstrip, Gordon Boyce Airfield",
     "runways": [
         {
             "id": "512645",
@@ -60,13 +60,13 @@
         "keywords": "Mga alternatibong byahe mula sa Pilipinas"
     },
     "region": {
-        "id": "305129",
-        "code": "PH-U-A",
-        "local_code": "U-A",
-        "name": "(unassigned)",
+        "id": "305111",
+        "code": "PH-PAM",
+        "local_code": "PAM",
+        "name": "Pampanga Province",
         "continent": "AS",
         "iso_country": "PH",
-        "wikipedia_link": "",
-        "keywords": "Airports in (unassigned)"
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Pampanga_Province",
+        "keywords": "Airports in Pampanga Province"
     }
 }

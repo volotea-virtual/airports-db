@@ -2,7 +2,7 @@
     "id": "342325",
     "ident": "FR-0471",
     "type": "small_airport",
-    "name": "Base ULM de Salmbach",
+    "name": "Salmbach Ultralightport",
     "latitude_deg": "48.967949",
     "longitude_deg": "8.070563",
     "elevation_ft": "508",
@@ -16,7 +16,7 @@
     "local_code": "LF6723",
     "home_link": "",
     "wikipedia_link": "",
-    "keywords": "",
+    "keywords": "Base ULM de Salmbach",
     "country": {
         "id": "302687",
         "code": "FR",
