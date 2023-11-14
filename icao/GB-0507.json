@@ -1,10 +1,10 @@
 {
     "id": "323511",
     "ident": "GB-0507",
-    "type": "small_airport",
+    "type": "closed",
     "name": "Lodge Farm Airstrip",
-    "latitude_deg": "52.2348172",
-    "longitude_deg": "-1.0144367",
+    "latitude_deg": "52.234817",
+    "longitude_deg": "-1.014437",
     "elevation_ft": "",
     "continent": "EU",
     "iso_country": "GB",

@@ -3,8 +3,8 @@
     "ident": "URB",
     "type": "closed",
     "name": "Urubupunga Airport",
-    "latitude_deg": "-20.777099609375",
-    "longitude_deg": "-51.564800262451",
+    "latitude_deg": "-20.7771",
+    "longitude_deg": "-51.5648",
     "elevation_ft": "1169",
     "continent": "SA",
     "iso_country": "BR",
@@ -15,7 +15,7 @@
     "iata_code": "",
     "local_code": "",
     "home_link": "",
-    "wikipedia_link": "",
+    "wikipedia_link": "https://en.wikipedia.org/wiki/Urubupung%C3%A1_Airport",
     "keywords": "SBUP, URB",
     "runways": [
         {
