@@ -20,7 +20,7 @@ The repository will be updated automatically every day at 7:00 UTC. You can get 
 
 ## How to use it?
 
-> Haugesund International Airport, Karmøy [ENHD](https://github.com/volotea-virtual/airports-db/blob/main/icao/ENHD.json)
+> Marco Polo International Airport, Venice [LIPZ](https://github.com/volotea-virtual/airports-db/blob/main/icao/LIPZ.json)
 
 The main idea of this repository is to get the `JSON` data about the airport by using its ICAO code.
 
